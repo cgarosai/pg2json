@@ -1,0 +1,10 @@
+{
+    "id": 400002,
+    "name": "nw",
+    "version": "0.26.5",
+    "created_at": "2019-10-15T13:44:02",
+    "updated_at": "2019-10-15T13:44:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nwjs:nw:0.26.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

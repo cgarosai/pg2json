@@ -1,0 +1,10 @@
+{
+    "id": 887098,
+    "name": "ssl312_firmware",
+    "version": "fvs336gv3",
+    "created_at": "2022-05-19T14:34:06",
+    "updated_at": "2022-10-04T16:26:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:ssl312_firmware:fvs336gv3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 499173,
+    "name": "te60_firmware",
+    "version": "v500r002c00spce00",
+    "created_at": "2020-02-20T17:29:57",
+    "updated_at": "2020-02-20T17:29:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:te60_firmware:v500r002c00spce00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

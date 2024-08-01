@@ -1,0 +1,10 @@
+{
+    "id": 859533,
+    "name": "bigfix_insights",
+    "version": "10.0.8.0",
+    "created_at": "2022-03-09T14:05:07",
+    "updated_at": "2022-03-11T15:04:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:bigfix_insights:10.0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

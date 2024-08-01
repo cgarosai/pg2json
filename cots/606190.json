@@ -1,0 +1,10 @@
+{
+    "id": 606190,
+    "name": "handlebars",
+    "version": "1.0.6",
+    "created_at": "2020-10-02T15:12:27",
+    "updated_at": "2020-10-02T15:12:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:handlebarsjs:handlebars:1.0.6:-:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

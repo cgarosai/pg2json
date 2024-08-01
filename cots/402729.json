@@ -1,0 +1,10 @@
+{
+    "id": 402729,
+    "name": "stroom",
+    "version": "5.0",
+    "created_at": "2019-10-16T16:57:51",
+    "updated_at": "2019-10-16T16:57:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gchq:stroom:5.0:beta37:*:*:*:*:*:*",
+    "to_analyse": false
+}

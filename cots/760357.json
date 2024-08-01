@@ -1,0 +1,10 @@
+{
+    "id": 760357,
+    "name": "edit_comments",
+    "version": "-",
+    "created_at": "2021-08-25T18:33:41",
+    "updated_at": "2021-08-26T12:03:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:edit_comments_project:edit_comments:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

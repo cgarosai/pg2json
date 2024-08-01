@@ -1,0 +1,10 @@
+{
+    "id": 95608,
+    "name": "pam_s\\/key",
+    "version": "-",
+    "created_at": "2014-04-29T09:00:23",
+    "updated_at": "2014-04-29T17:51:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dkorunic:pam_s\\/key:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

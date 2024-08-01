@@ -1,0 +1,10 @@
+{
+    "id": 238415,
+    "name": "350x_series_managed_switches_firmware",
+    "version": "2.5.0.78",
+    "created_at": "2019-05-06T14:23:37",
+    "updated_at": "2021-04-15T10:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:350x_series_managed_switches_firmware:2.5.0.78:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

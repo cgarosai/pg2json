@@ -1,0 +1,10 @@
+{
+    "id": 10002,
+    "name": "content_switching_module_with_ssl",
+    "version": "2.1",
+    "created_at": "2007-09-11T22:35:32",
+    "updated_at": "2008-04-01T12:40:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:content_switching_module_with_ssl:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

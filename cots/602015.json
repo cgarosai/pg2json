@@ -1,0 +1,10 @@
+{
+    "id": 602015,
+    "name": "shared_objects",
+    "version": "0.21",
+    "created_at": "2020-10-13T10:14:01",
+    "updated_at": "2020-10-13T10:14:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:shared_objects:0.21:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

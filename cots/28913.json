@@ -1,0 +1,10 @@
+{
+    "id": 28913,
+    "name": "realplayer",
+    "version": "11.0",
+    "created_at": "2009-11-25T17:27:19",
+    "updated_at": "2009-11-25T17:27:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:realnetworks:realplayer:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

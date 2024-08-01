@@ -1,0 +1,10 @@
+{
+    "id": 264721,
+    "name": "netweaver_internet_transaction_server",
+    "version": "-",
+    "created_at": "2019-06-19T21:24:10",
+    "updated_at": "2019-06-19T21:24:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_internet_transaction_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

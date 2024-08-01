@@ -1,0 +1,10 @@
+{
+    "id": 887127,
+    "name": "core_i9-12950hx_firmware",
+    "version": "-",
+    "created_at": "2022-05-19T17:20:44",
+    "updated_at": "2022-05-19T22:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i9-12950hx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

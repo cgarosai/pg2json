@@ -1,0 +1,10 @@
+{
+    "id": 184701,
+    "name": "emergency_responder",
+    "version": "12.0\\(1.40000.3\\)",
+    "created_at": "2018-11-26T15:48:30",
+    "updated_at": "2021-04-09T12:13:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:emergency_responder:12.0\\(1.40000.3\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

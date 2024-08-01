@@ -1,0 +1,10 @@
+{
+    "id": 640811,
+    "name": "securechange",
+    "version": "r18-2",
+    "created_at": "2021-01-22T19:34:22",
+    "updated_at": "2021-01-22T19:34:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tufin:securechange:r18-2:hotfix3:*:*:*:*:*:*",
+    "to_analyse": false
+}

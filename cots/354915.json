@@ -1,0 +1,10 @@
+{
+    "id": 354915,
+    "name": "ipcam_firmware",
+    "version": "-",
+    "created_at": "2019-09-10T22:58:45",
+    "updated_at": "2021-07-01T15:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vivotek:ipcam_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

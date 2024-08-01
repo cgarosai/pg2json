@@ -1,0 +1,10 @@
+{
+    "id": 10485,
+    "name": "powerdvd",
+    "version": "-",
+    "created_at": "2007-10-05T16:12:16",
+    "updated_at": "2007-10-05T16:12:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyberlink:powerdvd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 330618,
+    "name": "eggplant",
+    "version": "-",
+    "created_at": "2019-08-14T17:16:00",
+    "updated_at": "2019-08-14T17:16:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:eggplant:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 809148,
+    "name": "remote_desktop",
+    "version": "1.2.2223",
+    "created_at": "2021-11-10T13:28:54",
+    "updated_at": "2021-11-10T15:08:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:remote_desktop:1.2.2223:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

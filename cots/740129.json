@@ -1,0 +1,10 @@
+{
+    "id": 740129,
+    "name": "filebird",
+    "version": "1.0",
+    "created_at": "2021-07-23T12:28:02",
+    "updated_at": "2021-07-26T14:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ninjateam:filebird:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

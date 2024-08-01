@@ -1,0 +1,10 @@
+{
+    "id": 184277,
+    "name": "ams_device_manager",
+    "version": "1.2",
+    "created_at": "2018-11-26T13:57:32",
+    "updated_at": "2018-11-26T13:57:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emerson:ams_device_manager:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

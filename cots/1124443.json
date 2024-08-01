@@ -1,0 +1,10 @@
+{
+    "id": 1124443,
+    "name": "dietpi-dashboard",
+    "version": "0.6.1",
+    "created_at": "2023-08-03T09:45:37",
+    "updated_at": "2023-08-19T01:58:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dietpi-dashboard_project:dietpi-dashboard:0.6.1:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

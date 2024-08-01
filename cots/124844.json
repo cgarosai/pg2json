@@ -1,0 +1,10 @@
+{
+    "id": 124844,
+    "name": "elan_touchpad_driver",
+    "version": "11.4.1.6",
+    "created_at": "2017-09-12T13:36:43",
+    "updated_at": "2021-05-24T14:26:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:elan_touchpad_driver:11.4.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

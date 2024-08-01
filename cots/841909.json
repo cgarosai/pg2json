@@ -1,0 +1,10 @@
+{
+    "id": 841909,
+    "name": "ac_8265_firmware",
+    "version": "22.80",
+    "created_at": "2022-02-15T15:14:34",
+    "updated_at": "2022-02-15T17:18:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ac_8265_firmware:22.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

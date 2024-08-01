@@ -1,0 +1,10 @@
+{
+    "id": 592661,
+    "name": "misp",
+    "version": "2.4.132",
+    "created_at": "2020-09-22T17:22:33",
+    "updated_at": "2020-09-22T17:22:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:misp:misp:2.4.132:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 816116,
+    "name": "spree_auth_devise",
+    "version": "1.0.0",
+    "created_at": "2021-11-22T19:58:00",
+    "updated_at": "2021-11-22T23:31:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spreecommerce:spree_auth_devise:1.0.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

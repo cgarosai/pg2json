@@ -1,0 +1,10 @@
+{
+    "id": 642324,
+    "name": "whatsapp",
+    "version": "2.18.150",
+    "created_at": "2021-01-26T16:42:57",
+    "updated_at": "2021-01-26T16:42:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whatsapp:whatsapp:2.18.150:*:*:*:business:android:*:*",
+    "to_analyse": false
+}

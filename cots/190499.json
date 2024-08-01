@@ -1,0 +1,10 @@
+{
+    "id": 190499,
+    "name": "marketing_sapscore",
+    "version": "1.13",
+    "created_at": "2019-01-04T13:48:20",
+    "updated_at": "2021-05-10T14:36:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:marketing_sapscore:1.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

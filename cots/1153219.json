@@ -1,0 +1,10 @@
+{
+    "id": 1153219,
+    "name": "graphql",
+    "version": "15.2.0",
+    "created_at": "2023-09-22T15:44:12",
+    "updated_at": "2023-09-22T15:44:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:graphql:graphql:15.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

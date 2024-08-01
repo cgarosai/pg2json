@@ -1,0 +1,10 @@
+{
+    "id": 491368,
+    "name": "simatic_cp_343-1_erpc_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T14:00:50",
+    "updated_at": "2020-02-24T14:00:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_cp_343-1_erpc_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

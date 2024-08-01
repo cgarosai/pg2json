@@ -1,0 +1,10 @@
+{
+    "id": 604533,
+    "name": "bios",
+    "version": "-",
+    "created_at": "2020-10-23T15:59:25",
+    "updated_at": "2020-10-23T15:59:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:bios:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

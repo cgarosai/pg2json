@@ -1,0 +1,10 @@
+{
+    "id": 424173,
+    "name": "protobufjs",
+    "version": "0.9.13",
+    "created_at": "2019-11-08T16:23:46",
+    "updated_at": "2019-11-08T16:23:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protobufjs_project:protobufjs:0.9.13:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 980724,
+    "name": "ip_phone_7841_firmware",
+    "version": "9.3\\(4\\)sr2",
+    "created_at": "2022-12-12T16:32:31",
+    "updated_at": "2022-12-12T17:24:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_7841_firmware:9.3\\(4\\)sr2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

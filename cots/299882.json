@@ -1,0 +1,10 @@
+{
+    "id": 299882,
+    "name": "paypal_checkout_payment_gateway",
+    "version": "1.6.0",
+    "created_at": "2019-07-15T16:49:39",
+    "updated_at": "2019-07-15T16:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:1.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

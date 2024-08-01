@@ -1,0 +1,10 @@
+{
+    "id": 640398,
+    "name": "runner",
+    "version": "1.6.0",
+    "created_at": "2021-01-21T16:17:24",
+    "updated_at": "2021-01-21T16:17:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitlab:runner:1.6.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

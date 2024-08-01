@@ -1,0 +1,10 @@
+{
+    "id": 849955,
+    "name": "java_se",
+    "version": "8u311",
+    "created_at": "2022-02-09T15:08:11",
+    "updated_at": "2022-05-23T12:47:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:java_se:8u311:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 849279,
+    "name": "lru",
+    "version": "0.5.3",
+    "created_at": "2022-02-09T12:51:54",
+    "updated_at": "2022-02-09T12:52:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lru_project:lru:0.5.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

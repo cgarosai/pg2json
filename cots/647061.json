@@ -1,0 +1,10 @@
+{
+    "id": 647061,
+    "name": "oniguruma",
+    "version": "6.9.5",
+    "created_at": "2021-01-11T14:01:02",
+    "updated_at": "2021-01-11T14:01:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.5:revised_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

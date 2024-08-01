@@ -1,0 +1,10 @@
+{
+    "id": 558430,
+    "name": "ruckus_zoneflex_r500_firmware",
+    "version": "3.4.2.0.384",
+    "created_at": "2020-06-05T13:06:32",
+    "updated_at": "2020-06-05T13:06:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:commscope:ruckus_zoneflex_r500_firmware:3.4.2.0.384:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

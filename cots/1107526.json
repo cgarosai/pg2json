@@ -1,0 +1,10 @@
+{
+    "id": 1107526,
+    "name": "bridge",
+    "version": "1.4.9",
+    "created_at": "2023-06-21T12:50:02",
+    "updated_at": "2023-06-21T14:07:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:edwiser:bridge:1.4.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

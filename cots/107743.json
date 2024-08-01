@@ -1,0 +1,10 @@
+{
+    "id": 107743,
+    "name": "netbackup_opscenter",
+    "version": "7.6.0.4",
+    "created_at": "2015-03-06T14:05:57",
+    "updated_at": "2015-03-25T17:39:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:netbackup_opscenter:7.6.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

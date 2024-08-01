@@ -1,0 +1,10 @@
+{
+    "id": 768486,
+    "name": "media_usage",
+    "version": "-",
+    "created_at": "2021-08-23T12:24:26",
+    "updated_at": "2021-08-23T15:07:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:meowapps:media_usage:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

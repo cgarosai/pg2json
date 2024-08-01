@@ -1,0 +1,10 @@
+{
+    "id": 295498,
+    "name": "field_as_block",
+    "version": "7.x-1.4",
+    "created_at": "2019-07-12T10:22:33",
+    "updated_at": "2019-07-12T10:22:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:field_as_block_project:field_as_block:7.x-1.4:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

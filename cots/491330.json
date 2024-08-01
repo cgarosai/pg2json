@@ -1,0 +1,10 @@
+{
+    "id": 491330,
+    "name": "scalance_x-400_firmware",
+    "version": "6.2.3",
+    "created_at": "2020-02-24T14:00:35",
+    "updated_at": "2020-02-24T14:00:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_x-400_firmware:6.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 125739,
+    "name": "dbd-mysql",
+    "version": "4.038_01",
+    "created_at": "2017-03-13T15:40:31",
+    "updated_at": "2021-08-09T11:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perl5-dbi:dbd-mysql:4.038_01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

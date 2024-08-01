@@ -1,0 +1,10 @@
+{
+    "id": 433260,
+    "name": "enterprise_linux_desktop",
+    "version": "8.0",
+    "created_at": "2019-11-20T18:51:10",
+    "updated_at": "2021-05-24T12:23:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_desktop:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

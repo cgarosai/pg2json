@@ -1,0 +1,10 @@
+{
+    "id": 144078,
+    "name": "7-zip",
+    "version": "9.06",
+    "created_at": "2018-05-24T11:28:04",
+    "updated_at": "2018-05-24T11:28:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:7-zip:7-zip:9.06:beta:*:*:*:windows:*:*",
+    "to_analyse": false
+}

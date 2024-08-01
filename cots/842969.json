@@ -1,0 +1,10 @@
+{
+    "id": 842969,
+    "name": "vm2",
+    "version": "3.9.6",
+    "created_at": "2022-02-16T16:27:32",
+    "updated_at": "2022-05-20T16:28:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vm2_project:vm2:3.9.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

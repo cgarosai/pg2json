@@ -1,0 +1,10 @@
+{
+    "id": 117341,
+    "name": "libpam-sshauth",
+    "version": "-",
+    "created_at": "2016-05-06T17:07:33",
+    "updated_at": "2021-04-01T11:30:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libpam-sshauth_project:libpam-sshauth:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

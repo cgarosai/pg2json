@@ -1,0 +1,10 @@
+{
+    "id": 452199,
+    "name": "thinkpad_x240s_firmware",
+    "version": "giet98ww",
+    "created_at": "2019-12-10T15:09:02",
+    "updated_at": "2019-12-10T15:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:giet98ww:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

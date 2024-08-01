@@ -1,0 +1,10 @@
+{
+    "id": 104082,
+    "name": "enterprise_manager_ops_center",
+    "version": "12.1.3",
+    "created_at": "2016-01-26T19:21:24",
+    "updated_at": "2016-01-26T19:21:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_manager_ops_center:12.1.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 52765,
+    "name": "websphere_portal",
+    "version": "8.0",
+    "created_at": "2012-07-04T10:46:05",
+    "updated_at": "2012-07-04T12:16:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_portal:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

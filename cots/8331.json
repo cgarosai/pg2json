@@ -1,0 +1,10 @@
+{
+    "id": 8331,
+    "name": "250s_video_server",
+    "version": "3.02",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T12:36:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:axis:250s_video_server:3.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

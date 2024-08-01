@@ -1,0 +1,10 @@
+{
+    "id": 551650,
+    "name": "arcsight_logger",
+    "version": "6.61",
+    "created_at": "2020-06-18T14:15:52",
+    "updated_at": "2020-06-18T14:15:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:arcsight_logger:6.61:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

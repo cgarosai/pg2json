@@ -1,0 +1,10 @@
+{
+    "id": 263598,
+    "name": "zend-mail",
+    "version": "2.4.8",
+    "created_at": "2019-06-18T17:17:11",
+    "updated_at": "2019-06-18T17:17:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zend:zend-mail:2.4.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

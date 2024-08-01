@@ -1,0 +1,10 @@
+{
+    "id": 447130,
+    "name": "pangolin_connector_for_testrail",
+    "version": "-",
+    "created_at": "2019-11-26T13:22:35",
+    "updated_at": "2019-11-26T13:22:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

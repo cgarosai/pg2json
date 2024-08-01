@@ -1,0 +1,10 @@
+{
+    "id": 965069,
+    "name": "meraki_mx75",
+    "version": "-",
+    "created_at": "2022-10-31T12:54:38",
+    "updated_at": "2022-10-31T13:17:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:meraki_mx75:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

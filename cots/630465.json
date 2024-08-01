@@ -1,0 +1,10 @@
+{
+    "id": 630465,
+    "name": "bladecenter_hs23_firmware",
+    "version": "tke170b",
+    "created_at": "2020-12-22T14:30:02",
+    "updated_at": "2020-12-22T14:30:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:bladecenter_hs23_firmware:tke170b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

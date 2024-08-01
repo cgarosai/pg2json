@@ -1,0 +1,10 @@
+{
+    "id": 1142437,
+    "name": "sliver",
+    "version": "1.5.11",
+    "created_at": "2023-09-01T11:12:31",
+    "updated_at": "2023-09-01T13:17:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bishopfox:sliver:1.5.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

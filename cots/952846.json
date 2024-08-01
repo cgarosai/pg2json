@@ -1,0 +1,10 @@
+{
+    "id": 952846,
+    "name": "train_scheduler_app",
+    "version": "1.0",
+    "created_at": "2022-10-27T11:05:44",
+    "updated_at": "2022-10-28T11:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:train_scheduler_app_project:train_scheduler_app:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

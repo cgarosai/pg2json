@@ -1,0 +1,10 @@
+{
+    "id": 586481,
+    "name": "thinkpad_x390_firmware",
+    "version": "2020-07-07",
+    "created_at": "2020-08-17T12:22:27",
+    "updated_at": "2020-08-17T12:22:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_x390_firmware:2020-07-07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

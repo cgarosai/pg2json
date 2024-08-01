@@ -1,0 +1,10 @@
+{
+    "id": 579841,
+    "name": "control_rte",
+    "version": "3.0",
+    "created_at": "2020-08-04T10:05:28",
+    "updated_at": "2020-08-04T10:05:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_rte:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

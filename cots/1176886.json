@@ -1,0 +1,10 @@
+{
+    "id": 1176886,
+    "name": "hot_rod",
+    "version": "-",
+    "created_at": "2023-10-10T15:42:38",
+    "updated_at": "2023-10-10T15:42:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infinispan:hot_rod:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

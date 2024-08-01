@@ -1,0 +1,10 @@
+{
+    "id": 535930,
+    "name": "big-ip_application_security_manager",
+    "version": "15.0.1.0.33.11",
+    "created_at": "2020-04-14T12:55:52",
+    "updated_at": "2020-04-14T12:55:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_application_security_manager:15.0.1.0.33.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

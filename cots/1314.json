@@ -1,0 +1,10 @@
+{
+    "id": 1314,
+    "name": "messaging",
+    "version": "1.05",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2021-04-09T16:25:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:messaging:1.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 633245,
+    "name": "nokogiri",
+    "version": "1.10.2",
+    "created_at": "2021-01-04T13:31:13",
+    "updated_at": "2021-01-04T13:31:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nokogiri:nokogiri:1.10.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

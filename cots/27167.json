@@ -1,0 +1,10 @@
+{
+    "id": 27167,
+    "name": "mod_chroot",
+    "version": "0.5",
+    "created_at": "2009-06-03T18:01:03",
+    "updated_at": "2009-06-03T18:01:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marek_gutkowski:mod_chroot:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

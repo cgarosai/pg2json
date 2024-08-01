@@ -1,0 +1,10 @@
+{
+    "id": 948814,
+    "name": "user_management",
+    "version": "12.2.11",
+    "created_at": "2022-09-28T15:03:55",
+    "updated_at": "2022-10-06T12:49:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:user_management:12.2.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

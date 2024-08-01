@@ -1,0 +1,10 @@
+{
+    "id": 169938,
+    "name": "gruntcli",
+    "version": "1.0.2",
+    "created_at": "2018-07-26T11:42:00",
+    "updated_at": "2018-07-26T11:42:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gruntcli_project:gruntcli:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 932512,
+    "name": "spectrum_wireless_battery_module_firmware",
+    "version": "20d29",
+    "created_at": "2022-09-15T09:19:31",
+    "updated_at": "2022-10-05T16:37:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:baxter:spectrum_wireless_battery_module_firmware:20d29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

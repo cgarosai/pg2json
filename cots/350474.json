@@ -1,0 +1,10 @@
+{
+    "id": 350474,
+    "name": "keepkey_firmware",
+    "version": "3.0.18",
+    "created_at": "2019-09-06T15:03:41",
+    "updated_at": "2020-01-07T14:40:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:keepkey:keepkey_firmware:3.0.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

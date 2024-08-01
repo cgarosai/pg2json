@@ -1,0 +1,10 @@
+{
+    "id": 711401,
+    "name": "pluck",
+    "version": "4.7.9",
+    "created_at": "2021-06-04T12:13:00",
+    "updated_at": "2021-06-04T12:19:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pluck-cms:pluck:4.7.9:dev4:*:*:*:*:*:*",
+    "to_analyse": false
+}

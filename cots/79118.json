@@ -1,0 +1,10 @@
+{
+    "id": 79118,
+    "name": "junos_space_ja1500_appliance",
+    "version": "-",
+    "created_at": "2013-05-09T10:32:40",
+    "updated_at": "2013-05-14T21:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:junos_space_ja1500_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

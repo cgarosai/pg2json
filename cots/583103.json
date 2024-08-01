@@ -1,0 +1,10 @@
+{
+    "id": 583103,
+    "name": "spacelynk_firmware",
+    "version": "2.1.0",
+    "created_at": "2020-09-01T10:13:59",
+    "updated_at": "2021-05-12T12:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:spacelynk_firmware:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

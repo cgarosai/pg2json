@@ -1,0 +1,10 @@
+{
+    "id": 169305,
+    "name": "batik",
+    "version": "1.8",
+    "created_at": "2018-07-19T11:36:52",
+    "updated_at": "2018-07-19T11:36:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:batik:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

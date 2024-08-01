@@ -1,0 +1,10 @@
+{
+    "id": 113968,
+    "name": "anti-virus",
+    "version": "16.0.0.614",
+    "created_at": "2017-01-10T00:17:03",
+    "updated_at": "2021-03-29T14:11:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:anti-virus:16.0.0.614:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

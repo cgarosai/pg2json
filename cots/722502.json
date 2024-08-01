@@ -1,0 +1,10 @@
+{
+    "id": 722502,
+    "name": "data-connector-rock",
+    "version": "2.13.2",
+    "created_at": "2021-06-24T09:32:43",
+    "updated_at": "2021-06-24T09:53:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apollosapp:data-connector-rock:2.13.2:canary23:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

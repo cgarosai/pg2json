@@ -1,0 +1,10 @@
+{
+    "id": 708333,
+    "name": "lync_server",
+    "version": "2013",
+    "created_at": "2021-05-13T12:27:02",
+    "updated_at": "2021-08-19T12:28:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:lync_server:2013:cumulative_update_10:*:*:*:*:*:*",
+    "to_analyse": false
+}

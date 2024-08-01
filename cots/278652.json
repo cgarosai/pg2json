@@ -1,0 +1,10 @@
+{
+    "id": 278652,
+    "name": "rendezvous_network_server",
+    "version": "1.0.0",
+    "created_at": "2019-06-25T13:15:58",
+    "updated_at": "2019-06-25T13:15:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:rendezvous_network_server:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

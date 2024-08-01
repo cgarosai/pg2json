@@ -1,0 +1,10 @@
+{
+    "id": 1191652,
+    "name": "extra_user_details",
+    "version": "0.5",
+    "created_at": "2023-11-16T19:53:03",
+    "updated_at": "2023-11-16T19:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vadimk:extra_user_details:0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1095249,
+    "name": "socket.io-parser",
+    "version": "4.2.3",
+    "created_at": "2023-06-02T15:20:19",
+    "updated_at": "2023-06-22T14:09:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:socket:socket.io-parser:4.2.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

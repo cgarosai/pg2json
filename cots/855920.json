@@ -1,0 +1,10 @@
+{
+    "id": 855920,
+    "name": "hcl_sametime",
+    "version": "11.6.5",
+    "created_at": "2022-03-01T15:12:14",
+    "updated_at": "2022-03-01T18:52:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:hcl_sametime:11.6.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

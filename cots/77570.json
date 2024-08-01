@@ -1,0 +1,10 @@
+{
+    "id": 77570,
+    "name": "subscription_asset_manager",
+    "version": "1.0.0",
+    "created_at": "2013-04-03T10:22:33",
+    "updated_at": "2013-04-09T19:30:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:subscription_asset_manager:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

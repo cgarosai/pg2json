@@ -1,0 +1,10 @@
+{
+    "id": 1105590,
+    "name": "snipping_tool",
+    "version": "11.0.0",
+    "created_at": "2023-06-20T10:32:32",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:snipping_tool:11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

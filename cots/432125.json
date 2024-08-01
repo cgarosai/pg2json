@@ -1,0 +1,10 @@
+{
+    "id": 432125,
+    "name": "openoffice",
+    "version": "2.2.0",
+    "created_at": "2019-11-20T12:46:30",
+    "updated_at": "2019-11-20T12:46:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:openoffice:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

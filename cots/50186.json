@@ -1,0 +1,10 @@
+{
+    "id": 50186,
+    "name": "aptdaemon",
+    "version": "0.41",
+    "created_at": "2012-06-05T16:24:28",
+    "updated_at": "2012-06-29T12:50:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sebastian_heinlein:aptdaemon:0.41:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

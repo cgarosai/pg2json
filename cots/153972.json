@@ -1,0 +1,10 @@
+{
+    "id": 153972,
+    "name": "netweaver_java_web_container_and_http_service_engine",
+    "version": "7.40",
+    "created_at": "2018-06-14T13:38:28",
+    "updated_at": "2021-05-10T15:11:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_java_web_container_and_http_service_engine:7.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

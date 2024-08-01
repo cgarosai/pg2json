@@ -1,0 +1,10 @@
+{
+    "id": 77662,
+    "name": "maven",
+    "version": "3.0.5",
+    "created_at": "2013-04-10T11:31:20",
+    "updated_at": "2013-04-12T11:50:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:maven:3.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

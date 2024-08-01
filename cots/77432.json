@@ -1,0 +1,10 @@
+{
+    "id": 77432,
+    "name": "yandex_metrics",
+    "version": "7.x-1.0",
+    "created_at": "2013-03-28T14:09:13",
+    "updated_at": "2013-04-02T15:01:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yandex.metrics_project:yandex_metrics:7.x-1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

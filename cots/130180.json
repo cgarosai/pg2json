@@ -1,0 +1,10 @@
+{
+    "id": 130180,
+    "name": "nport_5110_firmware",
+    "version": "2.7",
+    "created_at": "2017-12-01T19:13:19",
+    "updated_at": "2021-04-16T12:11:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_5110_firmware:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1268314,
+    "name": "command-line",
+    "version": "1.12.5",
+    "created_at": "2024-03-25T16:46:31",
+    "updated_at": "2024-03-25T16:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1password:command-line:1.12.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

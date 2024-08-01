@@ -1,0 +1,10 @@
+{
+    "id": 474045,
+    "name": "libwav",
+    "version": "2016-10-19",
+    "created_at": "2020-01-27T15:59:08",
+    "updated_at": "2020-01-27T15:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libwav_project:libwav:2016-10-19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

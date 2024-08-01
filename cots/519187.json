@@ -1,0 +1,10 @@
+{
+    "id": 519187,
+    "name": "remote_console",
+    "version": "11.0.0",
+    "created_at": "2020-03-23T11:35:23",
+    "updated_at": "2020-03-23T11:35:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:remote_console:11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

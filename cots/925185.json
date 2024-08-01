@@ -1,0 +1,10 @@
+{
+    "id": 925185,
+    "name": "gateway",
+    "version": "-",
+    "created_at": "2022-08-17T12:21:10",
+    "updated_at": "2022-08-17T15:04:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aviatrix:gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

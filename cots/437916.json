@@ -1,0 +1,10 @@
+{
+    "id": 437916,
+    "name": "pfsense",
+    "version": "2.2.6",
+    "created_at": "2019-11-14T17:55:52",
+    "updated_at": "2019-11-14T17:55:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pfsense:pfsense:2.2.6:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

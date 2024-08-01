@@ -1,0 +1,10 @@
+{
+    "id": 530870,
+    "name": "r6900_firmware",
+    "version": "1.2.0.4",
+    "created_at": "2020-04-28T12:29:26",
+    "updated_at": "2020-04-28T12:29:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6900_firmware:1.2.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

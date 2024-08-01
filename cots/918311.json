@@ -1,0 +1,10 @@
+{
+    "id": 918311,
+    "name": "application_detector",
+    "version": "1.0.8",
+    "created_at": "2022-08-01T14:37:44",
+    "updated_at": "2022-08-01T14:57:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:application_detector:1.0.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 88385,
+    "name": "visual_studio_team_foundation_server",
+    "version": "2013",
+    "created_at": "2013-12-11T17:23:24",
+    "updated_at": "2013-12-11T17:27:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio_team_foundation_server:2013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 53950,
+    "name": "java_db",
+    "version": "10.5.3.0",
+    "created_at": "2012-07-10T01:20:46",
+    "updated_at": "2012-07-10T01:20:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:java_db:10.5.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

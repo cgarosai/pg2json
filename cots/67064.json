@@ -1,0 +1,10 @@
+{
+    "id": 67064,
+    "name": "imail_server",
+    "version": "8.2",
+    "created_at": "2012-08-16T12:52:45",
+    "updated_at": "2012-08-20T16:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:imail_server:8.2:hotfix2:*:*:*:*:*:*",
+    "to_analyse": false
+}

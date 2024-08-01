@@ -1,0 +1,10 @@
+{
+    "id": 617673,
+    "name": "suse_linux_enterprise_server",
+    "version": "11.0",
+    "created_at": "2020-11-04T18:48:49",
+    "updated_at": "2020-11-04T18:48:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:novell:suse_linux_enterprise_server:11.0:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

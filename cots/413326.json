@@ -1,0 +1,10 @@
+{
+    "id": 413326,
+    "name": "akka",
+    "version": "2.3.6",
+    "created_at": "2019-10-30T17:49:57",
+    "updated_at": "2019-10-30T17:49:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:akka:akka:2.3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

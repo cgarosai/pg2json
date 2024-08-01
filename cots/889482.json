@@ -1,0 +1,10 @@
+{
+    "id": 889482,
+    "name": "ryzen_7_5700x",
+    "version": "-",
+    "created_at": "2022-05-31T05:23:32",
+    "updated_at": "2022-07-06T13:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen_7_5700x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

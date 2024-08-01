@@ -1,0 +1,10 @@
+{
+    "id": 1148027,
+    "name": "rex_250_firmware",
+    "version": "-",
+    "created_at": "2023-08-23T18:05:43",
+    "updated_at": "2023-08-29T13:36:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:helmholz:rex_250_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

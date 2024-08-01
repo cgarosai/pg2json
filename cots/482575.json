@@ -1,0 +1,10 @@
+{
+    "id": 482575,
+    "name": "lock",
+    "version": "8.0.5",
+    "created_at": "2020-02-05T17:44:29",
+    "updated_at": "2020-02-05T17:44:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:lock:8.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

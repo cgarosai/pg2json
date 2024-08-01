@@ -1,0 +1,10 @@
+{
+    "id": 657883,
+    "name": "survey",
+    "version": "5.0.91",
+    "created_at": "2021-02-08T16:39:32",
+    "updated_at": "2021-02-08T16:39:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:survey:5.0.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

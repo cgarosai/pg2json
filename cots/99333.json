@@ -1,0 +1,10 @@
+{
+    "id": 99333,
+    "name": "custom_meta",
+    "version": "6.x-1.0",
+    "created_at": "2014-06-23T13:21:59",
+    "updated_at": "2014-06-24T12:36:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:louis_jimenez:custom_meta:6.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

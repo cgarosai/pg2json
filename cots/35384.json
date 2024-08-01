@@ -1,0 +1,10 @@
+{
+    "id": 35384,
+    "name": "lvm2",
+    "version": "2.02.63",
+    "created_at": "2010-08-05T12:22:38",
+    "updated_at": "2010-09-23T23:20:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heinz_mauelshagen:lvm2:2.02.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

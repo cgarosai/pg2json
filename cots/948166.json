@@ -1,0 +1,10 @@
+{
+    "id": 948166,
+    "name": "powerlinux",
+    "version": "-",
+    "created_at": "2022-09-27T12:09:32",
+    "updated_at": "2023-02-17T18:02:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:powerlinux:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

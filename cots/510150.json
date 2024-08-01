@@ -1,0 +1,10 @@
+{
+    "id": 510150,
+    "name": "xeon_w3570_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:33:53",
+    "updated_at": "2020-03-23T16:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_w3570_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

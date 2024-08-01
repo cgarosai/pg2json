@@ -1,0 +1,10 @@
+{
+    "id": 257977,
+    "name": "carddav_server",
+    "version": "6.0.8-0086",
+    "created_at": "2019-06-10T11:12:40",
+    "updated_at": "2019-06-10T11:12:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:carddav_server:6.0.8-0086:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

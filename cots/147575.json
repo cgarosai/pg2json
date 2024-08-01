@@ -1,0 +1,10 @@
+{
+    "id": 147575,
+    "name": "scrutinizer",
+    "version": "8.6.2",
+    "created_at": "2018-03-12T14:28:12",
+    "updated_at": "2018-03-12T14:28:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:scrutinizer:8.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 838887,
+    "name": "clamav",
+    "version": "0.103.4",
+    "created_at": "2022-01-20T17:31:45",
+    "updated_at": "2022-08-01T10:38:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clamav:clamav:0.103.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

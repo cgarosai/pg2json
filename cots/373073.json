@@ -1,0 +1,10 @@
+{
+    "id": 373073,
+    "name": "min-http-server",
+    "version": "1.0.4",
+    "created_at": "2019-09-23T11:13:12",
+    "updated_at": "2019-09-23T11:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:min-http-server_project:min-http-server:1.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 899690,
+    "name": "piml_pdu",
+    "version": "-",
+    "created_at": "2022-06-16T13:46:52",
+    "updated_at": "2022-10-05T15:49:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:powertekpdus:piml_pdu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

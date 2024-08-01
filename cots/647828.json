@@ -1,0 +1,10 @@
+{
+    "id": 647828,
+    "name": "jruby",
+    "version": "1.7.14",
+    "created_at": "2021-01-12T13:45:54",
+    "updated_at": "2021-01-12T13:45:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jruby:jruby:1.7.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

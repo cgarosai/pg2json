@@ -1,0 +1,10 @@
+{
+    "id": 1085225,
+    "name": "open_cache_acceleration_software",
+    "version": "19.6",
+    "created_at": "2023-05-19T14:25:53",
+    "updated_at": "2023-05-22T11:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:open_cache_acceleration_software:19.6:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

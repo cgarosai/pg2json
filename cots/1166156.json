@@ -1,0 +1,10 @@
+{
+    "id": 1166156,
+    "name": "remote_application_platform",
+    "version": "3.21.0",
+    "created_at": "2023-09-25T15:37:42",
+    "updated_at": "2023-09-25T15:37:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:remote_application_platform:3.21.0:milestone2:*:*:*:*:*:*",
+    "to_analyse": false
+}

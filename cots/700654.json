@@ -1,0 +1,10 @@
+{
+    "id": 700654,
+    "name": "puma",
+    "version": "5.0.2",
+    "created_at": "2021-05-20T13:18:08",
+    "updated_at": "2021-05-20T13:21:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puma:puma:5.0.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

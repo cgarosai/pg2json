@@ -1,0 +1,10 @@
+{
+    "id": 164637,
+    "name": "core_i5",
+    "version": "8400t",
+    "created_at": "2018-09-05T10:53:20",
+    "updated_at": "2018-09-05T10:53:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:8400t:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

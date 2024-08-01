@@ -1,0 +1,10 @@
+{
+    "id": 304609,
+    "name": "youtube",
+    "version": "3.7",
+    "created_at": "2019-07-25T12:53:15",
+    "updated_at": "2019-07-25T12:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:embedplus:youtube:3.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

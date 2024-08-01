@@ -1,0 +1,10 @@
+{
+    "id": 619764,
+    "name": "nats-server",
+    "version": "0.8.0",
+    "created_at": "2020-11-16T14:26:03",
+    "updated_at": "2020-11-16T14:26:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:nats-server:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

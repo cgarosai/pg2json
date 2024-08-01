@@ -1,0 +1,10 @@
+{
+    "id": 811837,
+    "name": "communications_session_report_manager",
+    "version": "8.0.0.0",
+    "created_at": "2021-12-02T18:03:38",
+    "updated_at": "2021-12-03T18:39:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:communications_session_report_manager:8.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

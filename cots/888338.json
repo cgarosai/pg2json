@@ -1,0 +1,10 @@
+{
+    "id": 888338,
+    "name": "enterprise_survey_software",
+    "version": "2022",
+    "created_at": "2022-05-23T11:29:32",
+    "updated_at": "2022-10-11T16:31:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:surveysparrow:enterprise_survey_software:2022:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

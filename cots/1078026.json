@@ -1,0 +1,10 @@
+{
+    "id": 1078026,
+    "name": "broccoli-compass",
+    "version": "0.0.3",
+    "created_at": "2023-05-02T17:34:24",
+    "updated_at": "2023-05-03T13:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broccoli-compass_project:broccoli-compass:0.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

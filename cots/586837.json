@@ -1,0 +1,10 @@
+{
+    "id": 586837,
+    "name": "content_manager",
+    "version": "9.3.0",
+    "created_at": "2020-08-17T16:00:12",
+    "updated_at": "2020-08-17T16:00:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:content_manager:9.3.0:patch2_hotfix1:*:*:*:*:*:*",
+    "to_analyse": false
+}

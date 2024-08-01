@@ -1,0 +1,10 @@
+{
+    "id": 1108299,
+    "name": "talon_tc_modular_firmware",
+    "version": "3.5.4",
+    "created_at": "2023-06-22T13:38:15",
+    "updated_at": "2023-09-01T01:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:talon_tc_modular_firmware:3.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

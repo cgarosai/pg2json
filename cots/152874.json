@@ -1,0 +1,10 @@
+{
+    "id": 152874,
+    "name": "ws5200_firmware",
+    "version": "ws5200-10_1.9.6",
+    "created_at": "2018-06-12T01:24:13",
+    "updated_at": "2021-05-17T13:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ws5200_firmware:ws5200-10_1.9.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

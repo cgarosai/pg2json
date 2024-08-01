@@ -1,0 +1,10 @@
+{
+    "id": 131470,
+    "name": "ipc-ebw8xxx_firmware",
+    "version": "-",
+    "created_at": "2017-12-15T14:10:15",
+    "updated_at": "2021-05-26T13:51:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dahuasecurity:ipc-ebw8xxx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

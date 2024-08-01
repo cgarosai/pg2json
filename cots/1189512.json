@@ -1,0 +1,10 @@
+{
+    "id": 1189512,
+    "name": "user_location_and_ip",
+    "version": "1.1",
+    "created_at": "2023-10-27T12:08:59",
+    "updated_at": "2023-10-27T12:08:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user_location_and_ip_project:user_location_and_ip:1.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

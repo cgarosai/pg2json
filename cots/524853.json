@@ -1,0 +1,10 @@
+{
+    "id": 524853,
+    "name": "sos-collector",
+    "version": "1.5",
+    "created_at": "2020-04-13T15:26:51",
+    "updated_at": "2020-04-13T15:26:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sos-collector_project:sos-collector:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 624024,
+    "name": "fast-csv",
+    "version": "4.0.2",
+    "created_at": "2020-12-09T19:07:53",
+    "updated_at": "2020-12-09T19:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:c2fo:fast-csv:4.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 577287,
+    "name": "customer_relationship_management",
+    "version": "732",
+    "created_at": "2020-07-28T13:18:59",
+    "updated_at": "2020-07-28T13:18:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:customer_relationship_management:732:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

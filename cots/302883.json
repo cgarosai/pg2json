@@ -1,0 +1,10 @@
+{
+    "id": 302883,
+    "name": "bsuite",
+    "version": "4.0.5",
+    "created_at": "2019-07-23T15:18:01",
+    "updated_at": "2019-07-23T15:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bsuite_project:bsuite:4.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

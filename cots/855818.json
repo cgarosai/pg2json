@@ -1,0 +1,10 @@
+{
+    "id": 855818,
+    "name": "sgt-300_firmware",
+    "version": "-",
+    "created_at": "2022-03-01T13:45:33",
+    "updated_at": "2022-03-07T17:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sgt-300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

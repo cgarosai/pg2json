@@ -1,0 +1,10 @@
+{
+    "id": 876392,
+    "name": "nekohtml",
+    "version": "-",
+    "created_at": "2022-04-18T15:51:31",
+    "updated_at": "2022-09-02T11:36:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nekohtml_project:nekohtml:-:*:*:*:*:nokogiri:*:*",
+    "to_analyse": false
+}

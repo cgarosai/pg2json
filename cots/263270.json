@@ -1,0 +1,10 @@
+{
+    "id": 263270,
+    "name": "ws",
+    "version": "0.3.7",
+    "created_at": "2019-06-18T16:16:14",
+    "updated_at": "2019-06-18T16:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ws_project:ws:0.3.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

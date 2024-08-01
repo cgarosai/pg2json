@@ -1,0 +1,10 @@
+{
+    "id": 498847,
+    "name": "display_driver",
+    "version": "295.49",
+    "created_at": "2020-02-20T14:05:18",
+    "updated_at": "2020-02-20T14:05:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

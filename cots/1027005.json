@@ -1,0 +1,10 @@
+{
+    "id": 1027005,
+    "name": "mx521_firmware",
+    "version": "mxtgm.081.233",
+    "created_at": "2023-02-06T15:08:04",
+    "updated_at": "2023-02-21T18:09:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:mx521_firmware:mxtgm.081.233:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

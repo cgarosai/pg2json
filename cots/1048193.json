@@ -1,0 +1,10 @@
+{
+    "id": 1048193,
+    "name": "tornado",
+    "version": "2.9.5",
+    "created_at": "2023-03-07T17:15:19",
+    "updated_at": "2023-03-07T19:01:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docmosis:tornado:2.9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

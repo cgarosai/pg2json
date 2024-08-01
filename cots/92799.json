@@ -1,0 +1,10 @@
+{
+    "id": 92799,
+    "name": "2g_live_tv",
+    "version": "0.9",
+    "created_at": "2014-09-20T23:25:02",
+    "updated_at": "2014-12-14T14:43:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:2g_live_tv_project:2g_live_tv:0.9:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 586178,
+    "name": "controledge_plc_firmware",
+    "version": "r140",
+    "created_at": "2020-08-17T10:02:31",
+    "updated_at": "2020-08-17T10:02:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:honeywell:controledge_plc_firmware:r140:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

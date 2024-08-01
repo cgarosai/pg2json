@@ -1,0 +1,10 @@
+{
+    "id": 912499,
+    "name": "crowdsignal_dashboard",
+    "version": "1.8.5",
+    "created_at": "2022-08-10T12:06:14",
+    "updated_at": "2022-08-10T12:10:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:crowdsignal_dashboard:1.8.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

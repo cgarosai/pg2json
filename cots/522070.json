@@ -1,0 +1,10 @@
+{
+    "id": 522070,
+    "name": "ne5000e_firmware",
+    "version": "v800r006c00",
+    "created_at": "2020-04-07T16:19:15",
+    "updated_at": "2020-04-07T16:19:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ne5000e_firmware:v800r006c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

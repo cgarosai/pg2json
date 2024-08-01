@@ -1,0 +1,10 @@
+{
+    "id": 889493,
+    "name": "power_system_s922_firmware",
+    "version": "fw940",
+    "created_at": "2022-05-31T10:06:26",
+    "updated_at": "2022-08-04T13:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:power_system_s922_firmware:fw940:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

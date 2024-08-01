@@ -1,0 +1,10 @@
+{
+    "id": 154890,
+    "name": "enterprise_nfv_infrastructure_software",
+    "version": "3.5.2",
+    "created_at": "2018-06-19T14:18:16",
+    "updated_at": "2021-03-16T17:32:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:enterprise_nfv_infrastructure_software:3.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

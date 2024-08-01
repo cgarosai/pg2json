@@ -1,0 +1,10 @@
+{
+    "id": 145246,
+    "name": "core_i5",
+    "version": "6400",
+    "created_at": "2018-02-07T11:26:04",
+    "updated_at": "2018-02-07T11:26:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:6400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

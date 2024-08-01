@@ -1,0 +1,10 @@
+{
+    "id": 666198,
+    "name": "stm32cubef3",
+    "version": "-",
+    "created_at": "2021-02-23T17:51:22",
+    "updated_at": "2021-02-23T17:51:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:st:stm32cubef3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

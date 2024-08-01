@@ -1,0 +1,10 @@
+{
+    "id": 245732,
+    "name": "libsoup",
+    "version": "2.63",
+    "created_at": "2019-05-21T16:16:21",
+    "updated_at": "2019-05-21T16:16:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:libsoup:2.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

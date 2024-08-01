@@ -1,0 +1,10 @@
+{
+    "id": 600605,
+    "name": "sf300-24pp_firmware",
+    "version": "1.4.11.02",
+    "created_at": "2020-10-08T12:01:40",
+    "updated_at": "2020-10-08T12:01:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sf300-24pp_firmware:1.4.11.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

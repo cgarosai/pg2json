@@ -1,0 +1,10 @@
+{
+    "id": 572931,
+    "name": "haproxy",
+    "version": "0.15",
+    "created_at": "2020-08-11T11:56:45",
+    "updated_at": "2020-08-11T11:56:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netgate:haproxy:0.15:*:*:*:*:pfsense:*:*",
+    "to_analyse": false
+}

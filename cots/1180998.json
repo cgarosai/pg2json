@@ -1,0 +1,10 @@
+{
+    "id": 1180998,
+    "name": "configurator",
+    "version": "-",
+    "created_at": "2023-10-30T12:45:53",
+    "updated_at": "2023-10-30T12:45:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dmconcept:configurator:-:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1104106,
+    "name": "jetpack",
+    "version": "10.5",
+    "created_at": "2023-07-03T17:08:30",
+    "updated_at": "2023-07-03T17:11:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:jetpack:10.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

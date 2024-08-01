@@ -1,0 +1,10 @@
+{
+    "id": 527721,
+    "name": "application_monitoring",
+    "version": "0.9.0",
+    "created_at": "2020-04-01T18:18:49",
+    "updated_at": "2020-04-01T18:18:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:datadoghq:application_monitoring:0.9.0:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

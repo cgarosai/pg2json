@@ -1,0 +1,10 @@
+{
+    "id": 94368,
+    "name": "security_gateway",
+    "version": "r75",
+    "created_at": "2014-11-17T18:23:21",
+    "updated_at": "2015-02-11T14:05:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:security_gateway:r75:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

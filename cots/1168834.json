@@ -1,0 +1,10 @@
+{
+    "id": 1168834,
+    "name": "openenterprise_scada_server",
+    "version": "3.3.5",
+    "created_at": "2023-09-28T09:24:57",
+    "updated_at": "2023-09-28T09:24:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emerson:openenterprise_scada_server:3.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

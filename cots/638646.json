@@ -1,0 +1,10 @@
+{
+    "id": 638646,
+    "name": "advanced_threat_prevention",
+    "version": "5.0",
+    "created_at": "2020-12-17T16:49:18",
+    "updated_at": "2020-12-17T16:49:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:advanced_threat_prevention:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

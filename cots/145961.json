@@ -1,0 +1,10 @@
+{
+    "id": 145961,
+    "name": "delivery_pipeline",
+    "version": "0.8.7",
+    "created_at": "2018-02-08T12:17:09",
+    "updated_at": "2018-02-08T12:17:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:delivery_pipeline:0.8.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 522614,
+    "name": "cloudengine_5800_firmware",
+    "version": "v100r005c00",
+    "created_at": "2020-04-07T18:19:51",
+    "updated_at": "2020-04-07T18:19:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:cloudengine_5800_firmware:v100r005c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

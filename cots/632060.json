@@ -1,0 +1,10 @@
+{
+    "id": 632060,
+    "name": "cloudengine_1800v",
+    "version": "v100r019c10spc800",
+    "created_at": "2020-12-29T13:20:03",
+    "updated_at": "2020-12-29T13:20:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:cloudengine_1800v:v100r019c10spc800:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

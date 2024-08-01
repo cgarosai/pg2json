@@ -1,0 +1,10 @@
+{
+    "id": 1271630,
+    "name": "mq_operator",
+    "version": "3.1.2",
+    "created_at": "2024-07-09T14:15:44",
+    "updated_at": "2024-07-09T14:15:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:mq_operator:3.1.2:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1218206,
+    "name": "felix_health_check_webconsole_plugin",
+    "version": "-",
+    "created_at": "2023-12-13T11:50:29",
+    "updated_at": "2023-12-13T11:50:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:felix_health_check_webconsole_plugin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

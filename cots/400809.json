@@ -1,0 +1,10 @@
+{
+    "id": 400809,
+    "name": "libntlm",
+    "version": "0.3.10",
+    "created_at": "2019-10-16T09:55:14",
+    "updated_at": "2019-10-16T09:55:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nongnu:libntlm:0.3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

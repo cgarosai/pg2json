@@ -1,0 +1,10 @@
+{
+    "id": 658163,
+    "name": "rosemount_transmitter_interface_software",
+    "version": "-",
+    "created_at": "2021-02-09T14:27:25",
+    "updated_at": "2021-05-28T16:35:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emerson:rosemount_transmitter_interface_software:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

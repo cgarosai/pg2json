@@ -1,0 +1,10 @@
+{
+    "id": 707143,
+    "name": "confluence",
+    "version": "-",
+    "created_at": "2021-05-11T11:08:45",
+    "updated_at": "2021-12-13T14:40:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:confluence:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

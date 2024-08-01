@@ -1,0 +1,10 @@
+{
+    "id": 119650,
+    "name": "openstack_ironic",
+    "version": "4.2.4",
+    "created_at": "2016-07-14T16:30:54",
+    "updated_at": "2021-05-20T13:18:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:openstack_ironic:4.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

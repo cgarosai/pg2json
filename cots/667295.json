@@ -1,0 +1,10 @@
+{
+    "id": 667295,
+    "name": "cordova",
+    "version": "2.6.0",
+    "created_at": "2021-02-25T14:27:51",
+    "updated_at": "2021-03-04T12:45:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cordova:2.6.0:-:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

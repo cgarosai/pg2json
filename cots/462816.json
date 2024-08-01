@@ -1,0 +1,10 @@
+{
+    "id": 462816,
+    "name": "endpoint_security_clients",
+    "version": "e82.10",
+    "created_at": "2020-01-06T13:11:15",
+    "updated_at": "2020-01-06T13:11:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:endpoint_security_clients:e82.10:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

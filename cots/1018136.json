@@ -1,0 +1,10 @@
+{
+    "id": 1018136,
+    "name": "gmail-servlet",
+    "version": "-",
+    "created_at": "2023-01-18T12:41:33",
+    "updated_at": "2023-01-23T17:44:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gmail-servlet_project:gmail-servlet:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

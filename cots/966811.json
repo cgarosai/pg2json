@@ -1,0 +1,10 @@
+{
+    "id": 966811,
+    "name": "cpanel",
+    "version": "78.0.48",
+    "created_at": "2022-11-01T18:07:38",
+    "updated_at": "2022-11-01T18:09:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cpanel:cpanel:78.0.48:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

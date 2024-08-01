@@ -1,0 +1,10 @@
+{
+    "id": 703964,
+    "name": "fastify-csrf",
+    "version": "3.1.0",
+    "created_at": "2021-05-25T13:20:41",
+    "updated_at": "2021-05-25T13:56:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastify:fastify-csrf:3.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

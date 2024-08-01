@@ -1,0 +1,10 @@
+{
+    "id": 603648,
+    "name": "utility_computing_service_meter",
+    "version": "1.9",
+    "created_at": "2020-10-16T16:04:52",
+    "updated_at": "2020-10-16T16:04:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:utility_computing_service_meter:1.9:*:*:*:pay_per_use:*:*:*",
+    "to_analyse": false
+}

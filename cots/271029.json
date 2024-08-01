@@ -1,0 +1,10 @@
+{
+    "id": 271029,
+    "name": "netvault_backup",
+    "version": "11.3",
+    "created_at": "2019-06-27T11:50:48",
+    "updated_at": "2019-06-27T11:50:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:netvault_backup:11.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

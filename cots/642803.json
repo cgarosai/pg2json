@@ -1,0 +1,10 @@
+{
+    "id": 642803,
+    "name": "protobuf",
+    "version": "-",
+    "created_at": "2021-01-27T15:42:07",
+    "updated_at": "2021-01-27T15:42:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:protobuf:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

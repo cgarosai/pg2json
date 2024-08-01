@@ -1,0 +1,10 @@
+{
+    "id": 1230302,
+    "name": "micropython",
+    "version": "1.21.0",
+    "created_at": "2024-01-12T11:35:05",
+    "updated_at": "2024-01-12T11:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:micropython:micropython:1.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

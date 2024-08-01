@@ -1,0 +1,10 @@
+{
+    "id": 736070,
+    "name": "requests",
+    "version": "2.2.12",
+    "created_at": "2021-07-01T11:13:46",
+    "updated_at": "2021-07-01T11:59:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:requests:2.2.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

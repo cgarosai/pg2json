@@ -1,0 +1,10 @@
+{
+    "id": 286082,
+    "name": "mobile_partner_firmware",
+    "version": "23.009.05.03.1014",
+    "created_at": "2019-07-02T15:09:03",
+    "updated_at": "2019-07-02T15:09:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mobile_partner_firmware:23.009.05.03.1014:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

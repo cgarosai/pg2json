@@ -1,0 +1,10 @@
+{
+    "id": 861011,
+    "name": "bitcomet",
+    "version": "1.86",
+    "created_at": "2022-04-06T15:35:03",
+    "updated_at": "2022-04-07T16:38:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitcomet:bitcomet:1.86:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

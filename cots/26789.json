@@ -1,0 +1,10 @@
+{
+    "id": 26789,
+    "name": "jetty",
+    "version": "3.0.b03",
+    "created_at": "2009-05-06T17:59:09",
+    "updated_at": "2011-08-16T13:00:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mortbay:jetty:3.0.b03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

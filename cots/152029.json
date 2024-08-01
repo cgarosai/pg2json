@@ -1,0 +1,10 @@
+{
+    "id": 152029,
+    "name": "openpcs_7",
+    "version": "8.0",
+    "created_at": "2018-06-05T18:38:13",
+    "updated_at": "2021-05-10T11:37:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:openpcs_7:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

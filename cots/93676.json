@@ -1,0 +1,10 @@
+{
+    "id": 93676,
+    "name": "gulf_power_mobile_bill_pay",
+    "version": "1",
+    "created_at": "2014-11-10T15:18:33",
+    "updated_at": "2014-11-10T15:55:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tionetworks:gulf_power_mobile_bill_pay:1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

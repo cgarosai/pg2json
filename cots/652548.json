@@ -1,0 +1,10 @@
+{
+    "id": 652548,
+    "name": "graphics_drivers",
+    "version": "26.20.100.7212",
+    "created_at": "2021-02-18T15:16:00",
+    "updated_at": "2021-02-18T15:16:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_drivers:26.20.100.7212:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

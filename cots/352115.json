@@ -1,0 +1,10 @@
+{
+    "id": 352115,
+    "name": "field_test",
+    "version": "0.1.2",
+    "created_at": "2019-09-09T13:56:32",
+    "updated_at": "2019-09-09T13:56:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:field_test_project:field_test:0.1.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

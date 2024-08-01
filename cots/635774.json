@@ -1,0 +1,10 @@
+{
+    "id": 635774,
+    "name": "visual_studio_code",
+    "version": "0.54.0",
+    "created_at": "2020-12-11T14:36:59",
+    "updated_at": "2020-12-11T14:36:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio_code:0.54.0:*:*:*:*:java:*:*",
+    "to_analyse": false
+}

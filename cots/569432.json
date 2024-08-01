@@ -1,0 +1,10 @@
+{
+    "id": 569432,
+    "name": "crypto",
+    "version": "2017-03-17",
+    "created_at": "2020-07-07T14:46:46",
+    "updated_at": "2020-07-07T14:46:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:crypto:2017-03-17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

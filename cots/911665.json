@@ -1,0 +1,10 @@
+{
+    "id": 911665,
+    "name": "filesystem-template",
+    "version": "-",
+    "created_at": "2022-08-09T11:44:11",
+    "updated_at": "2022-08-10T11:00:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acrontum:filesystem-template:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

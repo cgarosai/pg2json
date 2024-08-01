@@ -1,0 +1,10 @@
+{
+    "id": 1210449,
+    "name": "powersystem_center",
+    "version": "2020",
+    "created_at": "2023-12-16T03:05:58",
+    "updated_at": "2023-12-16T03:05:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:subnet:powersystem_center:2020:u10:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 787312,
+    "name": "ssh2",
+    "version": "0.5.5",
+    "created_at": "2021-10-01T11:32:58",
+    "updated_at": "2021-10-01T11:37:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssh2_project:ssh2:0.5.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

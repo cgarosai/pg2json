@@ -1,0 +1,10 @@
+{
+    "id": 819851,
+    "name": "tentacle",
+    "version": "6.0.329",
+    "created_at": "2021-11-29T17:25:20",
+    "updated_at": "2021-11-29T17:37:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octopus:tentacle:6.0.329:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

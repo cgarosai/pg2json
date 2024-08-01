@@ -1,0 +1,10 @@
+{
+    "id": 931687,
+    "name": "tesseract_ocr",
+    "version": "3.05.01",
+    "created_at": "2022-09-12T17:25:50",
+    "updated_at": "2022-09-13T12:46:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tesseract_ocr_project:tesseract_ocr:3.05.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

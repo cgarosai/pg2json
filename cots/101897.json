@@ -1,0 +1,10 @@
+{
+    "id": 101897,
+    "name": "lync_room_system",
+    "version": "-",
+    "created_at": "2015-11-12T17:39:23",
+    "updated_at": "2015-11-18T19:09:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:lync_room_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

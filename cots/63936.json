@@ -1,0 +1,10 @@
+{
+    "id": 63936,
+    "name": "tizen",
+    "version": "-",
+    "created_at": "2013-01-02T17:03:48",
+    "updated_at": "2013-05-30T18:33:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tizen:tizen:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

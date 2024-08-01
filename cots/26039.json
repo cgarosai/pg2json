@@ -1,0 +1,10 @@
+{
+    "id": 26039,
+    "name": "clamav",
+    "version": "0.90.3_p1",
+    "created_at": "2009-04-08T15:47:40",
+    "updated_at": "2012-11-01T01:03:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clamav:clamav:0.90.3_p1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

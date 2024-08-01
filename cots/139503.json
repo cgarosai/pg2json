@@ -1,0 +1,10 @@
+{
+    "id": 139503,
+    "name": "xpaas",
+    "version": "3.0.0",
+    "created_at": "2017-11-28T16:56:07",
+    "updated_at": "2021-08-10T17:09:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:xpaas:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

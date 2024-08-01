@@ -1,0 +1,10 @@
+{
+    "id": 682477,
+    "name": "upload_files",
+    "version": "59.7",
+    "created_at": "2021-04-09T11:08:19",
+    "updated_at": "2021-04-12T13:54:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:upload_files:59.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

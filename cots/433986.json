@@ -1,0 +1,10 @@
+{
+    "id": 433986,
+    "name": "libsndfile",
+    "version": "1.0.29",
+    "created_at": "2019-11-21T14:37:51",
+    "updated_at": "2019-11-21T14:37:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libsndfile_project:libsndfile:1.0.29:pre1:*:*:*:*:*:*",
+    "to_analyse": false
+}

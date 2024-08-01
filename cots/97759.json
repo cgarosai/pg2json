@@ -1,0 +1,10 @@
+{
+    "id": 97759,
+    "name": "operations_manager_i",
+    "version": "9.13",
+    "created_at": "2014-05-27T14:28:12",
+    "updated_at": "2014-05-30T15:27:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:operations_manager_i:9.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

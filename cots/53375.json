@@ -1,0 +1,10 @@
+{
+    "id": 53375,
+    "name": "management_console",
+    "version": "6.6",
+    "created_at": "2012-07-10T01:17:45",
+    "updated_at": "2012-07-10T01:17:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quantum:management_console:6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 83018,
+    "name": "scada_expert_clearscada",
+    "version": "2013",
+    "created_at": "2014-03-14T16:32:19",
+    "updated_at": "2018-12-31T13:23:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:scada_expert_clearscada:2013:r2:*:*:*:*:*:*",
+    "to_analyse": false
+}

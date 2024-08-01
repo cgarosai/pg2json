@@ -1,0 +1,10 @@
+{
+    "id": 496961,
+    "name": "adaptive_server_enterprise",
+    "version": "15.7",
+    "created_at": "2020-02-13T19:58:40",
+    "updated_at": "2020-02-13T19:58:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:adaptive_server_enterprise:15.7:sp50:*:*:*:*:*:*",
+    "to_analyse": false
+}

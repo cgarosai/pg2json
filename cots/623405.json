@@ -1,0 +1,10 @@
+{
+    "id": 623405,
+    "name": "scan_icm_updater",
+    "version": "-",
+    "created_at": "2020-12-09T15:40:32",
+    "updated_at": "2020-12-09T15:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:epson:scan_icm_updater:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

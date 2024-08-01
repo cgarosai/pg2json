@@ -1,0 +1,10 @@
+{
+    "id": 583114,
+    "name": "mara_cms",
+    "version": "6",
+    "created_at": "2020-09-01T10:32:03",
+    "updated_at": "2020-09-01T10:32:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mara_cms_project:mara_cms:6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

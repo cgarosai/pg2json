@@ -1,0 +1,10 @@
+{
+    "id": 780278,
+    "name": "parse-server",
+    "version": "4.10.4",
+    "created_at": "2021-10-06T13:33:59",
+    "updated_at": "2021-10-13T10:00:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parseplatform:parse-server:4.10.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 558716,
+    "name": "gnutls",
+    "version": "3.6.8",
+    "created_at": "2020-06-08T11:48:18",
+    "updated_at": "2020-06-08T11:48:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gnutls:3.6.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

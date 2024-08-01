@@ -1,0 +1,10 @@
+{
+    "id": 70492,
+    "name": "wlan_ac_6605",
+    "version": "v200r001c00spc100",
+    "created_at": "2013-06-21T11:45:59",
+    "updated_at": "2013-07-12T15:34:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:wlan_ac_6605:v200r001c00spc100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

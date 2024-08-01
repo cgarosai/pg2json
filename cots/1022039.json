@@ -1,0 +1,10 @@
+{
+    "id": 1022039,
+    "name": "cube_firmware",
+    "version": "7.3.12",
+    "created_at": "2023-02-10T14:14:15",
+    "updated_at": "2023-02-23T17:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teradke:cube_firmware:7.3.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

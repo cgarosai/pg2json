@@ -1,0 +1,10 @@
+{
+    "id": 363008,
+    "name": "e5-1620",
+    "version": "2",
+    "created_at": "2019-09-17T13:56:15",
+    "updated_at": "2021-05-03T13:17:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:e5-1620:2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

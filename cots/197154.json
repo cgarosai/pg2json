@@ -1,0 +1,10 @@
+{
+    "id": 197154,
+    "name": "meraki_mr_24_firmware",
+    "version": "24.13",
+    "created_at": "2018-12-11T14:44:28",
+    "updated_at": "2021-04-21T16:30:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:meraki_mr_24_firmware:24.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

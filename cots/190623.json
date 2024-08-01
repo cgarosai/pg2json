@@ -1,0 +1,10 @@
+{
+    "id": 190623,
+    "name": "z-wave_s2_firmware",
+    "version": "-",
+    "created_at": "2019-01-08T02:47:24",
+    "updated_at": "2021-06-28T15:10:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:silabs:z-wave_s2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

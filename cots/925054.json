@@ -1,0 +1,10 @@
+{
+    "id": 925054,
+    "name": "hulu",
+    "version": "-",
+    "created_at": "2022-08-16T16:36:55",
+    "updated_at": "2022-09-03T01:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hjholdings:hulu:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

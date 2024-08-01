@@ -1,0 +1,10 @@
+{
+    "id": 532774,
+    "name": "moonlight",
+    "version": "5.0.1",
+    "created_at": "2020-05-01T15:44:00",
+    "updated_at": "2020-05-01T15:44:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moonlight-stream:moonlight:5.0.1:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

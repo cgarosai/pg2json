@@ -1,0 +1,10 @@
+{
+    "id": 1028060,
+    "name": "identityiq",
+    "version": "7.3",
+    "created_at": "2023-02-07T15:03:31",
+    "updated_at": "2023-02-08T14:36:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sailpoint:identityiq:7.3:patch6:*:*:*:*:*:*",
+    "to_analyse": false
+}

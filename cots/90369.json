@@ -1,0 +1,10 @@
+{
+    "id": 90369,
+    "name": "enterprise_virtualization",
+    "version": "3.4",
+    "created_at": "2014-07-11T13:24:57",
+    "updated_at": "2014-07-17T15:21:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:enterprise_virtualization:3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 54330,
+    "name": "winamp",
+    "version": "5.55",
+    "created_at": "2012-07-11T15:30:51",
+    "updated_at": "2012-07-25T16:36:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nullsoft:winamp:5.55:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

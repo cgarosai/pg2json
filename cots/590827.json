@@ -1,0 +1,10 @@
+{
+    "id": 590827,
+    "name": "database",
+    "version": "18c",
+    "created_at": "2020-09-16T11:40:09",
+    "updated_at": "2020-09-16T11:40:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:database:18c:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

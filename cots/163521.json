@@ -1,0 +1,10 @@
+{
+    "id": 163521,
+    "name": "mss_firmware",
+    "version": "-",
+    "created_at": "2018-08-20T16:42:41",
+    "updated_at": "2021-06-23T15:31:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lantronix:mss_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

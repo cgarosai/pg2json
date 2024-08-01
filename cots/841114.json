@@ -1,0 +1,10 @@
+{
+    "id": 841114,
+    "name": "simatic_drive_controller_cpu_1504d_tf_firmware",
+    "version": "2.9.4",
+    "created_at": "2022-02-11T13:58:34",
+    "updated_at": "2022-03-01T00:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_drive_controller_cpu_1504d_tf_firmware:2.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 597648,
+    "name": "mvision_endpoint",
+    "version": "-",
+    "created_at": "2020-09-09T15:15:30",
+    "updated_at": "2020-09-09T15:15:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:mvision_endpoint:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

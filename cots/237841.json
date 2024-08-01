@@ -1,0 +1,10 @@
+{
+    "id": 237841,
+    "name": "asa_5525-x_firmware",
+    "version": "9.8\\(2.20\\)",
+    "created_at": "2019-05-06T09:35:01",
+    "updated_at": "2021-04-29T16:40:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asa_5525-x_firmware:9.8\\(2.20\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 267938,
+    "name": "flash_player",
+    "version": "18.0.0.375",
+    "created_at": "2019-06-14T18:32:09",
+    "updated_at": "2019-06-14T18:32:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:flash_player:18.0.0.375:*:*:*:esr:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 24968,
+    "name": "libwww-perl",
+    "version": "5.53_92",
+    "created_at": "2010-07-07T14:11:00",
+    "updated_at": "2012-11-29T02:48:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:search.cpan:libwww-perl:5.53_92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

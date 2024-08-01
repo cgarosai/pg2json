@@ -1,0 +1,10 @@
+{
+    "id": 465902,
+    "name": "r8300_firmware",
+    "version": "-",
+    "created_at": "2019-12-13T17:39:14",
+    "updated_at": "2019-12-13T17:39:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r8300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

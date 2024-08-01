@@ -1,0 +1,10 @@
+{
+    "id": 1056486,
+    "name": "relion_650_firmware",
+    "version": "2.2.2",
+    "created_at": "2023-03-20T15:01:24",
+    "updated_at": "2023-04-19T13:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hitachi:relion_650_firmware:2.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

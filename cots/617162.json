@@ -1,0 +1,10 @@
+{
+    "id": 617162,
+    "name": "libfuse",
+    "version": "3.5.0",
+    "created_at": "2020-11-02T14:58:43",
+    "updated_at": "2020-11-02T14:58:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libfuse_project:libfuse:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

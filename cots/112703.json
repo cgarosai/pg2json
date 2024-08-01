@@ -1,0 +1,10 @@
+{
+    "id": 112703,
+    "name": "tivoli_storage_manager_for_virtual_environments",
+    "version": "6.4",
+    "created_at": "2016-12-01T12:48:56",
+    "updated_at": "2016-12-01T12:48:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_for_virtual_environments:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

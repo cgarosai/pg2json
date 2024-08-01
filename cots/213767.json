@@ -1,0 +1,10 @@
+{
+    "id": 213767,
+    "name": "bits_service",
+    "version": "2.15.0",
+    "created_at": "2019-04-01T12:57:49",
+    "updated_at": "2019-04-01T12:57:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloud_foundry:bits_service:2.15.0:dev4:*:*:*:*:*:*",
+    "to_analyse": false
+}

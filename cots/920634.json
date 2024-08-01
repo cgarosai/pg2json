@@ -1,0 +1,10 @@
+{
+    "id": 920634,
+    "name": "opencryptoki",
+    "version": "-",
+    "created_at": "2022-08-26T10:24:29",
+    "updated_at": "2022-08-26T10:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opencryptoki_project:opencryptoki:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

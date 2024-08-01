@@ -1,0 +1,10 @@
+{
+    "id": 205475,
+    "name": "kubernetes",
+    "version": "1.0.8",
+    "created_at": "2019-01-31T19:39:15",
+    "updated_at": "2019-01-31T19:39:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:kubernetes:1.0.8:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

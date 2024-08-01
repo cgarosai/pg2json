@@ -1,0 +1,10 @@
+{
+    "id": 575485,
+    "name": "browser",
+    "version": "0.19.73",
+    "created_at": "2020-07-24T19:44:37",
+    "updated_at": "2020-07-24T19:44:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:brave:browser:0.19.73:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 653908,
+    "name": "sd670_firmware",
+    "version": "-",
+    "created_at": "2021-02-22T14:28:22",
+    "updated_at": "2021-04-14T12:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sd670_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

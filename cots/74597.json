@@ -1,0 +1,10 @@
+{
+    "id": 74597,
+    "name": "icewall_federation_agent",
+    "version": "8.0",
+    "created_at": "2013-09-23T16:34:41",
+    "updated_at": "2014-02-21T15:04:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:icewall_federation_agent:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

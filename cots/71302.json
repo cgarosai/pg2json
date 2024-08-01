@@ -1,0 +1,10 @@
+{
+    "id": 71302,
+    "name": "h3c_router",
+    "version": "msr_30-40_poe",
+    "created_at": "2013-07-08T16:02:04",
+    "updated_at": "2013-07-12T15:50:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_router:msr_30-40_poe:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

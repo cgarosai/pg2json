@@ -1,0 +1,10 @@
+{
+    "id": 390489,
+    "name": "puppet-swift",
+    "version": "7.1.0",
+    "created_at": "2019-10-01T14:45:53",
+    "updated_at": "2019-10-01T14:45:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:puppet-swift:7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

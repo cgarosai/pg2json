@@ -1,0 +1,10 @@
+{
+    "id": 512394,
+    "name": "kiali",
+    "version": "0.7.2",
+    "created_at": "2020-03-27T13:00:20",
+    "updated_at": "2020-03-27T13:00:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kiali:kiali:0.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1200871,
+    "name": "galaxy_vl_firmware",
+    "version": "12.21",
+    "created_at": "2023-12-01T21:41:12",
+    "updated_at": "2023-12-01T21:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:galaxy_vl_firmware:12.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

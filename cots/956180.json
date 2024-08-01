@@ -1,0 +1,10 @@
+{
+    "id": 956180,
+    "name": "heapless",
+    "version": "0.2.4",
+    "created_at": "2022-10-17T18:00:38",
+    "updated_at": "2022-10-17T18:02:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heapless_project:heapless:0.2.4:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

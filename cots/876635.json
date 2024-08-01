@@ -1,0 +1,10 @@
+{
+    "id": 876635,
+    "name": "sd-wan_2000_standard_edition_firmware",
+    "version": "-",
+    "created_at": "2022-04-19T13:11:22",
+    "updated_at": "2022-04-22T16:05:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:sd-wan_2000_standard_edition_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

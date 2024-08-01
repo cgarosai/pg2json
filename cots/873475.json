@@ -1,0 +1,10 @@
+{
+    "id": 873475,
+    "name": "vendure",
+    "version": "0.17.0",
+    "created_at": "2022-05-09T13:14:19",
+    "updated_at": "2022-05-16T01:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vendure:vendure:0.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

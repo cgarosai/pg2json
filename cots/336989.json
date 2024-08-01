@@ -1,0 +1,10 @@
+{
+    "id": 336989,
+    "name": "vxworks",
+    "version": "7",
+    "created_at": "2019-08-09T14:05:56",
+    "updated_at": "2021-09-07T12:41:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:windriver:vxworks:7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

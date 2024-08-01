@@ -1,0 +1,10 @@
+{
+    "id": 680930,
+    "name": "etrust_iam_suite",
+    "version": "12.0.1.114",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T12:31:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:etrust_iam_suite:12.0.1.114:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 42013,
+    "name": "phorum",
+    "version": "5.0.0",
+    "created_at": "2012-02-10T17:53:03",
+    "updated_at": "2012-02-10T17:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phorum:phorum:5.0.0:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

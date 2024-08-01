@@ -1,0 +1,10 @@
+{
+    "id": 590198,
+    "name": "sophos_anti-virus",
+    "version": "5.0.0",
+    "created_at": "2020-09-15T12:33:29",
+    "updated_at": "2020-09-15T12:33:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:sophos_anti-virus:5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

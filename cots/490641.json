@@ -1,0 +1,10 @@
+{
+    "id": 490641,
+    "name": "tp3106_firmware",
+    "version": "v100r002c00spc100b023",
+    "created_at": "2020-02-21T20:01:55",
+    "updated_at": "2020-02-21T20:01:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:tp3106_firmware:v100r002c00spc100b023:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

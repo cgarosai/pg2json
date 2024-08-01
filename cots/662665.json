@@ -1,0 +1,10 @@
+{
+    "id": 662665,
+    "name": "web_help_desk",
+    "version": "12.5.2",
+    "created_at": "2021-03-05T14:09:51",
+    "updated_at": "2021-03-09T15:43:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:web_help_desk:12.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

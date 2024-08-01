@@ -1,0 +1,10 @@
+{
+    "id": 832069,
+    "name": "deep_security_agent",
+    "version": "11.0",
+    "created_at": "2022-01-27T14:16:57",
+    "updated_at": "2022-01-27T17:36:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:deep_security_agent:11.0:update21:*:*:long_term_support:*:*:*",
+    "to_analyse": false
+}

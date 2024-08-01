@@ -1,0 +1,10 @@
+{
+    "id": 187913,
+    "name": "e2fsprogs",
+    "version": "0.3b",
+    "created_at": "2018-10-30T12:31:44",
+    "updated_at": "2018-10-30T12:31:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:e2fsprogs_project:e2fsprogs:0.3b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

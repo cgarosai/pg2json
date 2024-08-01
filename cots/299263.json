@@ -1,0 +1,10 @@
+{
+    "id": 299263,
+    "name": "print_my_blog",
+    "version": "1.6.7",
+    "created_at": "2019-07-15T15:06:01",
+    "updated_at": "2019-07-15T15:06:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:print_my_blog_project:print_my_blog:1.6.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

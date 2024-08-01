@@ -1,0 +1,10 @@
+{
+    "id": 999221,
+    "name": "oils-js",
+    "version": "1.0.12",
+    "created_at": "2022-12-21T16:01:52",
+    "updated_at": "2022-12-21T17:21:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oils-js_project:oils-js:1.0.12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

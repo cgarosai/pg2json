@@ -1,0 +1,10 @@
+{
+    "id": 1155964,
+    "name": "secret_server",
+    "version": "11.4.000002",
+    "created_at": "2023-09-12T12:17:01",
+    "updated_at": "2023-09-12T12:17:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:delinea:secret_server:11.4.000002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

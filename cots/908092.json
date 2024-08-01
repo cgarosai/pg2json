@@ -1,0 +1,10 @@
+{
+    "id": 908092,
+    "name": "ssl-utils",
+    "version": "0.1.2",
+    "created_at": "2022-07-08T13:36:52",
+    "updated_at": "2022-07-08T13:38:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssl-utils_project:ssl-utils:0.1.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

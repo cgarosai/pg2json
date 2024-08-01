@@ -1,0 +1,10 @@
+{
+    "id": 424866,
+    "name": "pngcrush-installer",
+    "version": "1.7.67-0",
+    "created_at": "2019-11-08T18:48:21",
+    "updated_at": "2019-11-08T18:48:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pngcrush-installer_project:pngcrush-installer:1.7.67-0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 264628,
+    "name": "rdflib",
+    "version": "4.2.2",
+    "created_at": "2019-06-19T15:40:09",
+    "updated_at": "2019-06-19T15:40:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rdflib_project:rdflib:4.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1027453,
+    "name": "apache\\",
+    "version": "\\",
+    "created_at": "2023-02-06T18:55:15",
+    "updated_at": "2023-02-08T04:42:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lemonldap-ng:apache\\:\\:session\\:\\:browsable:1.2.6:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

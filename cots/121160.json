@@ -1,0 +1,10 @@
+{
+    "id": 121160,
+    "name": "indoor_ip_camera_c1_series",
+    "version": "-",
+    "created_at": "2017-07-03T12:52:02",
+    "updated_at": "2021-08-09T16:30:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:foscam:indoor_ip_camera_c1_series:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

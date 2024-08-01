@@ -1,0 +1,10 @@
+{
+    "id": 169719,
+    "name": "pgobject-util-dbadmin",
+    "version": "0.120.0",
+    "created_at": "2018-07-25T12:09:52",
+    "updated_at": "2021-08-12T11:39:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pgobject-util-dbadmin_project:pgobject-util-dbadmin:0.120.0:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 152408,
+    "name": "emc_vmax_embedded_management",
+    "version": "1.4.0.347",
+    "created_at": "2018-06-07T18:08:39",
+    "updated_at": "2021-05-17T14:29:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_vmax_embedded_management:1.4.0.347:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

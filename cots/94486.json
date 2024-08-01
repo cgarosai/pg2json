@@ -1,0 +1,10 @@
+{
+    "id": 94486,
+    "name": "direct_web_remoting",
+    "version": "3.0",
+    "created_at": "2014-11-24T14:39:52",
+    "updated_at": "2015-02-11T14:41:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:directwebremoting:direct_web_remoting:3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

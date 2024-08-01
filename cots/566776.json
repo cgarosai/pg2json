@@ -1,0 +1,10 @@
+{
+    "id": 566776,
+    "name": "i5-4440_firmware",
+    "version": "-",
+    "created_at": "2020-06-29T11:02:19",
+    "updated_at": "2020-06-29T11:02:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:i5-4440_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 94263,
+    "name": "epc_world",
+    "version": "3.1",
+    "created_at": "2014-11-10T15:23:32",
+    "updated_at": "2014-11-10T15:31:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magzter:epc_world:3.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

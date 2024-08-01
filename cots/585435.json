@@ -1,0 +1,10 @@
+{
+    "id": 585435,
+    "name": "server_board_s1200sp_firmware",
+    "version": "1.59",
+    "created_at": "2020-08-14T00:39:57",
+    "updated_at": "2021-05-04T12:53:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:server_board_s1200sp_firmware:1.59:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

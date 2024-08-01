@@ -1,0 +1,10 @@
+{
+    "id": 534027,
+    "name": "zoom",
+    "version": "4.6.9",
+    "created_at": "2020-05-04T12:47:03",
+    "updated_at": "2020-05-04T12:47:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:zoom:4.6.9:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

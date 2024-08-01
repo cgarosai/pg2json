@@ -1,0 +1,10 @@
+{
+    "id": 216364,
+    "name": "unit",
+    "version": "0.4",
+    "created_at": "2019-03-11T17:31:58",
+    "updated_at": "2019-03-11T17:31:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nginx:unit:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

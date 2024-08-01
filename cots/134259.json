@@ -1,0 +1,10 @@
+{
+    "id": 134259,
+    "name": "backup-agoddard",
+    "version": "3.0.28",
+    "created_at": "2018-01-25T17:01:34",
+    "updated_at": "2021-02-25T16:44:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:backup-agoddard_project:backup-agoddard:3.0.28:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

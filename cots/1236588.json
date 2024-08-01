@@ -1,0 +1,10 @@
+{
+    "id": 1236588,
+    "name": "follow_redirects",
+    "version": "1.14.0",
+    "created_at": "2024-01-08T13:10:07",
+    "updated_at": "2024-01-08T13:10:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:follow-redirects:follow_redirects:1.14.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

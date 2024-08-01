@@ -1,0 +1,10 @@
+{
+    "id": 164040,
+    "name": "siclock_tc100_firmware",
+    "version": "-",
+    "created_at": "2018-08-23T13:21:34",
+    "updated_at": "2021-05-25T15:40:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:siclock_tc100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

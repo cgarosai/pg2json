@@ -1,0 +1,10 @@
+{
+    "id": 5422,
+    "name": "smartswitch_router_8000_firmware",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cabletron:smartswitch_router_8000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

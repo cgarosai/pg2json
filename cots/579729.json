@@ -1,0 +1,10 @@
+{
+    "id": 579729,
+    "name": "ftpshell_client",
+    "version": "6.70",
+    "created_at": "2020-08-03T17:28:51",
+    "updated_at": "2020-08-03T17:28:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ftpshell:ftpshell_client:6.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

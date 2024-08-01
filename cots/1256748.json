@@ -1,0 +1,10 @@
+{
+    "id": 1256748,
+    "name": "snyk_cli",
+    "version": "1.410.4",
+    "created_at": "2024-02-08T18:18:03",
+    "updated_at": "2024-02-08T18:18:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_cli:1.410.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

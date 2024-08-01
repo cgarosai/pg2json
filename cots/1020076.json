@@ -1,0 +1,10 @@
+{
+    "id": 1020076,
+    "name": "big-ip_application_acceleration_manager",
+    "version": "15.1.8.1",
+    "created_at": "2023-02-08T16:59:50",
+    "updated_at": "2023-02-16T15:12:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:15.1.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 207261,
+    "name": "hex_core",
+    "version": "0.2.0",
+    "created_at": "2019-02-07T17:23:32",
+    "updated_at": "2019-02-07T17:23:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hexpm:hex_core:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

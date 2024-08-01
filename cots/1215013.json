@@ -1,0 +1,10 @@
+{
+    "id": 1215013,
+    "name": "python",
+    "version": "3.12.0",
+    "created_at": "2023-12-08T16:03:52",
+    "updated_at": "2023-12-08T16:03:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:python:3.12.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

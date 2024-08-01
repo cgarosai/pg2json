@@ -1,0 +1,10 @@
+{
+    "id": 210817,
+    "name": "m5054_firmware",
+    "version": "6.53.2.1",
+    "created_at": "2019-03-20T16:44:47",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:m5054_firmware:6.53.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

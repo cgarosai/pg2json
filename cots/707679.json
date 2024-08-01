@@ -1,0 +1,10 @@
+{
+    "id": 707679,
+    "name": "broadworks_messaging_server",
+    "version": "22.0",
+    "created_at": "2021-05-12T13:44:15",
+    "updated_at": "2021-05-25T11:54:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:broadworks_messaging_server:22.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

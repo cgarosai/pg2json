@@ -1,0 +1,10 @@
+{
+    "id": 578903,
+    "name": "web_vulnerability_scanner",
+    "version": "9.5",
+    "created_at": "2020-08-03T10:46:34",
+    "updated_at": "2020-08-03T10:46:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acunetix:web_vulnerability_scanner:9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

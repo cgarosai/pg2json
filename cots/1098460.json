@@ -1,0 +1,10 @@
+{
+    "id": 1098460,
+    "name": "servicenow",
+    "version": "tokyo",
+    "created_at": "2023-06-06T15:12:16",
+    "updated_at": "2023-07-01T01:23:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servicenow:servicenow:tokyo:patch_2_hotfix_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 768502,
+    "name": "fabric_operating_system",
+    "version": "7.4.2g",
+    "created_at": "2021-08-23T12:38:42",
+    "updated_at": "2021-08-23T12:45:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:fabric_operating_system:7.4.2g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

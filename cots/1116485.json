@@ -1,0 +1,10 @@
+{
+    "id": 1116485,
+    "name": "apache-airflow-providers-jdbc",
+    "version": "3.0.0",
+    "created_at": "2023-07-06T17:24:41",
+    "updated_at": "2023-07-07T09:56:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-jdbc:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

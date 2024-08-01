@@ -1,0 +1,10 @@
+{
+    "id": 1160168,
+    "name": "emc_xc_core_xc640_firmware",
+    "version": "-",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_xc_core_xc640_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

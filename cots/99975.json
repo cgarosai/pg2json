@@ -1,0 +1,10 @@
+{
+    "id": 99975,
+    "name": "\\",
+    "version": "address_module_project",
+    "created_at": "2014-07-07T12:34:54",
+    "updated_at": "2014-07-10T11:53:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:email\\:\\:address_module_project:email\\:\\:address:1.80:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

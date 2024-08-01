@@ -1,0 +1,10 @@
+{
+    "id": 546887,
+    "name": "m5300_firmware",
+    "version": "11.0.0.28",
+    "created_at": "2020-05-07T09:48:03",
+    "updated_at": "2020-05-07T09:48:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:m5300_firmware:11.0.0.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

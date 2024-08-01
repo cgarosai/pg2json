@@ -1,0 +1,10 @@
+{
+    "id": 802901,
+    "name": "r7100lg_firmware",
+    "version": "1.0.0.72",
+    "created_at": "2021-11-17T13:28:49",
+    "updated_at": "2021-11-17T13:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7100lg_firmware:1.0.0.72:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

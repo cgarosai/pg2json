@@ -1,0 +1,10 @@
+{
+    "id": 53025,
+    "name": "hostapd",
+    "version": "0.2.0",
+    "created_at": "2012-07-09T11:52:36",
+    "updated_at": "2012-07-09T12:06:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:w1.f1:hostapd:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

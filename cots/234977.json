@@ -1,0 +1,10 @@
+{
+    "id": 234977,
+    "name": "security_guardium",
+    "version": "10.1.4",
+    "created_at": "2019-05-20T13:54:16",
+    "updated_at": "2019-05-20T13:54:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_guardium:10.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

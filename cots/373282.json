@@ -1,0 +1,10 @@
+{
+    "id": 373282,
+    "name": "application_performance_management",
+    "version": "8.1.4",
+    "created_at": "2019-09-23T11:43:07",
+    "updated_at": "2019-09-23T11:43:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:advanced_private:*:*:*",
+    "to_analyse": false
+}

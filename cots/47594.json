@@ -1,0 +1,10 @@
+{
+    "id": 47594,
+    "name": "sysfw",
+    "version": "6.3",
+    "created_at": "2011-07-21T13:24:57",
+    "updated_at": "2011-07-27T14:03:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:sysfw:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

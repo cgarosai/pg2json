@@ -1,0 +1,10 @@
+{
+    "id": 581399,
+    "name": "security_guardium_insights",
+    "version": "2.0.2",
+    "created_at": "2020-08-25T12:44:55",
+    "updated_at": "2020-08-25T12:44:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_guardium_insights:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

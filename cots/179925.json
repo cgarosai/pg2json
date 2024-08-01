@@ -1,0 +1,10 @@
+{
+    "id": 179925,
+    "name": "urbancode_deploy",
+    "version": "6.9.6.0",
+    "created_at": "2018-10-10T14:32:05",
+    "updated_at": "2018-10-10T14:32:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:urbancode_deploy:6.9.6.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

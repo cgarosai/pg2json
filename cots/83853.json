@@ -1,0 +1,10 @@
+{
+    "id": 83853,
+    "name": "windows_media_player",
+    "version": "11.0.5721.5230",
+    "created_at": "2014-03-31T16:37:12",
+    "updated_at": "2014-03-31T17:09:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_media_player:11.0.5721.5230:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

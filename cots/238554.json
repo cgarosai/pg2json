@@ -1,0 +1,10 @@
+{
+    "id": 238554,
+    "name": "windows_server_2016",
+    "version": "-",
+    "created_at": "2019-05-07T10:23:44",
+    "updated_at": "2021-06-24T14:44:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x86:*",
+    "to_analyse": false
+}

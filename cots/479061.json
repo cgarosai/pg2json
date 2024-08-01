@@ -1,0 +1,10 @@
+{
+    "id": 479061,
+    "name": "xeon_6134_firmware",
+    "version": "-",
+    "created_at": "2020-01-15T13:42:12",
+    "updated_at": "2020-01-15T13:42:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_6134_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

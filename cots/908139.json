@@ -1,0 +1,10 @@
+{
+    "id": 908139,
+    "name": "t6_firmware",
+    "version": "4.1.9cu.5179_b20201015",
+    "created_at": "2022-07-08T15:17:30",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:totolink:t6_firmware:4.1.9cu.5179_b20201015:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

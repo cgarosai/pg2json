@@ -1,0 +1,10 @@
+{
+    "id": 117649,
+    "name": "file_transfer_appliance",
+    "version": "9_11_210",
+    "created_at": "2016-05-09T13:13:49",
+    "updated_at": "2021-04-02T13:00:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:accellion:file_transfer_appliance:9_11_210:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

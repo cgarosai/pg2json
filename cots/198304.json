@@ -1,0 +1,10 @@
+{
+    "id": 198304,
+    "name": "linux_audit",
+    "version": "2.2.3",
+    "created_at": "2018-12-31T13:55:01",
+    "updated_at": "2018-12-31T13:55:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux_audit_project:linux_audit:2.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

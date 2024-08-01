@@ -1,0 +1,10 @@
+{
+    "id": 615737,
+    "name": "lightning",
+    "version": "1.2.1",
+    "created_at": "2020-10-28T18:11:27",
+    "updated_at": "2020-10-28T18:11:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightning-viz:lightning:1.2.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

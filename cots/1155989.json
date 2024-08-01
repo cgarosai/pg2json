@@ -1,0 +1,10 @@
+{
+    "id": 1155989,
+    "name": "cbfs_filter",
+    "version": "20.0.8047",
+    "created_at": "2023-09-12T13:43:52",
+    "updated_at": "2023-09-12T13:43:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:callback:cbfs_filter:20.0.8047:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

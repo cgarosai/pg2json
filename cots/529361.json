@@ -1,0 +1,10 @@
+{
+    "id": 529361,
+    "name": "command_client",
+    "version": "2.7.2",
+    "created_at": "2020-04-03T12:41:44",
+    "updated_at": "2020-04-03T12:41:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marchnetworks:command_client:2.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 96658,
+    "name": "gitlab",
+    "version": "4.0.0",
+    "created_at": "2014-05-12T15:58:48",
+    "updated_at": "2014-05-14T15:44:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitlab:gitlab:4.0.0:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

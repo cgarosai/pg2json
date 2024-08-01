@@ -1,0 +1,10 @@
+{
+    "id": 114029,
+    "name": "ethernet_controller_xl710-am1_sr1zn",
+    "version": "-",
+    "created_at": "2017-01-10T18:57:23",
+    "updated_at": "2021-04-30T14:39:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ethernet_controller_xl710-am1_sr1zn:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

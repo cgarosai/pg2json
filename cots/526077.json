@@ -1,0 +1,10 @@
+{
+    "id": 526077,
+    "name": "django-nopassword",
+    "version": "2.0.0",
+    "created_at": "2020-04-01T09:48:35",
+    "updated_at": "2020-04-01T09:48:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-nopassword_project:django-nopassword:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

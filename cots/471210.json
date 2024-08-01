@@ -1,0 +1,10 @@
+{
+    "id": 471210,
+    "name": "anti-virus",
+    "version": "19.3.3084",
+    "created_at": "2020-01-18T23:41:47",
+    "updated_at": "2020-01-18T23:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avg:anti-virus:19.3.3084:*:*:*:internet_security:*:*:*",
+    "to_analyse": false
+}

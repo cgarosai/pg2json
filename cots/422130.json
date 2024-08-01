@@ -1,0 +1,10 @@
+{
+    "id": 422130,
+    "name": "phore",
+    "version": "0.5.0",
+    "created_at": "2019-11-06T15:11:31",
+    "updated_at": "2019-11-06T15:11:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phore:phore:0.5.0:rc6:*:*:*:*:*:*",
+    "to_analyse": false
+}

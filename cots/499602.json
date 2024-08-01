@@ -1,0 +1,10 @@
+{
+    "id": 499602,
+    "name": "asset_suite",
+    "version": "9.0.0",
+    "created_at": "2020-02-21T14:43:16",
+    "updated_at": "2023-05-16T18:06:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abb:asset_suite:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

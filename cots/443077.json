@@ -1,0 +1,10 @@
+{
+    "id": 443077,
+    "name": "horde_kolab_storage",
+    "version": "2.0.0",
+    "created_at": "2019-12-04T12:07:53",
+    "updated_at": "2019-12-04T12:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_kolab_storage:2.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

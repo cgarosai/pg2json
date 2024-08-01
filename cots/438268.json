@@ -1,0 +1,10 @@
+{
+    "id": 438268,
+    "name": "activity_streams",
+    "version": "6.3.0",
+    "created_at": "2019-11-15T17:31:13",
+    "updated_at": "2019-11-15T17:31:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:activity_streams:6.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

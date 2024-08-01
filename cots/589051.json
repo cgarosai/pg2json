@@ -1,0 +1,10 @@
+{
+    "id": 589051,
+    "name": "tivoli_integration_composer",
+    "version": "7.6",
+    "created_at": "2020-08-20T14:49:18",
+    "updated_at": "2020-08-20T14:49:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_integration_composer:7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

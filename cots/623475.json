@@ -1,0 +1,10 @@
+{
+    "id": 623475,
+    "name": "webarchive_agent",
+    "version": "0.82",
+    "created_at": "2020-12-09T16:34:54",
+    "updated_at": "2020-12-09T16:34:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jolokia:webarchive_agent:0.82:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 652175,
+    "name": "fsm-5000_firmware",
+    "version": "-",
+    "created_at": "2021-02-17T16:40:33",
+    "updated_at": "2021-02-17T16:40:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:fsm-5000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

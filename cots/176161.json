@@ -1,0 +1,10 @@
+{
+    "id": 176161,
+    "name": "core_2_duo",
+    "version": "e7200",
+    "created_at": "2018-09-11T16:55:47",
+    "updated_at": "2021-04-30T11:21:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_2_duo:e7200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

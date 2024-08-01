@@ -1,0 +1,10 @@
+{
+    "id": 610415,
+    "name": "self_service_password_reset",
+    "version": "4.4.0.6",
+    "created_at": "2020-11-17T16:23:10",
+    "updated_at": "2020-11-17T16:23:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:self_service_password_reset:4.4.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

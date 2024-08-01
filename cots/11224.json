@@ -1,0 +1,10 @@
+{
+    "id": 11224,
+    "name": "socks_5",
+    "version": "1.0r11",
+    "created_at": "2007-12-31T13:03:46",
+    "updated_at": "2012-05-10T13:20:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nec:socks_5:1.0r11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

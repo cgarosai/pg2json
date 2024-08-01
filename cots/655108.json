@@ -1,0 +1,10 @@
+{
+    "id": 655108,
+    "name": "bra",
+    "version": "0.1.1",
+    "created_at": "2021-02-01T19:11:39",
+    "updated_at": "2021-02-01T19:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bra_project:bra:0.1.1:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

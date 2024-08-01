@@ -1,0 +1,10 @@
+{
+    "id": 792951,
+    "name": "unified_threat_defense",
+    "version": "17.4.2",
+    "created_at": "2021-10-28T16:02:20",
+    "updated_at": "2021-10-29T13:39:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unified_threat_defense:17.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

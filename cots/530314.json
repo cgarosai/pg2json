@@ -1,0 +1,10 @@
+{
+    "id": 530314,
+    "name": "compute_module_mfs2600ki_firmware",
+    "version": "-",
+    "created_at": "2020-04-28T09:23:57",
+    "updated_at": "2020-04-28T09:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:compute_module_mfs2600ki_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

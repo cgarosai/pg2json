@@ -1,0 +1,10 @@
+{
+    "id": 682849,
+    "name": "friendica",
+    "version": "2019.04",
+    "created_at": "2021-04-12T09:52:20",
+    "updated_at": "2021-04-15T14:25:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:friendica:friendica:2019.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

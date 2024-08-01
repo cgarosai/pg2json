@@ -1,0 +1,10 @@
+{
+    "id": 217741,
+    "name": "webkitgtk",
+    "version": "2.23.2",
+    "created_at": "2019-03-18T13:11:40",
+    "updated_at": "2019-03-18T13:11:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webkitgtk:webkitgtk:2.23.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

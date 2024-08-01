@@ -1,0 +1,10 @@
+{
+    "id": 17412,
+    "name": "linux",
+    "version": "7.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-29T16:11:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:linux:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

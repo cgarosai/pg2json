@@ -1,0 +1,10 @@
+{
+    "id": 116844,
+    "name": "libotr",
+    "version": "4.1.0",
+    "created_at": "2016-04-08T17:58:52",
+    "updated_at": "2021-05-27T15:03:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cypherpunks:libotr:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

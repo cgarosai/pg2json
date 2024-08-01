@@ -1,0 +1,10 @@
+{
+    "id": 781778,
+    "name": "unicorn",
+    "version": "0.2.2",
+    "created_at": "2021-10-08T10:47:23",
+    "updated_at": "2021-10-15T11:56:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-unicorn:unicorn:0.2.2:*:*:*:*:django:*:*",
+    "to_analyse": false
+}

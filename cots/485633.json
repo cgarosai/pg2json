@@ -1,0 +1,10 @@
+{
+    "id": 485633,
+    "name": "chatbot_with_ibm_watson",
+    "version": "0.8.16",
+    "created_at": "2020-01-29T18:55:51",
+    "updated_at": "2020-01-29T18:55:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:chatbot_with_ibm_watson:0.8.16:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

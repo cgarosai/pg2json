@@ -1,0 +1,10 @@
+{
+    "id": 1142552,
+    "name": "shescape",
+    "version": "1.6.4",
+    "created_at": "2023-09-01T12:56:23",
+    "updated_at": "2023-09-05T17:47:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shescape_project:shescape:1.6.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

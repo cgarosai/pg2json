@@ -1,0 +1,10 @@
+{
+    "id": 348923,
+    "name": "hybris",
+    "version": "6.6",
+    "created_at": "2019-08-26T10:41:47",
+    "updated_at": "2019-08-26T10:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:hybris:6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

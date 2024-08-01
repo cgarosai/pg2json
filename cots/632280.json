@@ -1,0 +1,10 @@
+{
+    "id": 632280,
+    "name": "opensmtpd",
+    "version": "6.8.0",
+    "created_at": "2020-12-30T13:02:37",
+    "updated_at": "2020-12-30T13:02:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensmtpd:opensmtpd:6.8.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

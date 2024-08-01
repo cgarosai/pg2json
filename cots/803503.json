@@ -1,0 +1,10 @@
+{
+    "id": 803503,
+    "name": "ddr4_sdram_firmware",
+    "version": "-",
+    "created_at": "2021-11-18T11:37:40",
+    "updated_at": "2022-09-19T11:19:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:micron:ddr4_sdram_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

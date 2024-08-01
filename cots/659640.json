@@ -1,0 +1,10 @@
+{
+    "id": 659640,
+    "name": "traffic_control",
+    "version": "1.2.0",
+    "created_at": "2021-02-10T18:43:12",
+    "updated_at": "2021-02-10T18:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:traffic_control:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

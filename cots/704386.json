@@ -1,0 +1,10 @@
+{
+    "id": 704386,
+    "name": "meridian",
+    "version": "2019.1.19",
+    "created_at": "2021-05-26T12:21:27",
+    "updated_at": "2021-06-02T16:44:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opennms:meridian:2019.1.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

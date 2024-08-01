@@ -1,0 +1,10 @@
+{
+    "id": 246966,
+    "name": "modicon_m200",
+    "version": "-",
+    "created_at": "2019-05-23T16:44:56",
+    "updated_at": "2022-01-31T18:44:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:schneider-electric:modicon_m200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

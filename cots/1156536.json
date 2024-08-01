@@ -1,0 +1,10 @@
+{
+    "id": 1156536,
+    "name": "wiremock",
+    "version": "3.0.0",
+    "created_at": "2023-09-12T15:30:38",
+    "updated_at": "2023-09-12T15:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wiremock:wiremock:3.0.0:beta8:*:*:*:*:*:*",
+    "to_analyse": false
+}

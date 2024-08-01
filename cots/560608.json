@@ -1,0 +1,10 @@
+{
+    "id": 560608,
+    "name": "p30_firmware",
+    "version": "10.1.0.160\\(c00e160r2p11\\)",
+    "created_at": "2020-07-10T14:32:03",
+    "updated_at": "2020-07-10T14:32:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p30_firmware:10.1.0.160\\(c00e160r2p11\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

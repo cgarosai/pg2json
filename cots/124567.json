@@ -1,0 +1,10 @@
+{
+    "id": 124567,
+    "name": "oauth",
+    "version": "1.9.2",
+    "created_at": "2017-09-05T12:04:18",
+    "updated_at": "2017-09-05T12:04:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:oauth:1.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

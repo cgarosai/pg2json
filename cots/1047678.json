@@ -1,0 +1,10 @@
+{
+    "id": 1047678,
+    "name": "sudo",
+    "version": "1.9.13",
+    "created_at": "2023-03-07T15:42:24",
+    "updated_at": "2023-03-21T15:32:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sudo_project:sudo:1.9.13:p2:*:*:*:*:*:*",
+    "to_analyse": false
+}

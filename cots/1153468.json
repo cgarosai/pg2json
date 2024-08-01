@@ -1,0 +1,10 @@
+{
+    "id": 1153468,
+    "name": "powermonitor_1000_firmware",
+    "version": "-",
+    "created_at": "2023-09-22T16:13:59",
+    "updated_at": "2023-09-22T16:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:powermonitor_1000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

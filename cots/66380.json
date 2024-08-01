@@ -1,0 +1,10 @@
+{
+    "id": 66380,
+    "name": "bind-dyndb-ldap",
+    "version": "1.1.0",
+    "created_at": "2012-08-08T15:16:09",
+    "updated_at": "2012-08-10T15:19:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:martin_nagy:bind-dyndb-ldap:1.1.0:a1:*:*:*:*:*:*",
+    "to_analyse": false
+}

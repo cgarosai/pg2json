@@ -1,0 +1,10 @@
+{
+    "id": 881697,
+    "name": "competency_and_skills_system",
+    "version": "1.5.2",
+    "created_at": "2022-06-06T11:15:24",
+    "updated_at": "2022-06-06T11:31:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cassproject:competency_and_skills_system:1.5.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

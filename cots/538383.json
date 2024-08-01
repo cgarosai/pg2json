@@ -1,0 +1,10 @@
+{
+    "id": 538383,
+    "name": "anti-virus_for_sophos_home",
+    "version": "2.2.6",
+    "created_at": "2020-04-23T09:35:51",
+    "updated_at": "2021-05-06T13:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:anti-virus_for_sophos_home:2.2.6:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 475804,
+    "name": "movies",
+    "version": "0.6",
+    "created_at": "2020-01-09T18:09:12",
+    "updated_at": "2020-01-09T18:09:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:movies_project:movies:0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

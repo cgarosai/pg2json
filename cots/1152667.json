@@ -1,0 +1,10 @@
+{
+    "id": 1152667,
+    "name": "systeminformation",
+    "version": "5.17.10",
+    "created_at": "2023-09-22T11:03:41",
+    "updated_at": "2023-09-22T11:03:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:systeminformation:systeminformation:5.17.10:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

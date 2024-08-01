@@ -1,0 +1,10 @@
+{
+    "id": 1025558,
+    "name": "view-cloner",
+    "version": "1.0",
+    "created_at": "2023-02-01T17:56:15",
+    "updated_at": "2023-02-02T13:57:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:view-cloner:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

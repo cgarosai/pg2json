@@ -1,0 +1,10 @@
+{
+    "id": 532313,
+    "name": "on-premise",
+    "version": "20.1.11",
+    "created_at": "2020-04-30T12:55:51",
+    "updated_at": "2020-04-30T12:55:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysaid:on-premise:20.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

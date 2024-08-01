@@ -1,0 +1,10 @@
+{
+    "id": 802710,
+    "name": "emc_powerscale_nodes_h5600",
+    "version": "-",
+    "created_at": "2021-11-16T17:27:34",
+    "updated_at": "2021-11-16T18:27:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:emc_powerscale_nodes_h5600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

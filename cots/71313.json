@@ -1,0 +1,10 @@
+{
+    "id": 71313,
+    "name": "h3c_router",
+    "version": "msr_50-60",
+    "created_at": "2013-07-08T16:02:06",
+    "updated_at": "2013-07-12T15:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_router:msr_50-60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

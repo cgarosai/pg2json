@@ -1,0 +1,10 @@
+{
+    "id": 596597,
+    "name": "scada_web_server",
+    "version": "-",
+    "created_at": "2020-09-08T13:49:46",
+    "updated_at": "2020-09-08T13:49:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spidercontrol:scada_web_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

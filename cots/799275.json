@@ -1,0 +1,10 @@
+{
+    "id": 799275,
+    "name": "camptix_event_ticketing",
+    "version": "1.5.0",
+    "created_at": "2021-10-21T11:12:52",
+    "updated_at": "2021-10-21T13:59:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:camptix_event_ticketing:1.5.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

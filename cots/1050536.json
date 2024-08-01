@@ -1,0 +1,10 @@
+{
+    "id": 1050536,
+    "name": "tripleo_ansible",
+    "version": "3.0.0",
+    "created_at": "2023-03-28T11:32:01",
+    "updated_at": "2023-04-07T21:32:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:tripleo_ansible:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

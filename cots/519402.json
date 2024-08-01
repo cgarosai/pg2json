@@ -1,0 +1,10 @@
+{
+    "id": 519402,
+    "name": "xeon_l5335",
+    "version": "-",
+    "created_at": "2020-03-23T13:42:01",
+    "updated_at": "2020-03-23T13:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_l5335:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

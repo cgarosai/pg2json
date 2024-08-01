@@ -1,0 +1,10 @@
+{
+    "id": 3047,
+    "name": "inventory_scout",
+    "version": "2.2.0.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:inventory_scout:2.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

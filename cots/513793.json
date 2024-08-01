@@ -1,0 +1,10 @@
+{
+    "id": 513793,
+    "name": "emc_data_protection_advisor",
+    "version": "6.3",
+    "created_at": "2020-03-31T13:07:41",
+    "updated_at": "2020-03-31T13:07:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_data_protection_advisor:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 809075,
+    "name": "stor2rrd",
+    "version": "2.10",
+    "created_at": "2021-11-09T19:31:35",
+    "updated_at": "2021-11-10T01:40:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xorux:stor2rrd:2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

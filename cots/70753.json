@@ -1,0 +1,10 @@
+{
+    "id": 70753,
+    "name": "post-mail",
+    "version": "6.62",
+    "created_at": "2013-07-01T14:19:46",
+    "updated_at": "2013-07-18T14:43:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kent-web:post-mail:6.62:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

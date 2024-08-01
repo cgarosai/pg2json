@@ -1,0 +1,10 @@
+{
+    "id": 983634,
+    "name": "linux-loader",
+    "version": "0.7.0",
+    "created_at": "2022-12-14T14:58:58",
+    "updated_at": "2022-12-14T19:30:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux-loader_project:linux-loader:0.7.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

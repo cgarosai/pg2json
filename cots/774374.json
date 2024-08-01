@@ -1,0 +1,10 @@
+{
+    "id": 774374,
+    "name": "powervm_hypervisor",
+    "version": "fw860",
+    "created_at": "2021-09-24T14:07:29",
+    "updated_at": "2022-08-04T13:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:powervm_hypervisor:fw860:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

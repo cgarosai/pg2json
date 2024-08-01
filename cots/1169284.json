@@ -1,0 +1,10 @@
+{
+    "id": 1169284,
+    "name": "stanford_parser",
+    "version": "3.9.2",
+    "created_at": "2023-09-28T13:09:40",
+    "updated_at": "2023-09-28T13:09:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stanford:stanford_parser:3.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

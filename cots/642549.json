@@ -1,0 +1,10 @@
+{
+    "id": 642549,
+    "name": "trace_file_analyzer",
+    "version": "18c",
+    "created_at": "2021-01-27T14:03:07",
+    "updated_at": "2021-01-27T14:03:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:trace_file_analyzer:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

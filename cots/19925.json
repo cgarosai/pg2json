@@ -1,0 +1,10 @@
+{
+    "id": 19925,
+    "name": "procurve_switch_9300m",
+    "version": "08.0.01i",
+    "created_at": "2007-09-05T19:05:52",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:procurve_switch_9300m:08.0.01i:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

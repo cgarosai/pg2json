@@ -1,0 +1,10 @@
+{
+    "id": 11165,
+    "name": "mysql_banner_exchange",
+    "version": "-",
+    "created_at": "2007-12-24T13:16:57",
+    "updated_at": "2007-12-24T13:16:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php:mysql_banner_exchange:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

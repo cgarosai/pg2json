@@ -1,0 +1,10 @@
+{
+    "id": 1014109,
+    "name": "rv042_firmware",
+    "version": "-",
+    "created_at": "2023-01-27T16:55:32",
+    "updated_at": "2023-08-21T11:41:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv042_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

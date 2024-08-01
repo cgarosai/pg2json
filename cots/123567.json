@@ -1,0 +1,10 @@
+{
+    "id": 123567,
+    "name": "dsl-n10s_router",
+    "version": "-",
+    "created_at": "2017-08-22T14:17:52",
+    "updated_at": "2021-04-07T11:24:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:asus:dsl-n10s_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

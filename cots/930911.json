@@ -1,0 +1,10 @@
+{
+    "id": 930911,
+    "name": "jose",
+    "version": "4.0.4",
+    "created_at": "2022-09-12T11:36:05",
+    "updated_at": "2022-09-12T11:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jose_project:jose:4.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 736160,
+    "name": "puppetlabs-mysql",
+    "version": "3.6.2",
+    "created_at": "2021-07-01T11:52:18",
+    "updated_at": "2021-07-01T11:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:puppetlabs-mysql:3.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

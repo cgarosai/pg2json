@@ -1,0 +1,10 @@
+{
+    "id": 1052839,
+    "name": "graphql-java",
+    "version": "16.2",
+    "created_at": "2023-03-30T15:54:13",
+    "updated_at": "2023-04-03T10:26:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:graphql-java:graphql-java:16.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

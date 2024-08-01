@@ -1,0 +1,10 @@
+{
+    "id": 124827,
+    "name": "scan_to_network",
+    "version": "3.2.9",
+    "created_at": "2017-09-12T12:39:02",
+    "updated_at": "2021-03-30T17:53:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lexmark:scan_to_network:3.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

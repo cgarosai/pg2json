@@ -1,0 +1,10 @@
+{
+    "id": 590831,
+    "name": "sql_server_reporting_services",
+    "version": "2017",
+    "created_at": "2020-09-16T12:14:47",
+    "updated_at": "2021-08-17T12:24:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server_reporting_services:2017:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

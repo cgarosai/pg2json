@@ -1,0 +1,10 @@
+{
+    "id": 828696,
+    "name": "olm",
+    "version": "2.2.0",
+    "created_at": "2021-12-17T16:42:47",
+    "updated_at": "2021-12-17T18:02:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:olm:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

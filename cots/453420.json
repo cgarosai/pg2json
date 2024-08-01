@@ -1,0 +1,10 @@
+{
+    "id": 453420,
+    "name": "yale_bluetooth_key",
+    "version": "-",
+    "created_at": "2019-12-10T17:25:06",
+    "updated_at": "2019-12-10T17:25:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yalehome:yale_bluetooth_key:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 119098,
+    "name": "libusbmuxd",
+    "version": "1.0.10",
+    "created_at": "2016-06-14T14:23:58",
+    "updated_at": "2021-04-01T11:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libimobiledevice:libusbmuxd:1.0.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

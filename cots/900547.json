@@ -1,0 +1,10 @@
+{
+    "id": 900547,
+    "name": "comment_license",
+    "version": "1.4.0",
+    "created_at": "2022-07-14T10:04:45",
+    "updated_at": "2022-07-26T12:08:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:comment_license_project:comment_license:1.4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 585679,
+    "name": "ac_9462_firmware",
+    "version": "21.70",
+    "created_at": "2020-08-14T11:30:51",
+    "updated_at": "2021-05-03T17:06:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ac_9462_firmware:21.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1194197,
+    "name": "ryzen_9_6900hx_firmware",
+    "version": "rembrandtpi-fp7_1.0.0.5",
+    "created_at": "2023-11-24T12:47:15",
+    "updated_at": "2023-11-24T12:47:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_9_6900hx_firmware:rembrandtpi-fp7_1.0.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 145447,
+    "name": "pentium_j",
+    "version": "j3710",
+    "created_at": "2018-02-07T11:27:38",
+    "updated_at": "2023-09-25T16:36:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:pentium_j:j3710:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

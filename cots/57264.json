@@ -1,0 +1,10 @@
+{
+    "id": 57264,
+    "name": "business_intelligence",
+    "version": "12.1.0.882",
+    "created_at": "2012-05-08T11:50:23",
+    "updated_at": "2012-05-08T11:50:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:businessobjects:business_intelligence:12.1.0.882:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

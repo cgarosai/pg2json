@@ -1,0 +1,10 @@
+{
+    "id": 1070517,
+    "name": "zbook_firefly_g9_firmware",
+    "version": "01.03.01",
+    "created_at": "2023-05-08T14:11:15",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:zbook_firefly_g9_firmware:01.03.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

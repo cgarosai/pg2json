@@ -1,0 +1,10 @@
+{
+    "id": 111494,
+    "name": "cloud_foundry_elastic_runtime",
+    "version": "1.7.17",
+    "created_at": "2016-09-30T14:44:03",
+    "updated_at": "2016-09-30T14:44:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_elastic_runtime:1.7.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

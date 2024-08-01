@@ -1,0 +1,10 @@
+{
+    "id": 483405,
+    "name": "pinboard",
+    "version": "1.0.6",
+    "created_at": "2020-02-07T14:27:14",
+    "updated_at": "2020-02-07T14:27:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pinboard_project:pinboard:1.0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

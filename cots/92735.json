@@ -1,0 +1,10 @@
+{
+    "id": 92735,
+    "name": "mobiscope_local",
+    "version": "1.05",
+    "created_at": "2014-09-15T23:15:11",
+    "updated_at": "2014-12-10T16:52:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobiscope:mobiscope_local:1.05:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

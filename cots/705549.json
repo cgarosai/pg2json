@@ -1,0 +1,10 @@
+{
+    "id": 705549,
+    "name": "development_system",
+    "version": "3.5.17.0",
+    "created_at": "2021-05-06T13:33:59",
+    "updated_at": "2021-05-17T11:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:development_system:3.5.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

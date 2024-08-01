@@ -1,0 +1,10 @@
+{
+    "id": 1014991,
+    "name": "structured_content",
+    "version": "1.4.2",
+    "created_at": "2023-01-31T15:43:22",
+    "updated_at": "2023-01-31T15:45:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpsc-plugin:structured_content:1.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

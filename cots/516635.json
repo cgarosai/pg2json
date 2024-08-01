@@ -1,0 +1,10 @@
+{
+    "id": 516635,
+    "name": "openstack_foreman",
+    "version": "-",
+    "created_at": "2020-03-13T14:41:24",
+    "updated_at": "2020-03-13T14:41:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openstack_foreman:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 45391,
+    "name": "siteminder",
+    "version": "12.0",
+    "created_at": "2011-04-27T15:31:00",
+    "updated_at": "2021-04-12T12:17:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:siteminder:12.0:sp3:cr01:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 815314,
+    "name": "gatekeeper",
+    "version": "3.3.0",
+    "created_at": "2021-11-19T15:45:26",
+    "updated_at": "2021-11-19T20:00:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openpolicyagent:gatekeeper:3.3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

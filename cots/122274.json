@@ -1,0 +1,10 @@
+{
+    "id": 122274,
+    "name": "srx300",
+    "version": "-",
+    "created_at": "2017-07-26T13:01:54",
+    "updated_at": "2021-03-26T18:24:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:srx300:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

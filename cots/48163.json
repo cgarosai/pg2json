@@ -1,0 +1,10 @@
+{
+    "id": 48163,
+    "name": "mybb",
+    "version": "1.0",
+    "created_at": "2011-09-08T10:50:04",
+    "updated_at": "2012-08-31T16:19:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mybb:mybb:1.0:pr2:*:*:*:*:*:*",
+    "to_analyse": false
+}

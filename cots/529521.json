@@ -1,0 +1,10 @@
+{
+    "id": 529521,
+    "name": "dubbo",
+    "version": "2.4.11",
+    "created_at": "2020-04-03T13:47:48",
+    "updated_at": "2020-04-03T13:47:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:dubbo:2.4.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

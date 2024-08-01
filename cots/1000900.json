@@ -1,0 +1,10 @@
+{
+    "id": 1000900,
+    "name": "twitter-post-fetcher",
+    "version": "14.0.0",
+    "created_at": "2023-01-05T13:45:28",
+    "updated_at": "2023-01-23T14:40:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:twitter-post-fetcher_project:twitter-post-fetcher:14.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

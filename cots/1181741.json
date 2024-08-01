@@ -1,0 +1,10 @@
+{
+    "id": 1181741,
+    "name": "rabbitmq_java_client",
+    "version": "5.14.0",
+    "created_at": "2023-10-30T17:26:03",
+    "updated_at": "2023-10-30T17:26:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:rabbitmq_java_client:5.14.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

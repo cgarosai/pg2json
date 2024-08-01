@@ -1,0 +1,10 @@
+{
+    "id": 629739,
+    "name": "open_dhcp_server",
+    "version": "0.1",
+    "created_at": "2020-12-07T12:09:55",
+    "updated_at": "2020-12-07T12:09:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open_dhcp_server_project:open_dhcp_server:0.1:beta:*:*:ldap:*:*:*",
+    "to_analyse": false
+}

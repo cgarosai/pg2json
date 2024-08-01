@@ -1,0 +1,10 @@
+{
+    "id": 65951,
+    "name": "fat32_formatter",
+    "version": "1.0.9",
+    "created_at": "2012-08-01T19:33:55",
+    "updated_at": "2020-02-24T14:02:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wdc:fat32_formatter:1.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

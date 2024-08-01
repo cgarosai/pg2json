@@ -1,0 +1,10 @@
+{
+    "id": 122339,
+    "name": "appuse",
+    "version": "4.0",
+    "created_at": "2017-07-27T18:23:49",
+    "updated_at": "2021-05-06T12:31:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appsec-labs:appuse:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

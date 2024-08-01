@@ -1,0 +1,10 @@
+{
+    "id": 638087,
+    "name": "sicam_a8000_cp-8000_firmware",
+    "version": "-",
+    "created_at": "2020-12-16T18:59:39",
+    "updated_at": "2020-12-16T18:59:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sicam_a8000_cp-8000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

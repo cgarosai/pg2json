@@ -1,0 +1,10 @@
+{
+    "id": 627348,
+    "name": "ops_manager",
+    "version": "3.6.11",
+    "created_at": "2020-12-02T11:47:08",
+    "updated_at": "2020-12-02T11:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:ops_manager:3.6.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

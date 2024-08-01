@@ -1,0 +1,10 @@
+{
+    "id": 489265,
+    "name": "ip_phone_6851_firmware",
+    "version": "-",
+    "created_at": "2020-02-03T19:01:52",
+    "updated_at": "2020-02-03T19:01:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_6851_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

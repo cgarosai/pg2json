@@ -1,0 +1,10 @@
+{
+    "id": 629514,
+    "name": "endpoint_security",
+    "version": "e84.20",
+    "created_at": "2020-12-04T18:44:10",
+    "updated_at": "2020-12-04T18:44:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:endpoint_security:e84.20:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1070276,
+    "name": "custom_login_page",
+    "version": "-",
+    "created_at": "2023-05-08T12:15:09",
+    "updated_at": "2023-07-05T10:34:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_login_page_project:custom_login_page:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

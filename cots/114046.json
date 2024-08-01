@@ -1,0 +1,10 @@
+{
+    "id": 114046,
+    "name": "eth_converged_ntwk_adptr_x710-da2_ex710da2g1p5",
+    "version": "-",
+    "created_at": "2017-01-10T18:57:23",
+    "updated_at": "2021-08-18T16:46:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:eth_converged_ntwk_adptr_x710-da2_ex710da2g1p5:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

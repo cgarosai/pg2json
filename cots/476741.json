@@ -1,0 +1,10 @@
+{
+    "id": 476741,
+    "name": "core_i7-8665ue_firmware",
+    "version": "26.20.100.6859",
+    "created_at": "2020-01-13T13:14:54",
+    "updated_at": "2020-01-13T13:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i7-8665ue_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 648538,
+    "name": "composer",
+    "version": "1.4.3",
+    "created_at": "2021-01-13T14:13:56",
+    "updated_at": "2021-07-08T12:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:composer:1.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

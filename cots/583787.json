@@ -1,0 +1,10 @@
+{
+    "id": 583787,
+    "name": "enterprise_linux_dekstop",
+    "version": "7.0",
+    "created_at": "2020-09-02T00:23:05",
+    "updated_at": "2020-10-05T09:40:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_dekstop:7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

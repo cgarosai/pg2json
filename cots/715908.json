@@ -1,0 +1,10 @@
+{
+    "id": 715908,
+    "name": "normalize-url",
+    "version": "1.7.0",
+    "created_at": "2021-05-27T14:21:17",
+    "updated_at": "2021-05-28T08:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:normalize-url_project:normalize-url:1.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 824617,
+    "name": "ms80_firmware",
+    "version": "1.1.2.20",
+    "created_at": "2022-01-07T14:41:19",
+    "updated_at": "2022-01-08T00:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:ms80_firmware:1.1.2.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

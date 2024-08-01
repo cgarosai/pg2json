@@ -1,0 +1,10 @@
+{
+    "id": 596824,
+    "name": "linux_enterprise_high_performance_computing",
+    "version": "15",
+    "created_at": "2020-09-09T09:35:21",
+    "updated_at": "2020-09-09T09:35:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_high_performance_computing:15:*:*:*:espos:*:*:*",
+    "to_analyse": false
+}

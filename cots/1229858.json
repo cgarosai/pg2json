@@ -1,0 +1,10 @@
+{
+    "id": 1229858,
+    "name": "surf_soho_firmware",
+    "version": "6.3.5",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:peplink:surf_soho_firmware:6.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

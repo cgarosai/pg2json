@@ -1,0 +1,10 @@
+{
+    "id": 1269975,
+    "name": "standalone_sentry",
+    "version": "-",
+    "created_at": "2024-04-18T12:19:44",
+    "updated_at": "2024-04-18T12:19:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:standalone_sentry:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

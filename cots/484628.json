@@ -1,0 +1,10 @@
+{
+    "id": 484628,
+    "name": "jobscheduler",
+    "version": "1.13.3",
+    "created_at": "2020-02-10T16:17:43",
+    "updated_at": "2020-02-10T16:17:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sos-berlin:jobscheduler:1.13.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

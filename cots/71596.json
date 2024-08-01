@@ -1,0 +1,10 @@
+{
+    "id": 71596,
+    "name": "lookout_security_\\&_antivirus",
+    "version": "8.17-8a39d3f",
+    "created_at": "2013-07-11T13:27:23",
+    "updated_at": "2013-07-12T16:29:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lookout:lookout_security_\\&_antivirus:8.17-8a39d3f:-:*:*:*:android:*:*",
+    "to_analyse": false
+}

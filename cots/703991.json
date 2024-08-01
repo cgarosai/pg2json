@@ -1,0 +1,10 @@
+{
+    "id": 703991,
+    "name": "pg_partman",
+    "version": "0.3.2",
+    "created_at": "2021-05-25T14:17:58",
+    "updated_at": "2021-05-26T13:16:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pgxn:pg_partman:0.3.2:*:*:*:*:postgresql:*:*",
+    "to_analyse": false
+}

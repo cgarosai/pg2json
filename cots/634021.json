@@ -1,0 +1,10 @@
+{
+    "id": 634021,
+    "name": "nsg",
+    "version": "-",
+    "created_at": "2021-01-05T12:41:58",
+    "updated_at": "2021-04-29T15:43:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:zyxel:nsg:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

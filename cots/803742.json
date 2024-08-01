@@ -1,0 +1,10 @@
+{
+    "id": 803742,
+    "name": "email_log",
+    "version": "1.6",
+    "created_at": "2021-11-18T14:08:09",
+    "updated_at": "2021-11-18T14:22:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:email_log_project:email_log:1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

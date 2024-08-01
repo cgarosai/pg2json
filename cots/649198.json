@@ -1,0 +1,10 @@
+{
+    "id": 649198,
+    "name": "netscaler_gateway",
+    "version": "12.1-58.15",
+    "created_at": "2021-01-14T18:42:27",
+    "updated_at": "2021-01-14T18:42:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:netscaler_gateway:12.1-58.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

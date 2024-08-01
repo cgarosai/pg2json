@@ -1,0 +1,10 @@
+{
+    "id": 362747,
+    "name": "tripleo_heat_templates",
+    "version": "6.2.5",
+    "created_at": "2019-09-17T13:28:05",
+    "updated_at": "2019-09-17T13:28:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:tripleo_heat_templates:6.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1245704,
+    "name": "net-ssh",
+    "version": "2.9.2",
+    "created_at": "2024-01-25T12:11:28",
+    "updated_at": "2024-01-25T12:11:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:net-ssh:net-ssh:2.9.2:-:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

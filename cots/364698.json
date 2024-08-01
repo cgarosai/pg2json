@@ -1,0 +1,10 @@
+{
+    "id": 364698,
+    "name": "membersonic",
+    "version": "1.2",
+    "created_at": "2019-09-18T11:53:13",
+    "updated_at": "2019-09-18T11:53:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:membersonic:membersonic:1.2:*:*:*:lite:wordpress:*:*",
+    "to_analyse": false
+}

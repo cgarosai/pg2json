@@ -1,0 +1,10 @@
+{
+    "id": 522645,
+    "name": "rh1288_v3_firmware",
+    "version": "v100r003c00spc100",
+    "created_at": "2020-04-07T18:28:52",
+    "updated_at": "2020-04-07T18:28:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:rh1288_v3_firmware:v100r003c00spc100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

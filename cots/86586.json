@@ -1,0 +1,10 @@
+{
+    "id": 86586,
+    "name": "sling_auth_core_component",
+    "version": "1.0.2",
+    "created_at": "2013-10-24T12:25:06",
+    "updated_at": "2013-10-25T12:52:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:sling_auth_core_component:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 17401,
+    "name": "kdelibs_devel",
+    "version": "3.1-10",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:49:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:kdelibs_devel:3.1-10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

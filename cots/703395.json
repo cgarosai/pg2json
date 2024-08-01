@@ -1,0 +1,10 @@
+{
+    "id": 703395,
+    "name": "exiv2",
+    "version": "0.27.3",
+    "created_at": "2021-05-24T17:40:24",
+    "updated_at": "2021-05-25T14:31:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exiv2:exiv2:0.27.3:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

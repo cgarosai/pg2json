@@ -1,0 +1,10 @@
+{
+    "id": 51650,
+    "name": "risk_radar",
+    "version": "1.0.0",
+    "created_at": "2012-06-21T17:08:54",
+    "updated_at": "2012-06-21T17:08:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitre:risk_radar:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

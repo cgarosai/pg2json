@@ -1,0 +1,10 @@
+{
+    "id": 876005,
+    "name": "workspace_one_access",
+    "version": "20.10.0.0",
+    "created_at": "2022-04-18T11:56:43",
+    "updated_at": "2022-05-02T11:32:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workspace_one_access:20.10.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

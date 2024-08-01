@@ -1,0 +1,10 @@
+{
+    "id": 778538,
+    "name": "web_push_notifications",
+    "version": "2.1.8",
+    "created_at": "2021-09-14T14:53:42",
+    "updated_at": "2021-09-21T11:16:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:feedify:web_push_notifications:2.1.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

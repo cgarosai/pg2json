@@ -1,0 +1,10 @@
+{
+    "id": 133208,
+    "name": "sinamics_s120_firmware",
+    "version": "-",
+    "created_at": "2018-01-11T14:10:56",
+    "updated_at": "2021-05-26T15:34:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_s120_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

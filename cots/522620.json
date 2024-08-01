@@ -1,0 +1,10 @@
+{
+    "id": 522620,
+    "name": "cloudengine_6800_firmware",
+    "version": "v100r003c10",
+    "created_at": "2020-04-07T18:19:52",
+    "updated_at": "2020-04-07T18:19:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:cloudengine_6800_firmware:v100r003c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

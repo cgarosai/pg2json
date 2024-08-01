@@ -1,0 +1,10 @@
+{
+    "id": 1215715,
+    "name": "poweredge_r960_firmware",
+    "version": "1.4.4",
+    "created_at": "2023-12-08T23:36:38",
+    "updated_at": "2023-12-08T23:36:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:poweredge_r960_firmware:1.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

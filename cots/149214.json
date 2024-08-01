@@ -1,0 +1,10 @@
+{
+    "id": 149214,
+    "name": "cordova",
+    "version": "4.0.1",
+    "created_at": "2018-04-12T15:07:36",
+    "updated_at": "2018-04-12T15:07:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cordova:4.0.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

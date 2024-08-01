@@ -1,0 +1,10 @@
+{
+    "id": 1271493,
+    "name": "nhibernate-core",
+    "version": "5.0.7",
+    "created_at": "2024-07-08T14:56:59",
+    "updated_at": "2024-07-08T14:56:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nhibernate:nhibernate-core:5.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

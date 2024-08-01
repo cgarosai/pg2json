@@ -1,0 +1,10 @@
+{
+    "id": 475597,
+    "name": "linksys_ea3500_firmware",
+    "version": "1.0.30",
+    "created_at": "2020-01-09T04:23:00",
+    "updated_at": "2021-04-21T16:17:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:linksys_ea3500_firmware:1.0.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

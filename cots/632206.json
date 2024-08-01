@@ -1,0 +1,10 @@
+{
+    "id": 632206,
+    "name": "mariadb",
+    "version": "10.3.13",
+    "created_at": "2020-12-29T18:48:27",
+    "updated_at": "2020-12-29T18:48:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mariadb:mariadb:10.3.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

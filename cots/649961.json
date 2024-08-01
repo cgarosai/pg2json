@@ -1,0 +1,10 @@
+{
+    "id": 649961,
+    "name": "ignition",
+    "version": "2.5.6",
+    "created_at": "2021-01-19T17:54:43",
+    "updated_at": "2021-02-12T14:50:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beyondco:ignition:2.5.6:*:*:*:*:laravel:*:*",
+    "to_analyse": false
+}

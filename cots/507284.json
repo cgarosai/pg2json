@@ -1,0 +1,10 @@
+{
+    "id": 507284,
+    "name": "eshop",
+    "version": "3.3.4",
+    "created_at": "2020-03-03T17:42:40",
+    "updated_at": "2020-03-03T17:42:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eshop_project:eshop:3.3.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

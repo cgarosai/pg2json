@@ -1,0 +1,10 @@
+{
+    "id": 789352,
+    "name": "sharefile_storagezones_controller",
+    "version": "-",
+    "created_at": "2021-10-05T15:00:41",
+    "updated_at": "2021-10-19T09:50:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:sharefile_storagezones_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

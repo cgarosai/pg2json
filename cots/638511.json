@@ -1,0 +1,10 @@
+{
+    "id": 638511,
+    "name": "secure_file_manager",
+    "version": "2.5",
+    "created_at": "2020-12-17T15:49:38",
+    "updated_at": "2020-12-17T15:49:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:themexa:secure_file_manager:2.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

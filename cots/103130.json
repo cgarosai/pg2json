@@ -1,0 +1,10 @@
+{
+    "id": 103130,
+    "name": "vcn500",
+    "version": "v100r002c00spc200b010",
+    "created_at": "2016-01-11T16:32:12",
+    "updated_at": "2016-01-11T16:32:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:vcn500:v100r002c00spc200b010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

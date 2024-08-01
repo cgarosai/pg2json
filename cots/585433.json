@@ -1,0 +1,10 @@
+{
+    "id": 585433,
+    "name": "compute_module_hns2600tp_firmware",
+    "version": "1.59",
+    "created_at": "2020-08-14T00:39:55",
+    "updated_at": "2021-05-03T18:08:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:compute_module_hns2600tp_firmware:1.59:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

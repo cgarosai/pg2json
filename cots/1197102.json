@@ -1,0 +1,10 @@
+{
+    "id": 1197102,
+    "name": "automation",
+    "version": "2020.0",
+    "created_at": "2023-11-08T15:38:45",
+    "updated_at": "2023-11-08T15:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:automation:2020.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

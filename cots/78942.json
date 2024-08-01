@@ -1,0 +1,10 @@
+{
+    "id": 78942,
+    "name": "erdas_apollo_ecwp",
+    "version": "13.00.0001",
+    "created_at": "2013-05-06T11:50:49",
+    "updated_at": "2013-05-08T12:46:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hexagon:erdas_apollo_ecwp:13.00.0001:-:*:*:*:internet_explorer:*:*",
+    "to_analyse": false
+}

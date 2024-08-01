@@ -1,0 +1,10 @@
+{
+    "id": 87094,
+    "name": "chrony",
+    "version": "1.26",
+    "created_at": "2013-11-06T16:18:32",
+    "updated_at": "2013-11-07T18:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tuxfamily:chrony:1.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

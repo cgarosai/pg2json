@@ -1,0 +1,10 @@
+{
+    "id": 215311,
+    "name": "dolibarr",
+    "version": "7.0.4",
+    "created_at": "2019-03-08T14:12:26",
+    "updated_at": "2022-11-17T16:21:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dolibarr:dolibarr:7.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

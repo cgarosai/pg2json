@@ -1,0 +1,10 @@
+{
+    "id": 1038011,
+    "name": "azure_machine_learning",
+    "version": "3.0.02076.0001",
+    "created_at": "2023-02-23T12:30:57",
+    "updated_at": "2023-07-21T13:08:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_machine_learning:3.0.02076.0001:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

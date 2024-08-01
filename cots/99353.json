@@ -1,0 +1,10 @@
+{
+    "id": 99353,
+    "name": "security_access_manager_for_web_8.0_firmware",
+    "version": "8.0.0.2",
+    "created_at": "2014-06-23T14:08:44",
+    "updated_at": "2014-06-24T13:02:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:security_access_manager_for_web_8.0_firmware:8.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

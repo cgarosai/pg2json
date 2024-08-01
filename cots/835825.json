@@ -1,0 +1,10 @@
+{
+    "id": 835825,
+    "name": "bizhub_c300i_firmware",
+    "version": "g00-e9",
+    "created_at": "2022-01-11T16:07:36",
+    "updated_at": "2022-01-11T18:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:konicaminolta:bizhub_c300i_firmware:g00-e9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

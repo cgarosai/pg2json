@@ -1,0 +1,10 @@
+{
+    "id": 960626,
+    "name": "cbrn-analysis",
+    "version": "-",
+    "created_at": "2022-11-15T14:27:27",
+    "updated_at": "2023-02-16T16:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bruhn-newtech:cbrn-analysis:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

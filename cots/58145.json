@@ -1,0 +1,10 @@
+{
+    "id": 58145,
+    "name": "ssh_client",
+    "version": "1.0.0",
+    "created_at": "2012-05-14T21:29:00",
+    "updated_at": "2012-05-14T21:29:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:ssh_client:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 532184,
+    "name": "\\",
+    "version": "path_project",
+    "created_at": "2020-04-29T15:45:01",
+    "updated_at": "2020-04-29T15:45:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:file\\:\\:path_project:file\\:\\:path:2.06_01:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

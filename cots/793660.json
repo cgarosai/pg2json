@@ -1,0 +1,10 @@
+{
+    "id": 793660,
+    "name": "wp-stats",
+    "version": "2.20",
+    "created_at": "2021-11-01T17:04:35",
+    "updated_at": "2021-11-01T17:32:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-stats_project:wp-stats:2.20:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

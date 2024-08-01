@@ -1,0 +1,10 @@
+{
+    "id": 1200972,
+    "name": "csvfeeds",
+    "version": "-",
+    "created_at": "2023-12-02T02:40:18",
+    "updated_at": "2023-12-02T02:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blmodules:csvfeeds:-:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

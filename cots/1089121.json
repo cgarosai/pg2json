@@ -1,0 +1,10 @@
+{
+    "id": 1089121,
+    "name": "sucms",
+    "version": "1.0",
+    "created_at": "2023-05-24T10:32:41",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sucms_project:sucms:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

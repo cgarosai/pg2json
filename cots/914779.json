@@ -1,0 +1,10 @@
+{
+    "id": 914779,
+    "name": "gnu_sasl",
+    "version": "1.7.1",
+    "created_at": "2022-08-16T14:31:37",
+    "updated_at": "2022-08-16T15:03:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gnu_sasl:1.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 865965,
+    "name": "cometd",
+    "version": "2.4.3",
+    "created_at": "2022-03-22T23:40:47",
+    "updated_at": "2022-03-28T13:34:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cometd:cometd:2.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

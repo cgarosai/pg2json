@@ -1,0 +1,10 @@
+{
+    "id": 855313,
+    "name": "database_server",
+    "version": "21.3",
+    "created_at": "2022-02-25T13:36:01",
+    "updated_at": "2022-02-25T13:56:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:database_server:21.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

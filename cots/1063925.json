@@ -1,0 +1,10 @@
+{
+    "id": 1063925,
+    "name": "taxopress",
+    "version": "3.7.0",
+    "created_at": "2023-04-25T13:14:34",
+    "updated_at": "2023-04-25T13:15:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taxopress:taxopress:3.7.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

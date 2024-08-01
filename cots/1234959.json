@@ -1,0 +1,10 @@
+{
+    "id": 1234959,
+    "name": "chromium_embedded_framework",
+    "version": "2024-01-05",
+    "created_at": "2024-01-23T16:59:08",
+    "updated_at": "2024-01-23T16:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chromiumembedded:chromium_embedded_framework:2024-01-05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

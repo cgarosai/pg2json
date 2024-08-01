@@ -1,0 +1,10 @@
+{
+    "id": 394213,
+    "name": "completeftp_server",
+    "version": "9.1.0",
+    "created_at": "2019-10-07T09:16:56",
+    "updated_at": "2019-10-07T09:16:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:enterprisedt:completeftp_server:9.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

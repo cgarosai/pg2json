@@ -1,0 +1,10 @@
+{
+    "id": 1216956,
+    "name": "graph",
+    "version": "1.16.0",
+    "created_at": "2023-12-11T16:14:47",
+    "updated_at": "2023-12-11T16:14:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:graph:1.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

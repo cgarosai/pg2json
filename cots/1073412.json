@@ -1,0 +1,10 @@
+{
+    "id": 1073412,
+    "name": "circl",
+    "version": "1.2.0",
+    "created_at": "2023-05-17T11:38:07",
+    "updated_at": "2023-06-05T13:38:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:circl:1.2.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

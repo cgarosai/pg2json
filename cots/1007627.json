@@ -1,0 +1,10 @@
+{
+    "id": 1007627,
+    "name": "stop_spammers",
+    "version": "2022.6",
+    "created_at": "2023-01-03T15:40:10",
+    "updated_at": "2023-01-04T19:03:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trumani:stop_spammers:2022.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

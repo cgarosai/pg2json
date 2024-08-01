@@ -1,0 +1,10 @@
+{
+    "id": 88870,
+    "name": "ruggedcom_rugged_operating_system",
+    "version": "3.2.5",
+    "created_at": "2013-12-17T14:07:24",
+    "updated_at": "2013-12-17T14:13:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:ruggedcom_rugged_operating_system:3.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

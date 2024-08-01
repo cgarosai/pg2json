@@ -1,0 +1,10 @@
+{
+    "id": 217457,
+    "name": "warnings_next_generation",
+    "version": "1.0.0",
+    "created_at": "2019-03-15T18:26:54",
+    "updated_at": "2019-03-15T18:26:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:warnings_next_generation:1.0.0:beta7:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

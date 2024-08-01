@@ -1,0 +1,10 @@
+{
+    "id": 673702,
+    "name": "video_client",
+    "version": "1.7.6.079",
+    "created_at": "2021-03-25T16:52:28",
+    "updated_at": "2021-03-30T11:27:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:video_client:1.7.6.079:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 528606,
+    "name": "fuse",
+    "version": "6.0.0",
+    "created_at": "2020-04-02T15:13:29",
+    "updated_at": "2020-04-02T15:13:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:fuse:6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

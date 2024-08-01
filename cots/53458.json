@@ -1,0 +1,10 @@
+{
+    "id": 53458,
+    "name": "sql_optimizer_for_oracle_common",
+    "version": "1.0.0.100",
+    "created_at": "2012-07-10T01:18:04",
+    "updated_at": "2012-07-10T01:18:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:sql_optimizer_for_oracle_common:1.0.0.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

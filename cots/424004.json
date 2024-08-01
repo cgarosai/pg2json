@@ -1,0 +1,10 @@
+{
+    "id": 424004,
+    "name": "pg",
+    "version": "1.0.4",
+    "created_at": "2019-11-08T15:27:52",
+    "updated_at": "2019-11-08T15:27:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-postgres:pg:1.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

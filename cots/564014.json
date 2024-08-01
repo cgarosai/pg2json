@@ -1,0 +1,10 @@
+{
+    "id": 564014,
+    "name": "lua",
+    "version": "2.5",
+    "created_at": "2020-07-22T14:55:56",
+    "updated_at": "2020-07-22T14:55:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lua:lua:2.5:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

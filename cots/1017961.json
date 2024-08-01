@@ -1,0 +1,10 @@
+{
+    "id": 1017961,
+    "name": "epyc_7773x_firmware",
+    "version": "milanpi-sp3_1.0.0.9",
+    "created_at": "2023-01-17T17:33:11",
+    "updated_at": "2023-01-25T05:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7773x_firmware:milanpi-sp3_1.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

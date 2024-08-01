@@ -1,0 +1,10 @@
+{
+    "id": 1004302,
+    "name": "b2_command_line_tool",
+    "version": "0.7.4",
+    "created_at": "2023-01-10T19:48:55",
+    "updated_at": "2023-01-10T19:57:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:backblaze:b2_command_line_tool:0.7.4:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

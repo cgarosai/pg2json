@@ -1,0 +1,10 @@
+{
+    "id": 1119254,
+    "name": "openshift_container_platform_for_linuxone",
+    "version": "4.11",
+    "created_at": "2023-07-11T17:59:14",
+    "updated_at": "2023-07-15T01:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_container_platform_for_linuxone:4.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 625517,
+    "name": "pc_analyser",
+    "version": "4.05",
+    "created_at": "2020-11-30T14:45:49",
+    "updated_at": "2020-11-30T14:45:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pcanalyser:pc_analyser:4.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

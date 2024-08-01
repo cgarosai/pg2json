@@ -1,0 +1,10 @@
+{
+    "id": 97589,
+    "name": "visual_studio",
+    "version": "2012",
+    "created_at": "2014-05-21T21:42:42",
+    "updated_at": "2014-06-24T16:27:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio:2012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

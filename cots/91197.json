@@ -1,0 +1,10 @@
+{
+    "id": 91197,
+    "name": "fi_manager_self-service",
+    "version": "-",
+    "created_at": "2014-08-01T13:09:27",
+    "updated_at": "2014-08-04T13:10:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:fi_manager_self-service:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 649293,
+    "name": "sinamics_v90_pn_firmware",
+    "version": "1.01",
+    "created_at": "2021-01-14T18:46:18",
+    "updated_at": "2021-01-14T18:46:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_v90_pn_firmware:1.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

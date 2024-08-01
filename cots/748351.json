@@ -1,0 +1,10 @@
+{
+    "id": 748351,
+    "name": "printf",
+    "version": "0.0.5",
+    "created_at": "2021-07-21T13:32:15",
+    "updated_at": "2021-07-21T13:43:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adaltas:printf:0.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

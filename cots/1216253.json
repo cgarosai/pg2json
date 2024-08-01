@@ -1,0 +1,10 @@
+{
+    "id": 1216253,
+    "name": "confluence_server",
+    "version": "8.5.4",
+    "created_at": "2023-12-11T13:42:06",
+    "updated_at": "2023-12-11T13:42:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:confluence_server:8.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1129620,
+    "name": "ostree",
+    "version": "2022.7",
+    "created_at": "2023-07-27T12:37:36",
+    "updated_at": "2023-07-27T13:04:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ostree_project:ostree:2022.7:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

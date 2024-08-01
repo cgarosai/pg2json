@@ -1,0 +1,10 @@
+{
+    "id": 1136698,
+    "name": "omniverse_launcher",
+    "version": "1.8.11",
+    "created_at": "2023-08-08T14:58:10",
+    "updated_at": "2023-08-09T14:44:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:omniverse_launcher:1.8.11:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

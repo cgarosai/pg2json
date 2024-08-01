@@ -1,0 +1,10 @@
+{
+    "id": 708785,
+    "name": "video_surveillance_8030_firmware",
+    "version": "1.0.9-11",
+    "created_at": "2021-05-17T12:25:21",
+    "updated_at": "2021-07-28T00:02:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:video_surveillance_8030_firmware:1.0.9-11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

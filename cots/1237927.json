@@ -1,0 +1,10 @@
+{
+    "id": 1237927,
+    "name": "wp_sms",
+    "version": "6.4",
+    "created_at": "2024-01-09T17:37:24",
+    "updated_at": "2024-01-09T17:37:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veronalabs:wp_sms:6.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

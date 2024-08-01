@@ -1,0 +1,10 @@
+{
+    "id": 516078,
+    "name": "admin_notes",
+    "version": "1.0",
+    "created_at": "2020-03-12T16:50:58",
+    "updated_at": "2020-03-12T16:50:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:admin_notes_project:admin_notes:1.0:*:*:*:*:mybb:*:*",
+    "to_analyse": false
+}

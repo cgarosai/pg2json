@@ -1,0 +1,10 @@
+{
+    "id": 100989,
+    "name": "qualyssuite",
+    "version": "8.5",
+    "created_at": "2015-08-04T12:45:44",
+    "updated_at": "2015-08-04T12:46:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qualys:qualyssuite:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

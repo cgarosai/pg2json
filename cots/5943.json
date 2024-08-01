@@ -1,0 +1,10 @@
+{
+    "id": 5943,
+    "name": "retrospect_client",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:15:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:retrospect_client:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 864714,
+    "name": "vmg3927-b50a_firmware",
+    "version": "5.17\\(abmt.6\\)c0",
+    "created_at": "2022-04-14T13:35:21",
+    "updated_at": "2022-04-15T15:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:vmg3927-b50a_firmware:5.17\\(abmt.6\\)c0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

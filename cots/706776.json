@@ -1,0 +1,10 @@
+{
+    "id": 706776,
+    "name": "control_for_linux_sl",
+    "version": "4.0.1.0",
+    "created_at": "2021-05-10T09:10:40",
+    "updated_at": "2021-05-17T11:11:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_linux_sl:4.0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

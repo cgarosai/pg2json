@@ -1,0 +1,10 @@
+{
+    "id": 555987,
+    "name": "jetson_tx1",
+    "version": "r24",
+    "created_at": "2020-05-29T13:23:18",
+    "updated_at": "2020-05-29T13:23:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:jetson_tx1:r24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

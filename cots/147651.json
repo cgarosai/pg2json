@@ -1,0 +1,10 @@
+{
+    "id": 147651,
+    "name": "service_level_manager",
+    "version": "1.0",
+    "created_at": "2018-03-13T19:00:18",
+    "updated_at": "2021-04-28T11:34:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:service_level_manager:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

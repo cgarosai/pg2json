@@ -1,0 +1,10 @@
+{
+    "id": 122844,
+    "name": "system.text.encodings.web",
+    "version": "4.0.0",
+    "created_at": "2017-08-08T16:11:57",
+    "updated_at": "2017-08-08T16:11:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:system.text.encodings.web:4.0.0:*:*:*:*:asp.net:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 729601,
+    "name": "solid_edge_se2020_firmware",
+    "version": "2020mp14",
+    "created_at": "2021-06-16T13:10:47",
+    "updated_at": "2021-06-29T11:39:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:solid_edge_se2020_firmware:2020mp14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

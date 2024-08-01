@@ -1,0 +1,10 @@
+{
+    "id": 51623,
+    "name": "ntp_time_server_monitor",
+    "version": "0.9g",
+    "created_at": "2012-06-21T17:08:45",
+    "updated_at": "2012-06-21T17:08:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:meinberg:ntp_time_server_monitor:0.9g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

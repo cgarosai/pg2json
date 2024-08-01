@@ -1,0 +1,10 @@
+{
+    "id": 1216998,
+    "name": "control_for_beaglebone_sl",
+    "version": "4.11.0.0",
+    "created_at": "2023-12-11T18:10:10",
+    "updated_at": "2023-12-11T18:10:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_beaglebone_sl:4.11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

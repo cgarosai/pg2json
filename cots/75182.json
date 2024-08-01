@@ -1,0 +1,10 @@
+{
+    "id": 75182,
+    "name": "diagnostics_server",
+    "version": "9.00",
+    "created_at": "2013-01-28T13:55:57",
+    "updated_at": "2013-02-04T19:57:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:diagnostics_server:9.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

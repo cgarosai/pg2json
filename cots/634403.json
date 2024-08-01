@@ -1,0 +1,10 @@
+{
+    "id": 634403,
+    "name": "libsemanage",
+    "version": "2.3",
+    "created_at": "2021-01-06T14:23:56",
+    "updated_at": "2021-01-06T14:23:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:selinuxproject:libsemanage:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

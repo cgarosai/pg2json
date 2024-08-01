@@ -1,0 +1,10 @@
+{
+    "id": 103463,
+    "name": "mate_7_firmware",
+    "version": "mt7-tl10",
+    "created_at": "2016-01-15T15:13:02",
+    "updated_at": "2016-01-15T15:13:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mate_7_firmware:mt7-tl10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

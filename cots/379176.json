@@ -1,0 +1,10 @@
+{
+    "id": 379176,
+    "name": "hyperflex_hx220c_af_m5_firmware",
+    "version": "3.5.2f",
+    "created_at": "2019-09-19T12:51:49",
+    "updated_at": "2021-04-20T16:15:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:hyperflex_hx220c_af_m5_firmware:3.5.2f:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

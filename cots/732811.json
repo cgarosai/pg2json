@@ -1,0 +1,10 @@
+{
+    "id": 732811,
+    "name": "ipq5028_firmware",
+    "version": "-",
+    "created_at": "2021-07-13T16:05:58",
+    "updated_at": "2022-01-11T23:28:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:ipq5028_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

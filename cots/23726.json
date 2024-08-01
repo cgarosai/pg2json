@@ -1,0 +1,10 @@
+{
+    "id": 23726,
+    "name": "kde_sc",
+    "version": "4.0.0",
+    "created_at": "2010-05-18T15:13:26",
+    "updated_at": "2010-09-23T23:27:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kde_sc:4.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

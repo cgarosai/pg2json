@@ -1,0 +1,10 @@
+{
+    "id": 820332,
+    "name": "openemr",
+    "version": "6.0.0",
+    "created_at": "2021-12-22T14:47:25",
+    "updated_at": "2022-08-04T13:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-emr:openemr:6.0.0:patch_2:*:*:*:*:*:*",
+    "to_analyse": false
+}

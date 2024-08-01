@@ -1,0 +1,10 @@
+{
+    "id": 537800,
+    "name": "rcfilters",
+    "version": "1.5",
+    "created_at": "2020-04-21T12:57:00",
+    "updated_at": "2020-04-21T12:57:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rcfilters_project:rcfilters:1.5:*:*:*:*:roundcube:*:*",
+    "to_analyse": false
+}

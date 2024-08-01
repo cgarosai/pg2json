@@ -1,0 +1,10 @@
+{
+    "id": 752883,
+    "name": "openmanage_enterprise",
+    "version": "3.5",
+    "created_at": "2021-08-11T11:18:39",
+    "updated_at": "2021-11-22T17:55:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:openmanage_enterprise:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

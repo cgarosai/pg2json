@@ -1,0 +1,10 @@
+{
+    "id": 846179,
+    "name": "solidfire_enterprise_sds",
+    "version": "-",
+    "created_at": "2022-02-04T13:08:27",
+    "updated_at": "2022-05-17T19:17:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:solidfire_enterprise_sds:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

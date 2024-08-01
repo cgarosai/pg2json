@@ -1,0 +1,10 @@
+{
+    "id": 558436,
+    "name": "vm-memory",
+    "version": "0.1.0",
+    "created_at": "2020-06-05T13:41:48",
+    "updated_at": "2020-06-05T13:41:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vm-memory_project:vm-memory:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

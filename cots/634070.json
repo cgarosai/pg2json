@@ -1,0 +1,10 @@
+{
+    "id": 634070,
+    "name": "scaleio",
+    "version": "2.0.1.0",
+    "created_at": "2021-01-05T18:28:58",
+    "updated_at": "2021-01-05T18:28:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:scaleio:2.0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

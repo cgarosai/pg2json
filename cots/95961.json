@@ -1,0 +1,10 @@
+{
+    "id": 95961,
+    "name": "content_analysis_system",
+    "version": "-",
+    "created_at": "2014-05-01T11:43:18",
+    "updated_at": "2014-05-14T23:18:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bluecoat:content_analysis_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

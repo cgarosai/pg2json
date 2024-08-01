@@ -1,0 +1,10 @@
+{
+    "id": 591114,
+    "name": "7-zip",
+    "version": "19.00",
+    "created_at": "2020-09-17T09:38:26",
+    "updated_at": "2020-09-17T09:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:7-zip:7-zip:19.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

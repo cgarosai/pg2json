@@ -1,0 +1,10 @@
+{
+    "id": 505648,
+    "name": "sav_filter_domino_nt_ports",
+    "version": "build3.0.5",
+    "created_at": "2020-02-28T15:28:12",
+    "updated_at": "2020-02-28T15:28:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:sav_filter_domino_nt_ports:build3.0.5:*:os_400:*:*:*:*:*",
+    "to_analyse": false
+}

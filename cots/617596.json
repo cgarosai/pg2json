@@ -1,0 +1,10 @@
+{
+    "id": 617596,
+    "name": "pam_ldap",
+    "version": "-",
+    "created_at": "2020-11-04T12:50:18",
+    "updated_at": "2020-11-04T12:50:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:padl:pam_ldap:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

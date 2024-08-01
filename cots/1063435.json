@@ -1,0 +1,10 @@
+{
+    "id": 1063435,
+    "name": "timesheet_tracking",
+    "version": "4.2.1",
+    "created_at": "2023-04-21T16:19:15",
+    "updated_at": "2023-05-01T11:23:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:timesheets-for-jira:timesheet_tracking:4.2.1:*:*:*:*:jira:*:*",
+    "to_analyse": false
+}

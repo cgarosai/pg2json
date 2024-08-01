@@ -1,0 +1,10 @@
+{
+    "id": 234016,
+    "name": "rust",
+    "version": "1.32.0",
+    "created_at": "2019-05-14T14:27:54",
+    "updated_at": "2019-05-14T14:27:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:rust:1.32.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

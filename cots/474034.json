@@ -1,0 +1,10 @@
+{
+    "id": 474034,
+    "name": "browserid",
+    "version": "7.x-1.2",
+    "created_at": "2020-01-27T15:24:20",
+    "updated_at": "2020-01-27T15:28:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:browserid_project:browserid:7.x-1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

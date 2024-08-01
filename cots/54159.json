@@ -1,0 +1,10 @@
+{
+    "id": 54159,
+    "name": "veritas_backup_exec_remote_agent_for_windows_servers",
+    "version": "9.1.4691",
+    "created_at": "2012-07-10T01:22:25",
+    "updated_at": "2012-07-10T01:22:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_backup_exec_remote_agent_for_windows_servers:9.1.4691:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

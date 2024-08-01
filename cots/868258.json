@@ -1,0 +1,10 @@
+{
+    "id": 868258,
+    "name": "psr-7",
+    "version": "1.7.0",
+    "created_at": "2022-03-28T15:20:48",
+    "updated_at": "2022-03-30T11:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guzzlephp:psr-7:1.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 764294,
+    "name": "proto",
+    "version": "1.0.0",
+    "created_at": "2021-09-03T14:56:36",
+    "updated_at": "2021-09-07T10:16:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proto_project:proto:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 394492,
+    "name": "credhub_cli",
+    "version": "1.7.6",
+    "created_at": "2019-10-07T10:49:41",
+    "updated_at": "2019-10-07T10:49:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:credhub_cli:1.7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

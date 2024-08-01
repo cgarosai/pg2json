@@ -1,0 +1,10 @@
+{
+    "id": 762503,
+    "name": "claim",
+    "version": "1.7",
+    "created_at": "2021-08-30T13:32:43",
+    "updated_at": "2021-08-30T15:07:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:claim:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

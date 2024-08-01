@@ -1,0 +1,10 @@
+{
+    "id": 127865,
+    "name": "inspircd",
+    "version": "2.0.19",
+    "created_at": "2017-04-20T20:51:10",
+    "updated_at": "2021-06-10T13:54:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inspire_ircd:inspircd:2.0.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

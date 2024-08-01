@@ -1,0 +1,10 @@
+{
+    "id": 495537,
+    "name": "external-snapshotter",
+    "version": "1.2.2",
+    "created_at": "2020-02-11T16:45:27",
+    "updated_at": "2020-02-11T16:45:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:external-snapshotter:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

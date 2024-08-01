@@ -1,0 +1,10 @@
+{
+    "id": 816453,
+    "name": "ssrf-agent",
+    "version": "1.0.3",
+    "created_at": "2021-11-23T16:49:09",
+    "updated_at": "2022-01-16T03:07:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssrf-agent_project:ssrf-agent:1.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

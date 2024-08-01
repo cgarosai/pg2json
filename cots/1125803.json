@@ -1,0 +1,10 @@
+{
+    "id": 1125803,
+    "name": "inactive_user_deleter",
+    "version": "1.56",
+    "created_at": "2023-07-24T12:57:23",
+    "updated_at": "2023-07-24T14:25:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inactive_user_deleter_project:inactive_user_deleter:1.56:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

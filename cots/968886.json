@@ -1,0 +1,10 @@
+{
+    "id": 968886,
+    "name": "financial_consolidation",
+    "version": "1010",
+    "created_at": "2022-11-09T13:22:46",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:financial_consolidation:1010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

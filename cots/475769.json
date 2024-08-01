@@ -1,0 +1,10 @@
+{
+    "id": 475769,
+    "name": "smt_x9_firmware",
+    "version": "3.15",
+    "created_at": "2020-01-09T17:14:16",
+    "updated_at": "2021-05-26T16:14:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:supermicro:smt_x9_firmware:3.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

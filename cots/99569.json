@@ -1,0 +1,10 @@
+{
+    "id": 99569,
+    "name": "release_control",
+    "version": "9.20",
+    "created_at": "2014-06-30T13:00:12",
+    "updated_at": "2014-07-08T17:39:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:release_control:9.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

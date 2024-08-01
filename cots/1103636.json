@@ -1,0 +1,10 @@
+{
+    "id": 1103636,
+    "name": "gpu_display_driver",
+    "version": "536.40",
+    "created_at": "2023-07-03T09:20:32",
+    "updated_at": "2023-08-25T11:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_display_driver:536.40:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

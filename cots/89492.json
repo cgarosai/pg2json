@@ -1,0 +1,10 @@
+{
+    "id": 89492,
+    "name": "hotbox_router",
+    "version": "-",
+    "created_at": "2013-12-30T18:08:53",
+    "updated_at": "2013-12-30T18:29:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hot:hotbox_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

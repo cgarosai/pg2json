@@ -1,0 +1,10 @@
+{
+    "id": 142845,
+    "name": "mautic",
+    "version": "2.5.0",
+    "created_at": "2018-05-17T15:42:10",
+    "updated_at": "2021-01-25T15:51:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mautic:mautic:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

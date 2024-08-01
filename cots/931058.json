@@ -1,0 +1,10 @@
+{
+    "id": 931058,
+    "name": "raid_manager_storage_replication_adapter",
+    "version": "02.03.01",
+    "created_at": "2022-09-12T14:24:02",
+    "updated_at": "2022-09-13T08:19:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:raid_manager_storage_replication_adapter:02.03.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

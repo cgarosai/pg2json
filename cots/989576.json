@@ -1,0 +1,10 @@
+{
+    "id": 989576,
+    "name": "flir_ax8_firmware",
+    "version": "1.46.4",
+    "created_at": "2022-12-12T12:49:38",
+    "updated_at": "2022-12-12T15:19:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:flir:flir_ax8_firmware:1.46.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

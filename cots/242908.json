@@ -1,0 +1,10 @@
+{
+    "id": 242908,
+    "name": "apport",
+    "version": "1.91",
+    "created_at": "2019-06-05T12:35:54",
+    "updated_at": "2019-06-05T12:35:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apport_project:apport:1.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

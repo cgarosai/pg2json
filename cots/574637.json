@@ -1,0 +1,10 @@
+{
+    "id": 574637,
+    "name": "hipchat",
+    "version": "4.30",
+    "created_at": "2020-08-12T11:28:52",
+    "updated_at": "2020-08-12T11:28:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:hipchat:4.30:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

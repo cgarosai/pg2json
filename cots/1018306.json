@@ -1,0 +1,10 @@
+{
+    "id": 1018306,
+    "name": "nl1902_firmware",
+    "version": "-",
+    "created_at": "2023-01-18T16:10:47",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netcommwireless:nl1902_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

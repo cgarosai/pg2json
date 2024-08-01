@@ -1,0 +1,10 @@
+{
+    "id": 1168776,
+    "name": "f-secure_policy_manager",
+    "version": "15.00",
+    "created_at": "2023-09-28T09:15:07",
+    "updated_at": "2023-09-28T09:15:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:withsecure:f-secure_policy_manager:15.00:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 508646,
+    "name": "bbs",
+    "version": "3.16c",
+    "created_at": "2020-03-04T20:27:16",
+    "updated_at": "2020-03-04T20:27:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synchro:bbs:3.16c:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

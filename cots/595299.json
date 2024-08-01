@@ -1,0 +1,10 @@
+{
+    "id": 595299,
+    "name": "promisehelpers",
+    "version": "0.0.3",
+    "created_at": "2020-09-03T12:16:12",
+    "updated_at": "2020-09-03T12:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yola:promisehelpers:0.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

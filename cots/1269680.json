@@ -1,0 +1,10 @@
+{
+    "id": 1269680,
+    "name": "storage_ceph",
+    "version": "6.1z1",
+    "created_at": "2024-04-12T10:17:38",
+    "updated_at": "2024-04-12T10:17:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:storage_ceph:6.1z1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

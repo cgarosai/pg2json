@@ -1,0 +1,10 @@
+{
+    "id": 6974,
+    "name": "jetstream_serial_servers",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:16:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:perle:jetstream_serial_servers:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

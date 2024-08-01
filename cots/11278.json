@@ -1,0 +1,10 @@
+{
+    "id": 11278,
+    "name": "zenworks_endpoint_security_management",
+    "version": "-",
+    "created_at": "2008-01-09T17:27:02",
+    "updated_at": "2008-01-09T17:27:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:zenworks_endpoint_security_management:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

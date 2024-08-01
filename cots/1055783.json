@@ -1,0 +1,10 @@
+{
+    "id": 1055783,
+    "name": "tiff",
+    "version": "0.5.0",
+    "created_at": "2023-03-16T14:58:48",
+    "updated_at": "2023-03-21T15:16:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:tiff:0.5.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

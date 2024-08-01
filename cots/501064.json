@@ -1,0 +1,10 @@
+{
+    "id": 501064,
+    "name": "tr4400_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T18:36:23",
+    "updated_at": "2020-03-06T18:36:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:commscope:tr4400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

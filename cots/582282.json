@@ -1,0 +1,10 @@
+{
+    "id": 582282,
+    "name": "gdnsd",
+    "version": "3.0.0",
+    "created_at": "2020-08-27T15:57:56",
+    "updated_at": "2020-08-27T15:57:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gdnsd:gdnsd:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

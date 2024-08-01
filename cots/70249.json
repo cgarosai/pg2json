@@ -1,0 +1,10 @@
+{
+    "id": 70249,
+    "name": "libxv",
+    "version": "1.0.5",
+    "created_at": "2013-06-17T15:09:15",
+    "updated_at": "2013-06-24T12:13:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x:libxv:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

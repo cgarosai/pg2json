@@ -1,0 +1,10 @@
+{
+    "id": 1100226,
+    "name": "cms_commander",
+    "version": "2.27",
+    "created_at": "2023-06-28T09:45:44",
+    "updated_at": "2023-06-28T12:30:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cmscommander:cms_commander:2.27:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

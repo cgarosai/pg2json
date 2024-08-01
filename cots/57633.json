@@ -1,0 +1,10 @@
+{
+    "id": 57633,
+    "name": "xenapp_commands",
+    "version": "6.5.0.0",
+    "created_at": "2012-05-08T11:51:46",
+    "updated_at": "2012-05-08T11:51:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xenapp_commands:6.5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

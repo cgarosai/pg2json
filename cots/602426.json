@@ -1,0 +1,10 @@
+{
+    "id": 602426,
+    "name": "simatic_batch",
+    "version": "9.0",
+    "created_at": "2020-10-14T08:47:55",
+    "updated_at": "2021-05-10T11:55:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_batch:9.0:sp1_update_4:*:*:*:*:*:*",
+    "to_analyse": false
+}

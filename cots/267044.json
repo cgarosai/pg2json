@@ -1,0 +1,10 @@
+{
+    "id": 267044,
+    "name": "tinc",
+    "version": "1.0.2",
+    "created_at": "2019-06-14T13:24:29",
+    "updated_at": "2019-06-14T13:24:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tinc-vpn:tinc:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

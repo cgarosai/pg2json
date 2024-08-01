@@ -1,0 +1,10 @@
+{
+    "id": 94120,
+    "name": "devada",
+    "version": "1.2",
+    "created_at": "2014-11-10T15:22:21",
+    "updated_at": "2014-11-10T15:44:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devada_project:devada:1.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

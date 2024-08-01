@@ -1,0 +1,10 @@
+{
+    "id": 1079499,
+    "name": "confluence_data_center",
+    "version": "7.20.0",
+    "created_at": "2023-05-05T16:04:35",
+    "updated_at": "2023-06-30T11:12:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:confluence_data_center:7.20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

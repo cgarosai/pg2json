@@ -1,0 +1,10 @@
+{
+    "id": 182259,
+    "name": "ee40vb_firmware",
+    "version": "ee40_00_0.200_45",
+    "created_at": "2018-11-19T15:09:15",
+    "updated_at": "2021-06-21T11:51:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ee:ee40vb_firmware:ee40_00_0.200_45:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

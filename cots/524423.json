@@ -1,0 +1,10 @@
+{
+    "id": 524423,
+    "name": "identity_services_engine",
+    "version": "2.4.0",
+    "created_at": "2020-04-13T11:17:33",
+    "updated_at": "2020-04-13T11:17:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:identity_services_engine:2.4.0:patch_11:*:*:*:*:*:*",
+    "to_analyse": false
+}

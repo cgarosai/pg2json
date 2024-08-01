@@ -1,0 +1,10 @@
+{
+    "id": 214804,
+    "name": "scada_expert_vijeo_citect",
+    "version": "7.40",
+    "created_at": "2019-04-03T15:19:29",
+    "updated_at": "2021-06-09T15:49:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:scada_expert_vijeo_citect:7.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

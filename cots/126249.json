@@ -1,0 +1,10 @@
+{
+    "id": 126249,
+    "name": "navigator",
+    "version": "2.2.0",
+    "created_at": "2017-03-28T15:09:46",
+    "updated_at": "2021-04-16T16:32:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudera:navigator:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

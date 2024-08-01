@@ -1,0 +1,10 @@
+{
+    "id": 1183100,
+    "name": "correos",
+    "version": "1.7.0",
+    "created_at": "2023-11-01T15:06:12",
+    "updated_at": "2023-11-01T15:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:correos:correos:1.7.0:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 512552,
+    "name": "control_for_pfc100",
+    "version": "3.5.15.40",
+    "created_at": "2020-03-27T13:53:44",
+    "updated_at": "2021-02-26T19:27:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_pfc100:3.5.15.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 497355,
+    "name": "stex_white_list",
+    "version": "-",
+    "created_at": "2020-02-18T13:19:40",
+    "updated_at": "2020-02-18T13:19:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stex_white_list_project:stex_white_list:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

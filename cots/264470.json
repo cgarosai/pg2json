@@ -1,0 +1,10 @@
+{
+    "id": 264470,
+    "name": "http_strict_transport_security",
+    "version": "7.x-1.2",
+    "created_at": "2019-06-19T14:05:02",
+    "updated_at": "2019-06-19T14:05:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codfront_labs:http_strict_transport_security:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1192444,
+    "name": "epyc_8324p",
+    "version": "-",
+    "created_at": "2023-11-18T03:38:38",
+    "updated_at": "2023-11-18T03:38:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:epyc_8324p:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 582942,
+    "name": "lms142_firmware",
+    "version": "-",
+    "created_at": "2020-09-01T09:05:38",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:lms142_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

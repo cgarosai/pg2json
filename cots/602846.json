@@ -1,0 +1,10 @@
+{
+    "id": 602846,
+    "name": "node_packaged_modules",
+    "version": "2.7.3",
+    "created_at": "2020-10-14T11:20:46",
+    "updated_at": "2020-10-14T11:20:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node_packaged_modules_project:node_packaged_modules:2.7.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

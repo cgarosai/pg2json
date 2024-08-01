@@ -1,0 +1,10 @@
+{
+    "id": 109816,
+    "name": "fusionforge",
+    "version": "6.0",
+    "created_at": "2015-06-02T23:58:14",
+    "updated_at": "2015-07-31T16:26:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fusionforge:fusionforge:6.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

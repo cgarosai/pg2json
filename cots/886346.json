@@ -1,0 +1,10 @@
+{
+    "id": 886346,
+    "name": "zonealarm",
+    "version": "15.8.200.19118",
+    "created_at": "2022-05-17T16:34:27",
+    "updated_at": "2022-07-26T13:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:zonealarm:15.8.200.19118:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1156414,
+    "name": "accesscontrol",
+    "version": "5.5",
+    "created_at": "2023-09-12T15:30:38",
+    "updated_at": "2023-09-12T15:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zope:accesscontrol:5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

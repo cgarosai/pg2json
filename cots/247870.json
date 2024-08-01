@@ -1,0 +1,10 @@
+{
+    "id": 247870,
+    "name": "exiftool",
+    "version": "1.40",
+    "created_at": "2019-05-29T11:49:44",
+    "updated_at": "2023-02-16T16:25:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exiftool_project:exiftool:1.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

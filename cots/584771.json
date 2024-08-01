@@ -1,0 +1,10 @@
+{
+    "id": 584771,
+    "name": "build_failure_analyzer",
+    "version": "1.24.2",
+    "created_at": "2020-09-02T16:53:10",
+    "updated_at": "2020-09-02T16:53:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:build_failure_analyzer:1.24.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

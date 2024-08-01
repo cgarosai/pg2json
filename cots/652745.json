@@ -1,0 +1,10 @@
+{
+    "id": 652745,
+    "name": "aruba_5406r_zl2_firmware",
+    "version": "kb.16.10.0012",
+    "created_at": "2021-02-18T17:32:23",
+    "updated_at": "2021-02-18T17:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:aruba_5406r_zl2_firmware:kb.16.10.0012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

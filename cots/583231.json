@@ -1,0 +1,10 @@
+{
+    "id": 583231,
+    "name": "openclinic_ga",
+    "version": "5.89.05b",
+    "created_at": "2020-09-01T13:43:27",
+    "updated_at": "2020-09-01T13:43:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openclinic_ga_project:openclinic_ga:5.89.05b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

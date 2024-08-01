@@ -1,0 +1,10 @@
+{
+    "id": 616056,
+    "name": "music",
+    "version": "3.4.0",
+    "created_at": "2020-10-29T11:20:38",
+    "updated_at": "2020-10-29T11:20:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:music:3.4.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

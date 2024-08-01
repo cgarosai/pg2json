@@ -1,0 +1,10 @@
+{
+    "id": 587965,
+    "name": "inet_wireless_daemon",
+    "version": "-",
+    "created_at": "2020-08-19T14:02:55",
+    "updated_at": "2020-08-19T14:02:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:inet_wireless_daemon:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

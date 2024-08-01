@@ -1,0 +1,10 @@
+{
+    "id": 126538,
+    "name": "x10p_firmware",
+    "version": "t-mst10pdeucb-1210.0",
+    "created_at": "2017-04-03T15:54:06",
+    "updated_at": "2021-06-28T15:40:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:x10p_firmware:t-mst10pdeucb-1210.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

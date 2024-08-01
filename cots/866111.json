@@ -1,0 +1,10 @@
+{
+    "id": 866111,
+    "name": "veeam",
+    "version": "2.2",
+    "created_at": "2022-03-23T12:19:38",
+    "updated_at": "2022-03-25T13:51:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veeam:veeam:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

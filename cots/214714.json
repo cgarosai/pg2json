@@ -1,0 +1,10 @@
+{
+    "id": 214714,
+    "name": "power_system_h922_\\(9223-22h\\)_firmware",
+    "version": "fw910.10",
+    "created_at": "2019-04-03T11:45:55",
+    "updated_at": "2021-05-18T17:26:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:power_system_h922_\\(9223-22h\\)_firmware:fw910.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

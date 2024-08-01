@@ -1,0 +1,10 @@
+{
+    "id": 733440,
+    "name": "werkzeug",
+    "version": "0.15.2",
+    "created_at": "2021-07-14T10:57:50",
+    "updated_at": "2021-07-14T13:04:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:palletsprojects:werkzeug:0.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

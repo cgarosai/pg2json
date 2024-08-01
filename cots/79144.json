@@ -1,0 +1,10 @@
+{
+    "id": 79144,
+    "name": "websphere_datapower_xc10_appliance",
+    "version": "-",
+    "created_at": "2013-05-09T11:23:07",
+    "updated_at": "2013-05-14T20:56:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:websphere_datapower_xc10_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

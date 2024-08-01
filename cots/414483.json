@@ -1,0 +1,10 @@
+{
+    "id": 414483,
+    "name": "url_redirect",
+    "version": "1.0.0",
+    "created_at": "2019-10-31T14:11:57",
+    "updated_at": "2019-10-31T14:11:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:url_redirect_project:url_redirect:1.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

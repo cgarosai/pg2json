@@ -1,0 +1,10 @@
+{
+    "id": 223707,
+    "name": "promoted_builds",
+    "version": "2.6",
+    "created_at": "2019-04-25T11:32:16",
+    "updated_at": "2019-04-25T11:32:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:promoted_builds:2.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 735269,
+    "name": "mermaid",
+    "version": "8.5.0",
+    "created_at": "2021-06-29T16:55:19",
+    "updated_at": "2021-06-29T16:57:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mermaid_project:mermaid:8.5.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

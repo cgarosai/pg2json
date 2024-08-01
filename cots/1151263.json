@@ -1,0 +1,10 @@
+{
+    "id": 1151263,
+    "name": "formidable",
+    "version": "1.0.5",
+    "created_at": "2023-09-20T15:30:35",
+    "updated_at": "2023-09-20T15:30:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-formidable:formidable:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

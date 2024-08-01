@@ -1,0 +1,10 @@
+{
+    "id": 1101032,
+    "name": "elitebook_840_g8_firmware",
+    "version": "01.09.10",
+    "created_at": "2023-06-29T09:59:16",
+    "updated_at": "2023-09-09T01:09:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:elitebook_840_g8_firmware:01.09.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

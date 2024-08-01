@@ -1,0 +1,10 @@
+{
+    "id": 51153,
+    "name": "mwmi",
+    "version": "11.2.0",
+    "created_at": "2012-06-21T17:06:55",
+    "updated_at": "2012-06-21T17:06:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:mwmi:11.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

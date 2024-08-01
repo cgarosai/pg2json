@@ -1,0 +1,10 @@
+{
+    "id": 122510,
+    "name": "pervasive_psql",
+    "version": "12.10",
+    "created_at": "2017-08-02T12:03:26",
+    "updated_at": "2021-03-23T14:09:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:actian:pervasive_psql:12.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

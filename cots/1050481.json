@@ -1,0 +1,10 @@
+{
+    "id": 1050481,
+    "name": "spring_cloud_vault",
+    "version": "2.0.0",
+    "created_at": "2023-03-27T15:51:21",
+    "updated_at": "2023-03-28T15:43:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_cloud_vault:2.0.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 594792,
+    "name": "enterprise_linux_desktop",
+    "version": "-",
+    "created_at": "2020-09-25T15:22:06",
+    "updated_at": "2020-09-25T15:22:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_desktop:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

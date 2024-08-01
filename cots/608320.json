@@ -1,0 +1,10 @@
+{
+    "id": 608320,
+    "name": "nexus_3000_series",
+    "version": "-",
+    "created_at": "2020-10-05T17:52:27",
+    "updated_at": "2021-04-28T15:55:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_3000_series:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

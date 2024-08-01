@@ -1,0 +1,10 @@
+{
+    "id": 758229,
+    "name": "deepmergefn",
+    "version": "1.0.8",
+    "created_at": "2021-08-04T13:16:27",
+    "updated_at": "2021-08-13T13:09:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deepmergefn_project:deepmergefn:1.0.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 969662,
+    "name": "traffic_manager",
+    "version": "-",
+    "created_at": "2022-11-14T11:25:18",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sedlex:traffic_manager:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

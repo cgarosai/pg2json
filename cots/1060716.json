@@ -1,0 +1,10 @@
+{
+    "id": 1060716,
+    "name": "kubernetes",
+    "version": "3909.v1f2c633e8590",
+    "created_at": "2023-04-17T17:35:42",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:kubernetes:3909.v1f2c633e8590:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

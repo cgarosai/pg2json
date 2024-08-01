@@ -1,0 +1,10 @@
+{
+    "id": 227279,
+    "name": "aufs2",
+    "version": "2.6.30",
+    "created_at": "2019-04-10T15:18:50",
+    "updated_at": "2019-04-10T15:18:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aufs_project:aufs2:2.6.30:rc7:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1153435,
+    "name": "ryzen_4700g_firmware",
+    "version": "renoirpi-fp6_1.0.0.9",
+    "created_at": "2023-09-22T16:08:11",
+    "updated_at": "2023-09-22T16:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_4700g_firmware:renoirpi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 93775,
+    "name": "goodwin",
+    "version": "1.15",
+    "created_at": "2014-11-10T15:19:26",
+    "updated_at": "2014-11-10T15:54:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goodwinproject:goodwin:1.15:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

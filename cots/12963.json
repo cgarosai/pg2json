@@ -1,0 +1,10 @@
+{
+    "id": 12963,
+    "name": "windows_media_encoder",
+    "version": "9_series",
+    "created_at": "2008-09-11T12:58:24",
+    "updated_at": "2008-09-11T12:58:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_media_encoder:9_series:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

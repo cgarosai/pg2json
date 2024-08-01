@@ -1,0 +1,10 @@
+{
+    "id": 139167,
+    "name": "xcom_data_transport",
+    "version": "r11.5",
+    "created_at": "2017-11-27T13:37:43",
+    "updated_at": "2021-05-18T11:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:xcom_data_transport:r11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71590,
+    "name": "virtualization_experience_client_6000_series_firmware",
+    "version": "8.7",
+    "created_at": "2013-07-11T13:06:48",
+    "updated_at": "2013-07-12T16:29:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:virtualization_experience_client_6000_series_firmware:8.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

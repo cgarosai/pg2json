@@ -1,0 +1,10 @@
+{
+    "id": 1513,
+    "name": "unicenter_network_and_systems_management",
+    "version": "11",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2021-04-14T13:34:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:unicenter_network_and_systems_management:11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

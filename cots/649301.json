@@ -1,0 +1,10 @@
+{
+    "id": 649301,
+    "name": "simatic_s7_plcsim_advanced",
+    "version": "3.0",
+    "created_at": "2021-01-14T18:48:04",
+    "updated_at": "2021-01-14T18:48:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_s7_plcsim_advanced:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 406099,
+    "name": "data_loss_prevention",
+    "version": "14.5",
+    "created_at": "2019-10-08T15:11:12",
+    "updated_at": "2019-10-08T15:11:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:data_loss_prevention:14.5:mp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

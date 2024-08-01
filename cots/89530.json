@@ -1,0 +1,10 @@
+{
+    "id": 89530,
+    "name": "bbedit",
+    "version": "10.5.5",
+    "created_at": "2014-01-02T16:27:52",
+    "updated_at": "2014-01-02T16:48:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:barebones:bbedit:10.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

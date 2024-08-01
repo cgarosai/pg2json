@@ -1,0 +1,10 @@
+{
+    "id": 530651,
+    "name": "r6100_firmware",
+    "version": "1.0.1.22",
+    "created_at": "2020-04-28T11:37:12",
+    "updated_at": "2020-04-28T11:37:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6100_firmware:1.0.1.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 565671,
+    "name": "plex_media_server",
+    "version": "1.19.1.2701",
+    "created_at": "2020-06-25T16:51:56",
+    "updated_at": "2021-12-10T15:58:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plex:plex_media_server:1.19.1.2701:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

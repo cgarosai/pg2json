@@ -1,0 +1,10 @@
+{
+    "id": 10396,
+    "name": "workstation",
+    "version": "5.5.0_build_13124",
+    "created_at": "2007-09-24T13:22:42",
+    "updated_at": "2008-04-07T12:54:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workstation:5.5.0_build_13124:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

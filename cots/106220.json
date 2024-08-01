@@ -1,0 +1,10 @@
+{
+    "id": 106220,
+    "name": "appsync",
+    "version": "2.0",
+    "created_at": "2014-12-30T15:52:11",
+    "updated_at": "2015-03-25T17:38:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:appsync:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

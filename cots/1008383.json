@@ -1,0 +1,10 @@
+{
+    "id": 1008383,
+    "name": "oxidized_web",
+    "version": "0.1.2",
+    "created_at": "2023-01-04T13:28:39",
+    "updated_at": "2023-01-06T14:12:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oxidized_web_project:oxidized_web:0.1.2:*:*:*:*:oxidized:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 590133,
+    "name": "rand",
+    "version": "0.3.0",
+    "created_at": "2020-09-15T12:06:51",
+    "updated_at": "2020-09-15T12:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rand_project:rand:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

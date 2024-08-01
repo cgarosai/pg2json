@@ -1,0 +1,10 @@
+{
+    "id": 736311,
+    "name": "color-string",
+    "version": "1.5.5",
+    "created_at": "2021-07-01T12:55:42",
+    "updated_at": "2021-07-01T15:17:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:color-string_project:color-string:1.5.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

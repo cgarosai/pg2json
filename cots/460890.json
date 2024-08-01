@@ -1,0 +1,10 @@
+{
+    "id": 460890,
+    "name": "nuc6cays_firmware",
+    "version": "-",
+    "created_at": "2019-12-30T15:11:46",
+    "updated_at": "2021-06-10T14:16:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:nuc6cays_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

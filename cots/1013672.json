@@ -1,0 +1,10 @@
+{
+    "id": 1013672,
+    "name": "manageengine_servicedesk_plus_msp",
+    "version": "13.0",
+    "created_at": "2023-01-27T13:12:02",
+    "updated_at": "2023-01-27T13:24:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus_msp:13.0:13004:*:*:*:*:*:*",
+    "to_analyse": false
+}

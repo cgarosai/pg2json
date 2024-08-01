@@ -1,0 +1,10 @@
+{
+    "id": 519146,
+    "name": "graphics_drivers",
+    "version": "26.20",
+    "created_at": "2020-03-23T10:34:01",
+    "updated_at": "2020-03-23T10:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_drivers:26.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

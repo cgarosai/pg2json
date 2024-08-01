@@ -1,0 +1,10 @@
+{
+    "id": 178068,
+    "name": "3cx_web_server_firmware",
+    "version": "15.5.8801.3",
+    "created_at": "2018-09-25T21:50:03",
+    "updated_at": "2021-06-14T16:29:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:3cx:3cx_web_server_firmware:15.5.8801.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

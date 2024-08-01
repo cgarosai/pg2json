@@ -1,0 +1,10 @@
+{
+    "id": 454888,
+    "name": "libtorrent",
+    "version": "1.2.2",
+    "created_at": "2019-12-12T12:55:40",
+    "updated_at": "2019-12-12T12:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libtorrent:libtorrent:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 586381,
+    "name": "ios_xe_sd-wan",
+    "version": "17.2.0",
+    "created_at": "2020-08-17T12:19:52",
+    "updated_at": "2020-08-17T12:19:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ios_xe_sd-wan:17.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

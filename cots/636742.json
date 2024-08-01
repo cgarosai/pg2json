@@ -1,0 +1,10 @@
+{
+    "id": 636742,
+    "name": "contiki",
+    "version": "-",
+    "created_at": "2020-12-14T17:52:09",
+    "updated_at": "2020-12-14T17:52:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:contiki-os:contiki:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

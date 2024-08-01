@@ -1,0 +1,10 @@
+{
+    "id": 216964,
+    "name": "cacti",
+    "version": "0.8.8h",
+    "created_at": "2019-03-13T12:30:51",
+    "updated_at": "2019-03-13T12:30:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cacti:cacti:0.8.8h:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 2110,
+    "name": "findutils",
+    "version": "4.2.30",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:findutils:4.2.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

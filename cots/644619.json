@@ -1,0 +1,10 @@
+{
+    "id": 644619,
+    "name": "basic_dsp_matrix",
+    "version": "0.6.0",
+    "created_at": "2021-02-01T15:30:25",
+    "updated_at": "2021-02-01T15:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:basic_dsp_matrix_project:basic_dsp_matrix:0.6.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

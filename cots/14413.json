@@ -1,0 +1,10 @@
+{
+    "id": 14413,
+    "name": "internet_information_services",
+    "version": "5.0",
+    "created_at": "2008-12-24T14:00:29",
+    "updated_at": "2008-12-24T14:00:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:internet_information_services:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

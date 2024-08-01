@@ -1,0 +1,10 @@
+{
+    "id": 623339,
+    "name": "internet_explorer",
+    "version": "5.5",
+    "created_at": "2020-12-09T15:06:31",
+    "updated_at": "2021-07-23T10:16:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:internet_explorer:5.5:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 557481,
+    "name": "compute_systems_manager",
+    "version": "8.7.0.00",
+    "created_at": "2020-06-02T15:04:39",
+    "updated_at": "2021-05-28T11:18:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:compute_systems_manager:8.7.0.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

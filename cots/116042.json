@@ -1,0 +1,10 @@
+{
+    "id": 116042,
+    "name": "700_series_firmware",
+    "version": "2.05",
+    "created_at": "2016-03-10T20:57:14",
+    "updated_at": "2016-03-10T20:57:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:700_series_firmware:2.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

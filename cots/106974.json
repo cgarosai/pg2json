@@ -1,0 +1,10 @@
+{
+    "id": 106974,
+    "name": "firebird",
+    "version": "2.5.3",
+    "created_at": "2015-01-28T22:31:09",
+    "updated_at": "2021-03-04T15:24:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:firebird:firebird:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

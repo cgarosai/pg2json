@@ -1,0 +1,10 @@
+{
+    "id": 347751,
+    "name": "total_security",
+    "version": "2.9.6",
+    "created_at": "2019-08-22T15:54:16",
+    "updated_at": "2019-08-22T15:54:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fabrix:total_security:2.9.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

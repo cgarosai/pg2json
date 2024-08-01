@@ -1,0 +1,10 @@
+{
+    "id": 631302,
+    "name": "websphere_application_server",
+    "version": "8.5.5.18",
+    "created_at": "2020-12-23T16:51:47",
+    "updated_at": "2020-12-23T16:51:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.18:*:*:*:hypervisor:*:*:*",
+    "to_analyse": false
+}

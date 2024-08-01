@@ -1,0 +1,10 @@
+{
+    "id": 500811,
+    "name": "gtk",
+    "version": "3.98.0",
+    "created_at": "2020-03-06T17:47:26",
+    "updated_at": "2020-03-06T17:47:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gtk:3.98.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

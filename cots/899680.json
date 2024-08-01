@@ -1,0 +1,10 @@
+{
+    "id": 899680,
+    "name": "nsa_4600",
+    "version": "-",
+    "created_at": "2022-06-16T12:58:12",
+    "updated_at": "2022-06-16T13:02:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:nsa_4600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 453480,
+    "name": "libnyoci",
+    "version": "0.07.00",
+    "created_at": "2019-12-10T18:12:17",
+    "updated_at": "2019-12-10T18:12:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libnyoci_project:libnyoci:0.07.00:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

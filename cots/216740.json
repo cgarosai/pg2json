@@ -1,0 +1,10 @@
+{
+    "id": 216740,
+    "name": "job_dsl",
+    "version": "1.38",
+    "created_at": "2019-03-12T15:55:02",
+    "updated_at": "2019-03-12T15:55:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:job_dsl:1.38:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

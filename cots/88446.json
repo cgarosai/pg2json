@@ -1,0 +1,10 @@
+{
+    "id": 88446,
+    "name": "suse_lifecycle_management_server",
+    "version": "1.2",
+    "created_at": "2013-12-12T14:16:58",
+    "updated_at": "2013-12-12T14:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:suse_lifecycle_management_server:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1108541,
+    "name": "cpdb-libs",
+    "version": "2.0",
+    "created_at": "2023-06-26T13:12:20",
+    "updated_at": "2023-06-26T14:23:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openprinting:cpdb-libs:2.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

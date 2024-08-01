@@ -1,0 +1,10 @@
+{
+    "id": 246979,
+    "name": "media_encoder",
+    "version": "13.0.2",
+    "created_at": "2019-05-24T11:38:28",
+    "updated_at": "2019-05-24T11:38:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:media_encoder:13.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

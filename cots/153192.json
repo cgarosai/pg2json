@@ -1,0 +1,10 @@
+{
+    "id": 153192,
+    "name": "chat",
+    "version": "1.1.0-0806",
+    "created_at": "2018-06-12T15:31:51",
+    "updated_at": "2018-06-12T15:31:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:chat:1.1.0-0806:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 931510,
+    "name": "appwrite",
+    "version": "0.15.2",
+    "created_at": "2022-09-12T16:05:51",
+    "updated_at": "2022-09-12T16:49:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appwrite:appwrite:0.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

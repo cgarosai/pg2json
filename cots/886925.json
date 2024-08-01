@@ -1,0 +1,10 @@
+{
+    "id": 886925,
+    "name": "optane_memory_h10_with_solid_state_storage",
+    "version": "-",
+    "created_at": "2022-05-18T17:15:43",
+    "updated_at": "2022-05-20T17:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:optane_memory_h10_with_solid_state_storage:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

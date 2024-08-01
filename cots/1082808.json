@@ -1,0 +1,10 @@
+{
+    "id": 1082808,
+    "name": "api_manager",
+    "version": "4.1.0",
+    "created_at": "2023-05-30T14:14:57",
+    "updated_at": "2023-06-26T14:49:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wso2:api_manager:4.1.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

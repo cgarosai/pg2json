@@ -1,0 +1,10 @@
+{
+    "id": 806958,
+    "name": "network_camera_recorder_firmware",
+    "version": "4.04",
+    "created_at": "2021-11-08T16:26:15",
+    "updated_at": "2021-11-08T19:12:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:panasonic:network_camera_recorder_firmware:4.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

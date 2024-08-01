@@ -1,0 +1,10 @@
+{
+    "id": 844709,
+    "name": "m12-1_firmware",
+    "version": "xcp2410",
+    "created_at": "2022-02-23T14:41:16",
+    "updated_at": "2022-03-04T18:14:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:m12-1_firmware:xcp2410:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 136549,
+    "name": "config_file_provider",
+    "version": "2.16.2",
+    "created_at": "2017-10-17T17:43:47",
+    "updated_at": "2017-10-17T17:43:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:config_file_provider:2.16.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 200506,
+    "name": "vertica",
+    "version": "7.1.1-8",
+    "created_at": "2019-02-26T19:51:20",
+    "updated_at": "2019-02-26T19:51:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:vertica:7.1.1-8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

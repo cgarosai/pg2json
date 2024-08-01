@@ -1,0 +1,10 @@
+{
+    "id": 394963,
+    "name": "mysql",
+    "version": "3.23.30",
+    "created_at": "2019-10-07T14:37:54",
+    "updated_at": "2019-10-07T14:37:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql:3.23.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

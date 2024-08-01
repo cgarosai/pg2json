@@ -1,0 +1,10 @@
+{
+    "id": 743765,
+    "name": "provisioning_manager",
+    "version": "4.0.0",
+    "created_at": "2021-07-28T12:19:59",
+    "updated_at": "2021-07-28T13:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:akkadianlabs:provisioning_manager:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 639010,
+    "name": "ncs-5502-se_firmware",
+    "version": "1.21",
+    "created_at": "2020-12-18T13:17:07",
+    "updated_at": "2020-12-18T13:17:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ncs-5502-se_firmware:1.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

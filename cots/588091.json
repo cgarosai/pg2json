@@ -1,0 +1,10 @@
+{
+    "id": 588091,
+    "name": "dashlane",
+    "version": "5.9.0",
+    "created_at": "2020-08-19T14:23:30",
+    "updated_at": "2020-08-19T14:23:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dashlane:dashlane:5.9.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

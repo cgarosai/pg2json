@@ -1,0 +1,10 @@
+{
+    "id": 178714,
+    "name": "big-ip_domain_name_system",
+    "version": "10.2.4",
+    "created_at": "2018-10-02T11:29:49",
+    "updated_at": "2018-10-02T11:29:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_domain_name_system:10.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

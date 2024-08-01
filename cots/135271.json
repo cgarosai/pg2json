@@ -1,0 +1,10 @@
+{
+    "id": 135271,
+    "name": "s7703_firmware",
+    "version": "v100r006",
+    "created_at": "2017-09-20T17:51:53",
+    "updated_at": "2017-09-20T17:51:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s7703_firmware:v100r006:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

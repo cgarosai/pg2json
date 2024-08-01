@@ -1,0 +1,10 @@
+{
+    "id": 8689,
+    "name": "anomaly_guard_module",
+    "version": "5.0\\(1\\)",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-06-17T15:50:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:anomaly_guard_module:5.0\\(1\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

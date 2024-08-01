@@ -1,0 +1,10 @@
+{
+    "id": 545768,
+    "name": "json",
+    "version": "1.6.3",
+    "created_at": "2020-05-05T14:35:55",
+    "updated_at": "2020-05-05T14:35:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:json_project:json:1.6.3:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

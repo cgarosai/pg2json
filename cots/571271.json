@@ -1,0 +1,10 @@
+{
+    "id": 571271,
+    "name": "skywalking",
+    "version": "8.0.1",
+    "created_at": "2020-08-06T13:21:32",
+    "updated_at": "2020-08-06T13:21:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:skywalking:8.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

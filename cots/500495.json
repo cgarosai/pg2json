@@ -1,0 +1,10 @@
+{
+    "id": 500495,
+    "name": "gear_fit",
+    "version": "-",
+    "created_at": "2020-03-06T17:04:59",
+    "updated_at": "2020-03-06T17:04:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:samsung:gear_fit:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 703890,
+    "name": ".net",
+    "version": "4.0",
+    "created_at": "2021-05-25T11:50:15",
+    "updated_at": "2023-10-15T14:18:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:.net:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

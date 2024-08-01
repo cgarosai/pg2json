@@ -1,0 +1,10 @@
+{
+    "id": 129992,
+    "name": "ucs_c240_m4_rack_server",
+    "version": "-",
+    "created_at": "2017-06-02T00:49:53",
+    "updated_at": "2021-07-08T16:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ucs_c240_m4_rack_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

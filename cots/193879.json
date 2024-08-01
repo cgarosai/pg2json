@@ -1,0 +1,10 @@
+{
+    "id": 193879,
+    "name": "thinkpad_x250_firmware",
+    "version": "-",
+    "created_at": "2019-01-25T19:00:44",
+    "updated_at": "2021-05-05T13:17:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_x250_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

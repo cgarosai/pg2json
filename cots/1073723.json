@@ -1,0 +1,10 @@
+{
+    "id": 1073723,
+    "name": "epyc_7502_firmware",
+    "version": "romepi_1.0.0.a",
+    "created_at": "2023-05-17T19:53:21",
+    "updated_at": "2023-07-14T13:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7502_firmware:romepi_1.0.0.a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

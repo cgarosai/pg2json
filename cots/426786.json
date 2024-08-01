@@ -1,0 +1,10 @@
+{
+    "id": 426786,
+    "name": "gpu_driver",
+    "version": "358",
+    "created_at": "2019-11-01T17:02:31",
+    "updated_at": "2019-11-01T17:02:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

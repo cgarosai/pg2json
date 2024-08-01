@@ -1,0 +1,10 @@
+{
+    "id": 1269459,
+    "name": "vault",
+    "version": "1.0",
+    "created_at": "2024-04-11T13:35:52",
+    "updated_at": "2024-04-11T13:39:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hyperspheretech:vault:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

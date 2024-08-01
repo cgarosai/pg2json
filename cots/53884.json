@@ -1,0 +1,10 @@
+{
+    "id": 53884,
+    "name": "dtsbackup",
+    "version": "2000",
+    "created_at": "2012-07-10T01:20:20",
+    "updated_at": "2012-07-10T01:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqldts:dtsbackup:2000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

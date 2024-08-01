@@ -1,0 +1,10 @@
+{
+    "id": 423705,
+    "name": "makepasswd",
+    "version": "1.10",
+    "created_at": "2019-11-08T12:39:34",
+    "updated_at": "2019-11-08T12:39:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:makepasswd_project:makepasswd:1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

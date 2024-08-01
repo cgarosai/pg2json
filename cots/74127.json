@@ -1,0 +1,10 @@
+{
+    "id": 74127,
+    "name": "pinyin_ime",
+    "version": "2010",
+    "created_at": "2013-09-11T16:16:35",
+    "updated_at": "2021-04-12T11:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x86:*:*",
+    "to_analyse": false
+}

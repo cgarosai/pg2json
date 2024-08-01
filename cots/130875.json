@@ -1,0 +1,10 @@
+{
+    "id": 130875,
+    "name": "ac18_firmware",
+    "version": "us_ac18v1.0br_v15.03.05.05_multi_td01",
+    "created_at": "2017-12-08T18:41:08",
+    "updated_at": "2021-05-27T16:46:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenda:ac18_firmware:us_ac18v1.0br_v15.03.05.05_multi_td01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

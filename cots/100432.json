@@ -1,0 +1,10 @@
+{
+    "id": 100432,
+    "name": "i",
+    "version": "7.2",
+    "created_at": "2015-06-29T16:21:50",
+    "updated_at": "2015-06-29T16:44:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:i:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

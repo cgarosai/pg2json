@@ -1,0 +1,10 @@
+{
+    "id": 92696,
+    "name": "cdsoft",
+    "version": "0.2",
+    "created_at": "2014-09-12T12:21:06",
+    "updated_at": "2014-12-10T16:52:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cdsoft:cdsoft:0.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

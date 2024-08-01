@@ -1,0 +1,10 @@
+{
+    "id": 816382,
+    "name": "spring_cloud_netflix",
+    "version": "2.2.9",
+    "created_at": "2021-11-23T15:17:02",
+    "updated_at": "2021-11-23T22:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_cloud_netflix:2.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

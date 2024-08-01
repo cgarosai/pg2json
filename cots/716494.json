@@ -1,0 +1,10 @@
+{
+    "id": 716494,
+    "name": "authentication_proxy",
+    "version": "3.2.4",
+    "created_at": "2021-05-27T16:49:32",
+    "updated_at": "2021-05-27T16:51:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duo:authentication_proxy:3.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

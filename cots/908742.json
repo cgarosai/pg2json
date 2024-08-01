@@ -1,0 +1,10 @@
+{
+    "id": 908742,
+    "name": "nakama",
+    "version": "3.13.0",
+    "created_at": "2022-07-11T16:35:32",
+    "updated_at": "2022-07-12T14:18:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heroiclabs:nakama:3.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

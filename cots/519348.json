@@ -1,0 +1,10 @@
+{
+    "id": 519348,
+    "name": "xeon_e7210",
+    "version": "-",
+    "created_at": "2020-03-23T13:41:21",
+    "updated_at": "2020-03-23T13:41:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e7210:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

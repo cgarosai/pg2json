@@ -1,0 +1,10 @@
+{
+    "id": 53885,
+    "name": "sql_sentry",
+    "version": "4.2",
+    "created_at": "2012-07-10T01:20:20",
+    "updated_at": "2012-07-10T01:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqlsentry:sql_sentry:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

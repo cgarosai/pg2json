@@ -1,0 +1,10 @@
+{
+    "id": 544157,
+    "name": "bbpress",
+    "version": "2.5.14",
+    "created_at": "2020-05-27T15:40:32",
+    "updated_at": "2020-05-27T15:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bbpress:bbpress:2.5.14:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

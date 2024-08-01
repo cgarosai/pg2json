@@ -1,0 +1,10 @@
+{
+    "id": 426468,
+    "name": "ghostscript",
+    "version": "9.28",
+    "created_at": "2019-11-01T14:04:35",
+    "updated_at": "2019-11-01T14:04:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ghostscript:ghostscript:9.28:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

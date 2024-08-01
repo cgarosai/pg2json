@@ -1,0 +1,10 @@
+{
+    "id": 684803,
+    "name": "controlled_admin_access",
+    "version": "1.5.0",
+    "created_at": "2021-04-14T14:11:48",
+    "updated_at": "2021-04-27T12:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpruby:controlled_admin_access:1.5.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

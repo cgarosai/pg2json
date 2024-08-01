@@ -1,0 +1,10 @@
+{
+    "id": 597730,
+    "name": "cms-se_firmware",
+    "version": "11.0",
+    "created_at": "2020-09-09T16:00:13",
+    "updated_at": "2020-09-09T16:00:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cayintech:cms-se_firmware:11.0:19025:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 219031,
+    "name": "sonicosv",
+    "version": "-",
+    "created_at": "2019-03-19T12:16:18",
+    "updated_at": "2021-08-13T13:26:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:sonicosv:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

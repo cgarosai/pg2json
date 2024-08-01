@@ -1,0 +1,10 @@
+{
+    "id": 53805,
+    "name": "ldap_browser",
+    "version": "2.6",
+    "created_at": "2012-07-10T01:19:50",
+    "updated_at": "2012-07-10T01:19:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:softerra:ldap_browser:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

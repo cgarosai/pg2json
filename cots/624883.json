@@ -1,0 +1,10 @@
+{
+    "id": 624883,
+    "name": "unifi_network_controller",
+    "version": "-",
+    "created_at": "2020-12-10T14:56:12",
+    "updated_at": "2021-07-27T10:59:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ui:unifi_network_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

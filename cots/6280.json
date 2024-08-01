@@ -1,0 +1,10 @@
+{
+    "id": 6280,
+    "name": "as400_firewall",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T13:04:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:as400_firewall:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

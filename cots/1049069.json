@@ -1,0 +1,10 @@
+{
+    "id": 1049069,
+    "name": "ip_phone_8861_firmware",
+    "version": "11.3.7sr1",
+    "created_at": "2023-03-09T13:57:43",
+    "updated_at": "2023-07-14T15:24:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_8861_firmware:11.3.7sr1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 534881,
+    "name": "storefront-api",
+    "version": "1.0.0",
+    "created_at": "2020-05-04T16:32:34",
+    "updated_at": "2020-05-04T16:32:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:divante:storefront-api:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

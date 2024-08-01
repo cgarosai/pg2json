@@ -1,0 +1,10 @@
+{
+    "id": 795608,
+    "name": "check_smart",
+    "version": "6.6.1",
+    "created_at": "2021-10-14T11:28:06",
+    "updated_at": "2021-10-19T14:08:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:check_smart_project:check_smart:6.6.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

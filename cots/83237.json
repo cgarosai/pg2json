@@ -1,0 +1,10 @@
+{
+    "id": 83237,
+    "name": "cloud_single_sign_on",
+    "version": "4.0.0",
+    "created_at": "2014-03-19T14:16:36",
+    "updated_at": "2014-03-19T20:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:cloud_single_sign_on:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 641130,
+    "name": "rdbms_scheduler",
+    "version": "18c",
+    "created_at": "2021-01-25T14:37:32",
+    "updated_at": "2021-01-25T14:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:rdbms_scheduler:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 107336,
+    "name": "wincc",
+    "version": "13.0",
+    "created_at": "2015-02-18T15:03:22",
+    "updated_at": "2015-02-18T16:57:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:wincc:13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

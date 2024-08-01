@@ -1,0 +1,10 @@
+{
+    "id": 855816,
+    "name": "sgt-100_firmware",
+    "version": "-",
+    "created_at": "2022-03-01T13:45:02",
+    "updated_at": "2022-03-07T17:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sgt-100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

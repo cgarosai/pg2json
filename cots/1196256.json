@@ -1,0 +1,10 @@
+{
+    "id": 1196256,
+    "name": "spicedb",
+    "version": "1.23.0",
+    "created_at": "2023-11-07T10:33:49",
+    "updated_at": "2023-11-07T10:33:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:authzed:spicedb:1.23.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

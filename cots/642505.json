@@ -1,0 +1,10 @@
+{
+    "id": 642505,
+    "name": "workload_manager",
+    "version": "19c",
+    "created_at": "2021-01-27T12:37:49",
+    "updated_at": "2021-01-27T12:37:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:workload_manager:19c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

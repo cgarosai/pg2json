@@ -1,0 +1,10 @@
+{
+    "id": 912328,
+    "name": "go_1_firmware",
+    "version": "0.1.35",
+    "created_at": "2022-08-10T09:30:20",
+    "updated_at": "2022-10-27T14:06:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:unitree:go_1_firmware:0.1.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 367727,
+    "name": "qpid_proton-j",
+    "version": "0.12.0",
+    "created_at": "2019-09-11T16:24:36",
+    "updated_at": "2019-09-11T16:24:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid_proton-j:0.12.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

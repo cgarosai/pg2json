@@ -1,0 +1,10 @@
+{
+    "id": 605278,
+    "name": "json",
+    "version": "-",
+    "created_at": "2020-09-29T11:52:48",
+    "updated_at": "2020-09-29T11:52:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joyent:json:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 249389,
+    "name": "m365",
+    "version": "2019-02-12",
+    "created_at": "2019-05-31T13:43:03",
+    "updated_at": "2021-06-14T14:24:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mi:m365:2019-02-12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

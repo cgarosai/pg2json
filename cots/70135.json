@@ -1,0 +1,10 @@
+{
+    "id": 70135,
+    "name": "integrated_lights-out_3_firmware",
+    "version": "1.55",
+    "created_at": "2013-06-17T12:23:37",
+    "updated_at": "2013-07-18T14:38:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:integrated_lights-out_3_firmware:1.55:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

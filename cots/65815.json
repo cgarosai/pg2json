@@ -1,0 +1,10 @@
+{
+    "id": 65815,
+    "name": "infrastructure_client",
+    "version": "2.5.0.64207",
+    "created_at": "2012-08-01T19:33:22",
+    "updated_at": "2012-08-01T19:33:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:infrastructure_client:2.5.0.64207:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

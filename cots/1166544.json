@@ -1,0 +1,10 @@
+{
+    "id": 1166544,
+    "name": "cloud_enterprise_client",
+    "version": "23.3.0.130",
+    "created_at": "2023-09-25T16:08:45",
+    "updated_at": "2023-09-25T16:08:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fabasoft:cloud_enterprise_client:23.3.0.130:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 50598,
+    "name": "spa_500_series_ip_phone_firmware",
+    "version": "7.4.3",
+    "created_at": "2012-06-14T15:58:51",
+    "updated_at": "2012-06-15T13:11:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:spa_500_series_ip_phone_firmware:7.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

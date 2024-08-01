@@ -1,0 +1,10 @@
+{
+    "id": 162583,
+    "name": "cisco_meeting_server_2000",
+    "version": "-",
+    "created_at": "2018-08-14T13:43:29",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:cisco_meeting_server_2000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

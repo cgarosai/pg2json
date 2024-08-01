@@ -1,0 +1,10 @@
+{
+    "id": 93640,
+    "name": "homeadvisor_mobile",
+    "version": "3.0.3",
+    "created_at": "2014-11-10T15:17:59",
+    "updated_at": "2014-11-10T15:57:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:homeadvisor:homeadvisor_mobile:3.0.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

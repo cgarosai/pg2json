@@ -1,0 +1,10 @@
+{
+    "id": 52252,
+    "name": "search_api",
+    "version": "7.x-1.0",
+    "created_at": "2012-06-27T13:11:45",
+    "updated_at": "2012-07-30T13:20:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thomas_seidl:search_api:7.x-1.0:beta4:*:*:*:*:*:*",
+    "to_analyse": false
+}

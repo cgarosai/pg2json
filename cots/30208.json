@@ -1,0 +1,10 @@
+{
+    "id": 30208,
+    "name": "cgi-simple",
+    "version": "0.080",
+    "created_at": "2010-12-16T11:44:17",
+    "updated_at": "2010-12-20T13:33:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:andy_armstrong:cgi-simple:0.080:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

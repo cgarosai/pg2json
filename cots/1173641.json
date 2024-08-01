@@ -1,0 +1,10 @@
+{
+    "id": 1173641,
+    "name": "fortimanager",
+    "version": "7.0.9",
+    "created_at": "2023-10-19T14:35:13",
+    "updated_at": "2023-10-19T14:35:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortimanager:7.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 955516,
+    "name": "commons_text",
+    "version": "1.9",
+    "created_at": "2022-10-14T15:58:00",
+    "updated_at": "2022-10-14T20:00:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_text:1.9:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

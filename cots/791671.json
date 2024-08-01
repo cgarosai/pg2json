@@ -1,0 +1,10 @@
+{
+    "id": 791671,
+    "name": "cfengine",
+    "version": "3.15.4",
+    "created_at": "2021-10-27T15:38:49",
+    "updated_at": "2021-12-13T12:44:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:northern.tech:cfengine:3.15.4:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

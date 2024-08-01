@@ -1,0 +1,10 @@
+{
+    "id": 956824,
+    "name": "database_-_sharding",
+    "version": "21c",
+    "created_at": "2022-10-19T10:57:17",
+    "updated_at": "2022-11-05T00:40:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:database_-_sharding:21c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

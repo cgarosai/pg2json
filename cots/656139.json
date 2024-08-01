@@ -1,0 +1,10 @@
+{
+    "id": 656139,
+    "name": "nested-object-assign",
+    "version": "1.0.0",
+    "created_at": "2021-02-03T15:19:07",
+    "updated_at": "2021-02-03T15:19:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getadigital:nested-object-assign:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

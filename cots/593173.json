@@ -1,0 +1,10 @@
+{
+    "id": 593173,
+    "name": "compute_stick_stck1a32wfc_firmware",
+    "version": "stck1a32wfc",
+    "created_at": "2020-09-23T10:46:15",
+    "updated_at": "2020-09-23T10:46:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:compute_stick_stck1a32wfc_firmware:stck1a32wfc:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

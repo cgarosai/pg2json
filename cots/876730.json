@@ -1,0 +1,10 @@
+{
+    "id": 876730,
+    "name": "credentials",
+    "version": "1111.v35a_307992395",
+    "created_at": "2022-04-19T13:39:13",
+    "updated_at": "2022-04-27T14:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:credentials:1111.v35a_307992395:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

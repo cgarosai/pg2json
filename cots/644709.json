@@ -1,0 +1,10 @@
+{
+    "id": 644709,
+    "name": "rusb",
+    "version": "0.5.3",
+    "created_at": "2021-02-01T16:35:46",
+    "updated_at": "2021-02-01T16:35:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rusb_project:rusb:0.5.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

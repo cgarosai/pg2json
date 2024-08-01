@@ -1,0 +1,10 @@
+{
+    "id": 570631,
+    "name": "express-fileupload",
+    "version": "1.1.4",
+    "created_at": "2020-08-05T15:34:14",
+    "updated_at": "2023-10-17T16:29:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express-fileupload_project:express-fileupload:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

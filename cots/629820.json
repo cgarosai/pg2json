@@ -1,0 +1,10 @@
+{
+    "id": 629820,
+    "name": "oauthenticator",
+    "version": "0.7.2",
+    "created_at": "2020-12-07T12:38:30",
+    "updated_at": "2020-12-07T12:38:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:oauthenticator:0.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

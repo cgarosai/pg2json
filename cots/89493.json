@@ -1,0 +1,10 @@
+{
+    "id": 89493,
+    "name": "hotbox_router_firmware",
+    "version": "2.1.11",
+    "created_at": "2013-12-30T18:08:53",
+    "updated_at": "2013-12-30T18:29:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hot:hotbox_router_firmware:2.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

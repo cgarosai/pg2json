@@ -1,0 +1,10 @@
+{
+    "id": 489690,
+    "name": "gwn7000_firmware",
+    "version": "-",
+    "created_at": "2020-02-04T13:17:24",
+    "updated_at": "2020-02-04T13:17:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:grandstream:gwn7000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

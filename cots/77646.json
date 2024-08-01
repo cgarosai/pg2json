@@ -1,0 +1,10 @@
+{
+    "id": 77646,
+    "name": "gpu_driver",
+    "version": "313.00",
+    "created_at": "2013-04-09T12:48:24",
+    "updated_at": "2013-04-09T19:32:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*",
+    "to_analyse": false
+}

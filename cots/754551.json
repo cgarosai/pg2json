@@ -1,0 +1,10 @@
+{
+    "id": 754551,
+    "name": "open-graph",
+    "version": "0.1.5",
+    "created_at": "2021-08-13T13:34:15",
+    "updated_at": "2021-08-13T20:27:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-graph_project:open-graph:0.1.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

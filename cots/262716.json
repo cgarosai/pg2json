@@ -1,0 +1,10 @@
+{
+    "id": 262716,
+    "name": "wp_statistics",
+    "version": "12.6.6",
+    "created_at": "2019-06-18T14:57:44",
+    "updated_at": "2019-06-18T14:57:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veronalabs:wp_statistics:12.6.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 112621,
+    "name": "sterling_connect\\",
+    "version": "direct",
+    "created_at": "2016-11-25T15:38:03",
+    "updated_at": "2021-06-08T13:25:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sterling_connect\\:direct:4.5:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 680801,
+    "name": "shiny_server",
+    "version": "1.5.11",
+    "created_at": "2021-04-07T22:09:05",
+    "updated_at": "2021-04-20T14:05:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rstudio:shiny_server:1.5.11:*:*:*:pro:*:*:*",
+    "to_analyse": false
+}

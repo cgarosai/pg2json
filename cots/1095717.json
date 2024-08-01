@@ -1,0 +1,10 @@
+{
+    "id": 1095717,
+    "name": "globalprotect",
+    "version": "6.0.3",
+    "created_at": "2023-06-05T11:25:17",
+    "updated_at": "2023-06-05T12:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:globalprotect:6.0.3:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

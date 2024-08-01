@@ -1,0 +1,10 @@
+{
+    "id": 1163731,
+    "name": "wp_mail_smtp",
+    "version": "2.2.1",
+    "created_at": "2023-10-05T12:53:11",
+    "updated_at": "2023-10-05T12:53:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpforms:wp_mail_smtp:2.2.1:*:*:*:agency:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1159987,
+    "name": "time_to_sla",
+    "version": "10.2.2",
+    "created_at": "2023-09-18T12:34:21",
+    "updated_at": "2023-09-18T12:34:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appfire:time_to_sla:10.2.2:*:*:*:*:jira:*:*",
+    "to_analyse": false
+}

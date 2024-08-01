@@ -1,0 +1,10 @@
+{
+    "id": 4829,
+    "name": "heartbeat",
+    "version": "1.2.4",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux-ha:heartbeat:1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

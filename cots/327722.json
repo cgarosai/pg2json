@@ -1,0 +1,10 @@
+{
+    "id": 327722,
+    "name": "openwsman",
+    "version": "2.5.2",
+    "created_at": "2019-07-31T16:21:10",
+    "updated_at": "2019-07-31T16:21:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openwsman_project:openwsman:2.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

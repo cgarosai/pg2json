@@ -1,0 +1,10 @@
+{
+    "id": 840144,
+    "name": "mysql_server",
+    "version": "5.7.36",
+    "created_at": "2022-02-09T16:24:50",
+    "updated_at": "2023-05-11T12:06:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_server:5.7.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

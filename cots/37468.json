@@ -1,0 +1,10 @@
+{
+    "id": 37468,
+    "name": "acrobat",
+    "version": "9.4",
+    "created_at": "2010-10-13T00:39:14",
+    "updated_at": "2010-10-13T00:39:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:acrobat:9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

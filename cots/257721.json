@@ -1,0 +1,10 @@
+{
+    "id": 257721,
+    "name": "netatalk",
+    "version": "3.0.3",
+    "created_at": "2019-06-10T10:32:29",
+    "updated_at": "2023-09-29T09:15:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netatalk_project:netatalk:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

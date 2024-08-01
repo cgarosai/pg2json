@@ -1,0 +1,10 @@
+{
+    "id": 649116,
+    "name": "resteasy",
+    "version": "3.8.0",
+    "created_at": "2021-01-14T18:35:08",
+    "updated_at": "2021-01-14T18:35:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:resteasy:3.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

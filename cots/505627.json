@@ -1,0 +1,10 @@
+{
+    "id": 505627,
+    "name": "mail_security",
+    "version": "4.0",
+    "created_at": "2020-02-28T15:28:08",
+    "updated_at": "2020-02-28T15:28:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:mail_security:4.0:*:domino:*:*:*:*:*",
+    "to_analyse": false
+}

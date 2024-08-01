@@ -1,0 +1,10 @@
+{
+    "id": 251864,
+    "name": "opensc",
+    "version": "0.12.2",
+    "created_at": "2019-06-11T16:07:51",
+    "updated_at": "2019-06-11T16:07:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensc_project:opensc:0.12.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

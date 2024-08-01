@@ -1,0 +1,10 @@
+{
+    "id": 430289,
+    "name": "enable_now",
+    "version": "1908",
+    "created_at": "2019-11-18T17:16:05",
+    "updated_at": "2019-11-18T17:16:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:enable_now:1908:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

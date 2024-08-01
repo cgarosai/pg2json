@@ -1,0 +1,10 @@
+{
+    "id": 816263,
+    "name": "django-helpdesk",
+    "version": "0.3.2",
+    "created_at": "2021-11-23T13:56:30",
+    "updated_at": "2021-11-29T13:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-helpdesk_project:django-helpdesk:0.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

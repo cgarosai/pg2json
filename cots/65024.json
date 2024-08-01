@@ -1,0 +1,10 @@
+{
+    "id": 65024,
+    "name": "foxboro_control_software",
+    "version": "4.0",
+    "created_at": "2012-07-26T18:05:11",
+    "updated_at": "2012-07-30T13:52:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invensys:foxboro_control_software:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

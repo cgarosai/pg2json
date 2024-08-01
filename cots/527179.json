@@ -1,0 +1,10 @@
+{
+    "id": 527179,
+    "name": "cloud_foundry_networking_release",
+    "version": "0.5.0",
+    "created_at": "2020-04-01T16:10:24",
+    "updated_at": "2020-04-01T16:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_networking_release:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

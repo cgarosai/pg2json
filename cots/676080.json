@@ -1,0 +1,10 @@
+{
+    "id": 676080,
+    "name": "power_bi_report_server",
+    "version": "15.0.1104.300",
+    "created_at": "2021-03-12T13:53:29",
+    "updated_at": "2021-06-02T15:17:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:power_bi_report_server:15.0.1104.300:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 195513,
+    "name": "rut950_firmware",
+    "version": "00.04.38",
+    "created_at": "2018-11-29T19:19:23",
+    "updated_at": "2021-04-29T15:55:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teltonika:rut950_firmware:00.04.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

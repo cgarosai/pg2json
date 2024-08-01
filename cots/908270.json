@@ -1,0 +1,10 @@
+{
+    "id": 908270,
+    "name": "aerogear",
+    "version": "1.0.0",
+    "created_at": "2022-07-11T12:04:00",
+    "updated_at": "2022-11-07T20:22:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jboss:aerogear:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

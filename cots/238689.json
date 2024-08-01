@@ -1,0 +1,10 @@
+{
+    "id": 238689,
+    "name": "inedo_proget",
+    "version": "0.2",
+    "created_at": "2019-05-07T12:46:48",
+    "updated_at": "2019-05-07T12:46:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:inedo_proget:0.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

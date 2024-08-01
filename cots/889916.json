@@ -1,0 +1,10 @@
+{
+    "id": 889916,
+    "name": "client_agent",
+    "version": "10.1.11",
+    "created_at": "2022-06-01T12:49:39",
+    "updated_at": "2022-06-01T13:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goverlan:client_agent:10.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

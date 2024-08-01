@@ -1,0 +1,10 @@
+{
+    "id": 921474,
+    "name": "restify",
+    "version": "4.0.2",
+    "created_at": "2022-08-26T22:50:37",
+    "updated_at": "2022-08-26T22:52:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:restify:restify:4.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

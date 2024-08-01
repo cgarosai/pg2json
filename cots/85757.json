@@ -1,0 +1,10 @@
+{
+    "id": 85757,
+    "name": "chicken",
+    "version": "4.8.0",
+    "created_at": "2013-10-09T17:10:48",
+    "updated_at": "2013-10-09T17:22:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:call-cc:chicken:4.8.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

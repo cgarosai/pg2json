@@ -1,0 +1,10 @@
+{
+    "id": 448231,
+    "name": "libksba",
+    "version": "0.4.3",
+    "created_at": "2019-11-29T12:49:09",
+    "updated_at": "2023-05-18T16:08:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libksba_project:libksba:0.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

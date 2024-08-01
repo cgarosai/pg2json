@@ -1,0 +1,10 @@
+{
+    "id": 505639,
+    "name": "norton_antivirus",
+    "version": "8.01.457",
+    "created_at": "2020-02-28T15:28:10",
+    "updated_at": "2020-02-28T15:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:norton_antivirus:8.01.457:*:corporate:*:*:*:*:*",
+    "to_analyse": false
+}

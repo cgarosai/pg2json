@@ -1,0 +1,10 @@
+{
+    "id": 853704,
+    "name": "rabbitmq",
+    "version": "1.1.0",
+    "created_at": "2022-03-17T12:41:17",
+    "updated_at": "2022-03-17T13:05:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:rabbitmq:1.1.0:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

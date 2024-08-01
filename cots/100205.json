@@ -1,0 +1,10 @@
+{
+    "id": 100205,
+    "name": "civicrm_private_report",
+    "version": "6.x-1.1",
+    "created_at": "2015-06-16T19:12:15",
+    "updated_at": "2015-06-23T16:59:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:civicrm:civicrm_private_report:6.x-1.1:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

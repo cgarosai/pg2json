@@ -1,0 +1,10 @@
+{
+    "id": 846552,
+    "name": "varnich_cache",
+    "version": "6.0.9r4",
+    "created_at": "2022-02-07T11:23:30",
+    "updated_at": "2022-08-02T17:35:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:varnish-software:varnich_cache:6.0.9r4:*:*:*:plus:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 564943,
+    "name": "fabric-attached_storage_8700_firmware",
+    "version": "-",
+    "created_at": "2020-07-24T14:05:17",
+    "updated_at": "2020-07-24T14:05:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:fabric-attached_storage_8700_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

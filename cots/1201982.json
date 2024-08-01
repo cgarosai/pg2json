@@ -1,0 +1,10 @@
+{
+    "id": 1201982,
+    "name": "resty",
+    "version": "0.12",
+    "created_at": "2023-12-04T18:01:10",
+    "updated_at": "2023-12-04T18:01:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:resty_project:resty:0.12:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

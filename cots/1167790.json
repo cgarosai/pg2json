@@ -1,0 +1,10 @@
+{
+    "id": 1167790,
+    "name": "linux_security_64",
+    "version": "12.0",
+    "created_at": "2023-09-27T08:35:51",
+    "updated_at": "2023-09-27T08:35:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:linux_security_64:12.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

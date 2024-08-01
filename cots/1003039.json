@@ -1,0 +1,10 @@
+{
+    "id": 1003039,
+    "name": "tokio",
+    "version": "1.20.3",
+    "created_at": "2023-01-09T17:19:30",
+    "updated_at": "2023-07-07T10:48:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tokio:tokio:1.20.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

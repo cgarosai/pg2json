@@ -1,0 +1,10 @@
+{
+    "id": 269159,
+    "name": "modulemd",
+    "version": "1.1.0",
+    "created_at": "2019-06-17T10:09:33",
+    "updated_at": "2019-06-17T10:09:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:modulemd:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

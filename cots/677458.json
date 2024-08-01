@@ -1,0 +1,10 @@
+{
+    "id": 677458,
+    "name": "cryptshare_server",
+    "version": "4.1.3",
+    "created_at": "2021-03-16T13:42:44",
+    "updated_at": "2021-03-18T14:00:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cryptshare:cryptshare_server:4.1.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

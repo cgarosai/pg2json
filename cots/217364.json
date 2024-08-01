@@ -1,0 +1,10 @@
+{
+    "id": 217364,
+    "name": "warnings",
+    "version": "3.19",
+    "created_at": "2019-03-15T18:23:15",
+    "updated_at": "2019-03-15T18:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:warnings:3.19:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

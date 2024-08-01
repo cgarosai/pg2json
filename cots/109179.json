@@ -1,0 +1,10 @@
+{
+    "id": 109179,
+    "name": "facebook_album_fetcher",
+    "version": "7.x-1.x-dev",
+    "created_at": "2015-04-22T19:40:52",
+    "updated_at": "2015-04-23T15:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:facebook_album_fetcher_project:facebook_album_fetcher:7.x-1.x-dev:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

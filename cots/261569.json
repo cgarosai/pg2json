@@ -1,0 +1,10 @@
+{
+    "id": 261569,
+    "name": "grpc",
+    "version": "1.2.5",
+    "created_at": "2019-06-18T11:32:56",
+    "updated_at": "2019-06-18T11:32:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grpc:grpc:1.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

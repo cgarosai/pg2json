@@ -1,0 +1,10 @@
+{
+    "id": 216490,
+    "name": "caddy",
+    "version": "8.17.4",
+    "created_at": "2019-03-12T13:18:03",
+    "updated_at": "2019-03-12T13:18:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:caddy_project:caddy:8.17.4:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

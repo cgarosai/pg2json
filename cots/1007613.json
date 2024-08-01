@@ -1,0 +1,10 @@
+{
+    "id": 1007613,
+    "name": "se4801t0x_redundant_wireless_i\\/o_card_firmware",
+    "version": "-",
+    "created_at": "2023-01-03T15:31:51",
+    "updated_at": "2023-01-05T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emerson:se4801t0x_redundant_wireless_i\\/o_card_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

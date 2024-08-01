@@ -1,0 +1,10 @@
+{
+    "id": 323537,
+    "name": "unzipper",
+    "version": "0.8.11",
+    "created_at": "2019-08-02T15:28:44",
+    "updated_at": "2019-08-02T15:28:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unzipper_project:unzipper:0.8.11:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 662562,
+    "name": "weston",
+    "version": "0.94.90",
+    "created_at": "2021-03-04T17:54:56",
+    "updated_at": "2021-03-08T17:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wayland:weston:0.94.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

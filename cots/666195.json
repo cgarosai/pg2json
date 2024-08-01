@@ -1,0 +1,10 @@
+{
+    "id": 666195,
+    "name": "stm32cubef0",
+    "version": "-",
+    "created_at": "2021-02-23T17:51:21",
+    "updated_at": "2021-02-23T17:51:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:st:stm32cubef0:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

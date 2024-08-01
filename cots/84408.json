@@ -1,0 +1,10 @@
+{
+    "id": 84408,
+    "name": "metronome",
+    "version": "3.4",
+    "created_at": "2014-04-11T17:29:33",
+    "updated_at": "2014-04-16T18:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightwitch:metronome:3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 371675,
+    "name": "minimatch",
+    "version": "3.0.4",
+    "created_at": "2019-09-20T17:29:29",
+    "updated_at": "2019-09-20T17:29:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:minimatch_project:minimatch:3.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

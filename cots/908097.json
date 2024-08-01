@@ -1,0 +1,10 @@
+{
+    "id": 908097,
+    "name": "deep.assign",
+    "version": "0.0.0",
+    "created_at": "2022-07-08T13:46:38",
+    "updated_at": "2022-07-08T14:57:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deep.assign_project:deep.assign:0.0.0:alpha0:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

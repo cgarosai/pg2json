@@ -1,0 +1,10 @@
+{
+    "id": 231959,
+    "name": "qlik_analytics",
+    "version": "september_2018",
+    "created_at": "2019-05-10T13:00:20",
+    "updated_at": "2021-04-14T13:42:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qlik:qlik_analytics:september_2018:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

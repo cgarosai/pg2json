@@ -1,0 +1,10 @@
+{
+    "id": 717674,
+    "name": "sd-wan_edge",
+    "version": "7.3",
+    "created_at": "2021-06-01T15:57:37",
+    "updated_at": "2021-06-22T11:52:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:sd-wan_edge:7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 19617,
+    "name": "msn_messenger",
+    "version": "2.2",
+    "created_at": "2007-08-28T19:32:01",
+    "updated_at": "2008-04-07T12:27:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:msn_messenger:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

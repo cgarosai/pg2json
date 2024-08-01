@@ -1,0 +1,10 @@
+{
+    "id": 1212798,
+    "name": "authelia",
+    "version": "4.32.1",
+    "created_at": "2023-12-19T15:39:51",
+    "updated_at": "2023-12-19T15:39:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:authelia:authelia:4.32.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

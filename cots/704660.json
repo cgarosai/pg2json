@@ -1,0 +1,10 @@
+{
+    "id": 704660,
+    "name": "emissary",
+    "version": "6.5.0",
+    "created_at": "2021-05-26T16:31:38",
+    "updated_at": "2021-05-27T14:35:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nsa:emissary:6.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

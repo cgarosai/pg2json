@@ -1,0 +1,10 @@
+{
+    "id": 145491,
+    "name": "xeon",
+    "version": "l5640",
+    "created_at": "2018-02-07T11:28:02",
+    "updated_at": "2020-04-27T18:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon:l5640:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

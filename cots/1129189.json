@@ -1,0 +1,10 @@
+{
+    "id": 1129189,
+    "name": "casaos-gateway",
+    "version": "0.4.4",
+    "created_at": "2023-07-26T14:15:31",
+    "updated_at": "2023-07-26T16:58:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icewhale:casaos-gateway:0.4.4:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

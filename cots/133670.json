@@ -1,0 +1,10 @@
+{
+    "id": 133670,
+    "name": "steam_link",
+    "version": "-",
+    "created_at": "2018-01-18T15:26:23",
+    "updated_at": "2018-01-18T15:26:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:valvesoftware:steam_link:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

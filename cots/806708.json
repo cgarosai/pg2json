@@ -1,0 +1,10 @@
+{
+    "id": 806708,
+    "name": "druid",
+    "version": "1.1.11",
+    "created_at": "2021-11-08T13:09:40",
+    "updated_at": "2021-11-08T13:22:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alibaba:druid:1.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

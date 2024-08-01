@@ -1,0 +1,10 @@
+{
+    "id": 198886,
+    "name": "appmanager_diagnostic_console",
+    "version": "2.1.0.0",
+    "created_at": "2018-12-31T19:59:15",
+    "updated_at": "2021-04-09T15:18:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:appmanager_diagnostic_console:2.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

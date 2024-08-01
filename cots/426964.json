@@ -1,0 +1,10 @@
+{
+    "id": 426964,
+    "name": "raid_web_console",
+    "version": "3.0",
+    "created_at": "2019-11-01T17:42:00",
+    "updated_at": "2019-11-01T17:42:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:raid_web_console:3.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

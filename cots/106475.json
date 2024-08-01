@@ -1,0 +1,10 @@
+{
+    "id": 106475,
+    "name": "school_administration",
+    "version": "7.x-1.4",
+    "created_at": "2015-01-12T17:46:16",
+    "updated_at": "2015-01-20T15:07:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:school_administration_project:school_administration:7.x-1.4:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

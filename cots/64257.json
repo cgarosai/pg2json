@@ -1,0 +1,10 @@
+{
+    "id": 64257,
+    "name": "ircd-ratbox",
+    "version": "1.2.1",
+    "created_at": "2013-01-08T18:28:27",
+    "updated_at": "2013-01-08T18:28:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ratbox:ircd-ratbox:1.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

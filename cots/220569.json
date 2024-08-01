@@ -1,0 +1,10 @@
+{
+    "id": 220569,
+    "name": "sitop_ups1600_firmware",
+    "version": "-",
+    "created_at": "2019-04-18T15:30:58",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sitop_ups1600_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

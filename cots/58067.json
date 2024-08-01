@@ -1,0 +1,10 @@
+{
+    "id": 58067,
+    "name": "navisphere_command_line_interface",
+    "version": "26.0.2.24",
+    "created_at": "2012-05-14T21:28:49",
+    "updated_at": "2012-05-14T21:28:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:navisphere_command_line_interface:26.0.2.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

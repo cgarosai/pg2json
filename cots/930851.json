@@ -1,0 +1,10 @@
+{
+    "id": 930851,
+    "name": "poetry",
+    "version": "1.1.7",
+    "created_at": "2022-09-12T11:22:37",
+    "updated_at": "2022-09-12T11:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python-poetry:poetry:1.1.7:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

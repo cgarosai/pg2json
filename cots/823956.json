@@ -1,0 +1,10 @@
+{
+    "id": 823956,
+    "name": "tectonic_xdv",
+    "version": "-",
+    "created_at": "2022-01-05T15:12:35",
+    "updated_at": "2022-01-10T15:01:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tectonic_xdv_project:tectonic_xdv:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

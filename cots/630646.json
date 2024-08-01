@@ -1,0 +1,10 @@
+{
+    "id": 630646,
+    "name": "infocage_siteshell",
+    "version": "3.0.0.11",
+    "created_at": "2020-12-22T15:23:39",
+    "updated_at": "2020-12-22T15:23:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nec:infocage_siteshell:3.0.0.11:*:*:*:*:iis:*:*",
+    "to_analyse": false
+}

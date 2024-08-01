@@ -1,0 +1,10 @@
+{
+    "id": 1200961,
+    "name": "connect",
+    "version": "3.4.0.3121",
+    "created_at": "2023-12-02T02:40:18",
+    "updated_at": "2023-12-02T02:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvpn:connect:3.4.0.3121:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

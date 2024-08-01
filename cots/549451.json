@@ -1,0 +1,10 @@
+{
+    "id": 549451,
+    "name": "origin",
+    "version": "1.1.6",
+    "created_at": "2020-05-12T15:45:03",
+    "updated_at": "2020-05-12T15:45:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openshift:origin:1.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

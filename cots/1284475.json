@@ -1,0 +1,10 @@
+{
+    "id": 1284475,
+    "name": "wp_secure_maintenance",
+    "version": "1.7",
+    "created_at": "2024-07-30T15:47:43",
+    "updated_at": "2024-07-30T15:47:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpexperts:wp_secure_maintenance:1.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

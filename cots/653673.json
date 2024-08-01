@@ -1,0 +1,10 @@
+{
+    "id": 653673,
+    "name": "jackson-databind",
+    "version": "2.9.10.3",
+    "created_at": "2021-02-22T12:44:39",
+    "updated_at": "2023-09-12T18:28:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fasterxml:jackson-databind:2.9.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

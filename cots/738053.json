@@ -1,0 +1,10 @@
+{
+    "id": 738053,
+    "name": "apisix_dashboard",
+    "version": "2.7",
+    "created_at": "2021-07-06T17:37:56",
+    "updated_at": "2021-07-07T09:45:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:apisix_dashboard:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

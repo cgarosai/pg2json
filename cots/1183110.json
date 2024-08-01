@@ -1,0 +1,10 @@
+{
+    "id": 1183110,
+    "name": "http_server",
+    "version": "-",
+    "created_at": "2023-11-01T15:06:12",
+    "updated_at": "2023-11-01T15:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dart:http_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

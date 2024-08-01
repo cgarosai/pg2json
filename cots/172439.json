@@ -1,0 +1,10 @@
+{
+    "id": 172439,
+    "name": "vmg3312_b10b_firmware",
+    "version": "-",
+    "created_at": "2018-10-17T18:15:11",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:vmg3312_b10b_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

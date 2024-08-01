@@ -1,0 +1,10 @@
+{
+    "id": 524596,
+    "name": "docker-kong",
+    "version": "0.2.0-2",
+    "created_at": "2020-04-13T12:35:07",
+    "updated_at": "2020-04-13T12:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:konghq:docker-kong:0.2.0-2:*:*:*:*:kong:*:*",
+    "to_analyse": false
+}

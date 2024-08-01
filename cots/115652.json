@@ -1,0 +1,10 @@
+{
+    "id": 115652,
+    "name": "driver_update_utility",
+    "version": "2.2",
+    "created_at": "2016-02-24T17:25:06",
+    "updated_at": "2016-02-24T17:25:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:driver_update_utility:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

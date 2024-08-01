@@ -1,0 +1,10 @@
+{
+    "id": 707523,
+    "name": "ucs-e160dp-m1_firmware",
+    "version": "-",
+    "created_at": "2021-05-12T10:28:59",
+    "updated_at": "2021-05-26T12:35:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ucs-e160dp-m1_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

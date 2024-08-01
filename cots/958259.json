@@ -1,0 +1,10 @@
+{
+    "id": 958259,
+    "name": "jdk",
+    "version": "1.8.0",
+    "created_at": "2022-10-20T13:25:40",
+    "updated_at": "2022-11-05T00:40:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:jdk:1.8.0:update345:*:*:enterprise_performance_pack:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 17436,
+    "name": "redhat_package_manager",
+    "version": "4.0.3",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:49:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:redhat_package_manager:4.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

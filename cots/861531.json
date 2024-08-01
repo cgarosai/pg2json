@@ -1,0 +1,10 @@
+{
+    "id": 861531,
+    "name": "smart_proxy_salt",
+    "version": "0.0.2",
+    "created_at": "2022-04-07T14:25:01",
+    "updated_at": "2022-04-07T18:06:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theforeman:smart_proxy_salt:0.0.2:*:*:*:*:foreman:*:*",
+    "to_analyse": false
+}

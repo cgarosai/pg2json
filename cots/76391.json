@@ -1,0 +1,10 @@
+{
+    "id": 76391,
+    "name": "cloud_portal",
+    "version": "9.3.2",
+    "created_at": "2013-02-27T13:51:14",
+    "updated_at": "2013-02-27T16:42:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:cloud_portal:9.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

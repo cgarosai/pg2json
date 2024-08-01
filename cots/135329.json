@@ -1,0 +1,10 @@
+{
+    "id": 135329,
+    "name": "s9312_firmware",
+    "version": "v200r005",
+    "created_at": "2017-09-20T17:51:58",
+    "updated_at": "2017-09-20T17:51:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s9312_firmware:v200r005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

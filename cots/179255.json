@@ -1,0 +1,10 @@
+{
+    "id": 179255,
+    "name": "bacula",
+    "version": "1.23a",
+    "created_at": "2018-10-09T12:04:03",
+    "updated_at": "2018-10-09T12:04:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bacula:bacula:1.23a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

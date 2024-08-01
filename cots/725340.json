@@ -1,0 +1,10 @@
+{
+    "id": 725340,
+    "name": "altavault",
+    "version": "4.3",
+    "created_at": "2021-06-09T11:50:35",
+    "updated_at": "2021-06-09T11:51:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:altavault:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

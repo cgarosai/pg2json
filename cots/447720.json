@@ -1,0 +1,10 @@
+{
+    "id": 447720,
+    "name": "sdm710_firmware",
+    "version": "-",
+    "created_at": "2019-11-26T18:20:26",
+    "updated_at": "2019-11-26T18:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sdm710_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

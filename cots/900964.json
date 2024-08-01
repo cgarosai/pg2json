@@ -1,0 +1,10 @@
+{
+    "id": 900964,
+    "name": "glance",
+    "version": "2014-06-27",
+    "created_at": "2022-07-14T15:51:29",
+    "updated_at": "2023-02-16T16:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glance_project:glance:2014-06-27:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

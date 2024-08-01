@@ -1,0 +1,10 @@
+{
+    "id": 74752,
+    "name": "rational_clearcase",
+    "version": "8.0.0.7",
+    "created_at": "2013-09-25T13:21:11",
+    "updated_at": "2013-12-18T19:12:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:rational_clearcase:8.0.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

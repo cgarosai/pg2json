@@ -1,0 +1,10 @@
+{
+    "id": 107349,
+    "name": "email_gateway",
+    "version": "7.5.5",
+    "created_at": "2015-02-18T15:30:26",
+    "updated_at": "2015-02-18T15:40:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:email_gateway:7.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

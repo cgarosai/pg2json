@@ -1,0 +1,10 @@
+{
+    "id": 68608,
+    "name": "horizon",
+    "version": "folsom-3",
+    "created_at": "2012-09-06T13:06:06",
+    "updated_at": "2012-09-18T12:12:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:horizon:folsom-3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

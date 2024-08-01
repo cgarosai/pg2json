@@ -1,0 +1,10 @@
+{
+    "id": 745779,
+    "name": "mgate_mb3270",
+    "version": "-",
+    "created_at": "2021-07-16T12:49:34",
+    "updated_at": "2021-07-16T12:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:moxa:mgate_mb3270:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

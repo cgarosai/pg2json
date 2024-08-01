@@ -1,0 +1,10 @@
+{
+    "id": 70399,
+    "name": "windows_mobile_smartphone",
+    "version": "x05ht",
+    "created_at": "2013-06-17T16:51:20",
+    "updated_at": "2013-06-24T12:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:softbank:windows_mobile_smartphone:x05ht:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 890702,
+    "name": "zlib",
+    "version": "1.0",
+    "created_at": "2022-06-22T14:38:50",
+    "updated_at": "2022-06-22T14:40:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zlib:zlib:1.0:prerelease:*:*:*:*:*:*",
+    "to_analyse": false
+}

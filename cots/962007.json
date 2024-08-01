@@ -1,0 +1,10 @@
+{
+    "id": 962007,
+    "name": "amd_link",
+    "version": "5.0.220614",
+    "created_at": "2022-11-16T18:50:16",
+    "updated_at": "2022-11-16T19:00:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amd:amd_link:5.0.220614:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

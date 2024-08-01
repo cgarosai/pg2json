@@ -1,0 +1,10 @@
+{
+    "id": 764173,
+    "name": "is-svg",
+    "version": "1.1.0",
+    "created_at": "2021-09-02T17:59:38",
+    "updated_at": "2021-09-03T18:02:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:is-svg_project:is-svg:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

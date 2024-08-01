@@ -1,0 +1,10 @@
+{
+    "id": 1219918,
+    "name": "system_management_unit_firmware",
+    "version": "14.8.7825.01",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hitachi:system_management_unit_firmware:14.8.7825.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

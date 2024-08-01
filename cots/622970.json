@@ -1,0 +1,10 @@
+{
+    "id": 622970,
+    "name": "irssi_docker",
+    "version": "1.0.5",
+    "created_at": "2020-12-08T22:36:17",
+    "updated_at": "2020-12-08T22:36:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:irssi_docker_project:irssi_docker:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 682804,
+    "name": "owncloud_desktop_client",
+    "version": "2.6.0",
+    "created_at": "2021-04-09T16:40:11",
+    "updated_at": "2021-04-30T14:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owncloud:owncloud_desktop_client:2.6.0:rc4:*:*:*:*:*:*",
+    "to_analyse": false
+}

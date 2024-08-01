@@ -1,0 +1,10 @@
+{
+    "id": 415000,
+    "name": "retail_back_office",
+    "version": "13.1.2.2",
+    "created_at": "2019-10-31T15:29:31",
+    "updated_at": "2019-10-31T15:29:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_back_office:13.1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 558943,
+    "name": "srx4000",
+    "version": "-",
+    "created_at": "2020-06-09T14:51:04",
+    "updated_at": "2020-06-09T14:51:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:srx4000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

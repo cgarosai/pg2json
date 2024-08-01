@@ -1,0 +1,10 @@
+{
+    "id": 567874,
+    "name": "amazon_web_services_service_application_model",
+    "version": "1.2.2",
+    "created_at": "2020-07-01T13:39:20",
+    "updated_at": "2020-07-01T13:39:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:amazon_web_services_service_application_model:1.2.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

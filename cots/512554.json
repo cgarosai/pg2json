@@ -1,0 +1,10 @@
+{
+    "id": 512554,
+    "name": "control_for_plcnext",
+    "version": "3.5.15.40",
+    "created_at": "2020-03-27T13:53:46",
+    "updated_at": "2021-03-17T19:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_plcnext:3.5.15.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

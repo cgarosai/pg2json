@@ -1,0 +1,10 @@
+{
+    "id": 353600,
+    "name": "cardiology_firmware",
+    "version": "14.1.0",
+    "created_at": "2019-09-10T13:44:24",
+    "updated_at": "2021-06-16T13:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:changehealthcare:cardiology_firmware:14.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

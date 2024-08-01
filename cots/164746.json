@@ -1,0 +1,10 @@
+{
+    "id": 164746,
+    "name": "wiser_for_knx_firmware",
+    "version": "2.1.0",
+    "created_at": "2018-09-05T16:34:07",
+    "updated_at": "2021-05-12T12:39:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:wiser_for_knx_firmware:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

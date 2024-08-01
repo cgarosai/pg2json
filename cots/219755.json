@@ -1,0 +1,10 @@
+{
+    "id": 219755,
+    "name": "async-http-client",
+    "version": "2.0.25",
+    "created_at": "2019-03-19T14:11:14",
+    "updated_at": "2019-03-19T14:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:asynchttpclient_project:async-http-client:2.0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

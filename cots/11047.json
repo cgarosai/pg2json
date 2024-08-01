@@ -1,0 +1,10 @@
+{
+    "id": 11047,
+    "name": "windows_media_format_runtime",
+    "version": "11",
+    "created_at": "2007-12-12T14:44:37",
+    "updated_at": "2010-06-09T17:38:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_media_format_runtime:11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

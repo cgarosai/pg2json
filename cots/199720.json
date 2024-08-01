@@ -1,0 +1,10 @@
+{
+    "id": 199720,
+    "name": "parted",
+    "version": "2.2",
+    "created_at": "2019-01-03T15:28:51",
+    "updated_at": "2019-01-03T15:28:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parted_project:parted:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

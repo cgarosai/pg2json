@@ -1,0 +1,10 @@
+{
+    "id": 639657,
+    "name": "elixir_alpine_docker_image",
+    "version": "1.6.5",
+    "created_at": "2020-12-18T18:30:12",
+    "updated_at": "2021-05-21T12:09:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:elixir_alpine_docker_image:1.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

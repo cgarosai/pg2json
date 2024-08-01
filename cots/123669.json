@@ -1,0 +1,10 @@
+{
+    "id": 123669,
+    "name": "tivoli_monitoring",
+    "version": "6.3.0.6",
+    "created_at": "2017-08-22T21:52:23",
+    "updated_at": "2017-08-22T21:52:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_monitoring:6.3.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

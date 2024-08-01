@@ -1,0 +1,10 @@
+{
+    "id": 503448,
+    "name": "the_sleuth_kit",
+    "version": "4.8.0",
+    "created_at": "2020-03-09T15:32:12",
+    "updated_at": "2020-03-09T15:32:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sleuthkit:the_sleuth_kit:4.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

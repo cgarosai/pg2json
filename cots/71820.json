@@ -1,0 +1,10 @@
+{
+    "id": 71820,
+    "name": "airvision_firmware",
+    "version": "1.1.5",
+    "created_at": "2013-07-18T15:30:52",
+    "updated_at": "2019-06-10T16:34:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ubnt:airvision_firmware:1.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

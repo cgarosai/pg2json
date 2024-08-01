@@ -1,0 +1,10 @@
+{
+    "id": 18456,
+    "name": "solaris",
+    "version": "9.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-04-19T15:18:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sun:solaris:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

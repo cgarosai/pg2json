@@ -1,0 +1,10 @@
+{
+    "id": 74637,
+    "name": "hotscan",
+    "version": "-",
+    "created_at": "2013-09-24T11:53:45",
+    "updated_at": "2013-09-24T11:55:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cgi:hotscan:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

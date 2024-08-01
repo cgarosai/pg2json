@@ -1,0 +1,10 @@
+{
+    "id": 912944,
+    "name": "teamcenter",
+    "version": "12.4.0.15",
+    "created_at": "2022-08-11T14:15:19",
+    "updated_at": "2022-08-11T14:16:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:teamcenter:12.4.0.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

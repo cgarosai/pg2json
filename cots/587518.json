@@ -1,0 +1,10 @@
+{
+    "id": 587518,
+    "name": "irrelon-path",
+    "version": "4.7.0",
+    "created_at": "2020-08-19T12:34:43",
+    "updated_at": "2021-05-04T10:43:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:irrelon:irrelon-path:4.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

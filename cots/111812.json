@@ -1,0 +1,10 @@
+{
+    "id": 111812,
+    "name": "license_server_vpx",
+    "version": "11.14.0.0",
+    "created_at": "2016-10-07T16:43:36",
+    "updated_at": "2021-05-13T12:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:license_server_vpx:11.14.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1205535,
+    "name": "centralized_accounts_management_auth_agent",
+    "version": "00.12.01.9565588_1254b459",
+    "created_at": "2023-11-27T00:39:49",
+    "updated_at": "2023-11-27T00:39:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadpeak:centralized_accounts_management_auth_agent:00.12.01.9565588_1254b459:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 189415,
+    "name": "jboss_bpm_suite",
+    "version": "6.4",
+    "created_at": "2018-11-01T13:06:23",
+    "updated_at": "2018-11-01T13:06:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_bpm_suite:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

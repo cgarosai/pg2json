@@ -1,0 +1,10 @@
+{
+    "id": 705442,
+    "name": "isr_3000",
+    "version": "-",
+    "created_at": "2021-05-05T15:05:57",
+    "updated_at": "2023-05-22T16:57:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:isr_3000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

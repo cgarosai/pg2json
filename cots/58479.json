@@ -1,0 +1,10 @@
+{
+    "id": 58479,
+    "name": "device_discovery",
+    "version": "120.0.194.0",
+    "created_at": "2012-05-14T21:30:04",
+    "updated_at": "2012-05-14T21:30:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:device_discovery:120.0.194.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

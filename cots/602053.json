@@ -1,0 +1,10 @@
+{
+    "id": 602053,
+    "name": "smartstore",
+    "version": "1.2.0",
+    "created_at": "2020-10-13T10:37:07",
+    "updated_at": "2020-10-13T10:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smartstore:smartstore:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

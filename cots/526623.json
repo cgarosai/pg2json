@@ -1,0 +1,10 @@
+{
+    "id": 526623,
+    "name": "idrac9",
+    "version": "-",
+    "created_at": "2020-04-01T12:39:51",
+    "updated_at": "2021-04-16T12:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:idrac9:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 640767,
+    "name": "pcoweb_card_firmware",
+    "version": "b1.2.4",
+    "created_at": "2021-01-21T21:44:29",
+    "updated_at": "2021-01-21T21:44:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:carel:pcoweb_card_firmware:b1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 88129,
+    "name": "advanced_management_module_firmware",
+    "version": "3.64",
+    "created_at": "2013-12-02T16:41:12",
+    "updated_at": "2013-12-20T00:35:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:advanced_management_module_firmware:3.64:bpeo64b:*:*:*:*:*:*",
+    "to_analyse": false
+}

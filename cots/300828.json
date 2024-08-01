@@ -1,0 +1,10 @@
+{
+    "id": 300828,
+    "name": "redcap",
+    "version": "8.10.7",
+    "created_at": "2019-07-23T11:12:59",
+    "updated_at": "2019-07-23T11:12:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vanderbilt:redcap:8.10.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

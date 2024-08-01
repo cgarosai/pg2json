@@ -1,0 +1,10 @@
+{
+    "id": 1062103,
+    "name": "vitess",
+    "version": "0.12.5",
+    "created_at": "2023-04-20T13:39:04",
+    "updated_at": "2023-04-25T14:49:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:vitess:0.12.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 663404,
+    "name": "security_space",
+    "version": "10.0",
+    "created_at": "2021-03-08T18:44:53",
+    "updated_at": "2021-05-28T11:05:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drweb:security_space:10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

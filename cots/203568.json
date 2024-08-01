@@ -1,0 +1,10 @@
+{
+    "id": 203568,
+    "name": "gitlab",
+    "version": "8.13.0",
+    "created_at": "2019-03-04T13:09:19",
+    "updated_at": "2019-03-04T13:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitlab:gitlab:8.13.0:pre:*:*:community:*:*:*",
+    "to_analyse": false
+}

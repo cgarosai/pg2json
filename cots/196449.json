@@ -1,0 +1,10 @@
+{
+    "id": 196449,
+    "name": "pac_control",
+    "version": "8.5",
+    "created_at": "2018-12-03T14:27:57",
+    "updated_at": "2021-04-23T17:15:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opto22:pac_control:8.5:*:basic:*:*:*:*:*",
+    "to_analyse": false
+}

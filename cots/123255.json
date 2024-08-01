@@ -1,0 +1,10 @@
+{
+    "id": 123255,
+    "name": "freeradius",
+    "version": "3.0.4",
+    "created_at": "2017-08-21T15:59:14",
+    "updated_at": "2017-08-21T15:59:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freeradius:freeradius:3.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

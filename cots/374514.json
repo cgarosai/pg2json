@@ -1,0 +1,10 @@
+{
+    "id": 374514,
+    "name": "shout",
+    "version": "0.37.0",
+    "created_at": "2019-09-23T12:28:22",
+    "updated_at": "2019-09-23T12:28:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shout_project:shout:0.37.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

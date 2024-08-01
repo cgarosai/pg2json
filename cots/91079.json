@@ -1,0 +1,10 @@
+{
+    "id": 91079,
+    "name": "webapp",
+    "version": "1.5",
+    "created_at": "2014-07-30T13:22:48",
+    "updated_at": "2014-08-01T16:28:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zarafa:webapp:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

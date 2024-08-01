@@ -1,0 +1,10 @@
+{
+    "id": 1229840,
+    "name": "smart_bulb",
+    "version": "-",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:orein:smart_bulb:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

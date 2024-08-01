@@ -1,0 +1,10 @@
+{
+    "id": 596529,
+    "name": "bestzip",
+    "version": "-",
+    "created_at": "2020-09-08T12:28:17",
+    "updated_at": "2020-09-08T12:28:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestzip_project:bestzip:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

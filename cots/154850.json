@@ -1,0 +1,10 @@
+{
+    "id": 154850,
+    "name": "ssl_visibility",
+    "version": "3.12",
+    "created_at": "2018-06-19T12:15:19",
+    "updated_at": "2021-07-02T17:03:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:ssl_visibility:3.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

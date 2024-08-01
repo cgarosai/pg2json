@@ -1,0 +1,10 @@
+{
+    "id": 380273,
+    "name": "soci",
+    "version": "3.2.2",
+    "created_at": "2019-09-25T13:54:29",
+    "updated_at": "2019-09-25T13:54:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:soci_project:soci:3.2.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

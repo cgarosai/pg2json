@@ -1,0 +1,10 @@
+{
+    "id": 1199265,
+    "name": "velociraptor",
+    "version": "0.7.0",
+    "created_at": "2023-11-14T15:00:57",
+    "updated_at": "2023-11-14T15:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rapid7:velociraptor:0.7.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

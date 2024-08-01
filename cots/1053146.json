@@ -1,0 +1,10 @@
+{
+    "id": 1053146,
+    "name": "producer-retailer",
+    "version": "-",
+    "created_at": "2023-04-03T10:16:33",
+    "updated_at": "2023-04-03T15:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:e-plugins:producer-retailer:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

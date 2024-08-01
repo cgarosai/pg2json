@@ -1,0 +1,10 @@
+{
+    "id": 959395,
+    "name": "datatables.net",
+    "version": "1.11.2",
+    "created_at": "2022-10-20T17:01:22",
+    "updated_at": "2022-10-20T17:02:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:datatables:datatables.net:1.11.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

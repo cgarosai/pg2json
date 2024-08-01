@@ -1,0 +1,10 @@
+{
+    "id": 65706,
+    "name": "validation_authority_publisher",
+    "version": "4.10",
+    "created_at": "2012-08-01T19:33:01",
+    "updated_at": "2012-08-01T19:33:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tumbleweed:validation_authority_publisher:4.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1125918,
+    "name": "automatic_conversation",
+    "version": "1.1.7",
+    "created_at": "2023-07-24T14:49:37",
+    "updated_at": "2023-07-24T16:00:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autochat:automatic_conversation:1.1.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

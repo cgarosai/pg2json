@@ -1,0 +1,10 @@
+{
+    "id": 1205121,
+    "name": "unison",
+    "version": "20.14.2.3053",
+    "created_at": "2023-11-25T03:35:20",
+    "updated_at": "2023-11-25T03:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:unison:20.14.2.3053:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

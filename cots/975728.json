@@ -1,0 +1,10 @@
+{
+    "id": 975728,
+    "name": "recipe",
+    "version": "1.2",
+    "created_at": "2022-11-23T00:07:04",
+    "updated_at": "2022-11-23T00:09:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:recipe:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

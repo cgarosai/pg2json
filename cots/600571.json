@@ -1,0 +1,10 @@
+{
+    "id": 600571,
+    "name": "parallels_desktop",
+    "version": "16.0.0",
+    "created_at": "2020-10-08T11:33:47",
+    "updated_at": "2020-10-08T11:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parallels:parallels_desktop:16.0.0:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

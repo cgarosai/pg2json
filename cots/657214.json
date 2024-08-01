@@ -1,0 +1,10 @@
+{
+    "id": 657214,
+    "name": "decal",
+    "version": "0.1.0",
+    "created_at": "2021-02-05T21:09:03",
+    "updated_at": "2021-02-05T21:09:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:decal_project:decal:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

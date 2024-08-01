@@ -1,0 +1,10 @@
+{
+    "id": 101487,
+    "name": "picketlink",
+    "version": "2.7.0",
+    "created_at": "2015-08-27T10:43:59",
+    "updated_at": "2015-08-28T13:51:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:picketlink:picketlink:2.7.0:cr3:*:*:*:*:*:*",
+    "to_analyse": false
+}

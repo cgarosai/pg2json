@@ -1,0 +1,10 @@
+{
+    "id": 220119,
+    "name": "modicon_m221_firmware",
+    "version": "1.10.0.0",
+    "created_at": "2019-04-17T14:20:35",
+    "updated_at": "2022-01-31T18:54:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:modicon_m221_firmware:1.10.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 772025,
+    "name": "boot_camp",
+    "version": "-",
+    "created_at": "2021-09-21T11:32:21",
+    "updated_at": "2021-09-22T14:55:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:boot_camp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

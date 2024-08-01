@@ -1,0 +1,10 @@
+{
+    "id": 1229671,
+    "name": "etcd_browser",
+    "version": "-",
+    "created_at": "2023-12-29T14:31:15",
+    "updated_at": "2023-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buddho:etcd_browser:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

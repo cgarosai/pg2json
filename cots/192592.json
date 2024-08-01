@@ -1,0 +1,10 @@
+{
+    "id": 192592,
+    "name": "core_ftp",
+    "version": "1.2",
+    "created_at": "2019-01-11T13:13:48",
+    "updated_at": "2021-05-24T12:45:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:coreftp:core_ftp:1.2:589.42:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1075879,
+    "name": "wordpress_custom_settings",
+    "version": "1.0",
+    "created_at": "2023-04-27T14:28:52",
+    "updated_at": "2023-05-03T17:10:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_custom_settings_project:wordpress_custom_settings:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

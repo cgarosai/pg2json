@@ -1,0 +1,10 @@
+{
+    "id": 11194,
+    "name": "tomcat",
+    "version": "5.5.25",
+    "created_at": "2007-12-27T23:51:20",
+    "updated_at": "2008-03-25T17:12:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:tomcat:5.5.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

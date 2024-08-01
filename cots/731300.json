@@ -1,0 +1,10 @@
+{
+    "id": 731300,
+    "name": "icecast",
+    "version": "2.4.0",
+    "created_at": "2021-07-12T15:21:17",
+    "updated_at": "2021-07-12T15:22:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xiph:icecast:2.4.0:beta5:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1111642,
+    "name": "oopspam_anti-spam",
+    "version": "1.1.44",
+    "created_at": "2023-07-14T13:54:55",
+    "updated_at": "2023-07-14T13:57:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oopspam:oopspam_anti-spam:1.1.44:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

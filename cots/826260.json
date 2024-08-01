@@ -1,0 +1,10 @@
+{
+    "id": 826260,
+    "name": "powervm_hypervisor",
+    "version": "fw1010",
+    "created_at": "2021-12-14T12:02:21",
+    "updated_at": "2022-08-04T13:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:powervm_hypervisor:fw1010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

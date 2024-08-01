@@ -1,0 +1,10 @@
+{
+    "id": 1153795,
+    "name": "axeda_desktop_server",
+    "version": "-",
+    "created_at": "2023-09-22T17:01:23",
+    "updated_at": "2023-09-22T17:01:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ptc:axeda_desktop_server:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

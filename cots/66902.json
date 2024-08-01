@@ -1,0 +1,10 @@
+{
+    "id": 66902,
+    "name": "sql_server",
+    "version": "2008",
+    "created_at": "2012-08-15T13:37:40",
+    "updated_at": "2012-08-20T15:05:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server:2008:r2_sp2:itanium:*:*:*:*:*",
+    "to_analyse": false
+}

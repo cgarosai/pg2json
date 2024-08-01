@@ -1,0 +1,10 @@
+{
+    "id": 100577,
+    "name": "io.js",
+    "version": "2.0.0",
+    "created_at": "2015-07-09T13:12:41",
+    "updated_at": "2015-08-20T19:19:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iojs:io.js:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

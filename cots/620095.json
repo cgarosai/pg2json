@@ -1,0 +1,10 @@
+{
+    "id": 620095,
+    "name": "energy_management_suite_software",
+    "version": "-",
+    "created_at": "2020-12-07T16:15:35",
+    "updated_at": "2020-12-07T16:15:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:energy_management_suite_software:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

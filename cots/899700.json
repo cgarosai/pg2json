@@ -1,0 +1,10 @@
+{
+    "id": 899700,
+    "name": "pm_pdu_firmware",
+    "version": "-",
+    "created_at": "2022-06-16T13:47:46",
+    "updated_at": "2022-07-27T14:21:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:powertekpdus:pm_pdu_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1169023,
+    "name": "serviceguard_for_linux",
+    "version": "a.15.00.00",
+    "created_at": "2023-09-28T10:51:53",
+    "updated_at": "2023-09-28T10:51:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:serviceguard_for_linux:a.15.00.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

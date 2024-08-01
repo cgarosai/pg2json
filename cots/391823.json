@@ -1,0 +1,10 @@
+{
+    "id": 391823,
+    "name": "bcaas",
+    "version": "-",
+    "created_at": "2019-10-03T12:19:20",
+    "updated_at": "2019-10-03T12:19:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bcaas_project:bcaas:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

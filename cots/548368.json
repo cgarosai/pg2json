@@ -1,0 +1,10 @@
+{
+    "id": 548368,
+    "name": "asa_5510_firmware",
+    "version": "9.6\\(4\\)",
+    "created_at": "2020-05-11T13:51:09",
+    "updated_at": "2021-04-29T16:40:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asa_5510_firmware:9.6\\(4\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

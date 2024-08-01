@@ -1,0 +1,10 @@
+{
+    "id": 680672,
+    "name": "ehealth_livehealth",
+    "version": "6.0.0.0",
+    "created_at": "2021-04-07T14:26:18",
+    "updated_at": "2021-04-09T11:18:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ehealth_livehealth:6.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

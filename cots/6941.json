@@ -1,0 +1,10 @@
+{
+    "id": 6941,
+    "name": "listener",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2011-01-12T13:35:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:listener:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

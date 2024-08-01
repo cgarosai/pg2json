@@ -1,0 +1,10 @@
+{
+    "id": 54058,
+    "name": "powerbuilder_client_runtime",
+    "version": "9.0.0.0",
+    "created_at": "2012-07-10T01:21:37",
+    "updated_at": "2012-07-10T01:21:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:powerbuilder_client_runtime:9.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

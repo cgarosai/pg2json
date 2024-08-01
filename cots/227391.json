@@ -1,0 +1,10 @@
+{
+    "id": 227391,
+    "name": "ncp_secure_entry_client",
+    "version": "11.13",
+    "created_at": "2019-04-10T17:00:17",
+    "updated_at": "2021-03-26T12:59:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncp-e:ncp_secure_entry_client:11.13:41436:*:*:*:windows:*:*",
+    "to_analyse": false
+}

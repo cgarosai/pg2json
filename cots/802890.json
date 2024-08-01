@@ -1,0 +1,10 @@
+{
+    "id": 802890,
+    "name": "ex3800_firmware",
+    "version": "1.0.0.94",
+    "created_at": "2021-11-17T13:26:46",
+    "updated_at": "2021-11-17T13:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:ex3800_firmware:1.0.0.94:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

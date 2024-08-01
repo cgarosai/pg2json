@@ -1,0 +1,10 @@
+{
+    "id": 161100,
+    "name": "\\",
+    "version": "tar_project",
+    "created_at": "2018-08-06T15:43:58",
+    "updated_at": "2018-08-06T15:43:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:archive\\:\\:tar_project:archive\\:\\:tar:0.99_04:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 30639,
+    "name": "ips_4270-20",
+    "version": "-",
+    "created_at": "2010-12-28T16:29:36",
+    "updated_at": "2011-01-12T13:36:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ips_4270-20:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

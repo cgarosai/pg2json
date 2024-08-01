@@ -1,0 +1,10 @@
+{
+    "id": 12960,
+    "name": "report_viewer",
+    "version": "2005",
+    "created_at": "2008-09-11T12:21:30",
+    "updated_at": "2011-08-29T12:21:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:report_viewer:2005:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

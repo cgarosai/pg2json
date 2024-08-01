@@ -1,0 +1,10 @@
+{
+    "id": 755352,
+    "name": "express_handlebars",
+    "version": "5.3.2",
+    "created_at": "2021-07-29T16:34:24",
+    "updated_at": "2021-07-30T11:17:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express_handlebars_project:express_handlebars:5.3.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

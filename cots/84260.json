@@ -1,0 +1,10 @@
+{
+    "id": 84260,
+    "name": "cms_tree_page_view",
+    "version": "0.1a",
+    "created_at": "2014-04-08T12:34:21",
+    "updated_at": "2014-04-30T21:57:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cms_tree_page_view_project:cms_tree_page_view:0.1a:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

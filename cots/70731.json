@@ -1,0 +1,10 @@
+{
+    "id": 70731,
+    "name": "web_security_appliance",
+    "version": "-",
+    "created_at": "2013-06-28T16:26:32",
+    "updated_at": "2013-07-12T16:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:web_security_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1229153,
+    "name": "kerio_connect",
+    "version": "9.2.7",
+    "created_at": "2023-12-29T09:06:05",
+    "updated_at": "2023-12-29T09:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gfi:kerio_connect:9.2.7:patch3:*:*:*:*:*:*",
+    "to_analyse": false
+}

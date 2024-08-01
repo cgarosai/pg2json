@@ -1,0 +1,10 @@
+{
+    "id": 582396,
+    "name": "usg_310_firmware",
+    "version": "-",
+    "created_at": "2020-08-31T10:25:21",
+    "updated_at": "2020-08-31T10:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:usg_310_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

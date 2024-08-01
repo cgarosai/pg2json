@@ -1,0 +1,10 @@
+{
+    "id": 636785,
+    "name": "online_bus_ticket_reservation",
+    "version": "1.0",
+    "created_at": "2020-12-15T11:38:24",
+    "updated_at": "2020-12-15T11:38:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:online_bus_ticket_reservation_project:online_bus_ticket_reservation:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

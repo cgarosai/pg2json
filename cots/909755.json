@@ -1,0 +1,10 @@
+{
+    "id": 909755,
+    "name": "enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions",
+    "version": "9.0",
+    "created_at": "2022-07-13T12:45:53",
+    "updated_at": "2022-07-13T14:12:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

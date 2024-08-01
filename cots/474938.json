@@ -1,0 +1,10 @@
+{
+    "id": 474938,
+    "name": "nimbus_jose\\+jwt",
+    "version": "4.40",
+    "created_at": "2020-01-29T12:52:07",
+    "updated_at": "2020-01-29T12:52:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:connect2id:nimbus_jose\\+jwt:4.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

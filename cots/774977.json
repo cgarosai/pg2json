@@ -1,0 +1,10 @@
+{
+    "id": 774977,
+    "name": "semver-regex",
+    "version": "3.1.2",
+    "created_at": "2021-09-27T17:36:47",
+    "updated_at": "2021-09-27T17:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:semver-regex_project:semver-regex:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

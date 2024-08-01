@@ -1,0 +1,10 @@
+{
+    "id": 778377,
+    "name": "manageiq",
+    "version": "jansa-1",
+    "created_at": "2021-09-14T13:39:14",
+    "updated_at": "2021-09-14T14:01:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:manageiq:manageiq:jansa-1:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 401065,
+    "name": "phpbugtracker",
+    "version": "1.0.5",
+    "created_at": "2019-10-16T11:23:00",
+    "updated_at": "2019-10-16T11:23:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpbugtracker_project:phpbugtracker:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

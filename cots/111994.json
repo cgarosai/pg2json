@@ -1,0 +1,10 @@
+{
+    "id": 111994,
+    "name": "reader",
+    "version": "8.0.5",
+    "created_at": "2016-10-31T17:27:29",
+    "updated_at": "2021-05-24T16:53:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

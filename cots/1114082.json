@@ -1,0 +1,10 @@
+{
+    "id": 1114082,
+    "name": "epyc_9184x",
+    "version": "-",
+    "created_at": "2023-07-19T13:39:29",
+    "updated_at": "2023-07-21T20:10:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:epyc_9184x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

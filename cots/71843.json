@@ -1,0 +1,10 @@
+{
+    "id": 71843,
+    "name": "wireless_network_extender",
+    "version": "scs-26uc4",
+    "created_at": "2013-07-19T14:43:11",
+    "updated_at": "2013-07-24T13:21:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:verizon:wireless_network_extender:scs-26uc4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

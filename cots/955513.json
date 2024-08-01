@@ -1,0 +1,10 @@
+{
+    "id": 955513,
+    "name": "tradfri_gateway_e1526_firmware",
+    "version": "1.17.44",
+    "created_at": "2022-10-14T15:53:46",
+    "updated_at": "2022-10-14T16:07:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ikea:tradfri_gateway_e1526_firmware:1.17.44:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

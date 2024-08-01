@@ -1,0 +1,10 @@
+{
+    "id": 76108,
+    "name": "websphere_message_broker",
+    "version": "7.0.0.6",
+    "created_at": "2013-02-20T17:32:37",
+    "updated_at": "2016-01-15T20:23:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_message_broker:7.0.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

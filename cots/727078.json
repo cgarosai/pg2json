@@ -1,0 +1,10 @@
+{
+    "id": 727078,
+    "name": "lock",
+    "version": "7.12.0",
+    "created_at": "2021-06-11T11:31:53",
+    "updated_at": "2021-06-11T12:05:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auto0:lock:7.12.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 425415,
+    "name": "ctes_windows_agent",
+    "version": "1.0.0.1479",
+    "created_at": "2019-10-31T16:20:32",
+    "updated_at": "2019-10-31T16:20:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:absolute:ctes_windows_agent:1.0.0.1479:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

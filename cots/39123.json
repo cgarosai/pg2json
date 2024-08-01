@@ -1,0 +1,10 @@
+{
+    "id": 39123,
+    "name": "certificate_system",
+    "version": "8",
+    "created_at": "2010-11-18T17:55:06",
+    "updated_at": "2010-11-19T17:31:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:certificate_system:8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

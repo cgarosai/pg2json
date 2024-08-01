@@ -1,0 +1,10 @@
+{
+    "id": 522031,
+    "name": "s6700_firmware",
+    "version": "v200r002",
+    "created_at": "2020-04-07T16:04:31",
+    "updated_at": "2020-04-07T16:04:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s6700_firmware:v200r002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

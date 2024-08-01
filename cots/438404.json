@@ -1,0 +1,10 @@
+{
+    "id": 438404,
+    "name": "remote_support",
+    "version": "9.2.3",
+    "created_at": "2019-11-18T12:34:23",
+    "updated_at": "2019-11-18T12:34:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beyondtrust:remote_support:9.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 629701,
+    "name": "p1_firmware",
+    "version": "-",
+    "created_at": "2020-12-04T22:02:53",
+    "updated_at": "2020-12-04T22:02:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vr_cam:p1_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 979341,
+    "name": "tailscale",
+    "version": "1.2.5",
+    "created_at": "2022-11-29T15:18:30",
+    "updated_at": "2022-11-29T16:02:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tailscale:tailscale:1.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

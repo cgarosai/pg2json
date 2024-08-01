@@ -1,0 +1,10 @@
+{
+    "id": 835850,
+    "name": "bizhub_c659_firmware",
+    "version": "gca-y1",
+    "created_at": "2022-01-11T16:10:00",
+    "updated_at": "2022-01-11T18:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:konicaminolta:bizhub_c659_firmware:gca-y1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

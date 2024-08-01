@@ -1,0 +1,10 @@
+{
+    "id": 362474,
+    "name": "apcupsd",
+    "version": "3.10.3",
+    "created_at": "2019-09-17T12:40:12",
+    "updated_at": "2019-09-17T12:40:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apcupsd:apcupsd:3.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 117253,
+    "name": "acuvim_iir_net_firmware",
+    "version": "3.08",
+    "created_at": "2016-04-27T15:22:51",
+    "updated_at": "2021-06-15T12:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:accuenergy:acuvim_iir_net_firmware:3.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

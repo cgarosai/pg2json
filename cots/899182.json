@@ -1,0 +1,10 @@
+{
+    "id": 899182,
+    "name": "otrs",
+    "version": "8.0.23",
+    "created_at": "2022-06-15T14:05:00",
+    "updated_at": "2022-07-15T13:45:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:otrs:8.0.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

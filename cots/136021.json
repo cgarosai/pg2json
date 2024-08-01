@@ -1,0 +1,10 @@
+{
+    "id": 136021,
+    "name": "bsm_platform_application_performance_management_system_health",
+    "version": "9.30",
+    "created_at": "2017-10-05T12:04:14",
+    "updated_at": "2021-06-03T14:53:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:bsm_platform_application_performance_management_system_health:9.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

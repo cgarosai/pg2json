@@ -1,0 +1,10 @@
+{
+    "id": 606607,
+    "name": "editor-core",
+    "version": "124.0.4",
+    "created_at": "2020-10-05T14:30:21",
+    "updated_at": "2020-10-05T14:30:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:editor-core:124.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

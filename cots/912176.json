@@ -1,0 +1,10 @@
+{
+    "id": 912176,
+    "name": "percona_server",
+    "version": "8.0.28-19",
+    "created_at": "2022-08-09T15:19:38",
+    "updated_at": "2022-11-09T15:47:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:percona:percona_server:8.0.28-19:*:*:*:*:mysql:*:*",
+    "to_analyse": false
+}

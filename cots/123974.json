@@ -1,0 +1,10 @@
+{
+    "id": 123974,
+    "name": "wago_i\\/o_plc_750-881_firmware",
+    "version": "01.02.05",
+    "created_at": "2017-08-26T07:21:20",
+    "updated_at": "2021-07-09T10:55:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:wago_i\\/o_plc_750-881_firmware:01.02.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

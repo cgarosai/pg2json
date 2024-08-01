@@ -1,0 +1,10 @@
+{
+    "id": 584435,
+    "name": "safe-object2",
+    "version": "-",
+    "created_at": "2020-09-02T15:42:13",
+    "updated_at": "2020-09-02T15:42:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:safe-object2_project:safe-object2:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 648215,
+    "name": "dolphinscheduler",
+    "version": "1.0.3",
+    "created_at": "2021-01-12T16:53:21",
+    "updated_at": "2021-01-12T16:53:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:dolphinscheduler:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

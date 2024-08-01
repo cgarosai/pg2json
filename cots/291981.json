@@ -1,0 +1,10 @@
+{
+    "id": 291981,
+    "name": "apt-xapian-index",
+    "version": "0.47ubuntu4",
+    "created_at": "2019-07-17T11:37:13",
+    "updated_at": "2019-07-17T11:37:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:apt-xapian-index:0.47ubuntu4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

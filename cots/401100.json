@@ -1,0 +1,10 @@
+{
+    "id": 401100,
+    "name": "man-db",
+    "version": "2.3.18",
+    "created_at": "2019-10-16T11:35:41",
+    "updated_at": "2019-10-16T11:35:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:man-db_project:man-db:2.3.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

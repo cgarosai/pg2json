@@ -1,0 +1,10 @@
+{
+    "id": 506884,
+    "name": "influxdb",
+    "version": "0.8.7",
+    "created_at": "2020-03-03T14:16:02",
+    "updated_at": "2020-03-03T14:16:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:influxdata:influxdb:0.8.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

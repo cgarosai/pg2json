@@ -1,0 +1,10 @@
+{
+    "id": 1169633,
+    "name": "sma1000_firmware",
+    "version": "12.4.2-02044",
+    "created_at": "2023-09-28T19:32:04",
+    "updated_at": "2023-09-28T19:32:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sma1000_firmware:12.4.2-02044:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

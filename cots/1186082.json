@@ -1,0 +1,10 @@
+{
+    "id": 1186082,
+    "name": "drools",
+    "version": "7.69.0",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:drools:7.69.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

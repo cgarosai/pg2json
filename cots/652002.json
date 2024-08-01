@@ -1,0 +1,10 @@
+{
+    "id": 652002,
+    "name": "cloud_access_connector_legacy",
+    "version": "2020-04-20",
+    "created_at": "2021-02-17T15:05:59",
+    "updated_at": "2021-02-17T15:05:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:cloud_access_connector_legacy:2020-04-20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

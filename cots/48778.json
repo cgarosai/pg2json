@@ -1,0 +1,10 @@
+{
+    "id": 48778,
+    "name": "firewall_services_module_software",
+    "version": "3.1\\(8\\)",
+    "created_at": "2011-10-06T12:45:54",
+    "updated_at": "2012-03-16T18:51:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:firewall_services_module_software:3.1\\(8\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 381400,
+    "name": "home-assistant",
+    "version": "0.25",
+    "created_at": "2019-09-25T16:20:13",
+    "updated_at": "2019-09-25T16:20:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:home-assistant:home-assistant:0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

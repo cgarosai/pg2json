@@ -1,0 +1,10 @@
+{
+    "id": 224230,
+    "name": "suse_linux_enterprise_point_of_sale",
+    "version": "11.0",
+    "created_at": "2019-04-26T10:29:20",
+    "updated_at": "2021-06-25T12:02:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:novell:suse_linux_enterprise_point_of_sale:11.0:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

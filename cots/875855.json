@@ -1,0 +1,10 @@
+{
+    "id": 875855,
+    "name": "export_all_urls",
+    "version": "2.1",
+    "created_at": "2022-04-15T16:51:54",
+    "updated_at": "2022-04-15T22:08:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlasgondal:export_all_urls:2.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

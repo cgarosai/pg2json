@@ -1,0 +1,10 @@
+{
+    "id": 694714,
+    "name": "enterprise_manager",
+    "version": "2.55.8806",
+    "created_at": "2021-05-04T16:32:48",
+    "updated_at": "2021-05-06T15:33:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wems:enterprise_manager:2.55.8806:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

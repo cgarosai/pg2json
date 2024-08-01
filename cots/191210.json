@@ -1,0 +1,10 @@
+{
+    "id": 191210,
+    "name": "wayland",
+    "version": "1.14.93",
+    "created_at": "2019-01-08T17:03:29",
+    "updated_at": "2019-01-08T17:03:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wayland:wayland:1.14.93:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

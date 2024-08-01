@@ -1,0 +1,10 @@
+{
+    "id": 473012,
+    "name": "obs-server",
+    "version": "1.7.7",
+    "created_at": "2020-01-24T15:50:58",
+    "updated_at": "2020-01-24T15:50:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:obs-server:obs-server:1.7.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

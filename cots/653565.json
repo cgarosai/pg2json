@@ -1,0 +1,10 @@
+{
+    "id": 653565,
+    "name": "mavic_2_firmware",
+    "version": "01.00.0510",
+    "created_at": "2021-02-22T11:29:20",
+    "updated_at": "2021-06-17T15:17:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dji:mavic_2_firmware:01.00.0510:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

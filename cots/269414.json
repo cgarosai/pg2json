@@ -1,0 +1,10 @@
+{
+    "id": 269414,
+    "name": "django-anymail",
+    "version": "0.8",
+    "created_at": "2019-06-17T12:00:53",
+    "updated_at": "2019-06-17T12:00:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-anymail_project:django-anymail:0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

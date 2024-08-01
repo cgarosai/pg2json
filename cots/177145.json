@@ -1,0 +1,10 @@
+{
+    "id": 177145,
+    "name": "stride-managed_ethernet_switches_firmware",
+    "version": "2.8",
+    "created_at": "2018-09-18T12:50:07",
+    "updated_at": "2021-05-24T14:10:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redlion:stride-managed_ethernet_switches_firmware:2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

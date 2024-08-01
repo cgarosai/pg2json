@@ -1,0 +1,10 @@
+{
+    "id": 635485,
+    "name": "tapestry",
+    "version": "4.0.0",
+    "created_at": "2020-12-11T13:59:32",
+    "updated_at": "2020-12-11T13:59:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:tapestry:4.0.0:alpha3:*:*:*:*:*:*",
+    "to_analyse": false
+}

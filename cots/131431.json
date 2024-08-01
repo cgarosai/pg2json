@@ -1,0 +1,10 @@
+{
+    "id": 131431,
+    "name": "wireless_remote_vibrator",
+    "version": "-",
+    "created_at": "2017-12-14T18:18:53",
+    "updated_at": "2021-08-10T15:21:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vibease:wireless_remote_vibrator:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

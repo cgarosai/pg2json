@@ -1,0 +1,10 @@
+{
+    "id": 603405,
+    "name": "desktop_central",
+    "version": "8",
+    "created_at": "2020-10-15T10:30:02",
+    "updated_at": "2020-10-15T10:30:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:desktop_central:8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

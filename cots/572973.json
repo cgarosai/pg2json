@@ -1,0 +1,10 @@
+{
+    "id": 572973,
+    "name": "faceted_search",
+    "version": "0.2.0",
+    "created_at": "2020-08-11T12:06:39",
+    "updated_at": "2020-08-11T12:06:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:faceted_search_project:faceted_search:0.2.0:beta:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

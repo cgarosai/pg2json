@@ -1,0 +1,10 @@
+{
+    "id": 681087,
+    "name": "messaging",
+    "version": "1.11.23",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T16:49:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:messaging:1.11.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

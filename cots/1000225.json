@@ -1,0 +1,10 @@
+{
+    "id": 1000225,
+    "name": "dedecms",
+    "version": "5.7.102",
+    "created_at": "2023-01-04T15:43:46",
+    "updated_at": "2023-03-21T16:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dedecms:dedecms:5.7.102:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

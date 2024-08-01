@@ -1,0 +1,10 @@
+{
+    "id": 133764,
+    "name": "emc_vnx1",
+    "version": "-",
+    "created_at": "2018-01-19T13:17:50",
+    "updated_at": "2021-04-16T12:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:emc_vnx1:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

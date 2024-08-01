@@ -1,0 +1,10 @@
+{
+    "id": 21856,
+    "name": "php_trouble_ticket",
+    "version": "2.2",
+    "created_at": "2010-03-25T12:37:58",
+    "updated_at": "2010-12-14T18:37:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phptroubleticket:php_trouble_ticket:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1050348,
+    "name": "embed_any_document",
+    "version": "1.1",
+    "created_at": "2023-03-27T13:40:19",
+    "updated_at": "2023-03-28T15:43:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:awsm:embed_any_document:1.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

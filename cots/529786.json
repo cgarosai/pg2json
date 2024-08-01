@@ -1,0 +1,10 @@
+{
+    "id": 529786,
+    "name": "class-transformer",
+    "version": "0.1.0",
+    "created_at": "2020-04-06T14:11:05",
+    "updated_at": "2020-04-06T14:11:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:class-transformer_project:class-transformer:0.1.0:beta8:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 530626,
+    "name": "wndr3700_firmware",
+    "version": "1.1.0.50",
+    "created_at": "2020-04-28T11:21:57",
+    "updated_at": "2020-04-28T11:21:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:wndr3700_firmware:1.1.0.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

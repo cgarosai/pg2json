@@ -1,0 +1,10 @@
+{
+    "id": 214179,
+    "name": "lockable_resources",
+    "version": "2.5",
+    "created_at": "2019-04-02T11:53:59",
+    "updated_at": "2019-04-02T11:53:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:lockable_resources:2.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

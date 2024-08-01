@@ -1,0 +1,10 @@
+{
+    "id": 895264,
+    "name": "bleve",
+    "version": "0.1.0",
+    "created_at": "2022-06-08T11:43:30",
+    "updated_at": "2022-06-08T14:15:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:couchbase:bleve:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

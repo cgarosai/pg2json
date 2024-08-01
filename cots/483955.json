@@ -1,0 +1,10 @@
+{
+    "id": 483955,
+    "name": "tor",
+    "version": "0.4.2.0",
+    "created_at": "2020-02-10T13:20:00",
+    "updated_at": "2020-02-10T13:20:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:torproject:tor:0.4.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 73672,
+    "name": "hawtjni",
+    "version": "1.0",
+    "created_at": "2013-08-29T15:32:09",
+    "updated_at": "2013-08-29T15:37:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:hawtjni:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

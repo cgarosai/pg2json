@@ -1,0 +1,10 @@
+{
+    "id": 500089,
+    "name": "ms810_firmware",
+    "version": "lw73.dn2.p263",
+    "created_at": "2020-03-06T16:05:56",
+    "updated_at": "2020-03-06T16:05:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:ms810_firmware:lw73.dn2.p263:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1265235,
+    "name": "generatepress",
+    "version": "-",
+    "created_at": "2024-02-26T16:40:15",
+    "updated_at": "2024-02-26T16:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:generatepress:generatepress:-:*:*:*:-:wordpress:*:*",
+    "to_analyse": false
+}

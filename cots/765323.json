@@ -1,0 +1,10 @@
+{
+    "id": 765323,
+    "name": "config_lib",
+    "version": "1.0.4",
+    "created_at": "2021-08-16T14:09:33",
+    "updated_at": "2021-08-18T09:45:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:config_lib_project:config_lib:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 917872,
+    "name": "undici",
+    "version": "-",
+    "created_at": "2022-08-01T09:52:18",
+    "updated_at": "2022-08-09T10:18:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodejs:undici:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

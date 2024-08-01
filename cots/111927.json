@@ -1,0 +1,10 @@
+{
+    "id": 111927,
+    "name": "recipes-writer",
+    "version": "1.0.4",
+    "created_at": "2016-10-26T10:29:37",
+    "updated_at": "2016-10-26T10:29:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:recipes-writer_project:recipes-writer:1.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

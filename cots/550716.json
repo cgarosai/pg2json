@@ -1,0 +1,10 @@
+{
+    "id": 550716,
+    "name": "sinamics_starter_commissioning_tool",
+    "version": "-",
+    "created_at": "2020-06-15T16:23:15",
+    "updated_at": "2020-06-15T16:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:sinamics_starter_commissioning_tool:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 13289,
+    "name": "mail",
+    "version": "3.5",
+    "created_at": "2008-10-08T16:38:28",
+    "updated_at": "2008-10-08T16:38:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:mail:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

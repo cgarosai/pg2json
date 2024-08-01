@@ -1,0 +1,10 @@
+{
+    "id": 550428,
+    "name": "adsl_router_soc_firmware",
+    "version": "-",
+    "created_at": "2020-06-12T14:43:55",
+    "updated_at": "2020-06-12T14:43:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:realtek:adsl_router_soc_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

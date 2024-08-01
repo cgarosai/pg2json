@@ -1,0 +1,10 @@
+{
+    "id": 1194372,
+    "name": "qlik_sense",
+    "version": "may_2022",
+    "created_at": "2023-11-24T16:02:21",
+    "updated_at": "2023-11-24T16:02:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qlik:qlik_sense:may_2022:patch_14:*:*:enterprise:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 387767,
+    "name": "pooledwebsocket",
+    "version": "0.0.6",
+    "created_at": "2019-09-24T13:53:06",
+    "updated_at": "2019-09-24T13:53:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pooledwebsocket_project:pooledwebsocket:0.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

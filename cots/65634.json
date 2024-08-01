@@ -1,0 +1,10 @@
+{
+    "id": 65634,
+    "name": "pcoip_host_software",
+    "version": "3.3.20",
+    "created_at": "2012-08-01T19:32:50",
+    "updated_at": "2012-08-01T19:32:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_host_software:3.3.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

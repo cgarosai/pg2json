@@ -1,0 +1,10 @@
+{
+    "id": 627087,
+    "name": "nodemailer",
+    "version": "3.1.0",
+    "created_at": "2020-12-01T15:37:40",
+    "updated_at": "2020-12-01T15:37:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodemailer:nodemailer:3.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

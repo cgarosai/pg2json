@@ -1,0 +1,10 @@
+{
+    "id": 479392,
+    "name": "exosip",
+    "version": "5.0.0",
+    "created_at": "2020-01-15T15:56:11",
+    "updated_at": "2020-01-15T15:56:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:exosip:5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

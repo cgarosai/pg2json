@@ -1,0 +1,10 @@
+{
+    "id": 549877,
+    "name": "active_resource",
+    "version": "4.1.0",
+    "created_at": "2020-05-13T15:21:37",
+    "updated_at": "2020-05-13T15:21:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:active_resource:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

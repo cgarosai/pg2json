@@ -1,0 +1,10 @@
+{
+    "id": 420818,
+    "name": "libu2f-host",
+    "version": "1.1.5",
+    "created_at": "2019-11-05T16:25:11",
+    "updated_at": "2019-11-05T16:25:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yubico:libu2f-host:1.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

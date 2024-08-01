@@ -1,0 +1,10 @@
+{
+    "id": 1113000,
+    "name": "menubar",
+    "version": "3.1",
+    "created_at": "2023-07-18T12:18:24",
+    "updated_at": "2023-07-18T12:21:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dontdream:menubar:3.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

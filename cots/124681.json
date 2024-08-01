@@ -1,0 +1,10 @@
+{
+    "id": 124681,
+    "name": "datacard_mf19_firmware",
+    "version": "1.0.0b04",
+    "created_at": "2017-09-08T14:06:48",
+    "updated_at": "2021-07-01T17:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:datacard_mf19_firmware:1.0.0b04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

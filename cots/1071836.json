@@ -1,0 +1,10 @@
+{
+    "id": 1071836,
+    "name": "brpc",
+    "version": "0.9.7",
+    "created_at": "2023-05-11T12:03:20",
+    "updated_at": "2023-05-11T15:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:brpc:0.9.7:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

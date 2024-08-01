@@ -1,0 +1,10 @@
+{
+    "id": 514179,
+    "name": "zm-mailbox",
+    "version": "8.8.15",
+    "created_at": "2020-03-31T14:09:35",
+    "updated_at": "2020-03-31T14:09:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zimbra:zm-mailbox:8.8.15:patch2:*:*:*:*:*:*",
+    "to_analyse": false
+}

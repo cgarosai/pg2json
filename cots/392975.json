@@ -1,0 +1,10 @@
+{
+    "id": 392975,
+    "name": "html_publisher",
+    "version": "1.20",
+    "created_at": "2019-10-03T15:51:23",
+    "updated_at": "2019-10-03T15:51:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:html_publisher:1.20:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

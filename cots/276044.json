@@ -1,0 +1,10 @@
+{
+    "id": 276044,
+    "name": "t2200h_firmware",
+    "version": "t2200h-31.1238l.08",
+    "created_at": "2019-06-20T16:48:56",
+    "updated_at": "2021-05-26T16:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:actiontec:t2200h_firmware:t2200h-31.1238l.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 139589,
+    "name": "icloud",
+    "version": "7.1",
+    "created_at": "2017-11-28T18:13:16",
+    "updated_at": "2017-11-28T18:13:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:icloud:7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 76670,
+    "name": "sudo",
+    "version": "1.8.4p4",
+    "created_at": "2013-03-06T14:05:32",
+    "updated_at": "2013-03-07T17:51:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:todd_miller:sudo:1.8.4p4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 93885,
+    "name": "motor",
+    "version": "3",
+    "created_at": "2014-11-10T15:20:22",
+    "updated_at": "2014-11-10T15:52:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magzter:motor:3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

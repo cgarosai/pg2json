@@ -1,0 +1,10 @@
+{
+    "id": 1284570,
+    "name": "tiny_curl",
+    "version": "8.4.0",
+    "created_at": "2024-07-31T09:38:40",
+    "updated_at": "2024-07-31T09:38:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:curl:tiny_curl:8.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

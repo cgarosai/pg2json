@@ -1,0 +1,10 @@
+{
+    "id": 388206,
+    "name": "mpdf",
+    "version": "7.0.0",
+    "created_at": "2019-09-24T15:22:52",
+    "updated_at": "2019-09-24T15:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mpdf_project:mpdf:7.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

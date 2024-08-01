@@ -1,0 +1,10 @@
+{
+    "id": 11356,
+    "name": "solaris_libxfont",
+    "version": "-",
+    "created_at": "2008-01-21T13:15:55",
+    "updated_at": "2008-01-21T13:15:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:solaris_libxfont:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 948815,
+    "name": "tx3_firmware",
+    "version": "16.03.13.11",
+    "created_at": "2022-09-28T15:04:17",
+    "updated_at": "2022-10-24T13:13:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenda:tx3_firmware:16.03.13.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

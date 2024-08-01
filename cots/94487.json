@@ -1,0 +1,10 @@
+{
+    "id": 94487,
+    "name": "mailwise",
+    "version": "4.0",
+    "created_at": "2014-11-24T15:01:01",
+    "updated_at": "2015-02-11T14:41:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybozu:mailwise:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

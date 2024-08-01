@@ -1,0 +1,10 @@
+{
+    "id": 224761,
+    "name": "apport",
+    "version": "2.19.2",
+    "created_at": "2019-04-29T09:27:52",
+    "updated_at": "2019-04-29T09:27:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:apport:2.19.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

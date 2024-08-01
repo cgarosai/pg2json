@@ -1,0 +1,10 @@
+{
+    "id": 385131,
+    "name": "debug",
+    "version": "3.2.6",
+    "created_at": "2019-09-23T15:07:15",
+    "updated_at": "2019-09-23T15:07:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debug_project:debug:3.2.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

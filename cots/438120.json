@@ -1,0 +1,10 @@
+{
+    "id": 438120,
+    "name": "mod_ruid2",
+    "version": "0.9.3",
+    "created_at": "2019-11-15T14:37:06",
+    "updated_at": "2019-11-15T14:37:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mod_ruid2_project:mod_ruid2:0.9.3:*:*:*:*:apache:*:*",
+    "to_analyse": false
+}

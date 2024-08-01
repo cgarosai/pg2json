@@ -1,0 +1,10 @@
+{
+    "id": 673801,
+    "name": "monero",
+    "version": "0.17.1.0",
+    "created_at": "2021-03-26T14:31:32",
+    "updated_at": "2021-03-29T08:48:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getmonero:monero:0.17.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

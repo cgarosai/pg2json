@@ -1,0 +1,10 @@
+{
+    "id": 529603,
+    "name": "zulip_desktop",
+    "version": "2.3.4",
+    "created_at": "2020-04-03T15:29:48",
+    "updated_at": "2020-04-03T15:29:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zulipchat:zulip_desktop:2.3.4:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 62310,
+    "name": "shibb_auth",
+    "version": "5.x-3.x",
+    "created_at": "2012-11-13T22:52:55",
+    "updated_at": "2012-11-13T22:52:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:niif:shibb_auth:5.x-3.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

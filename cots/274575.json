@@ -1,0 +1,10 @@
+{
+    "id": 274575,
+    "name": "cp635-web_firmware",
+    "version": "1.76",
+    "created_at": "2019-07-01T15:32:57",
+    "updated_at": "2021-05-19T13:42:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:cp635-web_firmware:1.76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

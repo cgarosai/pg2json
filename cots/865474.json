@@ -1,0 +1,10 @@
+{
+    "id": 865474,
+    "name": "eos",
+    "version": "2.1.0",
+    "created_at": "2022-03-22T14:25:42",
+    "updated_at": "2022-03-22T14:30:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eosio_project:eos:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

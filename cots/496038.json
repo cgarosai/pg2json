@@ -1,0 +1,10 @@
+{
+    "id": 496038,
+    "name": "edk2",
+    "version": "svn_16280",
+    "created_at": "2020-02-11T21:15:32",
+    "updated_at": "2020-02-11T21:15:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tianocore:edk2:svn_16280:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

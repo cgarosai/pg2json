@@ -1,0 +1,10 @@
+{
+    "id": 527799,
+    "name": "cloud_foundry_event_alerts",
+    "version": "1.2.7",
+    "created_at": "2020-04-01T18:19:22",
+    "updated_at": "2020-04-01T18:19:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_event_alerts:1.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

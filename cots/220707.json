@@ -1,0 +1,10 @@
+{
+    "id": 220707,
+    "name": "go",
+    "version": "1.8.7",
+    "created_at": "2019-04-19T12:03:12",
+    "updated_at": "2019-04-19T12:03:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

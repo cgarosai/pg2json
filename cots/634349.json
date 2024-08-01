@@ -1,0 +1,10 @@
+{
+    "id": 634349,
+    "name": "kmod",
+    "version": "27",
+    "created_at": "2021-01-06T14:05:07",
+    "updated_at": "2021-01-06T14:05:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:kmod:27:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

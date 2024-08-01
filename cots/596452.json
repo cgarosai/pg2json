@@ -1,0 +1,10 @@
+{
+    "id": 596452,
+    "name": "add-apt-repository",
+    "version": "0.92.37.0",
+    "created_at": "2020-09-08T11:34:05",
+    "updated_at": "2021-03-25T11:03:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:add-apt-repository:0.92.37.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

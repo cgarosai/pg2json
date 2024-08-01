@@ -1,0 +1,10 @@
+{
+    "id": 565276,
+    "name": "sapcar",
+    "version": "-",
+    "created_at": "2020-06-25T11:40:30",
+    "updated_at": "2020-06-25T11:40:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:sapcar:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

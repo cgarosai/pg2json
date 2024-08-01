@@ -1,0 +1,10 @@
+{
+    "id": 113145,
+    "name": "smartos",
+    "version": "20161110t013148z",
+    "created_at": "2016-12-15T16:51:01",
+    "updated_at": "2021-07-09T12:38:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:joyent:smartos:20161110t013148z:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

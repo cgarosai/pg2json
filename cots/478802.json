@@ -1,0 +1,10 @@
+{
+    "id": 478802,
+    "name": "libbsd",
+    "version": "0.5.2",
+    "created_at": "2020-01-14T19:48:37",
+    "updated_at": "2020-01-14T19:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:libbsd:0.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

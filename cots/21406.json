@@ -1,0 +1,10 @@
+{
+    "id": 21406,
+    "name": "network_node_manager",
+    "version": "8.12",
+    "created_at": "2010-02-12T13:06:32",
+    "updated_at": "2010-11-05T13:31:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:network_node_manager:8.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

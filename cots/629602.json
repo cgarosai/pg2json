@@ -1,0 +1,10 @@
+{
+    "id": 629602,
+    "name": "spree",
+    "version": "0.70.3",
+    "created_at": "2020-12-04T20:02:15",
+    "updated_at": "2020-12-04T20:02:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spreecommerce:spree:0.70.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

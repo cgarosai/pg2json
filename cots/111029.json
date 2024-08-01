@@ -1,0 +1,10 @@
+{
+    "id": 111029,
+    "name": "mail_security_for_microsoft_exchange",
+    "version": "6.5.8",
+    "created_at": "2016-09-09T15:48:06",
+    "updated_at": "2016-09-09T15:48:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:mail_security_for_microsoft_exchange:6.5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

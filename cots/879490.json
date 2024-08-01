@@ -1,0 +1,10 @@
+{
+    "id": 879490,
+    "name": "rest_data_services",
+    "version": "21.2",
+    "created_at": "2022-04-29T11:35:23",
+    "updated_at": "2022-05-02T12:57:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:rest_data_services:21.2:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

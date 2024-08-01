@@ -1,0 +1,10 @@
+{
+    "id": 724099,
+    "name": "openresty",
+    "version": "1.19.3.2",
+    "created_at": "2021-06-28T22:17:27",
+    "updated_at": "2021-06-29T10:40:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openresty:openresty:1.19.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

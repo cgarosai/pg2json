@@ -1,0 +1,10 @@
+{
+    "id": 754521,
+    "name": "libxkbcommon",
+    "version": "0.3.0",
+    "created_at": "2021-08-13T11:25:29",
+    "updated_at": "2021-08-16T20:33:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xkbcommon:libxkbcommon:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 25119,
+    "name": "itunes",
+    "version": "5.0.1",
+    "created_at": "2009-03-04T12:01:27",
+    "updated_at": "2009-03-04T12:01:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:itunes:5.0.1:-:mac:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1063907,
+    "name": "nextcloud_files_automated_tagging",
+    "version": "1.14.0",
+    "created_at": "2023-04-25T11:46:07",
+    "updated_at": "2023-07-06T13:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:1.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

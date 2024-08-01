@@ -1,0 +1,10 @@
+{
+    "id": 394615,
+    "name": "chrome_os",
+    "version": "r76",
+    "created_at": "2019-10-07T12:38:08",
+    "updated_at": "2021-06-22T14:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:chrome_os:r76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

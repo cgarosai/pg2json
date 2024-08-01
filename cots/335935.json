@@ -1,0 +1,10 @@
+{
+    "id": 335935,
+    "name": "netdata",
+    "version": "0.2.0",
+    "created_at": "2019-08-06T14:49:04",
+    "updated_at": "2019-08-06T14:49:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netdata:netdata:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1102444,
+    "name": "client_connector",
+    "version": "3.9.0.95",
+    "created_at": "2023-06-30T12:44:16",
+    "updated_at": "2023-06-30T14:38:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zscaler:client_connector:3.9.0.95:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

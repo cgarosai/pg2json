@@ -1,0 +1,10 @@
+{
+    "id": 346447,
+    "name": "olimometer",
+    "version": "2.53",
+    "created_at": "2019-08-21T16:00:51",
+    "updated_at": "2019-08-21T16:00:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:olimometer_project:olimometer:2.53:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

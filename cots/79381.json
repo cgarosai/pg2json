@@ -1,0 +1,10 @@
+{
+    "id": 79381,
+    "name": "visio",
+    "version": "2007",
+    "created_at": "2013-05-15T11:51:32",
+    "updated_at": "2016-01-14T17:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visio:2007:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

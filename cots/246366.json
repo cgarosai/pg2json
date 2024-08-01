@@ -1,0 +1,10 @@
+{
+    "id": 246366,
+    "name": "dry",
+    "version": "2.0",
+    "created_at": "2019-05-22T16:44:06",
+    "updated_at": "2019-05-22T16:44:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:dry:2.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

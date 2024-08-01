@@ -1,0 +1,10 @@
+{
+    "id": 258032,
+    "name": "allura",
+    "version": "1.2.1",
+    "created_at": "2019-06-10T11:37:16",
+    "updated_at": "2019-06-10T11:37:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:allura:1.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

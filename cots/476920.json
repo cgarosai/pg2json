@@ -1,0 +1,10 @@
+{
+    "id": 476920,
+    "name": "xeon_e3-1585_v5_firmware",
+    "version": "-",
+    "created_at": "2020-01-13T13:16:21",
+    "updated_at": "2020-01-13T13:16:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1585_v5_firmware:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

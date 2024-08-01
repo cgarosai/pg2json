@@ -1,0 +1,10 @@
+{
+    "id": 1031859,
+    "name": "braintree\\/sanitize-url",
+    "version": "6.0.2",
+    "created_at": "2023-03-02T13:28:50",
+    "updated_at": "2023-03-03T17:44:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paypal:braintree\\/sanitize-url:6.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

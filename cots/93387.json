@@ -1,0 +1,10 @@
+{
+    "id": 93387,
+    "name": "rsa_web_threat_detection",
+    "version": "4.6.1.0",
+    "created_at": "2014-11-07T13:32:12",
+    "updated_at": "2021-08-06T11:18:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_web_threat_detection:4.6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

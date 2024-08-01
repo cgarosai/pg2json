@@ -1,0 +1,10 @@
+{
+    "id": 1126552,
+    "name": "faust",
+    "version": "2.60.3",
+    "created_at": "2023-07-25T10:31:54",
+    "updated_at": "2023-07-25T11:18:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grame:faust:2.60.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

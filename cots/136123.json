@@ -1,0 +1,10 @@
+{
+    "id": 136123,
+    "name": "hue_bridge_bsb002_firmware",
+    "version": "1707040932",
+    "created_at": "2017-10-11T13:03:11",
+    "updated_at": "2021-06-25T15:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:philips:hue_bridge_bsb002_firmware:1707040932:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

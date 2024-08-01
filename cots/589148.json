@@ -1,0 +1,10 @@
+{
+    "id": 589148,
+    "name": "antivirus_engine",
+    "version": "2019.04.04",
+    "created_at": "2020-08-20T19:55:30",
+    "updated_at": "2020-08-20T19:55:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:antivirus_engine:2019.04.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

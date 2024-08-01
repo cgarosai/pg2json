@@ -1,0 +1,10 @@
+{
+    "id": 488859,
+    "name": "fish",
+    "version": "1.21.12",
+    "created_at": "2020-02-03T15:46:44",
+    "updated_at": "2020-02-03T15:46:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fishshell:fish:1.21.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

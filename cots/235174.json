@@ -1,0 +1,10 @@
+{
+    "id": 235174,
+    "name": "pulse_policy_secure",
+    "version": "9.0r3",
+    "created_at": "2019-04-29T14:05:31",
+    "updated_at": "2021-05-28T09:10:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.0r3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

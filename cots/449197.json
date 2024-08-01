@@ -1,0 +1,10 @@
+{
+    "id": 449197,
+    "name": "icedtea",
+    "version": "2.6.17",
+    "created_at": "2019-12-02T15:36:11",
+    "updated_at": "2019-12-02T15:36:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:icedtea:2.6.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 14196,
+    "name": "aix",
+    "version": "6.1.2",
+    "created_at": "2008-12-09T17:05:28",
+    "updated_at": "2008-12-09T17:05:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:aix:6.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

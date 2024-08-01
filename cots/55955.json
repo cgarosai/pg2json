@@ -1,0 +1,10 @@
+{
+    "id": 55955,
+    "name": "connector_for_wise",
+    "version": "6.1.138",
+    "created_at": "2012-04-24T21:21:45",
+    "updated_at": "2012-04-24T21:21:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:connector_for_wise:6.1.138:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

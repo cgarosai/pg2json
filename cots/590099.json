@@ -1,0 +1,10 @@
+{
+    "id": 590099,
+    "name": "pulse_secure_desktop",
+    "version": "5.3r2.0",
+    "created_at": "2020-09-15T10:46:18",
+    "updated_at": "2020-09-15T10:46:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:pulse_secure_desktop:5.3r2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 214336,
+    "name": "postgresql",
+    "version": "9.6.10",
+    "created_at": "2019-04-02T12:38:07",
+    "updated_at": "2023-08-11T15:40:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postgresql:postgresql:9.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

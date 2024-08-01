@@ -1,0 +1,10 @@
+{
+    "id": 1130004,
+    "name": "vega",
+    "version": "0.26.0",
+    "created_at": "2023-08-14T17:00:46",
+    "updated_at": "2023-08-15T09:43:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gobalsky:vega:0.26.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

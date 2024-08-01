@@ -1,0 +1,10 @@
+{
+    "id": 1107639,
+    "name": "wp-mpdf",
+    "version": "3.5.2",
+    "created_at": "2023-06-21T13:05:16",
+    "updated_at": "2023-08-21T11:30:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-mpdf_project:wp-mpdf:3.5.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1281788,
+    "name": "bbpress_notify",
+    "version": "1.10",
+    "created_at": "2024-07-24T19:30:55",
+    "updated_at": "2024-07-24T19:30:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:usestrict:bbpress_notify:1.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

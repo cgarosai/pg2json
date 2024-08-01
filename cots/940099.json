@@ -1,0 +1,10 @@
+{
+    "id": 940099,
+    "name": "software_development_kit",
+    "version": "0.10.12",
+    "created_at": "2022-09-30T12:17:30",
+    "updated_at": "2022-09-30T15:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:software_development_kit:0.10.12:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

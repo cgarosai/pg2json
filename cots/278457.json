@@ -1,0 +1,10 @@
+{
+    "id": 278457,
+    "name": "sfos",
+    "version": "16.5",
+    "created_at": "2019-06-25T11:49:47",
+    "updated_at": "2021-05-27T13:04:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sophos:sfos:16.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

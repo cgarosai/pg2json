@@ -1,0 +1,10 @@
+{
+    "id": 54271,
+    "name": "vrtsccscmserver",
+    "version": "5.2.202.0",
+    "created_at": "2012-07-10T01:23:21",
+    "updated_at": "2012-07-10T01:23:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:vrtsccscmserver:5.2.202.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

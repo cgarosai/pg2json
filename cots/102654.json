@@ -1,0 +1,10 @@
+{
+    "id": 102654,
+    "name": "linux_kernel",
+    "version": "4.3.2",
+    "created_at": "2015-12-28T18:07:29",
+    "updated_at": "2015-12-28T18:07:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:4.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

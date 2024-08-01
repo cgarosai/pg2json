@@ -1,0 +1,10 @@
+{
+    "id": 210105,
+    "name": "community",
+    "version": "10.1.0.7092",
+    "created_at": "2019-03-20T11:18:53",
+    "updated_at": "2019-03-20T11:18:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:telligent:community:10.1.0.7092:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

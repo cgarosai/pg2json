@@ -1,0 +1,10 @@
+{
+    "id": 75633,
+    "name": "opensolaris",
+    "version": "snv_01",
+    "created_at": "2013-02-07T17:50:23",
+    "updated_at": "2013-02-11T13:31:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:opensolaris:snv_01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

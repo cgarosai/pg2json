@@ -1,0 +1,10 @@
+{
+    "id": 207401,
+    "name": "q100udehcpu_firmware",
+    "version": "20101",
+    "created_at": "2019-02-08T13:38:34",
+    "updated_at": "2021-05-24T12:00:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:q100udehcpu_firmware:20101:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

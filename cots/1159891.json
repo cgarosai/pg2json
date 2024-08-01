@@ -1,0 +1,10 @@
+{
+    "id": 1159891,
+    "name": "zscaler_proxy",
+    "version": "-",
+    "created_at": "2023-09-16T01:57:59",
+    "updated_at": "2023-09-16T01:57:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zscaler:zscaler_proxy:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

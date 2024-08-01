@@ -1,0 +1,10 @@
+{
+    "id": 1144229,
+    "name": "elastic_email_sender",
+    "version": "1.2.7",
+    "created_at": "2023-09-07T11:29:21",
+    "updated_at": "2023-09-07T12:52:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elasticemail:elastic_email_sender:1.2.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 780116,
+    "name": "cwlviewer",
+    "version": "1.0",
+    "created_at": "2021-10-06T13:14:46",
+    "updated_at": "2021-10-06T13:20:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commonwl:cwlviewer:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

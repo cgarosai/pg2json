@@ -1,0 +1,10 @@
+{
+    "id": 256790,
+    "name": "php",
+    "version": "7.1.12",
+    "created_at": "2019-06-07T16:49:47",
+    "updated_at": "2019-06-07T16:49:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php:php:7.1.12:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

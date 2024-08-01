@@ -1,0 +1,10 @@
+{
+    "id": 1230006,
+    "name": "cbor",
+    "version": "4.0.0",
+    "created_at": "2024-01-11T18:59:05",
+    "updated_at": "2024-01-11T18:59:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:peteroupc:cbor:4.0.0:alpha1:*:*:*:.net:*:*",
+    "to_analyse": false
+}

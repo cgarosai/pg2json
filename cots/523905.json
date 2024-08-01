@@ -1,0 +1,10 @@
+{
+    "id": 523905,
+    "name": "xeon_6142m",
+    "version": "-",
+    "created_at": "2020-04-10T17:58:20",
+    "updated_at": "2020-04-10T17:58:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_6142m:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

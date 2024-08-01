@@ -1,0 +1,10 @@
+{
+    "id": 349078,
+    "name": "nest_cam_iq_indoor_firmware",
+    "version": "4620002",
+    "created_at": "2019-08-26T12:27:00",
+    "updated_at": "2021-06-22T14:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:nest_cam_iq_indoor_firmware:4620002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

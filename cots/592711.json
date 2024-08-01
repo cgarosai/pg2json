@@ -1,0 +1,10 @@
+{
+    "id": 592711,
+    "name": "installbuilder",
+    "version": "7.1.0",
+    "created_at": "2020-09-23T09:56:52",
+    "updated_at": "2020-09-23T09:56:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:installbuilder:installbuilder:7.1.0:*:*:*:*:qt:*:*",
+    "to_analyse": false
+}

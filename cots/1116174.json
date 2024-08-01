@@ -1,0 +1,10 @@
+{
+    "id": 1116174,
+    "name": "uri",
+    "version": "0.11.2",
+    "created_at": "2023-07-06T12:51:16",
+    "updated_at": "2023-07-14T15:34:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ruby-lang:uri:0.11.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

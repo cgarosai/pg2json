@@ -1,0 +1,10 @@
+{
+    "id": 777184,
+    "name": "sqlite-web",
+    "version": "-",
+    "created_at": "2021-09-10T14:10:25",
+    "updated_at": "2021-09-13T12:02:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqlite-web_project:sqlite-web:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

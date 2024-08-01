@@ -1,0 +1,10 @@
+{
+    "id": 1209856,
+    "name": "openzfs",
+    "version": "2.1.0",
+    "created_at": "2023-12-01T09:48:53",
+    "updated_at": "2023-12-01T09:48:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openzfs:openzfs:2.1.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

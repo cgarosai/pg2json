@@ -1,0 +1,10 @@
+{
+    "id": 391413,
+    "name": "dcserver",
+    "version": "1.0.0",
+    "created_at": "2019-10-02T14:07:20",
+    "updated_at": "2019-10-02T14:07:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dcserver_project:dcserver:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 219068,
+    "name": "sinumerik_pcu_50.5_firmware",
+    "version": "15.02.15",
+    "created_at": "2019-03-19T12:20:35",
+    "updated_at": "2021-06-29T11:23:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinumerik_pcu_50.5_firmware:15.02.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

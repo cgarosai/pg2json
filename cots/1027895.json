@@ -1,0 +1,10 @@
+{
+    "id": 1027895,
+    "name": "qpid_dispatch",
+    "version": "1.2.0",
+    "created_at": "2023-02-06T22:01:32",
+    "updated_at": "2023-02-06T22:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid_dispatch:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

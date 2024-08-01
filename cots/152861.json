@@ -1,0 +1,10 @@
+{
+    "id": 152861,
+    "name": "web_forum",
+    "version": "6.41",
+    "created_at": "2018-06-11T16:08:23",
+    "updated_at": "2021-03-29T18:08:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kent-web:web_forum:6.41:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

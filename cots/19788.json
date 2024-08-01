@@ -1,0 +1,10 @@
+{
+    "id": 19788,
+    "name": "weblogic_server",
+    "version": "9.2",
+    "created_at": "2007-08-31T13:13:20",
+    "updated_at": "2008-04-07T11:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bea:weblogic_server:9.2:mp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

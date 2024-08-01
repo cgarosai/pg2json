@@ -1,0 +1,10 @@
+{
+    "id": 60542,
+    "name": "movie_decoder",
+    "version": "9.0.0",
+    "created_at": "2012-10-08T12:13:26",
+    "updated_at": "2012-10-08T23:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:movie_decoder:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 533840,
+    "name": "proxyman",
+    "version": "1.4.5",
+    "created_at": "2020-05-04T12:34:48",
+    "updated_at": "2020-05-04T12:34:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proxyman:proxyman:1.4.5:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

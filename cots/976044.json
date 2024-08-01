@@ -1,0 +1,10 @@
+{
+    "id": 976044,
+    "name": "external_monitor_job_type",
+    "version": "1.2",
+    "created_at": "2022-11-23T11:52:59",
+    "updated_at": "2022-11-23T11:56:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:external_monitor_job_type:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

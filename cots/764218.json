@@ -1,0 +1,10 @@
+{
+    "id": 764218,
+    "name": "simatic_pdm_firmware",
+    "version": "9.1.0.7",
+    "created_at": "2021-09-03T10:06:57",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_pdm_firmware:9.1.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

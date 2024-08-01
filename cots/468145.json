@@ -1,0 +1,10 @@
+{
+    "id": 468145,
+    "name": "firecracker",
+    "version": "0.2.0",
+    "created_at": "2019-12-18T18:15:02",
+    "updated_at": "2019-12-19T12:35:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:firecracker_project:firecracker:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

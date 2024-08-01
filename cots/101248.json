@@ -1,0 +1,10 @@
+{
+    "id": 101248,
+    "name": "hostmaster",
+    "version": "6.x-3.0",
+    "created_at": "2015-08-20T11:10:16",
+    "updated_at": "2015-09-01T12:57:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aegirproject:hostmaster:6.x-3.0:beta1:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

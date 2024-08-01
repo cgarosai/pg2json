@@ -1,0 +1,10 @@
+{
+    "id": 480291,
+    "name": "wm3300_firmware",
+    "version": "5.0.0.54",
+    "created_at": "2020-02-04T15:50:26",
+    "updated_at": "2020-02-04T15:50:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:coship:wm3300_firmware:5.0.0.54:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

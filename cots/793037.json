@@ -1,0 +1,10 @@
+{
+    "id": 793037,
+    "name": "ht801_firmware",
+    "version": "1.0.29",
+    "created_at": "2021-10-29T10:52:16",
+    "updated_at": "2021-11-23T22:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:grandstream:ht801_firmware:1.0.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

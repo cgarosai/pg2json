@@ -1,0 +1,10 @@
+{
+    "id": 3772,
+    "name": "imail",
+    "version": "8.12",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2012-08-20T16:31:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:imail:8.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

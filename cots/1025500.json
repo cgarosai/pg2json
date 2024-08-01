@@ -1,0 +1,10 @@
+{
+    "id": 1025500,
+    "name": "testquality_updater",
+    "version": "-",
+    "created_at": "2023-02-01T16:53:01",
+    "updated_at": "2023-02-02T13:57:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:testquality_updater:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

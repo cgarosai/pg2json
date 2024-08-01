@@ -1,0 +1,10 @@
+{
+    "id": 477387,
+    "name": "saml_single_sign_on",
+    "version": "2.4.7",
+    "created_at": "2020-01-13T15:23:30",
+    "updated_at": "2020-01-13T15:23:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:2.4.7:*:*:*:*:bitbucket:*:*",
+    "to_analyse": false
+}

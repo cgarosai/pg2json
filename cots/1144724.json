@@ -1,0 +1,10 @@
+{
+    "id": 1144724,
+    "name": "job_configuration_history",
+    "version": "1187.v2a_b_1ca_54d18d",
+    "created_at": "2023-09-07T16:19:06",
+    "updated_at": "2023-09-07T16:20:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:job_configuration_history:1187.v2a_b_1ca_54d18d:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

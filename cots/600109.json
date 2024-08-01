@@ -1,0 +1,10 @@
+{
+    "id": 600109,
+    "name": "ucs_6324",
+    "version": "-",
+    "created_at": "2020-10-07T15:49:16",
+    "updated_at": "2020-10-07T15:49:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ucs_6324:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

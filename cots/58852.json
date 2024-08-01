@@ -1,0 +1,10 @@
+{
+    "id": 58852,
+    "name": "proliant_remote_monitor_service",
+    "version": "5.11.3.0",
+    "created_at": "2012-05-14T21:31:47",
+    "updated_at": "2012-05-14T21:31:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:proliant_remote_monitor_service:5.11.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1015000,
+    "name": "spikes",
+    "version": "-",
+    "created_at": "2023-01-31T15:53:58",
+    "updated_at": "2023-03-16T17:51:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chimpgroup:spikes:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

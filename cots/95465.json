@@ -1,0 +1,10 @@
+{
+    "id": 95465,
+    "name": "sfpagent",
+    "version": "0.4.13",
+    "created_at": "2014-04-24T15:07:42",
+    "updated_at": "2014-04-29T18:33:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:herry:sfpagent:0.4.13:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

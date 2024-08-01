@@ -1,0 +1,10 @@
+{
+    "id": 812253,
+    "name": "network_access_client",
+    "version": "3.6",
+    "created_at": "2021-12-03T15:57:52",
+    "updated_at": "2021-12-03T16:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:barracuda:network_access_client:3.6:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

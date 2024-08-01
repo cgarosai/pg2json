@@ -1,0 +1,10 @@
+{
+    "id": 616038,
+    "name": "applications_framework",
+    "version": "12.2.10",
+    "created_at": "2020-10-28T20:59:51",
+    "updated_at": "2020-10-28T20:59:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:applications_framework:12.2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 32964,
+    "name": "telepresence_multipoint_switch",
+    "version": "-",
+    "created_at": "2011-02-25T17:02:06",
+    "updated_at": "2012-07-25T16:29:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:telepresence_multipoint_switch:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

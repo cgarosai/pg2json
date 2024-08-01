@@ -1,0 +1,10 @@
+{
+    "id": 51665,
+    "name": "mysql_connector\\/odbc",
+    "version": "3.51.15",
+    "created_at": "2012-06-21T17:08:59",
+    "updated_at": "2012-06-21T17:08:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysql:mysql_connector\\/odbc:3.51.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

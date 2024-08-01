@@ -1,0 +1,10 @@
+{
+    "id": 72406,
+    "name": "videoscape_distribution_suite_service_broker",
+    "version": "1.1.0-b96",
+    "created_at": "2013-08-01T15:49:42",
+    "updated_at": "2014-06-24T15:49:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:videoscape_distribution_suite_service_broker:1.1.0-b96:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

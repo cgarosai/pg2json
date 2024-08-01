@@ -1,0 +1,10 @@
+{
+    "id": 763076,
+    "name": "remediate",
+    "version": "1.2.0",
+    "created_at": "2021-08-31T16:09:02",
+    "updated_at": "2021-09-01T13:43:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:remediate:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1116569,
+    "name": "hnswlib",
+    "version": "0.3.4",
+    "created_at": "2023-07-07T10:01:20",
+    "updated_at": "2023-07-07T10:19:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hnswlib_project:hnswlib:0.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

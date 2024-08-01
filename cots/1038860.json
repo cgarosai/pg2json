@@ -1,0 +1,10 @@
+{
+    "id": 1038860,
+    "name": "yamaps",
+    "version": "0.3.0",
+    "created_at": "2023-02-24T19:18:44",
+    "updated_at": "2023-02-27T13:31:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yamaps_project:yamaps:0.3.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

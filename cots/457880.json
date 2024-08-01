@@ -1,0 +1,10 @@
+{
+    "id": 457880,
+    "name": "sentinel_ldk",
+    "version": "7.63",
+    "created_at": "2019-12-08T17:41:02",
+    "updated_at": "2019-12-08T17:41:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gemalto:sentinel_ldk:7.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

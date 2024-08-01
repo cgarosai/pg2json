@@ -1,0 +1,10 @@
+{
+    "id": 912732,
+    "name": "azure_batch",
+    "version": "1.9.10",
+    "created_at": "2022-08-10T13:51:30",
+    "updated_at": "2022-08-10T19:50:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_batch:1.9.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

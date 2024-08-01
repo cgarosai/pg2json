@@ -1,0 +1,10 @@
+{
+    "id": 684524,
+    "name": "postcss",
+    "version": "7.0.20",
+    "created_at": "2021-04-14T13:24:36",
+    "updated_at": "2021-04-15T13:25:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postcss:postcss:7.0.20:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

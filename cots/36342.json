@@ -1,0 +1,10 @@
+{
+    "id": 36342,
+    "name": "websphere_service_registry_and_repository",
+    "version": "6.1.0.5",
+    "created_at": "2010-08-30T18:07:21",
+    "updated_at": "2010-09-23T23:22:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_service_registry_and_repository:6.1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

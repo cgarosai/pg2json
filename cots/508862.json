@@ -1,0 +1,10 @@
+{
+    "id": 508862,
+    "name": "xmlsec",
+    "version": "1.2.12",
+    "created_at": "2020-03-05T13:21:08",
+    "updated_at": "2020-03-05T13:21:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xmlsec_project:xmlsec:1.2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

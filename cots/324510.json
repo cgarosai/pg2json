@@ -1,0 +1,10 @@
+{
+    "id": 324510,
+    "name": "fence-agents",
+    "version": "4.0.9",
+    "created_at": "2019-08-05T15:00:16",
+    "updated_at": "2019-08-05T15:00:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:fence-agents:4.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

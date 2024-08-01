@@ -1,0 +1,10 @@
+{
+    "id": 725853,
+    "name": "vault",
+    "version": "1.6.5",
+    "created_at": "2021-06-09T15:23:40",
+    "updated_at": "2021-06-09T16:10:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:vault:1.6.5:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

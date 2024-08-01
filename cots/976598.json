@@ -1,0 +1,10 @@
+{
+    "id": 976598,
+    "name": "image_tag_parameter",
+    "version": "2.0",
+    "created_at": "2022-11-23T15:14:45",
+    "updated_at": "2022-11-23T15:15:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:image_tag_parameter:2.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

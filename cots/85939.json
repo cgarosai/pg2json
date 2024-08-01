@@ -1,0 +1,10 @@
+{
+    "id": 85939,
+    "name": "prh_search",
+    "version": "7.x-1.0",
+    "created_at": "2013-10-11T16:08:37",
+    "updated_at": "2013-10-11T16:11:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:antti_alamki:prh_search:7.x-1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

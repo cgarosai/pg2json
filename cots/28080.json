@@ -1,0 +1,10 @@
+{
+    "id": 28080,
+    "name": "active_management_technology",
+    "version": "2.5",
+    "created_at": "2009-10-19T11:10:21",
+    "updated_at": "2023-05-16T19:43:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:active_management_technology:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

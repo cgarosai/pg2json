@@ -1,0 +1,10 @@
+{
+    "id": 517159,
+    "name": "dojox",
+    "version": "1.8.3",
+    "created_at": "2020-03-16T16:55:53",
+    "updated_at": "2020-03-16T16:55:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:dojox:1.8.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

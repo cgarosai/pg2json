@@ -1,0 +1,10 @@
+{
+    "id": 564462,
+    "name": "control_rte",
+    "version": "3.5.16.10",
+    "created_at": "2020-07-23T08:47:45",
+    "updated_at": "2021-02-25T20:52:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_rte:3.5.16.10:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

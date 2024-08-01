@@ -1,0 +1,10 @@
+{
+    "id": 573100,
+    "name": "cloud",
+    "version": "-",
+    "created_at": "2020-08-11T12:26:17",
+    "updated_at": "2020-08-11T12:26:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobileiron:cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

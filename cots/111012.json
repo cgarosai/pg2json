@@ -1,0 +1,10 @@
+{
+    "id": 111012,
+    "name": "data_center_security_server",
+    "version": "6.0",
+    "created_at": "2016-09-09T15:48:05",
+    "updated_at": "2016-09-09T15:48:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:data_center_security_server:6.0:mp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

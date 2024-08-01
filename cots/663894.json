@@ -1,0 +1,10 @@
+{
+    "id": 663894,
+    "name": "containers",
+    "version": "6.5.2-debian-9-r10",
+    "created_at": "2021-03-09T13:30:38",
+    "updated_at": "2021-03-22T14:17:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitnami:containers:6.5.2-debian-9-r10:*:*:*:*:laravel:*:*",
+    "to_analyse": false
+}

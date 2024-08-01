@@ -1,0 +1,10 @@
+{
+    "id": 129368,
+    "name": "backup_exec",
+    "version": "2014.1786",
+    "created_at": "2017-05-20T22:27:17",
+    "updated_at": "2021-08-12T14:21:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:backup_exec:2014.1786:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

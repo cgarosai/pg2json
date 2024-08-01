@@ -1,0 +1,10 @@
+{
+    "id": 726309,
+    "name": "vedge_2000_firmware",
+    "version": "20.5",
+    "created_at": "2021-06-10T11:44:08",
+    "updated_at": "2021-06-17T13:27:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vedge_2000_firmware:20.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100509,
+    "name": "libwmf",
+    "version": "0.2.8.4",
+    "created_at": "2015-07-02T12:07:41",
+    "updated_at": "2015-07-30T14:12:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wvware:libwmf:0.2.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

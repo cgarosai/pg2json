@@ -1,0 +1,10 @@
+{
+    "id": 75587,
+    "name": "audio_player",
+    "version": "2.0.4.3",
+    "created_at": "2013-02-07T14:00:49",
+    "updated_at": "2013-02-11T19:13:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:doryphores:audio_player:2.0.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

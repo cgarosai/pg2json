@@ -1,0 +1,10 @@
+{
+    "id": 573499,
+    "name": "cpu_module_logging_configuration_tool",
+    "version": "-",
+    "created_at": "2020-08-11T14:05:24",
+    "updated_at": "2020-08-11T14:05:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitsubishielectric:cpu_module_logging_configuration_tool:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

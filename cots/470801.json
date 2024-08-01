@@ -1,0 +1,10 @@
+{
+    "id": 470801,
+    "name": "ic3000_industrial_compute_gateway",
+    "version": "-",
+    "created_at": "2020-01-16T18:59:57",
+    "updated_at": "2020-01-16T18:59:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ic3000_industrial_compute_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

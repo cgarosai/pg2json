@@ -1,0 +1,10 @@
+{
+    "id": 717376,
+    "name": "opa-fm",
+    "version": "10.3.0.0.10",
+    "created_at": "2021-06-01T12:59:56",
+    "updated_at": "2021-06-01T13:01:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cornelisnetworks:opa-fm:10.3.0.0.10:ehc:*:*:*:*:*:*",
+    "to_analyse": false
+}

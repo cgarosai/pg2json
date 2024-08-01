@@ -1,0 +1,10 @@
+{
+    "id": 307175,
+    "name": "nova_2_plus_firmware",
+    "version": "barca-tl00c00b162",
+    "created_at": "2019-07-19T14:29:04",
+    "updated_at": "2019-07-19T14:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nova_2_plus_firmware:barca-tl00c00b162:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

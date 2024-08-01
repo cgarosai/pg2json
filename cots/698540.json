@@ -1,0 +1,10 @@
+{
+    "id": 698540,
+    "name": "connect",
+    "version": "1.7.4",
+    "created_at": "2021-04-19T18:39:44",
+    "updated_at": "2021-04-20T14:56:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rstudio:connect:1.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

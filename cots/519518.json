@@ -1,0 +1,10 @@
+{
+    "id": 519518,
+    "name": "omnipod_insulin_management_system_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T14:19:56",
+    "updated_at": "2023-09-21T13:34:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:insulet:omnipod_insulin_management_system_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

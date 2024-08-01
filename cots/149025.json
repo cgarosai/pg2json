@@ -1,0 +1,10 @@
+{
+    "id": 149025,
+    "name": "sinatra",
+    "version": "1.2.0.d",
+    "created_at": "2018-04-12T11:33:05",
+    "updated_at": "2018-04-12T11:33:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sinatrarb:sinatra:1.2.0.d:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

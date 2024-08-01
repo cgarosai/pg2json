@@ -1,0 +1,10 @@
+{
+    "id": 603471,
+    "name": "skynas_firmware",
+    "version": "-",
+    "created_at": "2020-10-15T11:22:22",
+    "updated_at": "2021-05-27T16:02:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synology:skynas_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

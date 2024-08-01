@@ -1,0 +1,10 @@
+{
+    "id": 628470,
+    "name": "httpclient",
+    "version": "5.0.0",
+    "created_at": "2020-12-02T19:54:13",
+    "updated_at": "2020-12-02T19:54:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:httpclient:5.0.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1099457,
+    "name": "windows_8.1",
+    "version": "6.3.9600.20520",
+    "created_at": "2023-06-07T15:35:40",
+    "updated_at": "2023-08-29T10:22:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_8.1:6.3.9600.20520:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

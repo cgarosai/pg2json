@@ -1,0 +1,10 @@
+{
+    "id": 1169821,
+    "name": "import_xml_and_rss_feeds",
+    "version": "1.0.4",
+    "created_at": "2023-09-29T09:10:47",
+    "updated_at": "2023-09-29T09:10:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mooveagency:import_xml_and_rss_feeds:1.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

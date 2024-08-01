@@ -1,0 +1,10 @@
+{
+    "id": 557834,
+    "name": "compact_columns",
+    "version": "1.10",
+    "created_at": "2020-06-03T16:04:16",
+    "updated_at": "2020-06-03T16:04:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:compact_columns:1.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

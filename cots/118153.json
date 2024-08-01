@@ -1,0 +1,10 @@
+{
+    "id": 118153,
+    "name": "symfony",
+    "version": "3.0.5",
+    "created_at": "2016-06-03T11:18:52",
+    "updated_at": "2016-06-03T11:18:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sensiolabs:symfony:3.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

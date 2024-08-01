@@ -1,0 +1,10 @@
+{
+    "id": 999890,
+    "name": "ghinstallation",
+    "version": "0.1.0",
+    "created_at": "2022-12-22T17:39:45",
+    "updated_at": "2022-12-23T15:48:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ghinstallation_project:ghinstallation:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

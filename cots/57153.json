@@ -1,0 +1,10 @@
+{
+    "id": 57153,
+    "name": "director_mc",
+    "version": "1.0.0.0",
+    "created_at": "2012-05-08T11:50:05",
+    "updated_at": "2012-05-08T11:50:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluecoat:director_mc:1.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

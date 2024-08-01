@@ -1,0 +1,10 @@
+{
+    "id": 227622,
+    "name": "service_insight",
+    "version": "16.2r1",
+    "created_at": "2019-04-11T14:09:30",
+    "updated_at": "2021-04-15T13:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:service_insight:16.2r1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

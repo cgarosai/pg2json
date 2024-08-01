@@ -1,0 +1,10 @@
+{
+    "id": 532765,
+    "name": "moonlight",
+    "version": "3.2.0",
+    "created_at": "2020-05-01T15:43:57",
+    "updated_at": "2020-05-01T15:43:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moonlight-stream:moonlight:3.2.0:*:*:*:*:tvos:*:*",
+    "to_analyse": false
+}

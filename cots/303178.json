@@ -1,0 +1,10 @@
+{
+    "id": 303178,
+    "name": "servicestack",
+    "version": "4.0.17",
+    "created_at": "2019-07-24T11:55:50",
+    "updated_at": "2019-07-24T11:55:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servicestack:servicestack:4.0.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

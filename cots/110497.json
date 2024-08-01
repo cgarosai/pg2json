@@ -1,0 +1,10 @@
+{
+    "id": 110497,
+    "name": "arcsight_express",
+    "version": "4.0",
+    "created_at": "2016-08-25T16:08:00",
+    "updated_at": "2021-05-28T15:50:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:arcsight_express:4.0:p1:*:*:*:*:*:*",
+    "to_analyse": false
+}

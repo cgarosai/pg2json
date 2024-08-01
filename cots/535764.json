@@ -1,0 +1,10 @@
+{
+    "id": 535764,
+    "name": "big-ip_local_traffic_manager",
+    "version": "14.1.2.1.0.97.4",
+    "created_at": "2020-04-14T12:35:32",
+    "updated_at": "2020-04-14T12:35:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_local_traffic_manager:14.1.2.1.0.97.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

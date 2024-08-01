@@ -1,0 +1,10 @@
+{
+    "id": 73594,
+    "name": "websphere_extended_deployment_compute_grid",
+    "version": "8.0.0.2",
+    "created_at": "2013-08-28T16:54:29",
+    "updated_at": "2013-08-29T11:10:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_extended_deployment_compute_grid:8.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

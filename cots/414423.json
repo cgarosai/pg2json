@@ -1,0 +1,10 @@
+{
+    "id": 414423,
+    "name": "enterprise_mobility_server",
+    "version": "2.12.13.14",
+    "created_at": "2019-10-31T13:45:13",
+    "updated_at": "2019-10-31T13:45:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackberry:enterprise_mobility_server:2.12.13.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

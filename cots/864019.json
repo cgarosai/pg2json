@@ -1,0 +1,10 @@
+{
+    "id": 864019,
+    "name": "bootstrap",
+    "version": "3.1.11",
+    "created_at": "2022-04-12T22:46:10",
+    "updated_at": "2023-02-16T16:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getbootstrap:bootstrap:3.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

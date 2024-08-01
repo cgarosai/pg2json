@@ -1,0 +1,10 @@
+{
+    "id": 1115207,
+    "name": "edge_chromium",
+    "version": "99.0.1150.46",
+    "created_at": "2023-07-05T15:25:12",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:edge_chromium:99.0.1150.46:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

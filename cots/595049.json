@@ -1,0 +1,10 @@
+{
+    "id": 595049,
+    "name": "open_build_service",
+    "version": "-",
+    "created_at": "2020-09-02T17:38:51",
+    "updated_at": "2020-09-02T17:38:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:open_build_service:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

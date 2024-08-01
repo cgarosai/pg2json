@@ -1,0 +1,10 @@
+{
+    "id": 754194,
+    "name": "opensid",
+    "version": "2.4",
+    "created_at": "2021-08-12T13:11:02",
+    "updated_at": "2021-08-12T13:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opendesa:opensid:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

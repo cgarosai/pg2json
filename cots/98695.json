@@ -1,0 +1,10 @@
+{
+    "id": 98695,
+    "name": "corosync",
+    "version": "2.0.3",
+    "created_at": "2014-06-09T11:33:39",
+    "updated_at": "2014-06-18T16:26:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:corosync:corosync:2.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

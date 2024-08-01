@@ -1,0 +1,10 @@
+{
+    "id": 912110,
+    "name": "kava",
+    "version": "0.16.0",
+    "created_at": "2022-08-09T12:18:53",
+    "updated_at": "2022-08-09T15:34:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kava:kava:0.16.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 129058,
+    "name": "active_management_technology_firmware",
+    "version": "11.5",
+    "created_at": "2017-05-16T16:11:06",
+    "updated_at": "2021-05-03T17:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:active_management_technology_firmware:11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

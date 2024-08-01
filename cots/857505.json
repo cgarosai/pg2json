@@ -1,0 +1,10 @@
+{
+    "id": 857505,
+    "name": "expresscluster_x",
+    "version": "-",
+    "created_at": "2022-03-04T15:42:08",
+    "updated_at": "2022-03-07T18:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nec:expresscluster_x:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

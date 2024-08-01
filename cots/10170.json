@@ -1,0 +1,10 @@
+{
+    "id": 10170,
+    "name": "office",
+    "version": "xp",
+    "created_at": "2007-09-12T20:54:48",
+    "updated_at": "2010-06-09T15:36:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:xp:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

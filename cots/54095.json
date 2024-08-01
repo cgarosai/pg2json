@@ -1,0 +1,10 @@
+{
+    "id": 54095,
+    "name": "license_inventory_agent",
+    "version": "4.2.16.7",
+    "created_at": "2012-07-10T01:21:54",
+    "updated_at": "2012-07-10T01:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:license_inventory_agent:4.2.16.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 823533,
+    "name": "messagepack-rs",
+    "version": "0.3.2",
+    "created_at": "2022-01-05T01:03:08",
+    "updated_at": "2022-01-10T15:08:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:messagepack-rs_project:messagepack-rs:0.3.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

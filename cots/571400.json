@@ -1,0 +1,10 @@
+{
+    "id": 571400,
+    "name": "seafile-client",
+    "version": "4.2.4",
+    "created_at": "2020-08-06T13:57:10",
+    "updated_at": "2020-08-06T13:57:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seafile:seafile-client:4.2.4:*:*:*:*:seafile:*:*",
+    "to_analyse": false
+}

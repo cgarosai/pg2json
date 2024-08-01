@@ -1,0 +1,10 @@
+{
+    "id": 523910,
+    "name": "xeon_e3-1230",
+    "version": "-",
+    "created_at": "2020-04-10T17:58:22",
+    "updated_at": "2020-04-10T17:58:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e3-1230:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

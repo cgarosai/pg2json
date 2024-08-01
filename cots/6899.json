@@ -1,0 +1,10 @@
+{
+    "id": 6899,
+    "name": "zenworks_servers",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:40:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:zenworks_servers:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

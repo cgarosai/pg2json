@@ -1,0 +1,10 @@
+{
+    "id": 27873,
+    "name": "kmail_cgi",
+    "version": "-",
+    "created_at": "2009-09-10T16:53:19",
+    "updated_at": "2009-09-10T16:53:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:futomi:kmail_cgi:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

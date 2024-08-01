@@ -1,0 +1,10 @@
+{
+    "id": 349654,
+    "name": "next_generation_firewall",
+    "version": "6.5.0",
+    "created_at": "2019-08-27T09:44:19",
+    "updated_at": "2019-08-27T09:44:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forcepoint:next_generation_firewall:6.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 411218,
+    "name": "lz4",
+    "version": "1.9.2",
+    "created_at": "2019-10-28T17:18:30",
+    "updated_at": "2019-10-28T17:18:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lz4_project:lz4:1.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

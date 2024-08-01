@@ -1,0 +1,10 @@
+{
+    "id": 462633,
+    "name": "svn5600_firmware",
+    "version": "v500r005c20",
+    "created_at": "2020-01-05T14:50:39",
+    "updated_at": "2020-01-05T14:50:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:svn5600_firmware:v500r005c20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

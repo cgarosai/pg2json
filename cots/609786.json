@@ -1,0 +1,10 @@
+{
+    "id": 609786,
+    "name": "mpd",
+    "version": "-",
+    "created_at": "2020-10-07T10:14:29",
+    "updated_at": "2020-10-07T10:14:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mpd_project:mpd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

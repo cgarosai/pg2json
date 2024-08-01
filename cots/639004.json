@@ -1,0 +1,10 @@
+{
+    "id": 639004,
+    "name": "n560-4-sys_firmware",
+    "version": "0.14",
+    "created_at": "2020-12-18T13:17:06",
+    "updated_at": "2020-12-18T13:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:n560-4-sys_firmware:0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

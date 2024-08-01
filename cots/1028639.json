@@ -1,0 +1,10 @@
+{
+    "id": 1028639,
+    "name": "thinkserver_ts460_firmware",
+    "version": "tb1ts307",
+    "created_at": "2023-02-07T16:28:20",
+    "updated_at": "2023-02-14T18:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkserver_ts460_firmware:tb1ts307:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

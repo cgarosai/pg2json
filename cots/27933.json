@@ -1,0 +1,10 @@
+{
+    "id": 27933,
+    "name": "bugzilla",
+    "version": "3.5",
+    "created_at": "2009-09-16T14:37:53",
+    "updated_at": "2012-01-05T18:28:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:bugzilla:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

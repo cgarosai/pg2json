@@ -1,0 +1,10 @@
+{
+    "id": 338284,
+    "name": "console-io",
+    "version": "1.7.10",
+    "created_at": "2019-08-12T15:35:13",
+    "updated_at": "2019-08-12T15:35:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:console-io_project:console-io:1.7.10:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

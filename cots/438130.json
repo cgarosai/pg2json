@@ -1,0 +1,10 @@
+{
+    "id": 438130,
+    "name": "tesseract",
+    "version": "2.04",
+    "created_at": "2019-11-15T14:50:02",
+    "updated_at": "2021-08-16T13:12:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tesseract_project:tesseract:2.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

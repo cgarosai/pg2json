@@ -1,0 +1,10 @@
+{
+    "id": 861379,
+    "name": "ignition",
+    "version": "8.0.11",
+    "created_at": "2022-04-07T14:12:20",
+    "updated_at": "2022-04-25T14:17:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inductiveautomation:ignition:8.0.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 892782,
+    "name": "motor_admin",
+    "version": "0.0.5",
+    "created_at": "2022-06-27T17:04:42",
+    "updated_at": "2022-06-29T13:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getmotoradmin:motor_admin:0.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

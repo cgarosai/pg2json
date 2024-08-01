@@ -1,0 +1,10 @@
+{
+    "id": 856589,
+    "name": "talent_acquisition_cloud",
+    "version": "-",
+    "created_at": "2022-03-02T15:35:52",
+    "updated_at": "2022-05-18T11:06:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:talent_acquisition_cloud:-:*:*:*:taleo_enterprise:*:*:*",
+    "to_analyse": false
+}

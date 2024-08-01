@@ -1,0 +1,10 @@
+{
+    "id": 115409,
+    "name": "application_management",
+    "version": "12.2",
+    "created_at": "2016-02-17T16:55:47",
+    "updated_at": "2016-02-17T16:55:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:application_management:12.2:*:*:*:*:e-business_suite:*:*",
+    "to_analyse": false
+}

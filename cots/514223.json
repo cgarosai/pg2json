@@ -1,0 +1,10 @@
+{
+    "id": 514223,
+    "name": "dvr04b_firmware",
+    "version": "-",
+    "created_at": "2020-03-31T14:23:50",
+    "updated_at": "2020-03-31T14:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:swann:dvr04b_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

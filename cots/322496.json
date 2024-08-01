@@ -1,0 +1,10 @@
+{
+    "id": 322496,
+    "name": "webdrvr",
+    "version": "2.35.0-5",
+    "created_at": "2019-08-02T10:02:21",
+    "updated_at": "2019-08-02T10:02:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webdrvr_project:webdrvr:2.35.0-5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

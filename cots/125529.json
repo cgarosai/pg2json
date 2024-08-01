@@ -1,0 +1,10 @@
+{
+    "id": 125529,
+    "name": "plc_winproladder_firmware",
+    "version": "3.11",
+    "created_at": "2017-03-03T03:15:12",
+    "updated_at": "2021-10-19T14:38:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fatek:plc_winproladder_firmware:3.11:build_14701:*:*:*:*:*:*",
+    "to_analyse": false
+}

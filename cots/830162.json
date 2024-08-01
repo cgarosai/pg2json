@@ -1,0 +1,10 @@
+{
+    "id": 830162,
+    "name": "live_chat",
+    "version": "0.24",
+    "created_at": "2022-01-24T16:59:15",
+    "updated_at": "2022-01-25T18:41:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crisp:live_chat:0.24:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

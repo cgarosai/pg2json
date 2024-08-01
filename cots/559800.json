@@ -1,0 +1,10 @@
+{
+    "id": 559800,
+    "name": "graphql-playground-html",
+    "version": "1.4.4",
+    "created_at": "2020-06-11T13:46:56",
+    "updated_at": "2020-06-11T13:46:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prisma:graphql-playground-html:1.4.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

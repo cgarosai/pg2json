@@ -1,0 +1,10 @@
+{
+    "id": 281218,
+    "name": "name_server_daemon",
+    "version": "4.1.15",
+    "created_at": "2019-07-10T14:59:29",
+    "updated_at": "2019-07-10T14:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nlnetlabs:name_server_daemon:4.1.15:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

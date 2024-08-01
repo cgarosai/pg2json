@@ -1,0 +1,10 @@
+{
+    "id": 230543,
+    "name": "loofah",
+    "version": "2.2.3",
+    "created_at": "2019-05-08T15:04:05",
+    "updated_at": "2019-05-08T15:04:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:loofah_project:loofah:2.2.3:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

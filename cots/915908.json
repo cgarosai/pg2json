@@ -1,0 +1,10 @@
+{
+    "id": 915908,
+    "name": "nexus_dashboard",
+    "version": "2.2",
+    "created_at": "2022-07-27T14:00:50",
+    "updated_at": "2022-07-27T14:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:nexus_dashboard:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

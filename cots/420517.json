@@ -1,0 +1,10 @@
+{
+    "id": 420517,
+    "name": "pycryptodome",
+    "version": "3.5.0",
+    "created_at": "2019-11-05T14:05:19",
+    "updated_at": "2024-01-11T14:28:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:pycryptodome:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

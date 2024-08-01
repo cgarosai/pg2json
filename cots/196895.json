@@ -1,0 +1,10 @@
+{
+    "id": 196895,
+    "name": "airmax_m_xw_firmware",
+    "version": "5.6.2",
+    "created_at": "2018-12-04T21:02:54",
+    "updated_at": "2021-08-12T14:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ubnt:airmax_m_xw_firmware:5.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 36526,
+    "name": "iphone_os",
+    "version": "3.2.2",
+    "created_at": "2010-09-10T11:54:18",
+    "updated_at": "2010-11-30T22:33:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:iphone_os:3.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

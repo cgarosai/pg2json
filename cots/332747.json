@@ -1,0 +1,10 @@
+{
+    "id": 332747,
+    "name": "one",
+    "version": "-",
+    "created_at": "2019-08-16T13:04:57",
+    "updated_at": "2021-08-16T16:12:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:trezor:one:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

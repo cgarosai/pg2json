@@ -1,0 +1,10 @@
+{
+    "id": 10123,
+    "name": "iis",
+    "version": "5.0",
+    "created_at": "2007-09-12T20:54:01",
+    "updated_at": "2020-11-23T15:57:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:iis:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

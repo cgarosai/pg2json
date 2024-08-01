@@ -1,0 +1,10 @@
+{
+    "id": 1233143,
+    "name": "microsoft.data.sqlclient",
+    "version": "4.0.5",
+    "created_at": "2024-01-18T15:30:54",
+    "updated_at": "2024-01-18T15:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:microsoft.data.sqlclient:4.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

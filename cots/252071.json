@@ -1,0 +1,10 @@
+{
+    "id": 252071,
+    "name": "android_lint",
+    "version": "2.5",
+    "created_at": "2019-06-11T16:57:46",
+    "updated_at": "2019-06-11T16:57:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:android_lint:2.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

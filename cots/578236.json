@@ -1,0 +1,10 @@
+{
+    "id": 578236,
+    "name": "log_server",
+    "version": "2.1.7",
+    "created_at": "2020-07-30T15:05:22",
+    "updated_at": "2020-07-30T15:05:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagios:log_server:2.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

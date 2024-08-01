@@ -1,0 +1,10 @@
+{
+    "id": 513084,
+    "name": "firefox",
+    "version": "74.0",
+    "created_at": "2020-03-30T14:25:21",
+    "updated_at": "2020-03-30T14:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox:74.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

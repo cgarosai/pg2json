@@ -1,0 +1,10 @@
+{
+    "id": 704987,
+    "name": "openshift_application_runtimes_text-only_advisories",
+    "version": "-",
+    "created_at": "2021-05-26T17:34:41",
+    "updated_at": "2021-08-16T16:02:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_application_runtimes_text-only_advisories:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

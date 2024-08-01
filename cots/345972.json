@@ -1,0 +1,10 @@
+{
+    "id": 345972,
+    "name": "acrobat_reader_dc",
+    "version": "-",
+    "created_at": "2019-08-21T14:18:53",
+    "updated_at": "2019-08-21T14:18:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:acrobat_reader_dc:-:*:*:*:classic:*:*:*",
+    "to_analyse": false
+}

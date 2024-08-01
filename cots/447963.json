@@ -1,0 +1,10 @@
+{
+    "id": 447963,
+    "name": "nfs_volume_release",
+    "version": "0.1.2",
+    "created_at": "2019-11-27T15:23:05",
+    "updated_at": "2019-11-27T15:23:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:nfs_volume_release:0.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

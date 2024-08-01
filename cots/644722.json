@@ -1,0 +1,10 @@
+{
+    "id": 644722,
+    "name": "gst-plugins-bad",
+    "version": "0.9.3",
+    "created_at": "2021-02-01T16:46:23",
+    "updated_at": "2021-02-24T15:29:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:gst-plugins-bad:0.9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

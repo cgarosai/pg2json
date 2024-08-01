@@ -1,0 +1,10 @@
+{
+    "id": 74440,
+    "name": "substation_server",
+    "version": "2.7.0033",
+    "created_at": "2013-09-17T16:32:35",
+    "updated_at": "2013-09-18T23:11:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:subnet:substation_server:2.7.0033:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 421050,
+    "name": "phoenix",
+    "version": "1.0.3",
+    "created_at": "2019-11-05T16:48:15",
+    "updated_at": "2019-11-05T16:48:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phoenixframework:phoenix:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

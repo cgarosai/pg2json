@@ -1,0 +1,10 @@
+{
+    "id": 665292,
+    "name": "scrapbox-parser",
+    "version": "2.5.2",
+    "created_at": "2021-02-23T15:03:22",
+    "updated_at": "2021-03-04T15:03:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scrapbox-parser_project:scrapbox-parser:2.5.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

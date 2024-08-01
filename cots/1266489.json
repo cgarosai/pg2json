@@ -1,0 +1,10 @@
+{
+    "id": 1266489,
+    "name": "enterprise_server",
+    "version": "2.10.17",
+    "created_at": "2024-03-05T16:50:37",
+    "updated_at": "2024-03-05T16:50:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:github:enterprise_server:2.10.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

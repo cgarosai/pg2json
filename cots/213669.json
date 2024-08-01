@@ -1,0 +1,10 @@
+{
+    "id": 213669,
+    "name": "openvino",
+    "version": "2018",
+    "created_at": "2019-04-01T12:09:18",
+    "updated_at": "2019-04-01T12:09:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:openvino:2018:r3:*:*:*:*:*:*",
+    "to_analyse": false
+}

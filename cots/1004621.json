@@ -1,0 +1,10 @@
+{
+    "id": 1004621,
+    "name": "horus",
+    "version": "-",
+    "created_at": "2023-01-11T13:59:35",
+    "updated_at": "2023-01-12T12:57:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pylonsproject:horus:-:*:*:*:*:pyramid:*:*",
+    "to_analyse": false
+}

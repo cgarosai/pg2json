@@ -1,0 +1,10 @@
+{
+    "id": 230672,
+    "name": "bigfix_platform",
+    "version": "9.5.9",
+    "created_at": "2019-05-08T16:37:20",
+    "updated_at": "2019-05-08T16:37:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:bigfix_platform:9.5.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

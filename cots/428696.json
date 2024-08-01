@@ -1,0 +1,10 @@
+{
+    "id": 428696,
+    "name": "wasdk",
+    "version": "1.0.7",
+    "created_at": "2019-11-04T16:47:59",
+    "updated_at": "2019-11-04T16:47:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wasdk_project:wasdk:1.0.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1160077,
+    "name": "dell_wyse_management_suite_repository",
+    "version": "3.8",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:dell_wyse_management_suite_repository:3.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

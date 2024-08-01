@@ -1,0 +1,10 @@
+{
+    "id": 399234,
+    "name": "qradar_network_insights",
+    "version": "7.2.8",
+    "created_at": "2019-10-01T12:07:16",
+    "updated_at": "2019-10-01T12:07:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:qradar_network_insights:7.2.8:p6:*:*:*:*:*:*",
+    "to_analyse": false
+}

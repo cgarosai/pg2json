@@ -1,0 +1,10 @@
+{
+    "id": 448174,
+    "name": "postgresql-common",
+    "version": "196",
+    "created_at": "2019-11-27T17:29:12",
+    "updated_at": "2019-11-27T17:29:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postgresql:postgresql-common:196:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

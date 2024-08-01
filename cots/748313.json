@@ -1,0 +1,10 @@
+{
+    "id": 748313,
+    "name": "fail2ban",
+    "version": "0.9.5",
+    "created_at": "2021-07-21T13:24:10",
+    "updated_at": "2021-07-21T13:38:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fail2ban:fail2ban:0.9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

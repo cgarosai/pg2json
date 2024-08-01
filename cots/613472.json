@@ -1,0 +1,10 @@
+{
+    "id": 613472,
+    "name": "express-validators",
+    "version": "-",
+    "created_at": "2020-11-18T15:41:49",
+    "updated_at": "2020-11-18T15:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express-validators_project:express-validators:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

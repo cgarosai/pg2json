@@ -1,0 +1,10 @@
+{
+    "id": 853072,
+    "name": "heimdal_premium_security",
+    "version": "2.5.398",
+    "created_at": "2022-03-16T10:15:56",
+    "updated_at": "2022-04-01T16:21:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heimdalsecurity:heimdal_premium_security:2.5.398:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

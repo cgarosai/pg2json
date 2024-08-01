@@ -1,0 +1,10 @@
+{
+    "id": 842,
+    "name": "router_2500",
+    "version": "-",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:01:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:router_2500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 345795,
+    "name": "updater",
+    "version": "1.11",
+    "created_at": "2019-08-21T12:43:21",
+    "updated_at": "2019-08-21T12:43:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestwebsoft:updater:1.11:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

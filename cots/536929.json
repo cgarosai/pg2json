@@ -1,0 +1,10 @@
+{
+    "id": 536929,
+    "name": "endpoint_security_for_linux_threat_prevention",
+    "version": "10.5.5",
+    "created_at": "2020-04-14T17:32:50",
+    "updated_at": "2022-08-02T13:22:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mcafee:endpoint_security_for_linux_threat_prevention:10.5.5:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

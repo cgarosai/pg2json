@@ -1,0 +1,10 @@
+{
+    "id": 135362,
+    "name": "meeting_server",
+    "version": "1.8_base",
+    "created_at": "2017-09-20T17:55:31",
+    "updated_at": "2017-09-20T17:55:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:meeting_server:1.8_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1030033,
+    "name": "buddystream",
+    "version": "2.0.5",
+    "created_at": "2023-02-27T18:33:41",
+    "updated_at": "2023-02-28T17:18:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buddystream_project:buddystream:2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

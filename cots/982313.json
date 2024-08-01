@@ -1,0 +1,10 @@
+{
+    "id": 982313,
+    "name": "user_registration",
+    "version": "2.1.6",
+    "created_at": "2022-12-13T10:44:22",
+    "updated_at": "2022-12-13T10:49:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpeverest:user_registration:2.1.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

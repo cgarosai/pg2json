@@ -1,0 +1,10 @@
+{
+    "id": 639025,
+    "name": "ncs5011_firmware",
+    "version": "1.14",
+    "created_at": "2020-12-18T13:17:11",
+    "updated_at": "2020-12-18T13:17:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ncs5011_firmware:1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

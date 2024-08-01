@@ -1,0 +1,10 @@
+{
+    "id": 201142,
+    "name": "websocketpp",
+    "version": "0.4.0",
+    "created_at": "2019-02-27T14:34:01",
+    "updated_at": "2019-02-27T14:34:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zaphoyd:websocketpp:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

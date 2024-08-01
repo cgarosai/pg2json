@@ -1,0 +1,10 @@
+{
+    "id": 1168235,
+    "name": "xcode",
+    "version": "14.0",
+    "created_at": "2023-09-28T08:32:05",
+    "updated_at": "2023-09-28T08:32:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:xcode:14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

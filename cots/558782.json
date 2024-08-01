@@ -1,0 +1,10 @@
+{
+    "id": 558782,
+    "name": "browserify-hot_module_replacement",
+    "version": "0.4.0",
+    "created_at": "2020-06-08T17:06:35",
+    "updated_at": "2020-06-08T17:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:browserify-hot_module_replacement_project:browserify-hot_module_replacement:0.4.0:*:*:*:*:browserify:*:*",
+    "to_analyse": false
+}

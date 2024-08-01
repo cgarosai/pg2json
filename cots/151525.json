@@ -1,0 +1,10 @@
+{
+    "id": 151525,
+    "name": "jasperreports_server",
+    "version": "6.1.2",
+    "created_at": "2018-05-25T19:29:39",
+    "updated_at": "2021-04-23T13:09:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:jasperreports_server:6.1.2:*:*:*:*:activematrix_bpm:*:*",
+    "to_analyse": false
+}

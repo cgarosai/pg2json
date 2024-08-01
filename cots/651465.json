@@ -1,0 +1,10 @@
+{
+    "id": 651465,
+    "name": "access_policy_manager_clients",
+    "version": "7.2.1",
+    "created_at": "2021-02-16T15:25:49",
+    "updated_at": "2021-03-25T17:24:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:access_policy_manager_clients:7.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

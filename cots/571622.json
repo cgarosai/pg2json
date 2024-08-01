@@ -1,0 +1,10 @@
+{
+    "id": 571622,
+    "name": "application_control",
+    "version": "6.0.1",
+    "created_at": "2020-08-06T16:36:39",
+    "updated_at": "2020-08-06T16:36:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:application_control:6.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

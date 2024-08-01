@@ -1,0 +1,10 @@
+{
+    "id": 93924,
+    "name": "hot_cars",
+    "version": "3",
+    "created_at": "2014-11-10T15:20:34",
+    "updated_at": "2014-11-10T15:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magzter:hot_cars:3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

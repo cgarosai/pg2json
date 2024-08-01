@@ -1,0 +1,10 @@
+{
+    "id": 519144,
+    "name": "graphics_drivers",
+    "version": "15.45.29.5077",
+    "created_at": "2020-03-23T10:34:00",
+    "updated_at": "2020-03-23T10:42:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_drivers:15.45.29.5077:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

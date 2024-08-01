@@ -1,0 +1,10 @@
+{
+    "id": 722610,
+    "name": "striptags",
+    "version": "3.1.1",
+    "created_at": "2021-06-24T13:55:31",
+    "updated_at": "2021-06-24T15:11:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:striptags_project:striptags:3.1.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

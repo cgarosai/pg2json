@@ -1,0 +1,10 @@
+{
+    "id": 699722,
+    "name": "ffmpegdotjs",
+    "version": "-",
+    "created_at": "2021-04-22T12:38:15",
+    "updated_at": "2021-04-26T12:56:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ffmpegdotjs_project:ffmpegdotjs:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

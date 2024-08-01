@@ -1,0 +1,10 @@
+{
+    "id": 740378,
+    "name": "aports",
+    "version": "2.1.0",
+    "created_at": "2021-07-23T14:17:23",
+    "updated_at": "2021-07-23T14:48:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alpinelinux:aports:2.1.0:rc2:*:*:*:alpine:*:*",
+    "to_analyse": false
+}

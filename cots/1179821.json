@@ -1,0 +1,10 @@
+{
+    "id": 1179821,
+    "name": "gutenberg",
+    "version": "16.5.0",
+    "created_at": "2023-10-16T11:59:53",
+    "updated_at": "2023-10-16T11:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress:gutenberg:16.5.0:-:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

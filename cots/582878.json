@@ -1,0 +1,10 @@
+{
+    "id": 582878,
+    "name": "clv620_firmware",
+    "version": "-",
+    "created_at": "2020-09-01T09:03:51",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:clv620_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

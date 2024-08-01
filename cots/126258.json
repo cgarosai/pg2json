@@ -1,0 +1,10 @@
+{
+    "id": 126258,
+    "name": "ntp",
+    "version": "4.3.93",
+    "created_at": "2017-03-29T14:58:59",
+    "updated_at": "2017-03-29T14:58:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ntp:ntp:4.3.93:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1266046,
+    "name": "s8300",
+    "version": "r2.0.0",
+    "created_at": "2024-02-29T16:27:10",
+    "updated_at": "2024-02-29T16:27:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:avaya:s8300:r2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 433236,
+    "name": "session_border_controller_for_enterprise_firmware",
+    "version": "6.3",
+    "created_at": "2019-11-20T18:19:49",
+    "updated_at": "2021-05-18T15:06:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:avaya:session_border_controller_for_enterprise_firmware:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

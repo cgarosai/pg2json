@@ -1,0 +1,10 @@
+{
+    "id": 499323,
+    "name": "jsreport",
+    "version": "1.0.5",
+    "created_at": "2020-02-20T19:12:17",
+    "updated_at": "2020-02-20T19:12:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jsreport:jsreport:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

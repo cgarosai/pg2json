@@ -1,0 +1,10 @@
+{
+    "id": 528171,
+    "name": "prime_collaboration_provisioning",
+    "version": "12.6",
+    "created_at": "2020-04-02T10:37:29",
+    "updated_at": "2020-04-02T10:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:service_update1:*:*:*:*:*:*",
+    "to_analyse": false
+}

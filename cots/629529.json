@@ -1,0 +1,10 @@
+{
+    "id": 629529,
+    "name": "redcap",
+    "version": "9.7.5",
+    "created_at": "2020-12-04T19:27:13",
+    "updated_at": "2021-07-01T14:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:evms:redcap:9.7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 184573,
+    "name": "t2300_firmware",
+    "version": "-",
+    "created_at": "2018-11-26T14:39:11",
+    "updated_at": "2018-11-26T14:39:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:t2300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

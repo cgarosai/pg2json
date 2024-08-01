@@ -1,0 +1,10 @@
+{
+    "id": 434414,
+    "name": "slp-validate",
+    "version": "1.0.0",
+    "created_at": "2019-11-21T17:49:12",
+    "updated_at": "2019-11-21T17:49:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simpleledger:slp-validate:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

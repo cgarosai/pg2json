@@ -1,0 +1,10 @@
+{
+    "id": 805426,
+    "name": "nbdime",
+    "version": "1.0.6",
+    "created_at": "2021-11-03T18:50:59",
+    "updated_at": "2021-11-16T18:27:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:nbdime:1.0.6:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

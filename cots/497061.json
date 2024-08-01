@@ -1,0 +1,10 @@
+{
+    "id": 497061,
+    "name": "eagle_tester",
+    "version": "1.0.5",
+    "created_at": "2020-02-14T13:15:07",
+    "updated_at": "2020-02-14T13:15:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:eagle_tester:1.0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

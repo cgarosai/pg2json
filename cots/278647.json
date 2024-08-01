@@ -1,0 +1,10 @@
+{
+    "id": 278647,
+    "name": "rendezvous",
+    "version": "8.4.2",
+    "created_at": "2019-06-25T13:15:57",
+    "updated_at": "2019-06-25T13:15:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:rendezvous:8.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

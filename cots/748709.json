@@ -1,0 +1,10 @@
+{
+    "id": 748709,
+    "name": "bcm43684_firmware",
+    "version": "-",
+    "created_at": "2021-07-21T15:11:02",
+    "updated_at": "2021-09-23T17:36:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:bcm43684_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

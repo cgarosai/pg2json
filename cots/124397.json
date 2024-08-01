@@ -1,0 +1,10 @@
+{
+    "id": 124397,
+    "name": "guardlogix",
+    "version": "20.0",
+    "created_at": "2017-09-01T14:18:40",
+    "updated_at": "2017-09-01T14:18:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:guardlogix:20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

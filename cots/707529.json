@@ -1,0 +1,10 @@
+{
+    "id": 707529,
+    "name": "ucs-e180d-m3_firmware",
+    "version": "-",
+    "created_at": "2021-05-12T10:29:32",
+    "updated_at": "2021-05-26T12:35:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ucs-e180d-m3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

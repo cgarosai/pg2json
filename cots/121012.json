@@ -1,0 +1,10 @@
+{
+    "id": 121012,
+    "name": "oculina_mobile_banking",
+    "version": "3.0.0",
+    "created_at": "2017-06-27T11:56:38",
+    "updated_at": "2021-07-08T10:44:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oculinabank:oculina_mobile_banking:3.0.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

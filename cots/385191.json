@@ -1,0 +1,10 @@
+{
+    "id": 385191,
+    "name": "beaker_builder",
+    "version": "1.7",
+    "created_at": "2019-09-23T15:16:07",
+    "updated_at": "2019-09-23T15:16:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:beaker_builder:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

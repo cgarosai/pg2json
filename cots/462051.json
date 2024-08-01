@@ -1,0 +1,10 @@
+{
+    "id": 462051,
+    "name": "libesmtp",
+    "version": "1.0.6",
+    "created_at": "2020-01-03T17:58:06",
+    "updated_at": "2020-01-03T17:58:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libesmtp_project:libesmtp:1.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 603878,
+    "name": "websocket-extensions",
+    "version": "0.1.2",
+    "created_at": "2020-10-19T10:05:14",
+    "updated_at": "2020-10-19T10:05:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:websocket-extensions_project:websocket-extensions:0.1.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

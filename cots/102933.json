@@ -1,0 +1,10 @@
+{
+    "id": 102933,
+    "name": "rational_quality_manager",
+    "version": "5.0",
+    "created_at": "2016-01-07T18:24:23",
+    "updated_at": "2016-01-07T18:24:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:rational_quality_manager:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

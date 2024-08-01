@@ -1,0 +1,10 @@
+{
+    "id": 675769,
+    "name": "point-to-point_protocol_daemon",
+    "version": "-",
+    "created_at": "2021-03-11T14:48:21",
+    "updated_at": "2021-06-02T11:54:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freebsd:point-to-point_protocol_daemon:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

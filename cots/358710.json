@@ -1,0 +1,10 @@
+{
+    "id": 358710,
+    "name": "varnish",
+    "version": "6.0.0",
+    "created_at": "2019-09-05T12:08:20",
+    "updated_at": "2022-08-02T17:00:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:varnish-cache:varnish:6.0.0:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1006555,
+    "name": "melsec_iq-r_r02_cpu_firmware",
+    "version": "-",
+    "created_at": "2022-12-29T14:52:22",
+    "updated_at": "2022-12-30T16:24:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishi:melsec_iq-r_r02_cpu_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 772563,
+    "name": "linux_enterprise_java",
+    "version": "10",
+    "created_at": "2021-09-22T11:48:29",
+    "updated_at": "2021-09-23T17:19:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_java:10:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

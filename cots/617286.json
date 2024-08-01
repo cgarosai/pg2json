@@ -1,0 +1,10 @@
+{
+    "id": 617286,
+    "name": "bufferlist",
+    "version": "0.4.2",
+    "created_at": "2020-11-03T17:56:06",
+    "updated_at": "2020-11-03T17:56:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bufferlist_project:bufferlist:0.4.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

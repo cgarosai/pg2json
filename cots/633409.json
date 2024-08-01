@@ -1,0 +1,10 @@
+{
+    "id": 633409,
+    "name": "r6120_firmware",
+    "version": "1.0.0.72",
+    "created_at": "2021-01-04T14:09:17",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6120_firmware:1.0.0.72:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 78313,
+    "name": "adaptive_security_appliance_clientless_ssl_vpn",
+    "version": "-",
+    "created_at": "2013-04-19T12:14:56",
+    "updated_at": "2013-04-24T11:25:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:adaptive_security_appliance_clientless_ssl_vpn:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

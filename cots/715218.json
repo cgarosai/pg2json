@@ -1,0 +1,10 @@
+{
+    "id": 715218,
+    "name": "750-832_firmware",
+    "version": "fw06",
+    "created_at": "2021-05-27T12:13:48",
+    "updated_at": "2021-05-27T13:28:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:750-832_firmware:fw06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

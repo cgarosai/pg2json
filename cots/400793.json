@@ -1,0 +1,10 @@
+{
+    "id": 400793,
+    "name": "sentinel_license_manager",
+    "version": "8.5.3.35",
+    "created_at": "2019-10-16T09:53:53",
+    "updated_at": "2019-10-16T09:53:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gemalto:sentinel_license_manager:8.5.3.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 392095,
+    "name": "scintilla",
+    "version": "1.42",
+    "created_at": "2019-10-03T13:15:20",
+    "updated_at": "2019-10-03T13:15:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scintilla:scintilla:1.42:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

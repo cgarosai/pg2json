@@ -1,0 +1,10 @@
+{
+    "id": 57653,
+    "name": "xenapp_server_role_manager",
+    "version": "1.1.0.0",
+    "created_at": "2012-05-08T11:51:52",
+    "updated_at": "2012-05-08T11:51:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xenapp_server_role_manager:1.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

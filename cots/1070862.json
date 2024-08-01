@@ -1,0 +1,10 @@
+{
+    "id": 1070862,
+    "name": "redox",
+    "version": "0.5.0",
+    "created_at": "2023-05-09T13:11:44",
+    "updated_at": "2023-05-09T15:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redox-os:redox:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

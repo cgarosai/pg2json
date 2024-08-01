@@ -1,0 +1,10 @@
+{
+    "id": 65146,
+    "name": "anyconnect_secure_mobility_client",
+    "version": "2.5.5131",
+    "created_at": "2012-07-31T19:08:26",
+    "updated_at": "2012-07-31T19:08:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:2.5.5131:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

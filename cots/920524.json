@@ -1,0 +1,10 @@
+{
+    "id": 920524,
+    "name": "security_gateway_for_email_servers",
+    "version": "8.5.3",
+    "created_at": "2022-08-25T17:54:23",
+    "updated_at": "2022-08-25T17:57:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altn:security_gateway_for_email_servers:8.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 989596,
+    "name": "mirage_firewall",
+    "version": "-",
+    "created_at": "2022-12-12T13:41:14",
+    "updated_at": "2022-12-12T15:19:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:mirage_firewall:-:*:*:*:*:qubesos:*:*",
+    "to_analyse": false
+}

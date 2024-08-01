@@ -1,0 +1,10 @@
+{
+    "id": 760413,
+    "name": "roller",
+    "version": "5.2.3",
+    "created_at": "2021-08-25T20:57:53",
+    "updated_at": "2021-08-26T09:29:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:roller:5.2.3:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

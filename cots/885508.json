@@ -1,0 +1,10 @@
+{
+    "id": 885508,
+    "name": "argo_workflows",
+    "version": "2.10.0",
+    "created_at": "2022-05-16T12:10:35",
+    "updated_at": "2022-05-16T19:13:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:argo_workflows_project:argo_workflows:2.10.0:rc4:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

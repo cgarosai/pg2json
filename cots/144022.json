@@ -1,0 +1,10 @@
+{
+    "id": 144022,
+    "name": "catalyst_6500-e",
+    "version": "-",
+    "created_at": "2018-05-23T18:54:36",
+    "updated_at": "2021-04-19T17:12:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_6500-e:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

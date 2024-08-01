@@ -1,0 +1,10 @@
+{
+    "id": 627565,
+    "name": "archive_tar",
+    "version": "1.4.9",
+    "created_at": "2020-12-02T14:35:27",
+    "updated_at": "2020-12-02T14:35:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php:archive_tar:1.4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

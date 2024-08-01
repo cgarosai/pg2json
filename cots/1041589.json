@@ -1,0 +1,10 @@
+{
+    "id": 1041589,
+    "name": "zephyr_enterprise",
+    "version": "6.6.6",
+    "created_at": "2023-03-13T12:19:44",
+    "updated_at": "2023-03-21T15:23:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smartbear:zephyr_enterprise:6.6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 332602,
+    "name": "mailchimp",
+    "version": "4.5.0",
+    "created_at": "2019-08-16T12:00:01",
+    "updated_at": "2019-08-16T12:00:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibericode:mailchimp:4.5.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 469077,
+    "name": "hs-tls",
+    "version": "0.2.3",
+    "created_at": "2019-12-20T18:23:23",
+    "updated_at": "2019-12-20T18:23:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haskell:hs-tls:0.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

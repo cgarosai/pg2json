@@ -1,0 +1,10 @@
+{
+    "id": 411182,
+    "name": "repetier-server",
+    "version": "0.91",
+    "created_at": "2019-10-28T17:09:09",
+    "updated_at": "2019-10-28T17:09:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:repetier-server:repetier-server:0.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

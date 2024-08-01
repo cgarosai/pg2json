@@ -1,0 +1,10 @@
+{
+    "id": 495366,
+    "name": "im-resize",
+    "version": "1.0.0",
+    "created_at": "2020-02-11T15:01:07",
+    "updated_at": "2020-02-11T15:01:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dnt:im-resize:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

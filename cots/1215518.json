@@ -1,0 +1,10 @@
+{
+    "id": 1215518,
+    "name": "common_voice",
+    "version": "1.88.2",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:common_voice:1.88.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

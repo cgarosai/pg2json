@@ -1,0 +1,10 @@
+{
+    "id": 831601,
+    "name": "mustache",
+    "version": "2.0.0",
+    "created_at": "2022-01-26T18:33:42",
+    "updated_at": "2022-03-01T13:01:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mustache_project:mustache:2.0.0:-:*:*:*:php:*:*",
+    "to_analyse": false
+}

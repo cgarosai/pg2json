@@ -1,0 +1,10 @@
+{
+    "id": 203221,
+    "name": "linux_enterprise_module_for_public_cloud",
+    "version": "12",
+    "created_at": "2019-03-01T16:34:58",
+    "updated_at": "2021-08-12T17:29:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:linux_enterprise_module_for_public_cloud:12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

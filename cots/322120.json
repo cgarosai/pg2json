@@ -1,0 +1,10 @@
+{
+    "id": 322120,
+    "name": "sysconfig",
+    "version": "0.70.4",
+    "created_at": "2019-08-01T15:52:18",
+    "updated_at": "2019-08-01T15:52:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:sysconfig:0.70.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

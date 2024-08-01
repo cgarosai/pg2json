@@ -1,0 +1,10 @@
+{
+    "id": 707400,
+    "name": "neomutt",
+    "version": "20210504",
+    "created_at": "2021-05-11T15:19:02",
+    "updated_at": "2021-07-01T11:17:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:neomutt:neomutt:20210504:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

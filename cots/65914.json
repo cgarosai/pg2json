@@ -1,0 +1,10 @@
+{
+    "id": 65914,
+    "name": "vsphere_client",
+    "version": "4.0.0.15751",
+    "created_at": "2012-08-01T19:33:46",
+    "updated_at": "2012-08-01T19:33:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vsphere_client:4.0.0.15751:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

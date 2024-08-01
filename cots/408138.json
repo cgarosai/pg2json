@@ -1,0 +1,10 @@
+{
+    "id": 408138,
+    "name": "combi-stream_mslq_firmware",
+    "version": "ethernet_r07",
+    "created_at": "2019-10-10T15:02:29",
+    "updated_at": "2021-07-01T15:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:ethernet_r07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

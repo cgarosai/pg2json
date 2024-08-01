@@ -1,0 +1,10 @@
+{
+    "id": 544304,
+    "name": "openshift_origin",
+    "version": "2014-08-13",
+    "created_at": "2020-05-27T17:52:12",
+    "updated_at": "2020-05-27T17:52:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_origin:2014-08-13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

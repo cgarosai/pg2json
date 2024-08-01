@@ -1,0 +1,10 @@
+{
+    "id": 87338,
+    "name": "unified_ip_phone_firmware",
+    "version": "-",
+    "created_at": "2013-11-14T18:56:59",
+    "updated_at": "2014-03-03T18:57:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:unified_ip_phone_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

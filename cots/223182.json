@@ -1,0 +1,10 @@
+{
+    "id": 223182,
+    "name": "npcap",
+    "version": "0.992",
+    "created_at": "2019-04-24T14:36:55",
+    "updated_at": "2019-04-24T14:36:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nmap:npcap:0.992:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

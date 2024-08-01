@@ -1,0 +1,10 @@
+{
+    "id": 735036,
+    "name": "deception",
+    "version": "9.3.3",
+    "created_at": "2021-06-29T15:06:41",
+    "updated_at": "2021-06-29T16:47:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fidelissecurity:deception:9.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

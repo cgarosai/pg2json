@@ -1,0 +1,10 @@
+{
+    "id": 170712,
+    "name": "bitbucket",
+    "version": "3.11.6",
+    "created_at": "2018-10-11T12:37:05",
+    "updated_at": "2018-10-11T12:37:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:bitbucket:3.11.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 551895,
+    "name": "server",
+    "version": "5.22.0",
+    "created_at": "2020-06-19T13:37:42",
+    "updated_at": "2020-06-19T17:30:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mattermost:server:5.22.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57702,
+    "name": "commnet_browser",
+    "version": "9.0.0",
+    "created_at": "2012-05-08T11:52:06",
+    "updated_at": "2012-05-08T11:52:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commvault:commnet_browser:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

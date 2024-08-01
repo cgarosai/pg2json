@@ -1,0 +1,10 @@
+{
+    "id": 646215,
+    "name": "cbox",
+    "version": "0.1.0",
+    "created_at": "2021-01-07T16:11:51",
+    "updated_at": "2021-01-07T16:11:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cbox_project:cbox:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

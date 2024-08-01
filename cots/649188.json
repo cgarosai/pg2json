@@ -1,0 +1,10 @@
+{
+    "id": 649188,
+    "name": "wireless_lan_controller",
+    "version": "8.8.130.0",
+    "created_at": "2021-01-14T18:38:47",
+    "updated_at": "2021-04-16T13:01:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:wireless_lan_controller:8.8.130.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

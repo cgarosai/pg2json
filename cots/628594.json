@@ -1,0 +1,10 @@
+{
+    "id": 628594,
+    "name": "duo_network_gateway",
+    "version": "1.5.7",
+    "created_at": "2020-12-03T12:33:11",
+    "updated_at": "2020-12-03T12:33:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:duo_network_gateway:1.5.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

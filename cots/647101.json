@@ -1,0 +1,10 @@
+{
+    "id": 647101,
+    "name": "vsphere",
+    "version": "-",
+    "created_at": "2021-01-11T14:43:54",
+    "updated_at": "2021-05-28T14:36:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vmware:vsphere:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

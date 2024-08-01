@@ -1,0 +1,10 @@
+{
+    "id": 587003,
+    "name": "sf250-48hp_firmware",
+    "version": "-",
+    "created_at": "2020-08-18T09:04:21",
+    "updated_at": "2021-04-23T13:26:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sf250-48hp_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

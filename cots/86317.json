@@ -1,0 +1,10 @@
+{
+    "id": 86317,
+    "name": "libtar",
+    "version": "1.2.20",
+    "created_at": "2013-10-18T14:46:23",
+    "updated_at": "2013-10-25T14:38:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:feep:libtar:1.2.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

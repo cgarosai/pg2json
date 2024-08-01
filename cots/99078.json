@@ -1,0 +1,10 @@
+{
+    "id": 99078,
+    "name": "access_gateway_plug-in",
+    "version": "9.0",
+    "created_at": "2014-06-18T15:58:56",
+    "updated_at": "2014-06-20T00:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:access_gateway_plug-in:9.0:*:*:*:enterprise:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 476918,
+    "name": "xeon_e3-1578l_v5_firmware",
+    "version": "-",
+    "created_at": "2020-01-13T13:16:19",
+    "updated_at": "2020-01-13T13:16:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1578l_v5_firmware:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

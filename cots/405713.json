@@ -1,0 +1,10 @@
+{
+    "id": 405713,
+    "name": "deeply",
+    "version": "-",
+    "created_at": "2019-10-08T12:48:40",
+    "updated_at": "2019-10-08T12:48:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deeply_project:deeply:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

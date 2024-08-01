@@ -1,0 +1,10 @@
+{
+    "id": 845548,
+    "name": "whatsapp_business",
+    "version": "2.21.23.2",
+    "created_at": "2022-02-03T15:03:02",
+    "updated_at": "2022-06-14T11:29:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whatsapp:whatsapp_business:2.21.23.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

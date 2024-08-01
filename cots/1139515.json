@@ -1,0 +1,10 @@
+{
+    "id": 1139515,
+    "name": "catalyst_connect_zoho_crm_client_portal",
+    "version": "1.1",
+    "created_at": "2023-08-11T15:02:05",
+    "updated_at": "2023-08-16T11:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:catalystconnect:catalyst_connect_zoho_crm_client_portal:1.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

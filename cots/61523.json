@@ -1,0 +1,10 @@
+{
+    "id": 61523,
+    "name": "webwork",
+    "version": "-",
+    "created_at": "2012-10-31T17:07:19",
+    "updated_at": "2012-11-01T01:00:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensymphony:webwork:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

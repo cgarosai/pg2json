@@ -1,0 +1,10 @@
+{
+    "id": 680964,
+    "name": "etrust_siteminder_policy_server",
+    "version": "12.0.102.414",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T14:37:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 752431,
+    "name": "powervm",
+    "version": "fw940",
+    "created_at": "2021-08-10T11:55:36",
+    "updated_at": "2021-09-07T17:02:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:powervm:fw940:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

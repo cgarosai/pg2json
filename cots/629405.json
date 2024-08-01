@@ -1,0 +1,10 @@
+{
+    "id": 629405,
+    "name": "jboss_middleware_text-only_advisories",
+    "version": "-",
+    "created_at": "2020-12-04T17:49:37",
+    "updated_at": "2020-12-04T17:49:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_middleware_text-only_advisories:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

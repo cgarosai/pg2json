@@ -1,0 +1,10 @@
+{
+    "id": 337075,
+    "name": "glance",
+    "version": "3.0.5",
+    "created_at": "2019-08-12T09:28:49",
+    "updated_at": "2019-08-12T09:28:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glance_project:glance:3.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

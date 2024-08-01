@@ -1,0 +1,10 @@
+{
+    "id": 527924,
+    "name": "wavefront_by_vmware_nozzle",
+    "version": "-",
+    "created_at": "2020-04-01T18:20:31",
+    "updated_at": "2020-04-01T18:20:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wavefront:wavefront_by_vmware_nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

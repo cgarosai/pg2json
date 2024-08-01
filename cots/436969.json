@@ -1,0 +1,10 @@
+{
+    "id": 436969,
+    "name": "wpml",
+    "version": "1.3.4",
+    "created_at": "2019-11-13T12:09:21",
+    "updated_at": "2019-11-13T12:09:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpml:wpml:1.3.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

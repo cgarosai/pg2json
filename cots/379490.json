@@ -1,0 +1,10 @@
+{
+    "id": 379490,
+    "name": "mcstatic",
+    "version": "0.0.19",
+    "created_at": "2019-09-19T13:19:32",
+    "updated_at": "2019-09-19T13:19:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcstatic_project:mcstatic:0.0.19:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

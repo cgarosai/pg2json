@@ -1,0 +1,10 @@
+{
+    "id": 294476,
+    "name": "pgpooladmin",
+    "version": "3.2.2",
+    "created_at": "2019-07-18T13:05:39",
+    "updated_at": "2019-07-18T13:05:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pgpool:pgpooladmin:3.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

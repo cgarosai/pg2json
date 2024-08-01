@@ -1,0 +1,10 @@
+{
+    "id": 100515,
+    "name": "secret_server",
+    "version": "8.7.000000",
+    "created_at": "2015-07-02T14:03:54",
+    "updated_at": "2015-07-06T15:09:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thycotic:secret_server:8.7.000000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

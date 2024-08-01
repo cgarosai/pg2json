@@ -1,0 +1,10 @@
+{
+    "id": 10211,
+    "name": "sharepoint_portal_server",
+    "version": "2001",
+    "created_at": "2007-09-12T20:55:18",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_portal_server:2001:sp2a:*:*:*:*:*:*",
+    "to_analyse": false
+}

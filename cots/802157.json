@@ -1,0 +1,10 @@
+{
+    "id": 802157,
+    "name": "zoom_on-premise_virtual_room_connector",
+    "version": "-",
+    "created_at": "2021-11-16T14:27:55",
+    "updated_at": "2021-11-16T15:44:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:zoom_on-premise_virtual_room_connector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

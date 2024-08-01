@@ -1,0 +1,10 @@
+{
+    "id": 630032,
+    "name": "sparc_enterprise_m4000_firmware",
+    "version": "xcp",
+    "created_at": "2020-12-21T14:46:14",
+    "updated_at": "2020-12-21T14:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:sparc_enterprise_m4000_firmware:xcp:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 557464,
+    "name": "sane_backends",
+    "version": "1.0.23",
+    "created_at": "2020-06-02T14:08:14",
+    "updated_at": "2020-06-02T14:08:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sane-project:sane_backends:1.0.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

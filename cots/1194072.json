@@ -1,0 +1,10 @@
+{
+    "id": 1194072,
+    "name": "payara",
+    "version": "4.1.2.191",
+    "created_at": "2023-11-22T20:10:08",
+    "updated_at": "2023-11-22T20:10:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:payara:payara:4.1.2.191:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

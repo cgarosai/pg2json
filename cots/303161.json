@@ -1,0 +1,10 @@
+{
+    "id": 303161,
+    "name": "localizer",
+    "version": "5.x-2.x",
+    "created_at": "2019-07-24T11:51:54",
+    "updated_at": "2019-07-24T11:51:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:localizer_project:localizer:5.x-2.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1001372,
+    "name": "sasl",
+    "version": "0.3.0",
+    "created_at": "2023-01-05T15:33:10",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mellium:sasl:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

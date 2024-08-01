@@ -1,0 +1,10 @@
+{
+    "id": 520984,
+    "name": "http4s",
+    "version": "0.8.6",
+    "created_at": "2020-04-07T13:09:37",
+    "updated_at": "2020-04-07T13:09:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typelevel:http4s:0.8.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 90860,
+    "name": "e355_firmware",
+    "version": "21.157.37.01.910",
+    "created_at": "2014-07-24T16:41:37",
+    "updated_at": "2014-07-24T16:53:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:e355_firmware:21.157.37.01.910:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

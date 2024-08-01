@@ -1,0 +1,10 @@
+{
+    "id": 879465,
+    "name": "manager_for_storage_management",
+    "version": "13.4.0.0",
+    "created_at": "2022-04-28T14:49:15",
+    "updated_at": "2022-09-12T11:54:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 673706,
+    "name": "monitor_wall",
+    "version": "-",
+    "created_at": "2021-03-25T16:57:01",
+    "updated_at": "2021-03-30T13:03:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:monitor_wall:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

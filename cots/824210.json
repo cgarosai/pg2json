@@ -1,0 +1,10 @@
+{
+    "id": 824210,
+    "name": "simple_asn1",
+    "version": "0.6.0",
+    "created_at": "2022-01-06T00:25:40",
+    "updated_at": "2022-01-10T15:04:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_asn1_project:simple_asn1:0.6.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

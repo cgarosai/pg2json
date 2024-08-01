@@ -1,0 +1,10 @@
+{
+    "id": 1021180,
+    "name": "hp_mt21_mobile_thin_client_firmware",
+    "version": "01.21.01",
+    "created_at": "2023-02-10T11:24:27",
+    "updated_at": "2023-02-16T19:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:hp_mt21_mobile_thin_client_firmware:01.21.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

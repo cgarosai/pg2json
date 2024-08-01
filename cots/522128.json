@@ -1,0 +1,10 @@
+{
+    "id": 522128,
+    "name": "s9300_firmware",
+    "version": "v200r002c00spc100",
+    "created_at": "2020-04-07T16:58:13",
+    "updated_at": "2020-04-07T16:58:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s9300_firmware:v200r002c00spc100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 240325,
+    "name": "openmpt",
+    "version": "1.24.04.00",
+    "created_at": "2019-06-03T14:23:48",
+    "updated_at": "2019-06-03T14:23:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmpt:openmpt:1.24.04.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

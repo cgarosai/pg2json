@@ -1,0 +1,10 @@
+{
+    "id": 1267032,
+    "name": "axis_os_2020",
+    "version": "9.80.55",
+    "created_at": "2024-03-07T14:11:11",
+    "updated_at": "2024-03-07T14:11:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:axis_os_2020:9.80.55:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

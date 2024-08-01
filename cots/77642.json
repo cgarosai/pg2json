@@ -1,0 +1,10 @@
+{
+    "id": 77642,
+    "name": "gpu_driver",
+    "version": "304.00",
+    "created_at": "2013-04-09T12:39:45",
+    "updated_at": "2013-04-09T19:32:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*",
+    "to_analyse": false
+}

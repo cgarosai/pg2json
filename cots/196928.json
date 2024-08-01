@@ -1,0 +1,10 @@
+{
+    "id": 196928,
+    "name": "rt-ac3100_firmware",
+    "version": "-",
+    "created_at": "2018-12-06T13:38:01",
+    "updated_at": "2018-12-06T13:38:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:asuswrt-merlin_project:rt-ac3100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

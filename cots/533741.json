@@ -1,0 +1,10 @@
+{
+    "id": 533741,
+    "name": "last.fm_desktop",
+    "version": "2.1.30",
+    "created_at": "2020-05-04T12:13:04",
+    "updated_at": "2020-05-04T12:13:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:last.fm:last.fm_desktop:2.1.30:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

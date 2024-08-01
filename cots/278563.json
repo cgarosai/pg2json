@@ -1,0 +1,10 @@
+{
+    "id": 278563,
+    "name": "rules_link",
+    "version": "7.x-1.0",
+    "created_at": "2019-06-25T12:09:38",
+    "updated_at": "2019-06-25T12:09:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rules_link_project:rules_link:7.x-1.0:beta3:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

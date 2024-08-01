@@ -1,0 +1,10 @@
+{
+    "id": 184311,
+    "name": "vedge_1000_firmware",
+    "version": "18.3.0",
+    "created_at": "2018-11-26T14:03:15",
+    "updated_at": "2018-11-26T14:03:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vedge_1000_firmware:18.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

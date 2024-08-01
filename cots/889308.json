@@ -1,0 +1,10 @@
+{
+    "id": 889308,
+    "name": "proton",
+    "version": "0.2.0",
+    "created_at": "2022-05-27T01:56:05",
+    "updated_at": "2022-10-25T15:18:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proton_project:proton:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

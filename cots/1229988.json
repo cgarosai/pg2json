@@ -1,0 +1,10 @@
+{
+    "id": 1229988,
+    "name": "optane_memory_h20_with_solid_state_storage_firmware",
+    "version": "u4110553-g004",
+    "created_at": "2023-12-29T17:13:53",
+    "updated_at": "2023-12-29T17:13:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:optane_memory_h20_with_solid_state_storage_firmware:u4110553-g004:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100302,
+    "name": "asr_5000_series_software",
+    "version": "18.0.l059219",
+    "created_at": "2015-06-22T10:14:41",
+    "updated_at": "2015-06-22T15:51:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:asr_5000_series_software:18.0.l059219:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

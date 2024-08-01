@@ -1,0 +1,10 @@
+{
+    "id": 863067,
+    "name": "ad_inserter",
+    "version": "2.6.23",
+    "created_at": "2022-04-11T13:08:21",
+    "updated_at": "2022-04-12T15:29:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ad_inserter_project:ad_inserter:2.6.23:*:*:*:free:wordpress:*:*",
+    "to_analyse": false
+}

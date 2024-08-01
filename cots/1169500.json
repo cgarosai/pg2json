@@ -1,0 +1,10 @@
+{
+    "id": 1169500,
+    "name": "spring_boot_admin",
+    "version": "3.1.0",
+    "created_at": "2023-09-28T14:39:08",
+    "updated_at": "2023-09-28T14:39:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codecentric:spring_boot_admin:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

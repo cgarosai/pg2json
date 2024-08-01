@@ -1,0 +1,10 @@
+{
+    "id": 61977,
+    "name": "subuser",
+    "version": "7.x-2.0",
+    "created_at": "2012-11-05T13:29:34",
+    "updated_at": "2012-11-13T22:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:boombatower:subuser:7.x-2.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

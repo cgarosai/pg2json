@@ -1,0 +1,10 @@
+{
+    "id": 1008726,
+    "name": "freepbx",
+    "version": "16.0.66.3",
+    "created_at": "2023-01-04T13:52:16",
+    "updated_at": "2023-01-04T14:15:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sangoma:freepbx:16.0.66.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

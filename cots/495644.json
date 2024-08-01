@@ -1,0 +1,10 @@
+{
+    "id": 495644,
+    "name": "application_policy_infrastructure_controller",
+    "version": "3.2\\(9b\\)",
+    "created_at": "2020-02-11T16:49:21",
+    "updated_at": "2020-02-11T16:49:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:application_policy_infrastructure_controller:3.2\\(9b\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

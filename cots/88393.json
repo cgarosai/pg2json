@@ -1,0 +1,10 @@
+{
+    "id": 88393,
+    "name": "nagiosql",
+    "version": "3.2",
+    "created_at": "2013-12-11T18:11:08",
+    "updated_at": "2013-12-11T18:13:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagiosql:nagiosql:3.2:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

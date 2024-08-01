@@ -1,0 +1,10 @@
+{
+    "id": 1095912,
+    "name": "favorites",
+    "version": "2.0.1",
+    "created_at": "2023-06-05T11:53:57",
+    "updated_at": "2023-06-05T11:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:favorites_project:favorites:2.0.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

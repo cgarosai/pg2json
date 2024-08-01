@@ -1,0 +1,10 @@
+{
+    "id": 531370,
+    "name": "arcsight_enterprise_security_manager_express",
+    "version": "6.9.0c",
+    "created_at": "2020-04-28T15:24:32",
+    "updated_at": "2020-04-28T15:24:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:arcsight_enterprise_security_manager_express:6.9.0c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

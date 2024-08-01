@@ -1,0 +1,10 @@
+{
+    "id": 338886,
+    "name": "wall_display",
+    "version": "0.6.10",
+    "created_at": "2019-08-13T10:50:44",
+    "updated_at": "2019-08-13T10:50:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:wall_display:0.6.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

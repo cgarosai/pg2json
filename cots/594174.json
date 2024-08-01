@@ -1,0 +1,10 @@
+{
+    "id": 594174,
+    "name": "simatic_hmi_ktp700f_mobile_arctic_firmware",
+    "version": "-",
+    "created_at": "2020-09-24T09:40:11",
+    "updated_at": "2020-09-24T09:40:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_hmi_ktp700f_mobile_arctic_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

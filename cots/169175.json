@@ -1,0 +1,10 @@
+{
+    "id": 169175,
+    "name": "ip_phone_firmware",
+    "version": "9.4\\(2\\)sr3.1",
+    "created_at": "2018-07-18T15:36:20",
+    "updated_at": "2021-04-21T15:26:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_firmware:9.4\\(2\\)sr3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 400318,
+    "name": "dicom_standard",
+    "version": "2014b",
+    "created_at": "2019-10-15T15:12:00",
+    "updated_at": "2019-10-15T15:12:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nema:dicom_standard:2014b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

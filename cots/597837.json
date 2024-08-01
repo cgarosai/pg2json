@@ -1,0 +1,10 @@
+{
+    "id": 597837,
+    "name": "modicon_m218_firmware",
+    "version": "5.0.0.7",
+    "created_at": "2020-09-09T19:40:16",
+    "updated_at": "2022-01-31T18:52:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:5.0.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

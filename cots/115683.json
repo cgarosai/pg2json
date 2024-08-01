@@ -1,0 +1,10 @@
+{
+    "id": 115683,
+    "name": "encryption_management_server",
+    "version": "3.3.2",
+    "created_at": "2016-02-29T14:26:02",
+    "updated_at": "2016-02-29T14:26:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:encryption_management_server:3.3.2:mp11:*:*:*:*:*:*",
+    "to_analyse": false
+}

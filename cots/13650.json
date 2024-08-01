@@ -1,0 +1,10 @@
+{
+    "id": 13650,
+    "name": "expression_web",
+    "version": "2",
+    "created_at": "2008-11-13T15:01:04",
+    "updated_at": "2008-11-13T15:01:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:expression_web:2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

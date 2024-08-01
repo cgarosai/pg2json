@@ -1,0 +1,10 @@
+{
+    "id": 996139,
+    "name": "django-photologue",
+    "version": "2.4",
+    "created_at": "2022-12-19T15:24:29",
+    "updated_at": "2022-12-19T15:52:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-photologue_project:django-photologue:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

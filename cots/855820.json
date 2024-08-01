@@ -1,0 +1,10 @@
+{
+    "id": 855820,
+    "name": "sgt-a20_firmware",
+    "version": "-",
+    "created_at": "2022-03-01T13:45:53",
+    "updated_at": "2022-03-07T17:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sgt-a20_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

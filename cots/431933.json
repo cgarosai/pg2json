@@ -1,0 +1,10 @@
+{
+    "id": 431933,
+    "name": "vyos",
+    "version": "1.0.2",
+    "created_at": "2019-11-19T15:55:16",
+    "updated_at": "2019-11-19T15:55:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vyos:vyos:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

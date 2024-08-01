@@ -1,0 +1,10 @@
+{
+    "id": 301328,
+    "name": "spring_data_java_persistance_api",
+    "version": "1.9.4",
+    "created_at": "2019-07-23T12:12:20",
+    "updated_at": "2019-07-23T12:12:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_data_java_persistance_api:1.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

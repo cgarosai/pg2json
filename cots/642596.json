@@ -1,0 +1,10 @@
+{
+    "id": 642596,
+    "name": "enterprise_manager_for_oracle_database",
+    "version": "13.2.2",
+    "created_at": "2021-01-27T14:27:24",
+    "updated_at": "2021-01-27T14:27:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:13.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 88166,
+    "name": "connect_participant_application",
+    "version": "9.3.0",
+    "created_at": "2013-12-04T17:45:45",
+    "updated_at": "2014-02-27T23:22:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:att:connect_participant_application:9.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 7022,
+    "name": "news_module",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:41:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php-nuke:news_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

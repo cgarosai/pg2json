@@ -1,0 +1,10 @@
+{
+    "id": 1192636,
+    "name": "label_studio",
+    "version": "1.8.0",
+    "created_at": "2023-11-20T18:24:43",
+    "updated_at": "2023-11-20T18:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:humansignal:label_studio:1.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

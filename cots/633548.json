@@ -1,0 +1,10 @@
+{
+    "id": 633548,
+    "name": "nova_4_firmware",
+    "version": "-",
+    "created_at": "2021-01-04T15:38:09",
+    "updated_at": "2021-01-04T15:38:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nova_4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

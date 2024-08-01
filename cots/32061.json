@@ -1,0 +1,10 @@
+{
+    "id": 32061,
+    "name": "networker",
+    "version": "7.4",
+    "created_at": "2011-02-02T13:21:10",
+    "updated_at": "2011-05-06T14:13:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:networker:7.4:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

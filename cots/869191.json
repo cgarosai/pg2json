@@ -1,0 +1,10 @@
+{
+    "id": 869191,
+    "name": "multilin_f35_firmware",
+    "version": "-",
+    "created_at": "2022-03-31T16:14:05",
+    "updated_at": "2022-04-01T11:23:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:multilin_f35_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

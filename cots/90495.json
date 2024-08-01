@@ -1,0 +1,10 @@
+{
+    "id": 90495,
+    "name": "groupware",
+    "version": "5.0.5",
+    "created_at": "2014-07-14T16:22:52",
+    "updated_at": "2014-07-16T19:28:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:groupware:5.0.5:*:*:*:webmail:*:*:*",
+    "to_analyse": false
+}

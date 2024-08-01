@@ -1,0 +1,10 @@
+{
+    "id": 1092505,
+    "name": "notation",
+    "version": "0.10.0",
+    "created_at": "2023-06-13T17:48:27",
+    "updated_at": "2024-02-29T20:16:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:notaryproject:notation:0.10.0:alpha3:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 109211,
+    "name": "commerce_balanced_payments",
+    "version": "7.x-1.2",
+    "created_at": "2015-04-23T14:38:39",
+    "updated_at": "2015-04-23T20:13:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commerce_balanced_payments_project:commerce_balanced_payments:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

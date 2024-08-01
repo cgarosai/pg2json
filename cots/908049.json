@@ -1,0 +1,10 @@
+{
+    "id": 908049,
+    "name": "pomsky",
+    "version": "0.5",
+    "created_at": "2022-07-08T12:30:00",
+    "updated_at": "2022-07-13T14:12:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pomsky-lang:pomsky:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

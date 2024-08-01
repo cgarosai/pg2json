@@ -1,0 +1,10 @@
+{
+    "id": 606387,
+    "name": "sysaid_on-premises",
+    "version": "18.1.54",
+    "created_at": "2020-10-05T10:14:59",
+    "updated_at": "2020-10-05T10:14:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysaid:sysaid_on-premises:18.1.54:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

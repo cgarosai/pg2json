@@ -1,0 +1,10 @@
+{
+    "id": 308109,
+    "name": "suricata",
+    "version": "4.0.0",
+    "created_at": "2019-07-22T09:24:35",
+    "updated_at": "2019-07-22T09:24:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oisf:suricata:4.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

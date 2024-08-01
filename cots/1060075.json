@@ -1,0 +1,10 @@
+{
+    "id": 1060075,
+    "name": "exit_strategy",
+    "version": "1.55",
+    "created_at": "2023-04-14T23:52:32",
+    "updated_at": "2023-08-25T11:23:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exit_strategy_project:exit_strategy:1.55:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

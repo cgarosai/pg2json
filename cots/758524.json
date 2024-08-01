@@ -1,0 +1,10 @@
+{
+    "id": 758524,
+    "name": "woocommerce",
+    "version": "5.4.2",
+    "created_at": "2021-08-04T16:56:48",
+    "updated_at": "2021-08-05T16:08:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:woocommerce:5.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

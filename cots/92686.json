@@ -1,0 +1,10 @@
+{
+    "id": 92686,
+    "name": "utorrent_remote",
+    "version": "1.0.20110929",
+    "created_at": "2014-09-11T22:50:30",
+    "updated_at": "2014-12-10T15:56:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:utorrent:utorrent_remote:1.0.20110929:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

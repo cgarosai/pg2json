@@ -1,0 +1,10 @@
+{
+    "id": 582501,
+    "name": "bind",
+    "version": "9.16.5",
+    "created_at": "2020-08-31T14:00:57",
+    "updated_at": "2020-08-31T14:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isc:bind:9.16.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

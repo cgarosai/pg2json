@@ -1,0 +1,10 @@
+{
+    "id": 580711,
+    "name": "libxi",
+    "version": "1.7",
+    "created_at": "2020-08-24T14:35:41",
+    "updated_at": "2020-08-24T14:35:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x.org:libxi:1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

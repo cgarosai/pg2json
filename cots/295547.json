@@ -1,0 +1,10 @@
+{
+    "id": 295547,
+    "name": "scald",
+    "version": "7.x-1.7",
+    "created_at": "2019-07-12T10:53:43",
+    "updated_at": "2019-07-12T10:53:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:axess_open_web_services:scald:7.x-1.7:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

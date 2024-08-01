@@ -1,0 +1,10 @@
+{
+    "id": 900233,
+    "name": "trilium",
+    "version": "0.18.0",
+    "created_at": "2022-07-13T15:08:06",
+    "updated_at": "2022-07-13T15:54:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trilium_project:trilium:0.18.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

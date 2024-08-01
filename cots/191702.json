@@ -1,0 +1,10 @@
+{
+    "id": 191702,
+    "name": "simatic_hmi_mp_firmware",
+    "version": "-",
+    "created_at": "2019-01-09T17:48:16",
+    "updated_at": "2021-06-28T17:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_hmi_mp_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

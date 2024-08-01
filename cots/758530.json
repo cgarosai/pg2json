@@ -1,0 +1,10 @@
+{
+    "id": 758530,
+    "name": "symantec_critical_system_protection",
+    "version": "7.1.0",
+    "created_at": "2021-08-04T16:58:12",
+    "updated_at": "2021-08-05T14:44:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_critical_system_protection:7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 988683,
+    "name": "libp2p",
+    "version": "0.21.0",
+    "created_at": "2022-12-09T13:09:44",
+    "updated_at": "2022-12-12T12:19:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protocol:libp2p:0.21.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

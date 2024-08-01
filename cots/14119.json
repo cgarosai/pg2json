@@ -1,0 +1,10 @@
+{
+    "id": 14119,
+    "name": "windows",
+    "version": "vista",
+    "created_at": "2008-11-26T14:51:55",
+    "updated_at": "2011-08-18T12:07:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows:vista:sp1:x32-enterprise:*:*:*:*:*",
+    "to_analyse": false
+}

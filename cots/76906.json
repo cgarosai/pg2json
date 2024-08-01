@@ -1,0 +1,10 @@
+{
+    "id": 76906,
+    "name": "qpid",
+    "version": "0.18",
+    "created_at": "2013-03-19T15:45:44",
+    "updated_at": "2013-03-20T12:09:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid:0.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

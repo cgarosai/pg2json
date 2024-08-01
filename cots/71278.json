@@ -1,0 +1,10 @@
+{
+    "id": 71278,
+    "name": "h3c_router",
+    "version": "rt-msr2015-ac-ovs-a-h3",
+    "created_at": "2013-07-08T15:47:03",
+    "updated_at": "2013-07-12T15:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_router:rt-msr2015-ac-ovs-a-h3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

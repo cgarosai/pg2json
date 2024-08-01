@@ -1,0 +1,10 @@
+{
+    "id": 1168125,
+    "name": "manageability_commander",
+    "version": "2.4",
+    "created_at": "2023-09-27T19:08:52",
+    "updated_at": "2023-09-27T19:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:manageability_commander:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 586108,
+    "name": "composer-setup",
+    "version": "4.5.0",
+    "created_at": "2020-08-14T16:40:54",
+    "updated_at": "2020-08-14T16:40:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getcomposer:composer-setup:4.5.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

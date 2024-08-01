@@ -1,0 +1,10 @@
+{
+    "id": 630483,
+    "name": "system_x3750_m4_firmware",
+    "version": "koe170b",
+    "created_at": "2020-12-22T14:30:04",
+    "updated_at": "2020-12-22T14:30:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:system_x3750_m4_firmware:koe170b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

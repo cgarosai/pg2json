@@ -1,0 +1,10 @@
+{
+    "id": 5539,
+    "name": "security_monitoring_analysis_and_response_system",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:40:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:security_monitoring_analysis_and_response_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

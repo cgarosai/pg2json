@@ -1,0 +1,10 @@
+{
+    "id": 1199482,
+    "name": "amr_users",
+    "version": "3.9",
+    "created_at": "2023-11-14T17:04:03",
+    "updated_at": "2023-11-14T17:04:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anmari:amr_users:3.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

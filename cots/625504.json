@@ -1,0 +1,10 @@
+{
+    "id": 625504,
+    "name": "coremail_xt",
+    "version": "5.0",
+    "created_at": "2020-11-30T14:06:19",
+    "updated_at": "2020-11-30T14:06:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:coremail_xt_project:coremail_xt:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

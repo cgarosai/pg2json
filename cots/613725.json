@@ -1,0 +1,10 @@
+{
+    "id": 613725,
+    "name": "secure_access_control_server_solution_engine",
+    "version": "5.8",
+    "created_at": "2020-11-19T12:47:35",
+    "updated_at": "2020-11-19T12:47:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_access_control_server_solution_engine:5.8:p7:*:*:*:*:*:*",
+    "to_analyse": false
+}

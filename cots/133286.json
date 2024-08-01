@@ -1,0 +1,10 @@
+{
+    "id": 133286,
+    "name": "poe-200cam_v2_firmware",
+    "version": "lm.1.6.17.01",
+    "created_at": "2018-01-12T02:12:33",
+    "updated_at": "2021-05-17T16:18:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:airlive:poe-200cam_v2_firmware:lm.1.6.17.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

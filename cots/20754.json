@@ -1,0 +1,10 @@
+{
+    "id": 20754,
+    "name": "media_control_embedded_installer",
+    "version": "5.4",
+    "created_at": "2010-01-07T15:09:41",
+    "updated_at": "2010-01-07T15:09:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:axis:media_control_embedded_installer:5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

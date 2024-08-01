@@ -1,0 +1,10 @@
+{
+    "id": 175261,
+    "name": "x10dal_firmware",
+    "version": "-",
+    "created_at": "2018-09-06T13:17:28",
+    "updated_at": "2021-05-26T16:14:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:supermicro:x10dal_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

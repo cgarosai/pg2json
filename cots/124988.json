@@ -1,0 +1,10 @@
+{
+    "id": 124988,
+    "name": "sitesentinel_isite_atg_firmware",
+    "version": "189",
+    "created_at": "2017-09-15T13:18:33",
+    "updated_at": "2021-06-25T13:17:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:opwglobal:sitesentinel_isite_atg_firmware:189:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

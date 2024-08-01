@@ -1,0 +1,10 @@
+{
+    "id": 137438,
+    "name": "zonedirector",
+    "version": "-",
+    "created_at": "2017-10-26T15:34:28",
+    "updated_at": "2021-06-25T12:37:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ruckus:zonedirector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

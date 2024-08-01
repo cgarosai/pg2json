@@ -1,0 +1,10 @@
+{
+    "id": 504957,
+    "name": "timestamper",
+    "version": "1.8.5",
+    "created_at": "2020-03-11T16:28:37",
+    "updated_at": "2020-03-11T16:28:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:timestamper:1.8.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

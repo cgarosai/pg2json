@@ -1,0 +1,10 @@
+{
+    "id": 163515,
+    "name": "emc_idrac_service_module",
+    "version": "3.1.0",
+    "created_at": "2018-08-20T12:14:34",
+    "updated_at": "2021-03-18T13:03:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_idrac_service_module:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

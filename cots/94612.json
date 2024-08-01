@@ -1,0 +1,10 @@
+{
+    "id": 94612,
+    "name": "fasttoggle",
+    "version": "7.x-1.4",
+    "created_at": "2014-12-01T17:57:11",
+    "updated_at": "2015-02-09T18:40:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fasttoggle_project:fasttoggle:7.x-1.4:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 641589,
+    "name": "master_control_firmware",
+    "version": "6.21",
+    "created_at": "2021-01-25T17:23:33",
+    "updated_at": "2021-01-25T17:23:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:airleader:master_control_firmware:6.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

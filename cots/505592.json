@@ -1,0 +1,10 @@
+{
+    "id": 505592,
+    "name": "moped",
+    "version": "1.4.5",
+    "created_at": "2020-02-28T15:15:52",
+    "updated_at": "2020-02-28T15:15:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moped_project:moped:1.4.5:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

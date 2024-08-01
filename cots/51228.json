@@ -1,0 +1,10 @@
+{
+    "id": 51228,
+    "name": "processor_graphics",
+    "version": "8.15.10.2418",
+    "created_at": "2012-06-21T17:07:08",
+    "updated_at": "2012-06-21T17:07:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:processor_graphics:8.15.10.2418:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

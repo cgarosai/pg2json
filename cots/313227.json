@@ -1,0 +1,10 @@
+{
+    "id": 313227,
+    "name": "kubernetes_operator",
+    "version": "0.9",
+    "created_at": "2019-07-30T11:45:11",
+    "updated_at": "2019-07-30T11:45:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:kubernetes_operator:0.9:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

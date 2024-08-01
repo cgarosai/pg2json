@@ -1,0 +1,10 @@
+{
+    "id": 57450,
+    "name": "diagnostic_anyconnect_reporting_tool",
+    "version": "2.5.0",
+    "created_at": "2012-05-08T11:50:59",
+    "updated_at": "2012-05-08T11:50:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:diagnostic_anyconnect_reporting_tool:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

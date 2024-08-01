@@ -1,0 +1,10 @@
+{
+    "id": 304430,
+    "name": "application_testing_suite",
+    "version": "13.3",
+    "created_at": "2019-07-25T12:00:40",
+    "updated_at": "2019-07-25T12:00:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:application_testing_suite:13.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

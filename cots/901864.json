@@ -1,0 +1,10 @@
+{
+    "id": 901864,
+    "name": "svelte",
+    "version": "2.4.2",
+    "created_at": "2022-07-18T14:37:26",
+    "updated_at": "2022-07-18T14:49:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:svelte:svelte:2.4.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

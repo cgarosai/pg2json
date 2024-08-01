@@ -1,0 +1,10 @@
+{
+    "id": 234567,
+    "name": "catalyst_9600_supervisor_engine-1",
+    "version": "-",
+    "created_at": "2019-05-16T16:25:32",
+    "updated_at": "2021-04-19T18:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_9600_supervisor_engine-1:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

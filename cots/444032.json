@@ -1,0 +1,10 @@
+{
+    "id": 444032,
+    "name": "horde_smtp",
+    "version": "1.9.5",
+    "created_at": "2019-12-04T15:49:30",
+    "updated_at": "2019-12-04T15:49:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_smtp:1.9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

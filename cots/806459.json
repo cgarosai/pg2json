@@ -1,0 +1,10 @@
+{
+    "id": 806459,
+    "name": "jsonpointer",
+    "version": "5.0.0",
+    "created_at": "2021-11-05T13:53:05",
+    "updated_at": "2021-11-05T17:13:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jsonpointer_project:jsonpointer:5.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 35901,
+    "name": "jboss_enterprise_soa_platform",
+    "version": "4.3.0",
+    "created_at": "2010-08-10T15:59:38",
+    "updated_at": "2010-09-23T23:22:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_enterprise_soa_platform:4.3.0:cp01:*:*:*:*:*:*",
+    "to_analyse": false
+}

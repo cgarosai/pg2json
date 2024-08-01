@@ -1,0 +1,10 @@
+{
+    "id": 752822,
+    "name": "blocklancertoken",
+    "version": "-",
+    "created_at": "2021-08-11T09:43:55",
+    "updated_at": "2021-08-23T11:56:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blocklancertoken_project:blocklancertoken:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

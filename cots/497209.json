@@ -1,0 +1,10 @@
+{
+    "id": 497209,
+    "name": "sterling_external_authentication_server",
+    "version": "2.4.0",
+    "created_at": "2020-02-14T15:14:07",
+    "updated_at": "2020-02-14T15:14:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sterling_external_authentication_server:2.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

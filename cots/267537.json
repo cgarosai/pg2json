@@ -1,0 +1,10 @@
+{
+    "id": 267537,
+    "name": "kamailio",
+    "version": "3.0.3",
+    "created_at": "2019-06-14T15:24:37",
+    "updated_at": "2019-06-14T15:24:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kamailio:kamailio:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

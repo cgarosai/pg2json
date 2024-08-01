@@ -1,0 +1,10 @@
+{
+    "id": 129292,
+    "name": "airwatch_inbox",
+    "version": "-",
+    "created_at": "2017-05-18T16:11:07",
+    "updated_at": "2021-08-09T15:04:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:airwatch_inbox:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

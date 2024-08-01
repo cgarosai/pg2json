@@ -1,0 +1,10 @@
+{
+    "id": 1100531,
+    "name": "casdoor",
+    "version": "1.148.0",
+    "created_at": "2023-06-28T11:51:24",
+    "updated_at": "2023-06-28T11:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:casbin:casdoor:1.148.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

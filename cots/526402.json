@@ -1,0 +1,10 @@
+{
+    "id": 526402,
+    "name": "citrix_sd-wan_center",
+    "version": "10.2.3",
+    "created_at": "2020-04-01T11:39:23",
+    "updated_at": "2020-04-01T11:39:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:citrix_sd-wan_center:10.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

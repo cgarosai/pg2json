@@ -1,0 +1,10 @@
+{
+    "id": 95939,
+    "name": "seamonkey",
+    "version": "2.25",
+    "created_at": "2014-04-30T13:23:24",
+    "updated_at": "2014-04-30T15:06:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:seamonkey:2.25:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

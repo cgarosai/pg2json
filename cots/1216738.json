@@ -1,0 +1,10 @@
+{
+    "id": 1216738,
+    "name": "pubnub",
+    "version": "4.5.2",
+    "created_at": "2023-12-11T14:33:52",
+    "updated_at": "2023-12-11T14:33:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pubnub:pubnub:4.5.2:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

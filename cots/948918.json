@@ -1,0 +1,10 @@
+{
+    "id": 948918,
+    "name": "multipass",
+    "version": "1.1.0",
+    "created_at": "2022-09-29T12:01:19",
+    "updated_at": "2022-09-29T12:04:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:multipass:1.1.0:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

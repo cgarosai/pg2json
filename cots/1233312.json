@@ -1,0 +1,10 @@
+{
+    "id": 1233312,
+    "name": "alarm_system",
+    "version": "1.0",
+    "created_at": "2024-01-18T19:08:46",
+    "updated_at": "2024-01-18T19:08:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hozard:alarm_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

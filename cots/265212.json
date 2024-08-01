@@ -1,0 +1,10 @@
+{
+    "id": 265212,
+    "name": "tinyproxy",
+    "version": "1.6.0",
+    "created_at": "2019-06-13T09:47:49",
+    "updated_at": "2019-06-13T09:47:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:banu:tinyproxy:1.6.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

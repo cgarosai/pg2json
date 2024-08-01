@@ -1,0 +1,10 @@
+{
+    "id": 595302,
+    "name": "forge",
+    "version": "-",
+    "created_at": "2020-09-03T12:52:30",
+    "updated_at": "2022-01-12T18:12:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digitalbazzar:forge:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

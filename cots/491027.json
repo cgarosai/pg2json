@@ -1,0 +1,10 @@
+{
+    "id": 491027,
+    "name": "ngfw_module",
+    "version": "v500r002c10",
+    "created_at": "2020-02-22T23:58:57",
+    "updated_at": "2020-02-22T23:58:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ngfw_module:v500r002c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51921,
+    "name": "wmi",
+    "version": "275.89",
+    "created_at": "2012-06-21T17:10:39",
+    "updated_at": "2012-06-21T17:10:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:wmi:275.89:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

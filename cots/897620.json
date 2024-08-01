@@ -1,0 +1,10 @@
+{
+    "id": 897620,
+    "name": "opennetadmin",
+    "version": "18.1.1",
+    "created_at": "2022-06-13T14:09:48",
+    "updated_at": "2022-06-14T11:22:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opennetadmin:opennetadmin:18.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

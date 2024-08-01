@@ -1,0 +1,10 @@
+{
+    "id": 13511,
+    "name": "deployment_wizard",
+    "version": "2008",
+    "created_at": "2008-10-24T18:12:12",
+    "updated_at": "2008-10-24T18:12:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hummingbird:deployment_wizard:2008:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

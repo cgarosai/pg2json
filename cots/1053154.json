@@ -1,0 +1,10 @@
+{
+    "id": 1053154,
+    "name": "oauth_single_sign_on",
+    "version": "28.4.9",
+    "created_at": "2023-04-03T10:55:51",
+    "updated_at": "2023-04-03T15:19:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniorange:oauth_single_sign_on:28.4.9:*:*:*:standard:wordpress:*:*",
+    "to_analyse": false
+}

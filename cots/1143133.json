@@ -1,0 +1,10 @@
+{
+    "id": 1143133,
+    "name": "cloud_manager",
+    "version": "-",
+    "created_at": "2023-09-05T13:32:50",
+    "updated_at": "2023-09-05T17:30:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

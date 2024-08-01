@@ -1,0 +1,10 @@
+{
+    "id": 582325,
+    "name": "umount",
+    "version": "1.1.6",
+    "created_at": "2020-08-27T21:55:01",
+    "updated_at": "2020-08-27T21:55:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:umount_project:umount:1.1.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

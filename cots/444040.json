@@ -1,0 +1,10 @@
+{
+    "id": 444040,
+    "name": "horde_socket_client",
+    "version": "2.1.2",
+    "created_at": "2019-12-04T15:49:31",
+    "updated_at": "2019-12-04T15:49:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_socket_client:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 528998,
+    "name": "netsurf",
+    "version": "2.5",
+    "created_at": "2020-04-02T17:37:09",
+    "updated_at": "2020-04-02T17:37:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netsurf-browser:netsurf:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

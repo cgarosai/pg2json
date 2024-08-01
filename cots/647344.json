@@ -1,0 +1,10 @@
+{
+    "id": 647344,
+    "name": "kamadak-exif",
+    "version": "0.3.0",
+    "created_at": "2021-01-11T16:01:40",
+    "updated_at": "2021-01-11T16:01:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kamadak-exif_project:kamadak-exif:0.3.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

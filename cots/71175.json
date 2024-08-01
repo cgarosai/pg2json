@@ -1,0 +1,10 @@
+{
+    "id": 71175,
+    "name": "h3c_routing_switch",
+    "version": "s9512e",
+    "created_at": "2013-07-08T14:55:41",
+    "updated_at": "2013-07-12T15:50:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_routing_switch:s9512e:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 837366,
+    "name": "fortify_on_demand",
+    "version": "6.1.0",
+    "created_at": "2022-01-15T21:52:29",
+    "updated_at": "2022-01-16T03:14:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:fortify_on_demand:6.1.0:*:*:*:*:jenkins:*:.",
+    "to_analyse": false
+}

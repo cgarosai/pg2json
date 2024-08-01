@@ -1,0 +1,10 @@
+{
+    "id": 1154320,
+    "name": "allow_php_in_posts_and_pages",
+    "version": "3.0.4",
+    "created_at": "2023-09-22T19:07:13",
+    "updated_at": "2023-09-22T19:07:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitreach:allow_php_in_posts_and_pages:3.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1186323,
+    "name": "unzip",
+    "version": "1.0.3-0.20200308084313-2adbaa4891b9",
+    "created_at": "2023-10-25T10:45:39",
+    "updated_at": "2023-10-25T10:45:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unzip_project:unzip:1.0.3-0.20200308084313-2adbaa4891b9:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

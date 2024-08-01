@@ -1,0 +1,10 @@
+{
+    "id": 97436,
+    "name": "chrome",
+    "version": "35.0.1916.1",
+    "created_at": "2014-05-21T15:25:08",
+    "updated_at": "2014-05-21T21:52:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:chrome:35.0.1916.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

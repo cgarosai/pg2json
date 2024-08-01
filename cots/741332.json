@@ -1,0 +1,10 @@
+{
+    "id": 741332,
+    "name": "ua-parser-js",
+    "version": "0.7.28",
+    "created_at": "2021-07-26T11:18:10",
+    "updated_at": "2021-07-26T15:39:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ua-parser-js_project:ua-parser-js:0.7.28:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

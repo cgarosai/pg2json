@@ -1,0 +1,10 @@
+{
+    "id": 223787,
+    "name": "subversion",
+    "version": "1.42",
+    "created_at": "2019-04-25T12:08:27",
+    "updated_at": "2019-04-25T12:08:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:subversion:1.42:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 376632,
+    "name": "dropbox",
+    "version": "80.3",
+    "created_at": "2019-09-18T15:25:29",
+    "updated_at": "2019-09-18T15:25:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dropbox:dropbox:80.3:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

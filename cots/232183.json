@@ -1,0 +1,10 @@
+{
+    "id": 232183,
+    "name": "jquery",
+    "version": "1.4.0",
+    "created_at": "2019-05-10T13:11:23",
+    "updated_at": "2019-05-10T13:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jquery:jquery:1.4.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

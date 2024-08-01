@@ -1,0 +1,10 @@
+{
+    "id": 638304,
+    "name": "loom",
+    "version": "0.16.0",
+    "created_at": "2020-12-17T12:41:33",
+    "updated_at": "2020-12-17T12:41:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:loom:loom:0.16.0:*:*:*:desktop:mac:*:*",
+    "to_analyse": false
+}

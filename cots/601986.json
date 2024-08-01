@@ -1,0 +1,10 @@
+{
+    "id": 601986,
+    "name": "calcite",
+    "version": "1.23.0",
+    "created_at": "2020-10-13T10:10:38",
+    "updated_at": "2020-10-13T10:10:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:calcite:1.23.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

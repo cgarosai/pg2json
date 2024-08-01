@@ -1,0 +1,10 @@
+{
+    "id": 1086545,
+    "name": "wpjam_basic",
+    "version": "6.0",
+    "created_at": "2023-05-22T14:47:10",
+    "updated_at": "2023-06-07T12:18:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpjam_basic_project:wpjam_basic:6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

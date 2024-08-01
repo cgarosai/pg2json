@@ -1,0 +1,10 @@
+{
+    "id": 632978,
+    "name": "r7350_firmware",
+    "version": "1.2.0.72",
+    "created_at": "2021-01-04T11:53:15",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7350_firmware:1.2.0.72:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

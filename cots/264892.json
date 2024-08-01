@@ -1,0 +1,10 @@
+{
+    "id": 264892,
+    "name": "onos",
+    "version": "1.10.11",
+    "created_at": "2019-06-19T23:06:00",
+    "updated_at": "2019-06-19T23:06:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:onosproject:onos:1.10.11:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

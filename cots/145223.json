@@ -1,0 +1,10 @@
+{
+    "id": 145223,
+    "name": "core_i5",
+    "version": "4670t",
+    "created_at": "2018-02-07T11:25:54",
+    "updated_at": "2018-02-07T11:25:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:4670t:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

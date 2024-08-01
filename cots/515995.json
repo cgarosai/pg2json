@@ -1,0 +1,10 @@
+{
+    "id": 515995,
+    "name": "deployhub",
+    "version": "8.0.10",
+    "created_at": "2020-03-12T16:43:28",
+    "updated_at": "2020-03-12T16:43:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:deployhub:8.0.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 177581,
+    "name": "i.lon_100_firmware",
+    "version": "-",
+    "created_at": "2018-09-20T15:26:07",
+    "updated_at": "2021-05-19T15:32:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:echelon:i.lon_100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

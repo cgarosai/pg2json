@@ -1,0 +1,10 @@
+{
+    "id": 450461,
+    "name": "riot-compiler",
+    "version": "3.2.2",
+    "created_at": "2019-12-09T17:49:30",
+    "updated_at": "2019-12-09T17:49:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:riot.js:riot-compiler:3.2.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 654097,
+    "name": "installation_manager_tool",
+    "version": "2.1.1",
+    "created_at": "2021-02-22T15:52:50",
+    "updated_at": "2021-02-24T16:21:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:installation_manager_tool:2.1.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

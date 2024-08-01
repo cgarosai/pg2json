@@ -1,0 +1,10 @@
+{
+    "id": 579188,
+    "name": "keystonemiddleware",
+    "version": "1.5.3",
+    "created_at": "2020-08-03T12:12:57",
+    "updated_at": "2020-08-03T12:12:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:keystonemiddleware:1.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

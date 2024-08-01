@@ -1,0 +1,10 @@
+{
+    "id": 379244,
+    "name": "livecd-tools",
+    "version": "20.5",
+    "created_at": "2019-09-19T12:55:56",
+    "updated_at": "2019-09-19T12:55:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:livecd-tools:20.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

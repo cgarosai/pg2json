@@ -1,0 +1,10 @@
+{
+    "id": 650300,
+    "name": "wp_security_\\&_firewall",
+    "version": "3.8.6",
+    "created_at": "2021-02-11T16:13:12",
+    "updated_at": "2021-02-11T16:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tipsandtricks-hq:wp_security_\\&_firewall:3.8.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

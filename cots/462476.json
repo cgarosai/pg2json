@@ -1,0 +1,10 @@
+{
+    "id": 462476,
+    "name": "ngfw",
+    "version": "-",
+    "created_at": "2020-01-05T14:49:55",
+    "updated_at": "2020-01-05T14:49:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:ngfw:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 164353,
+    "name": "nexus_9500",
+    "version": "-",
+    "created_at": "2018-08-30T14:22:19",
+    "updated_at": "2018-08-30T14:22:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_9500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

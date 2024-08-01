@@ -1,0 +1,10 @@
+{
+    "id": 59738,
+    "name": "network_access_control",
+    "version": "11.0.7000",
+    "created_at": "2012-05-24T12:34:17",
+    "updated_at": "2012-05-30T18:50:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:network_access_control:11.0.7000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

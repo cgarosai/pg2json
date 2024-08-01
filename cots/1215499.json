@@ -1,0 +1,10 @@
+{
+    "id": 1215499,
+    "name": "smart_plug_10a_firmware",
+    "version": "hsp02_01_01_14_system-10a",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:quboworld:smart_plug_10a_firmware:hsp02_01_01_14_system-10a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

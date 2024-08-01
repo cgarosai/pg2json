@@ -1,0 +1,10 @@
+{
+    "id": 594634,
+    "name": "identity_manager",
+    "version": "4.7.2",
+    "created_at": "2020-09-24T13:26:46",
+    "updated_at": "2020-09-24T13:26:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:identity_manager:4.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

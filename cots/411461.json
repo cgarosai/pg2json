@@ -1,0 +1,10 @@
+{
+    "id": 411461,
+    "name": "domino",
+    "version": "9.0.1.10",
+    "created_at": "2019-10-28T17:58:20",
+    "updated_at": "2019-10-28T17:58:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:domino:9.0.1.10:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

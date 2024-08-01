@@ -1,0 +1,10 @@
+{
+    "id": 88671,
+    "name": "idp8200",
+    "version": "-",
+    "created_at": "2013-12-16T15:15:18",
+    "updated_at": "2013-12-16T15:18:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:idp8200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

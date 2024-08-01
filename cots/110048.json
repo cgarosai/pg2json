@@ -1,0 +1,10 @@
+{
+    "id": 110048,
+    "name": "unifying_dongle",
+    "version": "-",
+    "created_at": "2016-08-04T20:53:31",
+    "updated_at": "2021-08-05T12:18:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:logitech:unifying_dongle:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 7520,
+    "name": "total_control_netserver_card",
+    "version": "3.7.24",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2011-01-12T13:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:3com:total_control_netserver_card:3.7.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

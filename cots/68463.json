@@ -1,0 +1,10 @@
+{
+    "id": 68463,
+    "name": "packetfence",
+    "version": "3.2.0",
+    "created_at": "2012-09-03T16:56:21",
+    "updated_at": "2012-10-26T18:53:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:packetfence:packetfence:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 427029,
+    "name": "adblock_plus",
+    "version": "1.12",
+    "created_at": "2019-11-01T18:09:10",
+    "updated_at": "2019-11-01T18:09:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adblockplus:adblock_plus:1.12:*:*:*:*:chrome:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 316869,
+    "name": "alsa",
+    "version": "1.0.3a",
+    "created_at": "2019-07-26T10:47:10",
+    "updated_at": "2019-07-26T10:47:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alsa-project:alsa:1.0.3a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

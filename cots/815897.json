@@ -1,0 +1,10 @@
+{
+    "id": 815897,
+    "name": "ethernet_network_controller_e810_firmware",
+    "version": "1.5.5.6",
+    "created_at": "2021-11-22T15:14:31",
+    "updated_at": "2021-11-23T17:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_network_controller_e810_firmware:1.5.5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

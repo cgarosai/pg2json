@@ -1,0 +1,10 @@
+{
+    "id": 1143041,
+    "name": "hirdb_server",
+    "version": "10-00-09",
+    "created_at": "2023-09-05T12:20:46",
+    "updated_at": "2023-09-05T13:33:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:hirdb_server:10-00-09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

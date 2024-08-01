@@ -1,0 +1,10 @@
+{
+    "id": 846255,
+    "name": "gtk",
+    "version": "4.0.1",
+    "created_at": "2022-02-04T17:22:37",
+    "updated_at": "2022-02-04T17:29:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gtk:4.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

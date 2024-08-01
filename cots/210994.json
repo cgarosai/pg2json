@@ -1,0 +1,10 @@
+{
+    "id": 210994,
+    "name": "q1614_firmware",
+    "version": "6.50.2.3",
+    "created_at": "2019-03-20T16:54:55",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:q1614_firmware:6.50.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

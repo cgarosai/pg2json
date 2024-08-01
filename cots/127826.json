@@ -1,0 +1,10 @@
+{
+    "id": 127826,
+    "name": "watson_developer_cloud",
+    "version": "-",
+    "created_at": "2017-04-20T12:55:46",
+    "updated_at": "2017-04-20T12:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:watson_developer_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

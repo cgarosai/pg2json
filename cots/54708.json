@@ -1,0 +1,10 @@
+{
+    "id": 54708,
+    "name": "squashfs",
+    "version": "4.2",
+    "created_at": "2012-07-20T10:16:31",
+    "updated_at": "2019-10-21T14:53:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phillip_lougher:squashfs:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

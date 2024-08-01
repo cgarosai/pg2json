@@ -1,0 +1,10 @@
+{
+    "id": 100224,
+    "name": "job_fair",
+    "version": "1.0.0",
+    "created_at": "2015-06-17T12:32:00",
+    "updated_at": "2015-06-22T15:55:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:job_fair_project:job_fair:1.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

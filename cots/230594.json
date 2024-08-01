@@ -1,0 +1,10 @@
+{
+    "id": 230594,
+    "name": "paypal",
+    "version": "5.10.2",
+    "created_at": "2019-05-08T15:42:48",
+    "updated_at": "2019-05-08T15:42:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paypal:paypal:5.10.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

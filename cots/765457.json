@@ -1,0 +1,10 @@
+{
+    "id": 765457,
+    "name": "somachine_basic",
+    "version": "1.0",
+    "created_at": "2021-08-16T16:00:30",
+    "updated_at": "2022-01-31T18:42:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:se:somachine_basic:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

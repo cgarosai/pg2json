@@ -1,0 +1,10 @@
+{
+    "id": 418248,
+    "name": "deploy_weblogic",
+    "version": "2.11",
+    "created_at": "2019-10-24T10:30:08",
+    "updated_at": "2019-10-24T10:30:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:deploy_weblogic:2.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

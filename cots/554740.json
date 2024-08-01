@@ -1,0 +1,10 @@
+{
+    "id": 554740,
+    "name": "mversion",
+    "version": "1.9.0",
+    "created_at": "2020-06-24T13:39:58",
+    "updated_at": "2020-06-24T13:39:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mversion_project:mversion:1.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 640112,
+    "name": "buns",
+    "version": "-",
+    "created_at": "2021-01-20T13:20:59",
+    "updated_at": "2021-01-20T13:20:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buns_project:buns:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

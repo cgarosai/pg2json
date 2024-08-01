@@ -1,0 +1,10 @@
+{
+    "id": 652692,
+    "name": "enterprise_test_distribution_agent",
+    "version": "1.0",
+    "created_at": "2021-02-18T17:30:42",
+    "updated_at": "2021-02-18T17:30:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gradle:enterprise_test_distribution_agent:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

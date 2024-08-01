@@ -1,0 +1,10 @@
+{
+    "id": 565013,
+    "name": "alpine",
+    "version": "2.23",
+    "created_at": "2020-06-24T15:05:10",
+    "updated_at": "2020-06-24T15:05:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alpine_project:alpine:2.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

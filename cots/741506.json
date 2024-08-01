@@ -1,0 +1,10 @@
+{
+    "id": 741506,
+    "name": "byte_struct",
+    "version": "0.3.0",
+    "created_at": "2021-07-26T13:11:01",
+    "updated_at": "2021-07-26T14:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:byte_struct_project:byte_struct:0.3.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1143867,
+    "name": "open_vm_tools",
+    "version": "11.3.0",
+    "created_at": "2023-09-06T11:13:52",
+    "updated_at": "2023-09-06T15:07:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:open_vm_tools:11.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

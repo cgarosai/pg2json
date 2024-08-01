@@ -1,0 +1,10 @@
+{
+    "id": 483656,
+    "name": "winbox",
+    "version": "5.19",
+    "created_at": "2020-02-10T11:37:14",
+    "updated_at": "2020-02-10T11:37:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mikrotik:winbox:5.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

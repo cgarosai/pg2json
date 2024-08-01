@@ -1,0 +1,10 @@
+{
+    "id": 404197,
+    "name": "delphix",
+    "version": "1.0.3",
+    "created_at": "2019-10-21T10:37:15",
+    "updated_at": "2019-10-21T10:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:delphix:1.0.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

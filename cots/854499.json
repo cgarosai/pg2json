@@ -1,0 +1,10 @@
+{
+    "id": 854499,
+    "name": "insight_core",
+    "version": "1.0",
+    "created_at": "2022-03-18T14:59:28",
+    "updated_at": "2022-03-18T19:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thememove:insight_core:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

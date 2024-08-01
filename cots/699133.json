@@ -1,0 +1,10 @@
+{
+    "id": 699133,
+    "name": "messaging_-_eclipse_mosquitto_distribution_-_core",
+    "version": "-",
+    "created_at": "2021-04-21T09:06:08",
+    "updated_at": "2021-05-17T13:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:messaging_-_eclipse_mosquitto_distribution_-_core:-:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

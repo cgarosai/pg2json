@@ -1,0 +1,10 @@
+{
+    "id": 115345,
+    "name": "iprocurement",
+    "version": "11.5.10.2",
+    "created_at": "2016-02-17T16:55:40",
+    "updated_at": "2016-02-17T16:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:iprocurement:11.5.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

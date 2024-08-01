@@ -1,0 +1,10 @@
+{
+    "id": 676168,
+    "name": "blackberry_os",
+    "version": "10.3.2",
+    "created_at": "2021-03-12T15:26:49",
+    "updated_at": "2021-05-26T16:54:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:blackberry:blackberry_os:10.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

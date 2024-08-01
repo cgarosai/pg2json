@@ -1,0 +1,10 @@
+{
+    "id": 756315,
+    "name": "forticlient",
+    "version": "6.4.3",
+    "created_at": "2021-07-30T15:08:18",
+    "updated_at": "2021-07-30T15:31:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:forticlient:6.4.3:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

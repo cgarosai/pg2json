@@ -1,0 +1,10 @@
+{
+    "id": 940955,
+    "name": "sd-wan_vbond_orchestrator",
+    "version": "20.9",
+    "created_at": "2022-10-03T14:52:03",
+    "updated_at": "2022-10-31T17:26:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:sd-wan_vbond_orchestrator:20.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

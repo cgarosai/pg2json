@@ -1,0 +1,10 @@
+{
+    "id": 1086811,
+    "name": "snapcenter",
+    "version": "4.8",
+    "created_at": "2023-05-22T16:02:01",
+    "updated_at": "2023-05-23T14:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:snapcenter:4.8:p1:*:*:*:*:*:*",
+    "to_analyse": false
+}

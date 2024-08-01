@@ -1,0 +1,10 @@
+{
+    "id": 496606,
+    "name": "pdfkit",
+    "version": "0.6.0",
+    "created_at": "2020-02-13T11:48:38",
+    "updated_at": "2020-02-13T11:48:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pdfkit_project:pdfkit:0.6.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

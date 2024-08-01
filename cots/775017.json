@@ -1,0 +1,10 @@
+{
+    "id": 775017,
+    "name": "i18next",
+    "version": "19.8.3",
+    "created_at": "2021-09-07T13:53:38",
+    "updated_at": "2021-09-07T13:55:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:i18next:i18next:19.8.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

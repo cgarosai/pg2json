@@ -1,0 +1,10 @@
+{
+    "id": 459946,
+    "name": "opendnssec",
+    "version": "1.4.10",
+    "created_at": "2019-12-09T16:46:07",
+    "updated_at": "2019-12-09T16:46:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opendnssec:opendnssec:1.4.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

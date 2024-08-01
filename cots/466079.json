@@ -1,0 +1,10 @@
+{
+    "id": 466079,
+    "name": "steam_client",
+    "version": "2019-09-10",
+    "created_at": "2019-12-14T00:32:10",
+    "updated_at": "2019-12-14T00:32:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:valvesoftware:steam_client:2019-09-10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

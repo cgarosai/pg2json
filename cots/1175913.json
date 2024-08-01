@@ -1,0 +1,10 @@
+{
+    "id": 1175913,
+    "name": "enterprise_linux_high_availability",
+    "version": "9.0",
+    "created_at": "2023-10-07T00:28:40",
+    "updated_at": "2023-10-07T00:28:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_high_availability:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

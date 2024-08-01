@@ -1,0 +1,10 @@
+{
+    "id": 654087,
+    "name": "channels",
+    "version": "3.0.3",
+    "created_at": "2021-02-22T15:36:57",
+    "updated_at": "2021-02-22T15:36:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:djangoproject:channels:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

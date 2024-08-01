@@ -1,0 +1,10 @@
+{
+    "id": 123739,
+    "name": "dsl-n10s_firmware",
+    "version": "v2.1.16_apac",
+    "created_at": "2017-08-24T13:48:17",
+    "updated_at": "2021-05-17T17:58:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:asus:dsl-n10s_firmware:v2.1.16_apac:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

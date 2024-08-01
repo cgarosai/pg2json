@@ -1,0 +1,10 @@
+{
+    "id": 92037,
+    "name": "worklight",
+    "version": "5.0.0.3",
+    "created_at": "2014-08-29T13:49:16",
+    "updated_at": "2014-08-29T18:39:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:worklight:5.0.0.3:*:*:*:consumer:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 81208,
+    "name": "logix_5000_controller",
+    "version": "-",
+    "created_at": "2014-02-05T16:28:40",
+    "updated_at": "2014-02-05T16:37:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:rockwellautomation:logix_5000_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 958217,
+    "name": "publish_over_ftp",
+    "version": "0.8",
+    "created_at": "2022-10-20T13:16:12",
+    "updated_at": "2022-10-20T13:17:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:publish_over_ftp:0.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

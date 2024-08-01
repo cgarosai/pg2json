@@ -1,0 +1,10 @@
+{
+    "id": 590382,
+    "name": "secureline_vpn",
+    "version": "-",
+    "created_at": "2020-09-15T14:43:10",
+    "updated_at": "2020-09-15T14:43:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:secureline_vpn:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

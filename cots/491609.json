@@ -1,0 +1,10 @@
+{
+    "id": 491609,
+    "name": "mac-telnet",
+    "version": "0.4.4",
+    "created_at": "2020-02-24T15:13:45",
+    "updated_at": "2020-02-24T15:13:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mac-telnet_project:mac-telnet:0.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

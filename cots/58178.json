@@ -1,0 +1,10 @@
+{
+    "id": 58178,
+    "name": "power_log",
+    "version": "2.9",
+    "created_at": "2012-05-14T21:29:05",
+    "updated_at": "2012-05-14T21:29:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fluke:power_log:2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

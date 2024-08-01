@@ -1,0 +1,10 @@
+{
+    "id": 1183757,
+    "name": "secure_files",
+    "version": "-",
+    "created_at": "2023-11-03T12:00:00",
+    "updated_at": "2023-11-03T12:00:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-plugins:secure_files:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

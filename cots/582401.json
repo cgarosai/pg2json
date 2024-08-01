@@ -1,0 +1,10 @@
+{
+    "id": 582401,
+    "name": "zywall_1100_firmware",
+    "version": "-",
+    "created_at": "2020-08-31T10:25:23",
+    "updated_at": "2020-08-31T10:25:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:zywall_1100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

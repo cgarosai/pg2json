@@ -1,0 +1,10 @@
+{
+    "id": 280875,
+    "name": "protect",
+    "version": "1.1.0",
+    "created_at": "2019-07-10T13:38:37",
+    "updated_at": "2019-07-10T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:risingstack:protect:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

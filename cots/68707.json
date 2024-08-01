@@ -1,0 +1,10 @@
+{
+    "id": 68707,
+    "name": "securview_wireless_internet_camera",
+    "version": "tv-ip121wn",
+    "created_at": "2012-09-07T12:25:11",
+    "updated_at": "2012-09-21T18:27:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:trendnet:securview_wireless_internet_camera:tv-ip121wn:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

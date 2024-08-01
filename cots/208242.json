@@ -1,0 +1,10 @@
+{
+    "id": 208242,
+    "name": "gettext",
+    "version": "0.10.36",
+    "created_at": "2019-02-19T12:58:58",
+    "updated_at": "2019-02-19T12:58:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gettext:0.10.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

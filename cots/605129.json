@@ -1,0 +1,10 @@
+{
+    "id": 605129,
+    "name": "podman",
+    "version": "2.0.3",
+    "created_at": "2020-09-28T16:21:54",
+    "updated_at": "2020-09-28T16:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:podman_project:podman:2.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 657045,
+    "name": "mechanize",
+    "version": "2.7.4",
+    "created_at": "2021-02-04T21:09:53",
+    "updated_at": "2021-02-04T21:09:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mechanize_project:mechanize:2.7.4:-:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

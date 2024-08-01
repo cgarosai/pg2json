@@ -1,0 +1,10 @@
+{
+    "id": 592680,
+    "name": "uap2105_firmware",
+    "version": "v300r011c01b028",
+    "created_at": "2020-09-22T19:39:27",
+    "updated_at": "2020-09-22T19:39:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:uap2105_firmware:v300r011c01b028:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

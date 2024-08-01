@@ -1,0 +1,10 @@
+{
+    "id": 84896,
+    "name": "rbovirt",
+    "version": "0.0.26",
+    "created_at": "2014-04-18T11:48:24",
+    "updated_at": "2014-05-06T09:29:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amos_benari:rbovirt:0.0.26:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

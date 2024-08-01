@@ -1,0 +1,10 @@
+{
+    "id": 944005,
+    "name": "malware_protection_engine",
+    "version": "1.1.19700.2",
+    "created_at": "2022-10-11T23:28:09",
+    "updated_at": "2022-11-27T12:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:malware_protection_engine:1.1.19700.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 490334,
+    "name": "codecov",
+    "version": "3.0.0",
+    "created_at": "2020-02-21T19:53:53",
+    "updated_at": "2020-02-21T19:53:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codecov:codecov:3.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

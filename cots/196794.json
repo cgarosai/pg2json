@@ -1,0 +1,10 @@
+{
+    "id": 196794,
+    "name": "cf-networking",
+    "version": "1.6.1",
+    "created_at": "2018-12-04T17:34:52",
+    "updated_at": "2018-12-04T17:34:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloud_foundry:cf-networking:1.6.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

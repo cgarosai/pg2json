@@ -1,0 +1,10 @@
+{
+    "id": 869395,
+    "name": "simatic_field_pg_m6_firmware",
+    "version": "26.01.07",
+    "created_at": "2022-04-01T15:06:57",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_field_pg_m6_firmware:26.01.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 14694,
+    "name": "4400_wireless_lan_controller",
+    "version": "4.2",
+    "created_at": "2009-02-05T16:08:39",
+    "updated_at": "2009-02-05T16:08:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:4400_wireless_lan_controller:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

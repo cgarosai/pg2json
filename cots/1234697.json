@@ -1,0 +1,10 @@
+{
+    "id": 1234697,
+    "name": "sysmac_cs1h-cpu64h",
+    "version": "-",
+    "created_at": "2024-01-22T23:52:41",
+    "updated_at": "2024-01-22T23:52:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:omron:sysmac_cs1h-cpu64h:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

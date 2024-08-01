@@ -1,0 +1,10 @@
+{
+    "id": 640375,
+    "name": "campaign_classic",
+    "version": "10",
+    "created_at": "2021-01-21T16:09:00",
+    "updated_at": "2021-01-21T16:09:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:campaign_classic:10:*:*:*:gold_standard:*:*:*",
+    "to_analyse": false
+}

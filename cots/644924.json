@@ -1,0 +1,10 @@
+{
+    "id": 644924,
+    "name": "autorand",
+    "version": "0.2.0",
+    "created_at": "2021-02-01T18:00:04",
+    "updated_at": "2021-02-01T18:00:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autorand_project:autorand:0.2.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

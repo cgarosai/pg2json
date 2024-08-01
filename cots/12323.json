@@ -1,0 +1,10 @@
+{
+    "id": 12323,
+    "name": "gnutls",
+    "version": "1.7.12",
+    "created_at": "2008-09-05T18:04:54",
+    "updated_at": "2012-03-16T18:54:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gnutls:1.7.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

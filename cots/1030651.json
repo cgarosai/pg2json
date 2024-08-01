@@ -1,0 +1,10 @@
+{
+    "id": 1030651,
+    "name": "distribution_for_python",
+    "version": "2022.1",
+    "created_at": "2023-02-28T14:45:22",
+    "updated_at": "2023-04-03T13:46:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:distribution_for_python:2022.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

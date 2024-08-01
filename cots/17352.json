@@ -1,0 +1,10 @@
+{
+    "id": 17352,
+    "name": "analog_real-time_synthesizer",
+    "version": "2.2-11",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:49:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:analog_real-time_synthesizer:2.2-11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

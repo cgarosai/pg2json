@@ -1,0 +1,10 @@
+{
+    "id": 125870,
+    "name": "inspector",
+    "version": "2017",
+    "created_at": "2017-03-15T18:23:33",
+    "updated_at": "2021-04-29T12:28:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:inspector:2017:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

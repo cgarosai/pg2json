@@ -1,0 +1,10 @@
+{
+    "id": 530107,
+    "name": "xeon_gold_5118_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:07:34",
+    "updated_at": "2020-04-27T18:07:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_gold_5118_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

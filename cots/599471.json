@@ -1,0 +1,10 @@
+{
+    "id": 599471,
+    "name": "secure_messaging_gateway",
+    "version": "471",
+    "created_at": "2020-09-11T19:56:44",
+    "updated_at": "2020-09-11T19:56:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:secure_messaging_gateway:471:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

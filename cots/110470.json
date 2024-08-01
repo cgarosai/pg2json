@@ -1,0 +1,10 @@
+{
+    "id": 110470,
+    "name": "steam",
+    "version": "2.10.91.91",
+    "created_at": "2016-08-25T11:56:42",
+    "updated_at": "2022-02-07T18:09:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:valve:steam:2.10.91.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

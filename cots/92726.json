@@ -1,0 +1,10 @@
+{
+    "id": 92726,
+    "name": "pizza_hut",
+    "version": "2.0.5",
+    "created_at": "2014-09-15T16:54:22",
+    "updated_at": "2014-12-05T14:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pizzahut:pizza_hut:2.0.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

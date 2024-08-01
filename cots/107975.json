@@ -1,0 +1,10 @@
+{
+    "id": 107975,
+    "name": "content_services_switch_11500_firmware",
+    "version": "8.20.4.02",
+    "created_at": "2015-03-19T11:56:02",
+    "updated_at": "2015-07-24T19:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:content_services_switch_11500_firmware:8.20.4.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

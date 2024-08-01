@@ -1,0 +1,10 @@
+{
+    "id": 705550,
+    "name": "tumbleweed",
+    "version": "-",
+    "created_at": "2021-05-06T13:34:03",
+    "updated_at": "2021-06-25T13:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:opensuse:tumbleweed:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

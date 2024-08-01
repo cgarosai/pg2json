@@ -1,0 +1,10 @@
+{
+    "id": 751878,
+    "name": "bookshelf",
+    "version": "-",
+    "created_at": "2021-08-07T01:26:57",
+    "updated_at": "2021-08-10T15:21:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bookshelf_project:bookshelf:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 758073,
+    "name": "glance",
+    "version": "19.0.4",
+    "created_at": "2021-08-04T12:41:47",
+    "updated_at": "2021-08-05T10:48:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:glance:19.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

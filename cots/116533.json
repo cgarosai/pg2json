@@ -1,0 +1,10 @@
+{
+    "id": 116533,
+    "name": "tivoli_netview_access_services",
+    "version": "-",
+    "created_at": "2016-03-23T17:20:09",
+    "updated_at": "2016-03-23T17:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_netview_access_services:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

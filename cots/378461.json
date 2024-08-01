@@ -1,0 +1,10 @@
+{
+    "id": 378461,
+    "name": "hiawatha",
+    "version": "5.11.0",
+    "created_at": "2019-09-19T10:48:42",
+    "updated_at": "2019-09-19T10:48:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hiawatha-webserver:hiawatha:5.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

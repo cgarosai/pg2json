@@ -1,0 +1,10 @@
+{
+    "id": 708100,
+    "name": "sabnzbd",
+    "version": "3.0.2",
+    "created_at": "2021-05-12T16:03:01",
+    "updated_at": "2021-05-12T16:24:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sabnzbd:sabnzbd:3.0.2:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

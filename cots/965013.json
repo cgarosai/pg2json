@@ -1,0 +1,10 @@
+{
+    "id": 965013,
+    "name": "haas_controller",
+    "version": "100.20.000.1110",
+    "created_at": "2022-10-31T11:56:39",
+    "updated_at": "2022-10-31T12:25:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haascnc:haas_controller:100.20.000.1110:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

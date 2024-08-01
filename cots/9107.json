@@ -1,0 +1,10 @@
+{
+    "id": 9107,
+    "name": "vpn_3005_concentrator",
+    "version": "3.6.7.b",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-28T16:38:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vpn_3005_concentrator:3.6.7.b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

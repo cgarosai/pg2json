@@ -1,0 +1,10 @@
+{
+    "id": 99785,
+    "name": "garagesale",
+    "version": "1.2.2",
+    "created_at": "2014-07-03T11:21:12",
+    "updated_at": "2015-03-10T14:31:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:garagesale_project:garagesale:1.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

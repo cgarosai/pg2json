@@ -1,0 +1,10 @@
+{
+    "id": 123774,
+    "name": "ssd_e_5400s_m.2_firmware",
+    "version": "lsf036e",
+    "created_at": "2017-08-24T15:09:52",
+    "updated_at": "2021-05-04T12:22:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_e_5400s_m.2_firmware:lsf036e:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

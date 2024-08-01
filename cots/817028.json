@@ -1,0 +1,10 @@
+{
+    "id": 817028,
+    "name": "geforce_gtx_1070_ti",
+    "version": "-",
+    "created_at": "2021-11-24T13:09:26",
+    "updated_at": "2021-12-03T17:47:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:geforce_gtx_1070_ti:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

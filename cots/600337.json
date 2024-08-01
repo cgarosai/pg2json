@@ -1,0 +1,10 @@
+{
+    "id": 600337,
+    "name": "2530_firmware",
+    "version": "16.10.0009",
+    "created_at": "2020-10-08T08:50:41",
+    "updated_at": "2020-10-08T08:50:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:2530_firmware:16.10.0009:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

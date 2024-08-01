@@ -1,0 +1,10 @@
+{
+    "id": 58428,
+    "name": "client_automation_satellite",
+    "version": "7.80.0",
+    "created_at": "2012-05-14T21:29:52",
+    "updated_at": "2012-05-14T21:29:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:client_automation_satellite:7.80.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

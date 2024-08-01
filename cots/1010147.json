@@ -1,0 +1,10 @@
+{
+    "id": 1010147,
+    "name": "dnsserver",
+    "version": "8.1.1",
+    "created_at": "2023-01-19T03:22:04",
+    "updated_at": "2023-01-27T18:11:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:technitium:dnsserver:8.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

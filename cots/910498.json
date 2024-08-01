@@ -1,0 +1,10 @@
+{
+    "id": 910498,
+    "name": "popups",
+    "version": "1.6",
+    "created_at": "2022-08-05T14:44:40",
+    "updated_at": "2022-08-05T14:46:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:timersys:popups:1.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

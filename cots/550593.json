@@ -1,0 +1,10 @@
+{
+    "id": 550593,
+    "name": "goliath",
+    "version": "0.9.4",
+    "created_at": "2020-06-15T13:58:21",
+    "updated_at": "2020-06-15T13:58:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goliath_project:goliath:0.9.4:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

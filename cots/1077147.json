@@ -1,0 +1,10 @@
+{
+    "id": 1077147,
+    "name": "atp800_firmware",
+    "version": "5.36",
+    "created_at": "2023-05-01T10:36:18",
+    "updated_at": "2023-06-07T16:20:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:atp800_firmware:5.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

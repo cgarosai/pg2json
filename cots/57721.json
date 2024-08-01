@@ -1,0 +1,10 @@
+{
+    "id": 57721,
+    "name": "diskeeper",
+    "version": "10.0.593",
+    "created_at": "2012-05-08T11:52:11",
+    "updated_at": "2012-05-08T11:52:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:condusiv:diskeeper:10.0.593:*:*:*:server_enterprise:*:*:*",
+    "to_analyse": false
+}

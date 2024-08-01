@@ -1,0 +1,10 @@
+{
+    "id": 1160102,
+    "name": "secure_connect_gateway",
+    "version": "5.14.00.12",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:secure_connect_gateway:5.14.00.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

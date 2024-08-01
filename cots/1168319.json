@@ -1,0 +1,10 @@
+{
+    "id": 1168319,
+    "name": "guava",
+    "version": "32.0.0",
+    "created_at": "2023-09-28T09:03:45",
+    "updated_at": "2023-09-28T09:03:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:guava:32.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

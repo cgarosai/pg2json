@@ -1,0 +1,10 @@
+{
+    "id": 23992,
+    "name": "arcserve_backup",
+    "version": "r12.5",
+    "created_at": "2010-06-08T11:37:36",
+    "updated_at": "2021-04-07T16:12:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:arcserve_backup:r12.5:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 658109,
+    "name": "geforce_experience",
+    "version": "3.21",
+    "created_at": "2021-02-08T18:33:08",
+    "updated_at": "2021-02-08T18:33:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:geforce_experience:3.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

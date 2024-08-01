@@ -1,0 +1,10 @@
+{
+    "id": 155873,
+    "name": "vim",
+    "version": "8.0.0783",
+    "created_at": "2018-05-24T18:12:22",
+    "updated_at": "2018-05-24T18:12:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vim:vim:8.0.0783:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

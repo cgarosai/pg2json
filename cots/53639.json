@@ -1,0 +1,10 @@
+{
+    "id": 53639,
+    "name": "mmc_snapin",
+    "version": "7.10.30109",
+    "created_at": "2012-07-10T01:18:54",
+    "updated_at": "2012-07-10T01:18:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:mmc_snapin:7.10.30109:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

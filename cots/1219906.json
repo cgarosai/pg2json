@@ -1,0 +1,10 @@
+{
+    "id": 1219906,
+    "name": "codeready_linux_builder_eus_for_power_little_endian_eus",
+    "version": "9.0_ppc64le",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:codeready_linux_builder_eus_for_power_little_endian_eus:9.0_ppc64le:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 137749,
+    "name": "point_of_sale_xpress_server",
+    "version": "1030",
+    "created_at": "2017-11-07T14:10:52",
+    "updated_at": "2021-05-10T15:18:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:point_of_sale_xpress_server:1030:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

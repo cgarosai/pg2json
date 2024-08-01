@@ -1,0 +1,10 @@
+{
+    "id": 112734,
+    "name": "dbd-mysql",
+    "version": "4.027",
+    "created_at": "2016-12-05T14:25:48",
+    "updated_at": "2016-12-05T14:25:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dbd-mysql_project:dbd-mysql:4.027:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 112345,
+    "name": "simatic_winac_rtx_f_2010",
+    "version": "-",
+    "created_at": "2016-11-17T01:12:55",
+    "updated_at": "2021-06-15T19:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_winac_rtx_f_2010:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

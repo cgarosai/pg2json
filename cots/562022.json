@@ -1,0 +1,10 @@
+{
+    "id": 562022,
+    "name": "testfairy",
+    "version": "4.2",
+    "created_at": "2020-07-14T14:59:58",
+    "updated_at": "2020-07-14T14:59:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:testfairy:4.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

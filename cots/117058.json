@@ -1,0 +1,10 @@
+{
+    "id": 117058,
+    "name": "unity_connection",
+    "version": "7.0_base",
+    "created_at": "2016-04-25T12:07:06",
+    "updated_at": "2016-04-25T12:07:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unity_connection:7.0_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

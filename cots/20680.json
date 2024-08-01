@@ -1,0 +1,10 @@
+{
+    "id": 20680,
+    "name": "touch_pad_driver",
+    "version": "7.102.302.203",
+    "created_at": "2010-01-07T15:09:17",
+    "updated_at": "2010-01-07T15:09:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alps:touch_pad_driver:7.102.302.203:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

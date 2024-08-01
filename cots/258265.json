@@ -1,0 +1,10 @@
+{
+    "id": 258265,
+    "name": "unifi_firmware",
+    "version": "-",
+    "created_at": "2019-06-10T13:04:12",
+    "updated_at": "2021-05-28T13:58:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:unifi_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

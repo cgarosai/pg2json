@@ -1,0 +1,10 @@
+{
+    "id": 846833,
+    "name": "sidekiq",
+    "version": "6.4.0",
+    "created_at": "2022-02-07T17:56:26",
+    "updated_at": "2022-03-04T18:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contribsys:sidekiq:6.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

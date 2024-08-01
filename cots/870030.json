@@ -1,0 +1,10 @@
+{
+    "id": 870030,
+    "name": "r430_firmware",
+    "version": "-",
+    "created_at": "2022-05-02T15:26:19",
+    "updated_at": "2022-05-09T15:42:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:r430_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

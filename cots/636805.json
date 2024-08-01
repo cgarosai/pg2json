@@ -1,0 +1,10 @@
+{
+    "id": 636805,
+    "name": "fnet",
+    "version": "1.2.0",
+    "created_at": "2020-12-15T11:50:35",
+    "updated_at": "2023-10-12T16:31:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fnet_project:fnet:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 161399,
+    "name": "botan",
+    "version": "-",
+    "created_at": "2018-08-07T12:50:36",
+    "updated_at": "2021-04-26T13:03:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:botan_project:botan:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

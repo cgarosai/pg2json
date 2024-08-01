@@ -1,0 +1,10 @@
+{
+    "id": 80615,
+    "name": "endpoint_security_mi_server_r73",
+    "version": "3.0.0",
+    "created_at": "2014-01-23T15:16:20",
+    "updated_at": "2014-06-30T15:49:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:endpoint_security_mi_server_r73:3.0.0:hfa2.5:*:*:*:*:*:*",
+    "to_analyse": false
+}

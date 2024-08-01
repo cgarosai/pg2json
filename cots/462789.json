@@ -1,0 +1,10 @@
+{
+    "id": 462789,
+    "name": "horizon_view_agent",
+    "version": "7.10.0",
+    "created_at": "2020-01-06T12:54:12",
+    "updated_at": "2020-01-06T12:54:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:horizon_view_agent:7.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

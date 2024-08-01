@@ -1,0 +1,10 @@
+{
+    "id": 64366,
+    "name": "acrobat",
+    "version": "10.1.5",
+    "created_at": "2013-01-10T18:06:12",
+    "updated_at": "2013-01-10T18:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:acrobat:10.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

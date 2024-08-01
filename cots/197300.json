@@ -1,0 +1,10 @@
+{
+    "id": 197300,
+    "name": "arduino_mqtt_client",
+    "version": "2.4",
+    "created_at": "2018-12-13T13:58:41",
+    "updated_at": "2021-03-02T13:47:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:losant:arduino_mqtt_client:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

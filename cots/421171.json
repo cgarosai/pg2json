@@ -1,0 +1,10 @@
+{
+    "id": 421171,
+    "name": "securecore",
+    "version": "3.0",
+    "created_at": "2019-11-05T17:18:29",
+    "updated_at": "2019-11-05T17:18:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ftsafe:securecore:3.0:*:*:*:standard:*:*:*",
+    "to_analyse": false
+}

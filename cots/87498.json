@@ -1,0 +1,10 @@
+{
+    "id": 87498,
+    "name": "service_portal",
+    "version": "9.4.1",
+    "created_at": "2013-11-18T17:30:34",
+    "updated_at": "2013-11-19T19:00:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:service_portal:9.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

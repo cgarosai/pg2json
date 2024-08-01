@@ -1,0 +1,10 @@
+{
+    "id": 967783,
+    "name": "hotelmanager",
+    "version": "1.2",
+    "created_at": "2022-11-05T01:22:42",
+    "updated_at": "2023-07-07T11:23:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hotelmanager_project:hotelmanager:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1248992,
+    "name": "firefox_esr",
+    "version": "115.7",
+    "created_at": "2024-01-31T18:19:40",
+    "updated_at": "2024-01-31T18:19:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox_esr:115.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 90769,
+    "name": "cups",
+    "version": "1.7.4",
+    "created_at": "2014-07-23T14:44:53",
+    "updated_at": "2014-07-23T14:46:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:cups:1.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

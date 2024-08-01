@@ -1,0 +1,10 @@
+{
+    "id": 1169293,
+    "name": "supermicro-cms",
+    "version": "3.11",
+    "created_at": "2023-09-28T13:11:06",
+    "updated_at": "2023-09-28T13:11:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:supermicro-cms_project:supermicro-cms:3.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

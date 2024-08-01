@@ -1,0 +1,10 @@
+{
+    "id": 350622,
+    "name": "ghostscript",
+    "version": "9.00",
+    "created_at": "2019-09-06T15:38:53",
+    "updated_at": "2019-09-06T15:38:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artifex:ghostscript:9.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

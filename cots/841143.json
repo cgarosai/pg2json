@@ -1,0 +1,10 @@
+{
+    "id": 841143,
+    "name": "netweaver_application_server_java",
+    "version": "krnl64uc_7.49",
+    "created_at": "2022-02-11T14:01:36",
+    "updated_at": "2022-04-08T16:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_application_server_java:krnl64uc_7.49:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

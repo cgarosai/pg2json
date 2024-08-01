@@ -1,0 +1,10 @@
+{
+    "id": 838781,
+    "name": "jackrabbit_oak",
+    "version": "1.36",
+    "created_at": "2022-01-20T16:14:58",
+    "updated_at": "2022-01-20T16:16:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:jackrabbit_oak:1.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

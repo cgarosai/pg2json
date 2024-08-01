@@ -1,0 +1,10 @@
+{
+    "id": 514396,
+    "name": "gradle",
+    "version": "3.24.0",
+    "created_at": "2020-03-31T15:04:57",
+    "updated_at": "2020-03-31T15:04:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diffplug:gradle:3.24.0:*:*:*:*:spotless:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 202293,
+    "name": "active_iq",
+    "version": "-",
+    "created_at": "2019-02-27T18:33:05",
+    "updated_at": "2019-02-27T18:33:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:active_iq:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

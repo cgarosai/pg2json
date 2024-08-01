@@ -1,0 +1,10 @@
+{
+    "id": 559959,
+    "name": "graphql-playground-middleware-koa",
+    "version": "1.6.2",
+    "created_at": "2020-06-11T13:48:02",
+    "updated_at": "2020-06-11T13:48:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prisma:graphql-playground-middleware-koa:1.6.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

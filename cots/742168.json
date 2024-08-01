@@ -1,0 +1,10 @@
+{
+    "id": 742168,
+    "name": "systemd",
+    "version": "246.15",
+    "created_at": "2021-07-26T15:03:58",
+    "updated_at": "2022-06-03T11:25:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:systemd:246.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1036724,
+    "name": "geotools",
+    "version": "10",
+    "created_at": "2023-02-17T15:32:13",
+    "updated_at": "2023-02-17T15:47:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geotools:geotools:10:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

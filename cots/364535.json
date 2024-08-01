@@ -1,0 +1,10 @@
+{
+    "id": 364535,
+    "name": "tectonic",
+    "version": "1.6.7-tectonic.2",
+    "created_at": "2019-09-18T10:02:53",
+    "updated_at": "2019-09-18T10:02:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:tectonic:1.6.7-tectonic.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

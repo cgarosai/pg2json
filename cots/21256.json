@@ -1,0 +1,10 @@
+{
+    "id": 21256,
+    "name": "secure_desktop",
+    "version": "3.4.2048",
+    "created_at": "2010-02-04T14:20:18",
+    "updated_at": "2012-08-24T17:55:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_desktop:3.4.2048:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

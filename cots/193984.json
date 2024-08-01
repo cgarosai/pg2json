@@ -1,0 +1,10 @@
+{
+    "id": 193984,
+    "name": "pypiserver",
+    "version": "1.1.6",
+    "created_at": "2019-01-28T15:10:42",
+    "updated_at": "2019-01-28T15:10:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:pypiserver:1.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

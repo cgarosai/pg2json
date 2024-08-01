@@ -1,0 +1,10 @@
+{
+    "id": 964080,
+    "name": "halo_firmware",
+    "version": "-",
+    "created_at": "2022-11-21T17:18:40",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:elsight:halo_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

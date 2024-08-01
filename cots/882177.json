@@ -1,0 +1,10 @@
+{
+    "id": 882177,
+    "name": "pcoip_standard_agent",
+    "version": "-",
+    "created_at": "2022-06-06T13:33:58",
+    "updated_at": "2022-06-06T13:36:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_standard_agent:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

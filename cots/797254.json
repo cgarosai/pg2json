@@ -1,0 +1,10 @@
+{
+    "id": 797254,
+    "name": "athlon",
+    "version": "-",
+    "created_at": "2021-10-18T11:51:19",
+    "updated_at": "2021-12-14T17:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:athlon:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1169494,
+    "name": "warp",
+    "version": "2023.3.381.0",
+    "created_at": "2023-09-28T14:39:08",
+    "updated_at": "2023-09-28T14:39:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:warp:2023.3.381.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

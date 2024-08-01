@@ -1,0 +1,10 @@
+{
+    "id": 1262205,
+    "name": "arcmap",
+    "version": "10.3",
+    "created_at": "2024-05-20T16:56:40",
+    "updated_at": "2024-05-20T16:56:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcmap:10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

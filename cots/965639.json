@@ -1,0 +1,10 @@
+{
+    "id": 965639,
+    "name": "rke2",
+    "version": "1.18.17",
+    "created_at": "2022-10-31T16:29:45",
+    "updated_at": "2022-11-01T13:31:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rancher:rke2:1.18.17:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 274250,
+    "name": "international_components_for_unicode",
+    "version": "60",
+    "created_at": "2019-07-01T14:21:59",
+    "updated_at": "2019-07-01T14:21:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icu-project:international_components_for_unicode:60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

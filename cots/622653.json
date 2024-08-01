@@ -1,0 +1,10 @@
+{
+    "id": 622653,
+    "name": "hardware_management_console",
+    "version": "8.3.0",
+    "created_at": "2020-12-08T15:33:07",
+    "updated_at": "2020-12-08T15:33:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:hardware_management_console:8.3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

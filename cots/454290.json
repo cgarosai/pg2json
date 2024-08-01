@@ -1,0 +1,10 @@
+{
+    "id": 454290,
+    "name": "audible",
+    "version": "2.34.0",
+    "created_at": "2019-12-11T17:16:09",
+    "updated_at": "2019-12-11T17:16:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:audible:2.34.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

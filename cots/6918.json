@@ -1,0 +1,10 @@
+{
+    "id": 6918,
+    "name": "corporate_time_outlook_connector",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:40:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:corporate_time_outlook_connector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

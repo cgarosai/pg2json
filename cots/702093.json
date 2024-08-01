@@ -1,0 +1,10 @@
+{
+    "id": 702093,
+    "name": "all_404_redirect_to_homepage",
+    "version": "1.9",
+    "created_at": "2021-05-21T15:23:02",
+    "updated_at": "2021-05-21T16:24:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clogica:all_404_redirect_to_homepage:1.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

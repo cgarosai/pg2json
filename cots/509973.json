@@ -1,0 +1,10 @@
+{
+    "id": 509973,
+    "name": "rse6500_firmware",
+    "version": "v500r002c00spc900",
+    "created_at": "2020-03-06T15:21:53",
+    "updated_at": "2020-03-06T15:21:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:rse6500_firmware:v500r002c00spc900:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

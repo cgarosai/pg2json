@@ -1,0 +1,10 @@
+{
+    "id": 530901,
+    "name": "r6250_firmware",
+    "version": "1.0.4.12",
+    "created_at": "2020-04-28T12:45:02",
+    "updated_at": "2020-04-28T12:45:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6250_firmware:1.0.4.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

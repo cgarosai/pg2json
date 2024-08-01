@@ -1,0 +1,10 @@
+{
+    "id": 193791,
+    "name": "rv320_firmware",
+    "version": "1.4.2.15",
+    "created_at": "2019-01-25T12:51:44",
+    "updated_at": "2021-04-23T12:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv320_firmware:1.4.2.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

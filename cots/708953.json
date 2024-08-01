@@ -1,0 +1,10 @@
+{
+    "id": 708953,
+    "name": "ts05_firmware",
+    "version": "1.10.36",
+    "created_at": "2021-05-17T16:03:10",
+    "updated_at": "2021-07-08T17:22:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ave:ts05_firmware:1.10.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

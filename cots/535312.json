@@ -1,0 +1,10 @@
+{
+    "id": 535312,
+    "name": "vm_virtualbox",
+    "version": "5.2.36",
+    "created_at": "2020-04-14T09:24:27",
+    "updated_at": "2020-04-14T09:24:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:vm_virtualbox:5.2.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1084290,
+    "name": "wp_clean_up",
+    "version": "-",
+    "created_at": "2023-06-01T13:02:03",
+    "updated_at": "2023-06-16T21:47:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_clean_up_project:wp_clean_up:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

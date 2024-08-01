@@ -1,0 +1,10 @@
+{
+    "id": 278901,
+    "name": "minicom",
+    "version": "2.7.1",
+    "created_at": "2019-06-25T13:59:47",
+    "updated_at": "2019-06-25T13:59:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:minicom_project:minicom:2.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

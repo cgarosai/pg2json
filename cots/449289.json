@@ -1,0 +1,10 @@
+{
+    "id": 449289,
+    "name": "server",
+    "version": "-",
+    "created_at": "2019-12-02T15:46:24",
+    "updated_at": "2022-07-27T15:08:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octopus:server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

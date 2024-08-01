@@ -1,0 +1,10 @@
+{
+    "id": 1160141,
+    "name": "m6_firmware",
+    "version": "1.0.4",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fiio:m6_firmware:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 33090,
+    "name": "tools",
+    "version": "-",
+    "created_at": "2011-03-04T16:47:04",
+    "updated_at": "2011-03-04T16:47:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:tools:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

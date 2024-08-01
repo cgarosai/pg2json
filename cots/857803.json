@@ -1,0 +1,10 @@
+{
+    "id": 857803,
+    "name": "vdi_client",
+    "version": "5.4.2.1006",
+    "created_at": "2022-03-04T17:54:08",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sangfor:vdi_client:5.4.2.1006:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

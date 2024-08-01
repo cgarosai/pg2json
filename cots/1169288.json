@@ -1,0 +1,10 @@
+{
+    "id": 1169288,
+    "name": "optical_network_controller",
+    "version": "2.1",
+    "created_at": "2023-09-28T13:10:54",
+    "updated_at": "2023-09-28T13:10:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:optical_network_controller:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

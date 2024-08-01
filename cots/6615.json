@@ -1,0 +1,10 @@
+{
+    "id": 6615,
+    "name": "antivirus_engine",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:39:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:antivirus_engine:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

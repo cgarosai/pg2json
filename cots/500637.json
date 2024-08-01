@@ -1,0 +1,10 @@
+{
+    "id": 500637,
+    "name": "ga10",
+    "version": "r1.01.01",
+    "created_at": "2020-03-06T17:41:35",
+    "updated_at": "2020-03-06T17:41:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yokogawa:ga10:r1.01.01:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

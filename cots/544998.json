@@ -1,0 +1,10 @@
+{
+    "id": 544998,
+    "name": "knot_dns",
+    "version": "2.6.5",
+    "created_at": "2020-05-28T12:31:38",
+    "updated_at": "2020-05-28T12:31:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:knot-dns:knot_dns:2.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

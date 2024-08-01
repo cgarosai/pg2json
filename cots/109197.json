@@ -1,0 +1,10 @@
+{
+    "id": 109197,
+    "name": "amazon_aws",
+    "version": "7.x-1.2",
+    "created_at": "2015-04-23T03:09:09",
+    "updated_at": "2015-05-11T14:35:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon_aws_project:amazon_aws:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

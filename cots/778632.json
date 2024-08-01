@@ -1,0 +1,10 @@
+{
+    "id": 778632,
+    "name": "white_source",
+    "version": "1.7.5",
+    "created_at": "2021-09-14T16:13:29",
+    "updated_at": "2021-09-14T16:15:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:white_source:1.7.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

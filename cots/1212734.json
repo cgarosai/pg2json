@@ -1,0 +1,10 @@
+{
+    "id": 1212734,
+    "name": "meeting_software_development_kit",
+    "version": "5.13.5",
+    "created_at": "2023-12-19T15:20:51",
+    "updated_at": "2023-12-19T15:20:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:meeting_software_development_kit:5.13.5:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

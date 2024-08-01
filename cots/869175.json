@@ -1,0 +1,10 @@
+{
+    "id": 869175,
+    "name": "simatic_wincc_runtime_professional",
+    "version": "13",
+    "created_at": "2022-03-31T16:12:39",
+    "updated_at": "2022-05-27T01:44:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_runtime_professional:13:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

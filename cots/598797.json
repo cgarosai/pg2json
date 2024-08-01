@@ -1,0 +1,10 @@
+{
+    "id": 598797,
+    "name": "trb245_firmware",
+    "version": "00.02.04.01",
+    "created_at": "2020-09-11T13:02:47",
+    "updated_at": "2020-09-11T13:02:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teltonika-networks:trb245_firmware:00.02.04.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

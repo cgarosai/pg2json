@@ -1,0 +1,10 @@
+{
+    "id": 408333,
+    "name": "enterprise_server",
+    "version": "3.0",
+    "created_at": "2019-10-10T15:44:37",
+    "updated_at": "2021-04-09T15:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:enterprise_server:3.0:patch_3:*:*:*:*:*:*",
+    "to_analyse": false
+}

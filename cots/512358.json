@@ -1,0 +1,10 @@
+{
+    "id": 512358,
+    "name": "openshift_pipeline",
+    "version": "1.0.37",
+    "created_at": "2020-03-26T20:04:04",
+    "updated_at": "2020-03-26T20:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:openshift_pipeline:1.0.37:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

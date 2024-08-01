@@ -1,0 +1,10 @@
+{
+    "id": 578646,
+    "name": "ubridge",
+    "version": "0.9.10",
+    "created_at": "2020-08-03T09:52:54",
+    "updated_at": "2020-08-03T09:52:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gns3:ubridge:0.9.10:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

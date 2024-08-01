@@ -1,0 +1,10 @@
+{
+    "id": 379538,
+    "name": "m-server",
+    "version": "0.0.1",
+    "created_at": "2019-09-19T13:28:41",
+    "updated_at": "2019-09-19T13:28:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:m-server_project:m-server:0.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

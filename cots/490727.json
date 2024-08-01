@@ -1,0 +1,10 @@
+{
+    "id": 490727,
+    "name": "rp200_firmware",
+    "version": "v600r006c00",
+    "created_at": "2020-02-21T21:01:20",
+    "updated_at": "2020-02-21T21:01:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:rp200_firmware:v600r006c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

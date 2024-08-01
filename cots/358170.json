@@ -1,0 +1,10 @@
+{
+    "id": 358170,
+    "name": "frappe",
+    "version": "7.0.38",
+    "created_at": "2019-09-04T15:17:54",
+    "updated_at": "2019-09-04T15:17:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frappe:frappe:7.0.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

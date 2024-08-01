@@ -1,0 +1,10 @@
+{
+    "id": 959834,
+    "name": "nginx_plus",
+    "version": "r22",
+    "created_at": "2022-10-21T23:11:01",
+    "updated_at": "2022-10-24T11:32:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:nginx_plus:r22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

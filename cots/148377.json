@@ -1,0 +1,10 @@
+{
+    "id": 148377,
+    "name": "nitrox_ssl_sdk",
+    "version": "6.1.0",
+    "created_at": "2018-03-29T14:45:32",
+    "updated_at": "2021-05-26T14:24:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cavium:nitrox_ssl_sdk:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

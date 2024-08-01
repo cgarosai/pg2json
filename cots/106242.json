@@ -1,0 +1,10 @@
+{
+    "id": 106242,
+    "name": "whcms",
+    "version": "0.115",
+    "created_at": "2015-01-02T14:19:08",
+    "updated_at": "2015-02-07T19:51:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whcms_project:whcms:0.115:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

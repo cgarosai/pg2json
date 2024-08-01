@@ -1,0 +1,10 @@
+{
+    "id": 38489,
+    "name": "tivoli_provisioning_manager_os_deployment",
+    "version": "7.1.1.2",
+    "created_at": "2010-10-29T13:15:45",
+    "updated_at": "2010-10-29T15:39:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_provisioning_manager_os_deployment:7.1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

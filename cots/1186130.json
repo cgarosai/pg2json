@@ -1,0 +1,10 @@
+{
+    "id": 1186130,
+    "name": "run_once_duration_override_operator",
+    "version": "-",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:run_once_duration_override_operator:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

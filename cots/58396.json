@@ -1,0 +1,10 @@
+{
+    "id": 58396,
+    "name": "care_pack_core",
+    "version": "1.0.0.0",
+    "created_at": "2012-05-14T21:29:45",
+    "updated_at": "2012-05-14T21:29:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:care_pack_core:1.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

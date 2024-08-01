@@ -1,0 +1,10 @@
+{
+    "id": 450764,
+    "name": "virtual_desktop_server_manager",
+    "version": "4.9.6",
+    "created_at": "2019-12-09T18:31:59",
+    "updated_at": "2019-12-09T18:31:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:virtual_desktop_server_manager:4.9.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

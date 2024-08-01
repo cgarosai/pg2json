@@ -1,0 +1,10 @@
+{
+    "id": 3645,
+    "name": "internet_scanner",
+    "version": "6.2.1",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T18:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iss:internet_scanner:6.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

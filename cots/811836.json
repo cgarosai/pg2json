@@ -1,0 +1,10 @@
+{
+    "id": 811836,
+    "name": "identity_manager_connector",
+    "version": "11.1.1.5.0",
+    "created_at": "2021-12-02T18:03:21",
+    "updated_at": "2021-12-03T18:39:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:identity_manager_connector:11.1.1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

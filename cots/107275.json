@@ -1,0 +1,10 @@
+{
+    "id": 107275,
+    "name": "jython",
+    "version": "2.2.1",
+    "created_at": "2015-02-13T18:16:57",
+    "updated_at": "2015-02-14T10:18:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jython_project:jython:2.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1118958,
+    "name": "statamic",
+    "version": "3.3.32",
+    "created_at": "2023-07-11T13:57:06",
+    "updated_at": "2023-07-11T14:01:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:statamic:statamic:3.3.32:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

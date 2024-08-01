@@ -1,0 +1,10 @@
+{
+    "id": 731889,
+    "name": "solid_edge",
+    "version": "se2021",
+    "created_at": "2021-07-13T11:50:35",
+    "updated_at": "2021-07-15T15:58:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:solid_edge:se2021:maintenance_pack4:*:*:*:*:*:*",
+    "to_analyse": false
+}

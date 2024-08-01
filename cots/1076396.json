@@ -1,0 +1,10 @@
+{
+    "id": 1076396,
+    "name": "passport",
+    "version": "1.0.0",
+    "created_at": "2023-04-28T12:14:26",
+    "updated_at": "2023-05-02T17:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastify:passport:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

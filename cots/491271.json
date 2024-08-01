@@ -1,0 +1,10 @@
+{
+    "id": 491271,
+    "name": "libuv",
+    "version": "1.5.0",
+    "created_at": "2020-02-24T13:47:05",
+    "updated_at": "2020-02-24T13:47:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libuv:libuv:1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

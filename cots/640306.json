@@ -1,0 +1,10 @@
+{
+    "id": 640306,
+    "name": "univerge_sv8500_firmware",
+    "version": "s6",
+    "created_at": "2021-01-21T15:48:57",
+    "updated_at": "2021-05-27T12:46:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nec:univerge_sv8500_firmware:s6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 109505,
+    "name": "pacemaker_configuration_system",
+    "version": "0.9.137",
+    "created_at": "2015-05-15T12:33:26",
+    "updated_at": "2015-07-31T16:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedora:pacemaker_configuration_system:0.9.137:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 638420,
+    "name": "ghost_alpine_docker_image",
+    "version": "2.2.2",
+    "created_at": "2020-12-17T14:26:10",
+    "updated_at": "2021-04-16T12:48:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:ghost_alpine_docker_image:2.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

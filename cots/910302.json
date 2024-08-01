@@ -1,0 +1,10 @@
+{
+    "id": 910302,
+    "name": "ecos_msdk",
+    "version": "-",
+    "created_at": "2022-08-05T13:39:14",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:realtek:ecos_msdk:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

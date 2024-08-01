@@ -1,0 +1,10 @@
+{
+    "id": 91256,
+    "name": "reportbug",
+    "version": "6.4.4",
+    "created_at": "2014-08-07T10:37:17",
+    "updated_at": "2014-08-27T22:26:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:reportbug:6.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

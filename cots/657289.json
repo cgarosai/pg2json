@@ -1,0 +1,10 @@
+{
+    "id": 657289,
+    "name": "openhab",
+    "version": "3.1.0",
+    "created_at": "2021-02-08T12:04:21",
+    "updated_at": "2021-02-08T12:04:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openhab:openhab:3.1.0:m1:*:*:*:*:*:*",
+    "to_analyse": false
+}

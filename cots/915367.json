@@ -1,0 +1,10 @@
+{
+    "id": 915367,
+    "name": "anchorectl",
+    "version": "0.1.5",
+    "created_at": "2022-07-26T16:35:53",
+    "updated_at": "2022-07-27T14:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anchore:anchorectl:0.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

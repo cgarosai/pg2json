@@ -1,0 +1,10 @@
+{
+    "id": 1074654,
+    "name": "ryzen_5950x_firmware",
+    "version": "cezannepi-fp6_1.0.0.b",
+    "created_at": "2023-05-18T16:14:41",
+    "updated_at": "2023-08-11T22:38:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_5950x_firmware:cezannepi-fp6_1.0.0.b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

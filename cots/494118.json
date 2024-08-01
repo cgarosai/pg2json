@@ -1,0 +1,10 @@
+{
+    "id": 494118,
+    "name": "sg250-08_firmware",
+    "version": "-",
+    "created_at": "2020-02-27T12:08:01",
+    "updated_at": "2020-02-27T12:08:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg250-08_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

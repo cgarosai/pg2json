@@ -1,0 +1,10 @@
+{
+    "id": 968496,
+    "name": "auditor",
+    "version": "10.5",
+    "created_at": "2022-11-08T14:24:24",
+    "updated_at": "2022-11-09T14:10:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netwrix:auditor:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

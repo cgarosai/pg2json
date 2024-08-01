@@ -1,0 +1,10 @@
+{
+    "id": 113003,
+    "name": "thinkpad_x1_yoga",
+    "version": "-",
+    "created_at": "2016-12-06T18:23:43",
+    "updated_at": "2021-05-06T14:28:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lenovo:thinkpad_x1_yoga:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

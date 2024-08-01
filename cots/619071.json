@@ -1,0 +1,10 @@
+{
+    "id": 619071,
+    "name": "melsec_q-q03udecpu_firmware",
+    "version": "22081",
+    "created_at": "2020-11-12T13:55:42",
+    "updated_at": "2021-04-19T12:12:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:melsec_q-q03udecpu_firmware:22081:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

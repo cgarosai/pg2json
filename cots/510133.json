@@ -1,0 +1,10 @@
+{
+    "id": 510133,
+    "name": "xeon_w-2265_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:33:39",
+    "updated_at": "2020-03-23T16:33:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_w-2265_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71352,
+    "name": "3com_baseline_plus_switch",
+    "version": "2900g",
+    "created_at": "2013-07-08T16:55:24",
+    "updated_at": "2013-07-12T15:50:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3com_baseline_plus_switch:2900g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

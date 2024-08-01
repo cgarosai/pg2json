@@ -1,0 +1,10 @@
+{
+    "id": 109005,
+    "name": "retail_applications",
+    "version": "13.0",
+    "created_at": "2015-04-17T11:36:00",
+    "updated_at": "2015-04-20T12:55:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_applications:13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

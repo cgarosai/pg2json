@@ -1,0 +1,10 @@
+{
+    "id": 103398,
+    "name": "powerpoint",
+    "version": "2016",
+    "created_at": "2016-01-14T17:09:02",
+    "updated_at": "2016-01-14T17:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:powerpoint:2016:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

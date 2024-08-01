@@ -1,0 +1,10 @@
+{
+    "id": 618131,
+    "name": "balance_20x_firmware",
+    "version": "8.1.0",
+    "created_at": "2020-11-06T12:52:45",
+    "updated_at": "2020-11-06T12:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:peplink:balance_20x_firmware:8.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

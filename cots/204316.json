@@ -1,0 +1,10 @@
+{
+    "id": 204316,
+    "name": "global_management_system",
+    "version": "8.4",
+    "created_at": "2019-03-04T17:13:52",
+    "updated_at": "2021-03-02T14:22:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:global_management_system:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 444006,
+    "name": "libuser",
+    "version": "0.61",
+    "created_at": "2019-12-04T15:47:59",
+    "updated_at": "2019-12-04T15:47:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libuser_project:libuser:0.61:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 113248,
+    "name": "simatic_s7-300_cpu_312",
+    "version": "-",
+    "created_at": "2016-12-21T15:50:38",
+    "updated_at": "2021-05-14T16:34:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_s7-300_cpu_312:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

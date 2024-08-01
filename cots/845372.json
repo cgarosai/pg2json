@@ -1,0 +1,10 @@
+{
+    "id": 845372,
+    "name": "apc_rack_power_distribution_units",
+    "version": "-",
+    "created_at": "2022-02-03T14:31:01",
+    "updated_at": "2022-02-07T19:03:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:schneider-electric:apc_rack_power_distribution_units:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

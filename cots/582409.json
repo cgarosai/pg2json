@@ -1,0 +1,10 @@
+{
+    "id": 582409,
+    "name": "cx-supervisor",
+    "version": "3.3",
+    "created_at": "2020-08-31T10:32:12",
+    "updated_at": "2020-08-31T10:32:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:omron:cx-supervisor:3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

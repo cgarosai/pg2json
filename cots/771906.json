@@ -1,0 +1,10 @@
+{
+    "id": 771906,
+    "name": "ncs_540_fronthaul",
+    "version": "-",
+    "created_at": "2021-09-20T15:16:34",
+    "updated_at": "2023-01-25T17:37:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ncs_540_fronthaul:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

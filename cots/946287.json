@@ -1,0 +1,10 @@
+{
+    "id": 946287,
+    "name": "agentless_management",
+    "version": "2.10.0.0",
+    "created_at": "2022-09-23T12:12:35",
+    "updated_at": "2022-09-23T12:13:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:agentless_management:2.10.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 238413,
+    "name": "300_series_managed_switches_firmware",
+    "version": "1.4.10.6",
+    "created_at": "2019-05-06T14:23:36",
+    "updated_at": "2021-04-14T17:42:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:300_series_managed_switches_firmware:1.4.10.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

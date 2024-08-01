@@ -1,0 +1,10 @@
+{
+    "id": 10313,
+    "name": "rhel_productivity",
+    "version": "5",
+    "created_at": "2007-09-12T20:56:38",
+    "updated_at": "2008-04-15T20:38:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:rhel_productivity:5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

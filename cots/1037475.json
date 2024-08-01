@@ -1,0 +1,10 @@
+{
+    "id": 1037475,
+    "name": "fastify-multipart",
+    "version": "3.3.1",
+    "created_at": "2023-02-21T15:01:01",
+    "updated_at": "2023-02-23T12:58:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastify:fastify-multipart:3.3.1:*:*:*:*:fastify:*:*",
+    "to_analyse": false
+}

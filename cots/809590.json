@@ -1,0 +1,10 @@
+{
+    "id": 809590,
+    "name": "schreikasten",
+    "version": "-",
+    "created_at": "2021-11-10T16:49:25",
+    "updated_at": "2021-11-18T17:21:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schreikasten_project:schreikasten:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

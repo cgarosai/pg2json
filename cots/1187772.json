@@ -1,0 +1,10 @@
+{
+    "id": 1187772,
+    "name": "cmt-hdm_firmware",
+    "version": "20210206",
+    "created_at": "2023-10-26T10:56:24",
+    "updated_at": "2023-10-26T10:56:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:weintek:cmt-hdm_firmware:20210206:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

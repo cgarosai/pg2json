@@ -1,0 +1,10 @@
+{
+    "id": 301833,
+    "name": "openresty",
+    "version": "1.0.11.7",
+    "created_at": "2019-07-23T13:25:19",
+    "updated_at": "2019-07-23T13:25:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openresty:openresty:1.0.11.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

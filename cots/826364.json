@@ -1,0 +1,10 @@
+{
+    "id": 826364,
+    "name": "comb",
+    "version": "0.0.6",
+    "created_at": "2021-12-14T14:47:15",
+    "updated_at": "2021-12-14T17:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:c2fo:comb:0.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

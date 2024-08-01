@@ -1,0 +1,10 @@
+{
+    "id": 1029890,
+    "name": "inspiron_7620_firmware",
+    "version": "-",
+    "created_at": "2023-02-08T14:31:21",
+    "updated_at": "2023-02-08T14:43:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_7620_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

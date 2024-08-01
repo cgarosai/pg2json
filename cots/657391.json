@@ -1,0 +1,10 @@
+{
+    "id": 657391,
+    "name": "ts-process-promises",
+    "version": "1.0.2",
+    "created_at": "2021-02-08T13:24:10",
+    "updated_at": "2021-02-08T13:24:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ts-process-promises_project:ts-process-promises:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 647000,
+    "name": "cse_bookstore",
+    "version": "1.0",
+    "created_at": "2021-01-11T12:23:57",
+    "updated_at": "2021-01-11T12:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cse_bookstore_project:cse_bookstore:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

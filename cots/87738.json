@@ -1,0 +1,10 @@
+{
+    "id": 87738,
+    "name": "pacemaker",
+    "version": "1.1.10",
+    "created_at": "2013-11-25T14:14:05",
+    "updated_at": "2013-11-25T18:58:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:pacemaker:1.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

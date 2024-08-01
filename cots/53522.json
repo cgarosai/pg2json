@@ -1,0 +1,10 @@
+{
+    "id": 53522,
+    "name": "uninstaller",
+    "version": "1.89",
+    "created_at": "2012-07-10T01:18:20",
+    "updated_at": "2012-07-10T01:18:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:revouninstaller:uninstaller:1.89:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

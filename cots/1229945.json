@@ -1,0 +1,10 @@
+{
+    "id": 1229945,
+    "name": "cti_monitoring_and_early_warning_system",
+    "version": "2.2",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cti_monitoring_and_early_warning_system_project:cti_monitoring_and_early_warning_system:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

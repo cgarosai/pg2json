@@ -1,0 +1,10 @@
+{
+    "id": 424325,
+    "name": "augustine",
+    "version": "0.1.19",
+    "created_at": "2019-11-08T17:02:43",
+    "updated_at": "2019-11-08T17:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:augustine_project:augustine:0.1.19:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

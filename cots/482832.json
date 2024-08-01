@@ -1,0 +1,10 @@
+{
+    "id": 482832,
+    "name": "munin",
+    "version": "-",
+    "created_at": "2020-02-05T19:12:16",
+    "updated_at": "2020-02-05T19:12:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:munin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

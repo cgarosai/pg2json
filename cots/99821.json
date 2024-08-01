@@ -1,0 +1,10 @@
+{
+    "id": 99821,
+    "name": "wp_picasa_image",
+    "version": "1.0",
+    "created_at": "2014-07-03T14:16:43",
+    "updated_at": "2014-07-10T11:33:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_picasa_image_project:wp_picasa_image:1.0:-:-:*:-:wordpress:*:*",
+    "to_analyse": false
+}

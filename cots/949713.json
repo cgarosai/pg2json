@@ -1,0 +1,10 @@
+{
+    "id": 949713,
+    "name": "catalyst_9600x",
+    "version": "-",
+    "created_at": "2022-09-30T10:32:05",
+    "updated_at": "2022-10-02T19:00:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_9600x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

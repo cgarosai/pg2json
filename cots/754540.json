@@ -1,0 +1,10 @@
+{
+    "id": 754540,
+    "name": "xenapp",
+    "version": "7.15",
+    "created_at": "2021-08-13T13:28:49",
+    "updated_at": "2021-08-30T16:43:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xenapp:7.15:cu7:*:*:ltsr:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 639946,
+    "name": "energy_driver_for_linux",
+    "version": "-",
+    "created_at": "2020-12-21T13:56:56",
+    "updated_at": "2020-12-21T13:56:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amd:energy_driver_for_linux:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

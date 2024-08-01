@@ -1,0 +1,10 @@
+{
+    "id": 1216206,
+    "name": "mycred",
+    "version": "2.6.1",
+    "created_at": "2023-12-10T19:42:58",
+    "updated_at": "2023-12-10T19:42:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mycred:mycred:2.6.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

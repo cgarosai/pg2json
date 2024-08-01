@@ -1,0 +1,10 @@
+{
+    "id": 579723,
+    "name": "nc260_firmware",
+    "version": "1.5.4",
+    "created_at": "2020-08-03T15:51:29",
+    "updated_at": "2020-08-03T15:51:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:nc260_firmware:1.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

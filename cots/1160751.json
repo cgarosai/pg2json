@@ -1,0 +1,10 @@
+{
+    "id": 1160751,
+    "name": "email_registration",
+    "version": "5.x-2.1",
+    "created_at": "2023-09-29T15:15:18",
+    "updated_at": "2023-09-29T15:15:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:email_registration_project:email_registration:5.x-2.1:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

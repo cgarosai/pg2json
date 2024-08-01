@@ -1,0 +1,10 @@
+{
+    "id": 295954,
+    "name": "osbs-client",
+    "version": "0.31",
+    "created_at": "2019-07-12T14:18:34",
+    "updated_at": "2019-07-12T14:18:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osbs-client_project:osbs-client:0.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

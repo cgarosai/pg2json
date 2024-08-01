@@ -1,0 +1,10 @@
+{
+    "id": 89182,
+    "name": "rsa_archer_egrc",
+    "version": "5.4",
+    "created_at": "2013-12-20T14:27:10",
+    "updated_at": "2013-12-20T14:31:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_archer_egrc:5.4:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

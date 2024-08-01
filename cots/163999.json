@@ -1,0 +1,10 @@
+{
+    "id": 163999,
+    "name": "cinnamon",
+    "version": "3.6.6",
+    "created_at": "2018-08-22T11:35:18",
+    "updated_at": "2018-08-22T11:35:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxmint:cinnamon:3.6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

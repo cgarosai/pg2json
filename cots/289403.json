@@ -1,0 +1,10 @@
+{
+    "id": 289403,
+    "name": "kotlin",
+    "version": "0.9",
+    "created_at": "2019-07-08T14:09:01",
+    "updated_at": "2019-07-08T14:09:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jetbrains:kotlin:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

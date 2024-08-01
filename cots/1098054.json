@@ -1,0 +1,10 @@
+{
+    "id": 1098054,
+    "name": "blade_a72_firmware",
+    "version": "11.0.2",
+    "created_at": "2023-06-06T13:27:01",
+    "updated_at": "2023-06-28T16:21:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:blade_a72_firmware:11.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 801093,
+    "name": "experience_manager",
+    "version": "6.5.9.0",
+    "created_at": "2021-11-15T16:16:45",
+    "updated_at": "2021-11-15T16:17:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:experience_manager:6.5.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

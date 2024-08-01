@@ -1,0 +1,10 @@
+{
+    "id": 223913,
+    "name": "testlink",
+    "version": "2.2",
+    "created_at": "2019-04-25T12:23:57",
+    "updated_at": "2019-04-25T12:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:testlink:2.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1190672,
+    "name": "ai_chatbot",
+    "version": "4.8.6",
+    "created_at": "2023-11-16T11:31:59",
+    "updated_at": "2023-11-16T11:31:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quantumcloud:ai_chatbot:4.8.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

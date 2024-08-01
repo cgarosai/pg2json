@@ -1,0 +1,10 @@
+{
+    "id": 522689,
+    "name": "python-apt",
+    "version": "0.9.3.3",
+    "created_at": "2020-04-08T11:28:33",
+    "updated_at": "2021-04-21T17:24:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubuntu:python-apt:0.9.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

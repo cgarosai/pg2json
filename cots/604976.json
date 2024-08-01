@@ -1,0 +1,10 @@
+{
+    "id": 604976,
+    "name": "mattermost",
+    "version": "1.28.0",
+    "created_at": "2020-10-27T16:25:32",
+    "updated_at": "2020-10-27T16:25:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mattermost:mattermost:1.28.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

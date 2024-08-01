@@ -1,0 +1,10 @@
+{
+    "id": 659627,
+    "name": "atomic-option",
+    "version": "0.1.0",
+    "created_at": "2021-02-10T18:31:38",
+    "updated_at": "2021-02-10T18:31:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atomic-option_project:atomic-option:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

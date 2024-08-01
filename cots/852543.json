@@ -1,0 +1,10 @@
+{
+    "id": 852543,
+    "name": "federated_authentication_service",
+    "version": "10.6",
+    "created_at": "2022-03-15T16:54:08",
+    "updated_at": "2022-07-06T13:45:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:federated_authentication_service:10.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

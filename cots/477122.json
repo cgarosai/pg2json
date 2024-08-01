@@ -1,0 +1,10 @@
+{
+    "id": 477122,
+    "name": "shazam",
+    "version": "-",
+    "created_at": "2020-01-13T14:14:00",
+    "updated_at": "2020-01-13T14:14:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:shazam:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 535345,
+    "name": "dectoken",
+    "version": "-",
+    "created_at": "2020-04-14T10:28:02",
+    "updated_at": "2020-04-14T10:28:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dectoken_project:dectoken:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

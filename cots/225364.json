@@ -1,0 +1,10 @@
+{
+    "id": 225364,
+    "name": "jenkins-cloudformation",
+    "version": "0.7",
+    "created_at": "2019-04-05T17:10:18",
+    "updated_at": "2019-04-08T14:59:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jenkins-cloudformation:0.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

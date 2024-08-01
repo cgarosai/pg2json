@@ -1,0 +1,10 @@
+{
+    "id": 91194,
+    "name": "hana_extend_application_services",
+    "version": "-",
+    "created_at": "2014-08-01T12:32:19",
+    "updated_at": "2023-12-21T03:14:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:hana_extend_application_services:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

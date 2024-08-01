@@ -1,0 +1,10 @@
+{
+    "id": 1020891,
+    "name": "baby_camera_firmware",
+    "version": "124",
+    "created_at": "2023-02-09T15:49:38",
+    "updated_at": "2023-08-30T09:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:biltema:baby_camera_firmware:124:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

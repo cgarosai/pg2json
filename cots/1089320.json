@@ -1,0 +1,10 @@
+{
+    "id": 1089320,
+    "name": "openwrt",
+    "version": "18.06.0",
+    "created_at": "2023-05-24T13:02:57",
+    "updated_at": "2023-05-24T13:09:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:openwrt:openwrt:18.06.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 965932,
+    "name": "libp2p-deflate",
+    "version": "0.30.0",
+    "created_at": "2022-11-01T10:48:29",
+    "updated_at": "2022-11-01T10:52:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libp2p:libp2p-deflate:0.30.0:rc1:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 619037,
+    "name": "studio",
+    "version": "1.2",
+    "created_at": "2020-11-10T17:39:31",
+    "updated_at": "2020-11-10T17:39:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:studio:1.2:*:*:*:standard:*:*:*",
+    "to_analyse": false
+}

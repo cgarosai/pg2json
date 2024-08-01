@@ -1,0 +1,10 @@
+{
+    "id": 1228820,
+    "name": "dbus",
+    "version": "1.2.4.6",
+    "created_at": "2023-12-27T15:36:56",
+    "updated_at": "2023-12-27T15:36:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:dbus:1.2.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

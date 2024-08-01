@@ -1,0 +1,10 @@
+{
+    "id": 180210,
+    "name": "linux_kernel",
+    "version": "10.2.2",
+    "created_at": "2018-11-07T18:16:22",
+    "updated_at": "2020-04-14T17:32:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:10.2.2:*:*:*:*:endpoint_security_linux_threat_prevention:*:*",
+    "to_analyse": false
+}

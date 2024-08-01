@@ -1,0 +1,10 @@
+{
+    "id": 718704,
+    "name": "power9_system_firmware",
+    "version": "fw940.20",
+    "created_at": "2021-06-02T11:51:54",
+    "updated_at": "2021-06-09T14:18:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:power9_system_firmware:fw940.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

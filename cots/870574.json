@@ -1,0 +1,10 @@
+{
+    "id": 870574,
+    "name": "htmlunit",
+    "version": "2.52.0",
+    "created_at": "2022-05-03T11:01:41",
+    "updated_at": "2023-12-07T16:56:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:htmlunit_project:htmlunit:2.52.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

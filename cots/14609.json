@@ -1,0 +1,10 @@
+{
+    "id": 14609,
+    "name": "corporate_server",
+    "version": "4.0",
+    "created_at": "2009-01-28T12:45:57",
+    "updated_at": "2009-01-28T12:45:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mandriva:corporate_server:4.0:*:x86_64:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 673293,
+    "name": "easy_chat_server",
+    "version": "2.5",
+    "created_at": "2021-03-24T14:59:18",
+    "updated_at": "2021-03-24T15:00:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:echatserver:easy_chat_server:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

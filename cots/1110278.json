@@ -1,0 +1,10 @@
+{
+    "id": 1110278,
+    "name": "yt-dlp-nightly-builds",
+    "version": "2023.05.27.233251",
+    "created_at": "2023-07-12T14:08:08",
+    "updated_at": "2023-07-12T16:32:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yt-dlp-nightly-builds_project:yt-dlp-nightly-builds:2023.05.27.233251:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

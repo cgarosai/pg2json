@@ -1,0 +1,10 @@
+{
+    "id": 598546,
+    "name": "proliant_m710x_server_blade",
+    "version": "-",
+    "created_at": "2020-09-11T11:17:34",
+    "updated_at": "2020-09-11T11:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hpe:proliant_m710x_server_blade:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

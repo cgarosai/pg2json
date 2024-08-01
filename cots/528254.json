@@ -1,0 +1,10 @@
+{
+    "id": 528254,
+    "name": "system_monitor",
+    "version": "1.26",
+    "created_at": "2020-04-02T12:05:46",
+    "updated_at": "2020-04-02T12:05:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moo0:system_monitor:1.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 510506,
+    "name": "celeron_g1610t_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:33:29",
+    "updated_at": "2020-03-23T17:33:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:celeron_g1610t_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

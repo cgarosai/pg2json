@@ -1,0 +1,10 @@
+{
+    "id": 833877,
+    "name": "multistore",
+    "version": "-",
+    "created_at": "2022-02-01T15:04:18",
+    "updated_at": "2022-02-02T18:03:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hhg-multistore:multistore:-:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

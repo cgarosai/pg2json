@@ -1,0 +1,10 @@
+{
+    "id": 474586,
+    "name": "applications_dba",
+    "version": "18c",
+    "created_at": "2020-01-28T14:39:30",
+    "updated_at": "2020-01-28T14:39:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:applications_dba:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

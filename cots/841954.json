@@ -1,0 +1,10 @@
+{
+    "id": 841954,
+    "name": "ac_9560_firmware",
+    "version": "22.100",
+    "created_at": "2022-02-15T15:58:44",
+    "updated_at": "2022-02-15T17:18:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ac_9560_firmware:22.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

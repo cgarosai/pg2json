@@ -1,0 +1,10 @@
+{
+    "id": 638806,
+    "name": "rabbitmq_docker_image",
+    "version": "3.7.12",
+    "created_at": "2020-12-17T18:34:17",
+    "updated_at": "2021-05-28T10:58:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:rabbitmq_docker_image:3.7.12:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

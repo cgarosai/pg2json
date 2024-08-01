@@ -1,0 +1,10 @@
+{
+    "id": 933199,
+    "name": "twisted_vnc_authentication_proxy",
+    "version": "0.9",
+    "created_at": "2022-09-15T14:51:22",
+    "updated_at": "2022-09-15T15:02:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osuosl:twisted_vnc_authentication_proxy:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

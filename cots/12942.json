@@ -1,0 +1,10 @@
+{
+    "id": 12942,
+    "name": "hp-ux",
+    "version": "b.11.23",
+    "created_at": "2008-09-09T16:47:06",
+    "updated_at": "2008-09-09T16:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:hp-ux:b.11.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

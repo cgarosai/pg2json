@@ -1,0 +1,10 @@
+{
+    "id": 120348,
+    "name": "power_management",
+    "version": "1.23",
+    "created_at": "2017-06-13T13:19:03",
+    "updated_at": "2021-03-04T17:53:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:power_management:1.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

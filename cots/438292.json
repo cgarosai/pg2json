@@ -1,0 +1,10 @@
+{
+    "id": 438292,
+    "name": "diary_with_lock",
+    "version": "4.90",
+    "created_at": "2019-11-18T11:45:05",
+    "updated_at": "2019-11-18T11:45:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:writediary:diary_with_lock:4.90:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

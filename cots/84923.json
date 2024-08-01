@@ -1,0 +1,10 @@
+{
+    "id": 84923,
+    "name": "router",
+    "version": "720",
+    "created_at": "2014-04-18T13:44:24",
+    "updated_at": "2014-04-18T13:46:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:router:720:411:*:*:*:*:*:*",
+    "to_analyse": false
+}

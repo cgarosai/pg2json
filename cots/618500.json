@@ -1,0 +1,10 @@
+{
+    "id": 618500,
+    "name": "python",
+    "version": "3.9.0",
+    "created_at": "2020-11-09T17:21:01",
+    "updated_at": "2020-11-09T17:21:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:python:3.9.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

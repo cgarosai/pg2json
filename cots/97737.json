@@ -1,0 +1,10 @@
+{
+    "id": 97737,
+    "name": "tidal_enterprise_scheduler",
+    "version": "6.1.0",
+    "created_at": "2014-05-27T13:14:41",
+    "updated_at": "2014-05-27T13:26:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:tidal_enterprise_scheduler:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

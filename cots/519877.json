@@ -1,0 +1,10 @@
+{
+    "id": 519877,
+    "name": "xeon_e5-2608l_v4",
+    "version": "-",
+    "created_at": "2020-03-23T15:42:21",
+    "updated_at": "2020-03-23T15:42:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5-2608l_v4:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

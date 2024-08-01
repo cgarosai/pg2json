@@ -1,0 +1,10 @@
+{
+    "id": 962883,
+    "name": "escalade",
+    "version": "2.4.0",
+    "created_at": "2022-11-18T18:04:14",
+    "updated_at": "2022-11-18T18:06:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teclib-edition:escalade:2.4.0:*:*:*:*:glpi:*:*",
+    "to_analyse": false
+}

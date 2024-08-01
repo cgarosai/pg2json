@@ -1,0 +1,10 @@
+{
+    "id": 654879,
+    "name": "wcn6750_firmware",
+    "version": "-",
+    "created_at": "2021-02-23T13:23:28",
+    "updated_at": "2021-04-14T12:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:wcn6750_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

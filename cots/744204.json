@@ -1,0 +1,10 @@
+{
+    "id": 744204,
+    "name": "stm32h7b3",
+    "version": "-",
+    "created_at": "2021-07-28T17:07:06",
+    "updated_at": "2021-08-30T17:16:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:st:stm32h7b3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

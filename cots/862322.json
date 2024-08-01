@@ -1,0 +1,10 @@
+{
+    "id": 862322,
+    "name": "darkhttpd",
+    "version": "1.13",
+    "created_at": "2022-04-08T09:24:20",
+    "updated_at": "2024-01-31T18:19:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

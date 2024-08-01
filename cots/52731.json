@@ -1,0 +1,10 @@
+{
+    "id": 52731,
+    "name": "bcfg2",
+    "version": "1.2.0",
+    "created_at": "2012-07-03T17:13:56",
+    "updated_at": "2012-07-04T12:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anl:bcfg2:1.2.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

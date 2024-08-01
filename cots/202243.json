@@ -1,0 +1,10 @@
+{
+    "id": 202243,
+    "name": "llvm",
+    "version": "2.2",
+    "created_at": "2019-02-27T18:04:07",
+    "updated_at": "2019-02-27T18:04:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:llvm:llvm:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

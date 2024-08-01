@@ -1,0 +1,10 @@
+{
+    "id": 573227,
+    "name": "system_center_operations_manager",
+    "version": "2012",
+    "created_at": "2020-08-11T13:21:00",
+    "updated_at": "2020-08-11T13:21:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:system_center_operations_manager:2012:r2_rollup11:*:*:*:*:*:*",
+    "to_analyse": false
+}

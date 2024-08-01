@@ -1,0 +1,10 @@
+{
+    "id": 567667,
+    "name": "news_system",
+    "version": "8.0.0",
+    "created_at": "2020-06-30T13:20:29",
+    "updated_at": "2020-06-30T13:20:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:news_system_project:news_system:8.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

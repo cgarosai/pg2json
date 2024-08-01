@@ -1,0 +1,10 @@
+{
+    "id": 512309,
+    "name": "rapiddeploy",
+    "version": "3.7",
+    "created_at": "2020-03-26T18:07:49",
+    "updated_at": "2020-03-26T18:07:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:rapiddeploy:3.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

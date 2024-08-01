@@ -1,0 +1,10 @@
+{
+    "id": 751815,
+    "name": "leaflet_map",
+    "version": "2.16.0",
+    "created_at": "2021-08-07T01:13:53",
+    "updated_at": "2021-08-09T09:37:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:leaflet_map_project:leaflet_map:2.16.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

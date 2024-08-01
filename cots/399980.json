@@ -1,0 +1,10 @@
+{
+    "id": 399980,
+    "name": "fibjs",
+    "version": "0.1.5",
+    "created_at": "2019-10-01T13:42:56",
+    "updated_at": "2019-10-01T13:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fibjs_project:fibjs:0.1.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

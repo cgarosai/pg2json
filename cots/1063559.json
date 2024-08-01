@@ -1,0 +1,10 @@
+{
+    "id": 1063559,
+    "name": "redirection",
+    "version": "1.1.5",
+    "created_at": "2023-04-23T20:09:46",
+    "updated_at": "2023-04-23T20:11:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inisev:redirection:1.1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

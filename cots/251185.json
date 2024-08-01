@@ -1,0 +1,10 @@
+{
+    "id": 251185,
+    "name": "libreoffice",
+    "version": "4.3.0.3",
+    "created_at": "2019-06-11T13:57:55",
+    "updated_at": "2019-06-11T13:57:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libreoffice:libreoffice:4.3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

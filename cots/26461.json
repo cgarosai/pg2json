@@ -1,0 +1,10 @@
+{
+    "id": 26461,
+    "name": "jetty",
+    "version": "6.1.0",
+    "created_at": "2009-04-24T17:04:37",
+    "updated_at": "2012-10-11T11:58:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:morbtay:jetty:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 345478,
+    "name": "erpnext",
+    "version": "6.27.20",
+    "created_at": "2019-08-20T16:03:41",
+    "updated_at": "2019-08-20T16:03:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frappe:erpnext:6.27.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

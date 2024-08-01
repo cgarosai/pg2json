@@ -1,0 +1,10 @@
+{
+    "id": 639585,
+    "name": "hapi_fhir",
+    "version": "3.8.0",
+    "created_at": "2020-12-18T18:15:06",
+    "updated_at": "2020-12-18T18:15:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fhir:hapi_fhir:3.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

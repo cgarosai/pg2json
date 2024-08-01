@@ -1,0 +1,10 @@
+{
+    "id": 787872,
+    "name": "cloudron",
+    "version": "6.2",
+    "created_at": "2021-10-01T23:05:34",
+    "updated_at": "2021-10-12T13:57:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudron:cloudron:6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 644950,
+    "name": "hashconsing",
+    "version": "-",
+    "created_at": "2021-02-01T18:08:13",
+    "updated_at": "2021-02-01T18:08:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashconsing_project:hashconsing:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

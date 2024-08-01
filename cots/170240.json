@@ -1,0 +1,10 @@
+{
+    "id": 170240,
+    "name": "generic_graphics_library",
+    "version": "0.3.10",
+    "created_at": "2018-10-10T16:29:25",
+    "updated_at": "2018-10-10T16:29:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gegl:generic_graphics_library:0.3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

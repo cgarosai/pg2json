@@ -1,0 +1,10 @@
+{
+    "id": 655773,
+    "name": "activemq_artemis",
+    "version": "2.16.0",
+    "created_at": "2021-02-03T12:51:06",
+    "updated_at": "2021-02-03T12:51:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:activemq_artemis:2.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

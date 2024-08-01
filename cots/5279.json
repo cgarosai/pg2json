@@ -1,0 +1,10 @@
+{
+    "id": 5279,
+    "name": "definity_one_media_server",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:36:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:avaya:definity_one_media_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

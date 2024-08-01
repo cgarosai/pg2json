@@ -1,0 +1,10 @@
+{
+    "id": 68340,
+    "name": "websphere_application_server",
+    "version": "8.0.0.5",
+    "created_at": "2012-08-31T15:00:27",
+    "updated_at": "2013-05-31T11:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

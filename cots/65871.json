@@ -1,0 +1,10 @@
+{
+    "id": 65871,
+    "name": "update_manager",
+    "version": "1.0.0.63995",
+    "created_at": "2012-08-01T19:33:35",
+    "updated_at": "2012-08-01T19:33:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:update_manager:1.0.0.63995:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

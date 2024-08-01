@@ -1,0 +1,10 @@
+{
+    "id": 635653,
+    "name": "visual_studio_code",
+    "version": "0.61.0",
+    "created_at": "2020-12-11T14:16:08",
+    "updated_at": "2020-12-11T14:16:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio_code:0.61.0:*:*:*:*:remote-ssh:*:*",
+    "to_analyse": false
+}

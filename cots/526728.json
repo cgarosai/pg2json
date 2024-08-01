@@ -1,0 +1,10 @@
+{
+    "id": 526728,
+    "name": "harbor",
+    "version": "0.4.5",
+    "created_at": "2020-04-01T13:03:18",
+    "updated_at": "2020-04-01T13:03:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:harbor:0.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

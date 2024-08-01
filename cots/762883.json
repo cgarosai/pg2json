@@ -1,0 +1,10 @@
+{
+    "id": 762883,
+    "name": "rdoc",
+    "version": "6.1.0",
+    "created_at": "2021-08-31T12:44:15",
+    "updated_at": "2021-08-31T12:49:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ruby-lang:rdoc:6.1.0:beta3:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 860650,
+    "name": "fortress",
+    "version": "2.0.5",
+    "created_at": "2022-04-05T15:45:33",
+    "updated_at": "2022-05-16T01:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:fortress:2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 873785,
+    "name": "telecontrol_server_basic",
+    "version": "3.0",
+    "created_at": "2022-05-10T16:52:39",
+    "updated_at": "2023-08-18T15:04:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:telecontrol_server_basic:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

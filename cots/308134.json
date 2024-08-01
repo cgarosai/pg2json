@@ -1,0 +1,10 @@
+{
+    "id": 308134,
+    "name": "managed_file_transfer_command_center",
+    "version": "7.2.5",
+    "created_at": "2019-07-22T09:41:36",
+    "updated_at": "2019-07-22T09:41:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:managed_file_transfer_command_center:7.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

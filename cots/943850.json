@@ -1,0 +1,10 @@
+{
+    "id": 943850,
+    "name": "adguardhome",
+    "version": "0.107.6",
+    "created_at": "2022-10-11T15:42:40",
+    "updated_at": "2022-10-13T14:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adguard:adguardhome:0.107.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

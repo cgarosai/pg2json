@@ -1,0 +1,10 @@
+{
+    "id": 222107,
+    "name": "laserjet_enterprise_mfp_m527_firmware",
+    "version": "-",
+    "created_at": "2019-04-23T13:36:38",
+    "updated_at": "2021-05-24T13:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:laserjet_enterprise_mfp_m527_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

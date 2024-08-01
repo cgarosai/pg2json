@@ -1,0 +1,10 @@
+{
+    "id": 511158,
+    "name": "rmysql",
+    "version": "-",
+    "created_at": "2020-03-24T18:59:41",
+    "updated_at": "2020-03-24T18:59:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:r-consortium:rmysql:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

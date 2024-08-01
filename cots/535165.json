@@ -1,0 +1,10 @@
+{
+    "id": 535165,
+    "name": "s5300li_firmware",
+    "version": "v200r006c00spc500",
+    "created_at": "2020-04-13T17:38:50",
+    "updated_at": "2020-04-13T17:38:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s5300li_firmware:v200r006c00spc500:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

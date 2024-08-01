@@ -1,0 +1,10 @@
+{
+    "id": 490861,
+    "name": "cloudengine_8800_firmware",
+    "version": "v200r001c00",
+    "created_at": "2020-02-21T21:28:01",
+    "updated_at": "2020-02-21T21:28:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:cloudengine_8800_firmware:v200r001c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 519734,
+    "name": "xeon_5063",
+    "version": "-",
+    "created_at": "2020-03-23T15:21:19",
+    "updated_at": "2020-03-23T15:21:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_5063:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

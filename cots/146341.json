@@ -1,0 +1,10 @@
+{
+    "id": 146341,
+    "name": "jira",
+    "version": "6.4.5",
+    "created_at": "2018-02-15T17:17:36",
+    "updated_at": "2022-03-25T16:17:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira:6.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

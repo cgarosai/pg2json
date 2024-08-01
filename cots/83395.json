@@ -1,0 +1,10 @@
+{
+    "id": 83395,
+    "name": "asset_manager",
+    "version": "6.6",
+    "created_at": "2014-03-24T16:15:39",
+    "updated_at": "2014-03-24T16:19:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:asset_manager:6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

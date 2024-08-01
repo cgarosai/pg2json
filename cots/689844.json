@@ -1,0 +1,10 @@
+{
+    "id": 689844,
+    "name": "cohesity_dataplatform",
+    "version": "6.4.1c",
+    "created_at": "2021-04-06T15:19:30",
+    "updated_at": "2021-04-16T16:34:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.4.1c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 169889,
+    "name": "nodefabric",
+    "version": "-",
+    "created_at": "2018-07-26T10:37:23",
+    "updated_at": "2018-07-26T10:37:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodefabric_project:nodefabric:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

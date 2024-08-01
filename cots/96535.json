@@ -1,0 +1,10 @@
+{
+    "id": 96535,
+    "name": "sks_keyserver",
+    "version": "1.1.0",
+    "created_at": "2014-05-09T15:35:11",
+    "updated_at": "2014-05-14T22:35:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sks_keyserver_project:sks_keyserver:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

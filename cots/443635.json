@@ -1,0 +1,10 @@
+{
+    "id": 443635,
+    "name": "horde_role",
+    "version": "1.0.0",
+    "created_at": "2019-12-04T14:47:59",
+    "updated_at": "2019-12-04T14:47:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_role:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

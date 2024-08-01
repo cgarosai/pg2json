@@ -1,0 +1,10 @@
+{
+    "id": 449729,
+    "name": "xeon_gold_6138p_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T16:30:08",
+    "updated_at": "2019-12-02T16:30:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_gold_6138p_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

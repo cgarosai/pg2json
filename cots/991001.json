@@ -1,0 +1,10 @@
+{
+    "id": 991001,
+    "name": "community_plugin_framework",
+    "version": "9.2.0.0-176",
+    "created_at": "2022-12-23T15:20:09",
+    "updated_at": "2022-12-23T22:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:community_plugin_framework:9.2.0.0-176:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

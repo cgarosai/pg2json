@@ -1,0 +1,10 @@
+{
+    "id": 613974,
+    "name": "element_os",
+    "version": "11.8",
+    "created_at": "2020-11-19T18:00:05",
+    "updated_at": "2021-05-06T11:38:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:element_os:11.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

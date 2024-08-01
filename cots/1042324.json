@@ -1,0 +1,10 @@
+{
+    "id": 1042324,
+    "name": "fortiauthenticator",
+    "version": "6.4.6",
+    "created_at": "2023-03-13T17:03:52",
+    "updated_at": "2023-03-21T16:55:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiauthenticator:6.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

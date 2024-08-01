@@ -1,0 +1,10 @@
+{
+    "id": 570644,
+    "name": "libnids",
+    "version": "1.14",
+    "created_at": "2020-08-05T15:55:21",
+    "updated_at": "2020-08-05T15:55:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libnids_project:libnids:1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

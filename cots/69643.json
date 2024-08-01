@@ -1,0 +1,10 @@
+{
+    "id": 69643,
+    "name": "website_payments_standard_module",
+    "version": "1.0",
+    "created_at": "2012-09-20T13:26:32",
+    "updated_at": "2012-09-21T18:21:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paypal:website_payments_standard_module:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

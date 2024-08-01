@@ -1,0 +1,10 @@
+{
+    "id": 707090,
+    "name": "keepkey_firmware",
+    "version": "7.0.3",
+    "created_at": "2021-05-10T15:46:25",
+    "updated_at": "2021-06-28T16:40:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:shapeshift:keepkey_firmware:7.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

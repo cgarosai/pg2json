@@ -1,0 +1,10 @@
+{
+    "id": 109178,
+    "name": "path_breadcrumbs",
+    "version": "7.x-3.1",
+    "created_at": "2015-04-22T19:35:03",
+    "updated_at": "2015-04-23T15:55:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:path_breadcrumbs_project:path_breadcrumbs:7.x-3.1:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

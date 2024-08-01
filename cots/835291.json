@@ -1,0 +1,10 @@
+{
+    "id": 835291,
+    "name": "security_verify_access",
+    "version": "10.0.1.0",
+    "created_at": "2022-01-11T03:02:32",
+    "updated_at": "2022-02-02T17:07:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_verify_access:10.0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

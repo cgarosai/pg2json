@@ -1,0 +1,10 @@
+{
+    "id": 60936,
+    "name": "yosemite_server_backup",
+    "version": "8.8.3",
+    "created_at": "2012-10-12T11:26:13",
+    "updated_at": "2012-10-12T11:26:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:barracudanetworks:yosemite_server_backup:8.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

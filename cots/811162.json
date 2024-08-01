@@ -1,0 +1,10 @@
+{
+    "id": 811162,
+    "name": "insurance_calculation_engine",
+    "version": "11.0.0",
+    "created_at": "2021-12-01T17:56:46",
+    "updated_at": "2021-12-03T17:15:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:insurance_calculation_engine:11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

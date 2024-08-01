@@ -1,0 +1,10 @@
+{
+    "id": 1160719,
+    "name": "password_manager",
+    "version": "5.11.2",
+    "created_at": "2023-09-29T15:02:20",
+    "updated_at": "2023-09-29T15:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oneidentity:password_manager:5.11.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

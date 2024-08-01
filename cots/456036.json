@@ -1,0 +1,10 @@
+{
+    "id": 456036,
+    "name": "pentium_n3530_firmware",
+    "version": "-",
+    "created_at": "2019-12-06T12:05:40",
+    "updated_at": "2019-12-06T12:05:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:pentium_n3530_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

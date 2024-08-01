@@ -1,0 +1,10 @@
+{
+    "id": 571340,
+    "name": "chef_manage",
+    "version": "2.4.2",
+    "created_at": "2020-08-06T13:52:53",
+    "updated_at": "2020-08-06T13:52:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chef:chef_manage:2.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

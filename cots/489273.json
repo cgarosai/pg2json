@@ -1,0 +1,10 @@
+{
+    "id": 489273,
+    "name": "ip_phone_7821_firmware",
+    "version": "-",
+    "created_at": "2020-02-03T19:01:53",
+    "updated_at": "2020-02-03T19:01:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_7821_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

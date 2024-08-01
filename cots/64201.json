@@ -1,0 +1,10 @@
+{
+    "id": 64201,
+    "name": "centrify_suite",
+    "version": "2012",
+    "created_at": "2013-01-07T12:56:37",
+    "updated_at": "2013-01-08T18:28:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:centrify:centrify_suite:2012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

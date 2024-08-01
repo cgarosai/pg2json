@@ -1,0 +1,10 @@
+{
+    "id": 588461,
+    "name": "jabber_guest",
+    "version": "10.6.10",
+    "created_at": "2020-08-20T12:51:49",
+    "updated_at": "2020-08-20T12:51:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:jabber_guest:10.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

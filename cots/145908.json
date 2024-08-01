@@ -1,0 +1,10 @@
+{
+    "id": 145908,
+    "name": "xeon_platinum",
+    "version": "8153",
+    "created_at": "2018-02-07T11:32:32",
+    "updated_at": "2023-09-27T18:39:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_platinum:8153:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

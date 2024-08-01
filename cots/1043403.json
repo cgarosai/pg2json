@@ -1,0 +1,10 @@
+{
+    "id": 1043403,
+    "name": "exynos_modem_5123_firmware",
+    "version": "-",
+    "created_at": "2023-03-14T17:51:54",
+    "updated_at": "2023-03-15T12:08:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:exynos_modem_5123_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

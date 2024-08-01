@@ -1,0 +1,10 @@
+{
+    "id": 920278,
+    "name": "eth-account",
+    "version": "0.1.0",
+    "created_at": "2022-08-25T13:04:29",
+    "updated_at": "2022-08-25T13:51:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ethereum:eth-account:0.1.0:alpha2:*:*:*:python:*:*",
+    "to_analyse": false
+}

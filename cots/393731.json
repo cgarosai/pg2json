@@ -1,0 +1,10 @@
+{
+    "id": 393731,
+    "name": "activematrix_service_grid",
+    "version": "3.1.5",
+    "created_at": "2019-10-04T13:45:58",
+    "updated_at": "2019-10-04T13:45:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:activematrix_service_grid:3.1.5:*:*:*:*:silver_fabric:*:*",
+    "to_analyse": false
+}

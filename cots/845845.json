@@ -1,0 +1,10 @@
+{
+    "id": 845845,
+    "name": "gt2104-rtbd_firmware",
+    "version": "01.40.000",
+    "created_at": "2022-02-03T19:54:34",
+    "updated_at": "2022-02-03T20:00:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:gt2104-rtbd_firmware:01.40.000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 11220,
+    "name": "navigator",
+    "version": "9.0",
+    "created_at": "2007-12-31T02:58:33",
+    "updated_at": "2008-04-01T14:39:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netscape:navigator:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

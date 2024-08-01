@@ -1,0 +1,10 @@
+{
+    "id": 535141,
+    "name": "s2750ei_firmware",
+    "version": "v200r003c00spc300",
+    "created_at": "2020-04-13T17:38:44",
+    "updated_at": "2020-04-13T17:38:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s2750ei_firmware:v200r003c00spc300:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

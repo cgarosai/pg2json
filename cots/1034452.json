@@ -1,0 +1,10 @@
+{
+    "id": 1034452,
+    "name": "python-jwt",
+    "version": "1.1.2",
+    "created_at": "2023-03-03T18:27:24",
+    "updated_at": "2023-03-03T18:32:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python-jwt_project:python-jwt:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

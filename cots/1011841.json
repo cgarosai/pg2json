@@ -1,0 +1,10 @@
+{
+    "id": 1011841,
+    "name": "ip_blacklist_cloud",
+    "version": "5.00",
+    "created_at": "2023-01-23T15:57:11",
+    "updated_at": "2023-01-27T13:24:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ip_blacklist_cloud_project:ip_blacklist_cloud:5.00:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

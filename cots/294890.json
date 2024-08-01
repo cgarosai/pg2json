@@ -1,0 +1,10 @@
+{
+    "id": 294890,
+    "name": "hazelcast",
+    "version": "3.5.5",
+    "created_at": "2019-07-18T14:26:44",
+    "updated_at": "2019-07-18T14:26:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hazelcast:hazelcast:3.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

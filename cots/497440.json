@@ -1,0 +1,10 @@
+{
+    "id": 497440,
+    "name": "windows_malicious_software_removal_tool",
+    "version": "5.80",
+    "created_at": "2020-02-18T15:05:46",
+    "updated_at": "2020-02-18T15:05:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_malicious_software_removal_tool:5.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

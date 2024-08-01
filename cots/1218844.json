@@ -1,0 +1,10 @@
+{
+    "id": 1218844,
+    "name": "devise",
+    "version": "-",
+    "created_at": "2023-12-15T10:47:30",
+    "updated_at": "2023-12-15T10:47:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heartcombo:devise:-:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

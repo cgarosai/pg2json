@@ -1,0 +1,10 @@
+{
+    "id": 116113,
+    "name": "zenworks_configuration_management",
+    "version": "11.4.1",
+    "created_at": "2016-03-10T23:35:14",
+    "updated_at": "2016-03-10T23:35:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:zenworks_configuration_management:11.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 656751,
+    "name": "immer",
+    "version": "7.0.4",
+    "created_at": "2021-02-04T14:43:46",
+    "updated_at": "2021-02-04T14:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:immer_project:immer:7.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 75027,
+    "name": "security_compliance_manager",
+    "version": "1.1.1.0",
+    "created_at": "2013-01-23T19:05:53",
+    "updated_at": "2013-01-23T19:05:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:security_compliance_manager:1.1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

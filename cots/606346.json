@@ -1,0 +1,10 @@
+{
+    "id": 606346,
+    "name": "seat_reservation_system",
+    "version": "1.0",
+    "created_at": "2020-10-02T17:19:27",
+    "updated_at": "2020-10-02T17:19:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seat_reservation_system_project:seat_reservation_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

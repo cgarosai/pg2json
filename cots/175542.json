@@ -1,0 +1,10 @@
+{
+    "id": 175542,
+    "name": "digsi_4_firmware",
+    "version": "-",
+    "created_at": "2018-09-06T15:35:45",
+    "updated_at": "2021-05-25T10:24:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:digsi_4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

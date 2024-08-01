@@ -1,0 +1,10 @@
+{
+    "id": 399712,
+    "name": "goserv",
+    "version": "1.0.0",
+    "created_at": "2019-10-01T13:12:11",
+    "updated_at": "2019-10-01T13:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goserv_project:goserv:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

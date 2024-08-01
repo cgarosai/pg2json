@@ -1,0 +1,10 @@
+{
+    "id": 503696,
+    "name": "yajl-ruby",
+    "version": "0.5.4",
+    "created_at": "2020-03-10T11:29:56",
+    "updated_at": "2020-03-10T11:29:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yajl-ruby_project:yajl-ruby:0.5.4:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

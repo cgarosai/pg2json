@@ -1,0 +1,10 @@
+{
+    "id": 778067,
+    "name": "geronimo",
+    "version": "2.1.8",
+    "created_at": "2021-09-14T12:13:53",
+    "updated_at": "2021-09-14T12:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:geronimo:2.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

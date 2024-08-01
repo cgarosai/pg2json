@@ -1,0 +1,10 @@
+{
+    "id": 57144,
+    "name": "bittorrent",
+    "version": "6.4.0",
+    "created_at": "2012-05-08T11:50:04",
+    "updated_at": "2012-05-08T11:50:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bittorrent:bittorrent:6.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 911601,
+    "name": "policy_controller",
+    "version": "0.2.0",
+    "created_at": "2022-08-09T11:07:47",
+    "updated_at": "2022-08-10T12:39:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sigstore:policy_controller:0.2.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

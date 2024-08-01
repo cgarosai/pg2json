@@ -1,0 +1,10 @@
+{
+    "id": 900108,
+    "name": "rename_wp-login",
+    "version": "2.6.0",
+    "created_at": "2022-07-13T15:04:41",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rename_wp-login_project:rename_wp-login:2.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

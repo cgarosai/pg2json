@@ -1,0 +1,10 @@
+{
+    "id": 1069662,
+    "name": "send_customer_voice_survey_from_dynamics_365",
+    "version": "9.0.0.0",
+    "created_at": "2023-04-13T13:51:57",
+    "updated_at": "2023-07-17T11:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:send_customer_voice_survey_from_dynamics_365:9.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

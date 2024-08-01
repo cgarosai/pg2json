@@ -1,0 +1,10 @@
+{
+    "id": 489750,
+    "name": "spring_web_services",
+    "version": "1.5.0",
+    "created_at": "2020-02-04T14:29:07",
+    "updated_at": "2020-02-04T14:29:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_web_services:1.5.0:milestone1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 568183,
+    "name": "wifiscanner",
+    "version": "0.0.10",
+    "created_at": "2020-07-02T15:01:21",
+    "updated_at": "2020-07-02T15:01:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thingssdk:wifiscanner:0.0.10:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

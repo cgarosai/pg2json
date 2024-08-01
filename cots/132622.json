@@ -1,0 +1,10 @@
+{
+    "id": 132622,
+    "name": "web_application_firewall",
+    "version": "7.0-8",
+    "created_at": "2018-01-04T16:37:50",
+    "updated_at": "2021-03-29T14:44:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kemptechnologies:web_application_firewall:7.0-8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

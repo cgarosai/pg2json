@@ -1,0 +1,10 @@
+{
+    "id": 1217796,
+    "name": "cryptospike",
+    "version": "3.0.15",
+    "created_at": "2023-12-12T16:54:25",
+    "updated_at": "2023-12-12T16:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prolion:cryptospike:3.0.15:p2:*:*:*:*:*:*",
+    "to_analyse": false
+}

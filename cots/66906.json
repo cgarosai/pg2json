@@ -1,0 +1,10 @@
+{
+    "id": 66906,
+    "name": "vbscript",
+    "version": "5.8",
+    "created_at": "2012-08-15T13:58:23",
+    "updated_at": "2012-08-20T15:13:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:vbscript:5.8:-:x64:*:*:*:*:*",
+    "to_analyse": false
+}

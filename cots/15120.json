@@ -1,0 +1,10 @@
+{
+    "id": 15120,
+    "name": "pegasus",
+    "version": "4.01",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T18:16:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pmail:pegasus:4.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

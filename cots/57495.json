@@ -1,0 +1,10 @@
+{
+    "id": 57495,
+    "name": "hercules_remediation_client_for_windows",
+    "version": "3.5.1",
+    "created_at": "2012-05-08T11:51:12",
+    "updated_at": "2012-05-08T11:51:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citadel:hercules_remediation_client_for_windows:3.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

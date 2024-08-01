@@ -1,0 +1,10 @@
+{
+    "id": 1121971,
+    "name": "ipados",
+    "version": "16.6",
+    "created_at": "2023-08-01T11:20:01",
+    "updated_at": "2023-08-15T11:37:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:ipados:16.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

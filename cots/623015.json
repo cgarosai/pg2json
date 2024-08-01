@@ -1,0 +1,10 @@
+{
+    "id": 623015,
+    "name": "express-gateway",
+    "version": "0.0.6",
+    "created_at": "2020-12-09T11:46:10",
+    "updated_at": "2021-04-05T17:51:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express-gateway:express-gateway:0.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

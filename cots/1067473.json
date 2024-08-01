@@ -1,0 +1,10 @@
+{
+    "id": 1067473,
+    "name": "sveltekit",
+    "version": "-",
+    "created_at": "2023-04-11T08:50:46",
+    "updated_at": "2023-09-09T01:45:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:svelte:sveltekit:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

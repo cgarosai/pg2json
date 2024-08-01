@@ -1,0 +1,10 @@
+{
+    "id": 62085,
+    "name": "breezy",
+    "version": "1.2.15",
+    "created_at": "2012-11-05T18:08:08",
+    "updated_at": "2012-11-21T16:18:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:breezy:breezy:1.2.15:-:*:*:*:android:*:*",
+    "to_analyse": false
+}

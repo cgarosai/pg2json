@@ -1,0 +1,10 @@
+{
+    "id": 538519,
+    "name": "somachine_motion",
+    "version": "-",
+    "created_at": "2020-04-24T11:40:06",
+    "updated_at": "2022-01-31T18:42:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:se:somachine_motion:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

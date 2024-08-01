@@ -1,0 +1,10 @@
+{
+    "id": 431733,
+    "name": "scanguard_antivirus",
+    "version": "2019-11-12",
+    "created_at": "2019-11-19T14:22:52",
+    "updated_at": "2019-11-19T14:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scanguard:scanguard_antivirus:2019-11-12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

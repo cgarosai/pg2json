@@ -1,0 +1,10 @@
+{
+    "id": 1076470,
+    "name": "gipsy",
+    "version": "1.0",
+    "created_at": "2023-04-28T13:07:18",
+    "updated_at": "2023-05-01T11:23:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gipsy_project:gipsy:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

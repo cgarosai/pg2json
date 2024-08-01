@@ -1,0 +1,10 @@
+{
+    "id": 604006,
+    "name": "firepower_8390",
+    "version": "-",
+    "created_at": "2020-10-20T13:32:13",
+    "updated_at": "2020-10-20T13:32:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_8390:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

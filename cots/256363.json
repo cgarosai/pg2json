@@ -1,0 +1,10 @@
+{
+    "id": 256363,
+    "name": "nexus_9_firmware",
+    "version": "-",
+    "created_at": "2019-06-07T16:21:42",
+    "updated_at": "2021-06-22T14:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:nexus_9_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1091412,
+    "name": "luci",
+    "version": "6.0_b201912080827",
+    "created_at": "2023-06-12T14:27:14",
+    "updated_at": "2023-06-15T15:25:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x-wrt:luci:6.0_b201912080827:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

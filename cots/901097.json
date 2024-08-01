@@ -1,0 +1,10 @@
+{
+    "id": 901097,
+    "name": "simatic_mv560_u",
+    "version": "-",
+    "created_at": "2022-07-15T10:28:59",
+    "updated_at": "2022-07-25T13:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_mv560_u:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

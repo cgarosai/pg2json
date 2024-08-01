@@ -1,0 +1,10 @@
+{
+    "id": 353359,
+    "name": "nx-os",
+    "version": "7.3",
+    "created_at": "2019-09-10T13:14:00",
+    "updated_at": "2019-09-10T13:14:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nx-os:7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

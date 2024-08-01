@@ -1,0 +1,10 @@
+{
+    "id": 1205080,
+    "name": "vagrant",
+    "version": "2.4.0",
+    "created_at": "2023-11-25T03:35:20",
+    "updated_at": "2023-11-25T03:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:vagrant:2.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

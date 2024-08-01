@@ -1,0 +1,10 @@
+{
+    "id": 368542,
+    "name": "google_language_translator",
+    "version": "4.0.8",
+    "created_at": "2019-09-12T12:28:09",
+    "updated_at": "2019-09-12T12:28:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gtranslate:google_language_translator:4.0.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

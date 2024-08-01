@@ -1,0 +1,10 @@
+{
+    "id": 490527,
+    "name": "ar3200_firmware",
+    "version": "v200r006c10spc100",
+    "created_at": "2020-02-21T20:00:35",
+    "updated_at": "2020-02-21T20:00:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar3200_firmware:v200r006c10spc100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

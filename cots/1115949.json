@@ -1,0 +1,10 @@
+{
+    "id": 1115949,
+    "name": "xmltooling",
+    "version": "3.0.2",
+    "created_at": "2023-07-06T12:00:31",
+    "updated_at": "2023-07-07T10:00:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shibboleth:xmltooling:3.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

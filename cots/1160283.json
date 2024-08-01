@@ -1,0 +1,10 @@
+{
+    "id": 1160283,
+    "name": "backstage_core-components",
+    "version": "0.12.4",
+    "created_at": "2023-09-29T09:42:09",
+    "updated_at": "2023-09-29T09:42:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:backstage_core-components:0.12.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 162585,
+    "name": "acano_x-series_firmware",
+    "version": "2.2.5",
+    "created_at": "2018-08-14T13:43:33",
+    "updated_at": "2021-06-16T14:39:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:acano_x-series_firmware:2.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

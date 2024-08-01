@@ -1,0 +1,10 @@
+{
+    "id": 815358,
+    "name": "7265_firmware",
+    "version": "22.40",
+    "created_at": "2021-11-19T16:09:46",
+    "updated_at": "2021-12-03T17:58:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:7265_firmware:22.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

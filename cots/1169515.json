@@ -1,0 +1,10 @@
+{
+    "id": 1169515,
+    "name": "coraza",
+    "version": "3.0.0",
+    "created_at": "2023-09-28T14:39:47",
+    "updated_at": "2023-09-28T14:39:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:coraza:coraza:3.0.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 869222,
+    "name": "database_peek",
+    "version": "1.2",
+    "created_at": "2022-03-31T16:32:22",
+    "updated_at": "2022-10-04T13:59:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:database_peek_project:database_peek:1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

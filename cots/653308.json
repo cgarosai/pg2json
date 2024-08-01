@@ -1,0 +1,10 @@
+{
+    "id": 653308,
+    "name": "meridian",
+    "version": "2018.1.25",
+    "created_at": "2021-02-19T16:10:13",
+    "updated_at": "2021-04-20T14:58:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opennms:meridian:2018.1.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 983527,
+    "name": "jettison",
+    "version": "1.0",
+    "created_at": "2022-12-14T01:13:12",
+    "updated_at": "2022-12-15T14:48:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jettison_project:jettison:1.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

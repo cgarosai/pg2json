@@ -1,0 +1,10 @@
+{
+    "id": 662711,
+    "name": "collaboration",
+    "version": "8.8.10",
+    "created_at": "2021-03-05T14:57:10",
+    "updated_at": "2021-03-08T15:09:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zimbra:collaboration:8.8.10:p2:*:*:*:*:*:*",
+    "to_analyse": false
+}

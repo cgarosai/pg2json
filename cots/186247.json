@@ -1,0 +1,10 @@
+{
+    "id": 186247,
+    "name": "reference_application",
+    "version": "2.3",
+    "created_at": "2018-10-24T17:50:10",
+    "updated_at": "2021-04-23T15:59:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmrs:reference_application:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

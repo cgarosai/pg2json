@@ -1,0 +1,10 @@
+{
+    "id": 1210165,
+    "name": "robohelp_server",
+    "version": "11.4",
+    "created_at": "2023-12-16T02:42:31",
+    "updated_at": "2023-12-16T02:42:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:robohelp_server:11.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

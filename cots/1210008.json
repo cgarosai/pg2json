@@ -1,0 +1,10 @@
+{
+    "id": 1210008,
+    "name": "file_manager_app",
+    "version": "1.0",
+    "created_at": "2023-12-16T02:37:24",
+    "updated_at": "2024-04-29T11:18:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:file_manager_app_project:file_manager_app:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

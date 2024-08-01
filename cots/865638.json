@@ -1,0 +1,10 @@
+{
+    "id": 865638,
+    "name": "system-user-root",
+    "version": "20190513",
+    "created_at": "2022-03-22T15:43:32",
+    "updated_at": "2022-03-24T12:52:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:system-user-root:20190513:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

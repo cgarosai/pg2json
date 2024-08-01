@@ -1,0 +1,10 @@
+{
+    "id": 1266148,
+    "name": "stonegate_vpn_client",
+    "version": "2.0.8",
+    "created_at": "2024-03-04T13:48:01",
+    "updated_at": "2024-03-04T13:48:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forcepoint:stonegate_vpn_client:2.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

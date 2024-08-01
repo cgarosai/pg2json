@@ -1,0 +1,10 @@
+{
+    "id": 401194,
+    "name": "geminabox",
+    "version": "0.13.6",
+    "created_at": "2019-10-16T11:53:23",
+    "updated_at": "2019-10-16T11:53:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geminabox_project:geminabox:0.13.6:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

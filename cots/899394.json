@@ -1,0 +1,10 @@
+{
+    "id": 899394,
+    "name": "sideblog",
+    "version": "3.8",
+    "created_at": "2022-06-15T23:43:25",
+    "updated_at": "2022-07-11T10:28:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sideblog_project:sideblog:3.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

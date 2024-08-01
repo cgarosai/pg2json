@@ -1,0 +1,10 @@
+{
+    "id": 217291,
+    "name": "satcom_sailor_500_firmware",
+    "version": "1.25",
+    "created_at": "2019-03-15T16:33:41",
+    "updated_at": "2021-06-23T11:44:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cobham:satcom_sailor_500_firmware:1.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

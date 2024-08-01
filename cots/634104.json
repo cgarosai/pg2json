@@ -1,0 +1,10 @@
+{
+    "id": 634104,
+    "name": "djv",
+    "version": "-",
+    "created_at": "2021-01-06T12:05:54",
+    "updated_at": "2021-01-06T12:05:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:djv_project:djv:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 172704,
+    "name": "3par_service_provider",
+    "version": "sp-5.0.0.0-22913",
+    "created_at": "2018-10-18T15:11:56",
+    "updated_at": "2021-08-13T12:07:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:3par_service_provider:sp-5.0.0.0-22913:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

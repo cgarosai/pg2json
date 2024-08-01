@@ -1,0 +1,10 @@
+{
+    "id": 594903,
+    "name": "gstreamer",
+    "version": "1.4.5",
+    "created_at": "2020-09-25T17:54:52",
+    "updated_at": "2020-09-25T17:54:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gstreamer_project:gstreamer:1.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

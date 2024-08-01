@@ -1,0 +1,10 @@
+{
+    "id": 1047198,
+    "name": "automotive_grade_linux",
+    "version": "-",
+    "created_at": "2023-03-07T11:00:30",
+    "updated_at": "2023-09-02T00:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:automotive_grade_linux:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

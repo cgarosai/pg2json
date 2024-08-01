@@ -1,0 +1,10 @@
+{
+    "id": 888896,
+    "name": "bpm_enterprise",
+    "version": "4.3.2",
+    "created_at": "2022-05-24T15:32:45",
+    "updated_at": "2022-08-03T10:54:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:bpm_enterprise:4.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 380209,
+    "name": "static-html-server",
+    "version": "0.1.2",
+    "created_at": "2019-09-25T13:40:41",
+    "updated_at": "2019-09-25T13:40:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:static-html-server_project:static-html-server:0.1.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

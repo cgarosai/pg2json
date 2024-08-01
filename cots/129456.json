@@ -1,0 +1,10 @@
+{
+    "id": 129456,
+    "name": "simatic_et_200al",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-05-14T14:59:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_et_200al:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

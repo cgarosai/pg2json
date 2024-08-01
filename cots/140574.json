@@ -1,0 +1,10 @@
+{
+    "id": 140574,
+    "name": "cloud_services_router_1000v",
+    "version": "-",
+    "created_at": "2018-04-20T17:18:55",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:cloud_services_router_1000v:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

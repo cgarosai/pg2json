@@ -1,0 +1,10 @@
+{
+    "id": 57902,
+    "name": "poweredge_diagnostics",
+    "version": "2.7",
+    "created_at": "2012-05-08T11:53:11",
+    "updated_at": "2012-05-08T11:53:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:poweredge_diagnostics:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

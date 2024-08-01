@@ -1,0 +1,10 @@
+{
+    "id": 510478,
+    "name": "xeon_e5-2687w_v3_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:02:03",
+    "updated_at": "2020-03-23T17:02:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e5-2687w_v3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 899395,
+    "name": "npm",
+    "version": "8.11.0",
+    "created_at": "2022-06-16T10:18:02",
+    "updated_at": "2022-11-09T14:10:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:npmjs:npm:8.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

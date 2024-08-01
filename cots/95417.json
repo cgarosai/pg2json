@@ -1,0 +1,10 @@
+{
+    "id": 95417,
+    "name": "libmms",
+    "version": "0.6.4",
+    "created_at": "2014-04-23T11:40:01",
+    "updated_at": "2014-04-24T21:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libmms_project:libmms:0.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

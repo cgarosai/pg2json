@@ -1,0 +1,10 @@
+{
+    "id": 1060431,
+    "name": "customer_relationship_management_webclient_ui",
+    "version": "730",
+    "created_at": "2023-04-17T11:44:19",
+    "updated_at": "2023-07-14T09:07:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:customer_relationship_management_webclient_ui:730:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

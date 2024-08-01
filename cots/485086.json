@@ -1,0 +1,10 @@
+{
+    "id": 485086,
+    "name": "openslp",
+    "version": "1.1.0",
+    "created_at": "2020-01-29T15:12:57",
+    "updated_at": "2020-01-29T15:12:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openslp:openslp:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

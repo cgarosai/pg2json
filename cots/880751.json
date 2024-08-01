@@ -1,0 +1,10 @@
+{
+    "id": 880751,
+    "name": "keyget",
+    "version": "2.3.0",
+    "created_at": "2022-06-03T15:28:11",
+    "updated_at": "2022-06-03T15:29:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:keyget_project:keyget:2.3.0:rc1:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

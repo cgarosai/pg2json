@@ -1,0 +1,10 @@
+{
+    "id": 652337,
+    "name": "ethernet_network_adapter_x722-da2_firmware",
+    "version": "1.5",
+    "created_at": "2021-02-18T11:48:21",
+    "updated_at": "2021-04-30T15:26:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_network_adapter_x722-da2_firmware:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

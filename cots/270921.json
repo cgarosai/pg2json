@@ -1,0 +1,10 @@
+{
+    "id": 270921,
+    "name": "cfitsio",
+    "version": "3.42",
+    "created_at": "2019-06-27T10:39:23",
+    "updated_at": "2019-06-27T10:39:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nasa:cfitsio:3.42:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

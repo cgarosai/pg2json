@@ -1,0 +1,10 @@
+{
+    "id": 498327,
+    "name": "ip_phone_8811_firmware",
+    "version": "12.5\\(1\\)sr3",
+    "created_at": "2020-02-19T19:46:12",
+    "updated_at": "2020-02-19T19:46:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_8811_firmware:12.5\\(1\\)sr3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

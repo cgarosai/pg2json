@@ -1,0 +1,10 @@
+{
+    "id": 228283,
+    "name": "sentinel",
+    "version": "7.4",
+    "created_at": "2019-04-12T17:59:48",
+    "updated_at": "2019-04-12T17:59:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:sentinel:7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

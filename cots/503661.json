@@ -1,0 +1,10 @@
+{
+    "id": 503661,
+    "name": "apt-listbugs",
+    "version": "-",
+    "created_at": "2020-03-10T11:05:49",
+    "updated_at": "2020-03-10T11:05:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apt-listbugs_project:apt-listbugs:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

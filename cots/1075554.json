@@ -1,0 +1,10 @@
+{
+    "id": 1075554,
+    "name": "mattermost",
+    "version": "7.7.3",
+    "created_at": "2023-04-27T13:05:40",
+    "updated_at": "2023-06-08T17:30:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mattermost:mattermost:7.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

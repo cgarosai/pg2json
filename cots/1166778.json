@@ -1,0 +1,10 @@
+{
+    "id": 1166778,
+    "name": "xeon_e3-7500",
+    "version": "-",
+    "created_at": "2023-09-25T17:50:28",
+    "updated_at": "2023-09-25T17:50:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e3-7500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 625542,
+    "name": "wdr7400_firmware",
+    "version": "-",
+    "created_at": "2020-11-30T15:09:33",
+    "updated_at": "2021-04-30T14:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:wdr7400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 930377,
+    "name": "mako",
+    "version": "1.0.4",
+    "created_at": "2022-09-09T12:27:38",
+    "updated_at": "2022-09-09T14:19:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqlalchemy:mako:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

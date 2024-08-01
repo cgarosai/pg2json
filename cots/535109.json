@@ -1,0 +1,10 @@
+{
+    "id": 535109,
+    "name": "netengine_16ex_firmware",
+    "version": "v200r005",
+    "created_at": "2020-04-13T17:23:38",
+    "updated_at": "2020-04-13T17:23:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:netengine_16ex_firmware:v200r005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

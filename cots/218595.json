@@ -1,0 +1,10 @@
+{
+    "id": 218595,
+    "name": "framework",
+    "version": "4.2.22",
+    "created_at": "2019-03-18T17:27:46",
+    "updated_at": "2019-03-18T17:27:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravel:framework:4.2.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

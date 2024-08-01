@@ -1,0 +1,10 @@
+{
+    "id": 565201,
+    "name": "azure_active_directory_passport",
+    "version": "1.3.5",
+    "created_at": "2020-06-25T10:48:06",
+    "updated_at": "2020-06-25T10:48:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_active_directory_passport:1.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

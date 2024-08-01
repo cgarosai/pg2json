@@ -1,0 +1,10 @@
+{
+    "id": 625026,
+    "name": "drupal",
+    "version": "9.0.0",
+    "created_at": "2020-11-30T11:56:11",
+    "updated_at": "2020-11-30T11:56:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drupal:drupal:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

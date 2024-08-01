@@ -1,0 +1,10 @@
+{
+    "id": 832469,
+    "name": "enterprise_identity_cloud",
+    "version": "-",
+    "created_at": "2022-01-27T18:46:10",
+    "updated_at": "2022-04-29T13:45:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:saviynt:enterprise_identity_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

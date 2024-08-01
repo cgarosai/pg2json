@@ -1,0 +1,10 @@
+{
+    "id": 98534,
+    "name": "opennms",
+    "version": "1.12.6",
+    "created_at": "2014-06-05T11:22:31",
+    "updated_at": "2014-06-09T16:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opennms:opennms:1.12.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

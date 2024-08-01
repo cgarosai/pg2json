@@ -1,0 +1,10 @@
+{
+    "id": 590629,
+    "name": "triton_ap_email",
+    "version": "8.2",
+    "created_at": "2020-09-16T09:41:26",
+    "updated_at": "2020-09-16T09:41:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:websense:triton_ap_email:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

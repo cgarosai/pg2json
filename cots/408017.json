@@ -1,0 +1,10 @@
+{
+    "id": 408017,
+    "name": "pi-hole",
+    "version": "2.5.2",
+    "created_at": "2019-10-10T12:26:13",
+    "updated_at": "2019-10-10T12:26:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pi-hole:pi-hole:2.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 110424,
+    "name": "ubuntu_linux",
+    "version": "6.06",
+    "created_at": "2016-08-23T16:19:54",
+    "updated_at": "2016-08-23T16:19:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:canonical:ubuntu_linux:6.06:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

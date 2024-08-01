@@ -1,0 +1,10 @@
+{
+    "id": 50956,
+    "name": "application_control_engine_software",
+    "version": "a4\\(2.3\\)",
+    "created_at": "2012-06-21T16:47:04",
+    "updated_at": "2012-06-21T18:44:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:application_control_engine_software:a4\\(2.3\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

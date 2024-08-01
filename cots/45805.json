@@ -1,0 +1,10 @@
+{
+    "id": 45805,
+    "name": "performance_insight",
+    "version": "5.2",
+    "created_at": "2011-05-02T11:24:34",
+    "updated_at": "2012-11-13T17:58:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:performance_insight:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

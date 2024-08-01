@@ -1,0 +1,10 @@
+{
+    "id": 755010,
+    "name": "simatic_power_line_booster_plb_firmware",
+    "version": "-",
+    "created_at": "2021-07-29T15:18:55",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_power_line_booster_plb_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

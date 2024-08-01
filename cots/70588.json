@@ -1,0 +1,10 @@
+{
+    "id": 70588,
+    "name": "quidway_service_process_unit_board_s9700",
+    "version": "v200r001c00spc300",
+    "created_at": "2013-06-21T13:25:15",
+    "updated_at": "2013-07-12T15:40:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:quidway_service_process_unit_board_s9700:v200r001c00spc300:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

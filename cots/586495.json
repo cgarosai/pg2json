@@ -1,0 +1,10 @@
+{
+    "id": 586495,
+    "name": "ac6_firmware",
+    "version": "v15.03.05.19_multi_td01",
+    "created_at": "2020-08-17T12:25:05",
+    "updated_at": "2020-08-17T12:25:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tendacn:ac6_firmware:v15.03.05.19_multi_td01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

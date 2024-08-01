@@ -1,0 +1,10 @@
+{
+    "id": 188106,
+    "name": "sudo",
+    "version": "1.8.9",
+    "created_at": "2018-10-30T12:32:32",
+    "updated_at": "2018-10-30T12:32:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sudo_project:sudo:1.8.9:p1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 92727,
+    "name": "zipcar",
+    "version": "3.4.2",
+    "created_at": "2014-09-15T22:39:42",
+    "updated_at": "2014-12-10T16:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zipcar:zipcar:3.4.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

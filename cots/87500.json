@@ -1,0 +1,10 @@
+{
+    "id": 87500,
+    "name": "websphere_virtual_enterprise",
+    "version": "7.0.0.4",
+    "created_at": "2013-11-18T21:08:45",
+    "updated_at": "2013-11-19T17:08:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_virtual_enterprise:7.0.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

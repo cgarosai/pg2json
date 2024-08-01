@@ -1,0 +1,10 @@
+{
+    "id": 680361,
+    "name": "controlcenter",
+    "version": "1.5.0",
+    "created_at": "2021-04-07T13:12:29",
+    "updated_at": "2021-04-12T11:45:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightmeter:controlcenter:1.5.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

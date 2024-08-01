@@ -1,0 +1,10 @@
+{
+    "id": 30361,
+    "name": "proxysg_sg510-10",
+    "version": "-",
+    "created_at": "2010-12-28T16:27:43",
+    "updated_at": "2010-12-28T16:27:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bluecoat:proxysg_sg510-10:-:-:acceleration:*:*:*:*:*",
+    "to_analyse": false
+}

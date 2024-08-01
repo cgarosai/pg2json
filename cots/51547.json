@@ -1,0 +1,10 @@
+{
+    "id": 51547,
+    "name": "asset_baseline_monitor_agent",
+    "version": "3.5.0",
+    "created_at": "2012-06-21T17:08:23",
+    "updated_at": "2012-06-21T17:08:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:asset_baseline_monitor_agent:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

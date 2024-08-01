@@ -1,0 +1,10 @@
+{
+    "id": 52229,
+    "name": "hostmaster",
+    "version": "6.x-1.x",
+    "created_at": "2012-06-27T12:39:52",
+    "updated_at": "2012-07-30T13:19:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:antoine_beaupre:hostmaster:6.x-1.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

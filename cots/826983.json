@@ -1,0 +1,10 @@
+{
+    "id": 826983,
+    "name": "favorite_plugin",
+    "version": "1.8",
+    "created_at": "2021-12-15T13:46:16",
+    "updated_at": "2021-12-15T16:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:favorite_plugin:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 77660,
+    "name": "taxonomy_manager",
+    "version": "5.x-1.2",
+    "created_at": "2013-04-09T19:34:57",
+    "updated_at": "2013-04-09T19:34:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mattias_hutterer:taxonomy_manager:5.x-1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

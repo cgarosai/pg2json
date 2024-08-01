@@ -1,0 +1,10 @@
+{
+    "id": 216837,
+    "name": "repository_connector",
+    "version": "0.7.0",
+    "created_at": "2019-03-12T18:03:38",
+    "updated_at": "2019-03-12T18:03:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:repository_connector:0.7.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

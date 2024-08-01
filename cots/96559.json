@@ -1,0 +1,10 @@
+{
+    "id": 96559,
+    "name": "8\\/20q_fibre_channel_switch_16_port",
+    "version": "ak242a",
+    "created_at": "2014-05-12T11:38:49",
+    "updated_at": "2014-07-01T00:18:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:8\\/20q_fibre_channel_switch_16_port:ak242a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 918409,
+    "name": "deployer_framework",
+    "version": "85.v1d1888e8c021",
+    "created_at": "2022-08-01T16:40:58",
+    "updated_at": "2022-08-02T12:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:deployer_framework:85.v1d1888e8c021:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

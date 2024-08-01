@@ -1,0 +1,10 @@
+{
+    "id": 123323,
+    "name": "greenbone_security_assistant",
+    "version": "4.0",
+    "created_at": "2017-08-21T19:20:50",
+    "updated_at": "2017-08-21T19:20:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:greenbone:greenbone_security_assistant:4.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

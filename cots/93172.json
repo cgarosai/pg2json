@@ -1,0 +1,10 @@
+{
+    "id": 93172,
+    "name": "cpuminer",
+    "version": "2.4.0",
+    "created_at": "2014-10-27T14:04:17",
+    "updated_at": "2015-01-25T13:01:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cpuminer_project:cpuminer:2.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 473052,
+    "name": "express_220_firmware",
+    "version": "-",
+    "created_at": "2020-01-24T18:26:09",
+    "updated_at": "2022-09-02T14:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lifesize:express_220_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

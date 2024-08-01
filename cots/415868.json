@@ -1,0 +1,10 @@
+{
+    "id": 415868,
+    "name": "etcd",
+    "version": "0.5.0",
+    "created_at": "2019-10-23T11:12:17",
+    "updated_at": "2019-10-23T11:12:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:etcd:etcd:0.5.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

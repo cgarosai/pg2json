@@ -1,0 +1,10 @@
+{
+    "id": 424910,
+    "name": "broccoli-closure",
+    "version": "1.3.1",
+    "created_at": "2019-11-08T18:57:55",
+    "updated_at": "2019-11-08T18:57:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broccoli-closure_project:broccoli-closure:1.3.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

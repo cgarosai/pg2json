@@ -1,0 +1,10 @@
+{
+    "id": 585287,
+    "name": "generic_market_data",
+    "version": "450",
+    "created_at": "2020-08-13T17:45:57",
+    "updated_at": "2020-08-13T17:45:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:generic_market_data:450:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

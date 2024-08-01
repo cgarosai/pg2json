@@ -1,0 +1,10 @@
+{
+    "id": 127751,
+    "name": "novabackup_datacenter",
+    "version": "-",
+    "created_at": "2017-04-19T16:28:28",
+    "updated_at": "2021-07-07T17:29:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novastor:novabackup_datacenter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

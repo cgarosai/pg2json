@@ -1,0 +1,10 @@
+{
+    "id": 100990,
+    "name": "centricity_dms_firmware",
+    "version": "4.2",
+    "created_at": "2015-08-04T16:50:26",
+    "updated_at": "2015-08-12T11:33:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:gehealthcare:centricity_dms_firmware:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

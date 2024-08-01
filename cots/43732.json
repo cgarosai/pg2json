@@ -1,0 +1,10 @@
+{
+    "id": 43732,
+    "name": "deep_freeze",
+    "version": "-",
+    "created_at": "2012-03-16T14:01:28",
+    "updated_at": "2012-03-16T14:01:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:faronics:deep_freeze:-:-:std:*:*:*:*:*",
+    "to_analyse": false
+}

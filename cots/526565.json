@@ -1,0 +1,10 @@
+{
+    "id": 526565,
+    "name": "buildah",
+    "version": "1.14.5",
+    "created_at": "2020-04-01T12:23:41",
+    "updated_at": "2020-04-01T12:23:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buildah_project:buildah:1.14.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

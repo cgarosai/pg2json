@@ -1,0 +1,10 @@
+{
+    "id": 181686,
+    "name": "foxmail",
+    "version": "1.2",
+    "created_at": "2018-11-14T13:38:05",
+    "updated_at": "2020-05-04T12:35:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tencent:foxmail:1.2:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

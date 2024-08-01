@@ -1,0 +1,10 @@
+{
+    "id": 510443,
+    "name": "xeon_e5-2630_v4_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:01:38",
+    "updated_at": "2020-03-23T17:01:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e5-2630_v4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

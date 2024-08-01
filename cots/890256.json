@@ -1,0 +1,10 @@
+{
+    "id": 890256,
+    "name": "p3225_firmware",
+    "version": "-",
+    "created_at": "2022-06-21T12:22:14",
+    "updated_at": "2022-06-24T18:21:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:p3225_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

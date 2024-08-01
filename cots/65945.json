@@ -1,0 +1,10 @@
+{
+    "id": 65945,
+    "name": "wave_infrastructure_installer",
+    "version": "7.2.40.8",
+    "created_at": "2012-08-01T19:33:53",
+    "updated_at": "2012-08-01T19:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wave:wave_infrastructure_installer:7.2.40.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 286071,
+    "name": "mod_auth_mellon",
+    "version": "0.13.0",
+    "created_at": "2019-07-02T14:45:43",
+    "updated_at": "2019-07-02T14:45:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uninett:mod_auth_mellon:0.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

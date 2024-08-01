@@ -1,0 +1,10 @@
+{
+    "id": 869684,
+    "name": "nsg300",
+    "version": "-",
+    "created_at": "2022-04-04T12:02:45",
+    "updated_at": "2022-04-19T16:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:zyxel:nsg300:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

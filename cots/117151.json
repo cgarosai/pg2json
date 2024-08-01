@@ -1,0 +1,10 @@
+{
+    "id": 117151,
+    "name": "wireless_lan_controller_software",
+    "version": "7.4.100.60",
+    "created_at": "2016-04-26T09:20:19",
+    "updated_at": "2021-04-16T15:26:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:wireless_lan_controller_software:7.4.100.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

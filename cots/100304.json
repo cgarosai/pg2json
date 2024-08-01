@@ -1,0 +1,10 @@
+{
+    "id": 100304,
+    "name": "rt-210",
+    "version": "-",
+    "created_at": "2015-06-22T10:19:43",
+    "updated_at": "2015-06-22T14:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:airties:rt-210:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

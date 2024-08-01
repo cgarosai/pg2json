@@ -1,0 +1,10 @@
+{
+    "id": 487413,
+    "name": "netty",
+    "version": "4.1.44",
+    "created_at": "2020-02-03T12:56:29",
+    "updated_at": "2020-02-03T12:56:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netty:netty:4.1.44:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

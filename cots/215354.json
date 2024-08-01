@@ -1,0 +1,10 @@
+{
+    "id": 215354,
+    "name": "tvos",
+    "version": "5.2.0",
+    "created_at": "2019-03-08T15:06:14",
+    "updated_at": "2019-03-08T15:06:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:tvos:5.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

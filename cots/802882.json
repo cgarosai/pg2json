@@ -1,0 +1,10 @@
+{
+    "id": 802882,
+    "name": "rax200_firmware",
+    "version": "1.0.5.132",
+    "created_at": "2021-11-17T13:25:34",
+    "updated_at": "2021-11-17T13:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:rax200_firmware:1.0.5.132:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

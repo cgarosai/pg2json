@@ -1,0 +1,10 @@
+{
+    "id": 270962,
+    "name": "tivoli_storage_manager_for_mail_data_protection_for_microsoft_exchange_server",
+    "version": "7.1.2",
+    "created_at": "2019-06-27T11:36:14",
+    "updated_at": "2019-06-27T11:36:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_for_mail_data_protection_for_microsoft_exchange_server:7.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

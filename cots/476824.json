@@ -1,0 +1,10 @@
+{
+    "id": 476824,
+    "name": "xeon_e-2254me_firmware",
+    "version": "-",
+    "created_at": "2020-01-13T13:15:31",
+    "updated_at": "2020-01-13T13:15:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e-2254me_firmware:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

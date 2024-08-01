@@ -1,0 +1,10 @@
+{
+    "id": 79768,
+    "name": "mutiny_appliance",
+    "version": "-",
+    "created_at": "2013-06-03T12:41:54",
+    "updated_at": "2013-06-04T12:09:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mutiny:mutiny_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

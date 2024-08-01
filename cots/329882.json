@@ -1,0 +1,10 @@
+{
+    "id": 329882,
+    "name": "ceilometer",
+    "version": "7.0.0.0",
+    "created_at": "2019-08-01T12:49:59",
+    "updated_at": "2019-08-01T12:49:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:ceilometer:7.0.0.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

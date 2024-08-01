@@ -1,0 +1,10 @@
+{
+    "id": 684170,
+    "name": "rv260_firmware",
+    "version": "1.0.01.03",
+    "created_at": "2021-04-13T12:20:31",
+    "updated_at": "2021-04-23T11:56:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv260_firmware:1.0.01.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

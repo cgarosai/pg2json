@@ -1,0 +1,10 @@
+{
+    "id": 943163,
+    "name": "nedi",
+    "version": "1.0.7",
+    "created_at": "2022-10-07T15:01:20",
+    "updated_at": "2022-11-09T14:10:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nedi:nedi:1.0.7:*:*:*:*:freebsd:*:*",
+    "to_analyse": false
+}

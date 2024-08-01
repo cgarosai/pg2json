@@ -1,0 +1,10 @@
+{
+    "id": 44225,
+    "name": "powervault_ml6000",
+    "version": "32u",
+    "created_at": "2012-03-22T16:18:10",
+    "updated_at": "2012-03-22T18:02:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:powervault_ml6000:32u:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

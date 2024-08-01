@@ -1,0 +1,10 @@
+{
+    "id": 908800,
+    "name": "artifactory",
+    "version": "7.19.6",
+    "created_at": "2022-07-11T16:37:31",
+    "updated_at": "2022-07-11T16:45:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jfrog:artifactory:7.19.6:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

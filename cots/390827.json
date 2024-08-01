@@ -1,0 +1,10 @@
+{
+    "id": 390827,
+    "name": "xkbcommon",
+    "version": "0.8.0",
+    "created_at": "2019-10-01T15:42:41",
+    "updated_at": "2019-10-01T15:42:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xkbcommon_project:xkbcommon:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

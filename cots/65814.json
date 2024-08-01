@@ -1,0 +1,10 @@
+{
+    "id": 65814,
+    "name": "data_recovery",
+    "version": "1.2.0",
+    "created_at": "2012-08-01T19:33:22",
+    "updated_at": "2012-08-01T19:33:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:data_recovery:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

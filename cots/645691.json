@@ -1,0 +1,10 @@
+{
+    "id": 645691,
+    "name": "net2",
+    "version": "0.2.25",
+    "created_at": "2021-01-07T12:04:04",
+    "updated_at": "2021-01-07T12:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:net2_project:net2:0.2.25:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1121600,
+    "name": "ckeditor-wordcount-plugin",
+    "version": "1.17.12",
+    "created_at": "2023-07-31T14:48:21",
+    "updated_at": "2023-09-09T01:45:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:herbote-services:ckeditor-wordcount-plugin:1.17.12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1054445,
+    "name": "manageengine_opmanager_msp",
+    "version": "12.6",
+    "created_at": "2023-04-04T16:58:05",
+    "updated_at": "2023-04-04T17:23:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_opmanager_msp:12.6:build126154:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 460180,
+    "name": "incubator_superset",
+    "version": "0.26.2",
+    "created_at": "2019-12-27T19:14:29",
+    "updated_at": "2023-05-22T09:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:incubator_superset:0.26.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

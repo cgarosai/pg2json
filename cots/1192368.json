@@ -1,0 +1,10 @@
+{
+    "id": 1192368,
+    "name": "radeon_rx_7600m",
+    "version": "-",
+    "created_at": "2023-11-18T01:38:49",
+    "updated_at": "2023-11-18T01:38:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:radeon_rx_7600m:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

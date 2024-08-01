@@ -1,0 +1,10 @@
+{
+    "id": 153528,
+    "name": "xenon",
+    "version": "1.1.0",
+    "created_at": "2018-06-13T11:01:29",
+    "updated_at": "2018-06-13T11:01:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:xenon:1.1.0:cr0-3:*:*:*:*:*:*",
+    "to_analyse": false
+}

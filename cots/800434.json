@@ -1,0 +1,10 @@
+{
+    "id": 800434,
+    "name": "one_command_manager",
+    "version": "-",
+    "created_at": "2021-11-12T12:34:30",
+    "updated_at": "2021-11-23T17:48:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:one_command_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

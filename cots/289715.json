@@ -1,0 +1,10 @@
+{
+    "id": 289715,
+    "name": "bad_behavior",
+    "version": "6.x-2.1",
+    "created_at": "2019-07-09T12:54:37",
+    "updated_at": "2019-07-09T12:54:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bad_behavior_project:bad_behavior:6.x-2.1:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

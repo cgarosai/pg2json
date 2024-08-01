@@ -1,0 +1,10 @@
+{
+    "id": 619239,
+    "name": "capainstaller",
+    "version": "5.7",
+    "created_at": "2020-11-12T20:00:05",
+    "updated_at": "2020-11-12T20:00:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:capasystems:capainstaller:5.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

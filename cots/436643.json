@@ -1,0 +1,10 @@
+{
+    "id": 436643,
+    "name": "peercoin",
+    "version": "0.7.1",
+    "created_at": "2019-11-12T18:56:37",
+    "updated_at": "2019-11-12T18:56:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:peercoin:peercoin:0.7.1:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

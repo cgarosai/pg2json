@@ -1,0 +1,10 @@
+{
+    "id": 934682,
+    "name": "bigfileagent",
+    "version": "1.0.1.9",
+    "created_at": "2022-09-20T11:45:21",
+    "updated_at": "2022-11-04T15:43:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bigfile:bigfileagent:1.0.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

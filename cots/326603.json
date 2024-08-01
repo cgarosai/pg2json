@@ -1,0 +1,10 @@
+{
+    "id": 326603,
+    "name": "bacnet_protocol_stack",
+    "version": "0.6.2",
+    "created_at": "2019-07-31T13:45:19",
+    "updated_at": "2019-07-31T13:45:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bacnet_protocol_stack_project:bacnet_protocol_stack:0.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

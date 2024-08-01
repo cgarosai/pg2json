@@ -1,0 +1,10 @@
+{
+    "id": 21042,
+    "name": "netware",
+    "version": "6.5",
+    "created_at": "2010-01-18T14:25:12",
+    "updated_at": "2011-08-16T13:02:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:novell:netware:6.5:sp8:*:*:*:*:*:*",
+    "to_analyse": false
+}

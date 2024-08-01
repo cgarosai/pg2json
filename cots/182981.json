@@ -1,0 +1,10 @@
+{
+    "id": 182981,
+    "name": "elasticsearch_x-pack",
+    "version": "5.6.8",
+    "created_at": "2018-11-21T14:14:08",
+    "updated_at": "2018-11-21T14:14:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:elasticsearch_x-pack:5.6.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

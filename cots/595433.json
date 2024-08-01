@@ -1,0 +1,10 @@
+{
+    "id": 595433,
+    "name": "deeps",
+    "version": "1.0.0",
+    "created_at": "2020-09-03T13:03:45",
+    "updated_at": "2020-09-03T13:03:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invertase:deeps:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

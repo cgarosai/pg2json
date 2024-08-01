@@ -1,0 +1,10 @@
+{
+    "id": 8170,
+    "name": "3ds_max",
+    "version": "7",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T12:36:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autodesk:3ds_max:7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

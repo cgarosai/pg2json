@@ -1,0 +1,10 @@
+{
+    "id": 96894,
+    "name": "omniauth-facebook",
+    "version": "1.0.0",
+    "created_at": "2014-05-14T15:18:56",
+    "updated_at": "2014-05-14T15:21:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:madeofcode:omniauth-facebook:1.0.0:rc2:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

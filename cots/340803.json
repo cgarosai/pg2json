@@ -1,0 +1,10 @@
+{
+    "id": 340803,
+    "name": "catalyst_3650-24pd",
+    "version": "-",
+    "created_at": "2019-08-29T10:43:33",
+    "updated_at": "2021-04-19T16:01:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_3650-24pd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

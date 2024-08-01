@@ -1,0 +1,10 @@
+{
+    "id": 657089,
+    "name": "shiro",
+    "version": "-",
+    "created_at": "2021-02-05T17:31:21",
+    "updated_at": "2021-02-05T17:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:shiro:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

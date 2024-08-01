@@ -1,0 +1,10 @@
+{
+    "id": 204284,
+    "name": "xtradb_cluster",
+    "version": "5.7.16-27.19",
+    "created_at": "2019-03-04T14:50:28",
+    "updated_at": "2019-03-04T14:50:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:percona:xtradb_cluster:5.7.16-27.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

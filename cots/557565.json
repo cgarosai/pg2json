@@ -1,0 +1,10 @@
+{
+    "id": 557565,
+    "name": "word",
+    "version": "2001",
+    "created_at": "2020-06-02T19:16:12",
+    "updated_at": "2020-06-02T19:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word:2001:*:*:*:*:mac_os_x:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 627218,
+    "name": "lock_password_manager_safe_app",
+    "version": "2.3",
+    "created_at": "2020-12-01T17:13:11",
+    "updated_at": "2020-12-01T17:13:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lock_password_manager_safe_app_project:lock_password_manager_safe_app:2.3:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1215917,
+    "name": "binutils",
+    "version": "2.38.50",
+    "created_at": "2023-12-09T03:57:34",
+    "updated_at": "2023-12-09T03:57:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:binutils:2.38.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

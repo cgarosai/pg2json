@@ -1,0 +1,10 @@
+{
+    "id": 148097,
+    "name": "embos\\/ip_ftp_server",
+    "version": "3.22",
+    "created_at": "2018-03-26T15:53:46",
+    "updated_at": "2021-08-11T13:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:segger:embos\\/ip_ftp_server:3.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

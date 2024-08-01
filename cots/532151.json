@@ -1,0 +1,10 @@
+{
+    "id": 532151,
+    "name": "r7300dst_firmware",
+    "version": "1.0.0.68",
+    "created_at": "2020-04-29T15:22:46",
+    "updated_at": "2020-04-29T15:22:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7300dst_firmware:1.0.0.68:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

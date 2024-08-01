@@ -1,0 +1,10 @@
+{
+    "id": 504970,
+    "name": "erp",
+    "version": "607",
+    "created_at": "2020-03-11T17:18:46",
+    "updated_at": "2020-03-11T17:18:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:erp:607:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

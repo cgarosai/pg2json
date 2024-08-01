@@ -1,0 +1,10 @@
+{
+    "id": 1165105,
+    "name": "gdkpixbuf",
+    "version": "2.35.5",
+    "created_at": "2023-09-25T11:50:26",
+    "updated_at": "2023-09-25T11:50:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gdkpixbuf:2.35.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

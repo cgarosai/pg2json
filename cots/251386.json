@@ -1,0 +1,10 @@
+{
+    "id": 251386,
+    "name": "shelve_project",
+    "version": "1.3",
+    "created_at": "2019-06-11T14:13:14",
+    "updated_at": "2019-06-11T14:13:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:shelve_project:1.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

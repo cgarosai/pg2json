@@ -1,0 +1,10 @@
+{
+    "id": 485112,
+    "name": "private_internet_access",
+    "version": "77",
+    "created_at": "2020-01-29T15:37:38",
+    "updated_at": "2020-01-29T15:37:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:londontrustmedia:private_internet_access:77:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

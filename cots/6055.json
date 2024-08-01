@@ -1,0 +1,10 @@
+{
+    "id": 6055,
+    "name": "gnome-terminal",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2010-08-09T20:08:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gnome-terminal:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

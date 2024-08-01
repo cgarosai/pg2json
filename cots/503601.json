@@ -1,0 +1,10 @@
+{
+    "id": 503601,
+    "name": "rufus",
+    "version": "1.4.0",
+    "created_at": "2020-03-09T18:47:31",
+    "updated_at": "2020-03-09T18:47:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rufus_project:rufus:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

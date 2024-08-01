@@ -1,0 +1,10 @@
+{
+    "id": 751883,
+    "name": "migrate_users",
+    "version": "-",
+    "created_at": "2021-08-07T01:54:33",
+    "updated_at": "2021-08-17T21:34:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:migrate_users_project:migrate_users:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 781585,
+    "name": "axis_os",
+    "version": "10.6.10",
+    "created_at": "2021-10-07T15:25:22",
+    "updated_at": "2021-10-07T15:35:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:axis_os:10.6.10:*:*:*:active:*:*:*",
+    "to_analyse": false
+}

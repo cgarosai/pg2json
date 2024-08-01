@@ -1,0 +1,10 @@
+{
+    "id": 813125,
+    "name": "unifi_switch_firmware",
+    "version": "5.64.8",
+    "created_at": "2021-12-07T15:59:47",
+    "updated_at": "2021-12-28T16:45:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:unifi_switch_firmware:5.64.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 270025,
+    "name": "gemfire",
+    "version": "1.2.3.0",
+    "created_at": "2019-06-26T10:30:50",
+    "updated_at": "2019-06-26T10:30:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:gemfire:1.2.3.0:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 133284,
+    "name": "wl-2000cam_firmware",
+    "version": "lm.1.6.18_14.10.2011",
+    "created_at": "2018-01-12T02:12:33",
+    "updated_at": "2021-05-17T16:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:airlive:wl-2000cam_firmware:lm.1.6.18_14.10.2011:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 336224,
+    "name": "superagent",
+    "version": "3.3.0",
+    "created_at": "2019-08-06T15:51:12",
+    "updated_at": "2019-08-06T15:51:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:superagent_project:superagent:3.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

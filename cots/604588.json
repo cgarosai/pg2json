@@ -1,0 +1,10 @@
+{
+    "id": 604588,
+    "name": "evdc",
+    "version": "zxcloud-irosv6.03.04",
+    "created_at": "2020-10-26T22:10:35",
+    "updated_at": "2021-08-17T15:07:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zte:evdc:zxcloud-irosv6.03.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

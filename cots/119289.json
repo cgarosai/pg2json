@@ -1,0 +1,10 @@
+{
+    "id": 119289,
+    "name": "huawei_firmware",
+    "version": "v5500r001c00",
+    "created_at": "2016-06-27T16:50:34",
+    "updated_at": "2021-05-20T16:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:huawei_firmware:v5500r001c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

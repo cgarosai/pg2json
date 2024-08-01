@@ -1,0 +1,10 @@
+{
+    "id": 956186,
+    "name": "nix",
+    "version": "0.22.3",
+    "created_at": "2022-10-17T18:06:10",
+    "updated_at": "2022-10-17T18:07:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nix_project:nix:0.22.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

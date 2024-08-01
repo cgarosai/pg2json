@@ -1,0 +1,10 @@
+{
+    "id": 132084,
+    "name": "synapse",
+    "version": "2.1.0",
+    "created_at": "2017-12-29T13:47:09",
+    "updated_at": "2017-12-29T13:47:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:synapse:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

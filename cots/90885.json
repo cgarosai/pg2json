@@ -1,0 +1,10 @@
+{
+    "id": 90885,
+    "name": "sonicwall_analyzer",
+    "version": "7.2",
+    "created_at": "2014-07-25T14:17:39",
+    "updated_at": "2018-03-12T12:11:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:sonicwall_analyzer:7.2:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 54091,
+    "name": "i3_listener_agent",
+    "version": "8.7",
+    "created_at": "2012-07-10T01:21:52",
+    "updated_at": "2012-07-10T01:21:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:i3_listener_agent:8.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

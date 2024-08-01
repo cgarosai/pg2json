@@ -1,0 +1,10 @@
+{
+    "id": 397146,
+    "name": "netskope",
+    "version": "57",
+    "created_at": "2019-09-30T10:20:07",
+    "updated_at": "2019-09-30T10:20:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netskope:netskope:57:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

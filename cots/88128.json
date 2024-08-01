@@ -1,0 +1,10 @@
+{
+    "id": 88128,
+    "name": "smart_travel_router",
+    "version": "1.5",
+    "created_at": "2013-12-02T15:42:16",
+    "updated_at": "2013-12-20T00:33:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:satechi:smart_travel_router:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

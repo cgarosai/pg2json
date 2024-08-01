@@ -1,0 +1,10 @@
+{
+    "id": 161393,
+    "name": "private_address_check",
+    "version": "0.3.0",
+    "created_at": "2018-08-07T12:00:09",
+    "updated_at": "2018-08-07T12:00:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:private_address_check_project:private_address_check:0.3.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

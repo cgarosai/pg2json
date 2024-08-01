@@ -1,0 +1,10 @@
+{
+    "id": 527030,
+    "name": "enterprise_server",
+    "version": "3.0.1b",
+    "created_at": "2020-04-01T15:28:52",
+    "updated_at": "2020-04-01T15:28:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netscape:enterprise_server:3.0.1b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

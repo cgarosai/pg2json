@@ -1,0 +1,10 @@
+{
+    "id": 983260,
+    "name": "contract_lifecycle_manager",
+    "version": "1100",
+    "created_at": "2022-12-13T17:19:12",
+    "updated_at": "2022-12-15T15:44:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:contract_lifecycle_manager:1100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 605168,
+    "name": "htmlformentry",
+    "version": "3.0",
+    "created_at": "2020-09-28T16:38:48",
+    "updated_at": "2020-09-28T16:38:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmrs:htmlformentry:3.0:*:*:*:*:openmrs:*:*",
+    "to_analyse": false
+}

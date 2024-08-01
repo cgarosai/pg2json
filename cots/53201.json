@@ -1,0 +1,10 @@
+{
+    "id": 53201,
+    "name": "oracle_database_express_edition",
+    "version": "10.2.1015",
+    "created_at": "2012-07-10T01:17:13",
+    "updated_at": "2012-07-10T01:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:oracle_database_express_edition:10.2.1015:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

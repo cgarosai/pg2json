@@ -1,0 +1,10 @@
+{
+    "id": 136028,
+    "name": "rds-31_itx_firmware",
+    "version": "-",
+    "created_at": "2017-10-05T13:22:51",
+    "updated_at": "2021-06-23T14:54:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mirion:rds-31_itx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

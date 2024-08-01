@@ -1,0 +1,10 @@
+{
+    "id": 817016,
+    "name": "drive_constellation",
+    "version": "-",
+    "created_at": "2021-11-24T13:09:26",
+    "updated_at": "2021-12-03T17:50:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:drive_constellation:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

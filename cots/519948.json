@@ -1,0 +1,10 @@
+{
+    "id": 519948,
+    "name": "xeon_e5540_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:31:28",
+    "updated_at": "2020-03-23T16:31:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e5540_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

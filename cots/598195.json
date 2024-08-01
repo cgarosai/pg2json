@@ -1,0 +1,10 @@
+{
+    "id": 598195,
+    "name": "octopus_deploy",
+    "version": "2020.2",
+    "created_at": "2020-09-10T14:11:56",
+    "updated_at": "2020-10-28T12:13:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octopus:octopus_deploy:2020.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

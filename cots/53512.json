@@ -1,0 +1,10 @@
+{
+    "id": 53512,
+    "name": "smart_card_manager",
+    "version": "1.1.0-5",
+    "created_at": "2012-07-10T01:18:18",
+    "updated_at": "2012-07-10T01:18:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:smart_card_manager:1.1.0-5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

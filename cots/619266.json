@@ -1,0 +1,10 @@
+{
+    "id": 619266,
+    "name": "mf920_firmware",
+    "version": "bd_r218v2.4",
+    "created_at": "2020-11-12T21:03:38",
+    "updated_at": "2020-11-12T21:03:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:mf920_firmware:bd_r218v2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

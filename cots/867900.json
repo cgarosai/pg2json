@@ -1,0 +1,10 @@
+{
+    "id": 867900,
+    "name": "e-series_bios",
+    "version": "-",
+    "created_at": "2022-03-28T10:46:03",
+    "updated_at": "2022-10-03T15:50:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:e-series_bios:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

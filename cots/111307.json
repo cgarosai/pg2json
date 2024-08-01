@@ -1,0 +1,10 @@
+{
+    "id": 111307,
+    "name": "emc_vnx5400",
+    "version": "-",
+    "created_at": "2016-09-21T23:24:43",
+    "updated_at": "2021-05-07T15:29:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:emc_vnx5400:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

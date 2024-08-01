@@ -1,0 +1,10 @@
+{
+    "id": 124148,
+    "name": "guardlogix_5570_controller_firmware",
+    "version": "21.00",
+    "created_at": "2017-08-28T15:18:07",
+    "updated_at": "2017-08-28T15:18:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:guardlogix_5570_controller_firmware:21.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

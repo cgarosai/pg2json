@@ -1,0 +1,10 @@
+{
+    "id": 162433,
+    "name": "amp_7150_firmware",
+    "version": "6.2.2",
+    "created_at": "2018-08-14T12:15:48",
+    "updated_at": "2021-04-19T13:27:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:amp_7150_firmware:6.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 533054,
+    "name": "remote_desktop",
+    "version": "10.3.6",
+    "created_at": "2020-05-04T10:44:26",
+    "updated_at": "2020-05-04T10:44:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:remote_desktop:10.3.6:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

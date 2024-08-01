@@ -1,0 +1,10 @@
+{
+    "id": 495486,
+    "name": "sp_realtime_nt",
+    "version": "-",
+    "created_at": "2020-02-11T16:00:52",
+    "updated_at": "2020-02-11T16:00:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:sp_realtime_nt:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

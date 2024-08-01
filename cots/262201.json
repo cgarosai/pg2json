@@ -1,0 +1,10 @@
+{
+    "id": 262201,
+    "name": "restfulserver",
+    "version": "1.0.1",
+    "created_at": "2019-06-18T13:49:50",
+    "updated_at": "2019-06-18T13:49:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:silverstripe:restfulserver:1.0.1:rc1:*:*:*:silverstripe:*:*",
+    "to_analyse": false
+}

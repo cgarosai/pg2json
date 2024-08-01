@@ -1,0 +1,10 @@
+{
+    "id": 216252,
+    "name": "stackstorm",
+    "version": "1.4.0",
+    "created_at": "2019-03-11T15:17:11",
+    "updated_at": "2019-03-11T15:17:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stackstorm:stackstorm:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

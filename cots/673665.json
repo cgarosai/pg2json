@@ -1,0 +1,10 @@
+{
+    "id": 673665,
+    "name": "mifos-mobile",
+    "version": "1.0.0",
+    "created_at": "2021-03-25T12:47:02",
+    "updated_at": "2021-04-14T14:14:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mifos:mifos-mobile:1.0.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

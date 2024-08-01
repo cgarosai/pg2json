@@ -1,0 +1,10 @@
+{
+    "id": 823524,
+    "name": "gfx-auxil",
+    "version": "0.1.0",
+    "created_at": "2022-01-04T20:06:07",
+    "updated_at": "2022-01-10T15:09:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gfx-auxil_project:gfx-auxil:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

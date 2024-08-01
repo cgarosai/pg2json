@@ -1,0 +1,10 @@
+{
+    "id": 528491,
+    "name": "quadro",
+    "version": "-",
+    "created_at": "2020-04-02T14:07:17",
+    "updated_at": "2020-04-02T14:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:quadro:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

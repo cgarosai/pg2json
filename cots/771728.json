@@ -1,0 +1,10 @@
+{
+    "id": 771728,
+    "name": "block_and_stop_bad_bots",
+    "version": "4.80",
+    "created_at": "2021-09-17T12:35:56",
+    "updated_at": "2021-09-21T10:23:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stopbadbots:block_and_stop_bad_bots:4.80:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

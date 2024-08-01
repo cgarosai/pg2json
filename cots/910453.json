@@ -1,0 +1,10 @@
+{
+    "id": 910453,
+    "name": "invitation_based_registrations",
+    "version": "2.2.84",
+    "created_at": "2022-08-05T14:40:12",
+    "updated_at": "2022-08-05T17:42:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:securebit:invitation_based_registrations:2.2.84:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

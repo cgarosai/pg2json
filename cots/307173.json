@@ -1,0 +1,10 @@
+{
+    "id": 307173,
+    "name": "nova_2_firmware",
+    "version": "picasso-tl00c01b162",
+    "created_at": "2019-07-19T14:29:03",
+    "updated_at": "2019-07-19T14:29:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nova_2_firmware:picasso-tl00c01b162:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

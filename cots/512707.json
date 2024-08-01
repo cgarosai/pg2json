@@ -1,0 +1,10 @@
+{
+    "id": 512707,
+    "name": "azkaban",
+    "version": "3.45.2",
+    "created_at": "2020-03-27T16:21:23",
+    "updated_at": "2020-03-27T16:21:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:azkaban_project:azkaban:3.45.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

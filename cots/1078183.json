@@ -1,0 +1,10 @@
+{
+    "id": 1078183,
+    "name": "payload",
+    "version": "1.0.8",
+    "created_at": "2023-05-03T11:53:15",
+    "updated_at": "2023-05-03T13:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:payloadcms:payload:1.0.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

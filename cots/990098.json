@@ -1,0 +1,10 @@
+{
+    "id": 990098,
+    "name": "auto_upload_images",
+    "version": "3.2",
+    "created_at": "2022-12-23T13:14:54",
+    "updated_at": "2022-12-23T13:26:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auto_upload_images_project:auto_upload_images:3.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 280529,
+    "name": "getmail",
+    "version": "4.14.0",
+    "created_at": "2019-07-09T16:51:12",
+    "updated_at": "2019-07-09T16:51:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pyropus:getmail:4.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

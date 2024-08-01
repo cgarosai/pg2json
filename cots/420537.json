@@ -1,0 +1,10 @@
+{
+    "id": 420537,
+    "name": "secureconnector",
+    "version": "-",
+    "created_at": "2019-11-05T14:29:11",
+    "updated_at": "2019-11-05T14:29:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forescout:secureconnector:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

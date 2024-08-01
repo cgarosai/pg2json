@@ -1,0 +1,10 @@
+{
+    "id": 127276,
+    "name": "security_access_manager_for_web",
+    "version": "7.0.0.14",
+    "created_at": "2017-04-10T13:35:17",
+    "updated_at": "2017-04-10T13:35:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_access_manager_for_web:7.0.0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

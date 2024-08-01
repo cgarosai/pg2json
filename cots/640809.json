@@ -1,0 +1,10 @@
+{
+    "id": 640809,
+    "name": "securechange",
+    "version": "r17-3",
+    "created_at": "2021-01-22T19:34:21",
+    "updated_at": "2021-01-22T19:34:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tufin:securechange:r17-3:hotfix4.1:*:*:*:*:*:*",
+    "to_analyse": false
+}

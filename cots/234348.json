@@ -1,0 +1,10 @@
+{
+    "id": 234348,
+    "name": "spotfire_analytics_platform_for_aws",
+    "version": "7.14.0",
+    "created_at": "2019-05-16T10:57:48",
+    "updated_at": "2019-05-16T10:57:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:spotfire_analytics_platform_for_aws:7.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

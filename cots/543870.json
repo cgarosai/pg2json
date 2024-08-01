@@ -1,0 +1,10 @@
+{
+    "id": 543870,
+    "name": "groovy_ldap",
+    "version": "1.0.0",
+    "created_at": "2020-05-27T12:19:29",
+    "updated_at": "2020-05-27T12:19:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:groovy_ldap:1.0.0:milestone13:*:*:*:*:*:*",
+    "to_analyse": false
+}

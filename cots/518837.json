@@ -1,0 +1,10 @@
+{
+    "id": 518837,
+    "name": "edgeswitch",
+    "version": "1.8.0",
+    "created_at": "2020-03-19T15:46:03",
+    "updated_at": "2020-03-19T15:46:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:edgeswitch:1.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

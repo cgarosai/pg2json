@@ -1,0 +1,10 @@
+{
+    "id": 1196275,
+    "name": "edr-810-vpn-2gsfp_firmware",
+    "version": "5.12.29",
+    "created_at": "2023-11-07T16:16:58",
+    "updated_at": "2023-11-07T16:16:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:edr-810-vpn-2gsfp_firmware:5.12.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

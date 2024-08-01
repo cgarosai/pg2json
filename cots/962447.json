@@ -1,0 +1,10 @@
+{
+    "id": 962447,
+    "name": "system_setup",
+    "version": "-",
+    "created_at": "2022-11-18T13:00:52",
+    "updated_at": "2022-11-18T14:23:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:system_setup:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

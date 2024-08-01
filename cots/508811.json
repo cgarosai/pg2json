@@ -1,0 +1,10 @@
+{
+    "id": 508811,
+    "name": "apache_authenhook",
+    "version": "2.00-01",
+    "created_at": "2020-03-05T12:42:27",
+    "updated_at": "2020-03-05T12:42:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache_authenhook_project:apache_authenhook:2.00-01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

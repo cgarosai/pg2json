@@ -1,0 +1,10 @@
+{
+    "id": 415610,
+    "name": "epiphany",
+    "version": "2.91.3",
+    "created_at": "2019-10-23T10:25:47",
+    "updated_at": "2019-10-23T10:25:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:epiphany:2.91.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

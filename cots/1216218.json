@@ -1,0 +1,10 @@
+{
+    "id": 1216218,
+    "name": "chamilo_lms",
+    "version": "1.11.24",
+    "created_at": "2023-12-11T11:20:12",
+    "updated_at": "2023-12-11T11:20:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chamilo:chamilo_lms:1.11.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 616750,
+    "name": "compact_hmi",
+    "version": "5.1",
+    "created_at": "2020-10-30T16:23:51",
+    "updated_at": "2020-10-30T16:23:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abb:compact_hmi:5.1:revision_b:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 617248,
+    "name": "pgbouncer",
+    "version": "1.5.3",
+    "created_at": "2020-11-03T17:15:54",
+    "updated_at": "2020-11-03T17:15:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pgbouncer:pgbouncer:1.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

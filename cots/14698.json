@@ -1,0 +1,10 @@
+{
+    "id": 14698,
+    "name": "wireless_lan_controller",
+    "version": "4.2.173.0",
+    "created_at": "2009-02-05T16:35:38",
+    "updated_at": "2010-12-28T16:38:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:wireless_lan_controller:4.2.173.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

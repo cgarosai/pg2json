@@ -1,0 +1,10 @@
+{
+    "id": 10225,
+    "name": "visio",
+    "version": "2003",
+    "created_at": "2007-09-12T20:55:31",
+    "updated_at": "2008-04-08T13:13:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visio:2003:sp2:multilingual_user_interface_pack:*:*:*:*:*",
+    "to_analyse": false
+}

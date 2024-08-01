@@ -1,0 +1,10 @@
+{
+    "id": 1101112,
+    "name": "eliteone_1000_g1_firmware",
+    "version": "2.43",
+    "created_at": "2023-06-29T09:59:16",
+    "updated_at": "2023-09-09T01:09:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:eliteone_1000_g1_firmware:2.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

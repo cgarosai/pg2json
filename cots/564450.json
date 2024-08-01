@@ -1,0 +1,10 @@
+{
+    "id": 564450,
+    "name": "data_ontap",
+    "version": "8.2.5",
+    "created_at": "2020-07-22T18:19:59",
+    "updated_at": "2020-07-22T18:19:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:data_ontap:8.2.5:p1:*:*:*:*:*:*",
+    "to_analyse": false
+}

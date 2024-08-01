@@ -1,0 +1,10 @@
+{
+    "id": 480301,
+    "name": "py-bcrypt",
+    "version": "0.1",
+    "created_at": "2020-02-04T16:04:31",
+    "updated_at": "2020-02-04T16:04:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:py-bcrypt:0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1095739,
+    "name": "globalprotect",
+    "version": "6.0.4",
+    "created_at": "2023-06-05T11:26:14",
+    "updated_at": "2023-06-05T12:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:globalprotect:6.0.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

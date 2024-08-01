@@ -1,0 +1,10 @@
+{
+    "id": 535050,
+    "name": "untrunc",
+    "version": "-",
+    "created_at": "2020-04-13T16:49:33",
+    "updated_at": "2020-04-13T16:49:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:untrunc_project:untrunc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

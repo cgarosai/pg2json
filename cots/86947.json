@@ -1,0 +1,10 @@
+{
+    "id": 86947,
+    "name": "dvr_firmware",
+    "version": "3.1.87.p-1.0.4.2-17",
+    "created_at": "2013-11-04T18:52:02",
+    "updated_at": "2013-11-12T16:29:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tvt:dvr_firmware:3.1.87.p-1.0.4.2-17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 716365,
+    "name": "keystone",
+    "version": "5.0.0",
+    "created_at": "2021-05-27T16:04:00",
+    "updated_at": "2021-06-07T18:20:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:keystonejs:keystone:5.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

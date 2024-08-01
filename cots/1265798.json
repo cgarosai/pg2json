@@ -1,0 +1,10 @@
+{
+    "id": 1265798,
+    "name": "connect_secure",
+    "version": "8.0",
+    "created_at": "2024-02-27T20:04:15",
+    "updated_at": "2024-02-27T20:04:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:connect_secure:8.0:r4.1:*:*:*:*:*:*",
+    "to_analyse": false
+}

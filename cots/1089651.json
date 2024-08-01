@@ -1,0 +1,10 @@
+{
+    "id": 1089651,
+    "name": "ryzen_3_1200_af",
+    "version": "-",
+    "created_at": "2023-05-24T18:27:48",
+    "updated_at": "2023-06-16T13:07:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen_3_1200_af:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

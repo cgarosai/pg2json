@@ -1,0 +1,10 @@
+{
+    "id": 451001,
+    "name": "ros-comm",
+    "version": "1.10.11",
+    "created_at": "2019-12-09T19:39:27",
+    "updated_at": "2019-12-09T19:39:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ros:ros-comm:1.10.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

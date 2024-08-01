@@ -1,0 +1,10 @@
+{
+    "id": 920953,
+    "name": "hyundai_firmware",
+    "version": "2017",
+    "created_at": "2022-08-26T12:28:30",
+    "updated_at": "2023-02-17T18:02:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hyundai:hyundai_firmware:2017:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

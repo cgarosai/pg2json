@@ -1,0 +1,10 @@
+{
+    "id": 244988,
+    "name": "active_choices",
+    "version": "0.19",
+    "created_at": "2019-06-06T14:52:16",
+    "updated_at": "2019-06-06T14:52:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:active_choices:0.19:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

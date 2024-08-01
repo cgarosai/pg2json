@@ -1,0 +1,10 @@
+{
+    "id": 1105235,
+    "name": "chat_bee",
+    "version": "1.1.0",
+    "created_at": "2023-06-18T10:39:09",
+    "updated_at": "2023-06-21T14:11:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chat_bee_project:chat_bee:1.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

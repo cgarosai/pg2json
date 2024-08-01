@@ -1,0 +1,10 @@
+{
+    "id": 215148,
+    "name": "webmin",
+    "version": "1.791",
+    "created_at": "2019-03-07T17:04:54",
+    "updated_at": "2019-03-07T17:04:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webmin:webmin:1.791:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

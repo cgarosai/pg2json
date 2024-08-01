@@ -1,0 +1,10 @@
+{
+    "id": 560618,
+    "name": "cli",
+    "version": "6.14.3",
+    "created_at": "2020-07-10T15:01:29",
+    "updated_at": "2020-07-10T15:01:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cli_project:cli:6.14.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

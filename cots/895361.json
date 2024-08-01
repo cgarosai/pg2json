@@ -1,0 +1,10 @@
+{
+    "id": 895361,
+    "name": "markdown-link-extractor",
+    "version": "1.2.7",
+    "created_at": "2022-06-08T15:32:22",
+    "updated_at": "2022-06-08T17:00:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:markdown-link-extractor_project:markdown-link-extractor:1.2.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

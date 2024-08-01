@@ -1,0 +1,10 @@
+{
+    "id": 1156494,
+    "name": "python_wiremock",
+    "version": "2.6.0",
+    "created_at": "2023-09-12T15:30:38",
+    "updated_at": "2023-09-12T15:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wiremock:python_wiremock:2.6.0:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

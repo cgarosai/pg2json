@@ -1,0 +1,10 @@
+{
+    "id": 485191,
+    "name": "gpl_ghostscript",
+    "version": "3.62",
+    "created_at": "2020-01-29T15:46:04",
+    "updated_at": "2020-01-29T15:46:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artifex:gpl_ghostscript:3.62:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

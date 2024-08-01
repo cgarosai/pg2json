@@ -1,0 +1,10 @@
+{
+    "id": 1226420,
+    "name": "application_security_gateway",
+    "version": "6.3.1",
+    "created_at": "2023-12-21T17:59:54",
+    "updated_at": "2023-12-21T17:59:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netentsec:application_security_gateway:6.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

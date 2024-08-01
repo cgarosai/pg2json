@@ -1,0 +1,10 @@
+{
+    "id": 120455,
+    "name": "cyberoam",
+    "version": "-",
+    "created_at": "2017-06-13T17:39:09",
+    "updated_at": "2021-08-03T17:33:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sophos:cyberoam:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

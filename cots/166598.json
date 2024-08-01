@@ -1,0 +1,10 @@
+{
+    "id": 166598,
+    "name": "root",
+    "version": "5-03-01",
+    "created_at": "2018-06-28T15:42:48",
+    "updated_at": "2018-06-28T15:42:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cern:root:5-03-01:alien:*:*:*:*:*:*",
+    "to_analyse": false
+}

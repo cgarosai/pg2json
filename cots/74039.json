@@ -1,0 +1,10 @@
+{
+    "id": 74039,
+    "name": "scada_dnp3_opc_server",
+    "version": "1.2.0",
+    "created_at": "2013-09-09T16:01:32",
+    "updated_at": "2013-09-10T11:49:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrikonopc:scada_dnp3_opc_server:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 682741,
+    "name": "owncloud_client",
+    "version": "2.9.0",
+    "created_at": "2021-04-09T16:19:09",
+    "updated_at": "2021-04-30T14:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owncloud:owncloud_client:2.9.0:beta1:*:*:*:android:*:*",
+    "to_analyse": false
+}

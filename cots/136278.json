@@ -1,0 +1,10 @@
+{
+    "id": 136278,
+    "name": "cf-release",
+    "version": "273",
+    "created_at": "2017-10-13T13:52:46",
+    "updated_at": "2021-08-10T10:10:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cf-release:273:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

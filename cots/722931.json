@@ -1,0 +1,10 @@
+{
+    "id": 722931,
+    "name": "jetson_xavier_nx",
+    "version": "-",
+    "created_at": "2021-06-24T15:02:33",
+    "updated_at": "2021-08-26T11:40:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:jetson_xavier_nx:-:*:production:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 433216,
+    "name": "message_networking",
+    "version": "5.2",
+    "created_at": "2019-11-20T18:19:38",
+    "updated_at": "2021-03-29T11:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:message_networking:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1205335,
+    "name": "hardwarescan_plugin",
+    "version": "-",
+    "created_at": "2023-11-26T23:14:30",
+    "updated_at": "2023-11-26T23:14:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:hardwarescan_plugin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

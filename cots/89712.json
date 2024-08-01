@@ -1,0 +1,10 @@
+{
+    "id": 89712,
+    "name": "libcloud",
+    "version": "0.12.4",
+    "created_at": "2014-01-08T16:01:10",
+    "updated_at": "2014-03-03T16:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:libcloud:0.12.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

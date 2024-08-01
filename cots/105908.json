@@ -1,0 +1,10 @@
+{
+    "id": 105908,
+    "name": "i-httpd",
+    "version": "-",
+    "created_at": "2014-12-12T14:20:33",
+    "updated_at": "2015-02-19T18:47:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ultrapop:i-httpd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

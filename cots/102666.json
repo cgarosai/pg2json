@@ -1,0 +1,10 @@
+{
+    "id": 102666,
+    "name": "secure_remote_services",
+    "version": "3.03",
+    "created_at": "2015-12-29T17:27:09",
+    "updated_at": "2015-12-29T17:27:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:secure_remote_services:3.03:*:*:*:virtual:*:*:*",
+    "to_analyse": false
+}

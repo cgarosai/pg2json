@@ -1,0 +1,10 @@
+{
+    "id": 88125,
+    "name": "endpoint_security",
+    "version": "e80.40",
+    "created_at": "2013-12-02T14:39:27",
+    "updated_at": "2013-12-20T00:32:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:endpoint_security:e80.40:-:vpn_blade:*:*:*:*:*",
+    "to_analyse": false
+}

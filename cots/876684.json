@@ -1,0 +1,10 @@
+{
+    "id": 876684,
+    "name": "sd-wan_orchestrator",
+    "version": "11.4.0a",
+    "created_at": "2022-04-19T13:28:58",
+    "updated_at": "2022-04-20T09:44:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:sd-wan_orchestrator:11.4.0a:*:*:*:on-premises:*:*:*",
+    "to_analyse": false
+}

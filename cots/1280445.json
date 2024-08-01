@@ -1,0 +1,10 @@
+{
+    "id": 1280445,
+    "name": "streampark",
+    "version": "2.1.4",
+    "created_at": "2024-07-22T15:19:39",
+    "updated_at": "2024-07-22T15:19:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:streampark:2.1.4:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

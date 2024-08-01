@@ -1,0 +1,10 @@
+{
+    "id": 890384,
+    "name": "adaptive_server_enterprise",
+    "version": "krnl64uc_7.49",
+    "created_at": "2022-06-21T14:21:53",
+    "updated_at": "2022-06-29T13:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:adaptive_server_enterprise:krnl64uc_7.49:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 577243,
+    "name": "application_server",
+    "version": "2008_1_640",
+    "created_at": "2020-07-28T12:52:30",
+    "updated_at": "2020-07-28T12:52:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:application_server:2008_1_640:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

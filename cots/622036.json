@@ -1,0 +1,10 @@
+{
+    "id": 622036,
+    "name": "orca",
+    "version": "0.496",
+    "created_at": "2020-12-08T12:34:03",
+    "updated_at": "2020-12-08T12:34:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spinnaker:orca:0.496:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

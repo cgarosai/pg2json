@@ -1,0 +1,10 @@
+{
+    "id": 162382,
+    "name": "firepower_management_center_2500_firmware",
+    "version": "6.1.0",
+    "created_at": "2018-08-14T12:15:48",
+    "updated_at": "2021-04-28T12:39:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_management_center_2500_firmware:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

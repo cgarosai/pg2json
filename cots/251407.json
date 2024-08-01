@@ -1,0 +1,10 @@
+{
+    "id": 251407,
+    "name": "security_camera_cz",
+    "version": "1.6.8",
+    "created_at": "2019-06-11T14:28:19",
+    "updated_at": "2019-06-11T14:28:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:securitycamera:security_camera_cz:1.6.8:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

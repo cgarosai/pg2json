@@ -1,0 +1,10 @@
+{
+    "id": 477679,
+    "name": "iot_gateway_software",
+    "version": "9.3.0",
+    "created_at": "2020-01-13T17:14:52",
+    "updated_at": "2020-01-13T17:14:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:iot_gateway_software:9.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

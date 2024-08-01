@@ -1,0 +1,10 @@
+{
+    "id": 1153311,
+    "name": "ryzen_3_3200g_firmware",
+    "version": "comboam4v2pi_1.2.0.8",
+    "created_at": "2023-09-22T16:08:11",
+    "updated_at": "2023-09-22T16:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_3_3200g_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

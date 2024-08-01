@@ -1,0 +1,10 @@
+{
+    "id": 232923,
+    "name": "i_access",
+    "version": "7.3",
+    "created_at": "2019-05-10T17:20:39",
+    "updated_at": "2019-05-10T17:20:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:i_access:7.3:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

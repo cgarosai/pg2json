@@ -1,0 +1,10 @@
+{
+    "id": 674618,
+    "name": "arcgis_pro",
+    "version": "2.6",
+    "created_at": "2021-03-29T21:18:35",
+    "updated_at": "2021-04-15T16:07:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcgis_pro:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

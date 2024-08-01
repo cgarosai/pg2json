@@ -1,0 +1,10 @@
+{
+    "id": 846600,
+    "name": "pgjdbc",
+    "version": "42.3.0",
+    "created_at": "2022-02-07T13:49:45",
+    "updated_at": "2022-03-30T15:14:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postgresql:pgjdbc:42.3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

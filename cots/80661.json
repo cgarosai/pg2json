@@ -1,0 +1,10 @@
+{
+    "id": 80661,
+    "name": "lightdm_gtk\\+_greeter",
+    "version": "1.1.5",
+    "created_at": "2014-01-23T17:35:17",
+    "updated_at": "2014-01-23T17:42:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightdm_gtk\\+_greeter_project:lightdm_gtk\\+_greeter:1.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

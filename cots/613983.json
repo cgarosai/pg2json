@@ -1,0 +1,10 @@
+{
+    "id": 613983,
+    "name": "youtrack",
+    "version": "2020.2.0",
+    "created_at": "2020-11-19T20:34:16",
+    "updated_at": "2020-11-19T20:34:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jetbrains:youtrack:2020.2.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

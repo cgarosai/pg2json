@@ -1,0 +1,10 @@
+{
+    "id": 637110,
+    "name": "database_security",
+    "version": "4.8.0",
+    "created_at": "2020-12-15T13:12:46",
+    "updated_at": "2020-12-15T13:12:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:database_security:4.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

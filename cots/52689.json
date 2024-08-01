@@ -1,0 +1,10 @@
+{
+    "id": 52689,
+    "name": "gajim",
+    "version": "0.13.4",
+    "created_at": "2012-07-03T16:40:19",
+    "updated_at": "2012-07-03T16:40:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gajim:gajim:0.13.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 508717,
+    "name": "cardgate_payments",
+    "version": "-",
+    "created_at": "2020-03-04T21:16:37",
+    "updated_at": "2020-03-04T21:16:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cardgate:cardgate_payments:-:*:*:*:*:woocommerce:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 269233,
+    "name": "ceph-iscsi-cli",
+    "version": "-",
+    "created_at": "2019-06-17T10:49:18",
+    "updated_at": "2019-06-17T10:49:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ceph-iscsi-cli:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

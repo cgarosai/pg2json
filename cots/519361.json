@@ -1,0 +1,10 @@
+{
+    "id": 519361,
+    "name": "xeon_gold_5215m",
+    "version": "-",
+    "created_at": "2020-03-23T13:41:30",
+    "updated_at": "2020-03-23T13:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_gold_5215m:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

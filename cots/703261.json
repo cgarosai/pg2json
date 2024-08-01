@@ -1,0 +1,10 @@
+{
+    "id": 703261,
+    "name": "fusion",
+    "version": "4.1.9",
+    "created_at": "2021-05-24T17:06:50",
+    "updated_at": "2021-05-24T17:07:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagios:fusion:4.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

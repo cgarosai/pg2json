@@ -1,0 +1,10 @@
+{
+    "id": 562530,
+    "name": "contrail_service_orchestration",
+    "version": "3.2.0",
+    "created_at": "2020-07-16T10:35:49",
+    "updated_at": "2020-07-16T10:35:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:contrail_service_orchestration:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

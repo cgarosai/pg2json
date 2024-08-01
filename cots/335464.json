@@ -1,0 +1,10 @@
+{
+    "id": 335464,
+    "name": "pacman",
+    "version": "3.0.3",
+    "created_at": "2019-08-06T13:47:00",
+    "updated_at": "2019-08-06T13:47:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pacman_project:pacman:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

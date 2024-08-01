@@ -1,0 +1,10 @@
+{
+    "id": 100897,
+    "name": "jquery-rails",
+    "version": "3.1.2",
+    "created_at": "2015-07-27T10:21:34",
+    "updated_at": "2015-07-29T12:56:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:jquery-rails:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

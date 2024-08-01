@@ -1,0 +1,10 @@
+{
+    "id": 51192,
+    "name": "network_connections",
+    "version": "15.4.3.3",
+    "created_at": "2012-06-21T17:07:01",
+    "updated_at": "2012-06-21T17:07:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:network_connections:15.4.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

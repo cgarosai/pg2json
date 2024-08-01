@@ -1,0 +1,10 @@
+{
+    "id": 102208,
+    "name": "openldap",
+    "version": "-",
+    "created_at": "2015-12-09T13:56:59",
+    "updated_at": "2015-12-09T14:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openldap:openldap:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

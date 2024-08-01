@@ -1,0 +1,10 @@
+{
+    "id": 11129,
+    "name": "ftpd",
+    "version": "1.5.2",
+    "created_at": "2007-12-19T17:09:52",
+    "updated_at": "2007-12-19T17:09:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netbsd:ftpd:1.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

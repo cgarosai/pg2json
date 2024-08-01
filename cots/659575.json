@@ -1,0 +1,10 @@
+{
+    "id": 659575,
+    "name": "postscript",
+    "version": "0.5.2",
+    "created_at": "2021-02-10T18:16:51",
+    "updated_at": "2021-02-10T18:16:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postscript_project:postscript:0.5.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

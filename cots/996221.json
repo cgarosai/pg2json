@@ -1,0 +1,10 @@
+{
+    "id": 996221,
+    "name": "campaign",
+    "version": "8.2.10",
+    "created_at": "2022-12-19T16:39:12",
+    "updated_at": "2022-12-21T19:43:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:campaign:8.2.10:*:*:*:classic:*:*:*",
+    "to_analyse": false
+}

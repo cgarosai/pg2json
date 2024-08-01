@@ -1,0 +1,10 @@
+{
+    "id": 933599,
+    "name": "wp_staging",
+    "version": "2.2.9",
+    "created_at": "2022-09-16T11:43:19",
+    "updated_at": "2022-09-16T12:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-staging:wp_staging:2.2.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

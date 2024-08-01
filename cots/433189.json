@@ -1,0 +1,10 @@
+{
+    "id": 433189,
+    "name": "aura_system_platform",
+    "version": "-",
+    "created_at": "2019-11-20T18:16:11",
+    "updated_at": "2021-04-14T14:30:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:avaya:aura_system_platform:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

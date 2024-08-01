@@ -1,0 +1,10 @@
+{
+    "id": 393376,
+    "name": "tcpdump",
+    "version": "3.9.8",
+    "created_at": "2019-10-04T11:43:03",
+    "updated_at": "2019-10-04T11:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tcpdump:tcpdump:3.9.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

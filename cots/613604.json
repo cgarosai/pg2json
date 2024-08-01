@@ -1,0 +1,10 @@
+{
+    "id": 613604,
+    "name": "celeron_n6211_firmware",
+    "version": "-",
+    "created_at": "2020-11-19T11:25:47",
+    "updated_at": "2021-05-03T17:58:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:celeron_n6211_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

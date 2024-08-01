@@ -1,0 +1,10 @@
+{
+    "id": 595966,
+    "name": "vpn_secure_connection",
+    "version": "-",
+    "created_at": "2020-09-04T14:07:47",
+    "updated_at": "2020-09-04T14:07:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:vpn_secure_connection:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

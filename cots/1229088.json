@@ -1,0 +1,10 @@
+{
+    "id": 1229088,
+    "name": "delete_post_revisions",
+    "version": "4.6",
+    "created_at": "2023-12-28T18:46:49",
+    "updated_at": "2023-12-28T18:46:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wapnepal:delete_post_revisions:4.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

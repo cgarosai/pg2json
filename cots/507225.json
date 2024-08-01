@@ -1,0 +1,10 @@
+{
+    "id": 507225,
+    "name": "invenia_abus_scan_station",
+    "version": "-",
+    "created_at": "2020-03-03T17:19:11",
+    "updated_at": "2021-08-17T12:14:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ge:invenia_abus_scan_station:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

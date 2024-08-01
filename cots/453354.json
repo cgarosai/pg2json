@@ -1,0 +1,10 @@
+{
+    "id": 453354,
+    "name": "gpsd",
+    "version": "2.32",
+    "created_at": "2019-12-10T16:26:56",
+    "updated_at": "2019-12-10T16:26:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpsd_project:gpsd:2.32:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

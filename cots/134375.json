@@ -1,0 +1,10 @@
+{
+    "id": 134375,
+    "name": "personal_cloud",
+    "version": "-",
+    "created_at": "2018-01-30T17:09:12",
+    "updated_at": "2021-06-25T12:58:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:seagate:personal_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

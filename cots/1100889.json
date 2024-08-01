@@ -1,0 +1,10 @@
+{
+    "id": 1100889,
+    "name": "ink\\!",
+    "version": "2.1.0",
+    "created_at": "2023-06-28T13:46:47",
+    "updated_at": "2023-06-28T15:50:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parity:ink\\!:2.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

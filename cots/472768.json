@@ -1,0 +1,10 @@
+{
+    "id": 472768,
+    "name": "mail",
+    "version": "3.0.8",
+    "created_at": "2020-01-23T16:02:59",
+    "updated_at": "2020-01-23T16:02:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:basercms:mail:3.0.8:*:*:*:*:basercms:*:*",
+    "to_analyse": false
+}

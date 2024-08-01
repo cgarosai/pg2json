@@ -1,0 +1,10 @@
+{
+    "id": 909546,
+    "name": "glftpd",
+    "version": "2.11a",
+    "created_at": "2022-07-12T15:40:46",
+    "updated_at": "2022-11-06T14:03:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glftpd:glftpd:2.11a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

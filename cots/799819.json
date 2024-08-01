@@ -1,0 +1,10 @@
+{
+    "id": 799819,
+    "name": "cosmos_sdk",
+    "version": "0.26.0",
+    "created_at": "2021-10-25T13:20:40",
+    "updated_at": "2021-10-25T13:56:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:interchain:cosmos_sdk:0.26.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

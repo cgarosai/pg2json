@@ -1,0 +1,10 @@
+{
+    "id": 98661,
+    "name": ".network_weathermap",
+    "version": "0.97",
+    "created_at": "2014-06-06T14:05:01",
+    "updated_at": "2014-06-06T14:08:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:network-weathermap:.network_weathermap:0.97:b:*:*:*:*:*:*",
+    "to_analyse": false
+}

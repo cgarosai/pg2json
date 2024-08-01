@@ -1,0 +1,10 @@
+{
+    "id": 128288,
+    "name": "manila",
+    "version": "2.5",
+    "created_at": "2017-04-26T15:34:57",
+    "updated_at": "2021-04-20T11:54:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:manila:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 890049,
+    "name": "biscuit-auth",
+    "version": "2.0.0",
+    "created_at": "2022-06-17T13:07:16",
+    "updated_at": "2022-06-17T14:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:biscuitsec:biscuit-auth:2.0.0:beta3:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 784294,
+    "name": "scrapy",
+    "version": "1.0.0",
+    "created_at": "2021-10-13T12:11:18",
+    "updated_at": "2021-10-13T12:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scrapy:scrapy:1.0.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

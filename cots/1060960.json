@@ -1,0 +1,10 @@
+{
+    "id": 1060960,
+    "name": "tia_portal",
+    "version": "16",
+    "created_at": "2023-04-18T12:06:19",
+    "updated_at": "2023-08-18T15:04:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:tia_portal:16:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

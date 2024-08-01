@@ -1,0 +1,10 @@
+{
+    "id": 478755,
+    "name": "mule_runtime",
+    "version": "3.9.0",
+    "created_at": "2020-01-14T18:45:12",
+    "updated_at": "2020-01-14T18:45:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mulesoft:mule_runtime:3.9.0:*:*:*:*:enterprise:*:*",
+    "to_analyse": false
+}

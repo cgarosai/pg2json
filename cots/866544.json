@@ -1,0 +1,10 @@
+{
+    "id": 866544,
+    "name": "vlan",
+    "version": "1.9",
+    "created_at": "2022-03-24T12:54:41",
+    "updated_at": "2022-03-24T12:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elektrobit:vlan:1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

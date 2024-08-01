@@ -1,0 +1,10 @@
+{
+    "id": 19750,
+    "name": "windows_messenger",
+    "version": "-",
+    "created_at": "2007-08-28T19:32:26",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_messenger:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

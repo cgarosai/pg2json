@@ -1,0 +1,10 @@
+{
+    "id": 1205522,
+    "name": "server_configuration_utility",
+    "version": "16.0.7",
+    "created_at": "2023-11-27T00:25:15",
+    "updated_at": "2023-11-27T00:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:server_configuration_utility:16.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

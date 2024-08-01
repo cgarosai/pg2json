@@ -1,0 +1,10 @@
+{
+    "id": 530321,
+    "name": "wnr2500_firmware",
+    "version": "-",
+    "created_at": "2020-04-28T09:30:31",
+    "updated_at": "2020-04-28T09:30:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:wnr2500_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

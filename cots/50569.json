@@ -1,0 +1,10 @@
+{
+    "id": 50569,
+    "name": "md5crypt",
+    "version": "-",
+    "created_at": "2012-06-14T12:59:43",
+    "updated_at": "2012-06-15T14:34:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:poul-henning_kamp:md5crypt:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

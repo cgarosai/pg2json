@@ -1,0 +1,10 @@
+{
+    "id": 1213668,
+    "name": "octokit",
+    "version": "0.9.2",
+    "created_at": "2023-12-19T16:55:54",
+    "updated_at": "2023-12-19T16:55:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octokit:octokit:0.9.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

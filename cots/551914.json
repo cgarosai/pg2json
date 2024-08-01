@@ -1,0 +1,10 @@
+{
+    "id": 551914,
+    "name": "boringssl",
+    "version": "-",
+    "created_at": "2020-06-19T15:42:18",
+    "updated_at": "2020-06-19T15:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:boringssl:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

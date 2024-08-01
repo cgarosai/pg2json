@@ -1,0 +1,10 @@
+{
+    "id": 705556,
+    "name": "oryx_rtsp_server",
+    "version": "2020-01-07",
+    "created_at": "2021-05-06T13:41:56",
+    "updated_at": "2021-05-10T11:22:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ambarella:oryx_rtsp_server:2020-01-07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

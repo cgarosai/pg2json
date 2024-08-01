@@ -1,0 +1,10 @@
+{
+    "id": 509965,
+    "name": "awam_bluetooth_field_device_firmware",
+    "version": "2011.3",
+    "created_at": "2020-03-06T15:20:03",
+    "updated_at": "2020-03-06T15:20:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:postoaktraffic:awam_bluetooth_field_device_firmware:2011.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

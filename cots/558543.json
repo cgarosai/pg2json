@@ -1,0 +1,10 @@
+{
+    "id": 558543,
+    "name": "elliptic",
+    "version": "0.15.15",
+    "created_at": "2020-06-05T15:23:29",
+    "updated_at": "2020-06-05T15:23:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elliptic_project:elliptic:0.15.15:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

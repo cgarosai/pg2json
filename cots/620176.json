@@ -1,0 +1,10 @@
+{
+    "id": 620176,
+    "name": "wire",
+    "version": "3.19.3731",
+    "created_at": "2020-12-07T16:27:18",
+    "updated_at": "2020-12-07T16:27:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wire:wire:3.19.3731:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

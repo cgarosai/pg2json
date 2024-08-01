@@ -1,0 +1,10 @@
+{
+    "id": 1089148,
+    "name": "wordpress",
+    "version": "6.1.2",
+    "created_at": "2023-05-24T10:57:38",
+    "updated_at": "2023-06-26T10:05:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress:wordpress:6.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

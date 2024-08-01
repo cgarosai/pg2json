@@ -1,0 +1,10 @@
+{
+    "id": 618060,
+    "name": "visualworks_store",
+    "version": "1.1.4",
+    "created_at": "2020-11-05T18:38:04",
+    "updated_at": "2020-11-05T18:38:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:visualworks_store:1.1.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

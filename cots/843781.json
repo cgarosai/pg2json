@@ -1,0 +1,10 @@
+{
+    "id": 843781,
+    "name": "agent_server_parameter",
+    "version": "1.0",
+    "created_at": "2022-02-18T12:50:14",
+    "updated_at": "2022-02-18T12:51:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:agent_server_parameter:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

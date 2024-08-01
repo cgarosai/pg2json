@@ -1,0 +1,10 @@
+{
+    "id": 99302,
+    "name": "emailarchitect_email_server",
+    "version": "10.0.0.3",
+    "created_at": "2014-06-23T12:34:57",
+    "updated_at": "2014-06-24T12:26:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emailarchitect:emailarchitect_email_server:10.0.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

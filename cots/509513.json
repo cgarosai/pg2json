@@ -1,0 +1,10 @@
+{
+    "id": 509513,
+    "name": "keycloak_operator",
+    "version": "8.0.2",
+    "created_at": "2020-03-05T20:22:32",
+    "updated_at": "2020-03-05T20:22:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:keycloak_operator:8.0.2:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

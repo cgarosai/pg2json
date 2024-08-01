@@ -1,0 +1,10 @@
+{
+    "id": 166880,
+    "name": "lizard",
+    "version": "1.5",
+    "created_at": "2018-07-05T11:01:30",
+    "updated_at": "2021-04-01T17:40:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lizard_project:lizard:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

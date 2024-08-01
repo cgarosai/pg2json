@@ -1,0 +1,10 @@
+{
+    "id": 833922,
+    "name": "jira_service_desk",
+    "version": "-",
+    "created_at": "2022-02-01T16:31:47",
+    "updated_at": "2022-02-01T16:35:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_service_desk:-:*:*:*:server:*:*:*",
+    "to_analyse": false
+}

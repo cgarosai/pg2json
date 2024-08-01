@@ -1,0 +1,10 @@
+{
+    "id": 246802,
+    "name": "modicon_m580",
+    "version": "-",
+    "created_at": "2019-05-23T13:10:35",
+    "updated_at": "2021-05-11T15:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:schneider-electric:modicon_m580:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

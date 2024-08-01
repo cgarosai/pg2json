@@ -1,0 +1,10 @@
+{
+    "id": 57500,
+    "name": "access_management_console_diagnostics",
+    "version": "4.5.1.0",
+    "created_at": "2012-05-08T11:51:13",
+    "updated_at": "2012-05-08T11:51:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:access_management_console_diagnostics:4.5.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1156375,
+    "name": "privileged_remote_access",
+    "version": "23.2.2",
+    "created_at": "2023-09-12T15:30:38",
+    "updated_at": "2023-09-12T15:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beyondtrust:privileged_remote_access:23.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 121459,
+    "name": "staros",
+    "version": "15.0_base",
+    "created_at": "2017-07-07T16:22:32",
+    "updated_at": "2017-07-07T16:22:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:staros:15.0_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

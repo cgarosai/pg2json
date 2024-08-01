@@ -1,0 +1,10 @@
+{
+    "id": 101537,
+    "name": "edge",
+    "version": "-",
+    "created_at": "2015-09-01T15:43:50",
+    "updated_at": "2015-09-01T16:33:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

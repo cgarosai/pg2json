@@ -1,0 +1,10 @@
+{
+    "id": 91976,
+    "name": "wonderware_information_server",
+    "version": "5.5",
+    "created_at": "2014-08-28T13:01:59",
+    "updated_at": "2014-08-29T17:51:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invensys:wonderware_information_server:5.5:-:-:-:portal:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 210045,
+    "name": "sssd",
+    "version": "-",
+    "created_at": "2019-03-19T17:13:57",
+    "updated_at": "2019-03-19T17:13:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:sssd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

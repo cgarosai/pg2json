@@ -1,0 +1,10 @@
+{
+    "id": 583794,
+    "name": "arr-flatten-unflatten",
+    "version": "1.0.0",
+    "created_at": "2020-09-02T09:51:48",
+    "updated_at": "2020-09-02T09:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arr-flatten-unflatten_project:arr-flatten-unflatten:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

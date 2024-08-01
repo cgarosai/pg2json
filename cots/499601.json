@@ -1,0 +1,10 @@
+{
+    "id": 499601,
+    "name": "abap_platform",
+    "version": "7.54",
+    "created_at": "2020-02-21T14:37:21",
+    "updated_at": "2020-02-21T14:37:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:abap_platform:7.54:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

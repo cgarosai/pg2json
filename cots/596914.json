@@ -1,0 +1,10 @@
+{
+    "id": 596914,
+    "name": "certified_asterisk",
+    "version": "1.2.15",
+    "created_at": "2020-09-09T10:47:08",
+    "updated_at": "2020-09-09T10:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digium:certified_asterisk:1.2.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

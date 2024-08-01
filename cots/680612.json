@@ -1,0 +1,10 @@
+{
+    "id": 680612,
+    "name": "configuration_automation_grid_node",
+    "version": "12.5.8.1016",
+    "created_at": "2021-04-07T13:36:00",
+    "updated_at": "2021-04-08T11:06:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:configuration_automation_grid_node:12.5.8.1016:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

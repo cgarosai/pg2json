@@ -1,0 +1,10 @@
+{
+    "id": 1207593,
+    "name": "nautobot",
+    "version": "1.5.23",
+    "created_at": "2023-11-29T12:01:12",
+    "updated_at": "2023-11-29T12:01:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:networktocode:nautobot:1.5.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

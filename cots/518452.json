@@ -1,0 +1,10 @@
+{
+    "id": 518452,
+    "name": "puppetdb",
+    "version": "5.1.2",
+    "created_at": "2020-03-18T16:45:42",
+    "updated_at": "2020-03-18T16:45:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:puppetdb:5.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

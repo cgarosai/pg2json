@@ -1,0 +1,10 @@
+{
+    "id": 487081,
+    "name": "postfix-mta-sts-resolver",
+    "version": "0.2.4",
+    "created_at": "2020-01-31T18:12:56",
+    "updated_at": "2020-01-31T18:12:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postfix-mta-sts-resolver_project:postfix-mta-sts-resolver:0.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

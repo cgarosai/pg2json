@@ -1,0 +1,10 @@
+{
+    "id": 1234263,
+    "name": "wpgraphql",
+    "version": "0.6.0",
+    "created_at": "2024-01-22T15:50:41",
+    "updated_at": "2024-01-22T15:50:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpengine:wpgraphql:0.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

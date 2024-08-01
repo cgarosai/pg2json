@@ -1,0 +1,10 @@
+{
+    "id": 1029746,
+    "name": "alienware_m15_r7_firmware",
+    "version": "1.10.0",
+    "created_at": "2023-02-08T13:11:56",
+    "updated_at": "2023-02-08T14:42:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:alienware_m15_r7_firmware:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

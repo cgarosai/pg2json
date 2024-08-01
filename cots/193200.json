@@ -1,0 +1,10 @@
+{
+    "id": 193200,
+    "name": "cisco_policy_suite_diameter_routing_agent",
+    "version": "-",
+    "created_at": "2019-01-17T11:52:54",
+    "updated_at": "2021-05-25T11:54:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:cisco_policy_suite_diameter_routing_agent:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

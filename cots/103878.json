@@ -1,0 +1,10 @@
+{
+    "id": 103878,
+    "name": "big-ip_webaccelerator",
+    "version": "11.0.0",
+    "created_at": "2016-01-25T14:37:01",
+    "updated_at": "2016-01-25T14:37:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_webaccelerator:11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

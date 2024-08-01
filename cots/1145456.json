@@ -1,0 +1,10 @@
+{
+    "id": 1145456,
+    "name": "inspiron_5401_aio_firmware",
+    "version": "1.21.0",
+    "created_at": "2023-08-22T15:13:12",
+    "updated_at": "2023-08-25T05:27:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_5401_aio_firmware:1.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

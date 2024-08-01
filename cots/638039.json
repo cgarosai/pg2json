@@ -1,0 +1,10 @@
+{
+    "id": 638039,
+    "name": "agatti_firmware",
+    "version": "-",
+    "created_at": "2020-12-16T17:10:23",
+    "updated_at": "2020-12-16T17:10:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:agatti_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

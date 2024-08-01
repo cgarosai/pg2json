@@ -1,0 +1,10 @@
+{
+    "id": 620171,
+    "name": "wire",
+    "version": "3.17.3666",
+    "created_at": "2020-12-07T16:27:17",
+    "updated_at": "2020-12-07T16:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wire:wire:3.17.3666:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

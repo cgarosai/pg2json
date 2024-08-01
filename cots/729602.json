@@ -1,0 +1,10 @@
+{
+    "id": 729602,
+    "name": "solid_edge_se2021_firmware",
+    "version": "se2021mp15",
+    "created_at": "2021-06-16T13:11:39",
+    "updated_at": "2021-06-29T11:39:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:solid_edge_se2021_firmware:se2021mp15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

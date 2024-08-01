@@ -1,0 +1,10 @@
+{
+    "id": 436780,
+    "name": "bitcoin_wallet",
+    "version": "3.9.7",
+    "created_at": "2019-11-12T19:38:05",
+    "updated_at": "2019-11-12T19:38:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitpie:bitcoin_wallet:3.9.7:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 761586,
+    "name": "joplin",
+    "version": "0.10.75",
+    "created_at": "2021-08-26T15:36:01",
+    "updated_at": "2021-08-26T15:50:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joplin_project:joplin:0.10.75:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

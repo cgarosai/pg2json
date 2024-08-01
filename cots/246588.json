@@ -1,0 +1,10 @@
+{
+    "id": 246588,
+    "name": "node-tar",
+    "version": "3.1.9",
+    "created_at": "2019-05-22T17:04:03",
+    "updated_at": "2019-05-22T17:04:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-tar_project:node-tar:3.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

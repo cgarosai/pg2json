@@ -1,0 +1,10 @@
+{
+    "id": 838176,
+    "name": "h2",
+    "version": "2.0.204",
+    "created_at": "2022-01-18T19:39:37",
+    "updated_at": "2022-02-03T17:43:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:h2database:h2:2.0.204:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

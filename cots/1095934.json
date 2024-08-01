@@ -1,0 +1,10 @@
+{
+    "id": 1095934,
+    "name": "go_simple_tunnel",
+    "version": "2.11.5",
+    "created_at": "2023-06-05T11:59:36",
+    "updated_at": "2023-06-05T15:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:go_simple_tunnel_project:go_simple_tunnel:2.11.5:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

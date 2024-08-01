@@ -1,0 +1,10 @@
+{
+    "id": 654771,
+    "name": "canary_mail",
+    "version": "3.18",
+    "created_at": "2021-02-23T12:35:36",
+    "updated_at": "2021-02-23T12:35:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canarymail:canary_mail:3.18:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

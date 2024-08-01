@@ -1,0 +1,10 @@
+{
+    "id": 272407,
+    "name": "backports",
+    "version": "sle-15",
+    "created_at": "2019-06-28T17:24:34",
+    "updated_at": "2021-06-25T13:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:opensuse:backports:sle-15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

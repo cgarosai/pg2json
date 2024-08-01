@@ -1,0 +1,10 @@
+{
+    "id": 227649,
+    "name": "team_foundation_server",
+    "version": "2015",
+    "created_at": "2019-04-11T15:20:17",
+    "updated_at": "2019-04-11T15:20:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:team_foundation_server:2015:4.2:*:*:*:*:*:*",
+    "to_analyse": false
+}

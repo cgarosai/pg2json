@@ -1,0 +1,10 @@
+{
+    "id": 640223,
+    "name": "gpu_driver",
+    "version": "460.32.03",
+    "created_at": "2021-01-21T12:42:41",
+    "updated_at": "2021-01-21T12:42:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:460.32.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

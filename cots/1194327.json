@@ -1,0 +1,10 @@
+{
+    "id": 1194327,
+    "name": "expresscluster_x_singleserversafe",
+    "version": "1.0",
+    "created_at": "2023-11-24T15:49:10",
+    "updated_at": "2023-11-24T15:49:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nec:expresscluster_x_singleserversafe:1.0:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

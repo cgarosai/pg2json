@@ -1,0 +1,10 @@
+{
+    "id": 716467,
+    "name": "stm32l496",
+    "version": "-",
+    "created_at": "2021-05-27T16:29:31",
+    "updated_at": "2021-06-02T14:33:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:st:stm32l496:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

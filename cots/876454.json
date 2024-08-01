@@ -1,0 +1,10 @@
+{
+    "id": 876454,
+    "name": "scada_server",
+    "version": "3.77",
+    "created_at": "2022-04-19T08:55:32",
+    "updated_at": "2022-10-06T11:04:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fernhillsoftware:scada_server:3.77:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

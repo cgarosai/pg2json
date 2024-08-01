@@ -1,0 +1,10 @@
+{
+    "id": 41284,
+    "name": "glib",
+    "version": "2.15.2",
+    "created_at": "2012-01-16T17:46:10",
+    "updated_at": "2012-01-16T19:28:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:glib:2.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

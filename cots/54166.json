@@ -1,0 +1,10 @@
+{
+    "id": 54166,
+    "name": "veritas_commandcentral",
+    "version": "5.1.294.0",
+    "created_at": "2012-07-10T01:22:28",
+    "updated_at": "2012-07-10T01:22:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_commandcentral:5.1.294.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

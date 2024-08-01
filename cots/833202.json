@@ -1,0 +1,10 @@
+{
+    "id": 833202,
+    "name": "enterprise_linux_server_for_power_little_endian",
+    "version": "7.6",
+    "created_at": "2022-01-31T14:05:14",
+    "updated_at": "2022-02-11T13:56:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_for_power_little_endian:7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

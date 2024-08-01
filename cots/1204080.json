@@ -1,0 +1,10 @@
+{
+    "id": 1204080,
+    "name": "manageengine_adselfservice_plus",
+    "version": "6.3",
+    "created_at": "2023-12-07T16:54:40",
+    "updated_at": "2023-12-07T16:54:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_adselfservice_plus:6.3:6301:*:*:*:*:*:*",
+    "to_analyse": false
+}

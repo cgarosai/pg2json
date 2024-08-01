@@ -1,0 +1,10 @@
+{
+    "id": 76900,
+    "name": "tripwire_enterprise",
+    "version": "8.2.0.5",
+    "created_at": "2013-03-19T14:28:32",
+    "updated_at": "2013-03-19T14:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tripwire:tripwire_enterprise:8.2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

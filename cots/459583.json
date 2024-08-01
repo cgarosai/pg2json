@@ -1,0 +1,10 @@
+{
+    "id": 459583,
+    "name": "nftp",
+    "version": "1.10",
+    "created_at": "2019-12-09T15:52:40",
+    "updated_at": "2019-12-09T15:52:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nftp_project:nftp:1.10:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

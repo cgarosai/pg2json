@@ -1,0 +1,10 @@
+{
+    "id": 602162,
+    "name": "ios_xrv_9000_router",
+    "version": "-",
+    "created_at": "2020-10-13T11:04:12",
+    "updated_at": "2020-10-13T11:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ios_xrv_9000_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

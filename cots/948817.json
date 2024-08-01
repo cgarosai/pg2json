@@ -1,0 +1,10 @@
+{
+    "id": 948817,
+    "name": "nats_streaming_server",
+    "version": "0.24.2",
+    "created_at": "2022-09-28T15:11:00",
+    "updated_at": "2022-09-28T15:11:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nats:nats_streaming_server:0.24.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

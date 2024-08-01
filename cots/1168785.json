@@ -1,0 +1,10 @@
+{
+    "id": 1168785,
+    "name": "bridge_core",
+    "version": "-",
+    "created_at": "2023-09-28T09:15:07",
+    "updated_at": "2023-09-28T09:15:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qodeinteractive:bridge_core:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

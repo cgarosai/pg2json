@@ -1,0 +1,10 @@
+{
+    "id": 762707,
+    "name": "remkon_device_manager",
+    "version": "4.0.0.0",
+    "created_at": "2021-08-31T09:30:40",
+    "updated_at": "2022-06-22T11:55:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nascent:remkon_device_manager:4.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

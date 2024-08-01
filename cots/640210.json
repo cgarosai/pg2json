@@ -1,0 +1,10 @@
+{
+    "id": 640210,
+    "name": "miniserver_gen_1_firmware",
+    "version": "-",
+    "created_at": "2021-01-21T12:36:45",
+    "updated_at": "2021-06-21T17:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:loxone:miniserver_gen_1_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

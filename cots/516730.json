@@ -1,0 +1,10 @@
+{
+    "id": 516730,
+    "name": "crowbar",
+    "version": "6",
+    "created_at": "2020-03-16T12:14:07",
+    "updated_at": "2020-03-16T12:14:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crowbar_project:crowbar:6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

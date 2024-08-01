@@ -1,0 +1,10 @@
+{
+    "id": 105847,
+    "name": "meta_tags_quick",
+    "version": "7.x-2.7",
+    "created_at": "2014-12-11T14:12:13",
+    "updated_at": "2015-01-20T13:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:meta_tags_quick_project:meta_tags_quick:7.x-2.7:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

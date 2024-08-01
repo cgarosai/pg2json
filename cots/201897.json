@@ -1,0 +1,10 @@
+{
+    "id": 201897,
+    "name": "communication_server_1000_telephony_manager",
+    "version": "4.0.0",
+    "created_at": "2019-02-27T16:57:39",
+    "updated_at": "2021-03-24T16:47:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:communication_server_1000_telephony_manager:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

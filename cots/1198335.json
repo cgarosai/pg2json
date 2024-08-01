@@ -1,0 +1,10 @@
+{
+    "id": 1198335,
+    "name": "macvim",
+    "version": "82",
+    "created_at": "2023-11-13T14:04:37",
+    "updated_at": "2023-11-13T14:04:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:macvim:macvim:82:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

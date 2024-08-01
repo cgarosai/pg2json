@@ -1,0 +1,10 @@
+{
+    "id": 527864,
+    "name": "volume_service",
+    "version": "1.0.0",
+    "created_at": "2020-04-01T18:19:54",
+    "updated_at": "2020-04-01T18:19:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samba:volume_service:1.0.0:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

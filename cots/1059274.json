@@ -1,0 +1,10 @@
+{
+    "id": 1059274,
+    "name": "pfsense_plus",
+    "version": "23.01",
+    "created_at": "2023-03-24T14:08:09",
+    "updated_at": "2023-07-14T09:00:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netgate:pfsense_plus:23.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

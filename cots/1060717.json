@@ -1,0 +1,10 @@
+{
+    "id": 1060717,
+    "name": "azure_key_vault",
+    "version": "187.va_cd5fecd198a",
+    "created_at": "2023-04-17T17:37:38",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:azure_key_vault:187.va_cd5fecd198a:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

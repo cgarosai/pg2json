@@ -1,0 +1,10 @@
+{
+    "id": 480433,
+    "name": "gvc3202_firmware",
+    "version": "1.0.3.51",
+    "created_at": "2020-02-04T16:25:44",
+    "updated_at": "2020-02-04T16:25:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:grandstream:gvc3202_firmware:1.0.3.51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

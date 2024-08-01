@@ -1,0 +1,10 @@
+{
+    "id": 44504,
+    "name": "serial_gateway_s4gw",
+    "version": "-",
+    "created_at": "2012-04-02T16:27:09",
+    "updated_at": "2012-04-02T16:27:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:polycom:serial_gateway_s4gw:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

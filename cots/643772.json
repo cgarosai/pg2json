@@ -1,0 +1,10 @@
+{
+    "id": 643772,
+    "name": "simatic_s7-400_cpu_416_firmware",
+    "version": "-",
+    "created_at": "2021-01-29T13:31:09",
+    "updated_at": "2021-01-29T13:31:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-400_cpu_416_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

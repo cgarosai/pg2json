@@ -1,0 +1,10 @@
+{
+    "id": 583162,
+    "name": "comment",
+    "version": "4.0",
+    "created_at": "2020-09-01T11:06:58",
+    "updated_at": "2020-09-01T11:06:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:comment_project:comment:4.0:*:*:*:*:munkireport:*:*",
+    "to_analyse": false
+}

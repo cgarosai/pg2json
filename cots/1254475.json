@@ -1,0 +1,10 @@
+{
+    "id": 1254475,
+    "name": "csv_importer",
+    "version": "0.3.7",
+    "created_at": "2024-02-16T18:28:01",
+    "updated_at": "2024-02-16T18:28:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deniskobozev:csv_importer:0.3.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491901,
+    "name": "wemo_switch",
+    "version": "-",
+    "created_at": "2020-02-24T16:02:17",
+    "updated_at": "2020-02-24T16:02:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:belkin:wemo_switch:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

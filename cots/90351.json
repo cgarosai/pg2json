@@ -1,0 +1,10 @@
+{
+    "id": 90351,
+    "name": "polylang",
+    "version": "1.5.2",
+    "created_at": "2014-07-10T22:41:35",
+    "updated_at": "2014-07-10T23:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:polylang_plugin_project:polylang:1.5.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

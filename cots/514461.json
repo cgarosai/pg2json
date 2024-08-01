@@ -1,0 +1,10 @@
+{
+    "id": 514461,
+    "name": "desktop",
+    "version": "2.1.0.7",
+    "created_at": "2020-03-31T15:06:06",
+    "updated_at": "2020-03-31T15:06:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:desktop:2.1.0.7:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

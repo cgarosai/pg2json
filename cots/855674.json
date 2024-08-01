@@ -1,0 +1,10 @@
+{
+    "id": 855674,
+    "name": "enterprise_linux_advanced_virtualization_eus",
+    "version": "8.4",
+    "created_at": "2022-02-28T15:51:46",
+    "updated_at": "2022-08-26T16:39:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_advanced_virtualization_eus:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

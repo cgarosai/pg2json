@@ -1,0 +1,10 @@
+{
+    "id": 989395,
+    "name": "insightvm",
+    "version": "6.6.164",
+    "created_at": "2022-12-09T16:22:31",
+    "updated_at": "2022-12-09T16:24:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rapid7:insightvm:6.6.164:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

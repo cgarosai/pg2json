@@ -1,0 +1,10 @@
+{
+    "id": 1202690,
+    "name": "libsyn_publisher_hub",
+    "version": "1.2.2",
+    "created_at": "2023-12-05T15:30:46",
+    "updated_at": "2023-12-05T15:30:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libsyn:libsyn_publisher_hub:1.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

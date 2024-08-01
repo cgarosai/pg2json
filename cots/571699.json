@@ -1,0 +1,10 @@
+{
+    "id": 571699,
+    "name": "graphics_driver",
+    "version": "21.20.16.4860",
+    "created_at": "2020-08-07T18:48:51",
+    "updated_at": "2020-08-07T18:48:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_driver:21.20.16.4860:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

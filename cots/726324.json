@@ -1,0 +1,10 @@
+{
+    "id": 726324,
+    "name": "common_services_platform_collector",
+    "version": "-",
+    "created_at": "2021-06-10T12:24:39",
+    "updated_at": "2021-06-10T12:46:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:common_services_platform_collector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

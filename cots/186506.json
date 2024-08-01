@@ -1,0 +1,10 @@
+{
+    "id": 186506,
+    "name": "pulse_connect_secure",
+    "version": "8.3rx",
+    "created_at": "2018-10-26T16:56:13",
+    "updated_at": "2024-02-27T20:12:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.3rx:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

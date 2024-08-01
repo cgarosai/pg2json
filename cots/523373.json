@@ -1,0 +1,10 @@
+{
+    "id": 523373,
+    "name": "idx_broker",
+    "version": "2.4.5",
+    "created_at": "2020-04-10T11:55:00",
+    "updated_at": "2020-04-10T11:55:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:idxbroker:idx_broker:2.4.5:*:*:*:platinum:wordpress:*:*",
+    "to_analyse": false
+}

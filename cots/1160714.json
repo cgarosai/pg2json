@@ -1,0 +1,10 @@
+{
+    "id": 1160714,
+    "name": "ws_ftp_server",
+    "version": "8.8.0",
+    "created_at": "2023-09-29T15:02:20",
+    "updated_at": "2023-09-29T15:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:ws_ftp_server:8.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

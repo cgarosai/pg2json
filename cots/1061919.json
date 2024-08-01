@@ -1,0 +1,10 @@
+{
+    "id": 1061919,
+    "name": "dg3450_firmware",
+    "version": "ar01.02.056.18_041520_711.ncs.10",
+    "created_at": "2023-04-20T12:20:08",
+    "updated_at": "2023-04-21T12:02:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:commscope:dg3450_firmware:ar01.02.056.18_041520_711.ncs.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 351321,
+    "name": "pointofsales",
+    "version": "1.0",
+    "created_at": "2019-09-09T10:13:06",
+    "updated_at": "2019-09-09T10:13:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pointofsales_project:pointofsales:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

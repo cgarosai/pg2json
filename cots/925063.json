@@ -1,0 +1,10 @@
+{
+    "id": 925063,
+    "name": "sterling_file_gateway",
+    "version": "6.1.0.4",
+    "created_at": "2022-08-17T09:46:11",
+    "updated_at": "2022-08-17T12:38:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sterling_file_gateway:6.1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 15280,
+    "name": "outlook_express",
+    "version": "5.0.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:outlook_express:5.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

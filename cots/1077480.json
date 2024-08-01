@@ -1,0 +1,10 @@
+{
+    "id": 1077480,
+    "name": "libxml2",
+    "version": "2.11.0",
+    "created_at": "2023-05-01T17:32:39",
+    "updated_at": "2023-06-15T14:33:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xmlsoft:libxml2:2.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

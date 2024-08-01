@@ -1,0 +1,10 @@
+{
+    "id": 19376,
+    "name": "windows_95",
+    "version": "-",
+    "created_at": "2007-08-28T16:18:06",
+    "updated_at": "2008-04-07T12:28:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_95:-:gold:*:*:*:*:*:*",
+    "to_analyse": false
+}

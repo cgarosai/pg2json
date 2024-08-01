@@ -1,0 +1,10 @@
+{
+    "id": 1000316,
+    "name": "secpath_f5030-d",
+    "version": "-",
+    "created_at": "2023-01-04T16:27:07",
+    "updated_at": "2023-01-04T19:06:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:h3c:secpath_f5030-d:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

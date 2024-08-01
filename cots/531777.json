@@ -1,0 +1,10 @@
+{
+    "id": 531777,
+    "name": "munge",
+    "version": "0.5.1",
+    "created_at": "2020-04-29T11:02:50",
+    "updated_at": "2020-04-29T11:02:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:munge:0.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

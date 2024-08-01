@@ -1,0 +1,10 @@
+{
+    "id": 10504,
+    "name": "client_security",
+    "version": "3.0.2.2020",
+    "created_at": "2007-10-08T14:40:24",
+    "updated_at": "2007-10-08T14:40:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:client_security:3.0.2.2020:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

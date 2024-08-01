@@ -1,0 +1,10 @@
+{
+    "id": 120537,
+    "name": "mobigate",
+    "version": "2.2.1.2",
+    "created_at": "2017-06-16T01:24:16",
+    "updated_at": "2021-05-13T14:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unisys:mobigate:2.2.1.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

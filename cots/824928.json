@@ -1,0 +1,10 @@
+{
+    "id": 824928,
+    "name": "qts",
+    "version": "5.0.0",
+    "created_at": "2022-01-07T17:00:49",
+    "updated_at": "2022-01-08T00:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qnap:qts:5.0.0:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

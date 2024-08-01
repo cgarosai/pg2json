@@ -1,0 +1,10 @@
+{
+    "id": 634308,
+    "name": "ordered-float",
+    "version": "0.5.0",
+    "created_at": "2021-01-06T13:21:03",
+    "updated_at": "2021-01-06T13:21:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ordered-float_project:ordered-float:0.5.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

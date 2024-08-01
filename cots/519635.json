@@ -1,0 +1,10 @@
+{
+    "id": 519635,
+    "name": "core_i5-8700b",
+    "version": "-",
+    "created_at": "2020-03-23T15:20:00",
+    "updated_at": "2020-03-23T15:20:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5-8700b:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

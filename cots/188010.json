@@ -1,0 +1,10 @@
+{
+    "id": 188010,
+    "name": "ncurses",
+    "version": "4.1",
+    "created_at": "2018-10-30T12:32:04",
+    "updated_at": "2018-10-30T12:32:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:ncurses:4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

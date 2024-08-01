@@ -1,0 +1,10 @@
+{
+    "id": 575256,
+    "name": "mimevalidator",
+    "version": "1.0.0",
+    "created_at": "2020-07-24T18:36:57",
+    "updated_at": "2020-07-24T18:36:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:silverstripe:mimevalidator:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

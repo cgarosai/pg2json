@@ -1,0 +1,10 @@
+{
+    "id": 146899,
+    "name": "ring_firmware",
+    "version": "-",
+    "created_at": "2018-02-27T17:40:47",
+    "updated_at": "2021-06-28T12:50:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ring:ring_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

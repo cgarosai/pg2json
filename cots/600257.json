@@ -1,0 +1,10 @@
+{
+    "id": 600257,
+    "name": "shrine",
+    "version": "2.15.0",
+    "created_at": "2020-10-07T17:28:35",
+    "updated_at": "2020-10-07T17:28:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shrinerb:shrine:2.15.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

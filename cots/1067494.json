@@ -1,0 +1,10 @@
+{
+    "id": 1067494,
+    "name": "stealthwatch_management_console_2200_firmware",
+    "version": "-",
+    "created_at": "2023-04-11T14:48:19",
+    "updated_at": "2023-08-21T11:41:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:stealthwatch_management_console_2200_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

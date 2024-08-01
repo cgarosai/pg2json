@@ -1,0 +1,10 @@
+{
+    "id": 1053870,
+    "name": "vector_packet_processor",
+    "version": "20.09",
+    "created_at": "2023-04-04T14:21:09",
+    "updated_at": "2023-04-07T18:28:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lfprojects:vector_packet_processor:20.09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

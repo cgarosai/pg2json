@@ -1,0 +1,10 @@
+{
+    "id": 73013,
+    "name": "perl-compatible_regular_expression_library",
+    "version": "7.3",
+    "created_at": "2013-08-19T14:54:44",
+    "updated_at": "2013-08-19T16:55:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pcre:perl-compatible_regular_expression_library:7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

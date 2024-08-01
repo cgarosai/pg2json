@@ -1,0 +1,10 @@
+{
+    "id": 84750,
+    "name": "messagesight_jms_client",
+    "version": "1.1.0.0",
+    "created_at": "2014-04-16T12:11:18",
+    "updated_at": "2014-04-18T11:40:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:messagesight_jms_client:1.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

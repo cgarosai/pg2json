@@ -1,0 +1,10 @@
+{
+    "id": 835777,
+    "name": "bizhub_227_firmware",
+    "version": "gca-y0",
+    "created_at": "2022-01-11T16:01:32",
+    "updated_at": "2022-01-11T18:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:konicaminolta:bizhub_227_firmware:gca-y0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

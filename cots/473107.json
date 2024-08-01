@@ -1,0 +1,10 @@
+{
+    "id": 473107,
+    "name": "graphics_driver",
+    "version": "15.40.0.64.4279",
+    "created_at": "2020-01-26T02:23:43",
+    "updated_at": "2020-01-26T02:23:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_driver:15.40.0.64.4279:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

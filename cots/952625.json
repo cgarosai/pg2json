@@ -1,0 +1,10 @@
+{
+    "id": 952625,
+    "name": "tasks",
+    "version": "6.6.5",
+    "created_at": "2022-10-26T16:07:20",
+    "updated_at": "2022-10-26T16:54:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tasks:tasks:6.6.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

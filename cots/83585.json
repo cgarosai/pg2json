@@ -1,0 +1,10 @@
+{
+    "id": 83585,
+    "name": "tivoli_storage_flashcopy_manager",
+    "version": "-",
+    "created_at": "2014-03-26T16:05:16",
+    "updated_at": "2014-03-26T17:50:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_flashcopy_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

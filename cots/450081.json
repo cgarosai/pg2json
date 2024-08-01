@@ -1,0 +1,10 @@
+{
+    "id": 450081,
+    "name": "typed_ast",
+    "version": "0.6.3",
+    "created_at": "2019-12-09T16:54:26",
+    "updated_at": "2019-12-09T16:54:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:typed_ast:0.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

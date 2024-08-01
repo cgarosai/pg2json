@@ -1,0 +1,10 @@
+{
+    "id": 1176894,
+    "name": "ansible_developer",
+    "version": "1.1",
+    "created_at": "2023-10-10T15:42:38",
+    "updated_at": "2023-10-10T15:42:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible_developer:1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

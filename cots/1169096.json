@@ -1,0 +1,10 @@
+{
+    "id": 1169096,
+    "name": "realsense_450_fa_firmware",
+    "version": "0.25.0",
+    "created_at": "2023-09-28T11:21:02",
+    "updated_at": "2023-09-28T11:21:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:realsense_450_fa_firmware:0.25.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

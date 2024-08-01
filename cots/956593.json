@@ -1,0 +1,10 @@
+{
+    "id": 956593,
+    "name": "reversewall-mds",
+    "version": "3.8_a007",
+    "created_at": "2022-10-18T13:52:52",
+    "updated_at": "2022-11-08T18:29:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:megazone:reversewall-mds:3.8_a007:*:*:*:*:aws:*:*",
+    "to_analyse": false
+}

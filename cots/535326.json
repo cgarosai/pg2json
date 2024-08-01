@@ -1,0 +1,10 @@
+{
+    "id": 535326,
+    "name": "texlive-filesystem",
+    "version": "-",
+    "created_at": "2020-04-14T09:56:52",
+    "updated_at": "2020-04-14T09:56:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:texlive-filesystem:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

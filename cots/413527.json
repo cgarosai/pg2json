@@ -1,0 +1,10 @@
+{
+    "id": 413527,
+    "name": "abusefilter",
+    "version": "1.25",
+    "created_at": "2019-10-31T11:22:54",
+    "updated_at": "2019-10-31T11:22:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediawiki:abusefilter:1.25:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

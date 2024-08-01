@@ -1,0 +1,10 @@
+{
+    "id": 649262,
+    "name": "simatic_cp_1616_firmware",
+    "version": "2.7",
+    "created_at": "2021-01-14T18:46:10",
+    "updated_at": "2021-01-14T18:46:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_cp_1616_firmware:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

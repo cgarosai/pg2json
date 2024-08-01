@@ -1,0 +1,10 @@
+{
+    "id": 531437,
+    "name": "fastgate_firmware",
+    "version": "1.0.1b",
+    "created_at": "2020-04-28T16:43:17",
+    "updated_at": "2020-04-28T16:43:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fastweb:fastgate_firmware:1.0.1b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

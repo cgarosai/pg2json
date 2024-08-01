@@ -1,0 +1,10 @@
+{
+    "id": 995461,
+    "name": "change_password_for_frontend_users",
+    "version": "1.2.5",
+    "created_at": "2022-12-16T18:06:23",
+    "updated_at": "2022-12-19T13:02:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:change_password_for_frontend_users_project:change_password_for_frontend_users:1.2.5:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

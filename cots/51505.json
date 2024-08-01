@@ -1,0 +1,10 @@
+{
+    "id": 51505,
+    "name": "symplicity_es_storage_manager",
+    "version": "10.70.x3.25",
+    "created_at": "2012-06-21T17:08:11",
+    "updated_at": "2012-06-21T17:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lsi:symplicity_es_storage_manager:10.70.x3.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1219924,
+    "name": "base64captcha",
+    "version": "-",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mojotv:base64captcha:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

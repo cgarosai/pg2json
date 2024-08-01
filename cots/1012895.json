@@ -1,0 +1,10 @@
+{
+    "id": 1012895,
+    "name": "nodeserver",
+    "version": "-",
+    "created_at": "2023-01-25T13:28:01",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodeserver_project:nodeserver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

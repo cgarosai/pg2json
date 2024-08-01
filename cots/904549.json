@@ -1,0 +1,10 @@
+{
+    "id": 904549,
+    "name": "cloudstack",
+    "version": "4.17.0.0",
+    "created_at": "2022-07-22T14:13:13",
+    "updated_at": "2022-07-26T13:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cloudstack:4.17.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

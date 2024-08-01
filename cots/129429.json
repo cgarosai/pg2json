@@ -1,0 +1,10 @@
+{
+    "id": 129429,
+    "name": "simatic_dk-16xx_pn_io",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-05-19T15:54:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_dk-16xx_pn_io:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

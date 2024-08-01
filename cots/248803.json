@@ -1,0 +1,10 @@
+{
+    "id": 248803,
+    "name": "maven",
+    "version": "2.0.2",
+    "created_at": "2019-05-30T12:52:39",
+    "updated_at": "2019-05-30T12:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:maven:2.0.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

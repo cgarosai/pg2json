@@ -1,0 +1,10 @@
+{
+    "id": 435220,
+    "name": "rakuten_card",
+    "version": "6.6.0",
+    "created_at": "2019-11-12T14:02:21",
+    "updated_at": "2019-11-12T14:02:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rakutencard:rakuten_card:6.6.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 585448,
+    "name": "rste_software_raid",
+    "version": "-",
+    "created_at": "2020-08-14T08:26:50",
+    "updated_at": "2021-06-02T12:59:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:rste_software_raid:-:*:*:*:*:*:intel_server_board_m10jnp2sb:*",
+    "to_analyse": false
+}

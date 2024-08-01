@@ -1,0 +1,10 @@
+{
+    "id": 166142,
+    "name": "cloud_foundry_uaa-release",
+    "version": "26",
+    "created_at": "2018-06-26T16:23:09",
+    "updated_at": "2018-06-26T16:23:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa-release:26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

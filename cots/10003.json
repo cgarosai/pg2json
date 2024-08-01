@@ -1,0 +1,10 @@
+{
+    "id": 10003,
+    "name": "picasa",
+    "version": "-",
+    "created_at": "2007-09-12T17:30:34",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:picasa:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

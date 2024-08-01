@@ -1,0 +1,10 @@
+{
+    "id": 1075873,
+    "name": "starlette",
+    "version": "0.26.0",
+    "created_at": "2023-04-27T14:26:57",
+    "updated_at": "2023-05-01T11:23:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:encode:starlette:0.26.0:-:*:*:*:python:*:*",
+    "to_analyse": false
+}

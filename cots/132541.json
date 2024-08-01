@@ -1,0 +1,10 @@
+{
+    "id": 132541,
+    "name": "maccms",
+    "version": "8.0",
+    "created_at": "2018-01-03T13:18:13",
+    "updated_at": "2021-04-08T11:41:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:maccms:maccms:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

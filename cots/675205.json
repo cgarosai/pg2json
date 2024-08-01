@@ -1,0 +1,10 @@
+{
+    "id": 675205,
+    "name": "besu",
+    "version": "1.4.5",
+    "created_at": "2021-03-10T11:33:17",
+    "updated_at": "2021-03-18T15:25:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:besu:1.4.5:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

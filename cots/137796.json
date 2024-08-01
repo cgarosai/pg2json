@@ -1,0 +1,10 @@
+{
+    "id": 137796,
+    "name": "shopware",
+    "version": "5.1.0",
+    "created_at": "2017-11-07T17:21:09",
+    "updated_at": "2017-11-07T17:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shopware:shopware:5.1.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

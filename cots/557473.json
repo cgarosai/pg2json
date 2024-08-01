@@ -1,0 +1,10 @@
+{
+    "id": 557473,
+    "name": "openmanage_network_manager",
+    "version": "6.5.3",
+    "created_at": "2020-06-02T14:09:44",
+    "updated_at": "2020-06-02T14:09:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:openmanage_network_manager:6.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 735879,
+    "name": "spotfire_server",
+    "version": "11.2.0",
+    "created_at": "2021-06-30T17:13:36",
+    "updated_at": "2021-07-06T17:14:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:spotfire_server:11.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

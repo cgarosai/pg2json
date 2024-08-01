@@ -1,0 +1,10 @@
+{
+    "id": 263493,
+    "name": "zcash",
+    "version": "1.0.0",
+    "created_at": "2019-06-18T16:49:47",
+    "updated_at": "2019-06-18T16:49:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:z.cash:zcash:1.0.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

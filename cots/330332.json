@@ -1,0 +1,10 @@
+{
+    "id": 330332,
+    "name": "server",
+    "version": "-",
+    "created_at": "2019-08-14T13:17:02",
+    "updated_at": "2019-09-11T15:33:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:couchbase:server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 35429,
+    "name": "lvm2",
+    "version": "2.02.31",
+    "created_at": "2010-08-05T18:47:04",
+    "updated_at": "2010-08-05T18:47:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:lvm2:2.02.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

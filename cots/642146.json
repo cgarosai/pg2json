@@ -1,0 +1,10 @@
+{
+    "id": 642146,
+    "name": "vault_provider_for_secrets_store_csi_driver",
+    "version": "0.0.6",
+    "created_at": "2021-01-26T14:30:30",
+    "updated_at": "2021-05-03T13:10:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:vault_provider_for_secrets_store_csi_driver:0.0.6:*:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

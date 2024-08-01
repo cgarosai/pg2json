@@ -1,0 +1,10 @@
+{
+    "id": 47353,
+    "name": "libav",
+    "version": "0.5.4",
+    "created_at": "2011-07-08T13:17:37",
+    "updated_at": "2012-08-21T21:49:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libav:libav:0.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

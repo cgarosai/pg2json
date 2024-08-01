@@ -1,0 +1,10 @@
+{
+    "id": 688489,
+    "name": "uu_od",
+    "version": "-",
+    "created_at": "2021-04-02T09:35:35",
+    "updated_at": "2021-05-28T15:54:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uu_od_project:uu_od:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

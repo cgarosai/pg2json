@@ -1,0 +1,10 @@
+{
+    "id": 93419,
+    "name": "interscan_web_security_virtual_appliance",
+    "version": "5.5",
+    "created_at": "2014-11-10T12:42:29",
+    "updated_at": "2015-02-07T17:35:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:interscan_web_security_virtual_appliance:5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

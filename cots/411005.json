@@ -1,0 +1,10 @@
+{
+    "id": 411005,
+    "name": "codescan",
+    "version": "1.0",
+    "created_at": "2019-10-28T15:29:12",
+    "updated_at": "2019-10-28T15:29:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:codescan:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

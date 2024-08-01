@@ -1,0 +1,10 @@
+{
+    "id": 1210243,
+    "name": "document_locator",
+    "version": "7.2",
+    "created_at": "2023-12-16T02:45:01",
+    "updated_at": "2023-12-16T02:45:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:documentlocator:document_locator:7.2:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

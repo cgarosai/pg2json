@@ -1,0 +1,10 @@
+{
+    "id": 380908,
+    "name": "nodewebkit",
+    "version": "0.9.2-6",
+    "created_at": "2019-09-25T15:25:43",
+    "updated_at": "2019-09-25T15:25:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodewebkit_project:nodewebkit:0.9.2-6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

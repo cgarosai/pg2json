@@ -1,0 +1,10 @@
+{
+    "id": 908467,
+    "name": "rme1_firmware",
+    "version": "-",
+    "created_at": "2022-07-11T14:27:30",
+    "updated_at": "2023-02-17T18:02:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:exemys:rme1_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

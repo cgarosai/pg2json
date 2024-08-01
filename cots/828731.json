@@ -1,0 +1,10 @@
+{
+    "id": 828731,
+    "name": "javascript_sdk",
+    "version": "15.3.0",
+    "created_at": "2021-12-17T16:48:27",
+    "updated_at": "2021-12-22T18:19:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:javascript_sdk:15.3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

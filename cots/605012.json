@@ -1,0 +1,10 @@
+{
+    "id": 605012,
+    "name": "video_surveillance_media_server",
+    "version": "-",
+    "created_at": "2020-09-28T15:31:35",
+    "updated_at": "2020-09-28T15:31:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:video_surveillance_media_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 869496,
+    "name": "model_x_firmware",
+    "version": "2022-03-26",
+    "created_at": "2022-04-04T10:38:20",
+    "updated_at": "2022-10-05T12:00:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tesla:model_x_firmware:2022-03-26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

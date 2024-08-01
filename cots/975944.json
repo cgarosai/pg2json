@@ -1,0 +1,10 @@
+{
+    "id": 975944,
+    "name": "neuvector_vulnerability_scanner",
+    "version": "1.10",
+    "created_at": "2022-11-23T01:07:13",
+    "updated_at": "2022-11-23T01:08:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:neuvector_vulnerability_scanner:1.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

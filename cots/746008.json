@@ -1,0 +1,10 @@
+{
+    "id": 746008,
+    "name": "kindlegen",
+    "version": "1.1.0",
+    "created_at": "2021-07-19T11:11:41",
+    "updated_at": "2021-07-19T13:19:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hakatashi:kindlegen:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

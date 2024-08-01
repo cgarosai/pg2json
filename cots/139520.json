@@ -1,0 +1,10 @@
+{
+    "id": 139520,
+    "name": "webmail",
+    "version": "1.2.3",
+    "created_at": "2017-11-28T17:34:57",
+    "updated_at": "2022-03-10T13:32:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:roundcube:webmail:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

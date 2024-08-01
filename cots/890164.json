@@ -1,0 +1,10 @@
+{
+    "id": 890164,
+    "name": "subscription-manager",
+    "version": "1.0",
+    "created_at": "2022-06-17T16:44:09",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:subscription-manager_project:subscription-manager:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

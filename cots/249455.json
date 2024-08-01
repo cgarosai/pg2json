@@ -1,0 +1,10 @@
+{
+    "id": 249455,
+    "name": "rsa_bsafe_crypto-c",
+    "version": "6.4",
+    "created_at": "2019-05-31T14:17:34",
+    "updated_at": "2021-11-30T17:35:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_bsafe_crypto-c:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

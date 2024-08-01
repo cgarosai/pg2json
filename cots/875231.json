@@ -1,0 +1,10 @@
+{
+    "id": 875231,
+    "name": "migration\\,_backup\\,_staging",
+    "version": "-",
+    "created_at": "2022-04-15T12:34:08",
+    "updated_at": "2022-04-15T14:34:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpvivid:migration\\,_backup\\,_staging:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

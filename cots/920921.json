@@ -1,0 +1,10 @@
+{
+    "id": 920921,
+    "name": "data_plane_development_kit",
+    "version": "22.03",
+    "created_at": "2022-08-26T11:56:12",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dpdk:data_plane_development_kit:22.03:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

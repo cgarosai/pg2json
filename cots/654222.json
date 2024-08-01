@@ -1,0 +1,10 @@
+{
+    "id": 654222,
+    "name": "rand_core",
+    "version": "0.8.0",
+    "created_at": "2021-02-22T16:15:06",
+    "updated_at": "2021-02-22T16:15:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rand_core_project:rand_core:0.8.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

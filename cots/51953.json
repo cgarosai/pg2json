@@ -1,0 +1,10 @@
+{
+    "id": 51953,
+    "name": "libgssglue",
+    "version": "0.4",
+    "created_at": "2012-06-22T11:23:09",
+    "updated_at": "2012-06-29T12:44:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:umich:libgssglue:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

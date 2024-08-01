@@ -1,0 +1,10 @@
+{
+    "id": 513821,
+    "name": "core_i5",
+    "version": "8210y",
+    "created_at": "2020-03-31T13:17:18",
+    "updated_at": "2020-03-31T13:17:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:8210y:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

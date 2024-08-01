@@ -1,0 +1,10 @@
+{
+    "id": 206254,
+    "name": "tivoli_application_dependency_discovery_manager",
+    "version": "7.3.0.5",
+    "created_at": "2019-02-05T13:02:39",
+    "updated_at": "2021-04-22T14:23:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_application_dependency_discovery_manager:7.3.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

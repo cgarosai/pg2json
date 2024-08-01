@@ -1,0 +1,10 @@
+{
+    "id": 110426,
+    "name": "web_security_appliance",
+    "version": "7.5.2-hp2-303",
+    "created_at": "2016-08-23T16:33:24",
+    "updated_at": "2016-08-23T16:33:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:web_security_appliance:7.5.2-hp2-303:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

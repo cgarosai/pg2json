@@ -1,0 +1,10 @@
+{
+    "id": 390124,
+    "name": "libxl",
+    "version": "0.2.0",
+    "created_at": "2019-10-01T14:03:56",
+    "updated_at": "2019-10-01T14:03:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libxl_project:libxl:0.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

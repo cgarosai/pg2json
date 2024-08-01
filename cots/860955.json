@@ -1,0 +1,10 @@
+{
+    "id": 860955,
+    "name": "internet_routing_registry_daemon",
+    "version": "4.0.0",
+    "created_at": "2022-04-06T14:43:03",
+    "updated_at": "2022-04-27T14:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:internet_routing_registry_daemon_project:internet_routing_registry_daemon:4.0.0:rc9:*:*:*:*:*:*",
+    "to_analyse": false
+}

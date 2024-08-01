@@ -1,0 +1,10 @@
+{
+    "id": 52064,
+    "name": "system_storage_ds5100_storage_controller",
+    "version": "1818",
+    "created_at": "2012-06-22T15:57:10",
+    "updated_at": "2012-06-29T12:52:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:system_storage_ds5100_storage_controller:1818:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

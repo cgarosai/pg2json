@@ -1,0 +1,10 @@
+{
+    "id": 578666,
+    "name": "er200_firmware",
+    "version": "-",
+    "created_at": "2020-08-03T09:59:22",
+    "updated_at": "2020-08-03T09:59:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mobile-industrial-robotics:er200_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

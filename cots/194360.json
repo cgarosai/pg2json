@@ -1,0 +1,10 @@
+{
+    "id": 194360,
+    "name": "sysstat",
+    "version": "8.1.7",
+    "created_at": "2019-01-29T13:23:15",
+    "updated_at": "2019-01-29T13:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysstat_project:sysstat:8.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

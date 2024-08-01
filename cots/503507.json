@@ -1,0 +1,10 @@
+{
+    "id": 503507,
+    "name": "ldapauth",
+    "version": "2.2.3",
+    "created_at": "2020-03-09T15:56:26",
+    "updated_at": "2020-03-09T15:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ldapauth_project:ldapauth:2.2.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

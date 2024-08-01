@@ -1,0 +1,10 @@
+{
+    "id": 505800,
+    "name": "dns-320_firmware",
+    "version": "2.06b01",
+    "created_at": "2020-02-28T17:09:08",
+    "updated_at": "2020-02-28T17:09:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dlink:dns-320_firmware:2.06b01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

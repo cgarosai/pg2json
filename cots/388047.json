@@ -1,0 +1,10 @@
+{
+    "id": 388047,
+    "name": "moveit_transfer",
+    "version": "11.0",
+    "created_at": "2019-09-24T15:03:47",
+    "updated_at": "2019-09-24T15:03:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:moveit_transfer:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

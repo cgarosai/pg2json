@@ -1,0 +1,10 @@
+{
+    "id": 678122,
+    "name": "haml",
+    "version": "5.2.0",
+    "created_at": "2021-03-17T12:08:04",
+    "updated_at": "2021-03-22T15:26:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haml:haml:5.2.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

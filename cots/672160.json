@@ -1,0 +1,10 @@
+{
+    "id": 672160,
+    "name": "adguard",
+    "version": "2.10.175",
+    "created_at": "2021-03-23T13:27:24",
+    "updated_at": "2021-03-23T14:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adguard:adguard:2.10.175:rc:*:*:*:android:*:*",
+    "to_analyse": false
+}

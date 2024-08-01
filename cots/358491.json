@@ -1,0 +1,10 @@
+{
+    "id": 358491,
+    "name": "nexus_repository_manager",
+    "version": "3.16.2-01",
+    "created_at": "2019-09-05T11:29:41",
+    "updated_at": "2019-09-05T11:29:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonatype:nexus_repository_manager:3.16.2-01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

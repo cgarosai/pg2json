@@ -1,0 +1,10 @@
+{
+    "id": 81600,
+    "name": "fwsnort",
+    "version": "1.0.5",
+    "created_at": "2014-02-10T14:44:59",
+    "updated_at": "2014-02-10T14:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cipherdyne:fwsnort:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

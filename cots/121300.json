@@ -1,0 +1,10 @@
+{
+    "id": 121300,
+    "name": "max308m_fimware",
+    "version": "-",
+    "created_at": "2017-07-06T12:32:41",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:max308m_fimware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 692549,
+    "name": "gpu_display_driver",
+    "version": "451.48",
+    "created_at": "2021-04-29T15:38:50",
+    "updated_at": "2021-06-02T16:20:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_display_driver:451.48:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

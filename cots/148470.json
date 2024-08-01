@@ -1,0 +1,10 @@
+{
+    "id": 148470,
+    "name": "parameterized_trigger",
+    "version": "2.3",
+    "created_at": "2018-03-29T16:23:40",
+    "updated_at": "2018-03-29T16:23:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:parameterized_trigger:2.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

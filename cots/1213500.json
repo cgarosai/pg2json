@@ -1,0 +1,10 @@
+{
+    "id": 1213500,
+    "name": "enterprise_content_management",
+    "version": "7.3.9",
+    "created_at": "2023-12-19T16:45:50",
+    "updated_at": "2023-12-19T16:45:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dokmee:enterprise_content_management:7.3.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

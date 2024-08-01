@@ -1,0 +1,10 @@
+{
+    "id": 100116,
+    "name": "taxonomy_accordion",
+    "version": "-",
+    "created_at": "2015-06-16T13:07:28",
+    "updated_at": "2015-06-22T15:59:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taxonomy_accordion_project:taxonomy_accordion:-:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

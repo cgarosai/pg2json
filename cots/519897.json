@@ -1,0 +1,10 @@
+{
+    "id": 519897,
+    "name": "secure_mail",
+    "version": "6.7.1",
+    "created_at": "2020-03-23T16:19:19",
+    "updated_at": "2020-03-23T16:19:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:secure_mail:6.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

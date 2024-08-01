@@ -1,0 +1,10 @@
+{
+    "id": 1045601,
+    "name": "pay",
+    "version": "0.2.3",
+    "created_at": "2023-03-06T21:55:32",
+    "updated_at": "2023-03-07T17:22:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solanalabs:pay:0.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

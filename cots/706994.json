@@ -1,0 +1,10 @@
+{
+    "id": 706994,
+    "name": "aws_software_development_kit",
+    "version": "2.13.7",
+    "created_at": "2021-05-10T14:13:20",
+    "updated_at": "2021-05-10T14:20:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_software_development_kit:2.13.7:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

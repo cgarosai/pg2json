@@ -1,0 +1,10 @@
+{
+    "id": 210846,
+    "name": "p1346_firmware",
+    "version": "5.51.5",
+    "created_at": "2019-03-20T16:45:02",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:p1346_firmware:5.51.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

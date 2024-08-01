@@ -1,0 +1,10 @@
+{
+    "id": 101301,
+    "name": "edge_bluebird_operating_system",
+    "version": "1.2",
+    "created_at": "2015-08-20T12:49:10",
+    "updated_at": "2015-09-03T17:53:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:edge_bluebird_operating_system:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 908730,
+    "name": "so_filter_shop_by",
+    "version": "3.0",
+    "created_at": "2022-07-11T15:40:22",
+    "updated_at": "2022-11-07T19:28:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:so_filter_shop_by_project:so_filter_shop_by:3.0:*:*:*:*:opencart:*:*",
+    "to_analyse": false
+}

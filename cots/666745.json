@@ -1,0 +1,10 @@
+{
+    "id": 666745,
+    "name": "e-series_santricity_management",
+    "version": "-",
+    "created_at": "2021-02-23T23:51:47",
+    "updated_at": "2021-05-06T11:13:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:e-series_santricity_management:-:*:*:*:*:vmware_vcenter:*:*",
+    "to_analyse": false
+}

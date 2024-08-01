@@ -1,0 +1,10 @@
+{
+    "id": 790152,
+    "name": "modern-async",
+    "version": "1.0.4",
+    "created_at": "2021-10-25T16:15:09",
+    "updated_at": "2021-10-26T10:15:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modern-async_project:modern-async:1.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 405246,
+    "name": "lastpass",
+    "version": "4.32.0",
+    "created_at": "2019-10-08T10:52:29",
+    "updated_at": "2019-10-08T10:52:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logmein:lastpass:4.32.0:*:*:*:*:chrome:*:*",
+    "to_analyse": false
+}

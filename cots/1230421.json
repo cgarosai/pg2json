@@ -1,0 +1,10 @@
+{
+    "id": 1230421,
+    "name": "ncast",
+    "version": "2007",
+    "created_at": "2024-01-12T11:35:05",
+    "updated_at": "2024-01-12T11:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncast_project:ncast:2007:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

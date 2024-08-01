@@ -1,0 +1,10 @@
+{
+    "id": 340743,
+    "name": "wolfssl",
+    "version": "4.1.0",
+    "created_at": "2019-08-28T16:19:18",
+    "updated_at": "2019-08-28T16:19:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wolfssl:wolfssl:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

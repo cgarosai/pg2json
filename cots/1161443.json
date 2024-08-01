@@ -1,0 +1,10 @@
+{
+    "id": 1161443,
+    "name": "quill_mention",
+    "version": "3.2.0",
+    "created_at": "2023-10-02T15:12:16",
+    "updated_at": "2024-03-26T10:53:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quill-mention:quill_mention:3.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

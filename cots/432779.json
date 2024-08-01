@@ -1,0 +1,10 @@
+{
+    "id": 432779,
+    "name": "slpjs",
+    "version": "0.22.0",
+    "created_at": "2019-11-20T16:28:53",
+    "updated_at": "2019-11-20T16:28:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simpleledger:slpjs:0.22.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

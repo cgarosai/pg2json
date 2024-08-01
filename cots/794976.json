@@ -1,0 +1,10 @@
+{
+    "id": 794976,
+    "name": "fortiportal",
+    "version": "6.0.6",
+    "created_at": "2021-11-03T10:03:47",
+    "updated_at": "2021-11-05T11:56:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiportal:6.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

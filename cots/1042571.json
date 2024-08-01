@@ -1,0 +1,10 @@
+{
+    "id": 1042571,
+    "name": "waap_cloud",
+    "version": "-",
+    "created_at": "2023-03-14T14:36:47",
+    "updated_at": "2023-08-18T17:17:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubikasec:waap_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

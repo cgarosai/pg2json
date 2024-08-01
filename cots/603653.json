@@ -1,0 +1,10 @@
+{
+    "id": 603653,
+    "name": "ios_xe_rom_monitor",
+    "version": "15.6\\(18r\\)",
+    "created_at": "2020-10-16T16:14:41",
+    "updated_at": "2020-10-16T16:14:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ios_xe_rom_monitor:15.6\\(18r\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

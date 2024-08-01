@@ -1,0 +1,10 @@
+{
+    "id": 954805,
+    "name": "talos_linux",
+    "version": "0.1.0",
+    "created_at": "2022-10-28T16:53:50",
+    "updated_at": "2022-10-28T17:08:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siderolabs:talos_linux:0.1.0:alpha21:*:*:*:*:*:*",
+    "to_analyse": false
+}

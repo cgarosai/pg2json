@@ -1,0 +1,10 @@
+{
+    "id": 179153,
+    "name": "telepresence_conductor",
+    "version": "-",
+    "created_at": "2018-10-05T16:46:04",
+    "updated_at": "2021-04-29T10:02:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:telepresence_conductor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

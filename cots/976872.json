@@ -1,0 +1,10 @@
+{
+    "id": 976872,
+    "name": "s3_publisher",
+    "version": "0.12.3436.v674b_46258039",
+    "created_at": "2022-11-23T16:14:29",
+    "updated_at": "2022-11-23T16:15:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:s3_publisher:0.12.3436.v674b_46258039:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

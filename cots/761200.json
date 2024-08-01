@@ -1,0 +1,10 @@
+{
+    "id": 761200,
+    "name": "nb3701_firmware",
+    "version": "-",
+    "created_at": "2021-08-26T14:50:52",
+    "updated_at": "2021-08-26T17:07:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netmodule:nb3701_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

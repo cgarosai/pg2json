@@ -1,0 +1,10 @@
+{
+    "id": 862579,
+    "name": "cx_cloud_agent",
+    "version": "2.1.0",
+    "created_at": "2022-04-08T13:31:10",
+    "updated_at": "2022-06-29T09:19:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:cx_cloud_agent:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

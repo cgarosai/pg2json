@@ -1,0 +1,10 @@
+{
+    "id": 823038,
+    "name": "bronzedb-protocol",
+    "version": "0.1.0",
+    "created_at": "2022-01-04T17:13:51",
+    "updated_at": "2022-01-10T14:48:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bronzedb-protocol_project:bronzedb-protocol:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

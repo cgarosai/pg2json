@@ -1,0 +1,10 @@
+{
+    "id": 184588,
+    "name": "t930_firmware",
+    "version": "mry_04_05_00.4",
+    "created_at": "2018-11-26T14:39:13",
+    "updated_at": "2018-11-26T14:39:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:t930_firmware:mry_04_05_00.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

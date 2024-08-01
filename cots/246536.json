@@ -1,0 +1,10 @@
+{
+    "id": 246536,
+    "name": "findbugs",
+    "version": "4.63",
+    "created_at": "2019-05-22T16:56:35",
+    "updated_at": "2019-05-22T16:56:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:findbugs:4.63:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

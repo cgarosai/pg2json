@@ -1,0 +1,10 @@
+{
+    "id": 1042216,
+    "name": "enterprise_protection",
+    "version": "8.18.6",
+    "created_at": "2023-03-13T16:39:20",
+    "updated_at": "2023-03-21T15:20:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proofpoint:enterprise_protection:8.18.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

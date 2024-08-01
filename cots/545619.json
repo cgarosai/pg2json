@@ -1,0 +1,10 @@
+{
+    "id": 545619,
+    "name": "wagtail",
+    "version": "0.5",
+    "created_at": "2020-05-05T14:28:39",
+    "updated_at": "2020-05-05T14:28:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:torchbox:wagtail:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

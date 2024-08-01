@@ -1,0 +1,10 @@
+{
+    "id": 642336,
+    "name": "advanced_malware_protection_for_endpoints",
+    "version": "7.0.5",
+    "created_at": "2021-01-26T16:56:19",
+    "updated_at": "2021-01-26T16:56:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:7.0.5:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 95787,
+    "name": "entityreference",
+    "version": "7.x-1.0",
+    "created_at": "2014-04-29T15:39:22",
+    "updated_at": "2014-04-29T17:17:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:entity_reference_project:entityreference:7.x-1.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

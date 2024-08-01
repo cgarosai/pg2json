@@ -1,0 +1,10 @@
+{
+    "id": 41688,
+    "name": "suhosin",
+    "version": "-",
+    "created_at": "2012-01-27T17:09:40",
+    "updated_at": "2012-02-16T19:18:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hardened-php:suhosin:-:beta_2006.09.09:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 116901,
+    "name": "gpu_driver_r352",
+    "version": "353.82",
+    "created_at": "2016-04-14T13:57:02",
+    "updated_at": "2021-08-04T13:44:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver_r352:353.82:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 622721,
+    "name": "kata_containers",
+    "version": "1.11.0",
+    "created_at": "2020-12-08T16:01:56",
+    "updated_at": "2020-12-08T16:01:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:katacontainers:kata_containers:1.11.0:alpha0:*:*:*:*:*:*",
+    "to_analyse": false
+}

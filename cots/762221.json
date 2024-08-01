@@ -1,0 +1,10 @@
+{
+    "id": 762221,
+    "name": "nbgitpuller",
+    "version": "0.9.0",
+    "created_at": "2021-08-27T12:41:55",
+    "updated_at": "2021-08-27T12:48:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyterhub:nbgitpuller:0.9.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

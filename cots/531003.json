@@ -1,0 +1,10 @@
+{
+    "id": 531003,
+    "name": "dgn2200_firmware",
+    "version": "1.0.0.58",
+    "created_at": "2020-04-28T13:25:47",
+    "updated_at": "2020-04-28T13:25:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:dgn2200_firmware:1.0.0.58:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

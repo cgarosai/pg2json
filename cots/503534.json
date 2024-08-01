@@ -1,0 +1,10 @@
+{
+    "id": 503534,
+    "name": "crony_cronjob_manager",
+    "version": "0.4.2",
+    "created_at": "2020-03-09T16:13:03",
+    "updated_at": "2020-03-09T16:13:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crony_cronjob_manager_project:crony_cronjob_manager:0.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

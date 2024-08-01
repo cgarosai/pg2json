@@ -1,0 +1,10 @@
+{
+    "id": 1052237,
+    "name": "firepower_threat_defense",
+    "version": "9.14.3",
+    "created_at": "2023-03-30T09:32:35",
+    "updated_at": "2023-03-30T11:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:firepower_threat_defense:9.14.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

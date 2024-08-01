@@ -1,0 +1,10 @@
+{
+    "id": 757318,
+    "name": "iremocon_wifi",
+    "version": "4.1.13",
+    "created_at": "2021-08-03T11:26:13",
+    "updated_at": "2021-08-05T16:51:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glamo:iremocon_wifi:4.1.13:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

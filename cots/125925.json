@@ -1,0 +1,10 @@
+{
+    "id": 125925,
+    "name": "awk-5232-m12-rcc_firmware",
+    "version": "-",
+    "created_at": "2017-03-16T00:20:14",
+    "updated_at": "2021-04-16T12:03:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:awk-5232-m12-rcc_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

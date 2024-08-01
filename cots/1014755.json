@@ -1,0 +1,10 @@
+{
+    "id": 1014755,
+    "name": "user_verification",
+    "version": "1.0.33",
+    "created_at": "2023-01-31T00:32:24",
+    "updated_at": "2023-01-31T00:34:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pickplugins:user_verification:1.0.33:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

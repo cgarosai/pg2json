@@ -1,0 +1,10 @@
+{
+    "id": 472976,
+    "name": "health_advisor_by_cloudbees",
+    "version": "2.10",
+    "created_at": "2020-01-24T12:10:59",
+    "updated_at": "2020-01-24T12:10:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:health_advisor_by_cloudbees:2.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

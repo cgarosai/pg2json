@@ -1,0 +1,10 @@
+{
+    "id": 844537,
+    "name": "redundancy_configuration_manager",
+    "version": "-",
+    "created_at": "2022-02-23T13:43:36",
+    "updated_at": "2022-02-25T01:33:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:redundancy_configuration_manager:-:*:*:*:*:staros:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 615496,
+    "name": "network_security_services",
+    "version": "3.58",
+    "created_at": "2020-10-28T17:12:16",
+    "updated_at": "2020-10-28T17:12:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:network_security_services:3.58:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

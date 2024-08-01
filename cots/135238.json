@@ -1,0 +1,10 @@
+{
+    "id": 135238,
+    "name": "5300hi_firmware",
+    "version": "v100r006",
+    "created_at": "2017-09-20T17:51:50",
+    "updated_at": "2017-09-20T17:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:5300hi_firmware:v100r006:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

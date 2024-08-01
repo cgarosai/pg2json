@@ -1,0 +1,10 @@
+{
+    "id": 741510,
+    "name": "activemq",
+    "version": "5.16.2",
+    "created_at": "2021-07-26T13:14:47",
+    "updated_at": "2021-07-26T13:15:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:activemq:5.16.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

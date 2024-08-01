@@ -1,0 +1,10 @@
+{
+    "id": 566269,
+    "name": "kie-server",
+    "version": "7.21.0",
+    "created_at": "2020-06-26T13:17:21",
+    "updated_at": "2020-06-26T13:17:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:kie-server:7.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

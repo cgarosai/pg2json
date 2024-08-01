@@ -1,0 +1,10 @@
+{
+    "id": 955181,
+    "name": "scalance_xf204-2_firmware",
+    "version": "5.2.5",
+    "created_at": "2022-10-14T11:51:56",
+    "updated_at": "2022-10-14T20:00:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_xf204-2_firmware:5.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

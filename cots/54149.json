@@ -1,0 +1,10 @@
+{
+    "id": 54149,
+    "name": "veritas_backup_exec",
+    "version": "13.0.2896",
+    "created_at": "2012-07-10T01:22:20",
+    "updated_at": "2012-07-10T01:22:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_backup_exec:13.0.2896:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

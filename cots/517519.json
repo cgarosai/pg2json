@@ -1,0 +1,10 @@
+{
+    "id": 517519,
+    "name": "antix_linux",
+    "version": "-",
+    "created_at": "2020-03-17T16:33:33",
+    "updated_at": "2021-06-15T15:03:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:antixlinux:antix_linux:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

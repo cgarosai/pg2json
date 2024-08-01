@@ -1,0 +1,10 @@
+{
+    "id": 779845,
+    "name": "nvr_storage_expansion",
+    "version": "-",
+    "created_at": "2021-09-15T16:27:18",
+    "updated_at": "2021-09-22T11:41:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:qnap:nvr_storage_expansion:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

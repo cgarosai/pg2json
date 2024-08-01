@@ -1,0 +1,10 @@
+{
+    "id": 153956,
+    "name": "sapscore",
+    "version": "1.12",
+    "created_at": "2018-06-14T13:12:35",
+    "updated_at": "2021-05-10T16:59:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:sapscore:1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

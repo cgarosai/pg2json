@@ -1,0 +1,10 @@
+{
+    "id": 516702,
+    "name": "slims",
+    "version": "3",
+    "created_at": "2020-03-16T11:51:59",
+    "updated_at": "2020-03-16T11:51:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slims_project:slims:3:stable1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1184436,
+    "name": "wordpress_file_sharing_plugin",
+    "version": "1.0.7",
+    "created_at": "2023-11-06T12:56:26",
+    "updated_at": "2023-11-06T12:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:userprivatefiles:wordpress_file_sharing_plugin:1.0.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

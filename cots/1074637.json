@@ -1,0 +1,10 @@
+{
+    "id": 1074637,
+    "name": "libksba",
+    "version": "1.6.3",
+    "created_at": "2023-05-18T16:05:22",
+    "updated_at": "2023-05-18T16:08:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnupg:libksba:1.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

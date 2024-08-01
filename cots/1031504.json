@@ -1,0 +1,10 @@
+{
+    "id": 1031504,
+    "name": "geoserver",
+    "version": "2.19.7",
+    "created_at": "2023-03-01T15:11:45",
+    "updated_at": "2023-06-12T13:44:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osgeo:geoserver:2.19.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

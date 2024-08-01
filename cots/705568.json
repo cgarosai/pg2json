@@ -1,0 +1,10 @@
+{
+    "id": 705568,
+    "name": "safety_sil",
+    "version": "3.0",
+    "created_at": "2021-05-06T14:28:55",
+    "updated_at": "2021-05-17T12:44:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:safety_sil:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 30680,
+    "name": "ips_sensor_software",
+    "version": "6.2\\(2\\)e3",
+    "created_at": "2010-12-28T16:29:57",
+    "updated_at": "2010-12-28T16:29:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ips_sensor_software:6.2\\(2\\)e3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 101818,
+    "name": "mobility_services_engine",
+    "version": "7.6.120.0",
+    "created_at": "2015-11-06T12:41:57",
+    "updated_at": "2015-11-13T21:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:mobility_services_engine:7.6.120.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

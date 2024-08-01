@@ -1,0 +1,10 @@
+{
+    "id": 267134,
+    "name": "uwsgi",
+    "version": "1.0",
+    "created_at": "2019-06-14T13:39:21",
+    "updated_at": "2019-06-14T13:39:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unbit:uwsgi:1.0:rc8:*:*:*:*:*:*",
+    "to_analyse": false
+}

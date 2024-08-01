@@ -1,0 +1,10 @@
+{
+    "id": 528429,
+    "name": "linux_enterprise_high_performance_computing",
+    "version": "15.0",
+    "created_at": "2020-04-02T13:48:38",
+    "updated_at": "2020-04-02T13:48:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:linux_enterprise_high_performance_computing:15.0:*:*:*:ltss:*:*:*",
+    "to_analyse": false
+}

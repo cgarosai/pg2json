@@ -1,0 +1,10 @@
+{
+    "id": 327987,
+    "name": "yarn",
+    "version": "0.21.3",
+    "created_at": "2019-08-01T09:59:54",
+    "updated_at": "2019-08-01T09:59:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yarnpkg:yarn:0.21.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

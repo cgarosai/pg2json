@@ -1,0 +1,10 @@
+{
+    "id": 89359,
+    "name": "fedora",
+    "version": "20",
+    "created_at": "2013-12-26T13:28:06",
+    "updated_at": "2013-12-26T13:34:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fedoraproject:fedora:20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

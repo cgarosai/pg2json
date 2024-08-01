@@ -1,0 +1,10 @@
+{
+    "id": 125450,
+    "name": "netflow_generation_appliance_3140",
+    "version": "-",
+    "created_at": "2017-03-02T14:10:22",
+    "updated_at": "2021-04-21T17:04:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:netflow_generation_appliance_3140:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

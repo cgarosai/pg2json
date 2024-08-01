@@ -1,0 +1,10 @@
+{
+    "id": 88266,
+    "name": "smartcloud_provisioning",
+    "version": "2.1.0",
+    "created_at": "2013-12-09T15:56:22",
+    "updated_at": "2013-12-09T15:57:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:smartcloud_provisioning:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

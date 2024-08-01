@@ -1,0 +1,10 @@
+{
+    "id": 789593,
+    "name": "chipset_driver",
+    "version": "-",
+    "created_at": "2021-10-05T16:11:43",
+    "updated_at": "2021-10-20T10:46:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amd:chipset_driver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

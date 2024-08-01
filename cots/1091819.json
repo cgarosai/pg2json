@@ -1,0 +1,10 @@
+{
+    "id": 1091819,
+    "name": "grafana",
+    "version": "2.0.0",
+    "created_at": "2023-06-13T11:39:36",
+    "updated_at": "2023-06-13T15:29:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tdengine:grafana:2.0.0:*:*:*:*:tdengine:*:*",
+    "to_analyse": false
+}

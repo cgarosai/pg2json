@@ -1,0 +1,10 @@
+{
+    "id": 512466,
+    "name": "rsa_authentication_manager",
+    "version": "8.2",
+    "created_at": "2020-03-27T13:07:20",
+    "updated_at": "2020-03-27T13:07:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

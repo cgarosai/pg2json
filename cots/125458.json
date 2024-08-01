@@ -1,0 +1,10 @@
+{
+    "id": 125458,
+    "name": "sagecrm",
+    "version": "7.3",
+    "created_at": "2017-03-02T15:36:05",
+    "updated_at": "2017-03-02T15:36:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sagecrm:sagecrm:7.3:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

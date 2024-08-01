@@ -1,0 +1,10 @@
+{
+    "id": 247184,
+    "name": "libreswan",
+    "version": "3.21",
+    "created_at": "2019-05-24T16:43:54",
+    "updated_at": "2019-05-24T16:43:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libreswan:libreswan:3.21:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

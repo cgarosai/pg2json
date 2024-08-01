@@ -1,0 +1,10 @@
+{
+    "id": 90074,
+    "name": "custom_banners",
+    "version": "1.2.2.2",
+    "created_at": "2014-07-08T13:37:24",
+    "updated_at": "2014-07-08T20:55:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_banners_plugin_project:custom_banners:1.2.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

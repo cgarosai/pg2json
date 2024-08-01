@@ -1,0 +1,10 @@
+{
+    "id": 244801,
+    "name": "infosphere_information_server",
+    "version": "11.7",
+    "created_at": "2019-06-06T14:11:55",
+    "updated_at": "2019-06-06T14:11:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_information_server:11.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

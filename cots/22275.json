@@ -1,0 +1,10 @@
+{
+    "id": 22275,
+    "name": "acrobat_reader",
+    "version": "8.2.2",
+    "created_at": "2010-04-15T12:47:18",
+    "updated_at": "2010-08-09T20:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:acrobat_reader:8.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

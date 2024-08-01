@@ -1,0 +1,10 @@
+{
+    "id": 436923,
+    "name": "dtc-xen",
+    "version": "0.3.18",
+    "created_at": "2019-11-13T11:36:23",
+    "updated_at": "2019-11-13T11:36:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dtc-xen_project:dtc-xen:0.3.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

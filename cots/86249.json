@@ -1,0 +1,10 @@
+{
+    "id": 86249,
+    "name": "supply_chain_products_suite",
+    "version": "6.3.1",
+    "created_at": "2013-10-17T12:30:51",
+    "updated_at": "2013-10-17T13:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:supply_chain_products_suite:6.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 129836,
+    "name": "openidm",
+    "version": "4.0.0",
+    "created_at": "2017-05-30T13:02:36",
+    "updated_at": "2017-05-30T13:02:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openidm_project:openidm:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

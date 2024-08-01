@@ -1,0 +1,10 @@
+{
+    "id": 265226,
+    "name": "java",
+    "version": "6.0.16.4",
+    "created_at": "2019-06-13T10:40:11",
+    "updated_at": "2019-06-13T10:40:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:java:6.0.16.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

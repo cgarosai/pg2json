@@ -1,0 +1,10 @@
+{
+    "id": 1169049,
+    "name": "contact_manager_app",
+    "version": "1.0",
+    "created_at": "2023-09-28T11:01:10",
+    "updated_at": "2023-09-28T11:01:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contact_manager_app_project:contact_manager_app:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 242585,
+    "name": "stunnel",
+    "version": "4.06",
+    "created_at": "2019-06-05T09:48:30",
+    "updated_at": "2019-06-05T09:48:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stunnel:stunnel:4.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

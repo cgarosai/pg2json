@@ -1,0 +1,10 @@
+{
+    "id": 705547,
+    "name": "automation_server",
+    "version": "1.16.0",
+    "created_at": "2021-05-06T13:26:53",
+    "updated_at": "2021-05-12T16:45:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:automation_server:1.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 456224,
+    "name": "stock_api_integration",
+    "version": "1.7",
+    "created_at": "2019-12-06T14:32:38",
+    "updated_at": "2021-04-02T15:01:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:stock_api_integration:1.7:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

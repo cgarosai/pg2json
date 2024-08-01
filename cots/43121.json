@@ -1,0 +1,10 @@
+{
+    "id": 43121,
+    "name": "putty",
+    "version": "0.62",
+    "created_at": "2012-03-06T13:30:49",
+    "updated_at": "2019-03-21T16:04:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simon_tatham:putty:0.62:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

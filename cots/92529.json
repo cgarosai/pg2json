@@ -1,0 +1,10 @@
+{
+    "id": 92529,
+    "name": "free_ebooks",
+    "version": "14.0",
+    "created_at": "2014-09-09T22:44:08",
+    "updated_at": "2014-11-13T21:30:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:free_ebooks_project:free_ebooks:14.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

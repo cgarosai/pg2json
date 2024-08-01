@@ -1,0 +1,10 @@
+{
+    "id": 86360,
+    "name": "fireware",
+    "version": "11.5.3",
+    "created_at": "2013-10-21T13:42:38",
+    "updated_at": "2014-04-22T18:01:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:watchguard:fireware:11.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

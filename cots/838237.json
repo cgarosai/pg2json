@@ -1,0 +1,10 @@
+{
+    "id": 838237,
+    "name": "dynamics_365_sales",
+    "version": "-",
+    "created_at": "2022-01-19T13:15:39",
+    "updated_at": "2022-09-28T17:55:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:dynamics_365_sales:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

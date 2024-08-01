@@ -1,0 +1,10 @@
+{
+    "id": 309074,
+    "name": "disable_comments_project",
+    "version": "1.6",
+    "created_at": "2019-07-22T11:27:22",
+    "updated_at": "2019-07-22T11:27:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:disable_comments:disable_comments_project:1.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

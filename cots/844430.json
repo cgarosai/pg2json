@@ -1,0 +1,10 @@
+{
+    "id": 844430,
+    "name": "wp_statistics",
+    "version": "13.1.4",
+    "created_at": "2022-02-22T18:36:20",
+    "updated_at": "2022-02-23T00:38:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veronalabs:wp_statistics:13.1.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

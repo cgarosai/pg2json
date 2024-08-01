@@ -1,0 +1,10 @@
+{
+    "id": 560996,
+    "name": "web_services",
+    "version": "10.4",
+    "created_at": "2020-07-13T11:32:09",
+    "updated_at": "2020-07-13T11:32:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microstrategy:web_services:10.4:hotfix_7:*:*:*:office:*:*",
+    "to_analyse": false
+}

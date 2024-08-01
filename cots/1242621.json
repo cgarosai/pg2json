@@ -1,0 +1,10 @@
+{
+    "id": 1242621,
+    "name": "review_schema",
+    "version": "1.1.2",
+    "created_at": "2024-02-05T17:28:15",
+    "updated_at": "2024-02-05T17:28:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:radiustheme:review_schema:1.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

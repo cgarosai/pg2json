@@ -1,0 +1,10 @@
+{
+    "id": 176438,
+    "name": "libswresample",
+    "version": "3.0.101",
+    "created_at": "2018-09-13T12:41:26",
+    "updated_at": "2018-09-13T12:41:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ffmpeg:libswresample:3.0.101:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

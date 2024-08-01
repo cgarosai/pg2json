@@ -1,0 +1,10 @@
+{
+    "id": 424873,
+    "name": "baryton-saxophone",
+    "version": "2.50.1",
+    "created_at": "2019-11-08T18:49:11",
+    "updated_at": "2019-11-08T18:49:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:baryton-saxophone_project:baryton-saxophone:2.50.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 780670,
+    "name": "rexroth_indramotion_mlc_l40_firmware",
+    "version": "-",
+    "created_at": "2021-10-06T15:42:20",
+    "updated_at": "2021-10-13T21:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:rexroth_indramotion_mlc_l40_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

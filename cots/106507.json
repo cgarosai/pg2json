@@ -1,0 +1,10 @@
+{
+    "id": 106507,
+    "name": "directshowdemuxfilter",
+    "version": "-",
+    "created_at": "2015-01-13T14:20:59",
+    "updated_at": "2015-04-03T14:56:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:divx:directshowdemuxfilter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

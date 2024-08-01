@@ -1,0 +1,10 @@
+{
+    "id": 213906,
+    "name": "fileutils",
+    "version": "0.6",
+    "created_at": "2019-04-01T14:43:04",
+    "updated_at": "2019-04-01T14:43:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fileutils_project:fileutils:0.6:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

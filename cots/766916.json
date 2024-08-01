@@ -1,0 +1,10 @@
+{
+    "id": 766916,
+    "name": "golo",
+    "version": "1.1.6",
+    "created_at": "2021-08-19T14:52:08",
+    "updated_at": "2021-08-19T16:02:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uxper:golo:1.1.6:*:*:*:*:laravel:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 894359,
+    "name": "fingerprint_driver",
+    "version": "5.5.44.1058",
+    "created_at": "2022-07-01T14:02:47",
+    "updated_at": "2022-07-06T11:33:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synaptics:fingerprint_driver:5.5.44.1058:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

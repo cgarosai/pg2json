@@ -1,0 +1,10 @@
+{
+    "id": 477663,
+    "name": "sppa-t3000_ms3000_migration_server",
+    "version": "-",
+    "created_at": "2020-01-13T17:02:06",
+    "updated_at": "2020-01-13T17:02:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sppa-t3000_ms3000_migration_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

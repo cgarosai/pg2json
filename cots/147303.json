@@ -1,0 +1,10 @@
+{
+    "id": 147303,
+    "name": "lighttpd",
+    "version": "1.4.43",
+    "created_at": "2018-03-07T15:12:05",
+    "updated_at": "2018-03-07T15:12:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lighttpd:lighttpd:1.4.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

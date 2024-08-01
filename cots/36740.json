@@ -1,0 +1,10 @@
+{
+    "id": 36740,
+    "name": "android",
+    "version": "-",
+    "created_at": "2010-09-16T13:18:31",
+    "updated_at": "2010-10-13T00:39:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:android:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

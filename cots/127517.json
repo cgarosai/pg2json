@@ -1,0 +1,10 @@
+{
+    "id": 127517,
+    "name": "aironet_access_point_firmware",
+    "version": "8.2.102.43",
+    "created_at": "2017-04-12T16:26:43",
+    "updated_at": "2021-04-19T15:20:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_access_point_firmware:8.2.102.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

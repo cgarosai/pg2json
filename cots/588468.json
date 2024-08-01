@@ -1,0 +1,10 @@
+{
+    "id": 588468,
+    "name": "vpn_client",
+    "version": "2.10.7",
+    "created_at": "2020-08-20T12:55:32",
+    "updated_at": "2020-08-20T12:55:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aviatrix:vpn_client:2.10.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

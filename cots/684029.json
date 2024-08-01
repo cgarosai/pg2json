@@ -1,0 +1,10 @@
+{
+    "id": 684029,
+    "name": "audio_x2",
+    "version": "-",
+    "created_at": "2021-04-12T16:20:05",
+    "updated_at": "2021-05-28T12:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dolby:audio_x2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

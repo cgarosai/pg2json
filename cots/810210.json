@@ -1,0 +1,10 @@
+{
+    "id": 810210,
+    "name": "mysql_enterprise_monitor",
+    "version": "8.0.25",
+    "created_at": "2021-11-30T15:24:51",
+    "updated_at": "2021-12-02T21:36:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

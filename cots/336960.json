@@ -1,0 +1,10 @@
+{
+    "id": 336960,
+    "name": "vulcan",
+    "version": "0.20",
+    "created_at": "2019-08-09T12:41:41",
+    "updated_at": "2019-08-09T12:41:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vulcanjs:vulcan:0.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

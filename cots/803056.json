@@ -1,0 +1,10 @@
+{
+    "id": 803056,
+    "name": "factor",
+    "version": "1.2.4",
+    "created_at": "2021-11-17T14:07:08",
+    "updated_at": "2021-11-17T18:53:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:darwin:factor:1.2.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

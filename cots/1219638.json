@@ -1,0 +1,10 @@
+{
+    "id": 1219638,
+    "name": "cross-origin_resource_sharing_for_koa",
+    "version": "4.0.0",
+    "created_at": "2023-12-15T19:06:51",
+    "updated_at": "2023-12-15T19:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:koajs:cross-origin_resource_sharing_for_koa:4.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

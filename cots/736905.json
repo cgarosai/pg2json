@@ -1,0 +1,10 @@
+{
+    "id": 736905,
+    "name": "sensorprobe8_firmware",
+    "version": "sp480-20210624",
+    "created_at": "2021-07-01T17:19:24",
+    "updated_at": "2021-07-02T10:11:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:akcp:sensorprobe8_firmware:sp480-20210624:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

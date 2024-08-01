@@ -1,0 +1,10 @@
+{
+    "id": 171711,
+    "name": "wemo_insight_smart_plug_firmware",
+    "version": "-",
+    "created_at": "2018-10-15T17:57:34",
+    "updated_at": "2021-06-16T11:20:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belkin:wemo_insight_smart_plug_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

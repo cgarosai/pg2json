@@ -1,0 +1,10 @@
+{
+    "id": 651919,
+    "name": "cloud_access_connector",
+    "version": "29",
+    "created_at": "2021-02-17T14:33:47",
+    "updated_at": "2021-02-17T14:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:cloud_access_connector:29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 693421,
+    "name": "security_analytics",
+    "version": "7.2.7",
+    "created_at": "2021-05-03T14:54:56",
+    "updated_at": "2021-06-04T16:31:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:security_analytics:7.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

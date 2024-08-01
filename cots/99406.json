@@ -1,0 +1,10 @@
+{
+    "id": 99406,
+    "name": "identity_manager",
+    "version": "4.0.2",
+    "created_at": "2014-06-23T15:26:52",
+    "updated_at": "2014-06-24T13:06:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:identity_manager:4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

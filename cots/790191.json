@@ -1,0 +1,10 @@
+{
+    "id": 790191,
+    "name": "mysql_cluster",
+    "version": "7.6.19",
+    "created_at": "2021-10-26T12:07:52",
+    "updated_at": "2021-10-27T10:03:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_cluster:7.6.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

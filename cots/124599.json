@@ -1,0 +1,10 @@
+{
+    "id": 124599,
+    "name": "oncommand_unified_manager_for_clustered_data_ontap",
+    "version": "7.2",
+    "created_at": "2017-09-06T15:11:11",
+    "updated_at": "2021-05-06T13:08:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:oncommand_unified_manager_for_clustered_data_ontap:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

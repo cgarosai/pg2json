@@ -1,0 +1,10 @@
+{
+    "id": 520100,
+    "name": "apiconnect-cli-plugins",
+    "version": "-",
+    "created_at": "2020-04-06T15:47:08",
+    "updated_at": "2020-04-06T15:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apiconnect-cli-plugins_project:apiconnect-cli-plugins:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

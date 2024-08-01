@@ -1,0 +1,10 @@
+{
+    "id": 529630,
+    "name": "git-add-remote",
+    "version": "-",
+    "created_at": "2020-04-03T16:58:23",
+    "updated_at": "2020-04-03T16:58:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:git-add-remote_project:git-add-remote:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

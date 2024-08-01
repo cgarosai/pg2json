@@ -1,0 +1,10 @@
+{
+    "id": 1154445,
+    "name": "battery-pack_sp_with_wifi_firmware",
+    "version": "053l000092",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bbraun:battery-pack_sp_with_wifi_firmware:053l000092:*:*:*:global:*:*:*",
+    "to_analyse": false
+}

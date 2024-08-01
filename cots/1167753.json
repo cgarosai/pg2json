@@ -1,0 +1,10 @@
+{
+    "id": 1167753,
+    "name": "trusted_platform_module",
+    "version": "2.0",
+    "created_at": "2023-09-27T08:04:32",
+    "updated_at": "2023-09-27T08:04:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trustedcomputinggroup:trusted_platform_module:2.0:revision_1.16:*:*:*:*:*:*",
+    "to_analyse": false
+}

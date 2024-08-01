@@ -1,0 +1,10 @@
+{
+    "id": 1233179,
+    "name": "security_verify_access_docker",
+    "version": "10.0.0.7",
+    "created_at": "2024-01-18T15:30:54",
+    "updated_at": "2024-01-18T15:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_verify_access_docker:10.0.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

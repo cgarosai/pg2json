@@ -1,0 +1,10 @@
+{
+    "id": 102103,
+    "name": "unified_agent",
+    "version": "4.6.1",
+    "created_at": "2015-12-08T16:42:13",
+    "updated_at": "2015-12-08T16:42:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluecoat:unified_agent:4.6.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

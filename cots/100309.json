@@ -1,0 +1,10 @@
+{
+    "id": 100309,
+    "name": "swiftkey_sdk",
+    "version": "-",
+    "created_at": "2015-06-22T11:53:59",
+    "updated_at": "2015-06-22T12:58:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swiftkey:swiftkey_sdk:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

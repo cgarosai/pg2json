@@ -1,0 +1,10 @@
+{
+    "id": 644104,
+    "name": "sd-wan_firmware",
+    "version": "-",
+    "created_at": "2021-01-29T16:46:03",
+    "updated_at": "2021-01-29T16:46:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sd-wan_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

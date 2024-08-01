@@ -1,0 +1,10 @@
+{
+    "id": 69642,
+    "name": "online_merchant",
+    "version": "2.3.3",
+    "created_at": "2012-09-20T13:26:32",
+    "updated_at": "2012-09-21T18:21:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oscommerce:online_merchant:2.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

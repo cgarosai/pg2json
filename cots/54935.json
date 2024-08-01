@@ -1,0 +1,10 @@
+{
+    "id": 54935,
+    "name": "mod_auth_openid",
+    "version": "0.6",
+    "created_at": "2012-07-26T12:12:37",
+    "updated_at": "2012-07-30T13:51:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:findingscience:mod_auth_openid:0.6:*:*:*:*:apache:*:*",
+    "to_analyse": false
+}

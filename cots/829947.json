@@ -1,0 +1,10 @@
+{
+    "id": 829947,
+    "name": "cbioportal",
+    "version": "1.2.6",
+    "created_at": "2021-12-20T18:20:15",
+    "updated_at": "2021-12-20T18:32:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cbioportal_project:cbioportal:1.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

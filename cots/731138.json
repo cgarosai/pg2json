@@ -1,0 +1,10 @@
+{
+    "id": 731138,
+    "name": "hybrid_backup_sync",
+    "version": "3.0.210507",
+    "created_at": "2021-07-12T13:41:34",
+    "updated_at": "2021-08-25T13:46:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qnap:hybrid_backup_sync:3.0.210507:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

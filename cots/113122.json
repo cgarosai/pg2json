@@ -1,0 +1,10 @@
+{
+    "id": 113122,
+    "name": "hybrid_media_service",
+    "version": "1.0_base",
+    "created_at": "2016-12-14T18:30:29",
+    "updated_at": "2021-04-08T12:40:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:hybrid_media_service:1.0_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

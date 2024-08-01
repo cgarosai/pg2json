@@ -1,0 +1,10 @@
+{
+    "id": 126672,
+    "name": "wi-fi_pineapple_firmware",
+    "version": "2.1",
+    "created_at": "2017-04-04T17:27:47",
+    "updated_at": "2021-06-22T14:56:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hak5:wi-fi_pineapple_firmware:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

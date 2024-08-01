@@ -1,0 +1,10 @@
+{
+    "id": 102124,
+    "name": "libreport",
+    "version": "2.0.9",
+    "created_at": "2015-12-08T18:36:21",
+    "updated_at": "2015-12-08T18:36:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:libreport:2.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

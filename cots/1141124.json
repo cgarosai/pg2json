@@ -1,0 +1,10 @@
+{
+    "id": 1141124,
+    "name": "freighter",
+    "version": "5.2.4",
+    "created_at": "2023-08-31T11:53:08",
+    "updated_at": "2023-08-31T15:53:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stellar:freighter:5.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 82720,
+    "name": "sfr_box_router",
+    "version": "-",
+    "created_at": "2014-03-10T15:04:52",
+    "updated_at": "2014-03-10T16:20:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sfr:sfr_box_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

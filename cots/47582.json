@@ -1,0 +1,10 @@
+{
+    "id": 47582,
+    "name": "secure_backup",
+    "version": "10.3.0.3",
+    "created_at": "2011-07-21T12:57:01",
+    "updated_at": "2011-07-27T14:02:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:secure_backup:10.3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

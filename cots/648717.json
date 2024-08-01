@@ -1,0 +1,10 @@
+{
+    "id": 648717,
+    "name": "node-sass",
+    "version": "0.9.4",
+    "created_at": "2021-01-13T15:27:55",
+    "updated_at": "2021-01-13T15:27:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sass-lang:node-sass:0.9.4:-:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

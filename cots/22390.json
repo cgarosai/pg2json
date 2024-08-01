@@ -1,0 +1,10 @@
+{
+    "id": 22390,
+    "name": "multi_server",
+    "version": "4.5",
+    "created_at": "2010-04-23T09:22:12",
+    "updated_at": "2013-02-07T14:02:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysax:multi_server:4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

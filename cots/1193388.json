@@ -1,0 +1,10 @@
+{
+    "id": 1193388,
+    "name": "payment_gateway",
+    "version": "-",
+    "created_at": "2023-11-22T16:07:21",
+    "updated_at": "2023-11-22T16:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paytm:payment_gateway:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 650392,
+    "name": "prisma_cloud",
+    "version": "19.11",
+    "created_at": "2021-02-11T17:24:16",
+    "updated_at": "2021-04-12T13:40:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:prisma_cloud:19.11:update_2:*:*:compute:*:*:*",
+    "to_analyse": false
+}

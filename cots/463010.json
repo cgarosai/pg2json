@@ -1,0 +1,10 @@
+{
+    "id": 463010,
+    "name": "connect_box_eurodocsis_firmware",
+    "version": "ch7465lg-ncip-6.12.18.25-2p6-nosh",
+    "created_at": "2020-01-06T18:25:38",
+    "updated_at": "2021-07-01T12:22:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:upc:connect_box_eurodocsis_firmware:ch7465lg-ncip-6.12.18.25-2p6-nosh:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

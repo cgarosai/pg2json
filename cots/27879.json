@@ -1,0 +1,10 @@
+{
+    "id": 27879,
+    "name": "freenas",
+    "version": "0.69",
+    "created_at": "2009-09-10T17:27:21",
+    "updated_at": "2009-09-10T17:27:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:freenas:freenas:0.69:-:i386:*:*:*:*:*",
+    "to_analyse": false
+}

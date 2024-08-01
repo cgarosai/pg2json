@@ -1,0 +1,10 @@
+{
+    "id": 1188015,
+    "name": "please",
+    "version": "0.5.0",
+    "created_at": "2023-10-26T12:15:13",
+    "updated_at": "2023-10-26T12:15:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:edneville:please:0.5.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

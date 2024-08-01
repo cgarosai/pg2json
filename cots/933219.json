@@ -1,0 +1,10 @@
+{
+    "id": 933219,
+    "name": "sr506n_firmware",
+    "version": "2.5.15",
+    "created_at": "2022-09-15T16:15:00",
+    "updated_at": "2022-09-16T04:39:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:adtran:sr506n_firmware:2.5.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

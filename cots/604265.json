@@ -1,0 +1,10 @@
+{
+    "id": 604265,
+    "name": "phpredisadmin",
+    "version": "1.4.1",
+    "created_at": "2020-10-21T10:17:34",
+    "updated_at": "2020-10-21T10:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpredisadmin_project:phpredisadmin:1.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

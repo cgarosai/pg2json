@@ -1,0 +1,10 @@
+{
+    "id": 391005,
+    "name": "voyager",
+    "version": "1.1.5",
+    "created_at": "2019-10-02T11:48:12",
+    "updated_at": "2019-10-02T11:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thecontrolgroup:voyager:1.1.5:*:*:*:*:laravel:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1084194,
+    "name": "saleor",
+    "version": "3.12.12",
+    "created_at": "2023-06-01T11:36:13",
+    "updated_at": "2023-06-01T15:41:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:saleor:saleor:3.12.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 534775,
+    "name": "hub",
+    "version": "2245-222",
+    "created_at": "2020-05-04T15:47:12",
+    "updated_at": "2020-05-04T15:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:insteon:hub:2245-222:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

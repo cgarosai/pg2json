@@ -1,0 +1,10 @@
+{
+    "id": 99396,
+    "name": "usermin",
+    "version": "0.980",
+    "created_at": "2014-06-23T15:18:12",
+    "updated_at": "2014-06-24T16:09:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webmin:usermin:0.980:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

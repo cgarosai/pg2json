@@ -1,0 +1,10 @@
+{
+    "id": 1266131,
+    "name": "stonebeat_securitycluster",
+    "version": "2.5",
+    "created_at": "2024-03-04T13:48:01",
+    "updated_at": "2024-03-04T13:48:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forcepoint:stonebeat_securitycluster:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

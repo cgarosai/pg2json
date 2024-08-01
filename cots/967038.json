@@ -1,0 +1,10 @@
+{
+    "id": 967038,
+    "name": "fortisiem",
+    "version": "6.1.0",
+    "created_at": "2022-11-02T15:28:39",
+    "updated_at": "2022-11-02T15:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortisiem:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

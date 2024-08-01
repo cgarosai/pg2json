@@ -1,0 +1,10 @@
+{
+    "id": 101018,
+    "name": "welcart",
+    "version": "1.4.12",
+    "created_at": "2015-08-10T12:23:53",
+    "updated_at": "2021-06-24T13:59:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:welcart:welcart:1.4.12:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

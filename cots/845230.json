@@ -1,0 +1,10 @@
+{
+    "id": 845230,
+    "name": "grpc",
+    "version": "0.3.0",
+    "created_at": "2022-02-03T14:07:30",
+    "updated_at": "2022-02-03T14:10:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grpc:grpc:0.3.0:*:*:*:*:webjs:*:*",
+    "to_analyse": false
+}

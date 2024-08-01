@@ -1,0 +1,10 @@
+{
+    "id": 102217,
+    "name": "lync",
+    "version": "2013",
+    "created_at": "2015-12-09T17:28:24",
+    "updated_at": "2015-12-09T17:28:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:lync:2013:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

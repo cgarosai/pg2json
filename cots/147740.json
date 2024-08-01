@@ -1,0 +1,10 @@
+{
+    "id": 147740,
+    "name": "safenet_authentication_service_for_ad_fs_agent",
+    "version": "-",
+    "created_at": "2018-03-14T18:05:34",
+    "updated_at": "2021-05-25T14:46:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gemalto:safenet_authentication_service_for_ad_fs_agent:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

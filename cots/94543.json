@@ -1,0 +1,10 @@
+{
+    "id": 94543,
+    "name": "websphere_dashboard_framework",
+    "version": "-",
+    "created_at": "2014-11-26T19:57:33",
+    "updated_at": "2015-02-18T17:15:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_dashboard_framework:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

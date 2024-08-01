@@ -1,0 +1,10 @@
+{
+    "id": 573642,
+    "name": "shadow",
+    "version": "4.0.5",
+    "created_at": "2020-08-11T15:07:52",
+    "updated_at": "2020-08-11T15:07:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:shadow:4.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

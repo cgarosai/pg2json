@@ -1,0 +1,10 @@
+{
+    "id": 1228801,
+    "name": "cyber_protect",
+    "version": "15",
+    "created_at": "2023-12-27T13:55:18",
+    "updated_at": "2023-12-27T13:55:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acronis:cyber_protect:15:-:*:*:*:windows:*:*",
+    "to_analyse": false
+}

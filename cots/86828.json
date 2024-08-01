@@ -1,0 +1,10 @@
+{
+    "id": 86828,
+    "name": "rockdisk_firmware",
+    "version": "1.03w-1.14",
+    "created_at": "2013-11-01T15:41:51",
+    "updated_at": "2013-11-12T16:43:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:iodata:rockdisk_firmware:1.03w-1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

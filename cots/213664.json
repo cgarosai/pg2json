@@ -1,0 +1,10 @@
+{
+    "id": 213664,
+    "name": "spotfire_data_science",
+    "version": "6.4.0",
+    "created_at": "2019-04-01T12:02:09",
+    "updated_at": "2021-05-17T13:33:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:spotfire_data_science:6.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

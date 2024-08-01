@@ -1,0 +1,10 @@
+{
+    "id": 581245,
+    "name": "e9000_chassis",
+    "version": "v100r001c00",
+    "created_at": "2020-08-25T11:50:56",
+    "updated_at": "2020-08-25T11:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:e9000_chassis:v100r001c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 966146,
+    "name": "conduit-hyper",
+    "version": "0.3.0",
+    "created_at": "2022-11-01T13:16:05",
+    "updated_at": "2022-11-01T13:31:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conduit-hyper_project:conduit-hyper:0.3.0:alpha7:*:*:*:rust:*:*",
+    "to_analyse": false
+}

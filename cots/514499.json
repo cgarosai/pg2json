@@ -1,0 +1,10 @@
+{
+    "id": 514499,
+    "name": "pxa30-w0_firmware",
+    "version": "6.00.320",
+    "created_at": "2020-03-31T15:35:35",
+    "updated_at": "2020-03-31T15:35:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:pxa30-w0_firmware:6.00.320:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 880039,
+    "name": "m12-2_firmware",
+    "version": "xcp2361",
+    "created_at": "2022-06-02T09:10:26",
+    "updated_at": "2022-06-03T11:02:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:m12-2_firmware:xcp2361:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

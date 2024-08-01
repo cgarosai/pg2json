@@ -1,0 +1,10 @@
+{
+    "id": 419051,
+    "name": "gpu_driver",
+    "version": "362.77",
+    "created_at": "2019-10-24T16:47:10",
+    "updated_at": "2019-10-24T16:47:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:362.77:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

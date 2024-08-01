@@ -1,0 +1,10 @@
+{
+    "id": 660004,
+    "name": "car_rental",
+    "version": "1.0.8",
+    "created_at": "2021-03-03T11:48:45",
+    "updated_at": "2021-03-03T11:53:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestwebsoft:car_rental:1.0.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

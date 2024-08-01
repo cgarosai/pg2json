@@ -1,0 +1,10 @@
+{
+    "id": 10177,
+    "name": "office_infopath",
+    "version": "2003",
+    "created_at": "2007-09-12T20:54:56",
+    "updated_at": "2010-06-09T14:39:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_infopath:2003:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

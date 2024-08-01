@@ -1,0 +1,10 @@
+{
+    "id": 1030957,
+    "name": "oneapi_collective_communications_library",
+    "version": "-",
+    "created_at": "2023-02-28T17:52:24",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:oneapi_collective_communications_library:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

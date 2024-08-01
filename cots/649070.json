@@ -1,0 +1,10 @@
+{
+    "id": 649070,
+    "name": "tracetronic_ecu-test",
+    "version": "2.7",
+    "created_at": "2021-01-14T18:24:44",
+    "updated_at": "2021-01-14T18:24:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:tracetronic_ecu-test:2.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

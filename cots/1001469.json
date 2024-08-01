@@ -1,0 +1,10 @@
+{
+    "id": 1001469,
+    "name": "wecube-platform",
+    "version": "3.2.2",
+    "created_at": "2023-01-05T17:35:48",
+    "updated_at": "2023-01-17T18:39:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wecube-platform_project:wecube-platform:3.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

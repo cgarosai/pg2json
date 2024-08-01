@@ -1,0 +1,10 @@
+{
+    "id": 461421,
+    "name": "feature",
+    "version": "0.7.0",
+    "created_at": "2020-01-02T17:11:22",
+    "updated_at": "2020-01-02T17:11:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:feature_project:feature:0.7.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

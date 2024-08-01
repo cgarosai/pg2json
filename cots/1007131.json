@@ -1,0 +1,10 @@
+{
+    "id": 1007131,
+    "name": "ydb",
+    "version": "22.2.46",
+    "created_at": "2022-12-30T13:03:53",
+    "updated_at": "2022-12-30T13:23:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ydb:ydb:22.2.46:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 589035,
+    "name": "maximo_enterprise_adapter",
+    "version": "7.6",
+    "created_at": "2020-08-20T14:45:49",
+    "updated_at": "2020-08-20T14:45:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:maximo_enterprise_adapter:7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

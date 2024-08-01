@@ -1,0 +1,10 @@
+{
+    "id": 508586,
+    "name": "movable_type",
+    "version": "7.1.4",
+    "created_at": "2020-03-04T18:37:03",
+    "updated_at": "2020-03-04T18:37:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sixapart:movable_type:7.1.4:*:*:*:-:aws:*:*",
+    "to_analyse": false
+}

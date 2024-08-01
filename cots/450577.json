@@ -1,0 +1,10 @@
+{
+    "id": 450577,
+    "name": "bittorrent-dht",
+    "version": "2.3.0",
+    "created_at": "2019-12-09T18:12:13",
+    "updated_at": "2019-12-09T18:12:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webtorrent:bittorrent-dht:2.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

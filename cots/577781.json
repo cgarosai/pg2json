@@ -1,0 +1,10 @@
+{
+    "id": 577781,
+    "name": "security_key_lifecycle_manager",
+    "version": "4.0",
+    "created_at": "2020-07-29T15:37:20",
+    "updated_at": "2020-07-29T15:37:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_key_lifecycle_manager:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

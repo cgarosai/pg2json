@@ -1,0 +1,10 @@
+{
+    "id": 467456,
+    "name": "proxyprotocol",
+    "version": "-",
+    "created_at": "2019-12-17T18:31:19",
+    "updated_at": "2019-12-17T18:31:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haproxy:proxyprotocol:-:*:*:*:*:caddy:*:*",
+    "to_analyse": false
+}

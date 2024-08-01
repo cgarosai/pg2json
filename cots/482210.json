@@ -1,0 +1,10 @@
+{
+    "id": 482210,
+    "name": "idrac6_firmware",
+    "version": "2.92",
+    "created_at": "2020-02-05T17:27:21",
+    "updated_at": "2020-02-05T17:27:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:idrac6_firmware:2.92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

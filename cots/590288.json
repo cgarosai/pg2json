@@ -1,0 +1,10 @@
+{
+    "id": 590288,
+    "name": "zeta_producer",
+    "version": "13.3.0",
+    "created_at": "2020-09-15T13:37:19",
+    "updated_at": "2020-09-15T13:37:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zeta-producer:zeta_producer:13.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

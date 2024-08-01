@@ -1,0 +1,10 @@
+{
+    "id": 494924,
+    "name": "persona",
+    "version": "7.x-1.0",
+    "created_at": "2020-02-27T19:09:02",
+    "updated_at": "2020-02-27T19:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:persona:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

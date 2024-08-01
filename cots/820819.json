@@ -1,0 +1,10 @@
+{
+    "id": 820819,
+    "name": "ni_woocommerce_custom_order_status",
+    "version": "1.7.6",
+    "created_at": "2021-12-23T16:40:56",
+    "updated_at": "2021-12-23T18:25:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ni_woocommerce_custom_order_status_project:ni_woocommerce_custom_order_status:1.7.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

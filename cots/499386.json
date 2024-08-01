@@ -1,0 +1,10 @@
+{
+    "id": 499386,
+    "name": "opensips",
+    "version": "1.9.2",
+    "created_at": "2020-02-20T19:26:29",
+    "updated_at": "2020-02-20T19:26:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensips:opensips:1.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

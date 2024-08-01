@@ -1,0 +1,10 @@
+{
+    "id": 30497,
+    "name": "network_admission_control_manager_and_server_system_software",
+    "version": "3.6.2",
+    "created_at": "2010-12-28T16:28:37",
+    "updated_at": "2010-12-28T16:28:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:network_admission_control_manager_and_server_system_software:3.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

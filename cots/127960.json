@@ -1,0 +1,10 @@
+{
+    "id": 127960,
+    "name": "quadro_m5500",
+    "version": "-",
+    "created_at": "2017-04-21T16:55:53",
+    "updated_at": "2017-04-21T16:55:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:quadro_m5500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

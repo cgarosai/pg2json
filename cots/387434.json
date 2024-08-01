@@ -1,0 +1,10 @@
+{
+    "id": 387434,
+    "name": "http-proxy",
+    "version": "0.7.2",
+    "created_at": "2019-09-24T12:54:35",
+    "updated_at": "2019-09-24T12:54:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http-proxy_project:http-proxy:0.7.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

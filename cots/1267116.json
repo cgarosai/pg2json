@@ -1,0 +1,10 @@
+{
+    "id": 1267116,
+    "name": "nuget",
+    "version": "4.9.0",
+    "created_at": "2024-03-07T15:22:51",
+    "updated_at": "2024-03-07T15:22:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:nuget:4.9.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

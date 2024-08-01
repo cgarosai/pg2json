@@ -1,0 +1,10 @@
+{
+    "id": 518854,
+    "name": "psutil",
+    "version": "1.0.0",
+    "created_at": "2020-03-19T16:18:18",
+    "updated_at": "2020-03-19T16:18:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:psutil_project:psutil:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

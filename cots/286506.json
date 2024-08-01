@@ -1,0 +1,10 @@
+{
+    "id": 286506,
+    "name": "msc800_firmware",
+    "version": "-",
+    "created_at": "2019-07-03T10:34:43",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:msc800_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 541254,
+    "name": "typo3",
+    "version": "7.6.26",
+    "created_at": "2020-05-18T13:26:45",
+    "updated_at": "2020-05-18T13:26:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typo3:typo3:7.6.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

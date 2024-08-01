@@ -1,0 +1,10 @@
+{
+    "id": 27190,
+    "name": "http_server",
+    "version": "10.1.2.0.2",
+    "created_at": "2009-06-03T18:01:07",
+    "updated_at": "2009-06-03T18:01:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:http_server:10.1.2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

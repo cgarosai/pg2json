@@ -1,0 +1,10 @@
+{
+    "id": 376188,
+    "name": "musl",
+    "version": "0.9.11",
+    "created_at": "2019-09-18T14:52:28",
+    "updated_at": "2019-09-18T14:52:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:musl-libc:musl:0.9.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

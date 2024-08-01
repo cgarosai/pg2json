@@ -1,0 +1,10 @@
+{
+    "id": 7434,
+    "name": "infrastructure_virtualcenter",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:16:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:infrastructure_virtualcenter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

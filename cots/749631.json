@@ -1,0 +1,10 @@
+{
+    "id": 749631,
+    "name": "script-manager",
+    "version": "0.8.2",
+    "created_at": "2021-07-22T14:56:18",
+    "updated_at": "2021-07-22T16:41:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:script-manager_project:script-manager:0.8.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

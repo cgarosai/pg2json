@@ -1,0 +1,10 @@
+{
+    "id": 1076145,
+    "name": "rnp",
+    "version": "0.10.0",
+    "created_at": "2023-04-27T15:22:28",
+    "updated_at": "2023-06-06T11:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ribose:rnp:0.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

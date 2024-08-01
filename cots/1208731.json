@@ -1,0 +1,10 @@
+{
+    "id": 1208731,
+    "name": "gitlens",
+    "version": "13.0.3",
+    "created_at": "2023-11-30T14:15:27",
+    "updated_at": "2023-11-30T14:15:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitkraken:gitlens:13.0.3:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

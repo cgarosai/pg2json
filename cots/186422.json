@@ -1,0 +1,10 @@
+{
+    "id": 186422,
+    "name": "big-ip_edge",
+    "version": "7140",
+    "created_at": "2018-10-26T11:21:22",
+    "updated_at": "2021-05-14T13:06:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_edge:7140:*:*:*:clients:*:*:*",
+    "to_analyse": false
+}

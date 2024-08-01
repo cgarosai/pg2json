@@ -1,0 +1,10 @@
+{
+    "id": 639931,
+    "name": "community.crypto",
+    "version": "-",
+    "created_at": "2020-12-21T13:48:45",
+    "updated_at": "2020-12-21T13:48:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ansible_collections_project:community.crypto:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 61294,
+    "name": "zoner_antivirus_free",
+    "version": "-",
+    "created_at": "2012-10-24T16:38:16",
+    "updated_at": "2012-10-26T16:22:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoner:zoner_antivirus_free:-:-:*:*:*:android:*:*",
+    "to_analyse": false
+}

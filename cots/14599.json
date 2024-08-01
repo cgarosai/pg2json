@@ -1,0 +1,10 @@
+{
+    "id": 14599,
+    "name": "java_system_application_server",
+    "version": "8.2",
+    "created_at": "2009-01-27T14:36:25",
+    "updated_at": "2009-01-27T14:36:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:java_system_application_server:8.2:*:windows:*:*:*:*:*",
+    "to_analyse": false
+}

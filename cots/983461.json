@@ -1,0 +1,10 @@
+{
+    "id": 983461,
+    "name": "protobuf-java",
+    "version": "4.0.0",
+    "created_at": "2022-12-13T19:07:57",
+    "updated_at": "2022-12-13T19:28:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:protobuf-java:4.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 151539,
+    "name": "jaspersoft",
+    "version": "6.4.2",
+    "created_at": "2018-05-25T19:34:59",
+    "updated_at": "2021-08-10T11:17:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:jaspersoft:6.4.2:*:*:*:*:aws_with_multi-tenancy:*:*",
+    "to_analyse": false
+}

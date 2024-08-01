@@ -1,0 +1,10 @@
+{
+    "id": 89740,
+    "name": "s3_video",
+    "version": "0.981",
+    "created_at": "2014-01-09T17:09:53",
+    "updated_at": "2014-02-20T23:22:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anthony_mills:s3_video:0.981:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

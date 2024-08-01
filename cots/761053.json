@@ -1,0 +1,10 @@
+{
+    "id": 761053,
+    "name": "nb1800_firmware",
+    "version": "-",
+    "created_at": "2021-08-26T14:47:16",
+    "updated_at": "2021-08-26T17:07:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netmodule:nb1800_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

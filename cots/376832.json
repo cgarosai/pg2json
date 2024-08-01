@@ -1,0 +1,10 @@
+{
+    "id": 376832,
+    "name": "gps_tracking_software",
+    "version": "3.3",
+    "created_at": "2019-09-18T16:05:23",
+    "updated_at": "2019-09-18T16:05:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gps-server:gps_tracking_software:3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

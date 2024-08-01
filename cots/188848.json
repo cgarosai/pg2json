@@ -1,0 +1,10 @@
+{
+    "id": 188848,
+    "name": "netwide_assembler",
+    "version": "2.08",
+    "created_at": "2018-10-31T10:45:12",
+    "updated_at": "2018-10-31T10:45:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nasm:netwide_assembler:2.08:rc8:*:*:*:*:*:*",
+    "to_analyse": false
+}

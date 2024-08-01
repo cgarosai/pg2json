@@ -1,0 +1,10 @@
+{
+    "id": 1096469,
+    "name": "emby.releases",
+    "version": "4.8.0.12",
+    "created_at": "2023-06-05T13:33:10",
+    "updated_at": "2023-06-05T15:12:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emby:emby.releases:4.8.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491280,
+    "name": "dk_standard_ethernet_controller",
+    "version": "-",
+    "created_at": "2020-02-24T14:00:05",
+    "updated_at": "2020-02-24T14:00:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:dk_standard_ethernet_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 810315,
+    "name": "emoji_button",
+    "version": "4.2.0",
+    "created_at": "2021-11-30T16:07:34",
+    "updated_at": "2021-11-30T16:46:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emoji_button_project:emoji_button:4.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

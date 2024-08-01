@@ -1,0 +1,10 @@
+{
+    "id": 637518,
+    "name": "mx900_firmware",
+    "version": "30251000",
+    "created_at": "2020-12-15T17:32:10",
+    "updated_at": "2020-12-15T17:32:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:verifone:mx900_firmware:30251000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1224137,
+    "name": "postfix",
+    "version": "3.7.0",
+    "created_at": "2024-01-04T15:25:02",
+    "updated_at": "2024-01-04T15:25:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postfix:postfix:3.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

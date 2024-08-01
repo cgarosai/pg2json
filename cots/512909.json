@@ -1,0 +1,10 @@
+{
+    "id": 512909,
+    "name": "kylin",
+    "version": "1.5.2",
+    "created_at": "2020-03-30T10:06:51",
+    "updated_at": "2020-03-30T10:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:kylin:1.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

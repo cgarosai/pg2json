@@ -1,0 +1,10 @@
+{
+    "id": 559497,
+    "name": "antivirus_2020",
+    "version": "1.0.17.178",
+    "created_at": "2020-06-10T14:26:07",
+    "updated_at": "2020-06-10T14:26:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitdefender:antivirus_2020:1.0.17.178:*:*:*:free:*:*:*",
+    "to_analyse": false
+}

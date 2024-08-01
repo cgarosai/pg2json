@@ -1,0 +1,10 @@
+{
+    "id": 1228778,
+    "name": "er450_firmware",
+    "version": "-",
+    "created_at": "2023-12-27T13:51:46",
+    "updated_at": "2023-12-27T13:51:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:er450_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

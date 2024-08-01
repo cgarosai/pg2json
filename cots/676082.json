@@ -1,0 +1,10 @@
+{
+    "id": 676082,
+    "name": "arm-trusted-firmware",
+    "version": "2.3",
+    "created_at": "2021-03-12T14:09:01",
+    "updated_at": "2021-03-23T16:05:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arm:arm-trusted-firmware:2.3:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

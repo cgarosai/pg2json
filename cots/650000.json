@@ -1,0 +1,10 @@
+{
+    "id": 650000,
+    "name": "openserver",
+    "version": "5.0.7",
+    "created_at": "2021-01-19T19:16:16",
+    "updated_at": "2021-01-19T19:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xinuos:openserver:5.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

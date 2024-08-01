@@ -1,0 +1,10 @@
+{
+    "id": 858293,
+    "name": "event_management",
+    "version": "1.0",
+    "created_at": "2022-03-07T17:34:08",
+    "updated_at": "2022-03-18T17:07:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:event_management_project:event_management:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

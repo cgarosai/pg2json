@@ -1,0 +1,10 @@
+{
+    "id": 699429,
+    "name": "linux-3.4-sunxi",
+    "version": "-",
+    "created_at": "2021-04-21T17:40:48",
+    "updated_at": "2021-08-16T12:02:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:allwinner:linux-3.4-sunxi:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

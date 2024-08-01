@@ -1,0 +1,10 @@
+{
+    "id": 137405,
+    "name": "pvc2300_firmware",
+    "version": "1.1.2.6",
+    "created_at": "2017-10-26T12:35:19",
+    "updated_at": "2021-08-10T15:30:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:pvc2300_firmware:1.1.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

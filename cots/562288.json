@@ -1,0 +1,10 @@
+{
+    "id": 562288,
+    "name": "servicenow",
+    "version": "jakarta",
+    "created_at": "2020-07-15T13:07:14",
+    "updated_at": "2020-07-15T13:07:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servicenow:servicenow:jakarta:p6:*:*:*:*:*:*",
+    "to_analyse": false
+}

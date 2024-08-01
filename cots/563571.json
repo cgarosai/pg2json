@@ -1,0 +1,10 @@
+{
+    "id": 563571,
+    "name": "rv130_firmware",
+    "version": "1.0.3.14",
+    "created_at": "2020-07-21T09:12:29",
+    "updated_at": "2021-04-22T11:09:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv130_firmware:1.0.3.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

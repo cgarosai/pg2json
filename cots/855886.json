@@ -1,0 +1,10 @@
+{
+    "id": 855886,
+    "name": "hci_baseboard_management_controller",
+    "version": "h700e",
+    "created_at": "2022-03-01T14:54:28",
+    "updated_at": "2023-11-09T12:59:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h700e:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

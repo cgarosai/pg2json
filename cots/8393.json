@@ -1,0 +1,10 @@
+{
+    "id": 8393,
+    "name": "weblogic_integration",
+    "version": "7.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T17:12:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bea:weblogic_integration:7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

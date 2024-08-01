@@ -1,0 +1,10 @@
+{
+    "id": 405856,
+    "name": "sails",
+    "version": "0.8.83",
+    "created_at": "2019-10-08T14:23:32",
+    "updated_at": "2019-10-08T14:23:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sailsjs:sails:0.8.83:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

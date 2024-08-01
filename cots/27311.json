@@ -1,0 +1,10 @@
+{
+    "id": 27311,
+    "name": "iphone_os",
+    "version": "2.2",
+    "created_at": "2009-06-22T10:18:23",
+    "updated_at": "2010-08-09T20:08:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:iphone_os:2.2:-:ipodtouch:*:*:*:*:*",
+    "to_analyse": false
+}

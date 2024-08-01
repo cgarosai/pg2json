@@ -1,0 +1,10 @@
+{
+    "id": 639450,
+    "name": "tanzu_application_service_for_vms",
+    "version": "2.5.14",
+    "created_at": "2020-12-18T17:57:38",
+    "updated_at": "2020-12-18T17:57:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:tanzu_application_service_for_vms:2.5.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

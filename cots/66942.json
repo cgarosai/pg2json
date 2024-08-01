@@ -1,0 +1,10 @@
+{
+    "id": 66942,
+    "name": "uc_views",
+    "version": "6.x-3.x",
+    "created_at": "2012-08-15T16:57:17",
+    "updated_at": "2012-08-20T15:06:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubercart_views_project:uc_views:6.x-3.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

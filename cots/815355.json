@@ -1,0 +1,10 @@
+{
+    "id": 815355,
+    "name": "9260_firmware",
+    "version": "-",
+    "created_at": "2021-11-19T16:09:30",
+    "updated_at": "2021-12-03T17:58:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:9260_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

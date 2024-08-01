@@ -1,0 +1,10 @@
+{
+    "id": 950040,
+    "name": "fortress_ssh",
+    "version": "5.0",
+    "created_at": "2022-10-24T10:24:07",
+    "updated_at": "2022-10-24T10:26:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pragmasys:fortress_ssh:5.0:build9_revision1715:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 432358,
+    "name": "azure-umqtt-c",
+    "version": "2017-01-27",
+    "created_at": "2019-11-20T13:16:06",
+    "updated_at": "2019-11-20T13:16:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure-umqtt-c:2017-01-27:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

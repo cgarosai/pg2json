@@ -1,0 +1,10 @@
+{
+    "id": 27854,
+    "name": "nexus_7000",
+    "version": "-",
+    "created_at": "2009-09-09T16:17:35",
+    "updated_at": "2012-02-17T19:50:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_7000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 905207,
+    "name": "bigbluebutton",
+    "version": "2.5",
+    "created_at": "2022-07-06T11:37:36",
+    "updated_at": "2022-07-06T11:39:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bigbluebutton:bigbluebutton:2.5:rc.3:*:*:*:*:*:*",
+    "to_analyse": false
+}

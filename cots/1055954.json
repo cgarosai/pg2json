@@ -1,0 +1,10 @@
+{
+    "id": 1055954,
+    "name": "ruggedcom_crossbow",
+    "version": "5.3",
+    "created_at": "2023-03-17T13:01:47",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:ruggedcom_crossbow:5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

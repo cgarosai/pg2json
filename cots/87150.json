@@ -1,0 +1,10 @@
+{
+    "id": 87150,
+    "name": "documentum_administrator",
+    "version": "6.7",
+    "created_at": "2013-11-06T17:37:15",
+    "updated_at": "2014-08-27T23:42:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:documentum_administrator:6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

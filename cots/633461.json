@@ -1,0 +1,10 @@
+{
+    "id": 633461,
+    "name": "predefine",
+    "version": "0.0.0",
+    "created_at": "2021-01-04T14:46:14",
+    "updated_at": "2021-01-04T14:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:predefine_project:predefine:0.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

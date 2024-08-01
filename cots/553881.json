@@ -1,0 +1,10 @@
+{
+    "id": 553881,
+    "name": "conductor",
+    "version": "2.10.0",
+    "created_at": "2020-06-23T13:42:10",
+    "updated_at": "2020-06-23T13:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netflix:conductor:2.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

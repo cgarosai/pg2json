@@ -1,0 +1,10 @@
+{
+    "id": 865028,
+    "name": "jasperreports_server",
+    "version": "7.9.0",
+    "created_at": "2022-03-21T14:37:08",
+    "updated_at": "2022-05-27T01:44:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:jasperreports_server:7.9.0:*:*:*:*:microsoft_azure:*:*",
+    "to_analyse": false
+}

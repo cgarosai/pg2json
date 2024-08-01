@@ -1,0 +1,10 @@
+{
+    "id": 388113,
+    "name": "roundcube",
+    "version": "1.0.7",
+    "created_at": "2019-09-24T15:17:07",
+    "updated_at": "2022-03-10T13:32:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:roundcube:roundcube:1.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

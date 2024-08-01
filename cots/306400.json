@@ -1,0 +1,10 @@
+{
+    "id": 306400,
+    "name": "scapy",
+    "version": "1.0.4.41",
+    "created_at": "2019-07-19T10:02:15",
+    "updated_at": "2019-07-19T10:02:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scapy:scapy:1.0.4.41:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

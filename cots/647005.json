@@ -1,0 +1,10 @@
+{
+    "id": 647005,
+    "name": "secure_mail",
+    "version": "-",
+    "created_at": "2021-01-11T12:51:37",
+    "updated_at": "2021-01-11T12:51:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:secure_mail:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

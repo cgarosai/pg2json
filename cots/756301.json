@@ -1,0 +1,10 @@
+{
+    "id": 756301,
+    "name": "i2_analyze",
+    "version": "4.3.0",
+    "created_at": "2021-07-30T14:54:41",
+    "updated_at": "2021-09-23T15:55:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:i2_analyze:4.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

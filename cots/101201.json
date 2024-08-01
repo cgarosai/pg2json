@@ -1,0 +1,10 @@
+{
+    "id": 101201,
+    "name": "splunk",
+    "version": "6.1.6",
+    "created_at": "2015-08-19T16:04:47",
+    "updated_at": "2015-08-21T23:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splunk:splunk:6.1.6:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

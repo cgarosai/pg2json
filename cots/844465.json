@@ -1,0 +1,10 @@
+{
+    "id": 844465,
+    "name": "baseboard_management_controller_h700s",
+    "version": "-",
+    "created_at": "2022-02-23T10:38:24",
+    "updated_at": "2023-11-09T12:57:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:netapp:baseboard_management_controller_h700s:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

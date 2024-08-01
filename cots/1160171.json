@@ -1,0 +1,10 @@
+{
+    "id": 1160171,
+    "name": "emc_xc_core_xc740xd2_firmware",
+    "version": "2.18.1",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_xc_core_xc740xd2_firmware:2.18.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 291539,
+    "name": "two-factor-authentication",
+    "version": "1.2.23",
+    "created_at": "2019-07-17T10:29:17",
+    "updated_at": "2019-07-17T10:29:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simbahosting:two-factor-authentication:1.2.23:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491387,
+    "name": "simatic_rf180c_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T14:00:59",
+    "updated_at": "2020-02-24T14:00:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_rf180c_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

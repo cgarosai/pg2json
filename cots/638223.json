@@ -1,0 +1,10 @@
+{
+    "id": 638223,
+    "name": "the_scheduler",
+    "version": "4.3.0",
+    "created_at": "2020-12-17T12:17:28",
+    "updated_at": "2020-12-17T12:17:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ttpsc:the_scheduler:4.3.0:*:*:*:*:jira:*:*",
+    "to_analyse": false
+}

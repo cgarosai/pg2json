@@ -1,0 +1,10 @@
+{
+    "id": 935844,
+    "name": "mds_9718_firmware",
+    "version": "-",
+    "created_at": "2022-08-31T13:24:43",
+    "updated_at": "2022-09-20T18:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:mds_9718_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

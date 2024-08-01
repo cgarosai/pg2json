@@ -1,0 +1,10 @@
+{
+    "id": 74586,
+    "name": "icewall_sso_agent",
+    "version": "10.0",
+    "created_at": "2013-09-23T16:34:39",
+    "updated_at": "2014-02-21T15:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:icewall_sso_agent:10.0:*:*:*:standard:windows:*:*",
+    "to_analyse": false
+}

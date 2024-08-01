@@ -1,0 +1,10 @@
+{
+    "id": 897676,
+    "name": "django-s3file",
+    "version": "5.0.1",
+    "created_at": "2022-06-13T15:04:02",
+    "updated_at": "2022-06-17T12:38:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-s3file_project:django-s3file:5.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

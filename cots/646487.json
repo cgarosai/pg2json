@@ -1,0 +1,10 @@
+{
+    "id": 646487,
+    "name": "futures-task",
+    "version": "0.3.6",
+    "created_at": "2021-01-08T14:16:12",
+    "updated_at": "2021-01-08T14:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:futures-task:0.3.6:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

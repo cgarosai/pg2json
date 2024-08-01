@@ -1,0 +1,10 @@
+{
+    "id": 242789,
+    "name": "build-publisher",
+    "version": "1.14",
+    "created_at": "2019-06-05T11:38:32",
+    "updated_at": "2019-06-05T11:38:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:build-publisher:1.14:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

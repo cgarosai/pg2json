@@ -1,0 +1,10 @@
+{
+    "id": 598806,
+    "name": "rpki_validator_3",
+    "version": "3.1-2020.07.06.14.28",
+    "created_at": "2020-09-11T13:19:29",
+    "updated_at": "2020-09-11T13:19:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ripe:rpki_validator_3:3.1-2020.07.06.14.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

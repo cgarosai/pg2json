@@ -1,0 +1,10 @@
+{
+    "id": 876580,
+    "name": "playbooks",
+    "version": "0.6.0",
+    "created_at": "2022-04-19T11:46:19",
+    "updated_at": "2022-04-19T13:46:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mattermost:playbooks:0.6.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

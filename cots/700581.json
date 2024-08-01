@@ -1,0 +1,10 @@
+{
+    "id": 700581,
+    "name": "rss_for_yandex_turbo",
+    "version": "1.20",
+    "created_at": "2021-05-20T12:46:25",
+    "updated_at": "2021-05-24T18:00:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpuslugi:rss_for_yandex_turbo:1.20:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

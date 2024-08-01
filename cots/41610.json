@@ -1,0 +1,10 @@
+{
+    "id": 41610,
+    "name": "it_operations_analyzer",
+    "version": "02-53-02",
+    "created_at": "2012-01-25T18:04:21",
+    "updated_at": "2012-08-20T16:29:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:it_operations_analyzer:02-53-02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 585633,
+    "name": "ac_3168_firmware",
+    "version": "-",
+    "created_at": "2020-08-14T11:01:59",
+    "updated_at": "2021-05-03T17:03:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ac_3168_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

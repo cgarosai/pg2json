@@ -1,0 +1,10 @@
+{
+    "id": 349036,
+    "name": "zt220_firmware",
+    "version": "-",
+    "created_at": "2019-08-26T11:37:32",
+    "updated_at": "2021-05-13T16:00:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zebra:zt220_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

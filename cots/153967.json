@@ -1,0 +1,10 @@
+{
+    "id": 153967,
+    "name": "plug_and_play_auditor",
+    "version": "5.72",
+    "created_at": "2018-06-14T13:36:42",
+    "updated_at": "2023-08-19T01:58:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devicelock:plug_and_play_auditor:5.72:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

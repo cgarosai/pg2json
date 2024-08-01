@@ -1,0 +1,10 @@
+{
+    "id": 725630,
+    "name": "mobaxterm",
+    "version": "8.1",
+    "created_at": "2021-06-09T13:44:40",
+    "updated_at": "2021-06-09T14:50:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobatek:mobaxterm:8.1:*:*:*:home:*:*:*",
+    "to_analyse": false
+}

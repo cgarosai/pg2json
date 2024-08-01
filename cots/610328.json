@@ -1,0 +1,10 @@
+{
+    "id": 610328,
+    "name": "dbschemareader",
+    "version": "2.7.1.4",
+    "created_at": "2020-11-17T13:55:43",
+    "updated_at": "2020-11-17T14:21:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:databaseschemaviewer_project:dbschemareader:2.7.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

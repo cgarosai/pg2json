@@ -1,0 +1,10 @@
+{
+    "id": 650074,
+    "name": "zing",
+    "version": "8",
+    "created_at": "2021-02-11T15:10:33",
+    "updated_at": "2021-02-11T15:10:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:azul:zing:8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

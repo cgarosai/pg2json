@@ -1,0 +1,10 @@
+{
+    "id": 835047,
+    "name": "gdal",
+    "version": "3.4.0",
+    "created_at": "2022-01-10T16:23:08",
+    "updated_at": "2022-01-10T18:35:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osgeo:gdal:3.4.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 483366,
+    "name": "dot-prop",
+    "version": "5.2.0",
+    "created_at": "2020-02-06T19:53:46",
+    "updated_at": "2020-02-06T19:53:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dot-prop_project:dot-prop:5.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

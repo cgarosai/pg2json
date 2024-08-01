@@ -1,0 +1,10 @@
+{
+    "id": 123261,
+    "name": "nessus",
+    "version": "6.7",
+    "created_at": "2017-08-21T16:09:26",
+    "updated_at": "2017-08-21T16:09:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tenable:nessus:6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

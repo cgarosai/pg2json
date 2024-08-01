@@ -1,0 +1,10 @@
+{
+    "id": 635682,
+    "name": "edge",
+    "version": "-",
+    "created_at": "2020-12-11T14:30:57",
+    "updated_at": "2020-12-11T14:30:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

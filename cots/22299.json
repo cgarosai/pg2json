@@ -1,0 +1,10 @@
+{
+    "id": 22299,
+    "name": "centos",
+    "version": "5",
+    "created_at": "2010-04-19T15:33:47",
+    "updated_at": "2010-04-19T15:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:centos:centos:5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

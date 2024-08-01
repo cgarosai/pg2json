@@ -1,0 +1,10 @@
+{
+    "id": 465595,
+    "name": "eda_agent",
+    "version": "10.2.26",
+    "created_at": "2019-12-13T14:30:38",
+    "updated_at": "2019-12-13T14:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eracent:eda_agent:10.2.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

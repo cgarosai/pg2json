@@ -1,0 +1,10 @@
+{
+    "id": 813518,
+    "name": "goautodial_api",
+    "version": "2",
+    "created_at": "2021-12-08T17:02:05",
+    "updated_at": "2021-12-22T18:16:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goautodial:goautodial_api:2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

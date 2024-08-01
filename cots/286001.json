@@ -1,0 +1,10 @@
+{
+    "id": 286001,
+    "name": "fal_sftp",
+    "version": "1.0.0",
+    "created_at": "2019-07-02T13:19:18",
+    "updated_at": "2019-07-02T13:19:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fal_sftp_project:fal_sftp:1.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

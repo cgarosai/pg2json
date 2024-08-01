@@ -1,0 +1,10 @@
+{
+    "id": 97764,
+    "name": "sametime_proxy_server_and_web_client",
+    "version": "9.0.0.0",
+    "created_at": "2014-05-27T14:33:28",
+    "updated_at": "2014-05-27T14:34:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sametime_proxy_server_and_web_client:9.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

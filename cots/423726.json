@@ -1,0 +1,10 @@
+{
+    "id": 423726,
+    "name": "cloud_access_manager",
+    "version": "-",
+    "created_at": "2019-11-08T13:24:15",
+    "updated_at": "2019-11-08T13:24:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oneidentity:cloud_access_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

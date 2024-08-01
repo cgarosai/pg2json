@@ -1,0 +1,10 @@
+{
+    "id": 564689,
+    "name": "nova_3e_firmware",
+    "version": "8.0.0.168\\(c432\\)",
+    "created_at": "2020-07-23T15:38:40",
+    "updated_at": "2020-07-23T15:38:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nova_3e_firmware:8.0.0.168\\(c432\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

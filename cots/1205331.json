@@ -1,0 +1,10 @@
+{
+    "id": 1205331,
+    "name": "px4_drone_autopilot",
+    "version": "1.14.0",
+    "created_at": "2023-11-26T23:13:03",
+    "updated_at": "2023-11-26T23:13:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dronecode:px4_drone_autopilot:1.14.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

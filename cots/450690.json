@@ -1,0 +1,10 @@
+{
+    "id": 450690,
+    "name": "chromedriver126",
+    "version": "1.0.14",
+    "created_at": "2019-12-09T18:18:07",
+    "updated_at": "2019-12-09T18:18:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chromedriver126_project:chromedriver126:1.0.14:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

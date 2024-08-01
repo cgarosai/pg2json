@@ -1,0 +1,10 @@
+{
+    "id": 488568,
+    "name": "n200re_firmware",
+    "version": "-",
+    "created_at": "2020-02-03T14:25:08",
+    "updated_at": "2021-05-27T16:57:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:totolink:n200re_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

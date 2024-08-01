@@ -1,0 +1,10 @@
+{
+    "id": 506331,
+    "name": "cloud_optix",
+    "version": "-",
+    "created_at": "2020-03-02T17:57:12",
+    "updated_at": "2021-08-16T16:34:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:cloud_optix:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

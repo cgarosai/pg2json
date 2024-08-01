@@ -1,0 +1,10 @@
+{
+    "id": 752382,
+    "name": "seo_backlinks",
+    "version": "-",
+    "created_at": "2021-08-09T17:19:57",
+    "updated_at": "2021-08-31T13:59:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seo_backlinks_project:seo_backlinks:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

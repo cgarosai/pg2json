@@ -1,0 +1,10 @@
+{
+    "id": 94493,
+    "name": "jquery_ui",
+    "version": "1.10.0",
+    "created_at": "2014-11-24T17:00:03",
+    "updated_at": "2023-06-21T15:50:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jquery:jquery_ui:1.10.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

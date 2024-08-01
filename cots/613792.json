@@ -1,0 +1,10 @@
+{
+    "id": 613792,
+    "name": "msf_emby",
+    "version": "4.5.0",
+    "created_at": "2020-11-19T15:39:14",
+    "updated_at": "2023-01-09T21:20:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:msf_emby_project:msf_emby:4.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

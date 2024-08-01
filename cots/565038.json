@@ -1,0 +1,10 @@
+{
+    "id": 565038,
+    "name": "archiva",
+    "version": "2.0.0",
+    "created_at": "2020-06-24T15:13:17",
+    "updated_at": "2020-06-24T15:13:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:archiva:2.0.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

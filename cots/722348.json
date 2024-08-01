@@ -1,0 +1,10 @@
+{
+    "id": 722348,
+    "name": "data-connector-rock",
+    "version": "1.4.4",
+    "created_at": "2021-06-24T09:31:54",
+    "updated_at": "2021-06-24T09:53:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apollosapp:data-connector-rock:1.4.4:alpha25:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

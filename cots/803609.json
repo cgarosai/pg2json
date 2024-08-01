@@ -1,0 +1,10 @@
+{
+    "id": 803609,
+    "name": "epyc_74f3_firmware",
+    "version": "-",
+    "created_at": "2021-11-18T13:29:23",
+    "updated_at": "2021-11-18T17:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_74f3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

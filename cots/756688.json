@@ -1,0 +1,10 @@
+{
+    "id": 756688,
+    "name": "dm_fingertool",
+    "version": "1.19",
+    "created_at": "2021-07-30T22:57:30",
+    "updated_at": "2022-09-07T17:51:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dm_fingertool_project:dm_fingertool:1.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

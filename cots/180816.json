@@ -1,0 +1,10 @@
+{
+    "id": 180816,
+    "name": "subscription_management_tool",
+    "version": "3.0.29",
+    "created_at": "2018-11-08T15:12:27",
+    "updated_at": "2018-11-08T15:12:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:subscription_management_tool:3.0.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

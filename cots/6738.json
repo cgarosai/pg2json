@@ -1,0 +1,10 @@
+{
+    "id": 6738,
+    "name": "mysql_eventum",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:16:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysql:mysql_eventum:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

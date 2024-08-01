@@ -1,0 +1,10 @@
+{
+    "id": 959082,
+    "name": "nunit",
+    "version": "-",
+    "created_at": "2022-10-20T15:10:03",
+    "updated_at": "2022-10-20T16:13:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:nunit:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

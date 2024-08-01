@@ -1,0 +1,10 @@
+{
+    "id": 13097,
+    "name": "netbackup_enterprise_server",
+    "version": "6.5",
+    "created_at": "2008-10-01T12:06:44",
+    "updated_at": "2008-10-01T12:06:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:netbackup_enterprise_server:6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

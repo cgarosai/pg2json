@@ -1,0 +1,10 @@
+{
+    "id": 193573,
+    "name": "d6500_firmware",
+    "version": "2.2",
+    "created_at": "2019-01-22T18:19:04",
+    "updated_at": "2021-03-29T12:46:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ricoh:d6500_firmware:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

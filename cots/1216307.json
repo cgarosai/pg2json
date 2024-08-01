@@ -1,0 +1,10 @@
+{
+    "id": 1216307,
+    "name": "assets_discovery_data_server",
+    "version": "6.2.0",
+    "created_at": "2023-12-11T13:42:06",
+    "updated_at": "2023-12-11T13:42:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:assets_discovery_data_server:6.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

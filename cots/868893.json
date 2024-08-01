@@ -1,0 +1,10 @@
+{
+    "id": 868893,
+    "name": "r8500_firmware",
+    "version": "1.0.2.158",
+    "created_at": "2022-03-30T15:55:30",
+    "updated_at": "2022-10-04T16:26:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r8500_firmware:1.0.2.158:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

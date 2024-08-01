@@ -1,0 +1,10 @@
+{
+    "id": 1229936,
+    "name": "tapo_c100_firmware",
+    "version": "1.1.15",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:tapo_c100_firmware:1.1.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

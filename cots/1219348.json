@@ -1,0 +1,10 @@
+{
+    "id": 1219348,
+    "name": "elastic_beats",
+    "version": "8.9.2",
+    "created_at": "2023-12-15T17:23:18",
+    "updated_at": "2023-12-15T17:23:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:elastic_beats:8.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

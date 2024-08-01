@@ -1,0 +1,10 @@
+{
+    "id": 589873,
+    "name": "led_manager_for_nuc",
+    "version": "-",
+    "created_at": "2020-08-21T14:29:24",
+    "updated_at": "2020-08-21T14:29:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:led_manager_for_nuc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1076341,
+    "name": "wechat_robot",
+    "version": "5.2.4",
+    "created_at": "2023-04-27T17:14:05",
+    "updated_at": "2023-05-03T17:10:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpjam:wechat_robot:5.2.4:*:*:*:premium:wordpress:*:*",
+    "to_analyse": false
+}

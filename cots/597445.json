@@ -1,0 +1,10 @@
+{
+    "id": 597445,
+    "name": "koala",
+    "version": "-",
+    "created_at": "2020-09-09T12:50:13",
+    "updated_at": "2020-09-09T12:50:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:megvii:koala:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

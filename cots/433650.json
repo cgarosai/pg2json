@@ -1,0 +1,10 @@
+{
+    "id": 433650,
+    "name": "phpbb",
+    "version": "3.1.7",
+    "created_at": "2019-11-21T12:07:04",
+    "updated_at": "2019-11-21T12:07:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpbb:phpbb:3.1.7:patch_level1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 630283,
+    "name": "dbdeployer",
+    "version": "1.21.0",
+    "created_at": "2020-12-22T13:15:58",
+    "updated_at": "2020-12-22T13:15:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dbdeployer:dbdeployer:1.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

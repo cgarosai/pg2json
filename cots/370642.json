@@ -1,0 +1,10 @@
+{
+    "id": 370642,
+    "name": "exceljs",
+    "version": "0.6.2",
+    "created_at": "2019-09-20T12:19:11",
+    "updated_at": "2019-09-20T12:19:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exceljs_project:exceljs:0.6.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

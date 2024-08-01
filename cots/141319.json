@@ -1,0 +1,10 @@
+{
+    "id": 141319,
+    "name": "desktop_linux_client",
+    "version": "5.2r9.2",
+    "created_at": "2018-05-02T14:27:21",
+    "updated_at": "2021-04-23T10:41:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:desktop_linux_client:5.2r9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

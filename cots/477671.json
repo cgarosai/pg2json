@@ -1,0 +1,10 @@
+{
+    "id": 477671,
+    "name": "password_manager",
+    "version": "3.6",
+    "created_at": "2020-01-13T17:06:19",
+    "updated_at": "2020-01-13T17:06:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:password_manager:3.6:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

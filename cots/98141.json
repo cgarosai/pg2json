@@ -1,0 +1,10 @@
+{
+    "id": 98141,
+    "name": "endpoint_protector",
+    "version": "4.3.0.4",
+    "created_at": "2014-06-03T08:46:33",
+    "updated_at": "2014-06-03T16:32:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cososys:endpoint_protector:4.3.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

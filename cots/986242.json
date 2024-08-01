@@ -1,0 +1,10 @@
+{
+    "id": 986242,
+    "name": "mqtt-packet",
+    "version": "6.7.0",
+    "created_at": "2022-12-06T17:58:13",
+    "updated_at": "2022-12-06T17:59:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mqtt-packet_project:mqtt-packet:6.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

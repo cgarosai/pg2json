@@ -1,0 +1,10 @@
+{
+    "id": 135065,
+    "name": "lightdm",
+    "version": "1.16.2",
+    "created_at": "2017-09-19T15:51:11",
+    "updated_at": "2017-09-19T15:51:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightdm_project:lightdm:1.16.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

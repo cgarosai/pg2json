@@ -1,0 +1,10 @@
+{
+    "id": 219058,
+    "name": "simatic_ipc427d_firmware",
+    "version": "17.0x.14",
+    "created_at": "2019-03-19T12:20:33",
+    "updated_at": "2021-05-26T12:43:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_ipc427d_firmware:17.0x.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

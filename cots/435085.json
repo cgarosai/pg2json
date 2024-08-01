@@ -1,0 +1,10 @@
+{
+    "id": 435085,
+    "name": "mysql_connector\\/net",
+    "version": "6.10.0",
+    "created_at": "2019-11-12T12:39:40",
+    "updated_at": "2019-11-12T12:39:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_connector\\/net:6.10.0:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

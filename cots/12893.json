@@ -1,0 +1,10 @@
+{
+    "id": 12893,
+    "name": "libxml2",
+    "version": "2.3.9",
+    "created_at": "2008-09-05T18:13:10",
+    "updated_at": "2010-11-19T17:32:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xmlsoft:libxml2:2.3.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

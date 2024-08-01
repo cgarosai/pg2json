@@ -1,0 +1,10 @@
+{
+    "id": 894166,
+    "name": "salt",
+    "version": "3003",
+    "created_at": "2022-06-30T14:37:56",
+    "updated_at": "2022-07-01T11:33:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:saltstack:salt:3003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

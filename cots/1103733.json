@@ -1,0 +1,10 @@
+{
+    "id": 1103733,
+    "name": "terraform_enterprise",
+    "version": "202305-2",
+    "created_at": "2023-07-03T12:28:15",
+    "updated_at": "2023-07-05T12:13:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:terraform_enterprise:202305-2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

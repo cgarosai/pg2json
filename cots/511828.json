@@ -1,0 +1,10 @@
+{
+    "id": 511828,
+    "name": "xeon_e5-2448l",
+    "version": "-",
+    "created_at": "2020-03-26T12:41:45",
+    "updated_at": "2020-03-26T12:41:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5-2448l:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

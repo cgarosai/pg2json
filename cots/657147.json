@@ -1,0 +1,10 @@
+{
+    "id": 657147,
+    "name": "reffers",
+    "version": "2020-12-01",
+    "created_at": "2021-02-05T19:53:29",
+    "updated_at": "2021-02-05T19:53:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:reffers_project:reffers:2020-12-01:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

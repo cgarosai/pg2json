@@ -1,0 +1,10 @@
+{
+    "id": 10353,
+    "name": "207w_network_camera",
+    "version": "-",
+    "created_at": "2007-09-19T15:49:06",
+    "updated_at": "2008-04-01T12:36:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:axis:207w_network_camera:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

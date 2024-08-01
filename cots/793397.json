@@ -1,0 +1,10 @@
+{
+    "id": 793397,
+    "name": "virtual_gpu",
+    "version": "13.0",
+    "created_at": "2021-11-01T12:43:29",
+    "updated_at": "2021-11-01T16:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:virtual_gpu:13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

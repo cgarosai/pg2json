@@ -1,0 +1,10 @@
+{
+    "id": 1077797,
+    "name": "vconsole",
+    "version": "3.1.0",
+    "created_at": "2023-05-02T14:59:33",
+    "updated_at": "2023-05-03T13:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tencent:vconsole:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

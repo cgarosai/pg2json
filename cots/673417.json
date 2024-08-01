@@ -1,0 +1,10 @@
+{
+    "id": 673417,
+    "name": "diva_firmware",
+    "version": "-",
+    "created_at": "2021-03-24T17:54:13",
+    "updated_at": "2021-05-27T11:47:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:spinetix:diva_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

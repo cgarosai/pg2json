@@ -1,0 +1,10 @@
+{
+    "id": 362379,
+    "name": "gogs",
+    "version": "0.12",
+    "created_at": "2019-09-17T12:08:13",
+    "updated_at": "2019-09-17T12:08:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gogs:gogs:0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 164991,
+    "name": "twig",
+    "version": "2.4.6",
+    "created_at": "2018-09-06T11:33:55",
+    "updated_at": "2018-09-06T11:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symfony:twig:2.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

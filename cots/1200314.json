@@ -1,0 +1,10 @@
+{
+    "id": 1200314,
+    "name": "proliant_rl300",
+    "version": "gen_11",
+    "created_at": "2023-12-01T14:29:36",
+    "updated_at": "2023-12-01T14:29:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:proliant_rl300:gen_11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

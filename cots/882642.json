@@ -1,0 +1,10 @@
+{
+    "id": 882642,
+    "name": "smokescreen",
+    "version": "0.0.4",
+    "created_at": "2022-06-06T15:08:28",
+    "updated_at": "2022-07-06T17:24:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stripe:smokescreen:0.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

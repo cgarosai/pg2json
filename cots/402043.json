@@ -1,0 +1,10 @@
+{
+    "id": 402043,
+    "name": "oslo.utils",
+    "version": "1.2.0",
+    "created_at": "2019-10-16T14:56:26",
+    "updated_at": "2019-10-16T14:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:oslo.utils:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

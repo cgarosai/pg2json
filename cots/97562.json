@@ -1,0 +1,10 @@
+{
+    "id": 97562,
+    "name": "x2go_server",
+    "version": "4.0.1.10",
+    "created_at": "2014-05-21T16:43:32",
+    "updated_at": "2014-05-21T21:43:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x2go:x2go_server:4.0.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

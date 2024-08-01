@@ -1,0 +1,10 @@
+{
+    "id": 168560,
+    "name": "mosquitto",
+    "version": "1.4.15",
+    "created_at": "2018-07-17T15:42:38",
+    "updated_at": "2018-07-17T15:42:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:mosquitto:1.4.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

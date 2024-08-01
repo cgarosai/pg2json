@@ -1,0 +1,10 @@
+{
+    "id": 842149,
+    "name": "xeon_w-1350_firmware",
+    "version": "-",
+    "created_at": "2022-02-15T17:36:46",
+    "updated_at": "2022-03-01T13:01:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_w-1350_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

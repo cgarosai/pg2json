@@ -1,0 +1,10 @@
+{
+    "id": 1010544,
+    "name": "mailenable",
+    "version": "10.22",
+    "created_at": "2023-01-20T14:23:55",
+    "updated_at": "2023-01-23T14:14:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailenable:mailenable:10.22:*:*:*:standard:*:*:*",
+    "to_analyse": false
+}

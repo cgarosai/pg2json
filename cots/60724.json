@@ -1,0 +1,10 @@
+{
+    "id": 60724,
+    "name": "spam_\\&_virus_firewall_600",
+    "version": "-",
+    "created_at": "2012-10-09T15:35:12",
+    "updated_at": "2012-10-12T11:32:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:barracudanetworks:spam_\\&_virus_firewall_600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

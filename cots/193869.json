@@ -1,0 +1,10 @@
+{
+    "id": 193869,
+    "name": "thinkpad_x230_firmware",
+    "version": "-",
+    "created_at": "2019-01-25T19:00:44",
+    "updated_at": "2021-05-05T13:16:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_x230_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

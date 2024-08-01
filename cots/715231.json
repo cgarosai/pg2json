@@ -1,0 +1,10 @@
+{
+    "id": 715231,
+    "name": "bosh-azure-cpi",
+    "version": "35.5.2",
+    "created_at": "2021-05-27T12:14:10",
+    "updated_at": "2021-05-27T12:18:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:bosh-azure-cpi:35.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

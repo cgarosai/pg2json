@@ -1,0 +1,10 @@
+{
+    "id": 703201,
+    "name": "websvn",
+    "version": "2.5",
+    "created_at": "2021-05-24T15:14:42",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:websvn:websvn:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

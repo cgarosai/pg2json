@@ -1,0 +1,10 @@
+{
+    "id": 4892,
+    "name": "flash_player",
+    "version": "4.0_r12",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:17:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:macromedia:flash_player:4.0_r12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

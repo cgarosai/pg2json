@@ -1,0 +1,10 @@
+{
+    "id": 100197,
+    "name": "user_import",
+    "version": "6.x-4.2",
+    "created_at": "2015-06-16T18:50:01",
+    "updated_at": "2015-10-08T13:24:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user_import_project:user_import:6.x-4.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

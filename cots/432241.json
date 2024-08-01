@@ -1,0 +1,10 @@
+{
+    "id": 432241,
+    "name": "xeon_5220r_firmware",
+    "version": "-",
+    "created_at": "2019-11-20T13:03:43",
+    "updated_at": "2021-05-04T12:03:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_5220r_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

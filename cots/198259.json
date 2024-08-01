@@ -1,0 +1,10 @@
+{
+    "id": 198259,
+    "name": "cloud_foundry_nfs_volume",
+    "version": "1.7.3",
+    "created_at": "2018-12-28T16:42:14",
+    "updated_at": "2021-04-28T17:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_nfs_volume:1.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

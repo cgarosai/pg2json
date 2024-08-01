@@ -1,0 +1,10 @@
+{
+    "id": 658824,
+    "name": "enterprise_network_disk",
+    "version": "6.1",
+    "created_at": "2021-02-10T12:49:32",
+    "updated_at": "2021-02-10T12:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:enterprise_network_disk:6.1:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

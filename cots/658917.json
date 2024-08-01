@@ -1,0 +1,10 @@
+{
+    "id": 658917,
+    "name": "ng_sms_gateway",
+    "version": "4.2.57",
+    "created_at": "2021-02-10T13:20:44",
+    "updated_at": "2021-02-10T13:43:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ozeki:ng_sms_gateway:4.2.57:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

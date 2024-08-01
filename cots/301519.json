@@ -1,0 +1,10 @@
+{
+    "id": 301519,
+    "name": "median_m800b-msbr_firmware",
+    "version": "f7.20a.251",
+    "created_at": "2019-07-23T12:32:31",
+    "updated_at": "2021-05-18T13:27:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:audiocodes:median_m800b-msbr_firmware:f7.20a.251:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

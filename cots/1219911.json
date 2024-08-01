@@ -1,0 +1,10 @@
+{
+    "id": 1219911,
+    "name": "jq",
+    "version": "1.7-37-g88f01a7",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jqlang:jq:1.7-37-g88f01a7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

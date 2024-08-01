@@ -1,0 +1,10 @@
+{
+    "id": 68256,
+    "name": "multiblock",
+    "version": "7.x-1.x",
+    "created_at": "2012-08-29T17:13:55",
+    "updated_at": "2012-08-31T16:17:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:andrew_levine:multiblock:7.x-1.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

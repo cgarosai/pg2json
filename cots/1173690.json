@@ -1,0 +1,10 @@
+{
+    "id": 1173690,
+    "name": "pleroma",
+    "version": "1.0.6",
+    "created_at": "2023-10-19T15:36:22",
+    "updated_at": "2023-10-19T15:36:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kpherox:pleroma:1.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

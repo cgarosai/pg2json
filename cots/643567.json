@@ -1,0 +1,10 @@
+{
+    "id": 643567,
+    "name": "application_lifecycle_management",
+    "version": "12.60",
+    "created_at": "2021-01-28T21:32:24",
+    "updated_at": "2021-04-09T14:48:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:application_lifecycle_management:12.60:patch4:*:*:*:*:*:*",
+    "to_analyse": false
+}

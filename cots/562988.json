@@ -1,0 +1,10 @@
+{
+    "id": 562988,
+    "name": "endpoint_security",
+    "version": "10.5.6",
+    "created_at": "2020-07-17T12:05:51",
+    "updated_at": "2020-07-17T12:05:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:endpoint_security:10.5.6:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

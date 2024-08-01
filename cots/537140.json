@@ -1,0 +1,10 @@
+{
+    "id": 537140,
+    "name": "fortiadc_firmware",
+    "version": "5.3.4",
+    "created_at": "2020-04-15T15:32:46",
+    "updated_at": "2020-04-15T15:32:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fortiadc_firmware:5.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

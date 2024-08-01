@@ -1,0 +1,10 @@
+{
+    "id": 198875,
+    "name": "analysis_center",
+    "version": "2.5.0",
+    "created_at": "2018-12-31T19:59:15",
+    "updated_at": "2021-04-09T14:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:analysis_center:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

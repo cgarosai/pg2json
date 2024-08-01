@@ -1,0 +1,10 @@
+{
+    "id": 71366,
+    "name": "3com_router",
+    "version": "3016",
+    "created_at": "2013-07-08T16:58:32",
+    "updated_at": "2013-07-12T15:50:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3com_router:3016:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

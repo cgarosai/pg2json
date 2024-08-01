@@ -1,0 +1,10 @@
+{
+    "id": 195303,
+    "name": "server_board_s2600st",
+    "version": "-",
+    "created_at": "2018-11-28T14:55:30",
+    "updated_at": "2021-04-29T14:18:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:server_board_s2600st:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

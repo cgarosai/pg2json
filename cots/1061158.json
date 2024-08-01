@@ -1,0 +1,10 @@
+{
+    "id": 1061158,
+    "name": "cubefs",
+    "version": "2.4.0",
+    "created_at": "2023-04-18T13:14:44",
+    "updated_at": "2023-04-19T11:01:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:cubefs:2.4.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

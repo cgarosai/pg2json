@@ -1,0 +1,10 @@
+{
+    "id": 419102,
+    "name": "fiori_client",
+    "version": "1.4",
+    "created_at": "2019-10-24T17:01:04",
+    "updated_at": "2019-10-24T17:01:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:fiori_client:1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 956805,
+    "name": "dubbo",
+    "version": "3.1.0",
+    "created_at": "2022-10-19T09:16:33",
+    "updated_at": "2022-10-19T10:03:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:dubbo:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

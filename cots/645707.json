@@ -1,0 +1,10 @@
+{
+    "id": 645707,
+    "name": "obstack",
+    "version": "0.1.4",
+    "created_at": "2021-01-07T12:16:07",
+    "updated_at": "2021-01-07T12:16:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:obstack_project:obstack:0.1.4:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

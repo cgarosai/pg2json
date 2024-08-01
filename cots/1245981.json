@@ -1,0 +1,10 @@
+{
+    "id": 1245981,
+    "name": "skoda_connect",
+    "version": "-",
+    "created_at": "2024-01-25T23:20:41",
+    "updated_at": "2024-01-25T23:20:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:skoda-auto:skoda_connect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

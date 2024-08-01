@@ -1,0 +1,10 @@
+{
+    "id": 62408,
+    "name": "services_twitter",
+    "version": "0.6.3",
+    "created_at": "2012-11-15T17:18:42",
+    "updated_at": "2012-11-21T16:13:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:services_twitter_group:services_twitter:0.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

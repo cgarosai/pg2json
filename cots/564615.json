@@ -1,0 +1,10 @@
+{
+    "id": 564615,
+    "name": "iox",
+    "version": "1.11.0",
+    "created_at": "2020-07-23T15:23:44",
+    "updated_at": "2020-07-23T15:23:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:iox:1.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

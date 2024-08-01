@@ -1,0 +1,10 @@
+{
+    "id": 102642,
+    "name": "jabber",
+    "version": "10.6\\(2\\)",
+    "created_at": "2015-12-28T17:02:10",
+    "updated_at": "2015-12-28T17:02:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:jabber:10.6\\(2\\):*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 66434,
+    "name": "chef",
+    "version": "0.8.12",
+    "created_at": "2012-08-08T19:42:31",
+    "updated_at": "2012-08-21T21:49:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opscode:chef:0.8.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

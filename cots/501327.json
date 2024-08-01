@@ -1,0 +1,10 @@
+{
+    "id": 501327,
+    "name": "optiplex_7040_firmware",
+    "version": "1.15.5",
+    "created_at": "2020-03-06T19:00:05",
+    "updated_at": "2020-03-06T19:00:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_7040_firmware:1.15.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

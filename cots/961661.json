@@ -1,0 +1,10 @@
+{
+    "id": 961661,
+    "name": "bart",
+    "version": "1.0.3",
+    "created_at": "2022-11-16T13:06:20",
+    "updated_at": "2023-06-01T15:39:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:bart:1.0.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

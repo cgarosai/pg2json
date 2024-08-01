@@ -1,0 +1,10 @@
+{
+    "id": 10243,
+    "name": "word",
+    "version": "2000",
+    "created_at": "2007-09-12T20:55:50",
+    "updated_at": "2008-04-15T20:39:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word:2000:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

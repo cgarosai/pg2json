@@ -1,0 +1,10 @@
+{
+    "id": 681271,
+    "name": "unicenter_remote_control",
+    "version": "5.2",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-13T18:13:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:unicenter_remote_control:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

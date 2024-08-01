@@ -1,0 +1,10 @@
+{
+    "id": 119786,
+    "name": "jre",
+    "version": "1.6.0",
+    "created_at": "2016-07-25T15:47:24",
+    "updated_at": "2022-05-13T12:52:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:jre:1.6.0:update_115:*:*:*:*:*:*",
+    "to_analyse": false
+}

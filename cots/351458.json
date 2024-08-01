@@ -1,0 +1,10 @@
+{
+    "id": 351458,
+    "name": "event_tickets",
+    "version": "-",
+    "created_at": "2019-09-09T10:50:10",
+    "updated_at": "2019-09-09T10:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tri:event_tickets:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

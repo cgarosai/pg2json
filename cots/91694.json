@@ -1,0 +1,10 @@
+{
+    "id": 91694,
+    "name": "salt",
+    "version": "2014.1.9",
+    "created_at": "2014-08-25T17:21:36",
+    "updated_at": "2014-08-29T15:41:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:saltstack:salt:2014.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 530886,
+    "name": "gpg-pgp",
+    "version": "1.0\\(9\\)",
+    "created_at": "2020-04-28T12:34:47",
+    "updated_at": "2020-04-28T12:34:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpg-pgp_project:gpg-pgp:1.0\\(9\\):*:*:*:*:airmail:*:*",
+    "to_analyse": false
+}

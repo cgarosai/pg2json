@@ -1,0 +1,10 @@
+{
+    "id": 277156,
+    "name": "virtual_system_administrator",
+    "version": "6.2.0.0",
+    "created_at": "2019-06-24T15:25:11",
+    "updated_at": "2019-06-24T15:25:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaseya:virtual_system_administrator:6.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

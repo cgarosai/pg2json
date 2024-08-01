@@ -1,0 +1,10 @@
+{
+    "id": 115376,
+    "name": "common_applications",
+    "version": "12.1.2",
+    "created_at": "2016-02-17T16:55:43",
+    "updated_at": "2016-02-17T16:55:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:common_applications:12.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

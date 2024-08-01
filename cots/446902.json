@@ -1,0 +1,10 @@
+{
+    "id": 446902,
+    "name": "redhat-upgrade-tool",
+    "version": "-",
+    "created_at": "2019-11-26T12:25:13",
+    "updated_at": "2019-11-26T12:25:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:redhat-upgrade-tool:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

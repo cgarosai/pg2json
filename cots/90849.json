@@ -1,0 +1,10 @@
+{
+    "id": 90849,
+    "name": "sensor_wireless_i\\/o_module",
+    "version": "-",
+    "created_at": "2014-07-24T15:59:08",
+    "updated_at": "2014-07-24T16:53:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:oleumtech:sensor_wireless_i\\/o_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

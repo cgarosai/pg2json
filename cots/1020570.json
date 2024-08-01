@@ -1,0 +1,10 @@
+{
+    "id": 1020570,
+    "name": "ca300-poe_firmware",
+    "version": "6.2c.884",
+    "created_at": "2023-02-09T10:39:07",
+    "updated_at": "2023-08-28T15:42:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:totolink:ca300-poe_firmware:6.2c.884:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

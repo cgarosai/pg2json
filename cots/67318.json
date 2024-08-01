@@ -1,0 +1,10 @@
+{
+    "id": 67318,
+    "name": "jetport",
+    "version": "5601",
+    "created_at": "2012-08-22T11:21:59",
+    "updated_at": "2012-09-03T13:05:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:korenix:jetport:5601:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

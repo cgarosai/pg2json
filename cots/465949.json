@@ -1,0 +1,10 @@
+{
+    "id": 465949,
+    "name": "integrated_services_virtual_router_firmware",
+    "version": "16.6.5",
+    "created_at": "2019-12-13T18:22:38",
+    "updated_at": "2019-12-13T18:22:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:integrated_services_virtual_router_firmware:16.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

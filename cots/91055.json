@@ -1,0 +1,10 @@
+{
+    "id": 91055,
+    "name": "5820_vpn_firewall_module",
+    "version": "jd255a",
+    "created_at": "2014-07-29T13:34:13",
+    "updated_at": "2014-07-29T15:34:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:5820_vpn_firewall_module:jd255a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

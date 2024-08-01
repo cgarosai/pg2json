@@ -1,0 +1,10 @@
+{
+    "id": 740193,
+    "name": "alfresco",
+    "version": "7.x-1.x",
+    "created_at": "2021-07-23T12:55:06",
+    "updated_at": "2021-08-05T12:50:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alfresco:alfresco:7.x-1.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

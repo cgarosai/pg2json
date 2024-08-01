@@ -1,0 +1,10 @@
+{
+    "id": 136090,
+    "name": "bcm4355c0_firmware",
+    "version": "9.44.78.27.0.1.56",
+    "created_at": "2017-10-10T12:17:59",
+    "updated_at": "2021-04-09T16:06:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:bcm4355c0_firmware:9.44.78.27.0.1.56:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 249600,
+    "name": "influxdb",
+    "version": "1.20.2",
+    "created_at": "2019-06-03T10:42:03",
+    "updated_at": "2019-06-03T10:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eficode:influxdb:1.20.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

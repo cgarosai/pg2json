@@ -1,0 +1,10 @@
+{
+    "id": 1037754,
+    "name": "office",
+    "version": "-",
+    "created_at": "2023-02-22T16:20:04",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:-:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

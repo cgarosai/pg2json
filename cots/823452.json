@@ -1,0 +1,10 @@
+{
+    "id": 823452,
+    "name": "columnar",
+    "version": "0.0.14",
+    "created_at": "2022-01-04T18:14:53",
+    "updated_at": "2022-01-07T17:38:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:columnar_project:columnar:0.0.14:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

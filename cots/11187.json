@@ -1,0 +1,10 @@
+{
+    "id": 11187,
+    "name": "domino_web_access",
+    "version": "6.0.2",
+    "created_at": "2007-12-27T22:50:43",
+    "updated_at": "2007-12-27T22:50:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:domino_web_access:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

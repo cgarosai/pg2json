@@ -1,0 +1,10 @@
+{
+    "id": 805605,
+    "name": "prime_access_registrar",
+    "version": "9.2.1",
+    "created_at": "2021-11-04T17:30:12",
+    "updated_at": "2021-11-04T18:55:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_access_registrar:9.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 617666,
+    "name": "azure_functions",
+    "version": "-",
+    "created_at": "2020-11-04T15:48:19",
+    "updated_at": "2020-11-04T15:48:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_functions:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

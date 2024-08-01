@@ -1,0 +1,10 @@
+{
+    "id": 562036,
+    "name": "crowd_integration",
+    "version": "2.0.0",
+    "created_at": "2020-07-14T15:03:01",
+    "updated_at": "2020-07-14T15:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:crowd_integration:2.0.0:beta1:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

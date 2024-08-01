@@ -1,0 +1,10 @@
+{
+    "id": 200922,
+    "name": "big-ip_link_controller",
+    "version": "9.3.1",
+    "created_at": "2019-02-27T13:11:34",
+    "updated_at": "2019-02-27T13:11:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_link_controller:9.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

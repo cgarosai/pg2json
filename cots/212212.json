@@ -1,0 +1,10 @@
+{
+    "id": 212212,
+    "name": "windows_vista",
+    "version": "-",
+    "created_at": "2019-03-26T13:46:45",
+    "updated_at": "2019-03-26T13:46:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_vista:-:sp2:*:*:business_n:*:x86:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 30261,
+    "name": "endpoint_protection",
+    "version": "11.0.4",
+    "created_at": "2010-12-22T14:02:30",
+    "updated_at": "2010-12-22T19:32:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_protection:11.0.4:mp1a:*:*:*:*:*:*",
+    "to_analyse": false
+}

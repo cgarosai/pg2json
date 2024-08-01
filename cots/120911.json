@@ -1,0 +1,10 @@
+{
+    "id": 120911,
+    "name": "content_security_management_appliance",
+    "version": "10.1.0-049",
+    "created_at": "2017-06-23T13:15:59",
+    "updated_at": "2021-04-09T12:34:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:content_security_management_appliance:10.1.0-049:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

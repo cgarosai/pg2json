@@ -1,0 +1,10 @@
+{
+    "id": 248881,
+    "name": "spigot",
+    "version": "1.13.2",
+    "created_at": "2019-05-30T13:18:46",
+    "updated_at": "2021-03-26T13:19:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getbukkit:spigot:1.13.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

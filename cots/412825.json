@@ -1,0 +1,10 @@
+{
+    "id": 412825,
+    "name": "security_appscan",
+    "version": "8.7.0.0",
+    "created_at": "2019-10-29T18:08:35",
+    "updated_at": "2019-10-29T18:08:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_appscan:8.7.0.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

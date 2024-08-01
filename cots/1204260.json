@@ -1,0 +1,10 @@
+{
+    "id": 1204260,
+    "name": "ryzen_5_pro_3400ge_firmware",
+    "version": "comboam4_v2_pi_1.2.0.8",
+    "created_at": "2023-12-07T16:55:46",
+    "updated_at": "2023-12-07T16:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_5_pro_3400ge_firmware:comboam4_v2_pi_1.2.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

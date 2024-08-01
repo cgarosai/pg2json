@@ -1,0 +1,10 @@
+{
+    "id": 79375,
+    "name": "documentum_records_manager",
+    "version": "6.7",
+    "created_at": "2013-05-14T20:56:47",
+    "updated_at": "2014-08-27T23:43:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:documentum_records_manager:6.7:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

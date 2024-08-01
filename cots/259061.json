@@ -1,0 +1,10 @@
+{
+    "id": 259061,
+    "name": "event_calendar_wd",
+    "version": "1.0.13",
+    "created_at": "2019-06-10T15:21:35",
+    "updated_at": "2019-06-10T15:21:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:web-dorado:event_calendar_wd:1.0.13:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 454795,
+    "name": "wireless_lan_controller_software",
+    "version": "8.5",
+    "created_at": "2019-12-12T12:39:12",
+    "updated_at": "2019-12-12T12:39:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:wireless_lan_controller_software:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

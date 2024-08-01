@@ -1,0 +1,10 @@
+{
+    "id": 499952,
+    "name": "usg9500_firmware",
+    "version": "v500r001c20spc200",
+    "created_at": "2020-02-21T19:02:54",
+    "updated_at": "2020-02-21T19:02:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:usg9500_firmware:v500r001c20spc200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

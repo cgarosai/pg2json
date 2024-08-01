@@ -1,0 +1,10 @@
+{
+    "id": 1168118,
+    "name": "quartus_prime",
+    "version": "22.3",
+    "created_at": "2023-09-27T18:57:21",
+    "updated_at": "2023-09-27T18:57:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:quartus_prime:22.3:*:*:*:pro:*:*:*",
+    "to_analyse": false
+}

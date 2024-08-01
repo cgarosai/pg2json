@@ -1,0 +1,10 @@
+{
+    "id": 765247,
+    "name": "tensorflow",
+    "version": "2.0.3",
+    "created_at": "2021-08-16T13:51:28",
+    "updated_at": "2021-08-17T11:18:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:tensorflow:2.0.3:*:*:*:lite:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 132836,
+    "name": "international_components_for_unicode",
+    "version": "3.2",
+    "created_at": "2018-01-09T14:48:17",
+    "updated_at": "2018-01-09T14:48:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icu-project:international_components_for_unicode:3.2:*:*:*:*:c\\/c\\+\\+:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 549561,
+    "name": "netscaler_application_delivery_controller_firmware",
+    "version": "11.1.51.21",
+    "created_at": "2020-05-13T10:00:06",
+    "updated_at": "2020-05-13T10:00:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:netscaler_application_delivery_controller_firmware:11.1.51.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

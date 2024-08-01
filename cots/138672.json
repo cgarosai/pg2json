@@ -1,0 +1,10 @@
+{
+    "id": 138672,
+    "name": "helix_player",
+    "version": "1.0",
+    "created_at": "2017-11-21T11:41:03",
+    "updated_at": "2021-05-07T12:06:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:realnetworks:helix_player:1.0:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

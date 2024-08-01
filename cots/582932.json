@@ -1,0 +1,10 @@
+{
+    "id": 582932,
+    "name": "lms122_firmware",
+    "version": "-",
+    "created_at": "2020-09-01T09:05:34",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:lms122_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

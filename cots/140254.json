@@ -1,0 +1,10 @@
+{
+    "id": 140254,
+    "name": "websphere_enterprise_service_bus",
+    "version": "7.0.0.4",
+    "created_at": "2018-04-18T14:25:52",
+    "updated_at": "2021-05-12T16:41:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_enterprise_service_bus:7.0.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

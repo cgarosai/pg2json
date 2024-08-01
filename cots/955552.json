@@ -1,0 +1,10 @@
+{
+    "id": 955552,
+    "name": "metrics",
+    "version": "4.0.2.6",
+    "created_at": "2022-10-14T20:29:34",
+    "updated_at": "2022-10-14T20:30:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:metrics:4.0.2.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

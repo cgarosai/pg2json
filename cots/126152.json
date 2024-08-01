@@ -1,0 +1,10 @@
+{
+    "id": 126152,
+    "name": "imagemagick",
+    "version": "7.0.3-3",
+    "created_at": "2017-03-24T14:46:32",
+    "updated_at": "2017-03-24T14:46:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:imagemagick:imagemagick:7.0.3-3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

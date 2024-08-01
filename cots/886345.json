@@ -1,0 +1,10 @@
+{
+    "id": 886345,
+    "name": "zxcdn_firmware",
+    "version": "-",
+    "created_at": "2022-05-17T16:27:17",
+    "updated_at": "2022-10-05T14:19:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:zxcdn_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

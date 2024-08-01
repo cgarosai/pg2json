@@ -1,0 +1,10 @@
+{
+    "id": 1056527,
+    "name": "medicine_tracker_system",
+    "version": "1.0",
+    "created_at": "2023-03-20T16:44:15",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:medicine_tracker_system_project:medicine_tracker_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

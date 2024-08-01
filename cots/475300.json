@@ -1,0 +1,10 @@
+{
+    "id": 475300,
+    "name": "openid_connect",
+    "version": "1.6.3",
+    "created_at": "2020-01-08T15:38:20",
+    "updated_at": "2020-01-08T15:38:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openid:openid_connect:1.6.3:*:*:*:*:doorkeeper:*:*",
+    "to_analyse": false
+}

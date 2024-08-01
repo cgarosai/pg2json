@@ -1,0 +1,10 @@
+{
+    "id": 842119,
+    "name": "xeon_gold_5220r_firmware",
+    "version": "-",
+    "created_at": "2022-02-15T17:36:46",
+    "updated_at": "2022-03-01T13:01:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_gold_5220r_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

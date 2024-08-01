@@ -1,0 +1,10 @@
+{
+    "id": 1159888,
+    "name": "zscaler_internet_access_admin_portal",
+    "version": "6.2r",
+    "created_at": "2023-09-16T01:57:59",
+    "updated_at": "2023-09-16T01:57:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zscaler:zscaler_internet_access_admin_portal:6.2r:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

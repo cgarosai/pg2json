@@ -1,0 +1,10 @@
+{
+    "id": 976114,
+    "name": "jdk_parameter",
+    "version": "1.0",
+    "created_at": "2022-11-23T12:13:58",
+    "updated_at": "2022-11-23T12:27:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jdk_parameter:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

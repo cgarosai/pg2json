@@ -1,0 +1,10 @@
+{
+    "id": 728884,
+    "name": "openclinic",
+    "version": "0.3",
+    "created_at": "2021-06-15T15:59:11",
+    "updated_at": "2021-06-15T16:00:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openclinic_project:openclinic:0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

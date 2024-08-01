@@ -1,0 +1,10 @@
+{
+    "id": 240137,
+    "name": "engine",
+    "version": "17.05.0",
+    "created_at": "2019-06-03T13:34:25",
+    "updated_at": "2019-06-03T13:34:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:engine:17.05.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

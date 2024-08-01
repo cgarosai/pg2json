@@ -1,0 +1,10 @@
+{
+    "id": 106495,
+    "name": "pureapplication_system",
+    "version": "2.0.0.0",
+    "created_at": "2015-01-12T20:18:23",
+    "updated_at": "2015-04-03T16:30:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:pureapplication_system:2.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

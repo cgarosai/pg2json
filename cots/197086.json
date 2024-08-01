@@ -1,0 +1,10 @@
+{
+    "id": 197086,
+    "name": "f25-60_firmware",
+    "version": "-",
+    "created_at": "2018-12-10T12:41:39",
+    "updated_at": "2021-05-27T16:18:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:telecrane:f25-60_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

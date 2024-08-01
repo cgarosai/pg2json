@@ -1,0 +1,10 @@
+{
+    "id": 614562,
+    "name": "xendesktop",
+    "version": "7.15",
+    "created_at": "2020-11-23T18:28:46",
+    "updated_at": "2021-05-13T13:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xendesktop:7.15:cu6:*:*:ltsr:*:*:*",
+    "to_analyse": false
+}

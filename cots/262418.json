@@ -1,0 +1,10 @@
+{
+    "id": 262418,
+    "name": "ambari",
+    "version": "2.4.2",
+    "created_at": "2019-06-18T14:37:05",
+    "updated_at": "2019-06-18T14:37:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:ambari:2.4.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 136399,
+    "name": "git",
+    "version": "2.2.11",
+    "created_at": "2017-10-17T15:00:13",
+    "updated_at": "2017-10-17T15:00:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:git:2.2.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

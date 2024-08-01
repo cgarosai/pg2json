@@ -1,0 +1,10 @@
+{
+    "id": 72103,
+    "name": "service_desk_express",
+    "version": "10.2.1.95",
+    "created_at": "2013-07-30T13:07:15",
+    "updated_at": "2013-07-31T23:31:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:service_desk_express:10.2.1.95:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

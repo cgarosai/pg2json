@@ -1,0 +1,10 @@
+{
+    "id": 976194,
+    "name": "credentials_binding",
+    "version": "523.vd859a_4b_122e6",
+    "created_at": "2022-11-23T12:44:37",
+    "updated_at": "2022-11-23T12:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:credentials_binding:523.vd859a_4b_122e6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

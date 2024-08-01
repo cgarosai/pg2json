@@ -1,0 +1,10 @@
+{
+    "id": 509056,
+    "name": "rspamd",
+    "version": "1.7.6",
+    "created_at": "2020-03-05T17:25:52",
+    "updated_at": "2020-03-05T17:25:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rspamd_project:rspamd:1.7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

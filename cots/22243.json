@@ -1,0 +1,10 @@
+{
+    "id": 22243,
+    "name": "workstation",
+    "version": "6.5.4",
+    "created_at": "2010-04-13T12:16:22",
+    "updated_at": "2010-12-14T18:40:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workstation:6.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

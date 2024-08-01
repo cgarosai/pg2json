@@ -1,0 +1,10 @@
+{
+    "id": 1011633,
+    "name": "obridge",
+    "version": "1.0",
+    "created_at": "2023-01-23T14:29:49",
+    "updated_at": "2023-02-24T11:14:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:obridge_project:obridge:1.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 29747,
+    "name": "sql_prompt",
+    "version": "3.5",
+    "created_at": "2009-11-25T17:35:24",
+    "updated_at": "2009-11-25T17:35:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:red-gate:sql_prompt:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

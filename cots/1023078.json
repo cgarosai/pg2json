@@ -1,0 +1,10 @@
+{
+    "id": 1023078,
+    "name": "couchbase_server",
+    "version": "2.0.0",
+    "created_at": "2023-02-13T17:47:05",
+    "updated_at": "2023-02-23T18:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:couchbase:couchbase_server:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

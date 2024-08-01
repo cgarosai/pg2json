@@ -1,0 +1,10 @@
+{
+    "id": 594086,
+    "name": "json-bigint",
+    "version": "0.1.4",
+    "created_at": "2020-09-23T15:55:25",
+    "updated_at": "2020-09-23T15:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:json-bigint_project:json-bigint:0.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 652374,
+    "name": "ethernet_network_adapter_700_firmware",
+    "version": "7.3",
+    "created_at": "2021-02-18T12:55:34",
+    "updated_at": "2021-04-30T15:26:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_network_adapter_700_firmware:7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

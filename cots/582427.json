@@ -1,0 +1,10 @@
+{
+    "id": 582427,
+    "name": "blake2-rust",
+    "version": "0.3.0",
+    "created_at": "2020-08-31T10:52:59",
+    "updated_at": "2020-08-31T10:52:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blake2:blake2-rust:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

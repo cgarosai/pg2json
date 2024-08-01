@@ -1,0 +1,10 @@
+{
+    "id": 997940,
+    "name": "django_terms_and_conditions",
+    "version": "1.2.12",
+    "created_at": "2022-12-20T15:23:09",
+    "updated_at": "2022-12-21T17:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django_terms_and_conditions_project:django_terms_and_conditions:1.2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

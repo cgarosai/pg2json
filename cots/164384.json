@@ -1,0 +1,10 @@
+{
+    "id": 164384,
+    "name": "puppet_enterprise_client_tools",
+    "version": "17.3.0",
+    "created_at": "2018-08-30T17:18:29",
+    "updated_at": "2021-07-01T11:58:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:puppet_enterprise_client_tools:17.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

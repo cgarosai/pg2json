@@ -1,0 +1,10 @@
+{
+    "id": 186405,
+    "name": "felcom_500_firmware",
+    "version": "-",
+    "created_at": "2018-10-25T17:42:23",
+    "updated_at": "2021-03-25T12:31:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:furuno:felcom_500_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

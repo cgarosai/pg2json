@@ -1,0 +1,10 @@
+{
+    "id": 527917,
+    "name": "businessworks_buildpack",
+    "version": "-",
+    "created_at": "2020-04-01T18:20:27",
+    "updated_at": "2020-04-01T18:20:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:businessworks_buildpack:-:*:*:*:container:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

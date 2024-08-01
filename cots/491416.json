@@ -1,0 +1,10 @@
+{
+    "id": 491416,
+    "name": "my_net_firmware",
+    "version": "1.03.12",
+    "created_at": "2020-02-24T14:02:01",
+    "updated_at": "2020-02-24T14:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:westerndigital:my_net_firmware:1.03.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

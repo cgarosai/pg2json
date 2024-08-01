@@ -1,0 +1,10 @@
+{
+    "id": 412000,
+    "name": "kirby",
+    "version": "1.0.0",
+    "created_at": "2019-10-29T13:17:07",
+    "updated_at": "2019-10-29T13:17:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getkirby:kirby:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

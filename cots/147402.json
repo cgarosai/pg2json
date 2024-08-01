@@ -1,0 +1,10 @@
+{
+    "id": 147402,
+    "name": "network_node_manager_i",
+    "version": "10.10",
+    "created_at": "2018-03-08T12:42:19",
+    "updated_at": "2021-04-13T14:11:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:network_node_manager_i:10.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

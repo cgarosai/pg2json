@@ -1,0 +1,10 @@
+{
+    "id": 161273,
+    "name": "ovirt-hosted-engine-setup",
+    "version": "1.2.0",
+    "created_at": "2018-08-07T10:51:04",
+    "updated_at": "2018-08-07T10:51:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovirt:ovirt-hosted-engine-setup:1.2.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

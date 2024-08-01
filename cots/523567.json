@@ -1,0 +1,10 @@
+{
+    "id": 523567,
+    "name": "freenas_firmware",
+    "version": "11.3",
+    "created_at": "2020-04-10T15:41:38",
+    "updated_at": "2021-05-13T14:56:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ixsystems:freenas_firmware:11.3:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

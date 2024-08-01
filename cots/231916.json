@@ -1,0 +1,10 @@
+{
+    "id": 231916,
+    "name": "qlikview_server",
+    "version": "11.20",
+    "created_at": "2019-05-10T13:00:20",
+    "updated_at": "2021-04-14T13:42:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qlik:qlikview_server:11.20:service_release_3:*:*:*:*:*:*",
+    "to_analyse": false
+}

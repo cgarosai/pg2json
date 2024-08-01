@@ -1,0 +1,10 @@
+{
+    "id": 550677,
+    "name": "simatic_step_7",
+    "version": "5.6",
+    "created_at": "2020-06-15T16:23:09",
+    "updated_at": "2020-06-15T16:23:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_step_7:5.6:sp2_hotfix1:*:*:*:*:*:*",
+    "to_analyse": false
+}

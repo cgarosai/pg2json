@@ -1,0 +1,10 @@
+{
+    "id": 101298,
+    "name": "firesight_system_software",
+    "version": "5.3.1.4",
+    "created_at": "2015-08-20T12:29:20",
+    "updated_at": "2015-11-24T15:35:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:firesight_system_software:5.3.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

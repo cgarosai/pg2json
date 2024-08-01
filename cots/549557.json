@@ -1,0 +1,10 @@
+{
+    "id": 549557,
+    "name": "messenger",
+    "version": "2.6",
+    "created_at": "2020-05-13T09:53:51",
+    "updated_at": "2020-05-13T09:53:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:telegram:messenger:2.6:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

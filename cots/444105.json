@@ -1,0 +1,10 @@
+{
+    "id": 444105,
+    "name": "ibus",
+    "version": "0.1.1.20080830",
+    "created_at": "2019-12-04T16:07:08",
+    "updated_at": "2019-12-04T16:07:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibus_project:ibus:0.1.1.20080830:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

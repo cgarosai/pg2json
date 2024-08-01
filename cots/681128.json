@@ -1,0 +1,10 @@
+{
+    "id": 681128,
+    "name": "network_discovery_gateway",
+    "version": "2.5.1.117",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T16:51:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:network_discovery_gateway:2.5.1.117:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

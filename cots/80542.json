@@ -1,0 +1,10 @@
+{
+    "id": 80542,
+    "name": "gpu_driver",
+    "version": "331.00",
+    "created_at": "2014-01-22T17:17:55",
+    "updated_at": "2014-04-17T16:24:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*",
+    "to_analyse": false
+}

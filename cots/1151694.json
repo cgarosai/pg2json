@@ -1,0 +1,10 @@
+{
+    "id": 1151694,
+    "name": "flaky_test_handler",
+    "version": "1.1.0",
+    "created_at": "2023-09-21T08:33:18",
+    "updated_at": "2023-09-21T08:33:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:flaky_test_handler:1.1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

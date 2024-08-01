@@ -1,0 +1,10 @@
+{
+    "id": 1213920,
+    "name": "jira",
+    "version": "3.11",
+    "created_at": "2023-12-19T17:07:52",
+    "updated_at": "2023-12-19T17:07:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jira:3.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 123025,
+    "name": "sandboxie_installer",
+    "version": "5071703",
+    "created_at": "2017-08-11T16:58:11",
+    "updated_at": "2021-08-10T13:16:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sandboxie:sandboxie_installer:5071703:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

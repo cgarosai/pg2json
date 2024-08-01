@@ -1,0 +1,10 @@
+{
+    "id": 271755,
+    "name": "netcat",
+    "version": "0.2.2",
+    "created_at": "2019-06-28T12:44:41",
+    "updated_at": "2019-06-28T12:44:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netcat_project:netcat:0.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

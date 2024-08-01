@@ -1,0 +1,10 @@
+{
+    "id": 452380,
+    "name": "coldcard_mk2_firmware",
+    "version": "2.1.5",
+    "created_at": "2019-12-10T15:17:40",
+    "updated_at": "2019-12-10T15:17:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:coinkite:coldcard_mk2_firmware:2.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

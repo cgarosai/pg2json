@@ -1,0 +1,10 @@
+{
+    "id": 1050408,
+    "name": "control_v3_runtime_system_toolkit",
+    "version": "3.5.12.30",
+    "created_at": "2023-03-27T15:22:25",
+    "updated_at": "2023-06-21T14:32:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_v3_runtime_system_toolkit:3.5.12.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

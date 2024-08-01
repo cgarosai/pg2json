@@ -1,0 +1,10 @@
+{
+    "id": 729785,
+    "name": "mifare_ultralight_c_firmware",
+    "version": "-",
+    "created_at": "2021-06-16T15:13:20",
+    "updated_at": "2021-06-24T13:37:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nxp:mifare_ultralight_c_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

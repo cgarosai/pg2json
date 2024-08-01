@@ -1,0 +1,10 @@
+{
+    "id": 23007,
+    "name": "serv-u",
+    "version": "8.1.0.3",
+    "created_at": "2010-04-27T16:26:06",
+    "updated_at": "2020-07-28T12:46:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serv-u:serv-u:8.1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 810146,
+    "name": "c-230_firmware",
+    "version": "10.0.1-31",
+    "created_at": "2021-11-30T13:32:39",
+    "updated_at": "2021-12-03T18:12:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:c-230_firmware:10.0.1-31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

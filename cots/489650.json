@@ -1,0 +1,10 @@
+{
+    "id": 489650,
+    "name": "bson",
+    "version": "3.1.2",
+    "created_at": "2020-02-04T12:48:51",
+    "updated_at": "2020-02-04T12:48:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bson_project:bson:3.1.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

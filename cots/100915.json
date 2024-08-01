@@ -1,0 +1,10 @@
+{
+    "id": 100915,
+    "name": "content_security_management_virtual_appliance",
+    "version": "9.1.0-033",
+    "created_at": "2015-07-29T10:31:15",
+    "updated_at": "2015-08-11T18:17:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:content_security_management_virtual_appliance:9.1.0-033:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

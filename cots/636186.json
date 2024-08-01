@@ -1,0 +1,10 @@
+{
+    "id": 636186,
+    "name": "big-ip_advanced_web_application_firewall",
+    "version": "14.0.0",
+    "created_at": "2020-12-14T14:12:00",
+    "updated_at": "2021-05-14T11:44:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:14.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

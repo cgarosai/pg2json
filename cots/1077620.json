@@ -1,0 +1,10 @@
+{
+    "id": 1077620,
+    "name": "prestashop",
+    "version": "8.0.0",
+    "created_at": "2023-05-02T12:39:16",
+    "updated_at": "2023-06-15T13:03:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prestashop:prestashop:8.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

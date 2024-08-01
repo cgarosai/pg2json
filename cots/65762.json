@@ -1,0 +1,10 @@
+{
+    "id": 65762,
+    "name": "faxtools",
+    "version": "5.8",
+    "created_at": "2012-08-01T19:33:11",
+    "updated_at": "2012-08-01T19:33:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:usr:faxtools:5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

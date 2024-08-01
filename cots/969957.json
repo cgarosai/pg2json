@@ -1,0 +1,10 @@
+{
+    "id": 969957,
+    "name": "dotcms",
+    "version": "22.03",
+    "created_at": "2022-11-14T14:05:23",
+    "updated_at": "2022-11-14T17:51:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dotcms:dotcms:22.03:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

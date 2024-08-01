@@ -1,0 +1,10 @@
+{
+    "id": 1060931,
+    "name": "unified_threat_management",
+    "version": "10.5",
+    "created_at": "2023-04-18T11:21:38",
+    "updated_at": "2023-05-11T16:02:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:securepoint:unified_threat_management:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

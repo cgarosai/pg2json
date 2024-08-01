@@ -1,0 +1,10 @@
+{
+    "id": 322301,
+    "name": "laravel_log_viewer",
+    "version": "0.16.0",
+    "created_at": "2019-08-01T15:57:47",
+    "updated_at": "2019-08-01T15:57:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravel_log_viewer_project:laravel_log_viewer:0.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

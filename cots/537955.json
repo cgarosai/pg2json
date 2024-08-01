@@ -1,0 +1,10 @@
+{
+    "id": 537955,
+    "name": "dvr_interface",
+    "version": "20200103",
+    "created_at": "2020-04-21T16:43:57",
+    "updated_at": "2020-04-21T16:43:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icatchinc:dvr_interface:20200103:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

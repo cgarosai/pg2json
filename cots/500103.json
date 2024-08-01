@@ -1,0 +1,10 @@
+{
+    "id": 500103,
+    "name": "ms91x_firmware",
+    "version": "lw73.sa.p263",
+    "created_at": "2020-03-06T16:06:01",
+    "updated_at": "2020-03-06T16:06:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:ms91x_firmware:lw73.sa.p263:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

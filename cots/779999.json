@@ -1,0 +1,10 @@
+{
+    "id": 779999,
+    "name": "zstack",
+    "version": "1.0.2",
+    "created_at": "2021-09-16T12:27:40",
+    "updated_at": "2021-09-16T14:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zstack:zstack:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

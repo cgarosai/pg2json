@@ -1,0 +1,10 @@
+{
+    "id": 620014,
+    "name": "big-ip_analytics",
+    "version": "16.0.0",
+    "created_at": "2020-12-07T14:52:56",
+    "updated_at": "2020-12-07T14:52:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_analytics:16.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

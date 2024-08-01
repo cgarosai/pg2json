@@ -1,0 +1,10 @@
+{
+    "id": 828185,
+    "name": "commerce",
+    "version": "2105",
+    "created_at": "2021-12-16T13:21:46",
+    "updated_at": "2022-01-04T15:49:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:commerce:2105:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

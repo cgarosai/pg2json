@@ -1,0 +1,10 @@
+{
+    "id": 623208,
+    "name": "action_view",
+    "version": "5.2.0",
+    "created_at": "2020-12-09T11:59:06",
+    "updated_at": "2020-12-09T11:59:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:action_view_project:action_view:5.2.0:beta1:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

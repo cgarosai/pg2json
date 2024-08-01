@@ -1,0 +1,10 @@
+{
+    "id": 85321,
+    "name": "business_server",
+    "version": "1.0",
+    "created_at": "2013-10-03T16:23:38",
+    "updated_at": "2013-10-07T11:33:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mandriva:business_server:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

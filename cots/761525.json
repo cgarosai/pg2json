@@ -1,0 +1,10 @@
+{
+    "id": 761525,
+    "name": "scroll_top",
+    "version": "-",
+    "created_at": "2021-08-26T15:28:48",
+    "updated_at": "2021-08-31T14:07:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpfront:scroll_top:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

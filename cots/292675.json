@@ -1,0 +1,10 @@
+{
+    "id": 292675,
+    "name": "slimstat_analytics",
+    "version": "3.9",
+    "created_at": "2019-07-17T14:18:52",
+    "updated_at": "2019-07-17T14:18:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-slimstat:slimstat_analytics:3.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

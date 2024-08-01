@@ -1,0 +1,10 @@
+{
+    "id": 920909,
+    "name": "b5_mini",
+    "version": "-",
+    "created_at": "2022-08-26T11:07:15",
+    "updated_at": "2022-10-24T14:10:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:h3c:b5_mini:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

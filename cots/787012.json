@@ -1,0 +1,10 @@
+{
+    "id": 787012,
+    "name": "plcnext_technology_starterkit_firmware",
+    "version": "-",
+    "created_at": "2021-09-30T17:11:14",
+    "updated_at": "2021-10-01T09:45:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:plcnext_technology_starterkit_firmware:-:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

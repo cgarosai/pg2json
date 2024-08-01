@@ -1,0 +1,10 @@
+{
+    "id": 101323,
+    "name": "mds_9000_nx-os",
+    "version": "7.1\\(0\\)zn\\(91.99\\)",
+    "created_at": "2015-08-20T16:53:50",
+    "updated_at": "2015-08-21T23:05:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:mds_9000_nx-os:7.1\\(0\\)zn\\(91.99\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

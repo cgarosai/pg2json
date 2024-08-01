@@ -1,0 +1,10 @@
+{
+    "id": 970979,
+    "name": "snyk_language_server",
+    "version": "20220517.103807",
+    "created_at": "2022-12-01T15:53:26",
+    "updated_at": "2022-12-01T17:28:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_language_server:20220517.103807:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

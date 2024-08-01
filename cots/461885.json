@@ -1,0 +1,10 @@
+{
+    "id": 461885,
+    "name": "custom_body_class",
+    "version": "0.0.2",
+    "created_at": "2020-01-03T16:07:01",
+    "updated_at": "2020-01-03T16:07:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_body_class_project:custom_body_class:0.0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

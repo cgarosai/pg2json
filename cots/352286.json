@@ -1,0 +1,10 @@
+{
+    "id": 352286,
+    "name": "pandora_fms",
+    "version": "3.2",
+    "created_at": "2019-09-09T15:21:37",
+    "updated_at": "2019-09-09T15:21:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artica:pandora_fms:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

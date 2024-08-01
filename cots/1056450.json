@@ -1,0 +1,10 @@
+{
+    "id": 1056450,
+    "name": "saml",
+    "version": "2.2.0",
+    "created_at": "2023-03-20T14:54:54",
+    "updated_at": "2023-03-24T16:18:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mendix:saml:2.2.0:*:*:*:*:mendix:*:*",
+    "to_analyse": false
+}

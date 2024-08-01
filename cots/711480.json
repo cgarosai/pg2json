@@ -1,0 +1,10 @@
+{
+    "id": 711480,
+    "name": "quay",
+    "version": "2.0.5",
+    "created_at": "2021-06-04T13:32:46",
+    "updated_at": "2021-06-04T13:35:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:quay:2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

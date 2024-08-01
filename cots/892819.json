@@ -1,0 +1,10 @@
+{
+    "id": 892819,
+    "name": "epyc_7473x_firmware",
+    "version": "-",
+    "created_at": "2022-06-28T12:09:54",
+    "updated_at": "2022-06-28T12:11:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7473x_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

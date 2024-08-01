@@ -1,0 +1,10 @@
+{
+    "id": 152386,
+    "name": "emc_vmax_enas",
+    "version": "8.0",
+    "created_at": "2018-06-07T18:06:19",
+    "updated_at": "2021-05-17T14:29:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_vmax_enas:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

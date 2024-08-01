@@ -1,0 +1,10 @@
+{
+    "id": 937630,
+    "name": "wcd938_firmware",
+    "version": "-",
+    "created_at": "2022-09-07T09:13:29",
+    "updated_at": "2022-09-07T09:21:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:wcd938_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

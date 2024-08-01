@@ -1,0 +1,10 @@
+{
+    "id": 1174088,
+    "name": "tz_500",
+    "version": "-",
+    "created_at": "2023-10-20T08:55:47",
+    "updated_at": "2023-10-20T08:55:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:tz_500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

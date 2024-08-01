@@ -1,0 +1,10 @@
+{
+    "id": 378115,
+    "name": "bonobo_git_server",
+    "version": "6.3.0",
+    "created_at": "2019-09-19T10:20:20",
+    "updated_at": "2019-09-19T10:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bonobogitserver:bonobo_git_server:6.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 529268,
+    "name": "softlogix_controllers_firmware",
+    "version": "19",
+    "created_at": "2020-04-03T12:20:37",
+    "updated_at": "2020-04-03T12:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:softlogix_controllers_firmware:19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

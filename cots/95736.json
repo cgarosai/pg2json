@@ -1,0 +1,10 @@
+{
+    "id": 95736,
+    "name": "titan_ftp_server",
+    "version": "10.40",
+    "created_at": "2014-04-29T12:52:10",
+    "updated_at": "2014-04-29T12:56:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:southrivertech:titan_ftp_server:10.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

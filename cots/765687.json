@@ -1,0 +1,10 @@
+{
+    "id": 765687,
+    "name": "set_user",
+    "version": "1.2.0",
+    "created_at": "2021-08-17T15:25:11",
+    "updated_at": "2021-08-17T21:34:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:set_user_project:set_user:1.2.0:*:*:*:*:postgresql:*:*",
+    "to_analyse": false
+}

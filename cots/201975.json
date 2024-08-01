@@ -1,0 +1,10 @@
+{
+    "id": 201975,
+    "name": "networkx",
+    "version": "1.8",
+    "created_at": "2019-02-27T17:10:30",
+    "updated_at": "2019-02-27T17:10:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:networkx:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

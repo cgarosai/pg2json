@@ -1,0 +1,10 @@
+{
+    "id": 636028,
+    "name": "dynamics_365",
+    "version": "-",
+    "created_at": "2020-12-11T17:24:06",
+    "updated_at": "2020-12-11T17:24:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:dynamics_365:-:*:*:*:*:finance_and_operations:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 991568,
+    "name": "safari",
+    "version": "16.0",
+    "created_at": "2022-12-23T17:30:34",
+    "updated_at": "2022-12-29T18:30:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:safari:16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

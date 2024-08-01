@@ -1,0 +1,10 @@
+{
+    "id": 852155,
+    "name": "update_manager",
+    "version": "1.2.1.0",
+    "created_at": "2022-03-14T14:38:25",
+    "updated_at": "2022-07-15T13:47:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otris:update_manager:1.2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

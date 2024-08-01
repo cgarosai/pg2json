@@ -1,0 +1,10 @@
+{
+    "id": 48867,
+    "name": "javafx",
+    "version": "2.0",
+    "created_at": "2011-10-20T13:10:09",
+    "updated_at": "2012-02-14T21:53:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:javafx:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

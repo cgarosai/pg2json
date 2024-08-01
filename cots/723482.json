@@ -1,0 +1,10 @@
+{
+    "id": 723482,
+    "name": "enterprise_security_api_for_java",
+    "version": "2.0",
+    "created_at": "2021-06-25T15:38:46",
+    "updated_at": "2023-01-24T17:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owasp:enterprise_security_api_for_java:2.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

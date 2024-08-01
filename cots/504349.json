@@ -1,0 +1,10 @@
+{
+    "id": 504349,
+    "name": "sonar_quality_gates",
+    "version": "1.0.5",
+    "created_at": "2020-03-10T20:23:57",
+    "updated_at": "2020-03-10T20:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:sonar_quality_gates:1.0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

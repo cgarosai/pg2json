@@ -1,0 +1,10 @@
+{
+    "id": 40601,
+    "name": "glassfish_server",
+    "version": "2",
+    "created_at": "2011-12-30T20:16:01",
+    "updated_at": "2012-02-10T18:52:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:glassfish_server:2:ur2:*:*:*:*:*:*",
+    "to_analyse": false
+}

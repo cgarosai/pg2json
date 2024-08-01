@@ -1,0 +1,10 @@
+{
+    "id": 57616,
+    "name": "web_interface",
+    "version": "5.3.0.34",
+    "created_at": "2012-05-08T11:51:42",
+    "updated_at": "2012-05-08T11:51:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:web_interface:5.3.0.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

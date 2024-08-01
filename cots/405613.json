@@ -1,0 +1,10 @@
+{
+    "id": 405613,
+    "name": "trust-dns-proto",
+    "version": "0.3.3",
+    "created_at": "2019-10-08T12:15:08",
+    "updated_at": "2019-10-08T12:15:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trust-dns-proto_project:trust-dns-proto:0.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

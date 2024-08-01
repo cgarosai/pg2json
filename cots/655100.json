@@ -1,0 +1,10 @@
+{
+    "id": 655100,
+    "name": "va-ts",
+    "version": "-",
+    "created_at": "2021-02-01T18:28:50",
+    "updated_at": "2021-02-01T18:28:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:va-ts_project:va-ts:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

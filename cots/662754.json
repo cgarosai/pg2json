@@ -1,0 +1,10 @@
+{
+    "id": 662754,
+    "name": "endpoint_security",
+    "version": "10.7.4",
+    "created_at": "2021-03-05T15:21:31",
+    "updated_at": "2021-03-08T15:41:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:endpoint_security:10.7.4:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

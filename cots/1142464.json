@@ -1,0 +1,10 @@
+{
+    "id": 1142464,
+    "name": "spinnaker",
+    "version": "1.30.3",
+    "created_at": "2023-09-01T11:34:04",
+    "updated_at": "2023-09-02T00:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:spinnaker:1.30.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

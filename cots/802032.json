@@ -1,0 +1,10 @@
+{
+    "id": 802032,
+    "name": "webopac",
+    "version": "7.1.20160701",
+    "created_at": "2021-11-16T13:38:14",
+    "updated_at": "2021-11-19T12:05:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vice:webopac:7.1.20160701:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

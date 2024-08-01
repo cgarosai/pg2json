@@ -1,0 +1,10 @@
+{
+    "id": 1022870,
+    "name": "0mk_shortener",
+    "version": "0.2",
+    "created_at": "2023-02-13T13:11:12",
+    "updated_at": "2023-03-21T13:39:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:0mk_shortener_project:0mk_shortener:0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 433067,
+    "name": "thermald",
+    "version": "1.7.2",
+    "created_at": "2019-11-20T17:17:04",
+    "updated_at": "2019-11-20T17:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:thermald:1.7.2:test:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 920514,
+    "name": "visualization",
+    "version": "4.2.0.0",
+    "created_at": "2022-08-25T15:10:11",
+    "updated_at": "2022-10-21T19:03:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:visualization:4.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 828686,
+    "name": "simatic_easie_pcs_7_skill",
+    "version": "20.07",
+    "created_at": "2021-12-17T15:30:03",
+    "updated_at": "2021-12-21T19:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_easie_pcs_7_skill:20.07:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

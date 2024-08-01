@@ -1,0 +1,10 @@
+{
+    "id": 890522,
+    "name": "dt2485_firmware",
+    "version": "1.19.4.0",
+    "created_at": "2022-06-22T00:06:59",
+    "updated_at": "2022-07-27T11:36:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rstinstruments:dt2485_firmware:1.19.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

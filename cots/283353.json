@@ -1,0 +1,10 @@
+{
+    "id": 283353,
+    "name": "patchwork",
+    "version": "1.1.0",
+    "created_at": "2019-07-11T12:48:39",
+    "updated_at": "2019-07-11T12:48:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ozlabs:patchwork:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

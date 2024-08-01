@@ -1,0 +1,10 @@
+{
+    "id": 409281,
+    "name": "mongoose",
+    "version": "4.5.7",
+    "created_at": "2019-10-15T10:26:57",
+    "updated_at": "2019-10-15T10:26:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongoosejs:mongoose:4.5.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

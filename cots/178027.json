@@ -1,0 +1,10 @@
+{
+    "id": 178027,
+    "name": "cp200_firmware",
+    "version": "-",
+    "created_at": "2018-09-25T15:07:45",
+    "updated_at": "2021-05-25T10:19:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cp200_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

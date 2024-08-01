@@ -1,0 +1,10 @@
+{
+    "id": 388431,
+    "name": "windows-build-tools",
+    "version": "4.0.0",
+    "created_at": "2019-09-24T15:58:07",
+    "updated_at": "2019-09-24T15:58:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:windows-build-tools_project:windows-build-tools:4.0.0:alpha9:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

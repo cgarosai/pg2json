@@ -1,0 +1,10 @@
+{
+    "id": 192487,
+    "name": "indoor_hd_camera",
+    "version": "-",
+    "created_at": "2019-01-10T15:50:11",
+    "updated_at": "2021-06-17T13:10:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:guardzilla:indoor_hd_camera:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

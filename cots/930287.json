@@ -1,0 +1,10 @@
+{
+    "id": 930287,
+    "name": "systematic_fix_adapter_firmware",
+    "version": "2.4.0.25",
+    "created_at": "2022-09-09T11:46:58",
+    "updated_at": "2023-03-04T01:54:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:systematicalpha:systematic_fix_adapter_firmware:2.4.0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

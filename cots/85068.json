@@ -1,0 +1,10 @@
+{
+    "id": 85068,
+    "name": "maximo_asset_management",
+    "version": "7.5.0.5",
+    "created_at": "2013-10-01T17:09:12",
+    "updated_at": "2013-10-01T17:17:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:maximo_asset_management:7.5.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

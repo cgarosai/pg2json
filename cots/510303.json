@@ -1,0 +1,10 @@
+{
+    "id": 510303,
+    "name": "xeon_7120m_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:11",
+    "updated_at": "2020-03-23T17:00:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_7120m_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

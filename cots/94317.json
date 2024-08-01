@@ -1,0 +1,10 @@
+{
+    "id": 94317,
+    "name": "openam",
+    "version": "9.5.3",
+    "created_at": "2014-11-14T15:30:39",
+    "updated_at": "2015-02-11T14:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forgerock:openam:9.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

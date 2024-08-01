@@ -1,0 +1,10 @@
+{
+    "id": 687283,
+    "name": "jabber_\\(xmpp\\)_notifier_and_control",
+    "version": "0.5",
+    "created_at": "2021-03-31T15:38:09",
+    "updated_at": "2021-04-06T12:06:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jabber_\\(xmpp\\)_notifier_and_control:0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

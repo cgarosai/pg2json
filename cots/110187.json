@@ -1,0 +1,10 @@
+{
+    "id": 110187,
+    "name": "pix_firewall",
+    "version": "base",
+    "created_at": "2016-08-19T12:10:27",
+    "updated_at": "2024-07-02T10:57:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:pix_firewall:base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

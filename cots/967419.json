@@ -1,0 +1,10 @@
+{
+    "id": 967419,
+    "name": "fedora_coreos",
+    "version": "36.20220820.3.0",
+    "created_at": "2022-11-04T10:56:29",
+    "updated_at": "2022-11-04T21:50:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:fedora_coreos:36.20220820.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

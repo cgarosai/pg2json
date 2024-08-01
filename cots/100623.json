@@ -1,0 +1,10 @@
+{
+    "id": 100623,
+    "name": "poweredge_r610",
+    "version": "-",
+    "created_at": "2015-07-15T14:56:21",
+    "updated_at": "2015-07-15T14:58:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:poweredge_r610:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

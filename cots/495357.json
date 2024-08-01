@@ -1,0 +1,10 @@
+{
+    "id": 495357,
+    "name": "revive_adserver",
+    "version": "5.0.0",
+    "created_at": "2020-02-11T14:14:43",
+    "updated_at": "2020-02-11T14:14:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:revive-adserver:revive_adserver:5.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1023674,
+    "name": "b420_firmware",
+    "version": "02.02.0001",
+    "created_at": "2023-02-14T16:04:21",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:b420_firmware:02.02.0001:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

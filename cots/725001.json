@@ -1,0 +1,10 @@
+{
+    "id": 725001,
+    "name": "database_backup",
+    "version": "-",
+    "created_at": "2021-06-08T16:12:59",
+    "updated_at": "2021-06-08T17:50:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deliciousbrains:database_backup:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

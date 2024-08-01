@@ -1,0 +1,10 @@
+{
+    "id": 465058,
+    "name": "mod_auth_openidc",
+    "version": "1.5.2",
+    "created_at": "2019-12-12T13:56:21",
+    "updated_at": "2023-05-25T18:18:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mod_auth_openidc_project:mod_auth_openidc:1.5.2:*:*:*:*:apache:*:*",
+    "to_analyse": false
+}

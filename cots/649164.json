@@ -1,0 +1,10 @@
+{
+    "id": 649164,
+    "name": "business_access_points",
+    "version": "10.1.1.0",
+    "created_at": "2021-01-14T18:38:39",
+    "updated_at": "2021-01-14T18:38:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:business_access_points:10.1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

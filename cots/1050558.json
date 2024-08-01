@@ -1,0 +1,10 @@
+{
+    "id": 1050558,
+    "name": "openshift_container_platform_for_ibm_linuxone",
+    "version": "4.12",
+    "created_at": "2023-03-28T12:01:22",
+    "updated_at": "2023-07-15T01:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_container_platform_for_ibm_linuxone:4.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

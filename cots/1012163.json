@@ -1,0 +1,10 @@
+{
+    "id": 1012163,
+    "name": "ceph",
+    "version": "17.2.5",
+    "created_at": "2023-01-23T19:53:31",
+    "updated_at": "2023-01-24T17:39:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ceph:17.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

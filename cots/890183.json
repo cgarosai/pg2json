@@ -1,0 +1,10 @@
+{
+    "id": 890183,
+    "name": "lightroom",
+    "version": "10.3",
+    "created_at": "2022-06-21T09:49:26",
+    "updated_at": "2022-06-22T10:59:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:lightroom:10.3:*:*:*:classic:*:*:*",
+    "to_analyse": false
+}

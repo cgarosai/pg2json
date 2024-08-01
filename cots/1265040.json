@@ -1,0 +1,10 @@
+{
+    "id": 1265040,
+    "name": "apollo_client",
+    "version": "2.6.7",
+    "created_at": "2024-02-21T13:20:29",
+    "updated_at": "2024-02-21T13:20:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apollographql:apollo_client:2.6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

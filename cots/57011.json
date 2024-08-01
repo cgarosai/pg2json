@@ -1,0 +1,10 @@
+{
+    "id": 57011,
+    "name": "snmp_agents_for_linux",
+    "version": "8.4.0",
+    "created_at": "2012-05-03T12:22:48",
+    "updated_at": "2012-05-30T18:54:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:snmp_agents_for_linux:8.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

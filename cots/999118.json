@@ -1,0 +1,10 @@
+{
+    "id": 999118,
+    "name": "ppp",
+    "version": "2.3.5",
+    "created_at": "2022-12-21T14:59:50",
+    "updated_at": "2022-12-21T17:21:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samba:ppp:2.3.5:*:*:*:*:solaris:*:*",
+    "to_analyse": false
+}

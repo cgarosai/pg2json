@@ -1,0 +1,10 @@
+{
+    "id": 852540,
+    "name": "cloud_native_operator",
+    "version": "2.2.1",
+    "created_at": "2022-03-15T16:51:10",
+    "updated_at": "2022-05-13T14:01:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:couchbase:cloud_native_operator:2.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 424566,
+    "name": "serverwg",
+    "version": "-",
+    "created_at": "2019-11-08T18:00:13",
+    "updated_at": "2019-11-08T18:00:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serverwg_project:serverwg:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

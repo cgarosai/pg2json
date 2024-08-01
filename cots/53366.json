@@ -1,0 +1,10 @@
+{
+    "id": 53366,
+    "name": "sansurfer_fc_hba_manager",
+    "version": "1.0.0.0",
+    "created_at": "2012-07-10T01:17:43",
+    "updated_at": "2012-07-10T01:17:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qlogic:sansurfer_fc_hba_manager:1.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

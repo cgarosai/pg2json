@@ -1,0 +1,10 @@
+{
+    "id": 217770,
+    "name": "celeron",
+    "version": "j4105",
+    "created_at": "2019-03-18T14:12:52",
+    "updated_at": "2019-03-18T14:12:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:celeron:j4105:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

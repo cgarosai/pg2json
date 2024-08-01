@@ -1,0 +1,10 @@
+{
+    "id": 599878,
+    "name": "exchange_server",
+    "version": "2019",
+    "created_at": "2020-09-14T14:34:09",
+    "updated_at": "2020-09-14T14:34:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:exchange_server:2019:cumulative_update_6:*:*:*:*:*:*",
+    "to_analyse": false
+}

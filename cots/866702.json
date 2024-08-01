@@ -1,0 +1,10 @@
+{
+    "id": 866702,
+    "name": "price_table",
+    "version": "0.2.2",
+    "created_at": "2022-03-24T14:38:48",
+    "updated_at": "2022-09-29T12:59:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:price_table_project:price_table:0.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

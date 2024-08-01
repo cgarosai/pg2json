@@ -1,0 +1,10 @@
+{
+    "id": 86593,
+    "name": "keynote",
+    "version": "5.0",
+    "created_at": "2013-10-24T16:20:38",
+    "updated_at": "2014-04-23T15:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:keynote:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

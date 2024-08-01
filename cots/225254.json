@@ -1,0 +1,10 @@
+{
+    "id": 225254,
+    "name": "hbase",
+    "version": "2.1.0",
+    "created_at": "2019-04-05T11:42:33",
+    "updated_at": "2019-04-05T11:42:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:hbase:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

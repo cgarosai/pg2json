@@ -1,0 +1,10 @@
+{
+    "id": 985018,
+    "name": "capsule",
+    "version": "0.0.5",
+    "created_at": "2022-12-05T17:25:56",
+    "updated_at": "2022-12-05T19:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clastix:capsule:0.0.5:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

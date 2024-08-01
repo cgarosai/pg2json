@@ -1,0 +1,10 @@
+{
+    "id": 567792,
+    "name": "sling",
+    "version": "1.0.4",
+    "created_at": "2020-07-01T10:37:55",
+    "updated_at": "2020-07-01T10:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:sling:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

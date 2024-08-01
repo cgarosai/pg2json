@@ -1,0 +1,10 @@
+{
+    "id": 925008,
+    "name": "dl8000_firmware",
+    "version": "-",
+    "created_at": "2022-08-16T16:03:39",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emerson:dl8000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 216679,
+    "name": "email_extension",
+    "version": "2.59",
+    "created_at": "2019-03-12T13:32:01",
+    "updated_at": "2019-03-12T13:32:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:email_extension:2.59:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

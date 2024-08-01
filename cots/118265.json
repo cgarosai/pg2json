@@ -1,0 +1,10 @@
+{
+    "id": 118265,
+    "name": "universal_cmbd_configuration_manager",
+    "version": "10.10",
+    "created_at": "2016-06-09T13:17:25",
+    "updated_at": "2021-06-03T11:10:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:universal_cmbd_configuration_manager:10.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

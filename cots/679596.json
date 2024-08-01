@@ -1,0 +1,10 @@
+{
+    "id": 679596,
+    "name": "rancher",
+    "version": "2.3.10",
+    "created_at": "2021-03-18T15:21:10",
+    "updated_at": "2022-04-13T21:40:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rancher:rancher:2.3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

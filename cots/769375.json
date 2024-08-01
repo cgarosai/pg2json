@@ -1,0 +1,10 @@
+{
+    "id": 769375,
+    "name": "mockserver",
+    "version": "3.9.17",
+    "created_at": "2021-08-24T15:59:33",
+    "updated_at": "2021-08-24T16:00:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mock-server:mockserver:3.9.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

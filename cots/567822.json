@@ -1,0 +1,10 @@
+{
+    "id": 567822,
+    "name": "rbenv",
+    "version": "-",
+    "created_at": "2020-07-01T11:00:36",
+    "updated_at": "2020-07-01T11:00:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rbenv_project:rbenv:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

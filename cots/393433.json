@@ -1,0 +1,10 @@
+{
+    "id": 393433,
+    "name": "websphere_application_server",
+    "version": "7.0.0.0",
+    "created_at": "2019-10-04T12:15:01",
+    "updated_at": "2019-10-04T12:15:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.0:*:*:*:hypervisor:*:*:*",
+    "to_analyse": false
+}

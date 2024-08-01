@@ -1,0 +1,10 @@
+{
+    "id": 433168,
+    "name": "cs1000e\\/cs1000m_signaling_server",
+    "version": "-",
+    "created_at": "2019-11-20T18:16:11",
+    "updated_at": "2021-04-14T14:34:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:avaya:cs1000e\\/cs1000m_signaling_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

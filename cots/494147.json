@@ -1,0 +1,10 @@
+{
+    "id": 494147,
+    "name": "sg250x-24_firmware",
+    "version": "2.5.0.90",
+    "created_at": "2020-02-27T12:08:11",
+    "updated_at": "2020-02-27T12:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg250x-24_firmware:2.5.0.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

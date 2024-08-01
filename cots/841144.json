@@ -1,0 +1,10 @@
+{
+    "id": 841144,
+    "name": "simatic_s7-1500_cpu_1510sp-1_firmware",
+    "version": "2.9.2",
+    "created_at": "2022-02-11T14:01:42",
+    "updated_at": "2022-03-01T00:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1510sp-1_firmware:2.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

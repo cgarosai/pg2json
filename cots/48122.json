@@ -1,0 +1,10 @@
+{
+    "id": 48122,
+    "name": "telepresence_e20_software",
+    "version": "te2.2.1",
+    "created_at": "2011-09-01T11:56:27",
+    "updated_at": "2012-02-10T18:46:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_e20_software:te2.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

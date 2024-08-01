@@ -1,0 +1,10 @@
+{
+    "id": 1216472,
+    "name": "c-core",
+    "version": "2.5.8",
+    "created_at": "2023-12-11T14:16:25",
+    "updated_at": "2023-12-11T14:16:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pubnub:c-core:2.5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 875761,
+    "name": "openshift_logging",
+    "version": "5.3",
+    "created_at": "2022-04-15T15:22:55",
+    "updated_at": "2022-06-06T11:54:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_logging:5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 685412,
+    "name": "braces",
+    "version": "2.2.0",
+    "created_at": "2021-03-30T15:25:42",
+    "updated_at": "2021-03-31T11:55:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:braces_project:braces:2.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

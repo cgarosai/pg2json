@@ -1,0 +1,10 @@
+{
+    "id": 29718,
+    "name": "sql_data_compare",
+    "version": "5.3",
+    "created_at": "2009-11-25T17:35:02",
+    "updated_at": "2009-11-25T17:35:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:red-gate:sql_data_compare:5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 250812,
+    "name": "release_automation",
+    "version": "6.5.0.10080",
+    "created_at": "2019-06-11T13:17:21",
+    "updated_at": "2021-04-12T12:17:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:release_automation:6.5.0.10080:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

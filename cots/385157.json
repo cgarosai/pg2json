@@ -1,0 +1,10 @@
+{
+    "id": 385157,
+    "name": "http-signature",
+    "version": "0.9.0",
+    "created_at": "2019-09-23T15:11:20",
+    "updated_at": "2019-09-23T15:11:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joyent:http-signature:0.9.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

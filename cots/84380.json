@@ -1,0 +1,10 @@
+{
+    "id": 84380,
+    "name": "guided_procedures_archive_monitor",
+    "version": "-",
+    "created_at": "2014-04-11T14:31:14",
+    "updated_at": "2014-04-16T18:25:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:guided_procedures_archive_monitor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

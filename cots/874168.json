@@ -1,0 +1,10 @@
+{
+    "id": 874168,
+    "name": "connext_dds_secure",
+    "version": "6.1.0",
+    "created_at": "2022-05-12T10:24:06",
+    "updated_at": "2022-09-27T13:42:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rti:connext_dds_secure:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

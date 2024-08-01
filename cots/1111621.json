@@ -1,0 +1,10 @@
+{
+    "id": 1111621,
+    "name": "image_protector",
+    "version": "-",
+    "created_at": "2023-07-14T13:41:52",
+    "updated_at": "2023-07-14T13:58:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:image_protector_project:image_protector:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

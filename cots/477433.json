@@ -1,0 +1,10 @@
+{
+    "id": 477433,
+    "name": "saml_single_sign_on",
+    "version": "3.5.0",
+    "created_at": "2020-01-13T15:23:40",
+    "updated_at": "2020-01-13T15:23:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:3.5.0:*:*:*:*:confluence:*:*",
+    "to_analyse": false
+}

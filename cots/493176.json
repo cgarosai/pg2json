@@ -1,0 +1,10 @@
+{
+    "id": 493176,
+    "name": "control_win",
+    "version": "-",
+    "created_at": "2020-02-26T12:23:31",
+    "updated_at": "2020-02-26T12:23:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_win:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

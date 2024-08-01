@@ -1,0 +1,10 @@
+{
+    "id": 6981,
+    "name": "corporate_desktop",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:41:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pgp:corporate_desktop:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

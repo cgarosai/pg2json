@@ -1,0 +1,10 @@
+{
+    "id": 69100,
+    "name": "prime_security_manager",
+    "version": "9.0",
+    "created_at": "2012-09-13T11:07:58",
+    "updated_at": "2014-04-02T12:18:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_security_manager:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 94339,
+    "name": "zendservice_api",
+    "version": "1.0.0",
+    "created_at": "2014-11-17T15:10:50",
+    "updated_at": "2015-02-11T14:04:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zend:zendservice_api:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

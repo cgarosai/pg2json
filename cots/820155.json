@@ -1,0 +1,10 @@
+{
+    "id": 820155,
+    "name": "suitecrm",
+    "version": "8.0",
+    "created_at": "2021-12-21T12:19:38",
+    "updated_at": "2022-01-04T15:49:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:salesagility:suitecrm:8.0:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

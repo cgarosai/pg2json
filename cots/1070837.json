@@ -1,0 +1,10 @@
+{
+    "id": 1070837,
+    "name": "webassembly",
+    "version": "1.0",
+    "created_at": "2023-05-09T12:47:00",
+    "updated_at": "2023-05-09T15:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:w3:webassembly:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10261,
+    "name": "linux",
+    "version": "3.0.3",
+    "created_at": "2007-09-12T20:56:03",
+    "updated_at": "2008-04-15T20:37:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:linux:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

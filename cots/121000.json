@@ -1,0 +1,10 @@
+{
+    "id": 121000,
+    "name": "athen_state_bank_mobile_banking",
+    "version": "3.0.0",
+    "created_at": "2017-06-26T15:04:08",
+    "updated_at": "2021-05-26T12:37:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:athensstatebank:athen_state_bank_mobile_banking:3.0.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

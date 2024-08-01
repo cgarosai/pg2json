@@ -1,0 +1,10 @@
+{
+    "id": 555719,
+    "name": "rv110w_firmware",
+    "version": "1.2.1.7",
+    "created_at": "2020-05-28T16:12:48",
+    "updated_at": "2020-05-28T16:12:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv110w_firmware:1.2.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 52076,
+    "name": "global_redirect",
+    "version": "7.x-1.x",
+    "created_at": "2012-06-26T11:52:44",
+    "updated_at": "2012-07-09T11:42:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nicholasthompson:global_redirect:7.x-1.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

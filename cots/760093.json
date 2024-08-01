@@ -1,0 +1,10 @@
+{
+    "id": 760093,
+    "name": "nexpose",
+    "version": "6.6.95",
+    "created_at": "2021-08-25T13:19:09",
+    "updated_at": "2021-08-26T12:12:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rapid7:nexpose:6.6.95:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

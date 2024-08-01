@@ -1,0 +1,10 @@
+{
+    "id": 560332,
+    "name": "windows",
+    "version": "-",
+    "created_at": "2020-07-08T15:41:48",
+    "updated_at": "2020-07-08T15:41:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

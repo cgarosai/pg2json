@@ -1,0 +1,10 @@
+{
+    "id": 1169053,
+    "name": "securewatch_managed_services",
+    "version": "9.7.2.0020",
+    "created_at": "2023-09-28T11:02:40",
+    "updated_at": "2023-09-28T11:02:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:corero:securewatch_managed_services:9.7.2.0020:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

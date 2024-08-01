@@ -1,0 +1,10 @@
+{
+    "id": 580169,
+    "name": "templ8",
+    "version": "0.9.17",
+    "created_at": "2020-08-21T15:37:51",
+    "updated_at": "2020-08-21T15:37:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:templ8_project:templ8:0.9.17:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

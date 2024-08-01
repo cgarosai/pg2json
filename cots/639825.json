@@ -1,0 +1,10 @@
+{
+    "id": 639825,
+    "name": "sdm712_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:46:22",
+    "updated_at": "2020-12-21T12:46:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sdm712_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

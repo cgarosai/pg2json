@@ -1,0 +1,10 @@
+{
+    "id": 295358,
+    "name": "user_dashboard",
+    "version": "7.x-1.4",
+    "created_at": "2019-07-11T16:34:04",
+    "updated_at": "2019-07-11T16:34:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user_dashboard_project:user_dashboard:7.x-1.4:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 652537,
+    "name": "ldap_git_backup",
+    "version": "1.0.7",
+    "created_at": "2021-02-18T15:12:40",
+    "updated_at": "2021-03-03T19:52:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ldap_git_backup_project:ldap_git_backup:1.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 81173,
+    "name": "csound",
+    "version": "5.16.6",
+    "created_at": "2014-02-05T15:02:28",
+    "updated_at": "2014-02-05T15:26:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:csounds:csound:5.16.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

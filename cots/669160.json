@@ -1,0 +1,10 @@
+{
+    "id": 669160,
+    "name": "diskstation_manager_unified_controller",
+    "version": "3.0",
+    "created_at": "2021-02-27T00:52:20",
+    "updated_at": "2021-05-27T16:02:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synology:diskstation_manager_unified_controller:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

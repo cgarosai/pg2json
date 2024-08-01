@@ -1,0 +1,10 @@
+{
+    "id": 897236,
+    "name": "cri-o",
+    "version": "1.22.5",
+    "created_at": "2022-06-13T11:29:23",
+    "updated_at": "2022-06-14T11:22:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:cri-o:1.22.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

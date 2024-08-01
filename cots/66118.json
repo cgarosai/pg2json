@@ -1,0 +1,10 @@
+{
+    "id": 66118,
+    "name": "bitcoind",
+    "version": "0.3.10",
+    "created_at": "2012-08-07T12:31:12",
+    "updated_at": "2020-03-18T16:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitcoin:bitcoind:0.3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

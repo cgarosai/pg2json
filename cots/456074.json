@@ -1,0 +1,10 @@
+{
+    "id": 456074,
+    "name": "access_appliance",
+    "version": "7.4.2",
+    "created_at": "2019-12-06T13:59:42",
+    "updated_at": "2019-12-06T13:59:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:access_appliance:7.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

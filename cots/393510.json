@@ -1,0 +1,10 @@
+{
+    "id": 393510,
+    "name": "bigfix_inventory",
+    "version": "9.2.4",
+    "created_at": "2019-10-04T12:45:46",
+    "updated_at": "2019-10-04T12:45:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:bigfix_inventory:9.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

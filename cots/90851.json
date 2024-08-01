@@ -1,0 +1,10 @@
+{
+    "id": 90851,
+    "name": "ns12_hmi_terminal",
+    "version": "-",
+    "created_at": "2014-07-24T16:23:43",
+    "updated_at": "2014-07-24T16:53:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:omron:ns12_hmi_terminal:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

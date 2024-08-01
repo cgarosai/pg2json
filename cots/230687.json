@@ -1,0 +1,10 @@
+{
+    "id": 230687,
+    "name": "kintone",
+    "version": "1.0.3",
+    "created_at": "2019-05-08T16:59:48",
+    "updated_at": "2019-05-08T16:59:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybozu:kintone:1.0.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

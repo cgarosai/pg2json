@@ -1,0 +1,10 @@
+{
+    "id": 1229332,
+    "name": "classic_lockss_daemon",
+    "version": "1.75.9",
+    "created_at": "2023-12-29T09:15:30",
+    "updated_at": "2023-12-29T09:15:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lockss:classic_lockss_daemon:1.75.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

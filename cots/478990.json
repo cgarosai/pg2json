@@ -1,0 +1,10 @@
+{
+    "id": 478990,
+    "name": "xeon_4116",
+    "version": "-",
+    "created_at": "2020-01-15T13:41:48",
+    "updated_at": "2020-01-15T13:41:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_4116:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

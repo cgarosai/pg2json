@@ -1,0 +1,10 @@
+{
+    "id": 77405,
+    "name": "payment",
+    "version": "-",
+    "created_at": "2013-03-28T13:11:02",
+    "updated_at": "2013-04-09T19:32:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bart_feenstra:payment:-:7.x-1.x:dev:*:*:*:*:*",
+    "to_analyse": false
+}

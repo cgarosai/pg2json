@@ -1,0 +1,10 @@
+{
+    "id": 391773,
+    "name": "ic3000_firmware",
+    "version": "-",
+    "created_at": "2019-10-03T11:52:32",
+    "updated_at": "2021-04-28T13:47:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ic3000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

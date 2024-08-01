@@ -1,0 +1,10 @@
+{
+    "id": 571308,
+    "name": "contour",
+    "version": "0.15.3",
+    "created_at": "2020-08-06T13:37:32",
+    "updated_at": "2020-08-06T13:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:projectcontour:contour:0.15.3:*:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

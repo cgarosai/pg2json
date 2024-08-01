@@ -1,0 +1,10 @@
+{
+    "id": 1048199,
+    "name": "ryzen_master",
+    "version": "2.10.1.2287",
+    "created_at": "2023-03-07T18:06:02",
+    "updated_at": "2023-03-09T18:41:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_master:2.10.1.2287:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

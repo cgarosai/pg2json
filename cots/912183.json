@@ -1,0 +1,10 @@
+{
+    "id": 912183,
+    "name": "pdf_reader",
+    "version": "-",
+    "created_at": "2022-08-09T15:49:18",
+    "updated_at": "2022-10-04T16:53:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:foxit:pdf_reader:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

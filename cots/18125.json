@@ -1,0 +1,10 @@
+{
+    "id": 18125,
+    "name": "tectia_client",
+    "version": "4.3.8k",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:51:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssh:tectia_client:4.3.8k:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

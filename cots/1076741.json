@@ -1,0 +1,10 @@
+{
+    "id": 1076741,
+    "name": "gpu_display_driver",
+    "version": "474.30",
+    "created_at": "2023-04-28T15:04:33",
+    "updated_at": "2023-08-25T11:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_display_driver:474.30:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

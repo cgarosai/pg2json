@@ -1,0 +1,10 @@
+{
+    "id": 5273,
+    "name": "call_management_system_server",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:36:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:call_management_system_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

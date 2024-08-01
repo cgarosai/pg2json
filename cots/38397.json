@@ -1,0 +1,10 @@
+{
+    "id": 38397,
+    "name": "enterprise_distribution",
+    "version": "1.5",
+    "created_at": "2010-10-28T11:56:46",
+    "updated_at": "2010-10-28T15:37:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openfabrics:enterprise_distribution:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

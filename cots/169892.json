@@ -1,0 +1,10 @@
+{
+    "id": 169892,
+    "name": "mssql.js",
+    "version": "-",
+    "created_at": "2018-07-26T10:39:43",
+    "updated_at": "2018-07-26T10:39:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mssql.js_project:mssql.js:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

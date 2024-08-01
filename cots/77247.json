@@ -1,0 +1,10 @@
+{
+    "id": 77247,
+    "name": "user_relationships",
+    "version": "6.x-1.0",
+    "created_at": "2013-03-21T13:35:02",
+    "updated_at": "2013-04-02T14:59:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user_relationships_project:user_relationships:6.x-1.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

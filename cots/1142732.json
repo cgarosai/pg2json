@@ -1,0 +1,10 @@
+{
+    "id": 1142732,
+    "name": "manageengine_log360_ueba",
+    "version": "4.0",
+    "created_at": "2023-09-01T14:14:54",
+    "updated_at": "2023-09-02T00:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_log360_ueba:4.0:build4021:*:*:*:*:*:*",
+    "to_analyse": false
+}

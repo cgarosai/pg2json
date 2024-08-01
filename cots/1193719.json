@@ -1,0 +1,10 @@
+{
+    "id": 1193719,
+    "name": "org.eclipse.core.runtime",
+    "version": "3.17.100",
+    "created_at": "2023-11-22T16:07:21",
+    "updated_at": "2023-11-22T16:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:org.eclipse.core.runtime:3.17.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 72449,
+    "name": "secure_access_2000",
+    "version": "-",
+    "created_at": "2013-08-01T16:26:37",
+    "updated_at": "2014-03-03T19:14:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:secure_access_2000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

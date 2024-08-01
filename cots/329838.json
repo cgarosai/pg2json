@@ -1,0 +1,10 @@
+{
+    "id": 329838,
+    "name": "jstestdriver",
+    "version": "1.0.0",
+    "created_at": "2019-08-01T12:46:46",
+    "updated_at": "2019-08-01T12:46:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jstestdriver_project:jstestdriver:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

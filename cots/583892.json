@@ -1,0 +1,10 @@
+{
+    "id": 583892,
+    "name": "cache",
+    "version": "1.8.2",
+    "created_at": "2020-09-02T11:17:13",
+    "updated_at": "2020-09-02T11:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:doctrine-project:cache:1.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

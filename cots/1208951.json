@@ -1,0 +1,10 @@
+{
+    "id": 1208951,
+    "name": "apm_java_agent",
+    "version": "1.41.0",
+    "created_at": "2023-11-30T15:11:39",
+    "updated_at": "2023-11-30T15:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:apm_java_agent:1.41.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

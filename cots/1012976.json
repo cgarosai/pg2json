@@ -1,0 +1,10 @@
+{
+    "id": 1012976,
+    "name": "manageengine_endpoint_dlp_plus",
+    "version": "-",
+    "created_at": "2023-01-25T15:05:56",
+    "updated_at": "2023-01-27T13:24:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_endpoint_dlp_plus:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

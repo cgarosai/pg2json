@@ -1,0 +1,10 @@
+{
+    "id": 106002,
+    "name": "netflow_analyzer",
+    "version": "-",
+    "created_at": "2014-12-17T17:19:18",
+    "updated_at": "2015-02-12T00:05:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:manageengine:netflow_analyzer:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

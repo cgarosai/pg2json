@@ -1,0 +1,10 @@
+{
+    "id": 909,
+    "name": "traffic_anomaly_detector_module",
+    "version": "5.0\\(3\\)",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-06-17T15:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:traffic_anomaly_detector_module:5.0\\(3\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

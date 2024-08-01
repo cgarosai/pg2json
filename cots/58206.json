@@ -1,0 +1,10 @@
+{
+    "id": 58206,
+    "name": "ftpshell_server",
+    "version": "2002",
+    "created_at": "2012-05-14T21:29:10",
+    "updated_at": "2012-05-14T21:29:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ftpshell:ftpshell_server:2002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

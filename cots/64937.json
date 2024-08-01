@@ -1,0 +1,10 @@
+{
+    "id": 64937,
+    "name": "avamar_plugin",
+    "version": "5.0",
+    "created_at": "2013-01-22T14:54:01",
+    "updated_at": "2013-01-23T19:02:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:avamar_plugin:5.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

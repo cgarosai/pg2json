@@ -1,0 +1,10 @@
+{
+    "id": 111335,
+    "name": "libarchive",
+    "version": "3.2.0",
+    "created_at": "2016-09-22T16:52:13",
+    "updated_at": "2016-09-22T16:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libarchive:libarchive:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

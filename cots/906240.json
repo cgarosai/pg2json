@@ -1,0 +1,10 @@
+{
+    "id": 906240,
+    "name": "stardom_fcn_firmware",
+    "version": "r4.10",
+    "created_at": "2022-07-06T13:53:17",
+    "updated_at": "2022-07-07T12:15:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yokogawa:stardom_fcn_firmware:r4.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

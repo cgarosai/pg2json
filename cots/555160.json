@@ -1,0 +1,10 @@
+{
+    "id": 555160,
+    "name": "iframe",
+    "version": "4.5",
+    "created_at": "2020-05-28T13:48:02",
+    "updated_at": "2021-07-21T12:28:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iframe_project:iframe:4.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

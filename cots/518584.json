@@ -1,0 +1,10 @@
+{
+    "id": 518584,
+    "name": "virtual_gpu_graphics_driver",
+    "version": "-",
+    "created_at": "2020-03-18T18:20:30",
+    "updated_at": "2020-03-18T18:20:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:virtual_gpu_graphics_driver:-:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

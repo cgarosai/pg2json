@@ -1,0 +1,10 @@
+{
+    "id": 955919,
+    "name": "anymap",
+    "version": "0.9.7",
+    "created_at": "2022-10-17T17:15:21",
+    "updated_at": "2022-10-17T17:17:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anymap_project:anymap:0.9.7:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

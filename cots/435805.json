@@ -1,0 +1,10 @@
+{
+    "id": 435805,
+    "name": "pivx",
+    "version": "0.7.2",
+    "created_at": "2019-11-12T18:38:03",
+    "updated_at": "2019-11-12T18:38:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivx:pivx:0.7.2:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

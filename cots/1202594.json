@@ -1,0 +1,10 @@
+{
+    "id": 1202594,
+    "name": "premium_addons",
+    "version": "1.6.7",
+    "created_at": "2023-12-05T15:08:21",
+    "updated_at": "2023-12-05T15:08:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:leap13:premium_addons:1.6.7:*:*:*:pro:wordpress:*:*",
+    "to_analyse": false
+}

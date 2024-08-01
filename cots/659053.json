@@ -1,0 +1,10 @@
+{
+    "id": 659053,
+    "name": "arm",
+    "version": "-",
+    "created_at": "2021-02-10T13:44:24",
+    "updated_at": "2021-04-13T14:27:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arm:arm:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

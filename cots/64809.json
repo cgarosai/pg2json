@@ -1,0 +1,10 @@
+{
+    "id": 64809,
+    "name": "database_mobile\\/lite_server",
+    "version": "10.3.0.3",
+    "created_at": "2013-01-17T17:07:13",
+    "updated_at": "2013-01-18T21:49:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:database_mobile\\/lite_server:10.3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

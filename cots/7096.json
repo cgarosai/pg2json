@@ -1,0 +1,10 @@
+{
+    "id": 7096,
+    "name": "power_tool",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:power_tool:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

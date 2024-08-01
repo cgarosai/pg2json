@@ -1,0 +1,10 @@
+{
+    "id": 1209600,
+    "name": "kyverno",
+    "version": "1.8.2",
+    "created_at": "2023-12-01T09:42:50",
+    "updated_at": "2023-12-01T09:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kyverno:kyverno:1.8.2:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

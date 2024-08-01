@@ -1,0 +1,10 @@
+{
+    "id": 132434,
+    "name": "kmc-bc",
+    "version": "7.40",
+    "created_at": "2018-01-01T17:13:02",
+    "updated_at": "2021-07-27T23:09:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:kmc-bc:7.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

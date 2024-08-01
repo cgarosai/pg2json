@@ -1,0 +1,10 @@
+{
+    "id": 69389,
+    "name": "librsvg",
+    "version": "2.20.0",
+    "created_at": "2012-09-17T21:40:15",
+    "updated_at": "2012-09-17T21:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:librsvg:2.20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

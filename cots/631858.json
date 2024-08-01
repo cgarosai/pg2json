@@ -1,0 +1,10 @@
+{
+    "id": 631858,
+    "name": "spatial_and_graph",
+    "version": "18c",
+    "created_at": "2020-12-28T12:06:04",
+    "updated_at": "2020-12-28T12:06:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:spatial_and_graph:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

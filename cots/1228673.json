@@ -1,0 +1,10 @@
+{
+    "id": 1228673,
+    "name": "appmysite",
+    "version": "3.11.0",
+    "created_at": "2023-12-27T13:23:46",
+    "updated_at": "2023-12-27T13:23:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appmysite:appmysite:3.11.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

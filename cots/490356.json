@@ -1,0 +1,10 @@
+{
+    "id": 490356,
+    "name": "ar100-s_firmware",
+    "version": "v200r007c00spcb00",
+    "created_at": "2020-02-21T19:58:58",
+    "updated_at": "2020-02-21T19:58:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar100-s_firmware:v200r007c00spcb00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

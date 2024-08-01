@@ -1,0 +1,10 @@
+{
+    "id": 180564,
+    "name": "isilon_onefs",
+    "version": "8.0.0.2",
+    "created_at": "2018-11-08T14:01:05",
+    "updated_at": "2021-03-18T13:56:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:isilon_onefs:8.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

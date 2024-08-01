@@ -1,0 +1,10 @@
+{
+    "id": 57296,
+    "name": "data_services",
+    "version": "12.1.0.0",
+    "created_at": "2012-05-08T11:50:28",
+    "updated_at": "2012-05-08T11:50:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:businessobjects:data_services:12.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 677060,
+    "name": "ps-kill",
+    "version": "1.0.0",
+    "created_at": "2021-03-15T17:43:34",
+    "updated_at": "2021-03-16T14:14:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ps-kill_project:ps-kill:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

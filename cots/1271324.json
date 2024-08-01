@@ -1,0 +1,10 @@
+{
+    "id": 1271324,
+    "name": "http_file_server",
+    "version": "0.53.0",
+    "created_at": "2024-07-08T13:49:52",
+    "updated_at": "2024-07-08T13:49:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rejetto:http_file_server:0.53.0:alpha6:*:*:*:*:*:*",
+    "to_analyse": false
+}

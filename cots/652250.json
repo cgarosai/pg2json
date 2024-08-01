@@ -1,0 +1,10 @@
+{
+    "id": 652250,
+    "name": "sma_410",
+    "version": "-",
+    "created_at": "2021-02-17T16:52:52",
+    "updated_at": "2021-02-17T16:52:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:sma_410:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

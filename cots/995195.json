@@ -1,0 +1,10 @@
+{
+    "id": 995195,
+    "name": "manageengine_eventlog_analyzer",
+    "version": "11.7",
+    "created_at": "2022-12-16T15:04:10",
+    "updated_at": "2022-12-16T16:25:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_eventlog_analyzer:11.7:11072:*:*:*:*:*:*",
+    "to_analyse": false
+}

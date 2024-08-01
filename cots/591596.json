@@ -1,0 +1,10 @@
+{
+    "id": 591596,
+    "name": "rabbitmq",
+    "version": "3.8.3",
+    "created_at": "2020-09-18T17:04:17",
+    "updated_at": "2022-03-17T13:05:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:rabbitmq:3.8.3:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

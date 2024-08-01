@@ -1,0 +1,10 @@
+{
+    "id": 30695,
+    "name": "mds_9000_san-os",
+    "version": "3.2",
+    "created_at": "2010-12-28T16:30:06",
+    "updated_at": "2010-12-28T16:30:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:mds_9000_san-os:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

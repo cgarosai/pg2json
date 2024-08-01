@@ -1,0 +1,10 @@
+{
+    "id": 614589,
+    "name": "y18n",
+    "version": "-",
+    "created_at": "2020-11-23T22:19:28",
+    "updated_at": "2020-11-23T22:19:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:y18n_project:y18n:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

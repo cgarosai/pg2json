@@ -1,0 +1,10 @@
+{
+    "id": 501321,
+    "name": "optiplex_5250_firmware",
+    "version": "1.13.1",
+    "created_at": "2020-03-06T19:00:00",
+    "updated_at": "2020-03-06T19:00:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_5250_firmware:1.13.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

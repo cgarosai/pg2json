@@ -1,0 +1,10 @@
+{
+    "id": 374172,
+    "name": "st",
+    "version": "0.3.0",
+    "created_at": "2019-09-23T12:03:59",
+    "updated_at": "2019-09-23T12:03:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:st_project:st:0.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

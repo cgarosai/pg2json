@@ -1,0 +1,10 @@
+{
+    "id": 1261901,
+    "name": "gpac",
+    "version": "1.1.0-dev-rev1663-g881c6a94a-master",
+    "created_at": "2024-05-09T11:44:04",
+    "updated_at": "2024-05-09T11:44:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

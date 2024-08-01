@@ -1,0 +1,10 @@
+{
+    "id": 151632,
+    "name": "assurity_firmware",
+    "version": "f14.07.80",
+    "created_at": "2018-05-30T11:16:13",
+    "updated_at": "2021-06-14T16:29:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abbott:assurity_firmware:f14.07.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

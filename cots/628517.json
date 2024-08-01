@@ -1,0 +1,10 @@
+{
+    "id": 628517,
+    "name": "next.js",
+    "version": "9.5.2",
+    "created_at": "2020-12-03T11:50:15",
+    "updated_at": "2020-12-03T11:50:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vercel:next.js:9.5.2:canary14:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

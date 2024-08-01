@@ -1,0 +1,10 @@
+{
+    "id": 469467,
+    "name": "requests-kerberos",
+    "version": "0.5",
+    "created_at": "2019-12-27T17:45:15",
+    "updated_at": "2019-12-27T17:45:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:requests-kerberos_project:requests-kerberos:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

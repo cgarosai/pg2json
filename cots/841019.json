@@ -1,0 +1,10 @@
+{
+    "id": 841019,
+    "name": "web_dispatcher",
+    "version": "7.87",
+    "created_at": "2022-02-10T21:07:18",
+    "updated_at": "2022-04-08T16:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:web_dispatcher:7.87:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 640158,
+    "name": "remote-login-service",
+    "version": "-",
+    "created_at": "2021-01-21T11:03:33",
+    "updated_at": "2021-05-20T13:18:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:remote-login-service:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

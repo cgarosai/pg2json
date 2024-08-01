@@ -1,0 +1,10 @@
+{
+    "id": 659546,
+    "name": "ms3d",
+    "version": "-",
+    "created_at": "2021-02-10T17:43:39",
+    "updated_at": "2021-02-10T17:43:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ms3d_project:ms3d:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491323,
+    "name": "scalance_s615_firmware",
+    "version": "6.1.2",
+    "created_at": "2020-02-24T14:00:32",
+    "updated_at": "2020-02-24T14:00:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_s615_firmware:6.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

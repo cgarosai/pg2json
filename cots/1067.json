@@ -1,0 +1,10 @@
+{
+    "id": 1067,
+    "name": "vpn_3080_concentrator",
+    "version": "4.1.7.l",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-28T16:38:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vpn_3080_concentrator:4.1.7.l:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

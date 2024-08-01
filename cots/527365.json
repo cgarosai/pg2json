@@ -1,0 +1,10 @@
+{
+    "id": 527365,
+    "name": "cmg_suite",
+    "version": "8.4",
+    "created_at": "2020-04-01T17:42:40",
+    "updated_at": "2020-04-01T17:42:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitel:cmg_suite:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

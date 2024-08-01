@@ -1,0 +1,10 @@
+{
+    "id": 152048,
+    "name": "ap100_firmware",
+    "version": "1.2.9.15",
+    "created_at": "2018-06-06T11:57:48",
+    "updated_at": "2021-04-26T16:55:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:watchguard:ap100_firmware:1.2.9.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

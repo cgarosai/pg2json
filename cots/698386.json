@@ -1,0 +1,10 @@
+{
+    "id": 698386,
+    "name": "advanced_server_access",
+    "version": "1.41.0",
+    "created_at": "2021-04-19T17:04:46",
+    "updated_at": "2021-04-20T14:51:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:okta:advanced_server_access:1.41.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

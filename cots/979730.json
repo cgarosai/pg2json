@@ -1,0 +1,10 @@
+{
+    "id": 979730,
+    "name": "video_thumbnails",
+    "version": "-",
+    "created_at": "2022-11-29T17:25:00",
+    "updated_at": "2022-11-29T18:11:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:video_thumbnails_project:video_thumbnails:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 701148,
+    "name": "spark",
+    "version": "1.2.0",
+    "created_at": "2021-05-20T15:30:36",
+    "updated_at": "2021-05-20T15:54:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fire:spark:1.2.0:dstu2:*:*:*:*:*:*",
+    "to_analyse": false
+}

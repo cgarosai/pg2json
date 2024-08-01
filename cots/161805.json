@@ -1,0 +1,10 @@
+{
+    "id": 161805,
+    "name": "redis",
+    "version": "2.6.10-1",
+    "created_at": "2018-08-07T15:14:07",
+    "updated_at": "2018-08-07T15:14:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redislabs:redis:2.6.10-1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

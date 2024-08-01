@@ -1,0 +1,10 @@
+{
+    "id": 1176295,
+    "name": "redisson",
+    "version": "1.1.1",
+    "created_at": "2023-10-10T12:19:16",
+    "updated_at": "2023-10-10T12:19:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redisson:redisson:1.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

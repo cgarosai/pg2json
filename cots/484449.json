@@ -1,0 +1,10 @@
+{
+    "id": 484449,
+    "name": "firepower_appliance_8360",
+    "version": "-",
+    "created_at": "2020-02-10T15:07:21",
+    "updated_at": "2020-02-10T15:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_appliance_8360:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

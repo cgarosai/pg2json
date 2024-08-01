@@ -1,0 +1,10 @@
+{
+    "id": 540016,
+    "name": "zephyr",
+    "version": "1.14.2",
+    "created_at": "2020-05-14T10:05:10",
+    "updated_at": "2020-05-14T10:12:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

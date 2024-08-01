@@ -1,0 +1,10 @@
+{
+    "id": 852602,
+    "name": "clair",
+    "version": "4.1.0",
+    "created_at": "2022-03-15T17:45:21",
+    "updated_at": "2022-03-16T13:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:clair:4.1.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

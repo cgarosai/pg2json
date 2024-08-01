@@ -1,0 +1,10 @@
+{
+    "id": 820875,
+    "name": "ssh_\\&_web_terminal",
+    "version": "6.4.2",
+    "created_at": "2021-12-27T14:42:11",
+    "updated_at": "2021-12-27T15:19:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssh_\\&_web_terminal_project:ssh_\\&_web_terminal:6.4.2:*:*:*:*:home_assistant:*:*",
+    "to_analyse": false
+}

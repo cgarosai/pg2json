@@ -1,0 +1,10 @@
+{
+    "id": 5596,
+    "name": "network_analysis_module",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:41:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:network_analysis_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

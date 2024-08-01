@@ -1,0 +1,10 @@
+{
+    "id": 970007,
+    "name": "simple\\",
+    "version": "press",
+    "created_at": "2022-11-30T15:41:54",
+    "updated_at": "2022-11-30T15:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple-press:simple\\:press:6.6.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

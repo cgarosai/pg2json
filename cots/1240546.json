@@ -1,0 +1,10 @@
+{
+    "id": 1240546,
+    "name": "movable_type",
+    "version": "7.902.0",
+    "created_at": "2024-02-02T21:20:37",
+    "updated_at": "2024-02-02T21:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sixapart:movable_type:7.902.0:*:*:*:aws:*:*:*",
+    "to_analyse": false
+}

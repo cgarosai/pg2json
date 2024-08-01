@@ -1,0 +1,10 @@
+{
+    "id": 297102,
+    "name": "web_threat_detection",
+    "version": "6.4",
+    "created_at": "2019-07-15T09:40:34",
+    "updated_at": "2019-07-15T09:40:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsa:web_threat_detection:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

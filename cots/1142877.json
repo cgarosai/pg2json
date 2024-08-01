@@ -1,0 +1,10 @@
+{
+    "id": 1142877,
+    "name": "manageengine_recoverymanager_plus",
+    "version": "6.0",
+    "created_at": "2023-09-01T14:40:13",
+    "updated_at": "2023-09-02T00:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_recoverymanager_plus:6.0:build6031:*:*:*:*:*:*",
+    "to_analyse": false
+}

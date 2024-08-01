@@ -1,0 +1,10 @@
+{
+    "id": 114039,
+    "name": "ethernet_converged_network_adapter_xl710-qda2_xl710qda2",
+    "version": "-",
+    "created_at": "2017-01-10T18:57:23",
+    "updated_at": "2021-04-30T15:05:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ethernet_converged_network_adapter_xl710-qda2_xl710qda2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

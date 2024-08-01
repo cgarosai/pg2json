@@ -1,0 +1,10 @@
+{
+    "id": 1118785,
+    "name": "mechanicalsoup",
+    "version": "1.1.0",
+    "created_at": "2023-07-11T13:43:09",
+    "updated_at": "2023-07-11T14:08:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mechanicalsoup_project:mechanicalsoup:1.1.0:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

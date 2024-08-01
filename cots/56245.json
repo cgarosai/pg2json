@@ -1,0 +1,10 @@
+{
+    "id": 56245,
+    "name": "sql_server_for_adtempus",
+    "version": "1.00.0000",
+    "created_at": "2012-04-24T21:23:09",
+    "updated_at": "2012-04-24T21:23:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arcanadev:sql_server_for_adtempus:1.00.0000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

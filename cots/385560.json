@@ -1,0 +1,10 @@
+{
+    "id": 385560,
+    "name": "charset",
+    "version": "1.0.0",
+    "created_at": "2019-09-23T16:09:26",
+    "updated_at": "2019-09-23T16:09:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:charset_project:charset:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

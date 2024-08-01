@@ -1,0 +1,10 @@
+{
+    "id": 520795,
+    "name": "harbor",
+    "version": "1.7.0",
+    "created_at": "2020-04-07T09:20:22",
+    "updated_at": "2020-07-17T14:37:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cncf:harbor:1.7.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

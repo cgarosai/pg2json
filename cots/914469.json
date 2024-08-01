@@ -1,0 +1,10 @@
+{
+    "id": 914469,
+    "name": "wkhtmltopdf",
+    "version": "-",
+    "created_at": "2022-08-16T13:31:32",
+    "updated_at": "2022-08-17T15:04:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wkhtmltopdf:wkhtmltopdf:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

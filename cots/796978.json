@@ -1,0 +1,10 @@
+{
+    "id": 796978,
+    "name": "operations_support_system-radio_and_core_firmware",
+    "version": "18b",
+    "created_at": "2021-10-15T12:32:53",
+    "updated_at": "2022-04-19T13:50:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ericsson:operations_support_system-radio_and_core_firmware:18b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

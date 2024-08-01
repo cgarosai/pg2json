@@ -1,0 +1,10 @@
+{
+    "id": 18527,
+    "name": "sunos",
+    "version": "5.6",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-04-19T15:13:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sun:sunos:5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

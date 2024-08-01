@@ -1,0 +1,10 @@
+{
+    "id": 165609,
+    "name": "pacsystems_rx3i_cpe310_firmware",
+    "version": "9.20",
+    "created_at": "2018-06-22T17:04:12",
+    "updated_at": "2021-06-08T11:51:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:pacsystems_rx3i_cpe310_firmware:9.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

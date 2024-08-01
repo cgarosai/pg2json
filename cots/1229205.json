@@ -1,0 +1,10 @@
+{
+    "id": 1229205,
+    "name": "product_vendors",
+    "version": "2.1.77",
+    "created_at": "2023-12-29T09:10:56",
+    "updated_at": "2023-12-29T09:10:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woo:product_vendors:2.1.77:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 948120,
+    "name": "mipc_camera",
+    "version": "-",
+    "created_at": "2022-09-27T11:48:10",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mipcm:mipc_camera:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 673698,
+    "name": "ip_helper",
+    "version": "-",
+    "created_at": "2021-03-25T16:26:38",
+    "updated_at": "2021-03-30T12:20:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:ip_helper:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

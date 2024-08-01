@@ -1,0 +1,10 @@
+{
+    "id": 971029,
+    "name": "htsjdk",
+    "version": "3.0.4",
+    "created_at": "2022-12-01T16:09:16",
+    "updated_at": "2022-12-01T16:38:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samtools:htsjdk:3.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

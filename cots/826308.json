@@ -1,0 +1,10 @@
+{
+    "id": 826308,
+    "name": "transport_vc74_firmware",
+    "version": "5.2.4.9",
+    "created_at": "2021-12-14T13:47:30",
+    "updated_at": "2021-12-14T17:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:digi:transport_vc74_firmware:5.2.4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

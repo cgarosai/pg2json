@@ -1,0 +1,10 @@
+{
+    "id": 948810,
+    "name": "omada_software_controller",
+    "version": "5.5.6",
+    "created_at": "2022-09-28T14:58:01",
+    "updated_at": "2022-09-30T12:46:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tp-link:omada_software_controller:5.5.6:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

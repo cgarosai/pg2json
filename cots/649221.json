@@ -1,0 +1,10 @@
+{
+    "id": 649221,
+    "name": "simatic_cp_1243-1_dnp3",
+    "version": "-",
+    "created_at": "2021-01-14T18:45:55",
+    "updated_at": "2021-01-14T18:45:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_cp_1243-1_dnp3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

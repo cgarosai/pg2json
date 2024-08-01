@@ -1,0 +1,10 @@
+{
+    "id": 822958,
+    "name": "buffoon",
+    "version": "0.5.0",
+    "created_at": "2022-01-04T15:42:32",
+    "updated_at": "2022-03-11T14:37:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buffoon_project:buffoon:0.5.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

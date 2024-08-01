@@ -1,0 +1,10 @@
+{
+    "id": 288794,
+    "name": "maestro",
+    "version": "7.x-1.0",
+    "created_at": "2019-07-08T12:44:45",
+    "updated_at": "2019-07-08T12:44:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:maestro_project:maestro:7.x-1.0:alpha2:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

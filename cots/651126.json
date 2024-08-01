@@ -1,0 +1,10 @@
+{
+    "id": 651126,
+    "name": "is-user-valid",
+    "version": "-",
+    "created_at": "2021-02-16T13:40:28",
+    "updated_at": "2021-02-16T13:40:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:is-user-valid_project:is-user-valid:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 78832,
+    "name": "basis_communication_services",
+    "version": "4.6",
+    "created_at": "2013-05-01T12:58:43",
+    "updated_at": "2013-05-23T17:14:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:basis_communication_services:4.6:b:*:*:*:*:*:*",
+    "to_analyse": false
+}

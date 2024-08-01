@@ -1,0 +1,10 @@
+{
+    "id": 556009,
+    "name": "advanced_malware_protection_for_endpoints",
+    "version": "1.10.2",
+    "created_at": "2020-05-29T14:07:26",
+    "updated_at": "2020-05-29T14:07:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.2:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

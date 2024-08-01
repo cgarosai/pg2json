@@ -1,0 +1,10 @@
+{
+    "id": 641100,
+    "name": "one-to-one_fulfillment",
+    "version": "12.2.10",
+    "created_at": "2021-01-25T13:51:33",
+    "updated_at": "2021-01-25T13:51:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:one-to-one_fulfillment:12.2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

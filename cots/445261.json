@@ -1,0 +1,10 @@
+{
+    "id": 445261,
+    "name": "statusnet",
+    "version": "2010",
+    "created_at": "2019-11-22T14:33:08",
+    "updated_at": "2019-11-22T14:33:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:status:statusnet:2010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

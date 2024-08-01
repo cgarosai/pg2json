@@ -1,0 +1,10 @@
+{
+    "id": 259232,
+    "name": "etherpad",
+    "version": "1.5.5",
+    "created_at": "2019-06-10T15:50:59",
+    "updated_at": "2019-06-10T15:50:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:etherpad:etherpad:1.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

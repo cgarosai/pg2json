@@ -1,0 +1,10 @@
+{
+    "id": 178907,
+    "name": "yum-utils",
+    "version": "1.1.31",
+    "created_at": "2018-10-03T11:47:39",
+    "updated_at": "2021-08-11T13:21:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rpm-software-management_project:yum-utils:1.1.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

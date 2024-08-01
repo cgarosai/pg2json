@@ -1,0 +1,10 @@
+{
+    "id": 11033,
+    "name": "slashem-tty",
+    "version": "-",
+    "created_at": "2007-12-11T17:38:14",
+    "updated_at": "2007-12-11T17:38:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freebsd:slashem-tty:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

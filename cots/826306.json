@@ -1,0 +1,10 @@
+{
+    "id": 826306,
+    "name": "wr31_firmware",
+    "version": "6.0.0.0",
+    "created_at": "2021-12-14T13:47:05",
+    "updated_at": "2022-01-21T16:29:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:digi:wr31_firmware:6.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

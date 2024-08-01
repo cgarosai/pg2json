@@ -1,0 +1,10 @@
+{
+    "id": 40140,
+    "name": "com_obsuggest",
+    "version": "1.8",
+    "created_at": "2011-12-14T19:53:53",
+    "updated_at": "2011-12-19T19:05:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:foobla:com_obsuggest:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

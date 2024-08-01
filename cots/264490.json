@@ -1,0 +1,10 @@
+{
+    "id": 264490,
+    "name": "apache_solr_real-time",
+    "version": "7.x-1.2",
+    "created_at": "2019-06-19T15:13:38",
+    "updated_at": "2019-06-19T15:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache_solr_real-time_project:apache_solr_real-time:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

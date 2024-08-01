@@ -1,0 +1,10 @@
+{
+    "id": 752491,
+    "name": "fortiportal",
+    "version": "5.2.2",
+    "created_at": "2021-08-10T12:50:39",
+    "updated_at": "2021-08-10T13:40:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiportal:5.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

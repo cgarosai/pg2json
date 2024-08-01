@@ -1,0 +1,10 @@
+{
+    "id": 744935,
+    "name": "eslint-fixer",
+    "version": "0.0.2",
+    "created_at": "2021-07-29T14:42:45",
+    "updated_at": "2021-07-29T16:00:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eslint-fixer_project:eslint-fixer:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

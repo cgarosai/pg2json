@@ -1,0 +1,10 @@
+{
+    "id": 123464,
+    "name": "openvas_manager",
+    "version": "6.0.4",
+    "created_at": "2017-08-21T20:20:59",
+    "updated_at": "2017-08-21T20:20:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvas:openvas_manager:6.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

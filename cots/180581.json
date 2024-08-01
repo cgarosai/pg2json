@@ -1,0 +1,10 @@
+{
+    "id": 180581,
+    "name": "isilonsd_edge",
+    "version": "8.0.0.0",
+    "created_at": "2018-11-08T14:01:14",
+    "updated_at": "2021-03-18T13:56:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:isilonsd_edge:8.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

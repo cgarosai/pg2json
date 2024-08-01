@@ -1,0 +1,10 @@
+{
+    "id": 593175,
+    "name": "compute_stick_stk1a32sc_firmware",
+    "version": "sc0045",
+    "created_at": "2020-09-23T10:46:15",
+    "updated_at": "2020-09-23T10:46:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:compute_stick_stk1a32sc_firmware:sc0045:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

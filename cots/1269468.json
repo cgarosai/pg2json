@@ -1,0 +1,10 @@
+{
+    "id": 1269468,
+    "name": "dirac",
+    "version": "-",
+    "created_at": "2024-04-11T16:25:05",
+    "updated_at": "2024-04-11T16:25:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diracgrid:dirac:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

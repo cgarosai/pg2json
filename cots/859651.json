@@ -1,0 +1,10 @@
+{
+    "id": 859651,
+    "name": "enterprise_storage_analytics",
+    "version": "6.2.2",
+    "created_at": "2022-03-09T15:24:51",
+    "updated_at": "2022-03-10T15:54:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:enterprise_storage_analytics:6.2.2:*:*:*:*:vrealize_operations:*:*",
+    "to_analyse": false
+}

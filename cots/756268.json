@@ -1,0 +1,10 @@
+{
+    "id": 756268,
+    "name": "access_management",
+    "version": "5.5.2",
+    "created_at": "2021-07-30T14:49:24",
+    "updated_at": "2021-07-30T15:31:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forgerock:access_management:5.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

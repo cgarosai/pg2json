@@ -1,0 +1,10 @@
+{
+    "id": 824513,
+    "name": "rax10_firmware",
+    "version": "1.0.10.110",
+    "created_at": "2022-01-06T17:33:50",
+    "updated_at": "2022-01-10T14:34:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:rax10_firmware:1.0.10.110:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

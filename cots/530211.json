@@ -1,0 +1,10 @@
+{
+    "id": 530211,
+    "name": "xeon",
+    "version": "x3450",
+    "created_at": "2020-04-27T18:28:54",
+    "updated_at": "2020-04-28T09:38:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon:x3450:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

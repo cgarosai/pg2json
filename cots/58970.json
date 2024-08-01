@@ -1,0 +1,10 @@
+{
+    "id": 58970,
+    "name": "software_perl",
+    "version": "5.8.87",
+    "created_at": "2012-05-14T21:32:26",
+    "updated_at": "2012-05-14T21:32:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:software_perl:5.8.87:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

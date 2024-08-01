@@ -1,0 +1,10 @@
+{
+    "id": 866611,
+    "name": "baseboard_management_controller_h615c",
+    "version": "-",
+    "created_at": "2022-03-24T13:17:36",
+    "updated_at": "2023-11-09T12:57:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:netapp:baseboard_management_controller_h615c:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

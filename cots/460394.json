@@ -1,0 +1,10 @@
+{
+    "id": 460394,
+    "name": "olingo",
+    "version": "4.0.0",
+    "created_at": "2019-12-28T14:36:35",
+    "updated_at": "2019-12-28T14:36:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:olingo:4.0.0:beta01-rc01:*:*:*:*:*:*",
+    "to_analyse": false
+}

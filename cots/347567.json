@@ -1,0 +1,10 @@
+{
+    "id": 347567,
+    "name": "add_from_server",
+    "version": "3.3.3",
+    "created_at": "2019-08-22T13:10:23",
+    "updated_at": "2019-08-22T13:10:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:add_from_server_project:add_from_server:3.3.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

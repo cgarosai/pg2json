@@ -1,0 +1,10 @@
+{
+    "id": 51000,
+    "name": "filenet_image_services",
+    "version": "4.1.2",
+    "created_at": "2012-06-21T17:06:32",
+    "updated_at": "2012-06-21T17:06:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:filenet_image_services:4.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

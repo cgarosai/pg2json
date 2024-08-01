@@ -1,0 +1,10 @@
+{
+    "id": 341532,
+    "name": "my_calendar",
+    "version": "3.0.1",
+    "created_at": "2019-08-30T15:04:20",
+    "updated_at": "2019-08-30T15:04:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:my_calendar_project:my_calendar:3.0.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

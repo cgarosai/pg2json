@@ -1,0 +1,10 @@
+{
+    "id": 647361,
+    "name": "sized-chunks",
+    "version": "0.4.0",
+    "created_at": "2021-01-11T16:10:41",
+    "updated_at": "2021-01-11T16:10:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sized-chunks_project:sized-chunks:0.4.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

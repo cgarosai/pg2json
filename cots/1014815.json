@@ -1,0 +1,10 @@
+{
+    "id": 1014815,
+    "name": "symantec_endpoint_protection",
+    "version": "14.3.9210.6000",
+    "created_at": "2023-01-31T11:07:01",
+    "updated_at": "2023-03-03T13:27:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_endpoint_protection:14.3.9210.6000:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

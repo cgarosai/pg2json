@@ -1,0 +1,10 @@
+{
+    "id": 553969,
+    "name": "network_security_manager",
+    "version": "9.1.5.9",
+    "created_at": "2020-06-23T13:56:06",
+    "updated_at": "2020-06-23T13:56:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:network_security_manager:9.1.5.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

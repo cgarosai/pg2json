@@ -1,0 +1,10 @@
+{
+    "id": 601578,
+    "name": "wc9500_firmware",
+    "version": "6.5.5.24",
+    "created_at": "2020-10-09T09:34:55",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:wc9500_firmware:6.5.5.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

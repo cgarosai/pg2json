@@ -1,0 +1,10 @@
+{
+    "id": 656,
+    "name": "ip_call_center_express_standard",
+    "version": "3.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ip_call_center_express_standard:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

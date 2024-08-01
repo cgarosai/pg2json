@@ -1,0 +1,10 @@
+{
+    "id": 323936,
+    "name": "cap-strap",
+    "version": "0.1.4",
+    "created_at": "2019-08-02T16:49:23",
+    "updated_at": "2019-08-02T16:49:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cap-strap_project:cap-strap:0.1.4:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 842108,
+    "name": "superjson",
+    "version": "1.6.2",
+    "created_at": "2022-02-15T17:34:35",
+    "updated_at": "2022-02-15T17:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blitzjs:superjson:1.6.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

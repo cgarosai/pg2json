@@ -1,0 +1,10 @@
+{
+    "id": 646057,
+    "name": "actix-service",
+    "version": "0.2.0",
+    "created_at": "2021-01-07T14:26:59",
+    "updated_at": "2021-01-07T14:26:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:actix:actix-service:0.2.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

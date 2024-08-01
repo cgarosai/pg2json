@@ -1,0 +1,10 @@
+{
+    "id": 562318,
+    "name": "traccar",
+    "version": "2.3",
+    "created_at": "2020-07-15T13:57:10",
+    "updated_at": "2020-07-15T13:57:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:traccar:traccar:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

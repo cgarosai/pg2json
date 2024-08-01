@@ -1,0 +1,10 @@
+{
+    "id": 385296,
+    "name": "content",
+    "version": "4.0.6",
+    "created_at": "2019-09-23T15:22:52",
+    "updated_at": "2019-09-23T15:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:content_project:content:4.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

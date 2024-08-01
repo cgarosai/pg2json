@@ -1,0 +1,10 @@
+{
+    "id": 106668,
+    "name": "junos",
+    "version": "13.2",
+    "created_at": "2015-01-20T15:36:28",
+    "updated_at": "2015-01-27T17:18:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:junos:13.2:r3:*:*:*:*:*:*",
+    "to_analyse": false
+}

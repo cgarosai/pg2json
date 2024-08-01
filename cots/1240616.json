@@ -1,0 +1,10 @@
+{
+    "id": 1240616,
+    "name": "software_updater",
+    "version": "-",
+    "created_at": "2024-02-02T21:20:37",
+    "updated_at": "2024-02-02T21:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splashtop:software_updater:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

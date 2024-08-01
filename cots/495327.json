@@ -1,0 +1,10 @@
+{
+    "id": 495327,
+    "name": "mesh_router_firmware",
+    "version": "2019-12-12",
+    "created_at": "2020-02-10T19:14:42",
+    "updated_at": "2020-02-10T19:14:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ciktel:mesh_router_firmware:2019-12-12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 630081,
+    "name": "freebox_server",
+    "version": "4.2.3",
+    "created_at": "2020-12-21T15:27:00",
+    "updated_at": "2020-12-21T15:27:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:free:freebox_server:4.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

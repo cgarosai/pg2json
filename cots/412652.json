@@ -1,0 +1,10 @@
+{
+    "id": 412652,
+    "name": "infosphere_information_server_on_cloud",
+    "version": "11.5",
+    "created_at": "2019-10-29T16:50:47",
+    "updated_at": "2019-10-29T16:50:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_information_server_on_cloud:11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

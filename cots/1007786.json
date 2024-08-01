@@ -1,0 +1,10 @@
+{
+    "id": 1007786,
+    "name": "shopello_api",
+    "version": "2.0.5",
+    "created_at": "2023-01-03T17:43:23",
+    "updated_at": "2023-01-03T18:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shopello_api_project:shopello_api:2.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

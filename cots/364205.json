@@ -1,0 +1,10 @@
+{
+    "id": 364205,
+    "name": "rs-brightcove",
+    "version": "0.0.2",
+    "created_at": "2019-09-17T16:40:57",
+    "updated_at": "2019-09-17T16:40:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rs-brightcove_project:rs-brightcove:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

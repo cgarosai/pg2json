@@ -1,0 +1,10 @@
+{
+    "id": 106074,
+    "name": "pwgen",
+    "version": "2.06",
+    "created_at": "2014-12-19T15:15:28",
+    "updated_at": "2015-02-02T18:45:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pwgen_project:pwgen:2.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

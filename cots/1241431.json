@@ -1,0 +1,10 @@
+{
+    "id": 1241431,
+    "name": "kap",
+    "version": "3.0.0",
+    "created_at": "2024-02-03T00:45:04",
+    "updated_at": "2024-02-03T00:45:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getkap:kap:3.0.0:beta5:*:*:*:macos:*:*",
+    "to_analyse": false
+}

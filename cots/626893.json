@@ -1,0 +1,10 @@
+{
+    "id": 626893,
+    "name": "go_ethereum",
+    "version": "1.9.5",
+    "created_at": "2020-12-01T15:31:50",
+    "updated_at": "2020-12-01T15:31:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ethereum:go_ethereum:1.9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

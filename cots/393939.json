@@ -1,0 +1,10 @@
+{
+    "id": 393939,
+    "name": "notebook",
+    "version": "4.2.3",
+    "created_at": "2019-10-04T14:54:28",
+    "updated_at": "2019-10-04T14:54:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:notebook:4.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

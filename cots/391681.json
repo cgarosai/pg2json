@@ -1,0 +1,10 @@
+{
+    "id": 391681,
+    "name": "kubernetes_pipeline",
+    "version": "1.6",
+    "created_at": "2019-10-02T16:40:07",
+    "updated_at": "2019-10-02T16:40:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:kubernetes_pipeline:1.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

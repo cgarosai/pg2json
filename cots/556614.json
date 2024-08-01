@@ -1,0 +1,10 @@
+{
+    "id": 556614,
+    "name": "nc210_firmware",
+    "version": "2020-02-09",
+    "created_at": "2020-06-01T12:19:24",
+    "updated_at": "2021-05-28T11:06:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:nc210_firmware:2020-02-09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

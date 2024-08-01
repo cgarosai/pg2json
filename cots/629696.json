@@ -1,0 +1,10 @@
+{
+    "id": 629696,
+    "name": "cloud_volumes_ontap_mediator",
+    "version": "-",
+    "created_at": "2020-12-04T21:55:55",
+    "updated_at": "2020-12-04T21:55:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:cloud_volumes_ontap_mediator:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

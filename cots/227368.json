@@ -1,0 +1,10 @@
+{
+    "id": 227368,
+    "name": "web_module",
+    "version": "1.40",
+    "created_at": "2019-04-10T16:08:49",
+    "updated_at": "2019-04-10T16:08:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gatship:web_module:1.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

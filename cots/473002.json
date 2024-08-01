@@ -1,0 +1,10 @@
+{
+    "id": 473002,
+    "name": "internet_security",
+    "version": "9.0.6.9",
+    "created_at": "2020-01-24T14:38:26",
+    "updated_at": "2020-01-24T14:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kyrol:internet_security:9.0.6.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

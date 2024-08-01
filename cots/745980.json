@@ -1,0 +1,10 @@
+{
+    "id": 745980,
+    "name": "kannel",
+    "version": "1.4.0",
+    "created_at": "2021-07-16T16:50:41",
+    "updated_at": "2021-07-16T19:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kannel:kannel:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

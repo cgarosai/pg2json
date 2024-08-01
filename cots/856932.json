@@ -1,0 +1,10 @@
+{
+    "id": 856932,
+    "name": "meraki_z3c",
+    "version": "-",
+    "created_at": "2022-03-03T15:09:02",
+    "updated_at": "2022-03-04T17:41:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:meraki_z3c:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

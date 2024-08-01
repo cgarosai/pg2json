@@ -1,0 +1,10 @@
+{
+    "id": 570148,
+    "name": "firesight_system",
+    "version": "6.2.0",
+    "created_at": "2020-08-05T10:44:16",
+    "updated_at": "2020-08-05T10:44:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:firesight_system:6.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

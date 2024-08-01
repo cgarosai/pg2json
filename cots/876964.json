@@ -1,0 +1,10 @@
+{
+    "id": 876964,
+    "name": "aspera_high-speed_transfer_server",
+    "version": "4.0.0",
+    "created_at": "2022-04-20T11:36:39",
+    "updated_at": "2022-04-20T13:12:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:aspera_high-speed_transfer_server:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

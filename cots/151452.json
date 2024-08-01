@@ -1,0 +1,10 @@
+{
+    "id": 151452,
+    "name": "micom_p546_firmware",
+    "version": "-",
+    "created_at": "2018-05-24T22:13:58",
+    "updated_at": "2021-05-12T10:02:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:micom_p546_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

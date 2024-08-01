@@ -1,0 +1,10 @@
+{
+    "id": 868891,
+    "name": "internet_access_detector",
+    "version": "1.0",
+    "created_at": "2022-03-30T15:15:14",
+    "updated_at": "2022-04-01T11:23:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluedon:internet_access_detector:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

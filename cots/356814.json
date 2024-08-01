@@ -1,0 +1,10 @@
+{
+    "id": 356814,
+    "name": "link_log",
+    "version": "4.0",
+    "created_at": "2019-09-04T12:09:32",
+    "updated_at": "2019-09-04T12:09:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perafox:link_log:4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

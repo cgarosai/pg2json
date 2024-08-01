@@ -1,0 +1,10 @@
+{
+    "id": 74202,
+    "name": "trusted_execution_technology_sinit_authenticated_code_module",
+    "version": "1.2",
+    "created_at": "2013-09-13T14:56:32",
+    "updated_at": "2014-07-15T17:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:trusted_execution_technology_sinit_authenticated_code_module:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

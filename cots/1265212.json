@@ -1,0 +1,10 @@
+{
+    "id": 1265212,
+    "name": "azure_file_sync",
+    "version": "5.2.0.0",
+    "created_at": "2024-02-23T16:57:59",
+    "updated_at": "2024-02-23T16:57:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_file_sync:5.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

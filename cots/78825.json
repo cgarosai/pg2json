@@ -1,0 +1,10 @@
+{
+    "id": 78825,
+    "name": "matrikonopc_security_gateway",
+    "version": "1.0",
+    "created_at": "2013-05-01T11:27:13",
+    "updated_at": "2013-05-08T12:46:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrikonopc:matrikonopc_security_gateway:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

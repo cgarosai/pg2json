@@ -1,0 +1,10 @@
+{
+    "id": 151633,
+    "name": "assurity_mri_firmware",
+    "version": "f17.01.49",
+    "created_at": "2018-05-30T11:16:24",
+    "updated_at": "2021-06-14T16:29:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abbott:assurity_mri_firmware:f17.01.49:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

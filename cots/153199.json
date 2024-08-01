@@ -1,0 +1,10 @@
+{
+    "id": 153199,
+    "name": "mailplus_server",
+    "version": "1.0-0186",
+    "created_at": "2018-06-12T15:38:52",
+    "updated_at": "2018-06-12T15:38:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:mailplus_server:1.0-0186:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 791279,
+    "name": "wp_debugging",
+    "version": "2.1.0",
+    "created_at": "2021-10-27T12:50:39",
+    "updated_at": "2021-10-27T12:54:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_debugging_project:wp_debugging:2.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

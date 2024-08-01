@@ -1,0 +1,10 @@
+{
+    "id": 1125939,
+    "name": "custom_popup_builder",
+    "version": "0.8",
+    "created_at": "2023-07-24T15:03:26",
+    "updated_at": "2023-07-24T16:06:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_popup_builder_project:custom_popup_builder:0.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

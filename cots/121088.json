@@ -1,0 +1,10 @@
+{
+    "id": 121088,
+    "name": "c1_webcam_firmware",
+    "version": "1.9.1.12",
+    "created_at": "2017-06-29T15:38:47",
+    "updated_at": "2021-06-21T16:56:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:foscam:c1_webcam_firmware:1.9.1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

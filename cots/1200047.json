@@ -1,0 +1,10 @@
+{
+    "id": 1200047,
+    "name": "on-prem_data_gateway",
+    "version": "3000.198.9",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:on-prem_data_gateway:3000.198.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

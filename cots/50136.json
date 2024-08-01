@@ -1,0 +1,10 @@
+{
+    "id": 50136,
+    "name": "sympa",
+    "version": "2.3",
+    "created_at": "2012-06-01T10:56:03",
+    "updated_at": "2012-06-15T14:28:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sympa:sympa:2.3:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

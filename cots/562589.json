@@ -1,0 +1,10 @@
+{
+    "id": 562589,
+    "name": "web_gateway",
+    "version": "7.8.2.15",
+    "created_at": "2020-07-16T12:49:40",
+    "updated_at": "2020-07-16T12:49:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:web_gateway:7.8.2.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

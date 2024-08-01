@@ -1,0 +1,10 @@
+{
+    "id": 363504,
+    "name": "opendmarc",
+    "version": "1.2.0",
+    "created_at": "2019-09-17T14:17:13",
+    "updated_at": "2019-09-17T14:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trusteddomain:opendmarc:1.2.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

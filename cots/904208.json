@@ -1,0 +1,10 @@
+{
+    "id": 904208,
+    "name": "dbus-broker",
+    "version": "20",
+    "created_at": "2022-07-21T14:08:59",
+    "updated_at": "2022-07-21T15:09:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dbus-broker_project:dbus-broker:20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

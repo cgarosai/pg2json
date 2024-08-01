@@ -1,0 +1,10 @@
+{
+    "id": 337079,
+    "name": "enserver",
+    "version": "1.0.0",
+    "created_at": "2019-08-12T09:30:52",
+    "updated_at": "2019-08-12T09:30:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:enserver_project:enserver:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

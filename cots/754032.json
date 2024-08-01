@@ -1,0 +1,10 @@
+{
+    "id": 754032,
+    "name": "visual_studio_2017",
+    "version": "15.8",
+    "created_at": "2021-08-12T12:44:42",
+    "updated_at": "2021-08-12T12:45:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio_2017:15.8:*:preview:*:*:*:*:*",
+    "to_analyse": false
+}

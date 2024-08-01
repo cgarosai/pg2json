@@ -1,0 +1,10 @@
+{
+    "id": 54148,
+    "name": "veritas_authentication_service",
+    "version": "4.3.32.6",
+    "created_at": "2012-07-10T01:22:19",
+    "updated_at": "2012-07-10T01:22:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_authentication_service:4.3.32.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

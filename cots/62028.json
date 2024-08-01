@@ -1,0 +1,10 @@
+{
+    "id": 62028,
+    "name": "flexible_payments_service",
+    "version": "-",
+    "created_at": "2012-11-05T16:18:33",
+    "updated_at": "2012-11-13T22:55:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:flexible_payments_service:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

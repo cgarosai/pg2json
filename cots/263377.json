@@ -1,0 +1,10 @@
+{
+    "id": 263377,
+    "name": "mdnsresponder",
+    "version": "98",
+    "created_at": "2019-06-18T16:20:29",
+    "updated_at": "2019-06-18T16:20:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:mdnsresponder:98:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

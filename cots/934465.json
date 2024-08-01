@@ -1,0 +1,10 @@
+{
+    "id": 934465,
+    "name": "security",
+    "version": "1.1.5",
+    "created_at": "2022-09-19T12:19:31",
+    "updated_at": "2022-09-19T12:54:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sucuri:security:1.1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 275485,
+    "name": "libsolv",
+    "version": "0.7.2",
+    "created_at": "2019-06-20T14:00:52",
+    "updated_at": "2019-06-20T14:00:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:libsolv:0.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

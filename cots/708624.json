@@ -1,0 +1,10 @@
+{
+    "id": 708624,
+    "name": "ftldns",
+    "version": "5.7",
+    "created_at": "2021-05-14T18:07:31",
+    "updated_at": "2021-07-13T13:34:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pi-hole:ftldns:5.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 76056,
+    "name": "android_debug_bridge",
+    "version": "-",
+    "created_at": "2013-02-19T16:03:56",
+    "updated_at": "2013-02-27T16:38:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:android_debug_bridge:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

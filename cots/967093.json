@@ -1,0 +1,10 @@
+{
+    "id": 967093,
+    "name": "sim1004_firmware",
+    "version": "-",
+    "created_at": "2022-11-03T11:33:57",
+    "updated_at": "2022-11-03T17:57:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:sim1004_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

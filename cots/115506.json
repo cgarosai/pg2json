@@ -1,0 +1,10 @@
+{
+    "id": 115506,
+    "name": "connect",
+    "version": "9.5",
+    "created_at": "2016-02-22T22:51:40",
+    "updated_at": "2016-02-22T22:51:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:connect:9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

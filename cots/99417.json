@@ -1,0 +1,10 @@
+{
+    "id": 99417,
+    "name": "enterprise_console",
+    "version": "5.2",
+    "created_at": "2014-06-25T12:09:45",
+    "updated_at": "2014-06-25T13:00:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:enterprise_console:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

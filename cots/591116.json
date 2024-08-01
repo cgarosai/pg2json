@@ -1,0 +1,10 @@
+{
+    "id": 591116,
+    "name": "bladecenter_advanced_management_module_firmware",
+    "version": "3.68n",
+    "created_at": "2020-09-17T10:39:24",
+    "updated_at": "2021-05-18T17:26:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:bladecenter_advanced_management_module_firmware:3.68n:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

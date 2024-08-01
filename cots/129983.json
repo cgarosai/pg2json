@@ -1,0 +1,10 @@
+{
+    "id": 129983,
+    "name": "sdk",
+    "version": "8",
+    "created_at": "2017-06-01T23:20:42",
+    "updated_at": "2021-06-08T11:28:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sdk:8:service_refresh_4_fp2:*:*:java_technology_edition:*:*:*",
+    "to_analyse": false
+}

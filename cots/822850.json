@@ -1,0 +1,10 @@
+{
+    "id": 822850,
+    "name": "iris",
+    "version": "-",
+    "created_at": "2022-01-04T14:18:10",
+    "updated_at": "2022-01-08T00:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iris-go:iris:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

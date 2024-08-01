@@ -1,0 +1,10 @@
+{
+    "id": 99808,
+    "name": "wp_microblogs",
+    "version": "0.4.0",
+    "created_at": "2014-07-03T13:15:40",
+    "updated_at": "2014-07-17T15:07:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_microblogs_project:wp_microblogs:0.4.0:-:-:*:-:wordpress:*:*",
+    "to_analyse": false
+}

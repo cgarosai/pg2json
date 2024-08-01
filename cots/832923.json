@@ -1,0 +1,10 @@
+{
+    "id": 832923,
+    "name": "xzs-mysql",
+    "version": "t3.4.0",
+    "created_at": "2022-01-31T06:40:18",
+    "updated_at": "2022-11-08T18:29:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mindskip:xzs-mysql:t3.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

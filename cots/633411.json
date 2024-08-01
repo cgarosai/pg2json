@@ -1,0 +1,10 @@
+{
+    "id": 633411,
+    "name": "r6800_firmware",
+    "version": "1.2.0.74",
+    "created_at": "2021-01-04T14:09:18",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6800_firmware:1.2.0.74:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

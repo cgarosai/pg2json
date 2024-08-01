@@ -1,0 +1,10 @@
+{
+    "id": 764497,
+    "name": "video.js",
+    "version": "7.12.3",
+    "created_at": "2021-09-03T18:57:38",
+    "updated_at": "2021-09-03T20:20:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:videojs:video.js:7.12.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

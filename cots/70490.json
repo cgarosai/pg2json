@@ -1,0 +1,10 @@
+{
+    "id": 70490,
+    "name": "acu",
+    "version": "v200r001c00",
+    "created_at": "2013-06-21T11:45:59",
+    "updated_at": "2013-07-12T15:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:acu:v200r001c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

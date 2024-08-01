@@ -1,0 +1,10 @@
+{
+    "id": 1236883,
+    "name": "firefox_css",
+    "version": "0.1.2",
+    "created_at": "2024-01-08T18:19:29",
+    "updated_at": "2024-01-08T18:19:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.2:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

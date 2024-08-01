@@ -1,0 +1,10 @@
+{
+    "id": 1105957,
+    "name": "doorkeeper",
+    "version": "5.6.6",
+    "created_at": "2023-06-21T09:59:51",
+    "updated_at": "2023-06-21T11:56:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:doorkeeper_project:doorkeeper:5.6.6:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

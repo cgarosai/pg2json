@@ -1,0 +1,10 @@
+{
+    "id": 113173,
+    "name": "mailcwp",
+    "version": "1.100",
+    "created_at": "2016-12-19T16:48:13",
+    "updated_at": "2016-12-19T16:48:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailcwp_project:mailcwp:1.100:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

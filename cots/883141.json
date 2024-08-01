@@ -1,0 +1,10 @@
+{
+    "id": 883141,
+    "name": "lifion-verify-dependencies",
+    "version": "2.0.0",
+    "created_at": "2022-06-06T17:23:56",
+    "updated_at": "2022-06-09T15:45:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lifion:lifion-verify-dependencies:2.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

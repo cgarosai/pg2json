@@ -1,0 +1,10 @@
+{
+    "id": 865710,
+    "name": "libzip",
+    "version": "1.7.2",
+    "created_at": "2022-03-22T16:25:32",
+    "updated_at": "2022-03-22T16:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libzip:libzip:1.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

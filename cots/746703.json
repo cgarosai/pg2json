@@ -1,0 +1,10 @@
+{
+    "id": 746703,
+    "name": "contrail_cloud",
+    "version": "13.0",
+    "created_at": "2021-07-19T16:43:11",
+    "updated_at": "2021-07-19T16:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:contrail_cloud:13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

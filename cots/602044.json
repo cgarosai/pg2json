@@ -1,0 +1,10 @@
+{
+    "id": 602044,
+    "name": "sms_notification",
+    "version": "1.2",
+    "created_at": "2020-10-13T10:16:08",
+    "updated_at": "2020-10-13T10:16:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:sms_notification:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 644577,
+    "name": "cached",
+    "version": "0.2.3",
+    "created_at": "2021-02-01T15:04:23",
+    "updated_at": "2021-02-01T15:04:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cached_project:cached:0.2.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

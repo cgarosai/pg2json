@@ -1,0 +1,10 @@
+{
+    "id": 1272315,
+    "name": "samba_3.5_firmware",
+    "version": "12.38",
+    "created_at": "2024-07-10T15:18:22",
+    "updated_at": "2024-07-10T15:18:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:unitronics:samba_3.5_firmware:12.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

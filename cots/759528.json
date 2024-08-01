@@ -1,0 +1,10 @@
+{
+    "id": 759528,
+    "name": "rsvpmaker",
+    "version": "6.6.0",
+    "created_at": "2021-08-05T17:34:51",
+    "updated_at": "2023-09-30T01:05:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsvpmaker_project:rsvpmaker:6.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

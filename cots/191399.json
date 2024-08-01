@@ -1,0 +1,10 @@
+{
+    "id": 191399,
+    "name": "internet-box_standard_firmware",
+    "version": "09.01.28",
+    "created_at": "2019-01-09T13:13:55",
+    "updated_at": "2021-05-27T15:33:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:swisscom:internet-box_standard_firmware:09.01.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

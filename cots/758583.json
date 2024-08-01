@@ -1,0 +1,10 @@
+{
+    "id": 758583,
+    "name": "sendgrid",
+    "version": "1.11.8",
+    "created_at": "2021-08-04T18:00:25",
+    "updated_at": "2021-08-31T13:54:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sendgrid:sendgrid:1.11.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

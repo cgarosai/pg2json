@@ -1,0 +1,10 @@
+{
+    "id": 1030087,
+    "name": "apollo",
+    "version": "2.1.0",
+    "created_at": "2023-02-27T19:49:47",
+    "updated_at": "2023-02-28T16:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apolloconfig:apollo:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

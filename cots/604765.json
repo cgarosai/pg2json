@@ -1,0 +1,10 @@
+{
+    "id": 604765,
+    "name": "text",
+    "version": "18c",
+    "created_at": "2020-10-27T13:34:39",
+    "updated_at": "2020-10-27T13:34:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:text:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

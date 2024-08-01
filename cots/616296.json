@@ -1,0 +1,10 @@
+{
+    "id": 616296,
+    "name": "cm_download_manager",
+    "version": "2.7.0",
+    "created_at": "2020-10-29T17:24:04",
+    "updated_at": "2022-09-27T12:11:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cminds:cm_download_manager:2.7.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

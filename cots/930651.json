@@ -1,0 +1,10 @@
+{
+    "id": 930651,
+    "name": "r6200v2_firmware",
+    "version": "1.0.3.12_10.1.11",
+    "created_at": "2022-09-09T16:23:33",
+    "updated_at": "2022-10-04T16:26:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6200v2_firmware:1.0.3.12_10.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

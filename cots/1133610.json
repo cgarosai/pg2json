@@ -1,0 +1,10 @@
+{
+    "id": 1133610,
+    "name": "ryzen_9_4900hs_firmware",
+    "version": "renoirpi-fp6_1.0.0.b",
+    "created_at": "2023-08-21T10:22:00",
+    "updated_at": "2023-08-21T16:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_9_4900hs_firmware:renoirpi-fp6_1.0.0.b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

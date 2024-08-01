@@ -1,0 +1,10 @@
+{
+    "id": 494943,
+    "name": "disk_pulse",
+    "version": "10.1.18",
+    "created_at": "2020-02-27T19:59:55",
+    "updated_at": "2020-02-27T19:59:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flexense:disk_pulse:10.1.18:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

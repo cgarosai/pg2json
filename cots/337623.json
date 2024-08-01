@@ -1,0 +1,10 @@
+{
+    "id": 337623,
+    "name": "optiplex_7440_aio_firmware",
+    "version": "1.10.0",
+    "created_at": "2019-08-12T10:20:24",
+    "updated_at": "2021-06-15T13:07:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_7440_aio_firmware:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

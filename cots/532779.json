@@ -1,0 +1,10 @@
+{
+    "id": 532779,
+    "name": "http-client",
+    "version": "2.0.0",
+    "created_at": "2020-05-01T16:01:18",
+    "updated_at": "2020-05-01T16:01:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http-client_project:http-client:2.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

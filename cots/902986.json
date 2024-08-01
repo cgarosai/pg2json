@@ -1,0 +1,10 @@
+{
+    "id": 902986,
+    "name": "aws-iam-authenticator",
+    "version": "0.5.3",
+    "created_at": "2022-07-19T15:00:14",
+    "updated_at": "2022-07-19T15:20:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:aws-iam-authenticator:0.5.3:*:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

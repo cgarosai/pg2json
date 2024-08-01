@@ -1,0 +1,10 @@
+{
+    "id": 917465,
+    "name": "tomee",
+    "version": "8.0.7",
+    "created_at": "2022-07-29T14:55:51",
+    "updated_at": "2022-07-29T14:58:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:tomee:8.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

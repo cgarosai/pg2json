@@ -1,0 +1,10 @@
+{
+    "id": 92730,
+    "name": "antivirus_free",
+    "version": "7.2.16.02",
+    "created_at": "2014-09-15T22:49:39",
+    "updated_at": "2014-12-10T16:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nq:antivirus_free:7.2.16.02:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

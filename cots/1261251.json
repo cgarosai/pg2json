@@ -1,0 +1,10 @@
+{
+    "id": 1261251,
+    "name": "query",
+    "version": "4.3.0",
+    "created_at": "2024-04-23T13:09:38",
+    "updated_at": "2024-04-23T13:09:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tanstack:query:4.3.0:beta0:*:*:*:*:*:*",
+    "to_analyse": false
+}

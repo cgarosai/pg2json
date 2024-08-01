@@ -1,0 +1,10 @@
+{
+    "id": 508237,
+    "name": "celsius_firmware",
+    "version": "-",
+    "created_at": "2020-03-04T14:38:46",
+    "updated_at": "2020-03-04T14:38:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:celsius_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

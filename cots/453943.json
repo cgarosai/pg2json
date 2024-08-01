@@ -1,0 +1,10 @@
+{
+    "id": 453943,
+    "name": "mapserver",
+    "version": "5.6.6",
+    "created_at": "2019-12-11T13:55:30",
+    "updated_at": "2019-12-11T13:55:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osgeo:mapserver:5.6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

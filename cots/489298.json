@@ -1,0 +1,10 @@
+{
+    "id": 489298,
+    "name": "asr_9001",
+    "version": "-",
+    "created_at": "2020-02-03T19:05:09",
+    "updated_at": "2020-02-03T19:05:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:asr_9001:-:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

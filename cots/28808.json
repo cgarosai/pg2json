@@ -1,0 +1,10 @@
+{
+    "id": 28808,
+    "name": "sna_server",
+    "version": "1.0",
+    "created_at": "2009-11-25T17:26:28",
+    "updated_at": "2009-11-25T17:26:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sna_server:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

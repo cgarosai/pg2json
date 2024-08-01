@@ -1,0 +1,10 @@
+{
+    "id": 822763,
+    "name": "manageengine_pam360",
+    "version": "4.0",
+    "created_at": "2022-01-03T20:03:45",
+    "updated_at": "2022-01-13T19:04:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_pam360:4.0:build4001:*:*:*:*:*:*",
+    "to_analyse": false
+}

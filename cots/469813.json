@@ -1,0 +1,10 @@
+{
+    "id": 469813,
+    "name": "cli",
+    "version": "2.15.0",
+    "created_at": "2019-12-27T18:30:59",
+    "updated_at": "2019-12-27T18:30:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cli_project:cli:2.15.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

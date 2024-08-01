@@ -1,0 +1,10 @@
+{
+    "id": 239318,
+    "name": "commons_imaging",
+    "version": "0.97",
+    "created_at": "2019-05-07T15:55:40",
+    "updated_at": "2019-05-07T15:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_imaging:0.97:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

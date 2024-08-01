@@ -1,0 +1,10 @@
+{
+    "id": 893119,
+    "name": "diffy",
+    "version": "3.0.0",
+    "created_at": "2022-06-29T11:34:18",
+    "updated_at": "2022-07-01T14:48:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diffy_project:diffy:3.0.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

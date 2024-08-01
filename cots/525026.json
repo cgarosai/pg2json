@@ -1,0 +1,10 @@
+{
+    "id": 525026,
+    "name": "logme",
+    "version": "-",
+    "created_at": "2020-03-31T18:26:41",
+    "updated_at": "2020-03-31T18:26:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anynines:logme:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

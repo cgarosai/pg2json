@@ -1,0 +1,10 @@
+{
+    "id": 295822,
+    "name": "finder",
+    "version": "6.x-1.0",
+    "created_at": "2019-07-12T12:51:17",
+    "updated_at": "2019-07-12T12:51:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:finder_project:finder:6.x-1.0:unstable5:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

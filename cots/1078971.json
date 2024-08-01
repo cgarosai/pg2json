@@ -1,0 +1,10 @@
+{
+    "id": 1078971,
+    "name": "ion",
+    "version": "0.6.0",
+    "created_at": "2023-05-04T17:28:46",
+    "updated_at": "2023-05-24T15:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aedart:ion:0.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

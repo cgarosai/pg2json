@@ -1,0 +1,10 @@
+{
+    "id": 1064596,
+    "name": "cloud_hypervisor",
+    "version": "31.1",
+    "created_at": "2023-04-26T12:24:50",
+    "updated_at": "2023-07-12T07:15:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudhypervisor:cloud_hypervisor:31.1:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

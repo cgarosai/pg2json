@@ -1,0 +1,10 @@
+{
+    "id": 629503,
+    "name": "workstation_pro",
+    "version": "15.0.0",
+    "created_at": "2020-12-04T18:02:14",
+    "updated_at": "2020-12-04T18:02:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workstation_pro:15.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

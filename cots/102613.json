@@ -1,0 +1,10 @@
+{
+    "id": 102613,
+    "name": "os_x_server",
+    "version": "3.0.2",
+    "created_at": "2015-12-23T19:38:16",
+    "updated_at": "2015-12-23T19:38:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:os_x_server:3.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

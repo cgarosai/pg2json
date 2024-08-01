@@ -1,0 +1,10 @@
+{
+    "id": 1133756,
+    "name": "ryzen_3_3300_firmware",
+    "version": "-",
+    "created_at": "2023-08-21T11:32:40",
+    "updated_at": "2023-08-21T16:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_3_3300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

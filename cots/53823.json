@@ -1,0 +1,10 @@
+{
+    "id": 53823,
+    "name": "netflow_realtime",
+    "version": "10.7.0.91",
+    "created_at": "2012-07-10T01:19:57",
+    "updated_at": "2012-07-10T01:19:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:netflow_realtime:10.7.0.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 538380,
+    "name": "anti-virus_for_sophos_central",
+    "version": "9.8.3",
+    "created_at": "2020-04-23T09:35:47",
+    "updated_at": "2021-05-06T13:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:anti-virus_for_sophos_central:9.8.3:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

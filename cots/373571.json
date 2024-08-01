@@ -1,0 +1,10 @@
+{
+    "id": 373571,
+    "name": "statics-server",
+    "version": "0.0.7",
+    "created_at": "2019-09-23T11:55:02",
+    "updated_at": "2019-09-23T11:55:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:statics-server_project:statics-server:0.0.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

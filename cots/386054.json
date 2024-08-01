@@ -1,0 +1,10 @@
+{
+    "id": 386054,
+    "name": "droppy",
+    "version": "0.7.5",
+    "created_at": "2019-09-24T09:08:29",
+    "updated_at": "2019-09-24T09:08:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:droppy_project:droppy:0.7.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

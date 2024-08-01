@@ -1,0 +1,10 @@
+{
+    "id": 969181,
+    "name": "stack_dst",
+    "version": "0.7.0",
+    "created_at": "2022-11-09T15:48:43",
+    "updated_at": "2022-11-09T15:50:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stack_dst_project:stack_dst:0.7.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

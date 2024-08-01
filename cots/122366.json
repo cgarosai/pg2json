@@ -1,0 +1,10 @@
+{
+    "id": 122366,
+    "name": "web_security_virtual_appliance",
+    "version": "10.1.0",
+    "created_at": "2017-07-28T16:25:29",
+    "updated_at": "2021-04-01T15:46:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:web_security_virtual_appliance:10.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

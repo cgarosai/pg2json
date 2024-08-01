@@ -1,0 +1,10 @@
+{
+    "id": 1079841,
+    "name": "wp_email_capture",
+    "version": "3.6.5",
+    "created_at": "2023-05-06T11:31:40",
+    "updated_at": "2023-05-24T15:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:winwar:wp_email_capture:3.6.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

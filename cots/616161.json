@@ -1,0 +1,10 @@
+{
+    "id": 616161,
+    "name": "imind_server",
+    "version": "3.13.65",
+    "created_at": "2020-10-29T15:04:45",
+    "updated_at": "2020-10-29T15:04:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mind:imind_server:3.13.65:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

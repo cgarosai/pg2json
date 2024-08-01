@@ -1,0 +1,10 @@
+{
+    "id": 123581,
+    "name": "derby",
+    "version": "10.9.1.0",
+    "created_at": "2017-08-22T14:46:21",
+    "updated_at": "2017-08-22T14:46:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:derby:10.9.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

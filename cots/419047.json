@@ -1,0 +1,10 @@
+{
+    "id": 419047,
+    "name": "archiver",
+    "version": "3.2.0",
+    "created_at": "2019-10-24T16:27:07",
+    "updated_at": "2019-10-24T16:27:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:archiver_project:archiver:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

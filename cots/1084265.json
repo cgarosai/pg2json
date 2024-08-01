@@ -1,0 +1,10 @@
+{
+    "id": 1084265,
+    "name": "craft_cms",
+    "version": "4.4.8",
+    "created_at": "2023-06-01T12:10:32",
+    "updated_at": "2023-06-01T15:25:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:craftcms:craft_cms:4.4.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

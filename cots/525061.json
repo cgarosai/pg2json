@@ -1,0 +1,10 @@
+{
+    "id": 525061,
+    "name": "rabbitmq",
+    "version": "-",
+    "created_at": "2020-03-31T18:26:46",
+    "updated_at": "2020-03-31T18:26:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anynines:rabbitmq:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

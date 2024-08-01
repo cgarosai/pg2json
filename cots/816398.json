@@ -1,0 +1,10 @@
+{
+    "id": 816398,
+    "name": "fabric",
+    "version": "2.1.0",
+    "created_at": "2021-11-23T15:36:55",
+    "updated_at": "2021-11-29T16:04:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:fabric:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

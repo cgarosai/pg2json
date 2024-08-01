@@ -1,0 +1,10 @@
+{
+    "id": 948805,
+    "name": "express_xss_sanitizer",
+    "version": "1.0.0",
+    "created_at": "2022-09-28T14:54:33",
+    "updated_at": "2022-10-02T00:16:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express_xss_sanitizer_project:express_xss_sanitizer:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

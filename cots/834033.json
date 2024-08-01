@@ -1,0 +1,10 @@
+{
+    "id": 834033,
+    "name": "deltav_workstation",
+    "version": "-",
+    "created_at": "2022-02-02T11:18:56",
+    "updated_at": "2022-02-02T11:21:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emerson:deltav_workstation:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

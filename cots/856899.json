@@ -1,0 +1,10 @@
+{
+    "id": 856899,
+    "name": "dvc-215ip_firmware",
+    "version": "63.1.1.171",
+    "created_at": "2022-03-03T14:59:05",
+    "updated_at": "2022-03-07T18:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:alecto:dvc-215ip_firmware:63.1.1.171:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

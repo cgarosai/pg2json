@@ -1,0 +1,10 @@
+{
+    "id": 101907,
+    "name": "tivoli_storage_manager_for_databases_data_protection_for_microsoft_sql_server",
+    "version": "6.3.1.2",
+    "created_at": "2015-11-16T16:47:18",
+    "updated_at": "2015-11-18T17:22:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_for_databases_data_protection_for_microsoft_sql_server:6.3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

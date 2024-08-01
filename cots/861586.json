@@ -1,0 +1,10 @@
+{
+    "id": 861586,
+    "name": "escan_anti-virus",
+    "version": "7.0.31",
+    "created_at": "2022-04-07T14:42:26",
+    "updated_at": "2022-04-07T16:38:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:escanav:escan_anti-virus:7.0.31:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 115348,
+    "name": "mobile_application_server",
+    "version": "12.2",
+    "created_at": "2016-02-17T16:55:40",
+    "updated_at": "2016-02-17T16:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mobile_application_server:12.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

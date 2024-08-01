@@ -1,0 +1,10 @@
+{
+    "id": 470994,
+    "name": "robot_framework",
+    "version": "1.3.2",
+    "created_at": "2020-01-17T17:04:08",
+    "updated_at": "2020-01-17T17:04:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:robot_framework:1.3.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 574618,
+    "name": "pcoip_standard_agent",
+    "version": "20.01.3",
+    "created_at": "2020-08-12T11:03:29",
+    "updated_at": "2021-06-04T16:47:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_standard_agent:20.01.3:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 940413,
+    "name": "videojet_decoder_7513_firmware",
+    "version": "10.30.0005",
+    "created_at": "2022-10-03T10:18:51",
+    "updated_at": "2022-10-03T14:30:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:videojet_decoder_7513_firmware:10.30.0005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

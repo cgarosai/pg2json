@@ -1,0 +1,10 @@
+{
+    "id": 797550,
+    "name": "fms",
+    "version": "-",
+    "created_at": "2021-10-18T15:18:51",
+    "updated_at": "2021-10-19T09:54:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:myfactory:fms:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

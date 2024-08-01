@@ -1,0 +1,10 @@
+{
+    "id": 613805,
+    "name": "internet_graphics_server",
+    "version": "7.20ext",
+    "created_at": "2020-11-19T16:09:12",
+    "updated_at": "2020-11-19T16:09:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:internet_graphics_server:7.20ext:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

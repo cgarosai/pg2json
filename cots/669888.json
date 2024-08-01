@@ -1,0 +1,10 @@
+{
+    "id": 669888,
+    "name": "emc_sourceone",
+    "version": "7.2",
+    "created_at": "2021-03-02T14:33:22",
+    "updated_at": "2021-03-15T15:18:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_sourceone:7.2:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

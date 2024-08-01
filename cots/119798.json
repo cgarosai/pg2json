@@ -1,0 +1,10 @@
+{
+    "id": 119798,
+    "name": "simatic_net_pc-software",
+    "version": "13",
+    "created_at": "2016-07-27T15:48:44",
+    "updated_at": "2021-06-15T19:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_net_pc-software:13:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

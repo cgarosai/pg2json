@@ -1,0 +1,10 @@
+{
+    "id": 11102,
+    "name": "weblogic_mobility_server",
+    "version": "3.5",
+    "created_at": "2007-12-17T18:01:56",
+    "updated_at": "2008-03-25T17:12:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bea:weblogic_mobility_server:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

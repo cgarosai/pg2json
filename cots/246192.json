@@ -1,0 +1,10 @@
+{
+    "id": 246192,
+    "name": "pmd",
+    "version": "2.10",
+    "created_at": "2019-05-22T15:59:18",
+    "updated_at": "2019-05-22T15:59:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pmd:2.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

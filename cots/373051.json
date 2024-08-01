@@ -1,0 +1,10 @@
+{
+    "id": 373051,
+    "name": "html-pages",
+    "version": "1.6.0",
+    "created_at": "2019-09-23T11:12:18",
+    "updated_at": "2019-09-23T11:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:html-pages_project:html-pages:1.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 622896,
+    "name": "apisix",
+    "version": "1.2",
+    "created_at": "2020-12-08T17:44:10",
+    "updated_at": "2020-12-08T17:44:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:apisix:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

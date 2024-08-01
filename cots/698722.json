@@ -1,0 +1,10 @@
+{
+    "id": 698722,
+    "name": "devolutions_server",
+    "version": "-",
+    "created_at": "2021-04-20T15:04:51",
+    "updated_at": "2021-05-27T15:47:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devolutions:devolutions_server:-:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

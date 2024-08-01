@@ -1,0 +1,10 @@
+{
+    "id": 942752,
+    "name": "aura_application_enablement_services",
+    "version": "10.1.0.0",
+    "created_at": "2022-10-07T10:39:36",
+    "updated_at": "2022-10-07T16:59:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:aura_application_enablement_services:10.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

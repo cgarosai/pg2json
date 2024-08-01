@@ -1,0 +1,10 @@
+{
+    "id": 555342,
+    "name": "oddjob",
+    "version": "0.27-6",
+    "created_at": "2020-05-28T14:29:30",
+    "updated_at": "2020-05-28T14:29:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:oddjob:0.27-6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

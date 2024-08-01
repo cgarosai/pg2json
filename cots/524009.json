@@ -1,0 +1,10 @@
+{
+    "id": 524009,
+    "name": "x4012_firmware",
+    "version": "-",
+    "created_at": "2020-04-13T09:13:48",
+    "updated_at": "2021-03-19T16:58:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:x4012_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 849208,
+    "name": "ryzen_5900x",
+    "version": "-",
+    "created_at": "2022-02-09T12:35:33",
+    "updated_at": "2022-02-09T17:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen_5900x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

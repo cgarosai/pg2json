@@ -1,0 +1,10 @@
+{
+    "id": 785642,
+    "name": "wordpress_popular_posts",
+    "version": "5.4.2",
+    "created_at": "2021-09-28T15:15:15",
+    "updated_at": "2021-09-28T15:29:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_popular_posts_project:wordpress_popular_posts:5.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

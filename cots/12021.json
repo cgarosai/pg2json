@@ -1,0 +1,10 @@
+{
+    "id": 12021,
+    "name": "norton_360",
+    "version": "-",
+    "created_at": "2008-09-05T18:02:09",
+    "updated_at": "2016-09-09T15:48:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:norton_360:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 460356,
+    "name": "che",
+    "version": "7.3.2",
+    "created_at": "2019-12-27T20:37:54",
+    "updated_at": "2019-12-27T20:37:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:che:7.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

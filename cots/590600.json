@@ -1,0 +1,10 @@
+{
+    "id": 590600,
+    "name": "vde",
+    "version": "2.3",
+    "created_at": "2020-09-16T09:04:28",
+    "updated_at": "2020-09-16T09:04:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vde_project:vde:2.3:*:*:*:*:gentoo:*:*",
+    "to_analyse": false
+}

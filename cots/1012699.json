@@ -1,0 +1,10 @@
+{
+    "id": 1012699,
+    "name": "jopenid",
+    "version": "1.01",
+    "created_at": "2023-01-24T15:56:59",
+    "updated_at": "2023-02-24T11:11:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jopenid_project:jopenid:1.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

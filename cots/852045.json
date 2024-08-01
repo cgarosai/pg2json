@@ -1,0 +1,10 @@
+{
+    "id": 852045,
+    "name": "cmark-gfm",
+    "version": "0.28.3.gfm.20",
+    "created_at": "2022-03-13T02:16:52",
+    "updated_at": "2022-03-18T15:24:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:github:cmark-gfm:0.28.3.gfm.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

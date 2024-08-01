@@ -1,0 +1,10 @@
+{
+    "id": 562660,
+    "name": "melsec_iq-r_firmware",
+    "version": "-",
+    "created_at": "2020-07-16T15:02:38",
+    "updated_at": "2020-07-16T15:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:melsec_iq-r_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

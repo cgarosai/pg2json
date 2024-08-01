@@ -1,0 +1,10 @@
+{
+    "id": 716982,
+    "name": "zcashd",
+    "version": "1.0.12",
+    "created_at": "2021-05-28T14:28:04",
+    "updated_at": "2021-05-28T14:30:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:electriccoin:zcashd:1.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

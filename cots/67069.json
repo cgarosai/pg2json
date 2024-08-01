@@ -1,0 +1,10 @@
+{
+    "id": 67069,
+    "name": "ipswitch_secure_server",
+    "version": "2006",
+    "created_at": "2012-08-16T12:52:47",
+    "updated_at": "2012-08-20T16:31:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:ipswitch_secure_server:2006:-:premium:*:*:*:*:*",
+    "to_analyse": false
+}

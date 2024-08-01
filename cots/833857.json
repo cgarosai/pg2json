@@ -1,0 +1,10 @@
+{
+    "id": 833857,
+    "name": "evp2pe_firmware",
+    "version": "3.4.0.2",
+    "created_at": "2022-02-01T14:27:13",
+    "updated_at": "2022-09-14T15:05:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:evp2pe_firmware:3.4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

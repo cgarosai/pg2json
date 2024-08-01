@@ -1,0 +1,10 @@
+{
+    "id": 6025,
+    "name": "fes_4802_switch",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:15:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:foundrynet:fes_4802_switch:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

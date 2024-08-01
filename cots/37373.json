@@ -1,0 +1,10 @@
+{
+    "id": 37373,
+    "name": "authentication_client",
+    "version": "3.0",
+    "created_at": "2010-10-08T12:56:14",
+    "updated_at": "2010-10-08T15:37:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsa:authentication_client:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

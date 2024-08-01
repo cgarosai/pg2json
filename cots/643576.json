@@ -1,0 +1,10 @@
+{
+    "id": 643576,
+    "name": "v-server",
+    "version": "4.0.10.0",
+    "created_at": "2021-01-28T21:57:23",
+    "updated_at": "2021-06-02T13:28:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fujielectric:v-server:4.0.10.0:*:*:*:lite:*:*:*",
+    "to_analyse": false
+}

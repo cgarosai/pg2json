@@ -1,0 +1,10 @@
+{
+    "id": 449721,
+    "name": "xeon_e5-2648l_v3_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T16:30:03",
+    "updated_at": "2019-12-02T16:30:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e5-2648l_v3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

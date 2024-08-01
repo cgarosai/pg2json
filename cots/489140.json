@@ -1,0 +1,10 @@
+{
+    "id": 489140,
+    "name": "node-uuid",
+    "version": "3.0.0",
+    "created_at": "2020-02-03T17:14:03",
+    "updated_at": "2020-02-03T17:14:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-uuid_project:node-uuid:3.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

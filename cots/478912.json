@@ -1,0 +1,10 @@
+{
+    "id": 478912,
+    "name": "endpoint_protection",
+    "version": "12.1.7385.6902",
+    "created_at": "2020-01-15T13:19:11",
+    "updated_at": "2020-01-15T13:19:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_protection:12.1.7385.6902:*:*:*:small_business:*:*:*",
+    "to_analyse": false
+}

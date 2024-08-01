@@ -1,0 +1,10 @@
+{
+    "id": 1108774,
+    "name": "ota-bisheng_firmware",
+    "version": "2.0.0.211",
+    "created_at": "2023-06-26T16:30:59",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ota-bisheng_firmware:2.0.0.211:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

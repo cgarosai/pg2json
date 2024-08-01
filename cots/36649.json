@@ -1,0 +1,10 @@
+{
+    "id": 36649,
+    "name": "cvs_suite",
+    "version": "2.5.03",
+    "created_at": "2010-09-16T12:00:44",
+    "updated_at": "2010-10-13T00:38:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:march-hare:cvs_suite:2.5.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

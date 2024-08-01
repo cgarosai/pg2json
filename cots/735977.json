@@ -1,0 +1,10 @@
+{
+    "id": 735977,
+    "name": "nas_gateway_nh4a_firmware",
+    "version": "-",
+    "created_at": "2021-07-01T10:43:30",
+    "updated_at": "2021-08-23T12:31:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nec:nas_gateway_nh4a_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

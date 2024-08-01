@@ -1,0 +1,10 @@
+{
+    "id": 1245912,
+    "name": "global_site_selector",
+    "version": "1.4.1",
+    "created_at": "2024-01-25T15:13:13",
+    "updated_at": "2024-01-25T15:13:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:global_site_selector:1.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

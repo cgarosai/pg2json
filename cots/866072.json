@@ -1,0 +1,10 @@
+{
+    "id": 866072,
+    "name": "miniconda3",
+    "version": "-",
+    "created_at": "2022-03-23T10:24:06",
+    "updated_at": "2022-09-29T12:30:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conda:miniconda3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

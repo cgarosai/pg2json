@@ -1,0 +1,10 @@
+{
+    "id": 83210,
+    "name": "web_appliance_firmware",
+    "version": "3.7.8.2",
+    "created_at": "2014-03-19T12:44:21",
+    "updated_at": "2014-03-19T20:18:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sophos:web_appliance_firmware:3.7.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

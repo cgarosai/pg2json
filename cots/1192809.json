@@ -1,0 +1,10 @@
+{
+    "id": 1192809,
+    "name": "windows_11_23h2",
+    "version": "-",
+    "created_at": "2023-11-20T18:51:41",
+    "updated_at": "2023-11-20T18:51:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_11_23h2:-:*:*:*:*:*:arm64:*",
+    "to_analyse": false
+}

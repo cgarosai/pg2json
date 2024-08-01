@@ -1,0 +1,10 @@
+{
+    "id": 62323,
+    "name": "windows_server_2012",
+    "version": "-",
+    "created_at": "2012-11-14T12:21:11",
+    "updated_at": "2022-05-23T15:29:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

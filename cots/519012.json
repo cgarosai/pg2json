@@ -1,0 +1,10 @@
+{
+    "id": 519012,
+    "name": "easybuild",
+    "version": "0.6",
+    "created_at": "2020-03-20T14:00:19",
+    "updated_at": "2020-03-20T14:00:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:easybuild_project:easybuild:0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

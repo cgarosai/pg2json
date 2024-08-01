@@ -1,0 +1,10 @@
+{
+    "id": 303825,
+    "name": "nylas_mail",
+    "version": "0.4.19",
+    "created_at": "2019-07-25T10:33:19",
+    "updated_at": "2019-07-25T10:33:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nylas_mail_lives_project:nylas_mail:0.4.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

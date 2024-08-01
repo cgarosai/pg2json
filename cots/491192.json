@@ -1,0 +1,10 @@
+{
+    "id": 491192,
+    "name": "syncserver_s350_firmware",
+    "version": "2.80.1",
+    "created_at": "2020-02-24T13:44:22",
+    "updated_at": "2020-02-24T13:44:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microchip:syncserver_s350_firmware:2.80.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 257894,
+    "name": "packer",
+    "version": "1.0.0",
+    "created_at": "2019-06-10T11:08:22",
+    "updated_at": "2019-06-10T11:08:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:packer:1.0.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

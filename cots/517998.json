@@ -1,0 +1,10 @@
+{
+    "id": 517998,
+    "name": "alpine_linux",
+    "version": "3.3.0",
+    "created_at": "2020-03-18T13:51:57",
+    "updated_at": "2020-03-18T13:51:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:alpinelinux:alpine_linux:3.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

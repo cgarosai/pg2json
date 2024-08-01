@@ -1,0 +1,10 @@
+{
+    "id": 138074,
+    "name": "trusted_platform_firmware",
+    "version": "6.40",
+    "created_at": "2017-11-07T21:17:39",
+    "updated_at": "2021-06-10T13:45:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:infineon:trusted_platform_firmware:6.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 147703,
+    "name": "s820am_firmware",
+    "version": "-",
+    "created_at": "2018-03-14T17:51:02",
+    "updated_at": "2021-03-09T22:00:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:s820am_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

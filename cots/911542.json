@@ -1,0 +1,10 @@
+{
+    "id": 911542,
+    "name": "mail",
+    "version": "1.13.6",
+    "created_at": "2022-08-09T09:54:10",
+    "updated_at": "2022-08-09T10:18:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:mail:1.13.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

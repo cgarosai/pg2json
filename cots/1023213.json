@@ -1,0 +1,10 @@
+{
+    "id": 1023213,
+    "name": "btcpayserver",
+    "version": "1.7.6",
+    "created_at": "2023-02-14T12:34:43",
+    "updated_at": "2023-02-24T10:31:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:btcpayserver:btcpayserver:1.7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

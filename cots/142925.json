@@ -1,0 +1,10 @@
+{
+    "id": 142925,
+    "name": "network_configurator",
+    "version": "3.63",
+    "created_at": "2018-05-21T15:34:04",
+    "updated_at": "2021-04-23T15:04:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:omron:network_configurator:3.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

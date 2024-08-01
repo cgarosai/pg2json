@@ -1,0 +1,10 @@
+{
+    "id": 95371,
+    "name": "cyassl",
+    "version": "2.5.0",
+    "created_at": "2014-04-23T10:27:41",
+    "updated_at": "2014-04-29T18:58:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yassl:cyassl:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 106838,
+    "name": "file",
+    "version": "5.19",
+    "created_at": "2015-01-22T18:28:46",
+    "updated_at": "2015-01-25T16:52:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:file_project:file:5.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

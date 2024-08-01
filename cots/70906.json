@@ -1,0 +1,10 @@
+{
+    "id": 70906,
+    "name": "procurve_switch",
+    "version": "658250-b21",
+    "created_at": "2013-07-08T12:09:51",
+    "updated_at": "2013-07-12T15:51:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:procurve_switch:658250-b21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

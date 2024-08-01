@@ -1,0 +1,10 @@
+{
+    "id": 107901,
+    "name": "elastix",
+    "version": "2.5.0",
+    "created_at": "2015-03-12T02:08:48",
+    "updated_at": "2015-06-12T15:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:palosanto:elastix:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

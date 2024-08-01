@@ -1,0 +1,10 @@
+{
+    "id": 53329,
+    "name": "deploycenter",
+    "version": "5.0",
+    "created_at": "2012-07-10T01:17:36",
+    "updated_at": "2012-07-10T01:17:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:powerquest:deploycenter:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71348,
+    "name": "3com_switch",
+    "version": "4200g",
+    "created_at": "2013-07-08T16:55:24",
+    "updated_at": "2013-07-12T15:50:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3com_switch:4200g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

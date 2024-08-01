@@ -1,0 +1,10 @@
+{
+    "id": 550669,
+    "name": "fiori",
+    "version": "300",
+    "created_at": "2020-06-15T15:55:07",
+    "updated_at": "2020-06-15T15:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:fiori:300:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

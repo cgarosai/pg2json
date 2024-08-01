@@ -1,0 +1,10 @@
+{
+    "id": 821174,
+    "name": "system-user-root",
+    "version": "-",
+    "created_at": "2021-12-28T12:27:53",
+    "updated_at": "2021-12-28T12:30:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:system-user-root:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

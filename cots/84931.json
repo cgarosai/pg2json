@@ -1,0 +1,10 @@
+{
+    "id": 84931,
+    "name": "sonicwall_email_security",
+    "version": "7.5",
+    "created_at": "2014-04-18T16:02:27",
+    "updated_at": "2018-03-12T11:53:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:sonicwall_email_security:7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

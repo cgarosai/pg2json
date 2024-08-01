@@ -1,0 +1,10 @@
+{
+    "id": 527859,
+    "name": "steelcentral_appinternals",
+    "version": "10.17.1-bl510",
+    "created_at": "2020-04-01T18:19:51",
+    "updated_at": "2020-04-01T18:19:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:riverbed:steelcentral_appinternals:10.17.1-bl510:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

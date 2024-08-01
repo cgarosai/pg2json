@@ -1,0 +1,10 @@
+{
+    "id": 639940,
+    "name": "mailaudit",
+    "version": "4.0",
+    "created_at": "2020-12-21T13:53:22",
+    "updated_at": "2020-12-21T13:53:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openfind:mailaudit:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

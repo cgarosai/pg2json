@@ -1,0 +1,10 @@
+{
+    "id": 286192,
+    "name": "coturn",
+    "version": "4.5.1.0",
+    "created_at": "2019-07-02T15:58:18",
+    "updated_at": "2019-07-02T15:58:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:coturn_project:coturn:4.5.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 98611,
+    "name": "zenon_dnp3_process_gateway",
+    "version": "7.11",
+    "created_at": "2014-06-05T16:25:40",
+    "updated_at": "2014-06-09T16:12:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:copadata:zenon_dnp3_process_gateway:7.11:sp0_build_10238:*:*:*:*:*:*",
+    "to_analyse": false
+}

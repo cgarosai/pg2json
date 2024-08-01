@@ -1,0 +1,10 @@
+{
+    "id": 709421,
+    "name": "database_replication",
+    "version": "4.2.1",
+    "created_at": "2021-05-18T20:36:38",
+    "updated_at": "2021-05-19T10:30:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mendix:database_replication:4.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 510353,
+    "name": "xeon_e-2278g_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:40",
+    "updated_at": "2020-03-23T17:00:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e-2278g_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

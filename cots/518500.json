@@ -1,0 +1,10 @@
+{
+    "id": 518500,
+    "name": "lpddr4",
+    "version": "-",
+    "created_at": "2020-03-18T16:50:55",
+    "updated_at": "2020-03-18T16:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:samsung:lpddr4:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

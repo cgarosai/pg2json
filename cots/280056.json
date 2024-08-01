@@ -1,0 +1,10 @@
+{
+    "id": 280056,
+    "name": "fcm-mb40_firmware",
+    "version": "1.2.0.0",
+    "created_at": "2019-07-09T15:02:54",
+    "updated_at": "2021-05-13T15:21:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fcm-mb40_firmware:1.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

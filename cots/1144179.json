@@ -1,0 +1,10 @@
+{
+    "id": 1144179,
+    "name": "mx811_firmware",
+    "version": "lw80.tu.p245",
+    "created_at": "2023-09-06T13:54:41",
+    "updated_at": "2023-09-06T14:08:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:mx811_firmware:lw80.tu.p245:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

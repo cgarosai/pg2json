@@ -1,0 +1,10 @@
+{
+    "id": 766926,
+    "name": "lettre",
+    "version": "0.1.0",
+    "created_at": "2021-08-19T15:11:45",
+    "updated_at": "2021-08-19T16:02:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lettre:lettre:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

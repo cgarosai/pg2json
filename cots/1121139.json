@@ -1,0 +1,10 @@
+{
+    "id": 1121139,
+    "name": "teachpress",
+    "version": "9.0.0",
+    "created_at": "2023-07-31T11:39:00",
+    "updated_at": "2023-12-26T15:42:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teachpress_project:teachpress:9.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

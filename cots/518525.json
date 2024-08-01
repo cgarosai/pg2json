@@ -1,0 +1,10 @@
+{
+    "id": 518525,
+    "name": "tc_router_3002t-4g_att_firmware",
+    "version": "2.05.3",
+    "created_at": "2020-03-18T16:55:40",
+    "updated_at": "2020-03-18T16:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:tc_router_3002t-4g_att_firmware:2.05.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 111316,
+    "name": "usg5100_firmware",
+    "version": "v300r001c10",
+    "created_at": "2016-09-22T14:59:13",
+    "updated_at": "2021-05-17T13:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:usg5100_firmware:v300r001c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

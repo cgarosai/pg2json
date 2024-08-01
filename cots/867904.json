@@ -1,0 +1,10 @@
+{
+    "id": 867904,
+    "name": "simatic_cpu_1518f-4_firmware",
+    "version": "-",
+    "created_at": "2022-03-28T11:13:42",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_cpu_1518f-4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

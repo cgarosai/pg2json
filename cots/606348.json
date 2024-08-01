@@ -1,0 +1,10 @@
+{
+    "id": 606348,
+    "name": "password_reset_client",
+    "version": "3.22",
+    "created_at": "2020-10-02T17:50:44",
+    "updated_at": "2020-10-02T17:50:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anixis:password_reset_client:3.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

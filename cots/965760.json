@@ -1,0 +1,10 @@
+{
+    "id": 965760,
+    "name": "datahub",
+    "version": "0.8.43",
+    "created_at": "2022-10-31T16:45:09",
+    "updated_at": "2022-10-31T17:28:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:datahub_project:datahub:0.8.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

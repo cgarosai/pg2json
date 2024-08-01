@@ -1,0 +1,10 @@
+{
+    "id": 597599,
+    "name": "proxysg_firmware",
+    "version": "6.6",
+    "created_at": "2020-09-09T14:28:20",
+    "updated_at": "2020-09-09T14:28:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:symantec:proxysg_firmware:6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

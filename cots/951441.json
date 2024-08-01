@@ -1,0 +1,10 @@
+{
+    "id": 951441,
+    "name": "openfga",
+    "version": "0.2.3",
+    "created_at": "2022-10-25T17:38:37",
+    "updated_at": "2022-10-26T10:36:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openfga:openfga:0.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

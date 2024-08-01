@@ -1,0 +1,10 @@
+{
+    "id": 724038,
+    "name": "xeon_platinum_8360h",
+    "version": "-",
+    "created_at": "2021-06-28T15:59:30",
+    "updated_at": "2021-06-29T13:13:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_platinum_8360h:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

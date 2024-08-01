@@ -1,0 +1,10 @@
+{
+    "id": 617603,
+    "name": "privileged_session_manager",
+    "version": "10.9.0.15",
+    "created_at": "2020-11-04T13:24:21",
+    "updated_at": "2020-11-04T13:24:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyberark:privileged_session_manager:10.9.0.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

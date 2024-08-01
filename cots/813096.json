@@ -1,0 +1,10 @@
+{
+    "id": 813096,
+    "name": "kafka",
+    "version": "0.10.0.0",
+    "created_at": "2021-12-07T14:58:11",
+    "updated_at": "2021-12-07T19:47:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:kafka:0.10.0.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

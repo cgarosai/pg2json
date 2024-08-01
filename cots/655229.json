@@ -1,0 +1,10 @@
+{
+    "id": 655229,
+    "name": "spring_cloud_task",
+    "version": "2.3.0",
+    "created_at": "2021-02-02T12:37:27",
+    "updated_at": "2021-02-02T12:37:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_cloud_task:2.3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 922621,
+    "name": "chrome",
+    "version": "91.0.4472.118",
+    "created_at": "2022-08-30T11:42:38",
+    "updated_at": "2022-08-30T12:18:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:chrome:91.0.4472.118:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

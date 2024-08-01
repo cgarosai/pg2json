@@ -1,0 +1,10 @@
+{
+    "id": 641673,
+    "name": "hci_compute_node",
+    "version": "-",
+    "created_at": "2021-01-25T17:31:54",
+    "updated_at": "2021-01-25T17:31:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:netapp:hci_compute_node:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

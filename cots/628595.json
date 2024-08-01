@@ -1,0 +1,10 @@
+{
+    "id": 628595,
+    "name": "unified_communications_manager",
+    "version": "10.5\\(2\\)",
+    "created_at": "2020-12-03T12:47:41",
+    "updated_at": "2020-12-03T12:47:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unified_communications_manager:10.5\\(2\\):*:*:*:-:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 707513,
+    "name": "ucs-e140dp_firmware",
+    "version": "-",
+    "created_at": "2021-05-12T10:27:57",
+    "updated_at": "2021-05-26T12:35:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ucs-e140dp_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

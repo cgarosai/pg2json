@@ -1,0 +1,10 @@
+{
+    "id": 114408,
+    "name": "hybrid_meeting_server",
+    "version": "1.0_base",
+    "created_at": "2017-01-26T15:06:23",
+    "updated_at": "2021-05-25T13:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:hybrid_meeting_server:1.0_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

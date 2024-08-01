@@ -1,0 +1,10 @@
+{
+    "id": 131700,
+    "name": "libmnl",
+    "version": "1.0.2",
+    "created_at": "2017-12-20T11:39:53",
+    "updated_at": "2017-12-20T11:39:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netfilter:libmnl:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

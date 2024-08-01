@@ -1,0 +1,10 @@
+{
+    "id": 11132,
+    "name": "adaptive_server",
+    "version": "-",
+    "created_at": "2007-12-19T17:45:14",
+    "updated_at": "2007-12-19T17:45:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:adaptive_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

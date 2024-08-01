@@ -1,0 +1,10 @@
+{
+    "id": 265973,
+    "name": "sequelize",
+    "version": "3.19.3",
+    "created_at": "2019-06-14T10:33:32",
+    "updated_at": "2019-06-14T10:33:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sequelizejs:sequelize:3.19.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

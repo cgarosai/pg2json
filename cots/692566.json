@@ -1,0 +1,10 @@
+{
+    "id": 692566,
+    "name": "cloud_infrastructure_storage_gateway",
+    "version": "1.4",
+    "created_at": "2021-04-29T18:43:05",
+    "updated_at": "2021-05-03T10:48:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:cloud_infrastructure_storage_gateway:1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

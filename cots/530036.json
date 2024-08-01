@@ -1,0 +1,10 @@
+{
+    "id": 530036,
+    "name": "proliant_ws460c_gen9_graphics_server_blade_firmware",
+    "version": "2.76",
+    "created_at": "2020-04-27T18:06:42",
+    "updated_at": "2020-04-27T18:06:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_ws460c_gen9_graphics_server_blade_firmware:2.76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

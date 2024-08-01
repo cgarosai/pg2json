@@ -1,0 +1,10 @@
+{
+    "id": 461071,
+    "name": "ip_office_application_server",
+    "version": "11.0",
+    "created_at": "2019-12-30T17:54:07",
+    "updated_at": "2019-12-30T17:54:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:ip_office_application_server:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

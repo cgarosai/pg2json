@@ -1,0 +1,10 @@
+{
+    "id": 739970,
+    "name": "mruby",
+    "version": "3.0.0",
+    "created_at": "2021-07-09T13:35:02",
+    "updated_at": "2023-01-17T19:29:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

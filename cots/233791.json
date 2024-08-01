@@ -1,0 +1,10 @@
+{
+    "id": 233791,
+    "name": "mysql_workbench",
+    "version": "6.0.9",
+    "created_at": "2019-05-14T11:32:48",
+    "updated_at": "2019-05-14T11:32:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_workbench:6.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

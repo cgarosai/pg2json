@@ -1,0 +1,10 @@
+{
+    "id": 610803,
+    "name": "server_board_s2600wf_firmware",
+    "version": "02.01.0011",
+    "created_at": "2020-11-18T11:27:05",
+    "updated_at": "2021-05-04T13:06:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:server_board_s2600wf_firmware:02.01.0011:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

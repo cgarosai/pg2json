@@ -1,0 +1,10 @@
+{
+    "id": 44642,
+    "name": "commerce_server",
+    "version": "2009",
+    "created_at": "2012-04-11T14:38:56",
+    "updated_at": "2012-04-18T19:49:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:commerce_server:2009:r2:*:*:*:*:*:*",
+    "to_analyse": false
+}

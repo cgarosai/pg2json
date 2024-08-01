@@ -1,0 +1,10 @@
+{
+    "id": 568490,
+    "name": "github_coverage_reporter",
+    "version": "1.2",
+    "created_at": "2020-07-06T10:54:49",
+    "updated_at": "2020-07-06T10:54:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:github_coverage_reporter:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

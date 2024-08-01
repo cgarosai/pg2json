@@ -1,0 +1,10 @@
+{
+    "id": 581213,
+    "name": "hostscan_engine",
+    "version": "3.0.08066",
+    "created_at": "2020-08-25T10:56:21",
+    "updated_at": "2020-08-25T10:56:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:hostscan_engine:3.0.08066:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

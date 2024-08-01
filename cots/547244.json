@@ -1,0 +1,10 @@
+{
+    "id": 547244,
+    "name": "glpi",
+    "version": "9.4.6",
+    "created_at": "2020-05-07T16:21:35",
+    "updated_at": "2020-05-07T16:21:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glpi-project:glpi:9.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1218059,
+    "name": "candid",
+    "version": "0.9.11",
+    "created_at": "2023-12-12T18:45:16",
+    "updated_at": "2023-12-12T18:45:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dfinity:candid:0.9.11:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

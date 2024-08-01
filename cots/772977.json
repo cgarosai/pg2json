@@ -1,0 +1,10 @@
+{
+    "id": 772977,
+    "name": "onefuzz",
+    "version": "1.11.0",
+    "created_at": "2021-09-22T17:47:12",
+    "updated_at": "2021-09-22T17:53:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:onefuzz:1.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

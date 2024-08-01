@@ -1,0 +1,10 @@
+{
+    "id": 1169465,
+    "name": "gaia_portal",
+    "version": "r80.40",
+    "created_at": "2023-09-28T14:38:45",
+    "updated_at": "2023-09-28T14:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:gaia_portal:r80.40:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

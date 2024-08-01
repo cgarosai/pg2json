@@ -1,0 +1,10 @@
+{
+    "id": 487214,
+    "name": "webhost_manager",
+    "version": "11.34.0",
+    "created_at": "2020-01-31T19:37:13",
+    "updated_at": "2020-01-31T19:37:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cpanel:webhost_manager:11.34.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

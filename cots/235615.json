@@ -1,0 +1,10 @@
+{
+    "id": 235615,
+    "name": "gnome-desktop",
+    "version": "3.31.2",
+    "created_at": "2019-04-29T14:13:12",
+    "updated_at": "2019-04-29T14:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gnome-desktop:3.31.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

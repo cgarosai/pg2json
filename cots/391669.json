@@ -1,0 +1,10 @@
+{
+    "id": 391669,
+    "name": "security_guardium_database_activity_monitor",
+    "version": "10.1.4",
+    "created_at": "2019-10-02T16:13:38",
+    "updated_at": "2019-10-02T16:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_guardium_database_activity_monitor:10.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

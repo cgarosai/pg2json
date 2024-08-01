@@ -1,0 +1,10 @@
+{
+    "id": 583438,
+    "name": "inspiron_15-3552_firmware",
+    "version": "a21",
+    "created_at": "2020-09-01T14:38:19",
+    "updated_at": "2021-05-17T16:03:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_15-3552_firmware:a21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

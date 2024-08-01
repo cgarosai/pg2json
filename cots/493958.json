@@ -1,0 +1,10 @@
+{
+    "id": 493958,
+    "name": "jclouds",
+    "version": "1.8.0",
+    "created_at": "2020-02-26T19:40:39",
+    "updated_at": "2020-02-26T19:40:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:jclouds:1.8.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

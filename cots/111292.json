@@ -1,0 +1,10 @@
+{
+    "id": 111292,
+    "name": "web_security_appliance",
+    "version": "9.5.0-444",
+    "created_at": "2016-09-20T16:21:32",
+    "updated_at": "2016-09-20T16:21:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:web_security_appliance:9.5.0-444:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 917020,
+    "name": "banking_origination",
+    "version": "14.5",
+    "created_at": "2022-07-28T16:26:20",
+    "updated_at": "2023-08-29T09:30:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:banking_origination:14.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

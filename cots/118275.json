@@ -1,0 +1,10 @@
+{
+    "id": 118275,
+    "name": "discovery_and_dependency_mapping_inventory",
+    "version": "9.32",
+    "created_at": "2016-06-09T14:28:19",
+    "updated_at": "2021-06-02T12:22:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:discovery_and_dependency_mapping_inventory:9.32:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

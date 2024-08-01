@@ -1,0 +1,10 @@
+{
+    "id": 1021770,
+    "name": "z1_g9_tower_firmware",
+    "version": "02.05.01",
+    "created_at": "2023-02-10T11:50:11",
+    "updated_at": "2023-02-16T19:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:z1_g9_tower_firmware:02.05.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

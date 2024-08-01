@@ -1,0 +1,10 @@
+{
+    "id": 443775,
+    "name": "iobroker.web",
+    "version": "2.1.6",
+    "created_at": "2019-12-04T14:55:47",
+    "updated_at": "2019-12-04T14:55:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iobroker:iobroker.web:2.1.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

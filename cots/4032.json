@@ -1,0 +1,10 @@
+{
+    "id": 4032,
+    "name": "netscreen_screenos",
+    "version": "3.1.0r11",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:15:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:netscreen_screenos:3.1.0r11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

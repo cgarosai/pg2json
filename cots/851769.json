@@ -1,0 +1,10 @@
+{
+    "id": 851769,
+    "name": "ipdio_firmware",
+    "version": "3.9",
+    "created_at": "2022-03-11T11:19:32",
+    "updated_at": "2023-03-04T01:54:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ipcomm:ipdio_firmware:3.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

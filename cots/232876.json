@@ -1,0 +1,10 @@
+{
+    "id": 232876,
+    "name": "communicator",
+    "version": "3.15",
+    "created_at": "2019-05-10T17:11:54",
+    "updated_at": "2019-05-16T14:16:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ge:communicator:3.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 661298,
+    "name": "staticfile_buildpack",
+    "version": "0.5.0",
+    "created_at": "2021-03-03T18:05:21",
+    "updated_at": "2021-03-04T14:06:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:staticfile_buildpack:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

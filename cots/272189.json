@@ -1,0 +1,10 @@
+{
+    "id": 272189,
+    "name": "secure_encrypted_virtualization_firmware",
+    "version": "0.17b11",
+    "created_at": "2019-06-28T15:49:29",
+    "updated_at": "2021-05-27T11:34:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:secure_encrypted_virtualization_firmware:0.17b11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

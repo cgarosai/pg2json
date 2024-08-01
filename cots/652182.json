@@ -1,0 +1,10 @@
+{
+    "id": 652182,
+    "name": "core",
+    "version": "10.4.0.2",
+    "created_at": "2021-02-17T16:42:46",
+    "updated_at": "2021-02-17T16:42:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobileiron:core:10.4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

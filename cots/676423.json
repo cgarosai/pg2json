@@ -1,0 +1,10 @@
+{
+    "id": 676423,
+    "name": "quantum_development_kit",
+    "version": "-",
+    "created_at": "2021-03-13T00:06:33",
+    "updated_at": "2021-05-11T13:02:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:quantum_development_kit:-:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

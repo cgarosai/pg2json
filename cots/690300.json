@@ -1,0 +1,10 @@
+{
+    "id": 690300,
+    "name": "libtpms",
+    "version": "0.7.0",
+    "created_at": "2021-04-23T15:55:26",
+    "updated_at": "2021-04-26T13:32:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libtpms_project:libtpms:0.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

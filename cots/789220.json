@@ -1,0 +1,10 @@
+{
+    "id": 789220,
+    "name": "shuup",
+    "version": "1.9.11",
+    "created_at": "2021-10-05T13:19:16",
+    "updated_at": "2021-10-05T14:32:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shuup:shuup:1.9.11:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

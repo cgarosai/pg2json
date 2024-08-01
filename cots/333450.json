@@ -1,0 +1,10 @@
+{
+    "id": 333450,
+    "name": "live_chat_support",
+    "version": "8.0.29",
+    "created_at": "2019-08-19T12:45:12",
+    "updated_at": "2021-07-20T10:02:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-livechat:live_chat_support:8.0.29:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

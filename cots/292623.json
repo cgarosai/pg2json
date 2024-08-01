@@ -1,0 +1,10 @@
+{
+    "id": 292623,
+    "name": "singularity",
+    "version": "3.3.0",
+    "created_at": "2019-07-17T13:56:18",
+    "updated_at": "2019-07-17T13:56:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sylabs:singularity:3.3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

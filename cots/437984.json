@@ -1,0 +1,10 @@
+{
+    "id": 437984,
+    "name": "wp_slacksync",
+    "version": "1.4.2",
+    "created_at": "2019-11-14T18:47:06",
+    "updated_at": "2019-11-14T18:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slack:wp_slacksync:1.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

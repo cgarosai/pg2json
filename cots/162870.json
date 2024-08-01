@@ -1,0 +1,10 @@
+{
+    "id": 162870,
+    "name": "events_manager",
+    "version": "4.171",
+    "created_at": "2018-08-16T12:11:19",
+    "updated_at": "2018-08-16T12:11:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-events-plugin:events_manager:4.171:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 194820,
+    "name": "csi_agent",
+    "version": "7.0.0",
+    "created_at": "2019-01-30T12:33:40",
+    "updated_at": "2021-08-12T17:35:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:secunia:csi_agent:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

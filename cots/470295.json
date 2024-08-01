@@ -1,0 +1,10 @@
+{
+    "id": 470295,
+    "name": "otrs_help_desk",
+    "version": "3.1.14",
+    "created_at": "2020-01-16T12:25:28",
+    "updated_at": "2020-01-16T12:25:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:otrs_help_desk:3.1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 167255,
+    "name": "erlang\\/otp",
+    "version": "18.3.4.4",
+    "created_at": "2018-07-11T11:47:08",
+    "updated_at": "2023-09-25T13:31:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:erlang:erlang\\/otp:18.3.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

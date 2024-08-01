@@ -1,0 +1,10 @@
+{
+    "id": 791122,
+    "name": "rasa",
+    "version": "1.1.5",
+    "created_at": "2021-10-27T12:42:24",
+    "updated_at": "2021-10-27T13:10:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rasa:rasa:1.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

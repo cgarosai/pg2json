@@ -1,0 +1,10 @@
+{
+    "id": 1098787,
+    "name": "vpn1000_firmware",
+    "version": "5.36",
+    "created_at": "2023-06-06T17:05:20",
+    "updated_at": "2023-06-07T16:20:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:vpn1000_firmware:5.36:patch2:*:*:*:*:*:*",
+    "to_analyse": false
+}

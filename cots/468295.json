@@ -1,0 +1,10 @@
+{
+    "id": 468295,
+    "name": "hammer_cli",
+    "version": "0.0.17",
+    "created_at": "2019-12-19T14:49:06",
+    "updated_at": "2019-12-19T14:49:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theforeman:hammer_cli:0.0.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 601689,
+    "name": "persona",
+    "version": "2.3",
+    "created_at": "2020-10-09T13:17:13",
+    "updated_at": "2020-10-09T13:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:persona:2.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

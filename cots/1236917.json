@@ -1,0 +1,10 @@
+{
+    "id": 1236917,
+    "name": "anti-spam",
+    "version": "5.157.2",
+    "created_at": "2024-01-08T18:28:09",
+    "updated_at": "2024-01-08T18:28:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cleantalk:anti-spam:5.157.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

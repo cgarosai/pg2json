@@ -1,0 +1,10 @@
+{
+    "id": 568841,
+    "name": "secureauth_identity_provider",
+    "version": "9.3.0",
+    "created_at": "2020-07-06T15:11:49",
+    "updated_at": "2020-07-06T15:11:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:secureauth:secureauth_identity_provider:9.3.0:hotfix14:*:*:*:*:*:*",
+    "to_analyse": false
+}

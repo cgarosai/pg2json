@@ -1,0 +1,10 @@
+{
+    "id": 911538,
+    "name": "access_connector",
+    "version": "22.05",
+    "created_at": "2022-08-08T17:38:12",
+    "updated_at": "2022-08-08T18:43:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:access_connector:22.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

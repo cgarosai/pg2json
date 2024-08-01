@@ -1,0 +1,10 @@
+{
+    "id": 559094,
+    "name": "media_server",
+    "version": "1.7.1",
+    "created_at": "2020-06-09T15:48:27",
+    "updated_at": "2020-06-09T15:48:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:evostream:media_server:1.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

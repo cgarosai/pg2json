@@ -1,0 +1,10 @@
+{
+    "id": 833519,
+    "name": "somachine",
+    "version": "-",
+    "created_at": "2022-01-31T17:58:08",
+    "updated_at": "2022-01-31T18:42:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:somachine:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

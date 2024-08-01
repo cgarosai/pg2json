@@ -1,0 +1,10 @@
+{
+    "id": 317019,
+    "name": "browser",
+    "version": "1.6.10",
+    "created_at": "2019-07-26T11:23:07",
+    "updated_at": "2019-07-26T11:23:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parity:browser:1.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

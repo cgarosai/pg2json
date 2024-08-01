@@ -1,0 +1,10 @@
+{
+    "id": 1246085,
+    "name": "radeon_instinct_mi25",
+    "version": "-",
+    "created_at": "2024-01-26T14:31:40",
+    "updated_at": "2024-01-26T14:31:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:radeon_instinct_mi25:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

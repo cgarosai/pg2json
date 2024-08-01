@@ -1,0 +1,10 @@
+{
+    "id": 412836,
+    "name": "tivoli_storage_manager",
+    "version": "6.3.4.0",
+    "created_at": "2019-10-29T18:55:13",
+    "updated_at": "2019-10-29T18:55:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager:6.3.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

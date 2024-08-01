@@ -1,0 +1,10 @@
+{
+    "id": 75021,
+    "name": "cloudplatform",
+    "version": "3.0",
+    "created_at": "2013-01-23T19:04:14",
+    "updated_at": "2013-01-23T19:04:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:cloudplatform:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

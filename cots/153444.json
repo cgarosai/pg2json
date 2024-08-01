@@ -1,0 +1,10 @@
+{
+    "id": 153444,
+    "name": "virusscan_enterprise",
+    "version": "8.8",
+    "created_at": "2018-06-12T16:28:58",
+    "updated_at": "2021-05-18T15:10:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:virusscan_enterprise:8.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

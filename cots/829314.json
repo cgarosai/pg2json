@@ -1,0 +1,10 @@
+{
+    "id": 829314,
+    "name": "element",
+    "version": "0.7.5",
+    "created_at": "2021-12-17T18:39:12",
+    "updated_at": "2021-12-17T18:47:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:element:0.7.5:rc2:*:*:web:*:*:*",
+    "to_analyse": false
+}

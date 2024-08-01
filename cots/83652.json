@@ -1,0 +1,10 @@
+{
+    "id": 83652,
+    "name": "storeonce_2620_iscsi_backup_system",
+    "version": "3.6.5",
+    "created_at": "2014-03-31T13:28:12",
+    "updated_at": "2014-04-02T12:12:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:storeonce_2620_iscsi_backup_system:3.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

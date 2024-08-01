@@ -1,0 +1,10 @@
+{
+    "id": 591054,
+    "name": "syncope",
+    "version": "2.1.7",
+    "created_at": "2020-09-16T16:18:29",
+    "updated_at": "2020-09-16T16:18:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:syncope:2.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

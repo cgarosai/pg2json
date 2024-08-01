@@ -1,0 +1,10 @@
+{
+    "id": 129780,
+    "name": "libndp",
+    "version": "1.5",
+    "created_at": "2017-05-26T12:48:35",
+    "updated_at": "2017-05-26T12:48:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libndp:libndp:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1111856,
+    "name": "buy_me_a_coffee",
+    "version": "2.7",
+    "created_at": "2023-07-17T11:55:58",
+    "updated_at": "2023-07-17T12:06:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buymeacoffee:buy_me_a_coffee:2.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

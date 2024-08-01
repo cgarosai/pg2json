@@ -1,0 +1,10 @@
+{
+    "id": 540000,
+    "name": "proliant_dl180_gen10_server_firmware",
+    "version": "2.20",
+    "created_at": "2020-04-27T18:06:20",
+    "updated_at": "2020-04-27T18:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_dl180_gen10_server_firmware:2.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

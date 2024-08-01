@@ -1,0 +1,10 @@
+{
+    "id": 643052,
+    "name": "wd_discovery",
+    "version": "-",
+    "created_at": "2021-01-28T16:40:38",
+    "updated_at": "2021-07-20T11:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:westerndigital:wd_discovery:-:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

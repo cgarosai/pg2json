@@ -1,0 +1,10 @@
+{
+    "id": 130340,
+    "name": "conference_director",
+    "version": "2017-08-15",
+    "created_at": "2017-12-05T19:06:58",
+    "updated_at": "2021-05-25T11:54:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:conference_director:2017-08-15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1159072,
+    "name": "jgit",
+    "version": "3.0.2.201309041250",
+    "created_at": "2023-09-15T14:45:19",
+    "updated_at": "2023-09-15T14:45:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:jgit:3.0.2.201309041250:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

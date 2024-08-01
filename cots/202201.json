@@ -1,0 +1,10 @@
+{
+    "id": 202201,
+    "name": "lxml",
+    "version": "4.2.2",
+    "created_at": "2019-02-27T17:52:13",
+    "updated_at": "2019-02-27T17:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lxml:lxml:4.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

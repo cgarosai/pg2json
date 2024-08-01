@@ -1,0 +1,10 @@
+{
+    "id": 1034566,
+    "name": "iris_xe_max_dedicated_graphics",
+    "version": "100.0.5.1474",
+    "created_at": "2023-03-06T12:55:05",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:100.0.5.1474:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

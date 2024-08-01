@@ -1,0 +1,10 @@
+{
+    "id": 413649,
+    "name": "mailscanner",
+    "version": "4.31.4",
+    "created_at": "2019-10-31T11:43:00",
+    "updated_at": "2019-10-31T11:43:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailscanner:mailscanner:4.31.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

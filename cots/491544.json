@@ -1,0 +1,10 @@
+{
+    "id": 491544,
+    "name": "ncs_540-acc-sys",
+    "version": "-",
+    "created_at": "2020-02-24T15:05:22",
+    "updated_at": "2020-02-24T15:05:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ncs_540-acc-sys:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

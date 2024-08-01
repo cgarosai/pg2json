@@ -1,0 +1,10 @@
+{
+    "id": 976776,
+    "name": "mailer",
+    "version": "435.438.v5b_81173f5b_a_1",
+    "created_at": "2022-11-23T15:51:07",
+    "updated_at": "2022-11-23T15:51:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mailer:435.438.v5b_81173f5b_a_1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

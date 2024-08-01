@@ -1,0 +1,10 @@
+{
+    "id": 161865,
+    "name": "ca_privileged_access_manager",
+    "version": "2.0",
+    "created_at": "2018-08-08T13:31:37",
+    "updated_at": "2021-05-18T11:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_privileged_access_manager:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

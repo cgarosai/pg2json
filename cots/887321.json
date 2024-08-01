@@ -1,0 +1,10 @@
+{
+    "id": 887321,
+    "name": "blue_ocean",
+    "version": "1.25.3",
+    "created_at": "2022-05-20T14:06:15",
+    "updated_at": "2022-07-05T15:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:blue_ocean:1.25.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1239336,
+    "name": "antifraud",
+    "version": "-",
+    "created_at": "2024-01-11T13:31:49",
+    "updated_at": "2024-01-11T13:31:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:topazevolution:antifraud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

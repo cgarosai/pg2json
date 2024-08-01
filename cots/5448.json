@@ -1,0 +1,10 @@
+{
+    "id": 5448,
+    "name": "cis_webserver",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cupidsystems:cis_webserver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

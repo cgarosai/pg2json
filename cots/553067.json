@@ -1,0 +1,10 @@
+{
+    "id": 553067,
+    "name": "http_file_server",
+    "version": "2.2b",
+    "created_at": "2020-06-22T14:17:34",
+    "updated_at": "2020-06-22T14:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rejetto:http_file_server:2.2b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

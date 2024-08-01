@@ -1,0 +1,10 @@
+{
+    "id": 649751,
+    "name": "server_backup_portal",
+    "version": "8.81",
+    "created_at": "2021-01-19T14:35:13",
+    "updated_at": "2021-01-19T14:35:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:carbonite:server_backup_portal:8.81:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

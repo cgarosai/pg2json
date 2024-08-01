@@ -1,0 +1,10 @@
+{
+    "id": 164446,
+    "name": "safeguard_enterprise_client",
+    "version": "6.00",
+    "created_at": "2018-08-31T15:35:20",
+    "updated_at": "2021-08-12T14:09:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:safeguard_enterprise_client:6.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

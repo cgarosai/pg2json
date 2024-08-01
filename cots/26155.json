@@ -1,0 +1,10 @@
+{
+    "id": 26155,
+    "name": "apt",
+    "version": "0.7.17",
+    "created_at": "2009-04-22T10:37:50",
+    "updated_at": "2020-01-08T14:11:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:apt:0.7.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

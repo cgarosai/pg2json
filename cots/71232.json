@@ -1,0 +1,10 @@
+{
+    "id": 71232,
+    "name": "h3c_switch",
+    "version": "s5100-48p-ei_ls-5100-48p-ei-ovs",
+    "created_at": "2013-07-08T14:55:47",
+    "updated_at": "2013-07-12T15:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_switch:s5100-48p-ei_ls-5100-48p-ei-ovs:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

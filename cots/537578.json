@@ -1,0 +1,10 @@
+{
+    "id": 537578,
+    "name": "app",
+    "version": "-",
+    "created_at": "2020-04-20T10:50:51",
+    "updated_at": "2020-04-20T10:50:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:app_project:app:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

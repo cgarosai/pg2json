@@ -1,0 +1,10 @@
+{
+    "id": 472980,
+    "name": "receiver",
+    "version": "4.12",
+    "created_at": "2020-01-24T12:22:41",
+    "updated_at": "2020-01-24T12:22:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:receiver:4.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

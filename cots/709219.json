@@ -1,0 +1,10 @@
+{
+    "id": 709219,
+    "name": "workspaces_server",
+    "version": "8.1.0",
+    "created_at": "2021-05-18T09:59:38",
+    "updated_at": "2021-05-19T16:51:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackberry:workspaces_server:8.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

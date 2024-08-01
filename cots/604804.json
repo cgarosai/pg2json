@@ -1,0 +1,10 @@
+{
+    "id": 604804,
+    "name": "geforce_now",
+    "version": "5.31",
+    "created_at": "2020-10-27T13:49:39",
+    "updated_at": "2020-10-27T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:geforce_now:5.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

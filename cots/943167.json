@@ -1,0 +1,10 @@
+{
+    "id": 943167,
+    "name": "lighttpd",
+    "version": "1.4.67",
+    "created_at": "2022-10-07T15:09:37",
+    "updated_at": "2022-11-08T18:29:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lighttpd:lighttpd:1.4.67:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

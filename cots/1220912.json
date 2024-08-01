@@ -1,0 +1,10 @@
+{
+    "id": 1220912,
+    "name": "elastic_ci_stack",
+    "version": "2.0.0",
+    "created_at": "2024-01-02T18:35:30",
+    "updated_at": "2024-01-02T18:35:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buildkite:elastic_ci_stack:2.0.0:-:*:*:*:aws:*:*",
+    "to_analyse": false
+}

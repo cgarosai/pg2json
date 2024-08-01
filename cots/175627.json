@@ -1,0 +1,10 @@
+{
+    "id": 175627,
+    "name": "xeon_gold",
+    "version": "6138p",
+    "created_at": "2018-09-10T12:51:39",
+    "updated_at": "2023-09-25T20:11:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_gold:6138p:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

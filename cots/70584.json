@@ -1,0 +1,10 @@
+{
+    "id": 70584,
+    "name": "s8500",
+    "version": "r1631",
+    "created_at": "2013-06-21T13:10:29",
+    "updated_at": "2013-07-12T15:35:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:s8500:r1631:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

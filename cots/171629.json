@@ -1,0 +1,10 @@
+{
+    "id": 171629,
+    "name": "omero",
+    "version": "1.0.0",
+    "created_at": "2018-10-15T15:48:56",
+    "updated_at": "2018-10-15T15:48:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmicroscopy:omero:1.0.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

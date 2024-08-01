@@ -1,0 +1,10 @@
+{
+    "id": 1023096,
+    "name": "wax630s_firmware",
+    "version": "6.45\\(abzd.0\\)c0",
+    "created_at": "2023-02-13T19:08:11",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:wax630s_firmware:6.45\\(abzd.0\\)c0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

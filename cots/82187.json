@@ -1,0 +1,10 @@
+{
+    "id": 82187,
+    "name": "prime_infrastructure",
+    "version": "1.2.1",
+    "created_at": "2014-02-28T14:55:09",
+    "updated_at": "2014-02-28T14:59:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_infrastructure:1.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

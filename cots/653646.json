@@ -1,0 +1,10 @@
+{
+    "id": 653646,
+    "name": "vsphere_replication",
+    "version": "8.3.1.2",
+    "created_at": "2021-02-22T12:34:04",
+    "updated_at": "2021-06-25T13:15:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vsphere_replication:8.3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

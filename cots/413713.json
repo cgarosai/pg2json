@@ -1,0 +1,10 @@
+{
+    "id": 413713,
+    "name": "product_lifecycle_management",
+    "version": "9.3.6",
+    "created_at": "2019-10-31T11:50:49",
+    "updated_at": "2019-10-31T11:50:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:product_lifecycle_management:9.3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

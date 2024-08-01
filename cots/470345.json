@@ -1,0 +1,10 @@
+{
+    "id": 470345,
+    "name": "simatic_s7-400_pn_v7",
+    "version": "-",
+    "created_at": "2020-01-16T12:43:48",
+    "updated_at": "2020-01-16T12:43:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_s7-400_pn_v7:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

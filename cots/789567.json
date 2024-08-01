@@ -1,0 +1,10 @@
+{
+    "id": 789567,
+    "name": "cloud_foundation",
+    "version": "4.3.1",
+    "created_at": "2021-10-05T15:08:10",
+    "updated_at": "2021-10-06T13:52:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:cloud_foundation:4.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

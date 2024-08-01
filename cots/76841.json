@@ -1,0 +1,10 @@
+{
+    "id": 76841,
+    "name": "automatic_bug_reporting_tool",
+    "version": "2.0.4.980",
+    "created_at": "2013-03-19T11:46:24",
+    "updated_at": "2013-03-20T12:09:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:automatic_bug_reporting_tool:2.0.4.980:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

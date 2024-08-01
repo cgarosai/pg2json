@@ -1,0 +1,10 @@
+{
+    "id": 843866,
+    "name": "doktor",
+    "version": "0.1.0",
+    "created_at": "2022-02-18T15:46:46",
+    "updated_at": "2022-02-18T15:47:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:doktor:0.1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

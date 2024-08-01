@@ -1,0 +1,10 @@
+{
+    "id": 736659,
+    "name": "helpuserver",
+    "version": "2020.11.20.0",
+    "created_at": "2021-07-01T15:50:26",
+    "updated_at": "2021-07-02T11:00:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:helpu:helpuserver:2020.11.20.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

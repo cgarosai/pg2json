@@ -1,0 +1,10 @@
+{
+    "id": 477138,
+    "name": "openoffice",
+    "version": "-",
+    "created_at": "2020-01-13T14:23:54",
+    "updated_at": "2020-01-13T14:23:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:openoffice:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

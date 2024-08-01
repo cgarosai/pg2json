@@ -1,0 +1,10 @@
+{
+    "id": 105977,
+    "name": "marketo_ma",
+    "version": "7.x-1.3",
+    "created_at": "2014-12-16T19:00:56",
+    "updated_at": "2015-01-15T17:39:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marketo_ma_project:marketo_ma:7.x-1.3:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

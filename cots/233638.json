@@ -1,0 +1,10 @@
+{
+    "id": 233638,
+    "name": "okhttp",
+    "version": "3.1.0",
+    "created_at": "2019-05-13T16:09:27",
+    "updated_at": "2019-05-13T16:09:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squareup:okhttp:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 647022,
+    "name": "virtual_gpu_manager",
+    "version": "4.6",
+    "created_at": "2021-01-11T13:33:11",
+    "updated_at": "2021-01-11T13:33:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:virtual_gpu_manager:4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

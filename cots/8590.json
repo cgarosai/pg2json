@@ -1,0 +1,10 @@
+{
+    "id": 8590,
+    "name": "express",
+    "version": "ci_r57",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:09:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:express:ci_r57:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

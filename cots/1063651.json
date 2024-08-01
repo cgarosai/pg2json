@@ -1,0 +1,10 @@
+{
+    "id": 1063651,
+    "name": "wp_clictracker",
+    "version": "-",
+    "created_at": "2023-04-24T13:54:13",
+    "updated_at": "2023-05-01T11:23:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_clictracker_project:wp_clictracker:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

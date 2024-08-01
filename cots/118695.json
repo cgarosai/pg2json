@@ -1,0 +1,10 @@
+{
+    "id": 118695,
+    "name": "jenkins",
+    "version": "1.524",
+    "created_at": "2016-06-13T11:44:03",
+    "updated_at": "2019-05-08T14:28:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jenkins:1.524:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

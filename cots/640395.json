@@ -1,0 +1,10 @@
+{
+    "id": 640395,
+    "name": "sv8100_firmware",
+    "version": "-",
+    "created_at": "2021-01-21T16:14:47",
+    "updated_at": "2021-01-21T16:14:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nec:sv8100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

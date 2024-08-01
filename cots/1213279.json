@@ -1,0 +1,10 @@
+{
+    "id": 1213279,
+    "name": "struts",
+    "version": "2.3.35",
+    "created_at": "2023-12-19T16:25:38",
+    "updated_at": "2023-12-19T16:25:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:struts:2.3.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

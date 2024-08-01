@@ -1,0 +1,10 @@
+{
+    "id": 980582,
+    "name": "plot",
+    "version": "2.1.12",
+    "created_at": "2022-12-12T16:27:39",
+    "updated_at": "2023-02-01T20:18:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:plot:2.1.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

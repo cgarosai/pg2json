@@ -1,0 +1,10 @@
+{
+    "id": 1037547,
+    "name": "tia_multiuser_server",
+    "version": "15.1",
+    "created_at": "2023-02-21T16:48:21",
+    "updated_at": "2023-03-06T13:59:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:tia_multiuser_server:15.1:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

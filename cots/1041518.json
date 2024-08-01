@@ -1,0 +1,10 @@
+{
+    "id": 1041518,
+    "name": "azure_setup_kubectl",
+    "version": "2.1",
+    "created_at": "2023-03-13T09:55:55",
+    "updated_at": "2023-07-14T09:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_setup_kubectl:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

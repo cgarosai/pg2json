@@ -1,0 +1,10 @@
+{
+    "id": 643554,
+    "name": "jetson_agx_xavier",
+    "version": "-",
+    "created_at": "2021-01-28T21:14:59",
+    "updated_at": "2021-01-28T21:14:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:jetson_agx_xavier:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

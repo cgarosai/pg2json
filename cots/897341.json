@@ -1,0 +1,10 @@
+{
+    "id": 897341,
+    "name": "sma_410_firmware",
+    "version": "10.2.0.9-41sv",
+    "created_at": "2022-06-13T12:17:51",
+    "updated_at": "2022-06-16T12:36:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sma_410_firmware:10.2.0.9-41sv:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

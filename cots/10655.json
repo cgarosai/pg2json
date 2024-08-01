@@ -1,0 +1,10 @@
+{
+    "id": 10655,
+    "name": "activesync",
+    "version": "-",
+    "created_at": "2007-10-16T08:09:31",
+    "updated_at": "2007-10-16T08:09:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:activesync:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

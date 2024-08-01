@@ -1,0 +1,10 @@
+{
+    "id": 101880,
+    "name": "pagetriage",
+    "version": "-",
+    "created_at": "2015-11-10T13:57:20",
+    "updated_at": "2015-11-18T19:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pagetriage_project:pagetriage:-:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

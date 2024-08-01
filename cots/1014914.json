@@ -1,0 +1,10 @@
+{
+    "id": 1014914,
+    "name": "nova_230_eyk230f001_firmware",
+    "version": "-",
+    "created_at": "2023-01-31T15:10:16",
+    "updated_at": "2023-02-01T16:56:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sauter-controls:nova_230_eyk230f001_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

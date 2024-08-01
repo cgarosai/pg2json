@@ -1,0 +1,10 @@
+{
+    "id": 1117428,
+    "name": "temporal",
+    "version": "1.8.0",
+    "created_at": "2023-07-07T16:41:08",
+    "updated_at": "2023-07-07T17:40:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:temporal:temporal:1.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

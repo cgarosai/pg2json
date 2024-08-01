@@ -1,0 +1,10 @@
+{
+    "id": 1126806,
+    "name": "bigfix_webui",
+    "version": "44",
+    "created_at": "2023-07-25T15:18:30",
+    "updated_at": "2023-07-28T18:20:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:bigfix_webui:44:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 585215,
+    "name": "web_jetadmin",
+    "version": "10.4",
+    "created_at": "2020-08-12T17:23:37",
+    "updated_at": "2020-08-12T17:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:web_jetadmin:10.4:sr1:*:*:*:*:*:*",
+    "to_analyse": false
+}

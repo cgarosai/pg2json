@@ -1,0 +1,10 @@
+{
+    "id": 473988,
+    "name": "hiredis",
+    "version": "0.14.0",
+    "created_at": "2020-01-27T14:12:27",
+    "updated_at": "2020-01-27T14:12:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redislabs:hiredis:0.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

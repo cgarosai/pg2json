@@ -1,0 +1,10 @@
+{
+    "id": 85317,
+    "name": "suse_linux_software_development_kit",
+    "version": "11.0",
+    "created_at": "2013-10-03T16:03:34",
+    "updated_at": "2015-01-14T15:30:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp2:enterprise:*:*:*:*:*",
+    "to_analyse": false
+}

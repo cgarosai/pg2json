@@ -1,0 +1,10 @@
+{
+    "id": 461194,
+    "name": "tree-kill",
+    "version": "1.0.0",
+    "created_at": "2019-12-31T17:23:27",
+    "updated_at": "2019-12-31T17:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tree-kill_project:tree-kill:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

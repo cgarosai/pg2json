@@ -1,0 +1,10 @@
+{
+    "id": 590569,
+    "name": "experience_manager",
+    "version": "6.2.0.0",
+    "created_at": "2020-09-16T08:52:16",
+    "updated_at": "2020-09-16T08:52:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp14:*:*:*:*:*:*",
+    "to_analyse": false
+}

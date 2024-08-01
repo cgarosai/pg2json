@@ -1,0 +1,10 @@
+{
+    "id": 772199,
+    "name": "cerberus_dms",
+    "version": "5.0",
+    "created_at": "2021-09-21T16:14:07",
+    "updated_at": "2021-10-19T11:09:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:cerberus_dms:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

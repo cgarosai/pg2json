@@ -1,0 +1,10 @@
+{
+    "id": 451327,
+    "name": "endpoint_encryption",
+    "version": "8.2.1",
+    "created_at": "2019-12-10T13:47:26",
+    "updated_at": "2019-12-10T13:47:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_encryption:8.2.1:maintenance_pack_8:*:*:*:*:*:*",
+    "to_analyse": false
+}

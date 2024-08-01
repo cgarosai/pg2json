@@ -1,0 +1,10 @@
+{
+    "id": 432023,
+    "name": "kairosdb",
+    "version": "0.9.3",
+    "created_at": "2019-11-19T17:31:21",
+    "updated_at": "2019-11-19T17:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kairosdb_project:kairosdb:0.9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 127566,
+    "name": "snmpc",
+    "version": "12.1",
+    "created_at": "2017-04-13T14:38:19",
+    "updated_at": "2021-07-19T17:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:castlerock:snmpc:12.1:*:*:*:online:*:*:*",
+    "to_analyse": false
+}

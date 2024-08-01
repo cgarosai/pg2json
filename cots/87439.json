@@ -1,0 +1,10 @@
+{
+    "id": 87439,
+    "name": "osirix",
+    "version": "5.7",
+    "created_at": "2013-11-18T14:35:40",
+    "updated_at": "2013-11-19T16:57:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osirix-viewer:osirix:5.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

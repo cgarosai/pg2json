@@ -1,0 +1,10 @@
+{
+    "id": 412653,
+    "name": "infosphere_datastage",
+    "version": "11.5",
+    "created_at": "2019-10-29T16:54:04",
+    "updated_at": "2019-10-29T16:54:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_datastage:11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

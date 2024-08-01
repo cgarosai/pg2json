@@ -1,0 +1,10 @@
+{
+    "id": 11078,
+    "name": "ciscoworks_server",
+    "version": "-",
+    "created_at": "2007-12-17T14:35:24",
+    "updated_at": "2007-12-17T14:35:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ciscoworks_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

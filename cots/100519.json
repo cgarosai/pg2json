@@ -1,0 +1,10 @@
+{
+    "id": 100519,
+    "name": "digital_content_manager",
+    "version": "15.0.0",
+    "created_at": "2015-07-02T14:13:44",
+    "updated_at": "2015-07-06T15:08:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:digital_content_manager:15.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

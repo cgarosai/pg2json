@@ -1,0 +1,10 @@
+{
+    "id": 100315,
+    "name": "ubercart_discount_coupons",
+    "version": "6.x-1.1",
+    "created_at": "2015-06-22T15:34:13",
+    "updated_at": "2015-06-22T15:52:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubercart_discount_coupons_project:ubercart_discount_coupons:6.x-1.1:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

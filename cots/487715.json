@@ -1,0 +1,10 @@
+{
+    "id": 487715,
+    "name": "private_instant_verified_transactions",
+    "version": "0.9.13.7",
+    "created_at": "2020-02-03T13:07:06",
+    "updated_at": "2020-02-03T13:07:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivx:private_instant_verified_transactions:0.9.13.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

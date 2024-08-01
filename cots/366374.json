@@ -1,0 +1,10 @@
+{
+    "id": 366374,
+    "name": "copay_bitcoin_wallet",
+    "version": "5.7.0",
+    "created_at": "2019-09-11T13:23:39",
+    "updated_at": "2019-09-11T13:23:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitpay:copay_bitcoin_wallet:5.7.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 118376,
+    "name": "data_domain_os",
+    "version": "5.5.3.3",
+    "created_at": "2016-06-10T16:54:12",
+    "updated_at": "2021-05-24T16:05:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emc:data_domain_os:5.5.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

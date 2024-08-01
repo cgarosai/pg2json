@@ -1,0 +1,10 @@
+{
+    "id": 655351,
+    "name": "hadoop",
+    "version": "3.0.2",
+    "created_at": "2021-02-02T14:57:01",
+    "updated_at": "2021-02-02T14:57:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:hadoop:3.0.2:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

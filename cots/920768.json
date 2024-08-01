@@ -1,0 +1,10 @@
+{
+    "id": 920768,
+    "name": "node-opcua",
+    "version": "2.5.0",
+    "created_at": "2022-08-26T10:41:24",
+    "updated_at": "2022-08-26T10:52:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-opcua_project:node-opcua:2.5.0:alpha10:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

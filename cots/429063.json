@@ -1,0 +1,10 @@
+{
+    "id": 429063,
+    "name": "ui\\",
+    "version": "\\",
+    "created_at": "2019-11-04T17:44:20",
+    "updated_at": "2019-11-04T17:44:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cpan:ui\\:\\:dialog:0.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

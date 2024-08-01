@@ -1,0 +1,10 @@
+{
+    "id": 790789,
+    "name": "tar",
+    "version": "5.0.9",
+    "created_at": "2021-10-26T16:50:00",
+    "updated_at": "2021-10-26T16:53:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:npmjs:tar:5.0.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

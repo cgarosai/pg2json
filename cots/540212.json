@@ -1,0 +1,10 @@
+{
+    "id": 540212,
+    "name": "ucs_director",
+    "version": "6.7.4.0",
+    "created_at": "2020-05-14T11:38:43",
+    "updated_at": "2020-05-14T11:38:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ucs_director:6.7.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

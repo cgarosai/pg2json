@@ -1,0 +1,10 @@
+{
+    "id": 66034,
+    "name": "device_agent",
+    "version": "3.8.24",
+    "created_at": "2012-08-01T19:34:18",
+    "updated_at": "2012-08-01T19:34:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xerox:device_agent:3.8.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

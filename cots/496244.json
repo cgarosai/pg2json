@@ -1,0 +1,10 @@
+{
+    "id": 496244,
+    "name": "network-manager",
+    "version": "-",
+    "created_at": "2020-02-12T14:33:08",
+    "updated_at": "2020-02-12T14:33:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:network-manager_project:network-manager:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 664922,
+    "name": "products.genericsetup",
+    "version": "2.0",
+    "created_at": "2021-03-09T15:14:57",
+    "updated_at": "2021-04-05T13:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zope:products.genericsetup:2.0:b2:*:*:*:*:*:*",
+    "to_analyse": false
+}

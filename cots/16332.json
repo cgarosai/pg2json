@@ -1,0 +1,10 @@
+{
+    "id": 16332,
+    "name": "zenworks_asset_management",
+    "version": "7",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:46:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:zenworks_asset_management:7:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 418211,
+    "name": "mattermost_notification",
+    "version": "2.3.1",
+    "created_at": "2019-10-24T10:26:01",
+    "updated_at": "2019-10-24T10:26:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mattermost_notification:2.3.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

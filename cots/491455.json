@@ -1,0 +1,10 @@
+{
+    "id": 491455,
+    "name": "bcm43013_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T14:08:06",
+    "updated_at": "2020-02-24T14:08:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:bcm43013_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

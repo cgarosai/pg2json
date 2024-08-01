@@ -1,0 +1,10 @@
+{
+    "id": 670493,
+    "name": "mydbr",
+    "version": "4.9",
+    "created_at": "2021-03-19T14:07:31",
+    "updated_at": "2021-03-22T16:06:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mydbr:mydbr:4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

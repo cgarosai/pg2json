@@ -1,0 +1,10 @@
+{
+    "id": 70501,
+    "name": "s3300",
+    "version": "v100r002",
+    "created_at": "2013-06-21T11:53:23",
+    "updated_at": "2013-07-12T15:34:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:s3300:v100r002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

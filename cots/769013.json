@@ -1,0 +1,10 @@
+{
+    "id": 769013,
+    "name": "retail_xstore_point_of_service",
+    "version": "16.0.6",
+    "created_at": "2021-08-23T14:32:42",
+    "updated_at": "2021-08-23T16:00:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_xstore_point_of_service:16.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

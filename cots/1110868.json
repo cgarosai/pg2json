@@ -1,0 +1,10 @@
+{
+    "id": 1110868,
+    "name": "configurable_tag_cloud",
+    "version": "4.5",
+    "created_at": "2023-07-13T12:12:41",
+    "updated_at": "2023-07-13T12:35:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:configurable_tag_cloud_project:configurable_tag_cloud:4.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

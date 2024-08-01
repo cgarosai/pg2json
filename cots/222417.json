@@ -1,0 +1,10 @@
+{
+    "id": 222417,
+    "name": "laserjet_enterprise_mfp_m725_firmware",
+    "version": "2407081_000570",
+    "created_at": "2019-04-23T14:23:02",
+    "updated_at": "2021-05-24T13:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:laserjet_enterprise_mfp_m725_firmware:2407081_000570:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

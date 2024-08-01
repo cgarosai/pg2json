@@ -1,0 +1,10 @@
+{
+    "id": 856820,
+    "name": "cayenne",
+    "version": "4.2",
+    "created_at": "2022-03-03T13:15:40",
+    "updated_at": "2022-03-03T17:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cayenne:4.2:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

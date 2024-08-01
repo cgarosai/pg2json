@@ -1,0 +1,10 @@
+{
+    "id": 98111,
+    "name": "sosreport",
+    "version": "-",
+    "created_at": "2014-05-30T11:59:38",
+    "updated_at": "2014-05-30T16:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sosreport_project:sosreport:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

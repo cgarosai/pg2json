@@ -1,0 +1,10 @@
+{
+    "id": 199080,
+    "name": "imanager",
+    "version": "3.2.2",
+    "created_at": "2019-01-02T14:59:34",
+    "updated_at": "2021-04-13T13:44:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:imanager:3.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

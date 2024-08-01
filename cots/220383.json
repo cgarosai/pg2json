@@ -1,0 +1,10 @@
+{
+    "id": 220383,
+    "name": "simatic_cp443-1_opc_ua_firmware",
+    "version": "-",
+    "created_at": "2019-04-18T12:34:05",
+    "updated_at": "2021-05-25T16:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_cp443-1_opc_ua_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

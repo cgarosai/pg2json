@@ -1,0 +1,10 @@
+{
+    "id": 482727,
+    "name": "fortify",
+    "version": "19.1.29",
+    "created_at": "2020-02-05T17:51:22",
+    "updated_at": "2020-02-05T17:51:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:fortify:19.1.29:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

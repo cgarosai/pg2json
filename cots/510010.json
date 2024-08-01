@@ -1,0 +1,10 @@
+{
+    "id": 510010,
+    "name": "xeon_e7420_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:32:06",
+    "updated_at": "2020-03-23T16:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e7420_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

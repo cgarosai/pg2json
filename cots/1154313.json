@@ -1,0 +1,10 @@
+{
+    "id": 1154313,
+    "name": "ftp_access",
+    "version": "1.0",
+    "created_at": "2023-09-22T19:07:13",
+    "updated_at": "2023-09-22T19:07:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:danialhatami:ftp_access:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

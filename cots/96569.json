@@ -1,0 +1,10 @@
+{
+    "id": 96569,
+    "name": "hp_h-series_fibre_channel_switch_firmware",
+    "version": "8.0",
+    "created_at": "2014-05-12T11:39:41",
+    "updated_at": "2014-07-01T00:18:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:hp_h-series_fibre_channel_switch_firmware:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

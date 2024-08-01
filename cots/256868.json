@@ -1,0 +1,10 @@
+{
+    "id": 256868,
+    "name": "workday",
+    "version": "24.0",
+    "created_at": "2019-06-07T16:51:32",
+    "updated_at": "2019-06-07T16:51:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:workday:workday:24.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

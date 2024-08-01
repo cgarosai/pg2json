@@ -1,0 +1,10 @@
+{
+    "id": 178537,
+    "name": "client_intrusion_detection_system",
+    "version": "-",
+    "created_at": "2018-10-01T16:45:42",
+    "updated_at": "2022-04-21T14:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:client_intrusion_detection_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

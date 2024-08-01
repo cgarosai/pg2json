@@ -1,0 +1,10 @@
+{
+    "id": 510302,
+    "name": "xeon_7110n_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:10",
+    "updated_at": "2020-03-23T17:00:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_7110n_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

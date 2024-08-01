@@ -1,0 +1,10 @@
+{
+    "id": 844818,
+    "name": "guardium_data_encryption",
+    "version": "5.0.0.4",
+    "created_at": "2022-02-24T13:39:43",
+    "updated_at": "2022-02-25T01:33:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:guardium_data_encryption:5.0.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

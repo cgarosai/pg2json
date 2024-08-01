@@ -1,0 +1,10 @@
+{
+    "id": 813905,
+    "name": "unified_threat_management",
+    "version": "9.511",
+    "created_at": "2021-12-10T14:00:10",
+    "updated_at": "2021-12-10T14:02:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:unified_threat_management:9.511:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 970775,
+    "name": "snyk_security",
+    "version": "20221007.135736",
+    "created_at": "2022-12-01T15:45:15",
+    "updated_at": "2022-12-01T17:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_security:20221007.135736:*:*:*:*:eclipse:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 858553,
+    "name": "apache_batik_mapviewer",
+    "version": "18c",
+    "created_at": "2022-03-08T15:16:39",
+    "updated_at": "2022-05-02T12:57:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:apache_batik_mapviewer:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 834620,
+    "name": "domain_check",
+    "version": "-",
+    "created_at": "2022-02-02T19:53:33",
+    "updated_at": "2022-02-03T00:28:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:domaincheckplugin:domain_check:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

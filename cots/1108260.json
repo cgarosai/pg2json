@@ -1,0 +1,10 @@
+{
+    "id": 1108260,
+    "name": "zoom",
+    "version": "5.14.10",
+    "created_at": "2023-06-21T18:43:26",
+    "updated_at": "2023-07-06T13:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:zoom:5.14.10:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 303114,
+    "name": "internationalization",
+    "version": "7.x-1.4",
+    "created_at": "2019-07-24T11:39:33",
+    "updated_at": "2019-07-24T11:39:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:internationalization_project:internationalization:7.x-1.4:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

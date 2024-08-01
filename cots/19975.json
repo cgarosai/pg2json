@@ -1,0 +1,10 @@
+{
+    "id": 19975,
+    "name": "video_surveillance_ip_gateway_encoder_decoder",
+    "version": "-",
+    "created_at": "2007-09-07T13:29:56",
+    "updated_at": "2008-04-01T12:41:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:video_surveillance_ip_gateway_encoder_decoder:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

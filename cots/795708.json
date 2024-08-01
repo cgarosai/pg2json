@@ -1,0 +1,10 @@
+{
+    "id": 795708,
+    "name": "jasperreports_server",
+    "version": "7.9.0",
+    "created_at": "2021-10-14T13:18:53",
+    "updated_at": "2021-10-14T16:49:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:jasperreports_server:7.9.0:*:*:*:*:aws_marketplace:*:*",
+    "to_analyse": false
+}

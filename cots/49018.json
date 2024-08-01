@@ -1,0 +1,10 @@
+{
+    "id": 49018,
+    "name": "campsite",
+    "version": "3.4.0",
+    "created_at": "2011-11-02T13:26:22",
+    "updated_at": "2012-02-16T19:11:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sourcefabric:campsite:3.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

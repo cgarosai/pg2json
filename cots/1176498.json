@@ -1,0 +1,10 @@
+{
+    "id": 1176498,
+    "name": "bolt",
+    "version": "1.9.0",
+    "created_at": "2023-10-10T14:04:28",
+    "updated_at": "2023-10-10T14:04:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:bolt:1.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

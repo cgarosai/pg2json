@@ -1,0 +1,10 @@
+{
+    "id": 1142468,
+    "name": "warp",
+    "version": "-",
+    "created_at": "2023-09-01T11:38:58",
+    "updated_at": "2023-09-07T16:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:warp:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

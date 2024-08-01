@@ -1,0 +1,10 @@
+{
+    "id": 250756,
+    "name": "libgit2",
+    "version": "0.22.3",
+    "created_at": "2019-06-11T12:52:12",
+    "updated_at": "2019-06-11T12:52:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libgit2:libgit2:0.22.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

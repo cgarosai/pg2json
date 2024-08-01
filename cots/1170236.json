@@ -1,0 +1,10 @@
+{
+    "id": 1170236,
+    "name": "restrict",
+    "version": "2.0.7",
+    "created_at": "2023-10-16T13:58:57",
+    "updated_at": "2023-10-16T13:58:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tickera:restrict:2.0.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

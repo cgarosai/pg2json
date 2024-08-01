@@ -1,0 +1,10 @@
+{
+    "id": 125725,
+    "name": "plone",
+    "version": "4.3.8",
+    "created_at": "2017-03-10T19:06:19",
+    "updated_at": "2017-03-10T19:06:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plone:plone:4.3.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

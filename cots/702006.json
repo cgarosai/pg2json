@@ -1,0 +1,10 @@
+{
+    "id": 702006,
+    "name": "spam_protection\\,_antispam\\,_firewall",
+    "version": "5.153.1",
+    "created_at": "2021-05-21T14:41:55",
+    "updated_at": "2021-05-21T16:26:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cleantalk:spam_protection\\,_antispam\\,_firewall:5.153.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

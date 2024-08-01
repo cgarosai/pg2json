@@ -1,0 +1,10 @@
+{
+    "id": 42441,
+    "name": "backuppc",
+    "version": "3.0.0",
+    "created_at": "2012-02-20T17:09:52",
+    "updated_at": "2012-11-29T02:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:craig_barratt:backuppc:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

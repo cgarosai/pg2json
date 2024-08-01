@@ -1,0 +1,10 @@
+{
+    "id": 1037569,
+    "name": "windows_10_22h2",
+    "version": "10.0.19045.2604",
+    "created_at": "2023-02-21T18:22:10",
+    "updated_at": "2023-02-23T17:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.2604:*:*:*:*:*:arm64:*",
+    "to_analyse": false
+}

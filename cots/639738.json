@@ -1,0 +1,10 @@
+{
+    "id": 639738,
+    "name": "hci_h410c_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T11:20:56",
+    "updated_at": "2020-12-21T11:20:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:hci_h410c_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

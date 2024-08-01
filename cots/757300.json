@@ -1,0 +1,10 @@
+{
+    "id": 757300,
+    "name": "accel-ppp",
+    "version": "1.10.0",
+    "created_at": "2021-08-03T10:12:21",
+    "updated_at": "2021-08-05T10:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:accel-ppp:accel-ppp:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

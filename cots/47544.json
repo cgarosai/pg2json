@@ -1,0 +1,10 @@
+{
+    "id": 47544,
+    "name": "rt",
+    "version": "3.4.0",
+    "created_at": "2011-07-20T15:14:22",
+    "updated_at": "2012-08-20T15:04:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestpractical:rt:3.4.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

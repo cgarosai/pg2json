@@ -1,0 +1,10 @@
+{
+    "id": 732129,
+    "name": "backup-wd",
+    "version": "1.0.12",
+    "created_at": "2021-07-13T13:20:56",
+    "updated_at": "2021-07-13T13:43:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:web-dorado:backup-wd:1.0.12:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

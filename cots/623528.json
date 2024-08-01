@@ -1,0 +1,10 @@
+{
+    "id": 623528,
+    "name": "omniauth-apple",
+    "version": "0.0.2",
+    "created_at": "2020-12-09T17:22:15",
+    "updated_at": "2020-12-09T17:22:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:omniauth-apple_project:omniauth-apple:0.0.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

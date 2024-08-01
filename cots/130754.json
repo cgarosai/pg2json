@@ -1,0 +1,10 @@
+{
+    "id": 130754,
+    "name": "docker",
+    "version": "0.10.",
+    "created_at": "2017-12-08T14:32:15",
+    "updated_at": "2017-12-08T14:32:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:docker:0.10.:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

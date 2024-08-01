@@ -1,0 +1,10 @@
+{
+    "id": 691002,
+    "name": "client_security",
+    "version": "14.21",
+    "created_at": "2021-04-27T13:44:28",
+    "updated_at": "2021-04-27T13:46:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:client_security:14.21:*:*:*:premium:*:*:*",
+    "to_analyse": false
+}

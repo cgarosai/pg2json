@@ -1,0 +1,10 @@
+{
+    "id": 519209,
+    "name": "core_i9-7960x",
+    "version": "-",
+    "created_at": "2020-03-23T13:39:57",
+    "updated_at": "2023-09-26T11:34:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i9-7960x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

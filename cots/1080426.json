@@ -1,0 +1,10 @@
+{
+    "id": 1080426,
+    "name": "workspaces",
+    "version": "5.8.0",
+    "created_at": "2023-05-25T13:54:13",
+    "updated_at": "2023-05-26T16:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:workspaces:5.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 154914,
+    "name": "firefox",
+    "version": "52.2.0",
+    "created_at": "2018-06-21T08:43:38",
+    "updated_at": "2018-06-21T08:43:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox:52.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 236599,
+    "name": "windows_xp",
+    "version": "-",
+    "created_at": "2019-05-01T13:37:45",
+    "updated_at": "2019-05-01T13:37:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:tablet_pc:*:x64:*",
+    "to_analyse": false
+}

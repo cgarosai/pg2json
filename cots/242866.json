@@ -1,0 +1,10 @@
+{
+    "id": 242866,
+    "name": "garden-runc",
+    "version": "1.17.0",
+    "created_at": "2019-06-05T12:30:26",
+    "updated_at": "2019-06-05T12:30:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:garden-runc:1.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

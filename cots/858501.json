@@ -1,0 +1,10 @@
+{
+    "id": 858501,
+    "name": "active_iq_unified_manager",
+    "version": "9.6",
+    "created_at": "2022-03-08T14:16:42",
+    "updated_at": "2022-05-17T19:17:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:vmware_vsphere:*:*",
+    "to_analyse": false
+}

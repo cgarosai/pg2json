@@ -1,0 +1,10 @@
+{
+    "id": 262941,
+    "name": "views",
+    "version": "6.x-2.11",
+    "created_at": "2019-06-18T15:24:41",
+    "updated_at": "2019-06-18T15:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:views_project:views:6.x-2.11:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

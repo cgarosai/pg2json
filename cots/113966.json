@@ -1,0 +1,10 @@
+{
+    "id": 113966,
+    "name": "ntp-dev",
+    "version": "4.3.70",
+    "created_at": "2017-01-09T23:29:07",
+    "updated_at": "2021-07-07T17:29:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ntp:ntp-dev:4.3.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

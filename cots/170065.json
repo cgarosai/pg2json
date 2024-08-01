@@ -1,0 +1,10 @@
+{
+    "id": 170065,
+    "name": "gimp",
+    "version": "0.99.23",
+    "created_at": "2018-10-10T16:18:15",
+    "updated_at": "2018-10-10T16:18:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gimp:gimp:0.99.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

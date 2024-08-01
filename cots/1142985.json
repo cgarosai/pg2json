@@ -1,0 +1,10 @@
+{
+    "id": 1142985,
+    "name": "borg",
+    "version": "1.2.3",
+    "created_at": "2023-09-05T09:29:39",
+    "updated_at": "2023-09-11T12:20:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:borgbackup:borg:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

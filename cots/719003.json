@@ -1,0 +1,10 @@
+{
+    "id": 719003,
+    "name": "bifrost",
+    "version": "r30p0",
+    "created_at": "2021-06-02T13:41:44",
+    "updated_at": "2021-06-02T14:12:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:bifrost:r30p0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1155759,
+    "name": "archer_a10_firmware",
+    "version": "230504",
+    "created_at": "2023-09-12T12:04:57",
+    "updated_at": "2023-09-12T12:04:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:archer_a10_firmware:230504:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

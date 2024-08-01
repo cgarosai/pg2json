@@ -1,0 +1,10 @@
+{
+    "id": 22276,
+    "name": "acrobat",
+    "version": "8.2",
+    "created_at": "2010-04-15T12:50:17",
+    "updated_at": "2010-08-09T20:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:acrobat:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

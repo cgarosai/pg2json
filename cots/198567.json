@@ -1,0 +1,10 @@
+{
+    "id": 198567,
+    "name": "flex",
+    "version": "2.5.14",
+    "created_at": "2018-12-31T16:42:03",
+    "updated_at": "2023-10-06T15:12:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flex_project:flex:2.5.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

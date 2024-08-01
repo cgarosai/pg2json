@@ -1,0 +1,10 @@
+{
+    "id": 183708,
+    "name": "jekyll",
+    "version": "3.4.3",
+    "created_at": "2018-11-21T17:17:34",
+    "updated_at": "2018-11-21T17:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jekyllrb:jekyll:3.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

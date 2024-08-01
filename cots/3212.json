@@ -1,0 +1,10 @@
+{
+    "id": 3212,
+    "name": "network_appliance_data_ontap",
+    "version": "7.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:14:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:network_appliance_data_ontap:7.2:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

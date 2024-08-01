@@ -1,0 +1,10 @@
+{
+    "id": 991293,
+    "name": "shardingsphere",
+    "version": "5.0.0",
+    "created_at": "2022-12-23T15:23:33",
+    "updated_at": "2022-12-23T15:44:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:shardingsphere:5.0.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

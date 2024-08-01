@@ -1,0 +1,10 @@
+{
+    "id": 919190,
+    "name": "booth",
+    "version": "-",
+    "created_at": "2022-08-03T11:17:40",
+    "updated_at": "2022-08-03T12:13:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:booth:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

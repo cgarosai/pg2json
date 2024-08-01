@@ -1,0 +1,10 @@
+{
+    "id": 228260,
+    "name": "jira_issue_updater",
+    "version": "1.8",
+    "created_at": "2019-04-12T17:46:44",
+    "updated_at": "2019-04-12T17:46:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jira_issue_updater:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

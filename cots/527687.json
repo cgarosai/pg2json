@@ -1,0 +1,10 @@
+{
+    "id": 527687,
+    "name": "nozzle",
+    "version": "-",
+    "created_at": "2020-04-01T18:18:39",
+    "updated_at": "2020-04-01T18:18:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluemedora:nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

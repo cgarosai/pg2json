@@ -1,0 +1,10 @@
+{
+    "id": 950821,
+    "name": "nginx",
+    "version": "r2",
+    "created_at": "2022-10-24T15:08:09",
+    "updated_at": "2022-10-27T23:18:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:nginx:r2:*:*:*:open_source_subscription:*:*:*",
+    "to_analyse": false
+}

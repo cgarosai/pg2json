@@ -1,0 +1,10 @@
+{
+    "id": 521327,
+    "name": "awseb_deployment",
+    "version": "0.3.19",
+    "created_at": "2020-04-07T14:37:32",
+    "updated_at": "2020-04-07T14:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:awseb_deployment:0.3.19:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

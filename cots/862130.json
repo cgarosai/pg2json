@@ -1,0 +1,10 @@
+{
+    "id": 862130,
+    "name": "livechat",
+    "version": "1.1.6",
+    "created_at": "2022-04-07T15:27:58",
+    "updated_at": "2022-04-07T18:06:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rocket.chat:livechat:1.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

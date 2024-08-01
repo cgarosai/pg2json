@@ -1,0 +1,10 @@
+{
+    "id": 1190228,
+    "name": "cosign",
+    "version": "2.1.0",
+    "created_at": "2023-11-15T22:03:58",
+    "updated_at": "2023-11-15T22:03:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sigstore:cosign:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

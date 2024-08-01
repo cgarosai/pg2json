@@ -1,0 +1,10 @@
+{
+    "id": 645219,
+    "name": "internment",
+    "version": "0.1.0",
+    "created_at": "2021-01-06T17:10:43",
+    "updated_at": "2021-01-06T17:10:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:internment_project:internment:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

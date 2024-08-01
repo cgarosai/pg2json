@@ -1,0 +1,10 @@
+{
+    "id": 505750,
+    "name": "sailor_800_vsat",
+    "version": "-",
+    "created_at": "2020-02-28T16:57:57",
+    "updated_at": "2020-02-28T16:57:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cobham:sailor_800_vsat:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

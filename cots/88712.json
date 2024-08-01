@@ -1,0 +1,10 @@
+{
+    "id": 88712,
+    "name": "tftpd32",
+    "version": "4.00",
+    "created_at": "2013-12-16T17:04:41",
+    "updated_at": "2013-12-16T17:16:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:philippe_jounin:tftpd32:4.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

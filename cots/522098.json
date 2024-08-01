@@ -1,0 +1,10 @@
+{
+    "id": 522098,
+    "name": "ar200_firmware",
+    "version": "-",
+    "created_at": "2020-04-07T16:58:02",
+    "updated_at": "2020-04-07T16:58:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar200_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

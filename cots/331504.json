@@ -1,0 +1,10 @@
+{
+    "id": 331504,
+    "name": "jobconfighistory",
+    "version": "1.5",
+    "created_at": "2019-08-15T13:52:02",
+    "updated_at": "2019-08-15T13:52:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jobconfighistory_project:jobconfighistory:1.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

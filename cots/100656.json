@@ -1,0 +1,10 @@
+{
+    "id": 100656,
+    "name": "commerce_platform",
+    "version": "11.1",
+    "created_at": "2015-07-17T11:30:46",
+    "updated_at": "2015-08-07T17:05:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:commerce_platform:11.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

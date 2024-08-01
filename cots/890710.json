@@ -1,0 +1,10 @@
+{
+    "id": 890710,
+    "name": "tidb",
+    "version": "1.0.7",
+    "created_at": "2022-06-22T15:13:59",
+    "updated_at": "2022-06-24T14:37:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pingcap:tidb:1.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

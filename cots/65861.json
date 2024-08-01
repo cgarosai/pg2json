@@ -1,0 +1,10 @@
+{
+    "id": 65861,
+    "name": "tools",
+    "version": "8.8.0.471780",
+    "created_at": "2012-08-01T19:33:33",
+    "updated_at": "2012-08-01T19:33:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:tools:8.8.0.471780:*:*:*:winpre2k:*:*:*",
+    "to_analyse": false
+}

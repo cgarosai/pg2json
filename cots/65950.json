@@ -1,0 +1,10 @@
+{
+    "id": 65950,
+    "name": "drive_manager",
+    "version": "2.93",
+    "created_at": "2012-08-01T19:33:55",
+    "updated_at": "2020-02-24T14:02:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wdc:drive_manager:2.93:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

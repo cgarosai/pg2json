@@ -1,0 +1,10 @@
+{
+    "id": 670148,
+    "name": "quarkus-security",
+    "version": "1.0.0",
+    "created_at": "2021-03-19T12:04:55",
+    "updated_at": "2021-03-19T12:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quarkus:quarkus-security:1.0.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

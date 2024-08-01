@@ -1,0 +1,10 @@
+{
+    "id": 809481,
+    "name": "post_content_xmlrpc",
+    "version": "1.0",
+    "created_at": "2021-11-10T16:44:29",
+    "updated_at": "2021-11-17T18:57:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:post_content_xmlrpc_project:post_content_xmlrpc:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

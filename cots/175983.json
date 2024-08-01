@@ -1,0 +1,10 @@
+{
+    "id": 175983,
+    "name": "sensu_core",
+    "version": "0.9.12",
+    "created_at": "2018-09-11T15:22:18",
+    "updated_at": "2018-09-11T15:22:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sensu:sensu_core:0.9.12:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

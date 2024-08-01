@@ -1,0 +1,10 @@
+{
+    "id": 919270,
+    "name": "sysmac_cj2h_firmware",
+    "version": "1.5",
+    "created_at": "2022-08-03T12:54:21",
+    "updated_at": "2022-08-03T14:56:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:omron:sysmac_cj2h_firmware:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

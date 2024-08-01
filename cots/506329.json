@@ -1,0 +1,10 @@
+{
+    "id": 506329,
+    "name": "winzip",
+    "version": "23.0",
+    "created_at": "2020-03-02T17:24:47",
+    "updated_at": "2020-03-02T17:24:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:winzip:winzip:23.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

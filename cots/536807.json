@@ -1,0 +1,10 @@
+{
+    "id": 536807,
+    "name": "data_protection_advisor",
+    "version": "18.2",
+    "created_at": "2020-04-14T16:19:12",
+    "updated_at": "2020-04-14T16:19:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:data_protection_advisor:18.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

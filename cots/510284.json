@@ -1,0 +1,10 @@
+{
+    "id": 510284,
+    "name": "xeon_5030_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:01",
+    "updated_at": "2020-03-23T17:00:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_5030_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

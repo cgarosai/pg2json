@@ -1,0 +1,10 @@
+{
+    "id": 1266969,
+    "name": "edk2",
+    "version": "202402",
+    "created_at": "2024-03-06T12:40:32",
+    "updated_at": "2024-03-06T12:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tianocore:edk2:202402:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

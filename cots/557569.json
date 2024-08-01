@@ -1,0 +1,10 @@
+{
+    "id": 557569,
+    "name": "pillow",
+    "version": "7.1.0",
+    "created_at": "2020-06-03T10:08:52",
+    "updated_at": "2020-06-03T10:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:pillow:7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 532572,
+    "name": "faye",
+    "version": "0.6.7",
+    "created_at": "2020-05-01T14:25:18",
+    "updated_at": "2020-05-01T14:25:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:faye_project:faye:0.6.7:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 855155,
+    "name": "banking_enterprise_default_management",
+    "version": "2.6.2",
+    "created_at": "2022-02-25T11:27:45",
+    "updated_at": "2022-09-12T11:51:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:banking_enterprise_default_management:2.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 82101,
+    "name": "garoon",
+    "version": "2.5.4",
+    "created_at": "2014-02-27T15:53:11",
+    "updated_at": "2014-04-29T17:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybozu:garoon:2.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

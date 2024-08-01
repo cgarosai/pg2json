@@ -1,0 +1,10 @@
+{
+    "id": 514946,
+    "name": "excel",
+    "version": "2019",
+    "created_at": "2020-03-31T17:09:07",
+    "updated_at": "2020-05-11T16:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:mac_os_x:*:*",
+    "to_analyse": false
+}

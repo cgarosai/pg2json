@@ -1,0 +1,10 @@
+{
+    "id": 255612,
+    "name": "icinga",
+    "version": "1.9.6",
+    "created_at": "2019-06-07T11:06:51",
+    "updated_at": "2019-06-07T11:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icinga:icinga:1.9.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

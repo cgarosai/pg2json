@@ -1,0 +1,10 @@
+{
+    "id": 1249239,
+    "name": "language_server_protocol_integration",
+    "version": "2.0.3",
+    "created_at": "2024-02-01T13:03:12",
+    "updated_at": "2024-02-01T13:03:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:language_server_protocol_integration:2.0.3:*:*:*:*:jupyter:*:*",
+    "to_analyse": false
+}

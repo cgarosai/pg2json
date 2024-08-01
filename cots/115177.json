@@ -1,0 +1,10 @@
+{
+    "id": 115177,
+    "name": "jd_edwards_products",
+    "version": "9.2",
+    "created_at": "2016-02-01T17:43:42",
+    "updated_at": "2016-02-01T17:43:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:jd_edwards_products:9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

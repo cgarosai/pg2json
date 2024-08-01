@@ -1,0 +1,10 @@
+{
+    "id": 1059913,
+    "name": "sentry_software_development_kit",
+    "version": "0.7.14",
+    "created_at": "2023-03-27T09:23:55",
+    "updated_at": "2023-03-27T11:08:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sentry:sentry_software_development_kit:0.7.14:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

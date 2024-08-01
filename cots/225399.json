@@ -1,0 +1,10 @@
+{
+    "id": 225399,
+    "name": "ftp_publisher",
+    "version": "-",
+    "created_at": "2019-04-08T10:04:12",
+    "updated_at": "2019-04-08T10:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:ftp_publisher:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

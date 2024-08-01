@@ -1,0 +1,10 @@
+{
+    "id": 327687,
+    "name": "configuration_as_code",
+    "version": "1.18",
+    "created_at": "2019-07-31T16:16:45",
+    "updated_at": "2019-07-31T16:16:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:configuration_as_code:1.18:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

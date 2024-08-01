@@ -1,0 +1,10 @@
+{
+    "id": 932511,
+    "name": "spectrum_wireless_battery_module",
+    "version": "-",
+    "created_at": "2022-09-15T09:19:23",
+    "updated_at": "2023-01-12T18:16:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:baxter:spectrum_wireless_battery_module:-:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

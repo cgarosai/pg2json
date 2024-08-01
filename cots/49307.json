@@ -1,0 +1,10 @@
+{
+    "id": 49307,
+    "name": "centreon",
+    "version": "2.0.2",
+    "created_at": "2011-11-10T18:21:51",
+    "updated_at": "2011-11-17T20:11:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:merethis:centreon:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

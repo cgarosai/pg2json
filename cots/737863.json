@@ -1,0 +1,10 @@
+{
+    "id": 737863,
+    "name": "usg40_firmware",
+    "version": "4.64",
+    "created_at": "2021-07-06T15:15:08",
+    "updated_at": "2021-07-08T12:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:usg40_firmware:4.64:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

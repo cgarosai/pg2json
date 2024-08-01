@@ -1,0 +1,10 @@
+{
+    "id": 598156,
+    "name": "cassandra",
+    "version": "3.11.6",
+    "created_at": "2020-09-10T11:57:52",
+    "updated_at": "2020-09-10T11:57:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cassandra:3.11.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

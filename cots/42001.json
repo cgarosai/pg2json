@@ -1,0 +1,10 @@
+{
+    "id": 42001,
+    "name": "m-business_anywhere",
+    "version": "6.7",
+    "created_at": "2012-02-09T17:07:30",
+    "updated_at": "2012-07-10T01:21:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:m-business_anywhere:6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

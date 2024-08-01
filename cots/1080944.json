@@ -1,0 +1,10 @@
+{
+    "id": 1080944,
+    "name": "powerlogic_ion8800_firmware",
+    "version": "-",
+    "created_at": "2023-05-26T12:53:40",
+    "updated_at": "2023-08-29T12:50:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:powerlogic_ion8800_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

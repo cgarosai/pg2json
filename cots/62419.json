@@ -1,0 +1,10 @@
+{
+    "id": 62419,
+    "name": "rackspace",
+    "version": "2.1.5",
+    "created_at": "2012-11-15T18:48:26",
+    "updated_at": "2012-11-21T16:18:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rackspace:rackspace:2.1.5:-:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

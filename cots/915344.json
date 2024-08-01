@@ -1,0 +1,10 @@
+{
+    "id": 915344,
+    "name": "rk_max_smart_tv_box_firmware",
+    "version": "-",
+    "created_at": "2022-07-26T16:26:00",
+    "updated_at": "2022-07-27T14:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rk_max_smart_tv_box_project:rk_max_smart_tv_box_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

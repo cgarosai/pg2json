@@ -1,0 +1,10 @@
+{
+    "id": 890999,
+    "name": "photos",
+    "version": "-",
+    "created_at": "2022-06-23T14:53:52",
+    "updated_at": "2022-10-31T17:33:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:photos:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

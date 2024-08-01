@@ -1,0 +1,10 @@
+{
+    "id": 475773,
+    "name": "netscaler_sd-wan_firmware",
+    "version": "-",
+    "created_at": "2020-01-09T17:16:23",
+    "updated_at": "2021-06-23T11:36:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:netscaler_sd-wan_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 67309,
+    "name": "lotus_domino",
+    "version": "8.5.2.3",
+    "created_at": "2012-08-21T16:48:17",
+    "updated_at": "2012-08-31T16:26:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:lotus_domino:8.5.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

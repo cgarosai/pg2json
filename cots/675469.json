@@ -1,0 +1,10 @@
+{
+    "id": 675469,
+    "name": "changeset",
+    "version": "0.0.2",
+    "created_at": "2021-03-10T16:52:00",
+    "updated_at": "2021-03-15T11:44:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:changeset_project:changeset:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

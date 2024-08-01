@@ -1,0 +1,10 @@
+{
+    "id": 1169682,
+    "name": "compact_controller_100_firmware",
+    "version": "23",
+    "created_at": "2023-09-28T19:37:07",
+    "updated_at": "2023-09-28T19:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:compact_controller_100_firmware:23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

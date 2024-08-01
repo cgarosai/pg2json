@@ -1,0 +1,10 @@
+{
+    "id": 497465,
+    "name": "weechat",
+    "version": "0.3.0",
+    "created_at": "2020-02-18T15:31:12",
+    "updated_at": "2020-02-18T15:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:weechat:weechat:0.3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

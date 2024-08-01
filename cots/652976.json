@@ -1,0 +1,10 @@
+{
+    "id": 652976,
+    "name": "automation_workstream_services",
+    "version": "19.0.3",
+    "created_at": "2021-02-18T17:59:40",
+    "updated_at": "2021-02-18T17:59:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:automation_workstream_services:19.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

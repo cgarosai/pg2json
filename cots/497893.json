@@ -1,0 +1,10 @@
+{
+    "id": 497893,
+    "name": "ip_history_logs",
+    "version": "1.1.0",
+    "created_at": "2020-02-19T14:16:20",
+    "updated_at": "2020-02-19T14:16:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ip_history_logs_project:ip_history_logs:1.1.0:*:*:*:*:mybb:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 138654,
+    "name": "firepower_4120_next-generation_firewall",
+    "version": "-",
+    "created_at": "2017-11-20T18:57:05",
+    "updated_at": "2021-04-28T12:13:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_4120_next-generation_firewall:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

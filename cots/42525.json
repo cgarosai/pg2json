@@ -1,0 +1,10 @@
+{
+    "id": 42525,
+    "name": "openssl",
+    "version": "0.9.8m",
+    "created_at": "2012-02-22T17:20:47",
+    "updated_at": "2012-02-22T17:20:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openssl:openssl:0.9.8m:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

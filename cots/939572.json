@@ -1,0 +1,10 @@
+{
+    "id": 939572,
+    "name": "g3_firmware",
+    "version": "15.11.0.6\\(7663\\)",
+    "created_at": "2022-09-08T15:34:44",
+    "updated_at": "2022-09-20T18:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenda:g3_firmware:15.11.0.6\\(7663\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

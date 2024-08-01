@@ -1,0 +1,10 @@
+{
+    "id": 90827,
+    "name": "cgminer",
+    "version": "3.11.0",
+    "created_at": "2014-07-23T16:24:41",
+    "updated_at": "2014-07-23T16:50:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cgminer_project:cgminer:3.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

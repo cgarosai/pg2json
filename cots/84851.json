@@ -1,0 +1,10 @@
+{
+    "id": 84851,
+    "name": "kbd",
+    "version": "1.15.1",
+    "created_at": "2014-04-16T16:55:02",
+    "updated_at": "2014-04-16T17:51:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kbd-project:kbd:1.15.1:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

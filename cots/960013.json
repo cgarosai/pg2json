@@ -1,0 +1,10 @@
+{
+    "id": 960013,
+    "name": "server",
+    "version": "0.7.0",
+    "created_at": "2022-11-14T14:09:48",
+    "updated_at": "2022-11-14T15:13:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:go-vela:server:0.7.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

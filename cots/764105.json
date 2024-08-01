@@ -1,0 +1,10 @@
+{
+    "id": 764105,
+    "name": "enterprise_manager_for_virtualization",
+    "version": "13.4.0.0",
+    "created_at": "2021-09-02T15:32:03",
+    "updated_at": "2021-09-07T13:41:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_manager_for_virtualization:13.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

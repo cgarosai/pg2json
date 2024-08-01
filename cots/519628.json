@@ -1,0 +1,10 @@
+{
+    "id": 519628,
+    "name": "core_i5-8300h",
+    "version": "-",
+    "created_at": "2020-03-23T15:19:55",
+    "updated_at": "2020-03-23T15:19:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5-8300h:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

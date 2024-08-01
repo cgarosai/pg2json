@@ -1,0 +1,10 @@
+{
+    "id": 410429,
+    "name": "manager",
+    "version": "-",
+    "created_at": "2019-10-28T13:10:40",
+    "updated_at": "2019-10-28T13:10:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freepbx:manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

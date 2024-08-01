@@ -1,0 +1,10 @@
+{
+    "id": 14642,
+    "name": "select_access",
+    "version": "6.2",
+    "created_at": "2009-02-02T13:41:28",
+    "updated_at": "2009-02-02T13:41:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:select_access:6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

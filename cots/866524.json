@@ -1,0 +1,10 @@
+{
+    "id": 866524,
+    "name": "kernel-rt",
+    "version": "5.3.18",
+    "created_at": "2022-03-24T12:54:41",
+    "updated_at": "2022-03-24T12:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:elektrobit:kernel-rt:5.3.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

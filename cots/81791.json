@@ -1,0 +1,10 @@
+{
+    "id": 81791,
+    "name": "jboss_wildfly_application_server",
+    "version": "-",
+    "created_at": "2014-02-18T14:50:56",
+    "updated_at": "2014-02-18T14:56:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_wildfly_application_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

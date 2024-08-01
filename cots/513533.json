@@ -1,0 +1,10 @@
+{
+    "id": 513533,
+    "name": "pipeline\\",
+    "version": "_aws_steps",
+    "created_at": "2020-03-30T18:07:34",
+    "updated_at": "2020-03-30T18:07:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline\\:_aws_steps:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

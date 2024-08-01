@@ -1,0 +1,10 @@
+{
+    "id": 616295,
+    "name": "adaptive_security_virtual_appliance",
+    "version": "-",
+    "created_at": "2020-10-29T17:22:40",
+    "updated_at": "2022-05-31T10:08:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:adaptive_security_virtual_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

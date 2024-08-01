@@ -1,0 +1,10 @@
+{
+    "id": 51573,
+    "name": "host_intrusion_prevention",
+    "version": "7.0.601",
+    "created_at": "2012-06-21T17:08:30",
+    "updated_at": "2012-06-21T17:08:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:host_intrusion_prevention:7.0.601:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 707538,
+    "name": "wap125_firmware",
+    "version": "-",
+    "created_at": "2021-05-12T11:04:53",
+    "updated_at": "2021-05-26T12:12:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:wap125_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

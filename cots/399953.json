@@ -1,0 +1,10 @@
+{
+    "id": 399953,
+    "name": "grunt-gh-pages",
+    "version": "0.5.0",
+    "created_at": "2019-10-01T13:40:46",
+    "updated_at": "2019-10-01T13:40:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grunt-gh-pages_project:grunt-gh-pages:0.5.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

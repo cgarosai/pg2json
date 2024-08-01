@@ -1,0 +1,10 @@
+{
+    "id": 103484,
+    "name": "packaging_utility",
+    "version": "1.8.1.0",
+    "created_at": "2016-01-15T20:21:59",
+    "updated_at": "2016-01-15T20:21:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:packaging_utility:1.8.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

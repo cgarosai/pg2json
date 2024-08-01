@@ -1,0 +1,10 @@
+{
+    "id": 126013,
+    "name": "cerberus_ftp_server",
+    "version": "8.0.10.3",
+    "created_at": "2017-03-21T14:58:35",
+    "updated_at": "2021-05-26T15:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cerberus:cerberus_ftp_server:8.0.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

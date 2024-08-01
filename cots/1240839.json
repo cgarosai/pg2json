@@ -1,0 +1,10 @@
+{
+    "id": 1240839,
+    "name": "smartrobot_firmware",
+    "version": "6.0.0-202012tw",
+    "created_at": "2024-02-03T00:39:22",
+    "updated_at": "2024-02-03T00:39:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intumit:smartrobot_firmware:6.0.0-202012tw:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

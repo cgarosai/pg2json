@@ -1,0 +1,10 @@
+{
+    "id": 1210336,
+    "name": "mac1200r_firmware",
+    "version": "-",
+    "created_at": "2023-12-16T03:01:59",
+    "updated_at": "2023-12-16T03:01:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mercurycom:mac1200r_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

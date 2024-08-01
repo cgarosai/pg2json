@@ -1,0 +1,10 @@
+{
+    "id": 493392,
+    "name": "textract",
+    "version": "1.5.0",
+    "created_at": "2020-02-26T14:24:22",
+    "updated_at": "2020-02-26T14:24:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:textract_project:textract:1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

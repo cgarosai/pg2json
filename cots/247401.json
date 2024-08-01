@@ -1,0 +1,10 @@
+{
+    "id": 247401,
+    "name": "wireshark",
+    "version": "2.6.8",
+    "created_at": "2019-05-28T10:18:32",
+    "updated_at": "2019-05-28T10:18:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wireshark:wireshark:2.6.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

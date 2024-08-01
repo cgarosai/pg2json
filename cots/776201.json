@@ -1,0 +1,10 @@
+{
+    "id": 776201,
+    "name": "solaris",
+    "version": "-",
+    "created_at": "2021-09-09T10:53:05",
+    "updated_at": "2023-02-09T00:44:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:solaris:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

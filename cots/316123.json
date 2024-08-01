@@ -1,0 +1,10 @@
+{
+    "id": 316123,
+    "name": "libbson",
+    "version": "1.1.2",
+    "created_at": "2019-07-25T16:02:13",
+    "updated_at": "2019-07-25T16:02:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:libbson:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

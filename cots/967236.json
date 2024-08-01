@@ -1,0 +1,10 @@
+{
+    "id": 967236,
+    "name": "ssh",
+    "version": "0.0.0-20201203163018-be400aefbc4c",
+    "created_at": "2022-11-03T13:04:43",
+    "updated_at": "2022-11-03T13:06:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:ssh:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 277726,
+    "name": "requests",
+    "version": "2.21.0",
+    "created_at": "2019-06-24T16:55:35",
+    "updated_at": "2021-03-18T12:18:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python-requests:requests:2.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

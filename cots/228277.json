@@ -1,0 +1,10 @@
+{
+    "id": 228277,
+    "name": "aws_cloudwatch_logs_publisher",
+    "version": "1.1.0",
+    "created_at": "2019-04-12T17:51:12",
+    "updated_at": "2019-04-12T17:51:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:aws_cloudwatch_logs_publisher:1.1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 352974,
+    "name": "image",
+    "version": "0.12.4",
+    "created_at": "2019-09-10T09:36:13",
+    "updated_at": "2019-09-10T09:36:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:image-rs:image:0.12.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 472951,
+    "name": "snmp_subagent_stand-alone",
+    "version": "-",
+    "created_at": "2020-01-23T18:26:02",
+    "updated_at": "2020-01-23T18:26:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:snmp_subagent_stand-alone:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

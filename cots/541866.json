@@ -1,0 +1,10 @@
+{
+    "id": 541866,
+    "name": "bochs",
+    "version": "2.2",
+    "created_at": "2020-05-19T13:56:33",
+    "updated_at": "2020-05-19T13:56:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bochs_project:bochs:2.2:pre1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 479064,
+    "name": "xeon_6138_firmware",
+    "version": "-",
+    "created_at": "2020-01-15T13:42:13",
+    "updated_at": "2020-01-15T13:42:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_6138_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

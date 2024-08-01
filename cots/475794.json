@@ -1,0 +1,10 @@
+{
+    "id": 475794,
+    "name": "podcast_channels",
+    "version": "0.22",
+    "created_at": "2020-01-09T18:08:37",
+    "updated_at": "2020-01-09T18:08:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:podcast_channels_project:podcast_channels:0.22:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

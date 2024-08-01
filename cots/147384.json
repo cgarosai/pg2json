@@ -1,0 +1,10 @@
+{
+    "id": 147384,
+    "name": "jboss-remoting",
+    "version": "3.3.10",
+    "created_at": "2018-03-08T02:11:25",
+    "updated_at": "2021-04-15T14:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss-remoting:3.3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

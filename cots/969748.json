@@ -1,0 +1,10 @@
+{
+    "id": 969748,
+    "name": "wasmtime",
+    "version": "2.0.2",
+    "created_at": "2022-11-14T13:01:14",
+    "updated_at": "2022-11-14T13:11:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bytecodealliance:wasmtime:2.0.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

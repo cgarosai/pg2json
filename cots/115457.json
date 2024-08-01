@@ -1,0 +1,10 @@
+{
+    "id": 115457,
+    "name": "report_manager",
+    "version": "12.2.4",
+    "created_at": "2016-02-17T16:55:53",
+    "updated_at": "2016-02-17T16:55:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:report_manager:12.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

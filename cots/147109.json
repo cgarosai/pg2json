@@ -1,0 +1,10 @@
+{
+    "id": 147109,
+    "name": "configuration",
+    "version": "1.0",
+    "created_at": "2018-03-01T14:56:42",
+    "updated_at": "2021-05-28T13:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:edx:configuration:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

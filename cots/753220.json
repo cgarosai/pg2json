@@ -1,0 +1,10 @@
+{
+    "id": 753220,
+    "name": "openpsa",
+    "version": "9.3.0",
+    "created_at": "2021-08-12T11:48:52",
+    "updated_at": "2021-08-12T14:33:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openpsa2:openpsa:9.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

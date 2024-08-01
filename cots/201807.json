@@ -1,0 +1,10 @@
+{
+    "id": 201807,
+    "name": "customer_interaction_express",
+    "version": "-",
+    "created_at": "2019-02-27T16:39:09",
+    "updated_at": "2021-03-26T14:22:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:customer_interaction_express:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

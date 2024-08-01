@@ -1,0 +1,10 @@
+{
+    "id": 529265,
+    "name": "guardlogix_controllers_firmware",
+    "version": "20",
+    "created_at": "2020-04-03T12:20:37",
+    "updated_at": "2020-04-03T12:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:guardlogix_controllers_firmware:20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

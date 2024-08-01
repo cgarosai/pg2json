@@ -1,0 +1,10 @@
+{
+    "id": 151993,
+    "name": "openemr",
+    "version": "2.7.2",
+    "created_at": "2018-06-04T16:57:55",
+    "updated_at": "2020-09-16T10:03:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-emr:openemr:2.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

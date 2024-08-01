@@ -1,0 +1,10 @@
+{
+    "id": 312227,
+    "name": "backup_guard",
+    "version": "1.1.46",
+    "created_at": "2019-07-30T09:42:35",
+    "updated_at": "2019-07-30T09:42:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:backup-guard:backup_guard:1.1.46:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

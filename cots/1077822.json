@@ -1,0 +1,10 @@
+{
+    "id": 1077822,
+    "name": "cmix",
+    "version": "15",
+    "created_at": "2023-05-02T15:06:19",
+    "updated_at": "2023-05-02T15:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cmix_project:cmix:15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

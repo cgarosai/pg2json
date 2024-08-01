@@ -1,0 +1,10 @@
+{
+    "id": 347628,
+    "name": "printer_firmware",
+    "version": "pp.021.062",
+    "created_at": "2019-08-22T15:13:19",
+    "updated_at": "2019-08-22T15:13:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:printer_firmware:pp.021.062:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

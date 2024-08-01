@@ -1,0 +1,10 @@
+{
+    "id": 724334,
+    "name": "opengrok",
+    "version": "1.7.8",
+    "created_at": "2021-06-29T10:44:32",
+    "updated_at": "2021-06-29T10:46:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:opengrok:1.7.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

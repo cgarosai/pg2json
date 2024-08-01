@@ -1,0 +1,10 @@
+{
+    "id": 184576,
+    "name": "t2500_firmware",
+    "version": "mry_04_05_00.4",
+    "created_at": "2018-11-26T14:39:12",
+    "updated_at": "2018-11-26T14:39:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:t2500_firmware:mry_04_05_00.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

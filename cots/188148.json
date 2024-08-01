@@ -1,0 +1,10 @@
+{
+    "id": 188148,
+    "name": "cloudforms_management_engine",
+    "version": "-",
+    "created_at": "2018-10-30T12:37:18",
+    "updated_at": "2018-10-30T12:37:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:cloudforms_management_engine:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

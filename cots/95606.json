@@ -1,0 +1,10 @@
+{
+    "id": 95606,
+    "name": "image_registry_and_delivery_service_\\(glance\\)",
+    "version": "2013.2.3",
+    "created_at": "2014-04-28T15:58:20",
+    "updated_at": "2014-04-29T17:55:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:image_registry_and_delivery_service_\\(glance\\):2013.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

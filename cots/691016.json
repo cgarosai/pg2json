@@ -1,0 +1,10 @@
+{
+    "id": 691016,
+    "name": "hci_bootstrap_os",
+    "version": "-",
+    "created_at": "2021-04-27T14:05:47",
+    "updated_at": "2021-06-24T16:17:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:hci_bootstrap_os:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

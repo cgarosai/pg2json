@@ -1,0 +1,10 @@
+{
+    "id": 902840,
+    "name": "management_pack",
+    "version": "8.0",
+    "created_at": "2022-07-19T13:35:42",
+    "updated_at": "2022-07-19T15:20:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veeam:management_pack:8.0:*:*:*:*:microsoft_system_center:*:*",
+    "to_analyse": false
+}

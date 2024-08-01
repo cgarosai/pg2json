@@ -1,0 +1,10 @@
+{
+    "id": 1202921,
+    "name": "nautobot_device_onboarding",
+    "version": "2.0.3",
+    "created_at": "2023-12-05T16:27:43",
+    "updated_at": "2023-12-05T16:27:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:networktocode:nautobot_device_onboarding:2.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 6008,
+    "name": "bigiron_15000_router",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:15:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:foundrynet:bigiron_15000_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

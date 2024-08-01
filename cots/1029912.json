@@ -1,0 +1,10 @@
+{
+    "id": 1029912,
+    "name": "inspiron_5310_firmware",
+    "version": "2.15.0",
+    "created_at": "2023-02-08T14:33:46",
+    "updated_at": "2023-02-08T14:43:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_5310_firmware:2.15.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

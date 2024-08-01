@@ -1,0 +1,10 @@
+{
+    "id": 918075,
+    "name": "login_using_wordpress_users",
+    "version": "1.5",
+    "created_at": "2022-08-01T11:34:29",
+    "updated_at": "2022-08-01T11:47:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniorange:login_using_wordpress_users:1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

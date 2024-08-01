@@ -1,0 +1,10 @@
+{
+    "id": 101206,
+    "name": "camtasia_relay",
+    "version": "7.x-1.1",
+    "created_at": "2015-08-19T16:50:47",
+    "updated_at": "2015-08-21T23:58:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:techsmith:camtasia_relay:7.x-1.1:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

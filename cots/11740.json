@@ -1,0 +1,10 @@
+{
+    "id": 11740,
+    "name": "windows-nt",
+    "version": "xp",
+    "created_at": "2008-04-15T20:38:35",
+    "updated_at": "2008-04-15T21:57:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows-nt:xp:sp2:embedded:*:*:*:*:*",
+    "to_analyse": false
+}

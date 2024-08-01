@@ -1,0 +1,10 @@
+{
+    "id": 739340,
+    "name": "sanos",
+    "version": "2.0.0",
+    "created_at": "2021-07-08T11:23:12",
+    "updated_at": "2021-08-25T14:28:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qsan:sanos:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

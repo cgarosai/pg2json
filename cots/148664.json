@@ -1,0 +1,10 @@
+{
+    "id": 148664,
+    "name": "ccm",
+    "version": "2.0",
+    "created_at": "2018-03-29T17:25:58",
+    "updated_at": "2018-03-29T17:25:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:ccm:2.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

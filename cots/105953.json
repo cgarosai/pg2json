@@ -1,0 +1,10 @@
+{
+    "id": 105953,
+    "name": "bulletproof-security",
+    "version": ".47",
+    "created_at": "2014-12-16T17:03:57",
+    "updated_at": "2021-09-24T16:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ait-pro:bulletproof-security:.47:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

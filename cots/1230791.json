@@ -1,0 +1,10 @@
+{
+    "id": 1230791,
+    "name": "marketing",
+    "version": "160",
+    "created_at": "2024-01-12T17:55:24",
+    "updated_at": "2024-01-12T17:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:marketing:160:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

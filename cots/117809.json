@@ -1,0 +1,10 @@
+{
+    "id": 117809,
+    "name": "cisco_policy_suite",
+    "version": "7.0.2-att",
+    "created_at": "2016-05-25T12:29:04",
+    "updated_at": "2016-05-25T12:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:cisco_policy_suite:7.0.2-att:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

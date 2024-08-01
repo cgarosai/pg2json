@@ -1,0 +1,10 @@
+{
+    "id": 641045,
+    "name": "server_bizlogic_script",
+    "version": "20.12",
+    "created_at": "2021-01-25T12:18:07",
+    "updated_at": "2021-01-25T12:18:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:server_bizlogic_script:20.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

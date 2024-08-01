@@ -1,0 +1,10 @@
+{
+    "id": 490885,
+    "name": "s2700_firmware",
+    "version": "v200r006c00",
+    "created_at": "2020-02-21T21:28:05",
+    "updated_at": "2020-02-21T21:28:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s2700_firmware:v200r006c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

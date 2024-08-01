@@ -1,0 +1,10 @@
+{
+    "id": 97628,
+    "name": "isync",
+    "version": "0.4",
+    "created_at": "2014-05-27T10:01:46",
+    "updated_at": "2021-11-30T20:29:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oswald_buddenhagen:isync:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

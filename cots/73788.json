@@ -1,0 +1,10 @@
+{
+    "id": 73788,
+    "name": "pan-os",
+    "version": "4.0.4",
+    "created_at": "2013-09-05T10:46:04",
+    "updated_at": "2013-09-30T12:42:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:paloaltonetworks:pan-os:4.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

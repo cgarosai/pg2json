@@ -1,0 +1,10 @@
+{
+    "id": 120461,
+    "name": "telepresence_ce_software",
+    "version": "8.2.2",
+    "created_at": "2017-06-14T15:20:29",
+    "updated_at": "2021-03-22T11:39:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_ce_software:8.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 857081,
+    "name": "amt_wi-fi_6_ax210_firmware",
+    "version": "15.0.35",
+    "created_at": "2022-03-03T18:19:22",
+    "updated_at": "2022-03-03T18:34:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:amt_wi-fi_6_ax210_firmware:15.0.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

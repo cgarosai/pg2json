@@ -1,0 +1,10 @@
+{
+    "id": 982573,
+    "name": "antihacker",
+    "version": "2.64",
+    "created_at": "2022-12-13T12:46:43",
+    "updated_at": "2022-12-13T13:10:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:antihacker_project:antihacker:2.64:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

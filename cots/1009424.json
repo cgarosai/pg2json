@@ -1,0 +1,10 @@
+{
+    "id": 1009424,
+    "name": "btcsuite_go-socks",
+    "version": "2013-08-07",
+    "created_at": "2023-01-04T15:33:48",
+    "updated_at": "2023-06-07T12:14:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:github:btcsuite_go-socks:2013-08-07:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

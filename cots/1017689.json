@@ -1,0 +1,10 @@
+{
+    "id": 1017689,
+    "name": "hub_firmware",
+    "version": "1008",
+    "created_at": "2023-01-17T12:19:42",
+    "updated_at": "2023-01-17T12:22:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:insteon:hub_firmware:1008:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

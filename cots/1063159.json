@@ -1,0 +1,10 @@
+{
+    "id": 1063159,
+    "name": "manageentities",
+    "version": "3.0.0",
+    "created_at": "2023-04-20T17:57:33",
+    "updated_at": "2023-05-03T20:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glpi-project:manageentities:3.0.0:*:*:*:*:glpi:*:*",
+    "to_analyse": false
+}

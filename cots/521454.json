@@ -1,0 +1,10 @@
+{
+    "id": 521454,
+    "name": "mbed_crypto",
+    "version": "2.1.0",
+    "created_at": "2020-04-07T15:41:06",
+    "updated_at": "2020-04-07T15:41:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:mbed_crypto:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

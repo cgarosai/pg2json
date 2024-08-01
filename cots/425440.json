@@ -1,0 +1,10 @@
+{
+    "id": 425440,
+    "name": "webrtc-native",
+    "version": "0.0.19",
+    "created_at": "2019-10-31T17:24:34",
+    "updated_at": "2019-10-31T17:24:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webrtc:webrtc-native:0.0.19:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 601035,
+    "name": "big-ip_fraud_protection_service",
+    "version": "14.1.2.5-0.0.3",
+    "created_at": "2020-10-08T13:06:12",
+    "updated_at": "2020-10-08T13:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_fraud_protection_service:14.1.2.5-0.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 644078,
+    "name": "service_manager",
+    "version": "14.0.33",
+    "created_at": "2021-01-29T15:01:09",
+    "updated_at": "2021-01-29T15:01:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:service_manager:14.0.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

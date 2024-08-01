@@ -1,0 +1,10 @@
+{
+    "id": 582930,
+    "name": "lms121_firmware",
+    "version": "-",
+    "created_at": "2020-09-01T09:05:33",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:lms121_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

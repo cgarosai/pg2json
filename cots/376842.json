@@ -1,0 +1,10 @@
+{
+    "id": 376842,
+    "name": "linux-dash",
+    "version": "0.5",
+    "created_at": "2019-09-18T16:06:48",
+    "updated_at": "2019-09-18T16:06:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux-dash_project:linux-dash:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

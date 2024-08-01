@@ -1,0 +1,10 @@
+{
+    "id": 424674,
+    "name": "shell-quote",
+    "version": "1.4.3",
+    "created_at": "2019-11-08T18:24:26",
+    "updated_at": "2019-11-08T18:24:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shell-quote_project:shell-quote:1.4.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

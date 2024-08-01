@@ -1,0 +1,10 @@
+{
+    "id": 50448,
+    "name": "openconnect",
+    "version": "3.13",
+    "created_at": "2012-06-08T14:50:54",
+    "updated_at": "2012-06-29T12:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infradead:openconnect:3.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

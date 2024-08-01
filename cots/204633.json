@@ -1,0 +1,10 @@
+{
+    "id": 204633,
+    "name": "office",
+    "version": "2019",
+    "created_at": "2019-03-06T03:27:18",
+    "updated_at": "2021-05-18T15:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:2019:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

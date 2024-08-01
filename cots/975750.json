@@ -1,0 +1,10 @@
+{
+    "id": 975750,
+    "name": "validating_email_parameter",
+    "version": "1.8",
+    "created_at": "2022-11-23T00:14:59",
+    "updated_at": "2022-11-23T00:22:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:validating_email_parameter:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

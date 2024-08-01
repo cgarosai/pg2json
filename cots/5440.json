@@ -1,0 +1,10 @@
+{
+    "id": 5440,
+    "name": "vpn-1_firewall-1_next_generation",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:vpn-1_firewall-1_next_generation:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

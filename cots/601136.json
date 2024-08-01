@@ -1,0 +1,10 @@
+{
+    "id": 601136,
+    "name": "sg200-08p_firmware",
+    "version": "2.5.5.47",
+    "created_at": "2020-10-08T13:28:38",
+    "updated_at": "2020-10-08T13:28:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg200-08p_firmware:2.5.5.47:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

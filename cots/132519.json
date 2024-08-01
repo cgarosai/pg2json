@@ -1,0 +1,10 @@
+{
+    "id": 132519,
+    "name": "cups-filters",
+    "version": "1.17.7",
+    "created_at": "2018-01-03T12:52:57",
+    "updated_at": "2018-01-03T12:52:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:cups-filters:1.17.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

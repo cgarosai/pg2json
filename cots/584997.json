@@ -1,0 +1,10 @@
+{
+    "id": 584997,
+    "name": "identity_manager",
+    "version": "7.0.0",
+    "created_at": "2020-09-02T17:18:30",
+    "updated_at": "2020-09-02T17:18:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forgerock:identity_manager:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

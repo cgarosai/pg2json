@@ -1,0 +1,10 @@
+{
+    "id": 586343,
+    "name": "aspera_proxy_server",
+    "version": "1.4.3",
+    "created_at": "2020-08-17T12:12:11",
+    "updated_at": "2020-08-17T12:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:aspera_proxy_server:1.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

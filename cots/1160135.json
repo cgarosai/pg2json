@@ -1,0 +1,10 @@
+{
+    "id": 1160135,
+    "name": "magic_r200_firmware",
+    "version": "r200v100r004",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:h3c:magic_r200_firmware:r200v100r004:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

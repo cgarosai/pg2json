@@ -1,0 +1,10 @@
+{
+    "id": 286235,
+    "name": "paramiko",
+    "version": "1.13.4",
+    "created_at": "2019-07-02T16:50:42",
+    "updated_at": "2019-07-02T16:50:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paramiko:paramiko:1.13.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

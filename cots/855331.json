@@ -1,0 +1,10 @@
+{
+    "id": 855331,
+    "name": "t10_firmware",
+    "version": "v4.1.8cu.5207_b20210320",
+    "created_at": "2022-02-25T15:22:02",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:totolink:t10_firmware:v4.1.8cu.5207_b20210320:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

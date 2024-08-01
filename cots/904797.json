@@ -1,0 +1,10 @@
+{
+    "id": 904797,
+    "name": "wp_oauth2_server",
+    "version": "1.0.1",
+    "created_at": "2022-07-25T11:29:31",
+    "updated_at": "2022-08-09T10:35:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codexshaper:wp_oauth2_server:1.0.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

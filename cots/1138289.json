@@ -1,0 +1,10 @@
+{
+    "id": 1138289,
+    "name": "smart_audio_100_platform_firmware",
+    "version": "-",
+    "created_at": "2023-08-10T12:54:57",
+    "updated_at": "2023-08-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:smart_audio_100_platform_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

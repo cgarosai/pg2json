@@ -1,0 +1,10 @@
+{
+    "id": 105595,
+    "name": "alfresco",
+    "version": "5.0.a",
+    "created_at": "2014-12-08T21:06:22",
+    "updated_at": "2015-02-15T16:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alfresco:alfresco:5.0.a:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

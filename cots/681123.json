@@ -1,0 +1,10 @@
+{
+    "id": 681123,
+    "name": "network_and_systems_management",
+    "version": "r3.0",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T16:50:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:network_and_systems_management:r3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

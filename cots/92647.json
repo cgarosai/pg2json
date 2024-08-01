@@ -1,0 +1,10 @@
+{
+    "id": 92647,
+    "name": "open_graph_protocol",
+    "version": "1.0.1",
+    "created_at": "2014-09-11T12:35:04",
+    "updated_at": "2014-12-04T00:31:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open_graph_protocol_project:open_graph_protocol:1.0.1:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

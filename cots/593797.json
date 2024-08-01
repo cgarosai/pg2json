@@ -1,0 +1,10 @@
+{
+    "id": 593797,
+    "name": "btcd",
+    "version": "0.5.0",
+    "created_at": "2020-09-23T14:00:48",
+    "updated_at": "2020-09-23T14:00:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:btcd_project:btcd:0.5.0:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

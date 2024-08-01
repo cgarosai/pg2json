@@ -1,0 +1,10 @@
+{
+    "id": 1169110,
+    "name": "graphite",
+    "version": "-",
+    "created_at": "2023-09-28T11:42:08",
+    "updated_at": "2023-09-28T11:42:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:graphite_project:graphite:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

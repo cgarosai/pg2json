@@ -1,0 +1,10 @@
+{
+    "id": 313521,
+    "name": "debmake",
+    "version": "3.6.10",
+    "created_at": "2019-07-30T12:32:33",
+    "updated_at": "2019-07-30T12:32:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:debmake:3.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

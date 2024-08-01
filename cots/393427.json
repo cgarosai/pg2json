@@ -1,0 +1,10 @@
+{
+    "id": 393427,
+    "name": "evernote",
+    "version": "7.10",
+    "created_at": "2019-10-04T12:03:57",
+    "updated_at": "2020-05-11T15:38:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:evernote:evernote:7.10:beta1:*:*:*:mac_os_x:*:*",
+    "to_analyse": false
+}

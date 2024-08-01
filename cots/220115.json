@@ -1,0 +1,10 @@
+{
+    "id": 220115,
+    "name": "ethernet_firmware",
+    "version": "-",
+    "created_at": "2019-04-17T14:20:23",
+    "updated_at": "2021-07-01T12:37:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:ethernet_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

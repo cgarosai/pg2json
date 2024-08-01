@@ -1,0 +1,10 @@
+{
+    "id": 223884,
+    "name": "mercurial",
+    "version": "1.48",
+    "created_at": "2019-04-25T12:11:45",
+    "updated_at": "2019-04-25T12:11:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mercurial:1.48:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

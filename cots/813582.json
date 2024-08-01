@@ -1,0 +1,10 @@
+{
+    "id": 813582,
+    "name": "agent",
+    "version": "0.17.0",
+    "created_at": "2021-12-08T17:54:01",
+    "updated_at": "2021-12-08T20:16:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grafana:agent:0.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

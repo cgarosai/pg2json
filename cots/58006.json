@@ -1,0 +1,10 @@
+{
+    "id": 58006,
+    "name": "windows_8",
+    "version": "consumer_preview",
+    "created_at": "2012-05-09T12:54:21",
+    "updated_at": "2012-06-15T13:23:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_8:consumer_preview:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

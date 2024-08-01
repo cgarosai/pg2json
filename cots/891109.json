@@ -1,0 +1,10 @@
+{
+    "id": 891109,
+    "name": "cross-linker",
+    "version": "3.0.1.5",
+    "created_at": "2022-06-24T12:46:53",
+    "updated_at": "2022-06-24T13:32:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cross-linker_project:cross-linker:3.0.1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1186114,
+    "name": "machine_deletion_remediation_operator",
+    "version": "-",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:machine_deletion_remediation_operator:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

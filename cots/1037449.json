@@ -1,0 +1,10 @@
+{
+    "id": 1037449,
+    "name": "sipass_integrated_acc-ap_firmware",
+    "version": "2.85.43",
+    "created_at": "2023-02-21T14:52:20",
+    "updated_at": "2023-03-06T13:59:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sipass_integrated_acc-ap_firmware:2.85.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

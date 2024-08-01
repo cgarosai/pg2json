@@ -1,0 +1,10 @@
+{
+    "id": 56810,
+    "name": "quickbooks",
+    "version": "2012",
+    "created_at": "2012-04-26T12:20:35",
+    "updated_at": "2012-09-10T21:28:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intuit:quickbooks:2012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

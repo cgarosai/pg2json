@@ -1,0 +1,10 @@
+{
+    "id": 115537,
+    "name": "universal_small_cell_firmware",
+    "version": "r3.2_base",
+    "created_at": "2016-02-23T18:25:43",
+    "updated_at": "2016-02-23T18:25:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:universal_small_cell_firmware:r3.2_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

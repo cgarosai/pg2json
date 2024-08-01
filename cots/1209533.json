@@ -1,0 +1,10 @@
+{
+    "id": 1209533,
+    "name": "enterprise_wi-fi",
+    "version": "-",
+    "created_at": "2023-12-01T09:42:50",
+    "updated_at": "2023-12-01T09:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cambiumnetworks:enterprise_wi-fi:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

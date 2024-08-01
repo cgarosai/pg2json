@@ -1,0 +1,10 @@
+{
+    "id": 523465,
+    "name": "upsource",
+    "version": "3.5",
+    "created_at": "2020-04-10T13:16:23",
+    "updated_at": "2020-04-10T13:16:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jetbrains:upsource:3.5:build_3597:*:*:*:*:*:*",
+    "to_analyse": false
+}

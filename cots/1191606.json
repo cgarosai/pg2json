@@ -1,0 +1,10 @@
+{
+    "id": 1191606,
+    "name": "appsanywhere_client",
+    "version": "1.5.2",
+    "created_at": "2023-11-16T19:41:19",
+    "updated_at": "2023-11-16T19:41:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appsanywhere:appsanywhere_client:1.5.2:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

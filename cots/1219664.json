@@ -1,0 +1,10 @@
+{
+    "id": 1219664,
+    "name": "azure_connected_machine_agent",
+    "version": "1.37",
+    "created_at": "2023-12-15T19:16:16",
+    "updated_at": "2023-12-15T19:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_connected_machine_agent:1.37:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

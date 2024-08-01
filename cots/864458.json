@@ -1,0 +1,10 @@
+{
+    "id": 864458,
+    "name": "cortx-s3_server",
+    "version": "2021-11-07",
+    "created_at": "2022-04-14T08:49:23",
+    "updated_at": "2023-01-03T13:28:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seagate:cortx-s3_server:2021-11-07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

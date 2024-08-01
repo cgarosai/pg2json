@@ -1,0 +1,10 @@
+{
+    "id": 593464,
+    "name": "operation_bridge_reporter",
+    "version": "10.30",
+    "created_at": "2020-09-23T12:43:20",
+    "updated_at": "2020-09-23T12:43:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:operation_bridge_reporter:10.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

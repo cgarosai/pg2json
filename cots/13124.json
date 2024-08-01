@@ -1,0 +1,10 @@
+{
+    "id": 13124,
+    "name": "insight_diagnostics",
+    "version": "7.3.0",
+    "created_at": "2008-10-03T13:21:49",
+    "updated_at": "2008-10-03T13:21:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:insight_diagnostics:7.3.0:offline:*:*:*:*:*:*",
+    "to_analyse": false
+}

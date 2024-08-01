@@ -1,0 +1,10 @@
+{
+    "id": 93028,
+    "name": "jenkins",
+    "version": "1.501",
+    "created_at": "2014-10-21T21:45:12",
+    "updated_at": "2016-06-13T08:55:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudbees:jenkins:1.501:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

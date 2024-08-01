@@ -1,0 +1,10 @@
+{
+    "id": 116039,
+    "name": "z238_firmware",
+    "version": "1.11",
+    "created_at": "2016-03-10T20:57:14",
+    "updated_at": "2016-03-10T20:57:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:z238_firmware:1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

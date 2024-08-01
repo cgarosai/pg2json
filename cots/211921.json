@@ -1,0 +1,10 @@
+{
+    "id": 211921,
+    "name": "grin",
+    "version": "0.4.0",
+    "created_at": "2019-03-25T15:15:34",
+    "updated_at": "2020-01-27T15:17:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grin-tech:grin:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

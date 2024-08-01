@@ -1,0 +1,10 @@
+{
+    "id": 146680,
+    "name": "unzip",
+    "version": "6.10c22",
+    "created_at": "2018-02-22T16:40:48",
+    "updated_at": "2021-06-10T13:54:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:info-zip:unzip:6.10c22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

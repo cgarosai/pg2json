@@ -1,0 +1,10 @@
+{
+    "id": 287435,
+    "name": "minikube",
+    "version": "0.28.0",
+    "created_at": "2019-07-03T13:53:48",
+    "updated_at": "2019-07-03T13:53:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:minikube:0.28.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

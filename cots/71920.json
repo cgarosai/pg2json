@@ -1,0 +1,10 @@
+{
+    "id": 71920,
+    "name": "jboss_enterprise_portal_platform",
+    "version": "4.3.0",
+    "created_at": "2013-07-23T12:00:36",
+    "updated_at": "2013-07-24T12:15:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_enterprise_portal_platform:4.3.0:cp06:*:*:*:*:*:*",
+    "to_analyse": false
+}

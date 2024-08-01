@@ -1,0 +1,10 @@
+{
+    "id": 138738,
+    "name": "aironet_1800_firmware",
+    "version": "-",
+    "created_at": "2017-11-21T15:21:19",
+    "updated_at": "2021-04-19T11:27:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_1800_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

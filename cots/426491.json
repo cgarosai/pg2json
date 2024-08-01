@@ -1,0 +1,10 @@
+{
+    "id": 426491,
+    "name": "turbovnc",
+    "version": "1.2",
+    "created_at": "2019-11-01T15:17:43",
+    "updated_at": "2019-11-01T15:17:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:turbovnc:turbovnc:1.2:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

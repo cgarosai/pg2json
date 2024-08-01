@@ -1,0 +1,10 @@
+{
+    "id": 1171074,
+    "name": "mivoice_connect",
+    "version": "22.24.7100.0",
+    "created_at": "2023-10-17T15:39:24",
+    "updated_at": "2023-10-17T15:39:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitel:mivoice_connect:22.24.7100.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

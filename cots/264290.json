@@ -1,0 +1,10 @@
+{
+    "id": 264290,
+    "name": "websphere_mq",
+    "version": "8.0.0.9",
+    "created_at": "2019-06-19T12:43:48",
+    "updated_at": "2019-06-19T12:43:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_mq:8.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

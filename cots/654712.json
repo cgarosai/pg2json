@@ -1,0 +1,10 @@
+{
+    "id": 654712,
+    "name": "graphics_drivers",
+    "version": "15.36.39.5144",
+    "created_at": "2021-02-23T12:25:29",
+    "updated_at": "2021-02-23T12:25:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_drivers:15.36.39.5144:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

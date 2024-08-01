@@ -1,0 +1,10 @@
+{
+    "id": 183949,
+    "name": "hyper_converged_infrastructure",
+    "version": "-",
+    "created_at": "2018-11-26T11:36:23",
+    "updated_at": "2021-07-02T15:35:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:hyper_converged_infrastructure:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

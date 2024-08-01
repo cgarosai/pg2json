@@ -1,0 +1,10 @@
+{
+    "id": 397534,
+    "name": "mod_pagespeed",
+    "version": "0.9.11.3",
+    "created_at": "2019-09-30T12:23:24",
+    "updated_at": "2019-09-30T12:23:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:mod_pagespeed:0.9.11.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

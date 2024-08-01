@@ -1,0 +1,10 @@
+{
+    "id": 293104,
+    "name": "wechat_broadcast",
+    "version": "1.1.2",
+    "created_at": "2019-07-17T16:54:07",
+    "updated_at": "2019-07-17T16:54:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wechat_broadcast_project:wechat_broadcast:1.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491013,
+    "name": "te40_firmware",
+    "version": "v600r006c00spc200",
+    "created_at": "2020-02-22T23:46:14",
+    "updated_at": "2020-02-22T23:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:te40_firmware:v600r006c00spc200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

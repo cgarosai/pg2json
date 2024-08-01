@@ -1,0 +1,10 @@
+{
+    "id": 439036,
+    "name": "ethernet_controller_x710-at2_firmware",
+    "version": "1.33.0.0",
+    "created_at": "2019-11-18T14:24:11",
+    "updated_at": "2021-04-30T14:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_controller_x710-at2_firmware:1.33.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

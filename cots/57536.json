@@ -1,0 +1,10 @@
+{
+    "id": 57536,
+    "name": "group_policy_client-side_extension",
+    "version": "1.0.0.416",
+    "created_at": "2012-05-08T11:51:22",
+    "updated_at": "2012-05-08T11:51:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:group_policy_client-side_extension:1.0.0.416:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

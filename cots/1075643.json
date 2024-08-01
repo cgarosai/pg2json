@@ -1,0 +1,10 @@
+{
+    "id": 1075643,
+    "name": "user_meta_manager",
+    "version": "2.2.0",
+    "created_at": "2023-04-27T13:41:28",
+    "updated_at": "2023-05-01T13:58:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user_meta_manager_project:user_meta_manager:2.2.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

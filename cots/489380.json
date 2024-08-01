@@ -1,0 +1,10 @@
+{
+    "id": 489380,
+    "name": "remedy_ar_system_server",
+    "version": "8.0",
+    "created_at": "2020-02-03T20:08:29",
+    "updated_at": "2020-02-03T20:08:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:remedy_ar_system_server:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

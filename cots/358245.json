@@ -1,0 +1,10 @@
+{
+    "id": 358245,
+    "name": "zynq_ultrascale\\+_rfsoc",
+    "version": "-",
+    "created_at": "2019-09-04T15:31:25",
+    "updated_at": "2021-06-28T16:21:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:xilinx:zynq_ultrascale\\+_rfsoc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

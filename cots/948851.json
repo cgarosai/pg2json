@@ -1,0 +1,10 @@
+{
+    "id": 948851,
+    "name": "gajim",
+    "version": "-",
+    "created_at": "2022-09-28T15:57:45",
+    "updated_at": "2022-09-28T19:06:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gajim:gajim:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

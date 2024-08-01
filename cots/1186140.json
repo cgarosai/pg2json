@@ -1,0 +1,10 @@
+{
+    "id": 1186140,
+    "name": "synchrony",
+    "version": "2.4.3",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:relative:synchrony:2.4.3:*:*:*:*:nodejs:*:*",
+    "to_analyse": false
+}

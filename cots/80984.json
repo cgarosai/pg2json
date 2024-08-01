@@ -1,0 +1,10 @@
+{
+    "id": 80984,
+    "name": "yum",
+    "version": "3.4.0",
+    "created_at": "2014-01-27T16:15:11",
+    "updated_at": "2014-01-27T16:20:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:baseurl:yum:3.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

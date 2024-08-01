@@ -1,0 +1,10 @@
+{
+    "id": 535933,
+    "name": "blink",
+    "version": "m11",
+    "created_at": "2020-04-14T13:00:01",
+    "updated_at": "2020-04-14T13:00:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:blink:m11:*:*:*:*:chromium:*:*",
+    "to_analyse": false
+}

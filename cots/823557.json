@@ -1,0 +1,10 @@
+{
+    "id": 823557,
+    "name": "sha2",
+    "version": "0.9.7",
+    "created_at": "2022-01-05T01:35:50",
+    "updated_at": "2022-08-10T16:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sha2_project:sha2:0.9.7:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

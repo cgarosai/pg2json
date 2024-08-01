@@ -1,0 +1,10 @@
+{
+    "id": 758029,
+    "name": "sinamics_starter_firmware",
+    "version": "-",
+    "created_at": "2021-08-04T11:34:21",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_starter_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

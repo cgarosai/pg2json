@@ -1,0 +1,10 @@
+{
+    "id": 527059,
+    "name": "simatic_route_control",
+    "version": "8.2",
+    "created_at": "2020-04-01T15:39:50",
+    "updated_at": "2020-04-01T15:39:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_route_control:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

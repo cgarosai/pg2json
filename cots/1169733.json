@@ -1,0 +1,10 @@
+{
+    "id": 1169733,
+    "name": "patchelf",
+    "version": "0.9",
+    "created_at": "2023-09-29T01:56:47",
+    "updated_at": "2023-09-29T01:56:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nixos:patchelf:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

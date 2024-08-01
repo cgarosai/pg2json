@@ -1,0 +1,10 @@
+{
+    "id": 763662,
+    "name": "maximo_application_suite",
+    "version": "8.4",
+    "created_at": "2021-09-01T15:20:02",
+    "updated_at": "2021-09-30T13:43:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:maximo_application_suite:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

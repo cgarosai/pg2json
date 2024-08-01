@@ -1,0 +1,10 @@
+{
+    "id": 896486,
+    "name": "somatom_x.creed_firmware",
+    "version": "va40",
+    "created_at": "2022-06-10T15:34:29",
+    "updated_at": "2022-06-10T17:39:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:somatom_x.creed_firmware:va40:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 438172,
+    "name": "search_guard",
+    "version": "5.5.0-3",
+    "created_at": "2019-11-15T15:21:35",
+    "updated_at": "2019-11-15T15:21:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:search-guard:search_guard:5.5.0-3:*:*:*:*:kibana:*:*",
+    "to_analyse": false
+}

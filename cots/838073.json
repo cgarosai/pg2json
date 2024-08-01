@@ -1,0 +1,10 @@
+{
+    "id": 838073,
+    "name": "manageengine_applications_manager",
+    "version": "14.3",
+    "created_at": "2022-01-18T17:23:21",
+    "updated_at": "2022-01-18T19:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_applications_manager:14.3:build14331:*:*:*:*:*:*",
+    "to_analyse": false
+}

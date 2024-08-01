@@ -1,0 +1,10 @@
+{
+    "id": 418558,
+    "name": "opnsense",
+    "version": "17.1.8",
+    "created_at": "2019-10-24T13:06:28",
+    "updated_at": "2019-10-24T13:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opnsense:opnsense:17.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

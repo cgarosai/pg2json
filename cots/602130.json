@@ -1,0 +1,10 @@
+{
+    "id": 602130,
+    "name": "sitop_psu8600_firmware",
+    "version": "1.5",
+    "created_at": "2020-10-13T10:58:07",
+    "updated_at": "2020-10-13T10:58:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sitop_psu8600_firmware:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

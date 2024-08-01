@@ -1,0 +1,10 @@
+{
+    "id": 634341,
+    "name": "magnetic",
+    "version": "1.0.0",
+    "created_at": "2021-01-06T13:59:53",
+    "updated_at": "2021-01-06T13:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magnetic_project:magnetic:1.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

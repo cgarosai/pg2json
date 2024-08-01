@@ -1,0 +1,10 @@
+{
+    "id": 549118,
+    "name": "mirrormanager",
+    "version": "0.4.2",
+    "created_at": "2020-05-12T12:43:30",
+    "updated_at": "2020-05-12T12:43:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:mirrormanager:0.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

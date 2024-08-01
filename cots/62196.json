@@ -1,0 +1,10 @@
+{
+    "id": 62196,
+    "name": "v8",
+    "version": "3.12.9",
+    "created_at": "2012-11-07T17:06:54",
+    "updated_at": "2016-12-06T13:58:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:v8:3.12.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

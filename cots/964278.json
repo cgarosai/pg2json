@@ -1,0 +1,10 @@
+{
+    "id": 964278,
+    "name": "ezoic",
+    "version": "1.6.11",
+    "created_at": "2022-11-21T19:06:48",
+    "updated_at": "2022-11-21T19:08:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ezoic:ezoic:1.6.11:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

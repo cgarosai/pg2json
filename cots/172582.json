@@ -1,0 +1,10 @@
+{
+    "id": 172582,
+    "name": "mediawiki",
+    "version": "1.31.0",
+    "created_at": "2018-10-18T12:09:19",
+    "updated_at": "2018-10-18T12:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediawiki:mediawiki:1.31.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

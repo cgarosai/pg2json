@@ -1,0 +1,10 @@
+{
+    "id": 984830,
+    "name": "csaf_provider",
+    "version": "0.3.0",
+    "created_at": "2022-12-16T11:03:30",
+    "updated_at": "2022-12-19T16:20:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:csaf_provider_project:csaf_provider:0.3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 139455,
+    "name": "recurly_client_ruby",
+    "version": "2.3.5",
+    "created_at": "2017-11-28T16:22:49",
+    "updated_at": "2017-11-28T16:22:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:recurly:recurly_client_ruby:2.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

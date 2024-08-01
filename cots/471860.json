@@ -1,0 +1,10 @@
+{
+    "id": 471860,
+    "name": "slixmpp",
+    "version": "1.1.10",
+    "created_at": "2020-01-22T12:53:43",
+    "updated_at": "2020-01-22T12:53:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slixmpp_project:slixmpp:1.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

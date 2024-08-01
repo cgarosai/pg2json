@@ -1,0 +1,10 @@
+{
+    "id": 250832,
+    "name": "jx_resources",
+    "version": "1.0.15",
+    "created_at": "2019-06-11T13:37:29",
+    "updated_at": "2019-06-11T13:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jx_resources:1.0.15:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1081655,
+    "name": "semgrep",
+    "version": "0.65.0",
+    "created_at": "2023-05-26T15:33:13",
+    "updated_at": "2023-05-31T10:31:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:semgrep:semgrep:0.65.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1186112,
+    "name": "jboss_a-mq_streams",
+    "version": "-",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_a-mq_streams:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

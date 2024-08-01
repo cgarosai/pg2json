@@ -1,0 +1,10 @@
+{
+    "id": 375345,
+    "name": "superset",
+    "version": "0.28.0",
+    "created_at": "2019-09-18T12:36:43",
+    "updated_at": "2019-09-18T12:36:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:superset:0.28.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

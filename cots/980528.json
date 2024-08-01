@@ -1,0 +1,10 @@
+{
+    "id": 980528,
+    "name": "armember",
+    "version": "5.0.2",
+    "created_at": "2022-12-12T16:01:44",
+    "updated_at": "2022-12-12T16:03:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:armemberplugin:armember:5.0.2:*:*:*:premium:wordpress:*:*",
+    "to_analyse": false
+}

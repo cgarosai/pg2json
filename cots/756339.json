@@ -1,0 +1,10 @@
+{
+    "id": 756339,
+    "name": "fortianalyzer",
+    "version": "7.0.0",
+    "created_at": "2021-07-30T15:16:39",
+    "updated_at": "2021-07-30T15:35:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortianalyzer:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

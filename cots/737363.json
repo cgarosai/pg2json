@@ -1,0 +1,10 @@
+{
+    "id": 737363,
+    "name": "microcode",
+    "version": "20191115",
+    "created_at": "2021-07-02T13:48:16",
+    "updated_at": "2021-07-02T13:51:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:microcode:20191115:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

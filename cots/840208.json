@@ -1,0 +1,10 @@
+{
+    "id": 840208,
+    "name": "nats_server",
+    "version": "2.2.5",
+    "created_at": "2022-02-09T16:48:52",
+    "updated_at": "2022-02-09T17:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nats:nats_server:2.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

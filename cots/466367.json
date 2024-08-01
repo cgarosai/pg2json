@@ -1,0 +1,10 @@
+{
+    "id": 466367,
+    "name": "heketi",
+    "version": "6.0.0",
+    "created_at": "2019-12-16T17:06:50",
+    "updated_at": "2019-12-16T17:06:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heketi_project:heketi:6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

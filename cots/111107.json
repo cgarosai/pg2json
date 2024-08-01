@@ -1,0 +1,10 @@
+{
+    "id": 111107,
+    "name": "spa300_series_ip_phone_firmware",
+    "version": "7.5.7\\(6\\)",
+    "created_at": "2016-09-12T12:11:05",
+    "updated_at": "2016-09-12T12:11:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:spa300_series_ip_phone_firmware:7.5.7\\(6\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

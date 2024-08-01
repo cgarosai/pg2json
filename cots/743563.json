@@ -1,0 +1,10 @@
+{
+    "id": 743563,
+    "name": "gitlogplus",
+    "version": "3.1.4",
+    "created_at": "2021-07-27T16:42:34",
+    "updated_at": "2021-08-19T15:17:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitlogplus_project:gitlogplus:3.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

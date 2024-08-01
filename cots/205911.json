@@ -1,0 +1,10 @@
+{
+    "id": 205911,
+    "name": "kibana",
+    "version": "5.0.0",
+    "created_at": "2019-02-04T16:16:52",
+    "updated_at": "2020-08-14T15:28:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elasticsearch:kibana:5.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 508510,
+    "name": "swift",
+    "version": "2013-12-15",
+    "created_at": "2020-03-04T17:42:20",
+    "updated_at": "2020-03-04T17:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:swift:2013-12-15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

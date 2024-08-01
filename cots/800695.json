@@ -1,0 +1,10 @@
+{
+    "id": 800695,
+    "name": "pdf2json",
+    "version": "0.71",
+    "created_at": "2021-11-12T16:42:24",
+    "updated_at": "2021-11-15T12:48:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flowpaper:pdf2json:0.71:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

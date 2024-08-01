@@ -1,0 +1,10 @@
+{
+    "id": 231882,
+    "name": "eucalyptus",
+    "version": "3.0.0",
+    "created_at": "2019-05-10T12:19:13",
+    "updated_at": "2019-05-10T12:19:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eucalyptus:eucalyptus:3.0.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

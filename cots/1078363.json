@@ -1,0 +1,10 @@
+{
+    "id": 1078363,
+    "name": "random_text",
+    "version": "0.3.0",
+    "created_at": "2023-05-03T14:51:31",
+    "updated_at": "2023-05-06T12:08:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:random_text_project:random_text:0.3.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

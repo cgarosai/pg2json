@@ -1,0 +1,10 @@
+{
+    "id": 195383,
+    "name": "server_system_r2000wfr_firmware",
+    "version": "00.01.0014",
+    "created_at": "2018-11-28T15:04:36",
+    "updated_at": "2021-06-14T15:49:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:server_system_r2000wfr_firmware:00.01.0014:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

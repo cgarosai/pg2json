@@ -1,0 +1,10 @@
+{
+    "id": 75289,
+    "name": "infosphere_fasttrack",
+    "version": "8.5",
+    "created_at": "2013-01-31T17:54:05",
+    "updated_at": "2013-02-07T14:00:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_fasttrack:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

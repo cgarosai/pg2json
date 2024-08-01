@@ -1,0 +1,10 @@
+{
+    "id": 67364,
+    "name": "email_and_web_security",
+    "version": "5.0",
+    "created_at": "2012-08-22T15:07:14",
+    "updated_at": "2012-08-23T00:44:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:email_and_web_security:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

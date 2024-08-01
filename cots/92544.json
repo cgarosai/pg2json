@@ -1,0 +1,10 @@
+{
+    "id": 92544,
+    "name": "deskroll_remote_desktop",
+    "version": "0.6",
+    "created_at": "2014-09-09T23:57:12",
+    "updated_at": "2014-09-10T16:59:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deskroll:deskroll_remote_desktop:0.6:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

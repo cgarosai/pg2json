@@ -1,0 +1,10 @@
+{
+    "id": 1164075,
+    "name": "nport_p5150a-t_firmware",
+    "version": "-",
+    "created_at": "2023-10-06T12:17:06",
+    "updated_at": "2023-10-06T12:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_p5150a-t_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

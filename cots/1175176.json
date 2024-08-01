@@ -1,0 +1,10 @@
+{
+    "id": 1175176,
+    "name": "nport_5150ai-m12_firmware",
+    "version": "1.5",
+    "created_at": "2023-10-06T14:29:04",
+    "updated_at": "2023-10-06T14:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_5150ai-m12_firmware:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

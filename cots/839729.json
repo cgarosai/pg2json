@@ -1,0 +1,10 @@
+{
+    "id": 839729,
+    "name": "delta_rm",
+    "version": "1.2",
+    "created_at": "2022-01-24T06:29:52",
+    "updated_at": "2022-11-04T18:08:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deltarm:delta_rm:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

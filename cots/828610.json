@@ -1,0 +1,10 @@
+{
+    "id": 828610,
+    "name": "kyma",
+    "version": "1.24.8",
+    "created_at": "2021-12-17T13:55:00",
+    "updated_at": "2021-12-17T18:02:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kyma-project:kyma:1.24.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

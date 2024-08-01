@@ -1,0 +1,10 @@
+{
+    "id": 527330,
+    "name": "cloud_foundry_smoke_test",
+    "version": "40.0.113",
+    "created_at": "2020-04-01T16:51:48",
+    "updated_at": "2020-04-01T16:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_smoke_test:40.0.113:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

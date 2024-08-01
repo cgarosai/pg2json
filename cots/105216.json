@@ -1,0 +1,10 @@
+{
+    "id": 105216,
+    "name": "seil_b1_firmware",
+    "version": "3.12",
+    "created_at": "2014-12-08T16:40:06",
+    "updated_at": "2014-12-08T18:07:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:iij:seil_b1_firmware:3.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

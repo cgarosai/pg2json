@@ -1,0 +1,10 @@
+{
+    "id": 516467,
+    "name": "vega",
+    "version": "5.0.0",
+    "created_at": "2020-03-12T20:01:12",
+    "updated_at": "2021-01-06T15:45:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vega_project:vega:5.0.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

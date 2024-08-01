@@ -1,0 +1,10 @@
+{
+    "id": 86315,
+    "name": "mod_fcgid",
+    "version": "2.3.9",
+    "created_at": "2013-10-18T13:15:49",
+    "updated_at": "2013-10-25T14:39:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:mod_fcgid:2.3.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 74553,
+    "name": "websphere_application_server_feature_pack_for_web_services",
+    "version": "6.1.0.11",
+    "created_at": "2013-09-23T15:21:21",
+    "updated_at": "2013-09-23T15:32:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server_feature_pack_for_web_services:6.1.0.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 644107,
+    "name": "aws_encryption_sdk",
+    "version": "2.0.0",
+    "created_at": "2021-01-29T16:49:56",
+    "updated_at": "2021-01-29T16:49:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_encryption_sdk:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

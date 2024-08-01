@@ -1,0 +1,10 @@
+{
+    "id": 1028334,
+    "name": "thinkcentre_m80t_firmware",
+    "version": "m1ckt49a",
+    "created_at": "2023-02-07T16:28:20",
+    "updated_at": "2023-02-14T18:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkcentre_m80t_firmware:m1ckt49a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

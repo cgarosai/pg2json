@@ -1,0 +1,10 @@
+{
+    "id": 219020,
+    "name": "sinumerik_tcu_30.3_firmware",
+    "version": "-",
+    "created_at": "2019-03-19T12:16:18",
+    "updated_at": "2021-06-29T11:23:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinumerik_tcu_30.3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

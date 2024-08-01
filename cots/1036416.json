@@ -1,0 +1,10 @@
+{
+    "id": 1036416,
+    "name": "android",
+    "version": "11.0",
+    "created_at": "2023-02-17T14:39:38",
+    "updated_at": "2023-02-17T17:57:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:android:11.0:smr-apr-2023-r1:*:*:*:*:*:*",
+    "to_analyse": false
+}

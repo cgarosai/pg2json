@@ -1,0 +1,10 @@
+{
+    "id": 742291,
+    "name": "myfax150_firmware",
+    "version": "229",
+    "created_at": "2021-07-26T16:04:16",
+    "updated_at": "2021-09-14T11:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:eram:myfax150_firmware:229:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

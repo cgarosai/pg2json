@@ -1,0 +1,10 @@
+{
+    "id": 821881,
+    "name": "parse-link-header",
+    "version": "1.0.0",
+    "created_at": "2021-12-30T13:12:05",
+    "updated_at": "2021-12-30T17:22:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parse-link-header_project:parse-link-header:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

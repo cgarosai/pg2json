@@ -1,0 +1,10 @@
+{
+    "id": 341834,
+    "name": "paypal_checkout",
+    "version": "1.6.17",
+    "created_at": "2019-09-03T11:11:01",
+    "updated_at": "2019-09-03T11:11:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:paypal_checkout:1.6.17:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

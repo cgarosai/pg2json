@@ -1,0 +1,10 @@
+{
+    "id": 985837,
+    "name": "frourio",
+    "version": "0.31.0",
+    "created_at": "2022-12-06T14:21:44",
+    "updated_at": "2022-12-06T14:25:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frourio:frourio:0.31.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

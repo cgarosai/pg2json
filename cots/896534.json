@@ -1,0 +1,10 @@
+{
+    "id": 896534,
+    "name": "lp2500_firmware",
+    "version": "-",
+    "created_at": "2022-06-10T16:06:43",
+    "updated_at": "2022-06-10T17:39:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hidglobal:lp2500_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

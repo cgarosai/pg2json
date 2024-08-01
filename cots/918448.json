@@ -1,0 +1,10 @@
+{
+    "id": 918448,
+    "name": "bitbucket",
+    "version": "7.18.0",
+    "created_at": "2022-08-01T22:52:10",
+    "updated_at": "2022-08-02T09:11:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:bitbucket:7.18.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

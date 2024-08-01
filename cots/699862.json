@@ -1,0 +1,10 @@
+{
+    "id": 699862,
+    "name": "esp-idf",
+    "version": "4.3",
+    "created_at": "2021-04-22T16:23:15",
+    "updated_at": "2021-04-23T12:31:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:espressif:esp-idf:4.3:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

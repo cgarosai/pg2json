@@ -1,0 +1,10 @@
+{
+    "id": 364442,
+    "name": "wildfly_core",
+    "version": "4.0.0",
+    "created_at": "2019-09-17T17:03:40",
+    "updated_at": "2019-09-17T17:03:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:wildfly_core:4.0.0:alpha6:*:*:*:*:*:*",
+    "to_analyse": false
+}

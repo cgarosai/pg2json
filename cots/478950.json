@@ -1,0 +1,10 @@
+{
+    "id": 478950,
+    "name": "mail_security",
+    "version": "7.5.2",
+    "created_at": "2020-01-15T13:26:42",
+    "updated_at": "2020-01-15T13:26:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:mail_security:7.5.2:*:*:*:*:microsoft_exchange:*:*",
+    "to_analyse": false
+}

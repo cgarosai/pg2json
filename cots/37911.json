@@ -1,0 +1,10 @@
+{
+    "id": 37911,
+    "name": "mojarra",
+    "version": "1.2_15",
+    "created_at": "2010-10-21T17:22:16",
+    "updated_at": "2010-10-21T19:06:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mojarra:1.2_15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

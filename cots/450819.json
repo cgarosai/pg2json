@@ -1,0 +1,10 @@
+{
+    "id": 450819,
+    "name": "name_server_daemon",
+    "version": "2.3.5",
+    "created_at": "2019-12-09T18:44:25",
+    "updated_at": "2019-12-09T18:44:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freebsd:name_server_daemon:2.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

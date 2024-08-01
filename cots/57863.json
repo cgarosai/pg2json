@@ -1,0 +1,10 @@
+{
+    "id": 57863,
+    "name": "ibm_tape_diagnostic_tool",
+    "version": "1.2.0.6",
+    "created_at": "2012-05-08T11:52:58",
+    "updated_at": "2012-05-08T11:52:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:ibm_tape_diagnostic_tool:1.2.0.6:*:*:*:dell_customer_release:*:*:*",
+    "to_analyse": false
+}

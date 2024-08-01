@@ -1,0 +1,10 @@
+{
+    "id": 656369,
+    "name": "blaze",
+    "version": "0.8.0",
+    "created_at": "2021-02-03T19:49:48",
+    "updated_at": "2021-02-03T20:04:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http4s:blaze:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

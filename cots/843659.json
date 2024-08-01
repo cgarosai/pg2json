@@ -1,0 +1,10 @@
+{
+    "id": 843659,
+    "name": "cognos_analytics_mobile",
+    "version": "-",
+    "created_at": "2022-02-17T16:33:52",
+    "updated_at": "2022-03-22T14:10:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_analytics_mobile:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

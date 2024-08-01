@@ -1,0 +1,10 @@
+{
+    "id": 434141,
+    "name": "rhnsd",
+    "version": "-",
+    "created_at": "2019-11-21T15:35:37",
+    "updated_at": "2019-11-21T15:35:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:rhnsd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

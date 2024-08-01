@@ -1,0 +1,10 @@
+{
+    "id": 961535,
+    "name": "calendar",
+    "version": "0.2",
+    "created_at": "2022-11-16T12:58:39",
+    "updated_at": "2023-02-16T16:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:discourse:calendar:0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

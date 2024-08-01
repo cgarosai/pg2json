@@ -1,0 +1,10 @@
+{
+    "id": 52682,
+    "name": "aperture_web_application_server",
+    "version": "4.0",
+    "created_at": "2012-07-03T16:37:32",
+    "updated_at": "2012-07-03T16:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emerson:aperture_web_application_server:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

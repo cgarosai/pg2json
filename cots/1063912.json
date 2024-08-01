@@ -1,0 +1,10 @@
+{
+    "id": 1063912,
+    "name": "nextcloud_server",
+    "version": "22.2.10.11",
+    "created_at": "2023-04-25T11:46:23",
+    "updated_at": "2023-05-24T12:42:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.11:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

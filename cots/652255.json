@@ -1,0 +1,10 @@
+{
+    "id": 652255,
+    "name": "sma_400_firmware",
+    "version": "-",
+    "created_at": "2021-02-17T16:52:54",
+    "updated_at": "2021-02-17T16:52:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sma_400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

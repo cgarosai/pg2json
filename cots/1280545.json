@@ -1,0 +1,10 @@
+{
+    "id": 1280545,
+    "name": "payplus_payment_gateway",
+    "version": "7.0.8",
+    "created_at": "2024-07-22T15:53:13",
+    "updated_at": "2024-07-22T15:53:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:payplus:payplus_payment_gateway:7.0.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

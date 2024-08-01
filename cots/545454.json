@@ -1,0 +1,10 @@
+{
+    "id": 545454,
+    "name": "sqliteodbc",
+    "version": "0.992-1",
+    "created_at": "2020-05-05T11:58:34",
+    "updated_at": "2020-05-05T11:58:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqliteodbc_project:sqliteodbc:0.992-1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

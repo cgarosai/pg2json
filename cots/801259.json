@@ -1,0 +1,10 @@
+{
+    "id": 801259,
+    "name": "traffic_control",
+    "version": "6.0.1",
+    "created_at": "2021-11-15T17:27:25",
+    "updated_at": "2021-11-15T17:34:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:traffic_control:6.0.1:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 653312,
+    "name": "newts",
+    "version": "-",
+    "created_at": "2021-02-19T16:10:15",
+    "updated_at": "2021-04-23T16:33:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opennms:newts:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

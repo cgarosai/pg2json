@@ -1,0 +1,10 @@
+{
+    "id": 92419,
+    "name": "dhcpcd",
+    "version": "5.2.9",
+    "created_at": "2014-09-08T13:05:31",
+    "updated_at": "2014-09-08T13:23:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dhcpcd_project:dhcpcd:5.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

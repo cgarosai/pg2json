@@ -1,0 +1,10 @@
+{
+    "id": 269222,
+    "name": "cloud_private",
+    "version": "1.2.0",
+    "created_at": "2019-06-17T10:25:08",
+    "updated_at": "2019-06-17T10:25:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cloud_private:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

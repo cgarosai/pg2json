@@ -1,0 +1,10 @@
+{
+    "id": 959226,
+    "name": "conf-cfg-ini",
+    "version": "1.0.5",
+    "created_at": "2022-10-20T15:42:04",
+    "updated_at": "2022-10-20T15:43:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conf-cfg-ini_project:conf-cfg-ini:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

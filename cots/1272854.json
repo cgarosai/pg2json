@@ -1,0 +1,10 @@
+{
+    "id": 1272854,
+    "name": "azure_cyclecloud",
+    "version": "7.9.11",
+    "created_at": "2024-07-15T16:06:06",
+    "updated_at": "2024-07-15T16:06:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_cyclecloud:7.9.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

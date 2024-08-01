@@ -1,0 +1,10 @@
+{
+    "id": 448599,
+    "name": "agent_zone",
+    "version": "-",
+    "created_at": "2019-12-02T13:34:17",
+    "updated_at": "2019-12-02T13:34:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vastal:agent_zone:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

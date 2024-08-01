@@ -1,0 +1,10 @@
+{
+    "id": 234978,
+    "name": "campaign",
+    "version": "9.0",
+    "created_at": "2019-05-20T13:56:43",
+    "updated_at": "2019-05-20T13:56:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:campaign:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

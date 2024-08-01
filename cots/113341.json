@@ -1,0 +1,10 @@
+{
+    "id": 113341,
+    "name": "cloudcenter_orchestrator",
+    "version": "4.5.0",
+    "created_at": "2016-12-28T11:27:19",
+    "updated_at": "2016-12-28T11:27:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:cloudcenter_orchestrator:4.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

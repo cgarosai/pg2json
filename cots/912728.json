@@ -1,0 +1,10 @@
+{
+    "id": 912728,
+    "name": "aes_crypt",
+    "version": "3.11",
+    "created_at": "2022-08-10T13:39:06",
+    "updated_at": "2022-08-17T11:13:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aescrypt:aes_crypt:3.11:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

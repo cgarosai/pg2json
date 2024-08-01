@@ -1,0 +1,10 @@
+{
+    "id": 242506,
+    "name": "credentials_binding",
+    "version": "1.10",
+    "created_at": "2019-06-04T16:32:30",
+    "updated_at": "2019-06-04T16:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:credentials_binding:1.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

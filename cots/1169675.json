@@ -1,0 +1,10 @@
+{
+    "id": 1169675,
+    "name": "white_rabbit_switch_firmware",
+    "version": "-",
+    "created_at": "2023-09-28T19:37:07",
+    "updated_at": "2023-09-28T19:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:white_rabbit_project:white_rabbit_switch_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

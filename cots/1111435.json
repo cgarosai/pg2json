@@ -1,0 +1,10 @@
+{
+    "id": 1111435,
+    "name": "site_kit",
+    "version": "1.26.0",
+    "created_at": "2023-07-14T13:08:08",
+    "updated_at": "2023-07-14T13:10:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:site_kit:1.26.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

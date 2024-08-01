@@ -1,0 +1,10 @@
+{
+    "id": 276358,
+    "name": "hoek",
+    "version": "1.4.1",
+    "created_at": "2019-06-21T16:39:16",
+    "updated_at": "2019-06-21T16:39:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hapijs:hoek:1.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

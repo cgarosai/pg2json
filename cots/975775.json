@@ -1,0 +1,10 @@
+{
+    "id": 975775,
+    "name": "xpath_configuration_viewer",
+    "version": "1.0.6",
+    "created_at": "2022-11-23T00:21:02",
+    "updated_at": "2022-11-23T00:22:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:xpath_configuration_viewer:1.0.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1002734,
+    "name": "appointment_scheduler",
+    "version": "1.0.1",
+    "created_at": "2023-01-09T12:28:47",
+    "updated_at": "2023-01-09T13:31:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:innologi:appointment_scheduler:1.0.1:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

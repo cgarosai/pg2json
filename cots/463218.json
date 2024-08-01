@@ -1,0 +1,10 @@
+{
+    "id": 463218,
+    "name": "clickhouse",
+    "version": "19.19.1.2035",
+    "created_at": "2020-01-06T18:37:32",
+    "updated_at": "2020-01-06T18:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yandex:clickhouse:19.19.1.2035:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

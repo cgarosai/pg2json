@@ -1,0 +1,10 @@
+{
+    "id": 217790,
+    "name": "kerberos",
+    "version": "5-1.17",
+    "created_at": "2019-03-18T16:21:37",
+    "updated_at": "2020-01-21T14:47:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mit:kerberos:5-1.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

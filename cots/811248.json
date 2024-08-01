@@ -1,0 +1,10 @@
+{
+    "id": 811248,
+    "name": "dns_server",
+    "version": "-",
+    "created_at": "2021-12-02T11:33:06",
+    "updated_at": "2022-02-08T16:28:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:dns_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

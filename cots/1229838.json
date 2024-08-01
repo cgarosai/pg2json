@@ -1,0 +1,10 @@
+{
+    "id": 1229838,
+    "name": "smart_plug_firmware",
+    "version": "-",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:smart_plug_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 437206,
+    "name": "mbed",
+    "version": "5.12.3",
+    "created_at": "2019-11-13T14:04:24",
+    "updated_at": "2019-11-13T14:04:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arm:mbed:5.12.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

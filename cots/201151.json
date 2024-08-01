@@ -1,0 +1,10 @@
+{
+    "id": 201151,
+    "name": "snapmanager",
+    "version": "-",
+    "created_at": "2019-02-27T14:49:02",
+    "updated_at": "2021-05-06T13:37:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:snapmanager:-:*:*:*:*:oracle:*:*",
+    "to_analyse": false
+}

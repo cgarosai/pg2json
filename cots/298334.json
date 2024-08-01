@@ -1,0 +1,10 @@
+{
+    "id": 298334,
+    "name": "emoncms",
+    "version": "9.8.25",
+    "created_at": "2019-07-15T12:26:51",
+    "updated_at": "2019-07-15T12:26:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openenergymonitor:emoncms:9.8.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

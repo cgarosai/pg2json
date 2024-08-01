@@ -1,0 +1,10 @@
+{
+    "id": 160033,
+    "name": "nodeffmpeg",
+    "version": "-",
+    "created_at": "2018-07-26T14:12:51",
+    "updated_at": "2018-07-26T14:12:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodeffmpeg_project:nodeffmpeg:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 183845,
+    "name": "redaxo",
+    "version": "3.1",
+    "created_at": "2018-11-21T22:23:13",
+    "updated_at": "2018-11-21T22:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redaxo:redaxo:3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

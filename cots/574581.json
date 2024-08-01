@@ -1,0 +1,10 @@
+{
+    "id": 574581,
+    "name": "nsx-v_edge",
+    "version": "6.4.2",
+    "created_at": "2020-08-12T10:21:41",
+    "updated_at": "2020-08-12T10:21:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:nsx-v_edge:6.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

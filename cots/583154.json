@@ -1,0 +1,10 @@
+{
+    "id": 583154,
+    "name": "softwareupdate",
+    "version": "1.6",
+    "created_at": "2020-09-01T11:05:03",
+    "updated_at": "2020-09-01T11:05:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:softwareupdate_project:softwareupdate:1.6:*:*:*:*:munkireport:*:*",
+    "to_analyse": false
+}

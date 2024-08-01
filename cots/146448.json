@@ -1,0 +1,10 @@
+{
+    "id": 146448,
+    "name": "airwatch",
+    "version": "9.2",
+    "created_at": "2018-02-20T18:17:45",
+    "updated_at": "2021-06-02T09:43:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:airwatch:9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

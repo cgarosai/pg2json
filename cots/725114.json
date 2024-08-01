@@ -1,0 +1,10 @@
+{
+    "id": 725114,
+    "name": "kde-cli-tools",
+    "version": "5.16.5",
+    "created_at": "2021-06-08T16:35:31",
+    "updated_at": "2021-06-08T16:37:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kde-cli-tools:5.16.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

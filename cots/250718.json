@@ -1,0 +1,10 @@
+{
+    "id": 250718,
+    "name": "libmacgpg",
+    "version": "0.8.4",
+    "created_at": "2019-06-11T12:25:00",
+    "updated_at": "2019-06-11T12:25:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpgtools:libmacgpg:0.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

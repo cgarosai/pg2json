@@ -1,0 +1,10 @@
+{
+    "id": 604021,
+    "name": "network_manager_vpnc",
+    "version": "1.2.5",
+    "created_at": "2020-10-20T13:49:31",
+    "updated_at": "2020-10-20T13:49:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:network_manager_vpnc:1.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1010904,
+    "name": "neo4j-apoc-procedures",
+    "version": "4.4.0.4",
+    "created_at": "2023-01-20T17:30:37",
+    "updated_at": "2023-01-23T14:40:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:neo4j-contrib:neo4j-apoc-procedures:4.4.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 604086,
+    "name": "750-880_firmware",
+    "version": "fw07",
+    "created_at": "2020-10-20T14:34:55",
+    "updated_at": "2020-10-20T14:34:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:750-880_firmware:fw07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

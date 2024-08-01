@@ -1,0 +1,10 @@
+{
+    "id": 700080,
+    "name": "phpbb",
+    "version": "3.2.11",
+    "created_at": "2021-05-19T18:07:55",
+    "updated_at": "2021-05-19T18:09:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpbb:phpbb:3.2.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

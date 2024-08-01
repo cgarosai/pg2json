@@ -1,0 +1,10 @@
+{
+    "id": 433020,
+    "name": "emc_isilon_onefs",
+    "version": "7.2.1.4",
+    "created_at": "2019-11-20T16:49:12",
+    "updated_at": "2019-11-20T16:49:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_isilon_onefs:7.2.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

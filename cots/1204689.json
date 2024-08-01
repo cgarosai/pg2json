@@ -1,0 +1,10 @@
+{
+    "id": 1204689,
+    "name": "yale_keyless_smart_lock_firmware",
+    "version": "1.0",
+    "created_at": "2023-12-07T19:06:39",
+    "updated_at": "2023-12-07T19:06:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:assaabloy:yale_keyless_smart_lock_firmware:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

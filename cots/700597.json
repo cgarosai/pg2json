@@ -1,0 +1,10 @@
+{
+    "id": 700597,
+    "name": "nport_ia5450a_firmware",
+    "version": "1.7",
+    "created_at": "2021-05-20T12:49:46",
+    "updated_at": "2021-05-20T13:08:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_ia5450a_firmware:1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

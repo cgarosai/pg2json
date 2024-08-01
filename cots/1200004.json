@@ -1,0 +1,10 @@
+{
+    "id": 1200004,
+    "name": "general_device_manager",
+    "version": "2.5.2.2",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:maxiguvenlik:general_device_manager:2.5.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

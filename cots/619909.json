@@ -1,0 +1,10 @@
+{
+    "id": 619909,
+    "name": "itunes",
+    "version": "12.9.2",
+    "created_at": "2020-11-16T15:29:50",
+    "updated_at": "2020-11-16T15:29:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:itunes:12.9.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

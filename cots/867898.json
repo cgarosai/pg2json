@@ -1,0 +1,10 @@
+{
+    "id": 867898,
+    "name": "simatic_rf_182c_firmware",
+    "version": "-",
+    "created_at": "2022-03-28T09:31:41",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_rf_182c_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

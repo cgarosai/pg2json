@@ -1,0 +1,10 @@
+{
+    "id": 946070,
+    "name": "scm_httpclient",
+    "version": "1.5",
+    "created_at": "2022-09-22T14:51:08",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:scm_httpclient:1.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

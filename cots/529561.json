@@ -1,0 +1,10 @@
+{
+    "id": 529561,
+    "name": "storagegrid",
+    "version": "10.0.0",
+    "created_at": "2020-04-03T14:34:07",
+    "updated_at": "2020-04-03T14:34:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:storagegrid:10.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 411882,
+    "name": "hexo-admin",
+    "version": "0.3.0",
+    "created_at": "2019-10-29T12:26:41",
+    "updated_at": "2019-10-29T12:26:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hexo-admin_project:hexo-admin:0.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

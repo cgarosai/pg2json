@@ -1,0 +1,10 @@
+{
+    "id": 109206,
+    "name": "views",
+    "version": "7.x-3.8",
+    "created_at": "2015-04-23T14:17:23",
+    "updated_at": "2015-04-30T14:45:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invage:views:7.x-3.8:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

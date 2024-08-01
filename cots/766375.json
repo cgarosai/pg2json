@@ -1,0 +1,10 @@
+{
+    "id": 766375,
+    "name": "courier_mail_server",
+    "version": "1.1.4",
+    "created_at": "2021-08-19T12:40:54",
+    "updated_at": "2021-08-19T13:08:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:courier-mta:courier_mail_server:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

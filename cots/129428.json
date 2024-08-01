@@ -1,0 +1,10 @@
+{
+    "id": 129428,
+    "name": "simatic_dk-16xx_pn_io_firmware",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-05-25T16:46:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_dk-16xx_pn_io_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

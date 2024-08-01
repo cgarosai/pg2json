@@ -1,0 +1,10 @@
+{
+    "id": 206522,
+    "name": "rebar3",
+    "version": "3.7.1",
+    "created_at": "2019-02-06T15:17:48",
+    "updated_at": "2019-02-06T15:17:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:erlang:rebar3:3.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

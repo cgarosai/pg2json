@@ -1,0 +1,10 @@
+{
+    "id": 273948,
+    "name": "server_board_s7200ap",
+    "version": "-",
+    "created_at": "2019-07-01T13:34:55",
+    "updated_at": "2019-07-01T13:34:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:server_board_s7200ap:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

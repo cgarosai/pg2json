@@ -1,0 +1,10 @@
+{
+    "id": 88806,
+    "name": "interstage_application_server",
+    "version": "9.0.0",
+    "created_at": "2013-12-17T00:55:39",
+    "updated_at": "2013-12-17T00:59:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fujitsu:interstage_application_server:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 940368,
+    "name": "duo",
+    "version": "-",
+    "created_at": "2022-10-02T10:57:14",
+    "updated_at": "2022-12-15T15:36:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:duo:-:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

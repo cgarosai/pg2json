@@ -1,0 +1,10 @@
+{
+    "id": 432007,
+    "name": "spectrum_protect_server",
+    "version": "7.1.5.000",
+    "created_at": "2019-11-19T17:26:22",
+    "updated_at": "2019-11-19T17:26:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:spectrum_protect_server:7.1.5.000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

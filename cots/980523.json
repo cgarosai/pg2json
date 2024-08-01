@@ -1,0 +1,10 @@
+{
+    "id": 980523,
+    "name": "remote_desktop_manager",
+    "version": "2022.3.24",
+    "created_at": "2022-12-12T16:01:01",
+    "updated_at": "2023-01-09T14:26:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devolutions:remote_desktop_manager:2022.3.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

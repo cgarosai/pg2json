@@ -1,0 +1,10 @@
+{
+    "id": 928093,
+    "name": "safe_exam_browser",
+    "version": "2.4",
+    "created_at": "2022-08-22T16:06:36",
+    "updated_at": "2022-08-22T16:26:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ethz:safe_exam_browser:2.4:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 416231,
+    "name": "websphere_commerce",
+    "version": "8.0.1.0",
+    "created_at": "2019-10-23T12:38:53",
+    "updated_at": "2019-10-23T12:38:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_commerce:8.0.1.0:*:*:*:professional:*:*:*",
+    "to_analyse": false
+}

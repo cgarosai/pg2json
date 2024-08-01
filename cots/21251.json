@@ -1,0 +1,10 @@
+{
+    "id": 21251,
+    "name": "coldfusion",
+    "version": "9.0",
+    "created_at": "2010-02-04T13:00:08",
+    "updated_at": "2011-07-27T14:01:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:coldfusion:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

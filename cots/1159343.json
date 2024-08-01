@@ -1,0 +1,10 @@
+{
+    "id": 1159343,
+    "name": "piccolo",
+    "version": "0.17.0",
+    "created_at": "2023-09-15T15:51:05",
+    "updated_at": "2023-09-15T15:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:piccolo-orm:piccolo:0.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

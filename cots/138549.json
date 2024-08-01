@@ -1,0 +1,10 @@
+{
+    "id": 138549,
+    "name": "clickshare_csm-1_firmware",
+    "version": "1.7.0.3",
+    "created_at": "2017-11-17T20:57:07",
+    "updated_at": "2021-05-26T16:50:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:barco:clickshare_csm-1_firmware:1.7.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

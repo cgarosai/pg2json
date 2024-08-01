@@ -1,0 +1,10 @@
+{
+    "id": 59023,
+    "name": "storageworks_hp-ux_11.00_11.11_host_agent_files",
+    "version": "2.22.0",
+    "created_at": "2012-05-14T21:32:45",
+    "updated_at": "2012-05-14T21:32:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:storageworks_hp-ux_11.00_11.11_host_agent_files:2.22.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

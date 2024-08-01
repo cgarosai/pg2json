@@ -1,0 +1,10 @@
+{
+    "id": 1194851,
+    "name": "codeready_linux_builder_for_arm64",
+    "version": "8.0_aarch64",
+    "created_at": "2023-11-25T02:54:19",
+    "updated_at": "2023-11-25T02:54:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:codeready_linux_builder_for_arm64:8.0_aarch64:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

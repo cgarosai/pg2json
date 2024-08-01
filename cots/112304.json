@@ -1,0 +1,10 @@
+{
+    "id": 112304,
+    "name": "open_enterprise_server",
+    "version": "2015",
+    "created_at": "2016-11-15T18:52:54",
+    "updated_at": "2021-04-13T14:17:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:open_enterprise_server:2015:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

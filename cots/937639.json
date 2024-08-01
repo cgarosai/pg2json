@@ -1,0 +1,10 @@
+{
+    "id": 937639,
+    "name": "snakeyaml",
+    "version": "1.2",
+    "created_at": "2022-09-07T10:19:41",
+    "updated_at": "2022-09-07T10:25:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snakeyaml_project:snakeyaml:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

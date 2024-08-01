@@ -1,0 +1,10 @@
+{
+    "id": 774532,
+    "name": "netweaver_portal",
+    "version": "7.10",
+    "created_at": "2021-09-24T16:26:19",
+    "updated_at": "2022-01-04T15:49:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_portal:7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

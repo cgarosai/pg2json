@@ -1,0 +1,10 @@
+{
+    "id": 645263,
+    "name": "bumpalo",
+    "version": "3.4.0",
+    "created_at": "2021-01-06T17:31:26",
+    "updated_at": "2021-01-06T17:31:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bumpalo_project:bumpalo:3.4.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

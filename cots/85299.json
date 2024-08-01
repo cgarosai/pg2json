@@ -1,0 +1,10 @@
+{
+    "id": 85299,
+    "name": "management_suite",
+    "version": "7.5",
+    "created_at": "2013-10-03T12:28:31",
+    "updated_at": "2013-10-04T15:12:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:baramundi:management_suite:7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

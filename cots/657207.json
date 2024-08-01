@@ -1,0 +1,10 @@
+{
+    "id": 657207,
+    "name": "glassfish",
+    "version": "3.1.2.2",
+    "created_at": "2021-02-05T20:24:46",
+    "updated_at": "2021-02-05T20:24:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:glassfish:3.1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 96871,
+    "name": "sharepoint_designer",
+    "version": "2013",
+    "created_at": "2014-05-14T14:46:09",
+    "updated_at": "2014-05-14T22:11:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_designer:2013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

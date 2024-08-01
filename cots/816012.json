@@ -1,0 +1,10 @@
+{
+    "id": 816012,
+    "name": "mri_3t",
+    "version": "-",
+    "created_at": "2021-11-22T18:24:32",
+    "updated_at": "2022-02-07T19:19:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:philips:mri_3t:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

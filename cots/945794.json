@@ -1,0 +1,10 @@
+{
+    "id": 945794,
+    "name": "security_inspector",
+    "version": "117.v6eecc36919c2",
+    "created_at": "2022-09-22T11:54:46",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:security_inspector:117.v6eecc36919c2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

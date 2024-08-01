@@ -1,0 +1,10 @@
+{
+    "id": 491373,
+    "name": "simatic_et200m_im153-4_pn_io_hf_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T14:00:52",
+    "updated_at": "2020-02-24T14:00:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_et200m_im153-4_pn_io_hf_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

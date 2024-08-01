@@ -1,0 +1,10 @@
+{
+    "id": 1244740,
+    "name": "bluez-libs",
+    "version": "3.35",
+    "created_at": "2024-02-06T19:38:19",
+    "updated_at": "2024-02-06T19:38:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluez:bluez-libs:3.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

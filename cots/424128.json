@@ -1,0 +1,10 @@
+{
+    "id": 424128,
+    "name": "angular-http-server",
+    "version": "1.0.2",
+    "created_at": "2019-11-08T15:39:23",
+    "updated_at": "2019-11-08T15:39:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:angular-http-server_project:angular-http-server:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

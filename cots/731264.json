@@ -1,0 +1,10 @@
+{
+    "id": 731264,
+    "name": "ezstream",
+    "version": "-",
+    "created_at": "2021-07-12T15:08:06",
+    "updated_at": "2021-07-12T15:11:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icecast:ezstream:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

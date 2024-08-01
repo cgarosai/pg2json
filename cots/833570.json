@@ -1,0 +1,10 @@
+{
+    "id": 833570,
+    "name": "powerlogic_ion7700_firmware",
+    "version": "-",
+    "created_at": "2022-01-31T17:58:08",
+    "updated_at": "2022-01-31T19:07:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:powerlogic_ion7700_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

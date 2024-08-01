@@ -1,0 +1,10 @@
+{
+    "id": 86279,
+    "name": "storwize_v7000_unified",
+    "version": "-",
+    "created_at": "2013-10-17T15:57:57",
+    "updated_at": "2014-02-27T23:25:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:storwize_v7000_unified:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

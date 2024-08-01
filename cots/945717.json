@@ -1,0 +1,10 @@
+{
+    "id": 945717,
+    "name": "compuware_common_configuration",
+    "version": "1.0.14",
+    "created_at": "2022-09-22T08:54:17",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:compuware_common_configuration:1.0.14:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1251145,
+    "name": "php-jwt",
+    "version": "0.2.4",
+    "created_at": "2024-02-14T20:46:00",
+    "updated_at": "2024-02-14T20:46:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zihanggao:php-jwt:0.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

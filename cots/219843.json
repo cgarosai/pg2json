@@ -1,0 +1,10 @@
+{
+    "id": 219843,
+    "name": "news_and_weather",
+    "version": "3.1.4",
+    "created_at": "2019-03-19T14:40:03",
+    "updated_at": "2019-03-19T14:40:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:news_and_weather:3.1.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

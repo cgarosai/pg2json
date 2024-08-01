@@ -1,0 +1,10 @@
+{
+    "id": 57173,
+    "name": "bladelogic_server_automation_rscd_agent",
+    "version": "8.0.7.722",
+    "created_at": "2012-05-08T11:50:08",
+    "updated_at": "2012-05-08T11:50:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:bladelogic_server_automation_rscd_agent:8.0.7.722:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

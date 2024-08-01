@@ -1,0 +1,10 @@
+{
+    "id": 1247980,
+    "name": "print_server",
+    "version": "8.2",
+    "created_at": "2024-01-30T12:24:43",
+    "updated_at": "2024-01-30T12:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:myq-solution:print_server:8.2:patch34:*:*:*:*:*:*",
+    "to_analyse": false
+}

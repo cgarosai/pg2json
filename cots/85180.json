@@ -1,0 +1,10 @@
+{
+    "id": 85180,
+    "name": "gxv_device_firmware",
+    "version": "1.0.4.34",
+    "created_at": "2013-10-02T14:33:43",
+    "updated_at": "2013-10-02T14:42:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:grandstream:gxv_device_firmware:1.0.4.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

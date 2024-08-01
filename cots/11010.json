@@ -1,0 +1,10 @@
+{
+    "id": 11010,
+    "name": "edgesight",
+    "version": "-",
+    "created_at": "2007-12-07T16:47:06",
+    "updated_at": "2007-12-07T16:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:edgesight:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

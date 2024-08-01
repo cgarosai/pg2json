@@ -1,0 +1,10 @@
+{
+    "id": 395156,
+    "name": "crucible",
+    "version": "2.7.15",
+    "created_at": "2019-09-27T10:23:25",
+    "updated_at": "2019-09-27T10:23:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:crucible:2.7.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

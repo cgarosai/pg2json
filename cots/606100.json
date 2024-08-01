@@ -1,0 +1,10 @@
+{
+    "id": 606100,
+    "name": "ingres",
+    "version": "9.1.0",
+    "created_at": "2020-10-02T13:40:32",
+    "updated_at": "2020-10-02T13:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:actian:ingres:9.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

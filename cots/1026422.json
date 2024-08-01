@@ -1,0 +1,10 @@
+{
+    "id": 1026422,
+    "name": "piwigo",
+    "version": "13.4.0",
+    "created_at": "2023-02-03T16:04:34",
+    "updated_at": "2023-05-23T14:03:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:piwigo:piwigo:13.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

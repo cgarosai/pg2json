@@ -1,0 +1,10 @@
+{
+    "id": 90420,
+    "name": "dvr_firmware",
+    "version": "2.608.gv00.0",
+    "created_at": "2014-07-14T11:31:59",
+    "updated_at": "2014-07-15T19:08:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dahuasecurity:dvr_firmware:2.608.gv00.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 207055,
+    "name": "haraka",
+    "version": "2.2.6",
+    "created_at": "2019-02-06T17:13:26",
+    "updated_at": "2019-02-06T17:13:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haraka_project:haraka:2.2.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 35964,
+    "name": "procurve_switch_software",
+    "version": "r.11.45",
+    "created_at": "2010-08-10T20:12:57",
+    "updated_at": "2010-08-10T20:12:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:procurve_switch_software:r.11.45:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

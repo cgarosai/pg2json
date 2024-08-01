@@ -1,0 +1,10 @@
+{
+    "id": 295473,
+    "name": "mayo",
+    "version": "7.x-2.6",
+    "created_at": "2019-07-12T10:16:47",
+    "updated_at": "2019-07-12T10:16:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mayo_project:mayo:7.x-2.6:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

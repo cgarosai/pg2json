@@ -1,0 +1,10 @@
+{
+    "id": 58205,
+    "name": "devicewall_dynamic_activity_monitor",
+    "version": "5.0.0",
+    "created_at": "2012-05-14T21:29:10",
+    "updated_at": "2012-05-14T21:29:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frontrange:devicewall_dynamic_activity_monitor:5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

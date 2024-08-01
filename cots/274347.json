@@ -1,0 +1,10 @@
+{
+    "id": 274347,
+    "name": "php-nuke",
+    "version": "8.2",
+    "created_at": "2019-07-01T14:42:29",
+    "updated_at": "2019-07-01T14:42:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpnuke:php-nuke:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

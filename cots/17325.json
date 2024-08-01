@@ -1,0 +1,10 @@
+{
+    "id": 17325,
+    "name": "openedge",
+    "version": "10.1a",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T18:16:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:openedge:10.1a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

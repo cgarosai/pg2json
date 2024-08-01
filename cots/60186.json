@@ -1,0 +1,10 @@
+{
+    "id": 60186,
+    "name": "eucalyptus",
+    "version": "1.6.2",
+    "created_at": "2012-10-02T18:09:14",
+    "updated_at": "2012-10-05T16:27:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eucalyptus:eucalyptus:1.6.2:-:enterprise:*:*:*:*:*",
+    "to_analyse": false
+}

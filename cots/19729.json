@@ -1,0 +1,10 @@
+{
+    "id": 19729,
+    "name": "windows_live_messenger",
+    "version": "-",
+    "created_at": "2007-08-28T19:32:24",
+    "updated_at": "2008-11-20T19:56:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_live_messenger:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 782904,
+    "name": "6350-sr_firmware",
+    "version": "-",
+    "created_at": "2021-10-12T13:43:55",
+    "updated_at": "2021-10-12T14:50:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:digi:6350-sr_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

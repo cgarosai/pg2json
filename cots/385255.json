@@ -1,0 +1,10 @@
+{
+    "id": 385255,
+    "name": "noscript",
+    "version": "10.6",
+    "created_at": "2019-09-23T15:19:48",
+    "updated_at": "2019-09-23T15:19:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:noscript:noscript:10.6:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

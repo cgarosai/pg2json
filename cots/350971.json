@@ -1,0 +1,10 @@
+{
+    "id": 350971,
+    "name": "ncmpc",
+    "version": "0.31",
+    "created_at": "2019-09-06T15:57:00",
+    "updated_at": "2019-09-06T15:57:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncmpc_project:ncmpc:0.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

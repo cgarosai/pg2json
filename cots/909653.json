@@ -1,0 +1,10 @@
+{
+    "id": 909653,
+    "name": "endpoint_security",
+    "version": "e86.50",
+    "created_at": "2022-07-13T11:38:57",
+    "updated_at": "2022-07-26T13:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:endpoint_security:e86.50:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

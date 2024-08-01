@@ -1,0 +1,10 @@
+{
+    "id": 129040,
+    "name": "lrzip",
+    "version": "0.631",
+    "created_at": "2017-05-16T10:52:15",
+    "updated_at": "2022-09-02T14:32:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lrzip_project:lrzip:0.631:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

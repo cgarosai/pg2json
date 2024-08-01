@@ -1,0 +1,10 @@
+{
+    "id": 584575,
+    "name": "klocwork_analysis",
+    "version": "1.24.4",
+    "created_at": "2020-09-02T15:59:47",
+    "updated_at": "2020-09-02T15:59:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:klocwork_analysis:1.24.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 336777,
+    "name": "endpoint_encryption",
+    "version": "11.3.0",
+    "created_at": "2019-08-08T17:07:14",
+    "updated_at": "2019-08-08T17:07:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_encryption:11.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

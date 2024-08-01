@@ -1,0 +1,10 @@
+{
+    "id": 350368,
+    "name": "ca_workload_automation_ae",
+    "version": "11.3.5",
+    "created_at": "2019-09-06T14:45:24",
+    "updated_at": "2021-04-09T11:18:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_workload_automation_ae:11.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

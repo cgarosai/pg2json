@@ -1,0 +1,10 @@
+{
+    "id": 535247,
+    "name": "usg6000v_firmware",
+    "version": "v500r001c20",
+    "created_at": "2020-04-13T18:08:13",
+    "updated_at": "2020-04-13T18:08:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:usg6000v_firmware:v500r001c20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

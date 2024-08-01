@@ -1,0 +1,10 @@
+{
+    "id": 193068,
+    "name": "cloud_connector",
+    "version": "2.10",
+    "created_at": "2019-01-16T16:47:56",
+    "updated_at": "2021-06-04T13:04:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:cloud_connector:2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

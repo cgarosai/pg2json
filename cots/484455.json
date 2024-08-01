@@ -1,0 +1,10 @@
+{
+    "id": 484455,
+    "name": "ngips_virtual_appliance",
+    "version": "-",
+    "created_at": "2020-02-10T15:07:23",
+    "updated_at": "2020-02-10T15:07:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ngips_virtual_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

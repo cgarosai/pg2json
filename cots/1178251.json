@@ -1,0 +1,10 @@
+{
+    "id": 1178251,
+    "name": "wp_ical_availability",
+    "version": "0.4",
+    "created_at": "2023-10-13T16:50:07",
+    "updated_at": "2023-10-13T16:50:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpicalavailability:wp_ical_availability:0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

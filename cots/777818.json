@@ -1,0 +1,10 @@
+{
+    "id": 777818,
+    "name": "contract",
+    "version": "1.0",
+    "created_at": "2021-09-13T12:06:54",
+    "updated_at": "2021-09-23T15:40:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contract_project:contract:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

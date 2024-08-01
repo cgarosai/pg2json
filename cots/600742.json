@@ -1,0 +1,10 @@
+{
+    "id": 600742,
+    "name": "iroha",
+    "version": "1.1.2",
+    "created_at": "2020-10-08T12:12:52",
+    "updated_at": "2020-10-08T12:12:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hyperledger:iroha:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

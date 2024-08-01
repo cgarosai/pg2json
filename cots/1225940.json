@@ -1,0 +1,10 @@
+{
+    "id": 1225940,
+    "name": "quttera_web_malware_scanner",
+    "version": "3.0.7.20",
+    "created_at": "2023-12-21T15:37:17",
+    "updated_at": "2023-12-21T15:37:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quttera:quttera_web_malware_scanner:3.0.7.20:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

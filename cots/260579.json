@@ -1,0 +1,10 @@
+{
+    "id": 260579,
+    "name": "chipset_device_software",
+    "version": "10.1.1.45",
+    "created_at": "2019-06-17T14:20:33",
+    "updated_at": "2019-06-17T14:20:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:chipset_device_software:10.1.1.45:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

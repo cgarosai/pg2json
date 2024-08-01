@@ -1,0 +1,10 @@
+{
+    "id": 262118,
+    "name": "remarkable",
+    "version": "1.7.0",
+    "created_at": "2019-06-18T13:15:50",
+    "updated_at": "2019-06-18T13:15:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:remarkable_project:remarkable:1.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

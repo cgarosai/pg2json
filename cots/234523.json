@@ -1,0 +1,10 @@
+{
+    "id": 234523,
+    "name": "integrated_services_router_t1\\/e1_voice_and_wan_network_interface_modules_firmware",
+    "version": "-",
+    "created_at": "2019-05-16T16:23:53",
+    "updated_at": "2021-04-20T16:39:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:integrated_services_router_t1\\/e1_voice_and_wan_network_interface_modules_firmware:-:*:*:*:*:*:4000_series:*",
+    "to_analyse": false
+}

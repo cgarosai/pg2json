@@ -1,0 +1,10 @@
+{
+    "id": 123788,
+    "name": "xamarin.ios",
+    "version": "10.11",
+    "created_at": "2017-08-24T23:41:33",
+    "updated_at": "2021-07-22T17:36:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:xamarin.ios:10.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 595262,
+    "name": "worksmith",
+    "version": "-",
+    "created_at": "2020-09-03T12:00:25",
+    "updated_at": "2020-09-03T12:00:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guidesmiths:worksmith:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

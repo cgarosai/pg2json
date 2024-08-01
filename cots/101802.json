@@ -1,0 +1,10 @@
+{
+    "id": 101802,
+    "name": "infosphere_information_server",
+    "version": "11.5",
+    "created_at": "2015-11-04T15:11:27",
+    "updated_at": "2015-11-23T18:30:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_information_server:11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

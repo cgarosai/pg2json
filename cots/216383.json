@@ -1,0 +1,10 @@
+{
+    "id": 216383,
+    "name": "jinja2",
+    "version": "2.9.4",
+    "created_at": "2019-03-11T17:49:31",
+    "updated_at": "2019-03-11T17:49:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pocoo:jinja2:2.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

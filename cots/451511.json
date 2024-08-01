@@ -1,0 +1,10 @@
+{
+    "id": 451511,
+    "name": "td5130v2_firmware",
+    "version": "oi_fw_v20",
+    "created_at": "2019-12-10T14:41:49",
+    "updated_at": "2019-12-10T14:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:technicolor:td5130v2_firmware:oi_fw_v20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

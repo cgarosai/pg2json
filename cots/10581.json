@@ -1,0 +1,10 @@
+{
+    "id": 10581,
+    "name": "psexec",
+    "version": "-",
+    "created_at": "2007-10-10T09:13:47",
+    "updated_at": "2007-10-10T09:13:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:psexec:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

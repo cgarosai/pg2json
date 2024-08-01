@@ -1,0 +1,10 @@
+{
+    "id": 72461,
+    "name": "mag6611_gateway",
+    "version": "-",
+    "created_at": "2013-08-01T16:26:38",
+    "updated_at": "2014-03-03T19:14:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:mag6611_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 614952,
+    "name": "time",
+    "version": "0.1.37",
+    "created_at": "2020-11-30T11:52:18",
+    "updated_at": "2020-11-30T11:52:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:time_project:time:0.1.37:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

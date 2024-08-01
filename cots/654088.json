@@ -1,0 +1,10 @@
+{
+    "id": 654088,
+    "name": "jaws",
+    "version": "1.8.0",
+    "created_at": "2021-02-22T15:37:33",
+    "updated_at": "2021-04-15T14:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jaws_project:jaws:1.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

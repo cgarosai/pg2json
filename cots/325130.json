@@ -1,0 +1,10 @@
+{
+    "id": 325130,
+    "name": "simple_membership",
+    "version": "3.6.2",
+    "created_at": "2019-07-30T19:24:12",
+    "updated_at": "2019-07-30T19:24:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple-membership-plugin:simple_membership:3.6.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

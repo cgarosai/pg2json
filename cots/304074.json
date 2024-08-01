@@ -1,0 +1,10 @@
+{
+    "id": 304074,
+    "name": "gifsicle",
+    "version": "1.91",
+    "created_at": "2019-07-25T11:12:02",
+    "updated_at": "2023-10-24T14:06:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gifsicle_project:gifsicle:1.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

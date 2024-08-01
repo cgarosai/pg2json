@@ -1,0 +1,10 @@
+{
+    "id": 1219814,
+    "name": "asr1806_firmware",
+    "version": "cp01.057.063",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:asrmicro:asr1806_firmware:cp01.057.063:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 666204,
+    "name": "stm32cubeide",
+    "version": "-",
+    "created_at": "2021-02-23T17:51:24",
+    "updated_at": "2021-02-23T17:51:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:st:stm32cubeide:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

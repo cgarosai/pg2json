@@ -1,0 +1,10 @@
+{
+    "id": 640007,
+    "name": "rv215w_firmware",
+    "version": "1.2.2.8",
+    "created_at": "2021-01-19T20:05:50",
+    "updated_at": "2021-01-19T20:05:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv215w_firmware:1.2.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

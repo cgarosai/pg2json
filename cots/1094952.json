@@ -1,0 +1,10 @@
+{
+    "id": 1094952,
+    "name": "fortiadc_manager",
+    "version": "6.2.0",
+    "created_at": "2023-06-16T13:34:08",
+    "updated_at": "2023-07-21T19:54:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiadc_manager:6.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

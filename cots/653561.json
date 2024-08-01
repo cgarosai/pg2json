@@ -1,0 +1,10 @@
+{
+    "id": 653561,
+    "name": "sv-cpt-mc310_firmware",
+    "version": "-",
+    "created_at": "2021-02-22T10:53:38",
+    "updated_at": "2021-06-23T13:03:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:contec:sv-cpt-mc310_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

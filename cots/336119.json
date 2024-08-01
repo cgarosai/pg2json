@@ -1,0 +1,10 @@
+{
+    "id": 336119,
+    "name": "docker",
+    "version": "18.09.8",
+    "created_at": "2019-08-06T15:15:32",
+    "updated_at": "2019-08-06T15:15:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:docker:18.09.8:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 43264,
+    "name": "2504_wireless_lan_controller",
+    "version": "-",
+    "created_at": "2012-03-07T19:47:10",
+    "updated_at": "2012-03-07T22:02:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:2504_wireless_lan_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

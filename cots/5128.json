@@ -1,0 +1,10 @@
+{
+    "id": 5128,
+    "name": "at-tftp",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-14T15:56:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alliedtelesyn:at-tftp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

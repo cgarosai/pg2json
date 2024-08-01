@@ -1,0 +1,10 @@
+{
+    "id": 335855,
+    "name": "application_service",
+    "version": "2.1.2",
+    "created_at": "2019-08-06T14:36:32",
+    "updated_at": "2019-08-06T14:36:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:application_service:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

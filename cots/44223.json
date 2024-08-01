@@ -1,0 +1,10 @@
+{
+    "id": 44223,
+    "name": "powervault_ml6030",
+    "version": "23u",
+    "created_at": "2012-03-22T16:18:10",
+    "updated_at": "2012-03-22T18:02:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:powervault_ml6030:23u:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 693694,
+    "name": "restify-paginate",
+    "version": "0.0.2",
+    "created_at": "2021-05-04T10:09:32",
+    "updated_at": "2021-05-04T10:10:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:restify-paginate_project:restify-paginate:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

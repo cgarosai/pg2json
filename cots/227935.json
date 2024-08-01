@@ -1,0 +1,10 @@
+{
+    "id": 227935,
+    "name": "line_music",
+    "version": "3.1.0",
+    "created_at": "2019-04-12T11:51:50",
+    "updated_at": "2019-04-12T11:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linecorp:line_music:3.1.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

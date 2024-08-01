@@ -1,0 +1,10 @@
+{
+    "id": 465217,
+    "name": "santricity_cloud_connector",
+    "version": "-",
+    "created_at": "2019-12-12T15:54:57",
+    "updated_at": "2019-12-12T15:54:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:santricity_cloud_connector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

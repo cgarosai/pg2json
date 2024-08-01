@@ -1,0 +1,10 @@
+{
+    "id": 191289,
+    "name": "zlib",
+    "version": "1.2.7.3",
+    "created_at": "2019-01-08T17:04:04",
+    "updated_at": "2019-01-08T17:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zlib:zlib:1.2.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

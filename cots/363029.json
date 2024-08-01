@@ -1,0 +1,10 @@
+{
+    "id": 363029,
+    "name": "6126_firmware",
+    "version": "-",
+    "created_at": "2019-09-17T13:56:15",
+    "updated_at": "2021-05-03T16:53:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:6126_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

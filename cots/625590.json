@@ -1,0 +1,10 @@
+{
+    "id": 625590,
+    "name": "notebook",
+    "version": "5.7.10",
+    "created_at": "2020-11-30T15:18:12",
+    "updated_at": "2020-11-30T15:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:notebook:5.7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

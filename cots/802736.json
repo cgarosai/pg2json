@@ -1,0 +1,10 @@
+{
+    "id": 802736,
+    "name": "llhttp",
+    "version": "2.1.4",
+    "created_at": "2021-11-16T17:45:48",
+    "updated_at": "2022-02-08T16:28:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:llhttp:llhttp:2.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 189661,
+    "name": "pulse_secure_desktop_client",
+    "version": "5.3r2",
+    "created_at": "2018-11-06T13:15:52",
+    "updated_at": "2018-11-06T13:15:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:pulse_secure_desktop_client:5.3r2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

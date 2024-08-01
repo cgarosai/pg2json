@@ -1,0 +1,10 @@
+{
+    "id": 486801,
+    "name": "koha",
+    "version": "3.18.01",
+    "created_at": "2020-01-31T14:35:39",
+    "updated_at": "2020-01-31T14:35:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:koha:koha:3.18.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

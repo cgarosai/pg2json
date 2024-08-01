@@ -1,0 +1,10 @@
+{
+    "id": 101664,
+    "name": "safari",
+    "version": "8.0.8",
+    "created_at": "2015-10-09T13:31:51",
+    "updated_at": "2015-11-24T17:34:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:safari:8.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

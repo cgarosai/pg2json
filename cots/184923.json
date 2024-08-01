@@ -1,0 +1,10 @@
+{
+    "id": 184923,
+    "name": "operations_manager",
+    "version": "1.11.20",
+    "created_at": "2018-11-26T17:58:15",
+    "updated_at": "2018-11-26T17:58:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:operations_manager:1.11.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

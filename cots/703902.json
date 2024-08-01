@@ -1,0 +1,10 @@
+{
+    "id": 703902,
+    "name": "cortex",
+    "version": "0.3.0",
+    "created_at": "2021-05-25T12:21:26",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:cortex:0.3.0:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

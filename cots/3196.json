@@ -1,0 +1,10 @@
+{
+    "id": 3196,
+    "name": "lotus_sametime",
+    "version": "2.5",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-09-16T18:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:lotus_sametime:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

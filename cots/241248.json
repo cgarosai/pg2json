@@ -1,0 +1,10 @@
+{
+    "id": 241248,
+    "name": "expressway_software",
+    "version": "x7.2.4",
+    "created_at": "2019-06-04T12:34:33",
+    "updated_at": "2021-04-12T12:08:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:expressway_software:x7.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

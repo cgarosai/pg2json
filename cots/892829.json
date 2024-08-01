@@ -1,0 +1,10 @@
+{
+    "id": 892829,
+    "name": "ryzen_7_3800xt_firmware",
+    "version": "-",
+    "created_at": "2022-06-28T12:23:59",
+    "updated_at": "2022-06-29T09:15:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_7_3800xt_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

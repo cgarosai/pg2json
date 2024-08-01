@@ -1,0 +1,10 @@
+{
+    "id": 630845,
+    "name": "fmc4500-k9_bios",
+    "version": "4.0.1f.0",
+    "created_at": "2020-12-22T15:49:40",
+    "updated_at": "2020-12-22T15:49:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:fmc4500-k9_bios:4.0.1f.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

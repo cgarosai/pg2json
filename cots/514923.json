@@ -1,0 +1,10 @@
+{
+    "id": 514923,
+    "name": "integrated_services_virtual_router",
+    "version": "-",
+    "created_at": "2020-03-31T16:37:30",
+    "updated_at": "2020-03-31T16:37:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:integrated_services_virtual_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

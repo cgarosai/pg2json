@@ -1,0 +1,10 @@
+{
+    "id": 519923,
+    "name": "xeon_e5-4667_v4_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:31:12",
+    "updated_at": "2020-03-23T16:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e5-4667_v4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

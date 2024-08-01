@@ -1,0 +1,10 @@
+{
+    "id": 763360,
+    "name": "nexus_92300yc_firmware",
+    "version": "14.2\\(4i\\)",
+    "created_at": "2021-09-01T12:58:35",
+    "updated_at": "2021-09-23T12:39:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nexus_92300yc_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 762716,
+    "name": "squashfs-tools",
+    "version": "4.5",
+    "created_at": "2021-08-31T10:25:06",
+    "updated_at": "2021-09-22T16:26:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squashfs-tools_project:squashfs-tools:4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

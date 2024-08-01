@@ -1,0 +1,10 @@
+{
+    "id": 774945,
+    "name": "1160_firmware",
+    "version": "-",
+    "created_at": "2021-09-27T17:30:56",
+    "updated_at": "2022-07-29T21:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:1160_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

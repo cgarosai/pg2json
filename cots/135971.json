@@ -1,0 +1,10 @@
+{
+    "id": 135971,
+    "name": "i-suite",
+    "version": "5.5.9",
+    "created_at": "2017-10-04T15:25:58",
+    "updated_at": "2021-05-07T11:38:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:denyall:i-suite:5.5.9:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

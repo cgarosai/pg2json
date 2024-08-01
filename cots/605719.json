@@ -1,0 +1,10 @@
+{
+    "id": 605719,
+    "name": "application_policy_infrastructure_controller_enterprise_module",
+    "version": "1.4.1.1159",
+    "created_at": "2020-09-30T13:08:37",
+    "updated_at": "2020-09-30T13:08:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:application_policy_infrastructure_controller_enterprise_module:1.4.1.1159:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

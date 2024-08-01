@@ -1,0 +1,10 @@
+{
+    "id": 1190188,
+    "name": "pds5_firmware",
+    "version": "-",
+    "created_at": "2023-11-15T18:29:14",
+    "updated_at": "2023-11-15T18:29:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:telit:pds5_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

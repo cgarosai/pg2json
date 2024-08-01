@@ -1,0 +1,10 @@
+{
+    "id": 1135932,
+    "name": "big-ip_carrier-grade_nat",
+    "version": "15.1.9.1",
+    "created_at": "2023-08-07T13:42:13",
+    "updated_at": "2023-08-07T16:14:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:15.1.9.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

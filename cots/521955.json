@@ -1,0 +1,10 @@
+{
+    "id": 521955,
+    "name": "login_by_auth0",
+    "version": "2.0.0",
+    "created_at": "2020-04-07T16:03:15",
+    "updated_at": "2020-04-07T16:03:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:login_by_auth0:2.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

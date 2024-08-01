@@ -1,0 +1,10 @@
+{
+    "id": 127745,
+    "name": "secure_partitioning",
+    "version": "4.4.19",
+    "created_at": "2017-04-17T13:26:59",
+    "updated_at": "2021-05-13T14:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unisys:secure_partitioning:4.4.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

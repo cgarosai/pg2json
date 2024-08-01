@@ -1,0 +1,10 @@
+{
+    "id": 1086969,
+    "name": "aiven",
+    "version": "1.1.7",
+    "created_at": "2023-05-22T17:51:35",
+    "updated_at": "2023-06-05T11:12:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aiven:aiven:1.1.7:*:*:*:*:postgresql:*:*",
+    "to_analyse": false
+}

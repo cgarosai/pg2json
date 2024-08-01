@@ -1,0 +1,10 @@
+{
+    "id": 244653,
+    "name": "a850_telemetry_gateway_base_station",
+    "version": "-",
+    "created_at": "2019-06-06T12:52:07",
+    "updated_at": "2019-06-06T12:52:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:adcon_telemetry:a850_telemetry_gateway_base_station:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

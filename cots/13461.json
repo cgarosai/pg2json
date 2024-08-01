@@ -1,0 +1,10 @@
+{
+    "id": 13461,
+    "name": "vlc_media_player",
+    "version": "0.9.2",
+    "created_at": "2008-10-15T17:07:38",
+    "updated_at": "2009-11-25T17:32:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:videolan:vlc_media_player:0.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

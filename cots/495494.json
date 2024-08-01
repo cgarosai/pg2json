@@ -1,0 +1,10 @@
+{
+    "id": 495494,
+    "name": "external-provisioner",
+    "version": "0.4.0",
+    "created_at": "2020-02-11T16:45:20",
+    "updated_at": "2020-02-11T16:45:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:external-provisioner:0.4.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

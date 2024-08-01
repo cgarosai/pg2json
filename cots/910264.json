@@ -1,0 +1,10 @@
+{
+    "id": 910264,
+    "name": "microsoft_advertising_universal_event_tracking",
+    "version": "1.0.0",
+    "created_at": "2022-08-05T13:08:58",
+    "updated_at": "2022-08-05T14:16:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:microsoft_advertising_universal_event_tracking:1.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

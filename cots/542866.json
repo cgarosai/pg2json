@@ -1,0 +1,10 @@
+{
+    "id": 542866,
+    "name": "webapp-builder",
+    "version": "2.0",
+    "created_at": "2020-05-20T12:57:10",
+    "updated_at": "2020-05-20T12:57:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webapp-builder_project:webapp-builder:2.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

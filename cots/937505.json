@@ -1,0 +1,10 @@
+{
+    "id": 937505,
+    "name": "bifrost",
+    "version": "r38p0",
+    "created_at": "2022-09-06T13:48:17",
+    "updated_at": "2022-09-12T11:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:bifrost:r38p0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

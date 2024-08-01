@@ -1,0 +1,10 @@
+{
+    "id": 514509,
+    "name": "pxa40-w2_firmware",
+    "version": "6.00.320",
+    "created_at": "2020-03-31T15:35:37",
+    "updated_at": "2020-03-31T15:35:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:pxa40-w2_firmware:6.00.320:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

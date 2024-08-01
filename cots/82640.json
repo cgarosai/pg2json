@@ -1,0 +1,10 @@
+{
+    "id": 82640,
+    "name": "askbot",
+    "version": "0.7.47",
+    "created_at": "2014-03-06T14:06:15",
+    "updated_at": "2014-03-07T11:43:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:askbot:askbot:0.7.47:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 604589,
+    "name": "ruckus_iot_module",
+    "version": "-",
+    "created_at": "2020-10-27T10:09:08",
+    "updated_at": "2021-05-19T12:07:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:commscope:ruckus_iot_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 181574,
+    "name": "line",
+    "version": "8.14.2",
+    "created_at": "2018-11-14T12:10:21",
+    "updated_at": "2018-11-14T12:10:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linecorp:line:8.14.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

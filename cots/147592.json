@@ -1,0 +1,10 @@
+{
+    "id": 147592,
+    "name": "network_security_appliance_2400",
+    "version": "-",
+    "created_at": "2018-03-12T14:42:42",
+    "updated_at": "2022-06-16T13:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:network_security_appliance_2400:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

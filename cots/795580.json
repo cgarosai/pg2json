@@ -1,0 +1,10 @@
+{
+    "id": 795580,
+    "name": "sinumerik_828d_firmware",
+    "version": "4.95",
+    "created_at": "2021-10-14T10:55:30",
+    "updated_at": "2021-12-09T19:19:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.95:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

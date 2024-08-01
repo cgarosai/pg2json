@@ -1,0 +1,10 @@
+{
+    "id": 54704,
+    "name": "smc8024l2_switch_firmware",
+    "version": "2.4a",
+    "created_at": "2012-07-19T14:44:32",
+    "updated_at": "2012-07-25T16:33:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:smc:smc8024l2_switch_firmware:2.4a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

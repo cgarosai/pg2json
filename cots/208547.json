@@ -1,0 +1,10 @@
+{
+    "id": 208547,
+    "name": "u-boot",
+    "version": "2017.09",
+    "created_at": "2019-02-19T14:08:10",
+    "updated_at": "2019-02-19T14:08:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:denx:u-boot:2017.09:rc4:*:*:*:*:*:*",
+    "to_analyse": false
+}

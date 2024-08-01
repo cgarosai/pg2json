@@ -1,0 +1,10 @@
+{
+    "id": 639619,
+    "name": "znc_docker_image",
+    "version": "1.7.0",
+    "created_at": "2020-12-18T18:23:17",
+    "updated_at": "2020-12-18T18:23:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:znc:znc_docker_image:1.7.0:slim:*:*:*:*:*:*",
+    "to_analyse": false
+}

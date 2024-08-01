@@ -1,0 +1,10 @@
+{
+    "id": 509639,
+    "name": "srx4100_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T14:20:58",
+    "updated_at": "2020-03-06T14:20:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:srx4100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

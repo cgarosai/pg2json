@@ -1,0 +1,10 @@
+{
+    "id": 307756,
+    "name": "univention_corporate_server",
+    "version": "4.3-2",
+    "created_at": "2019-07-19T16:28:05",
+    "updated_at": "2023-04-19T11:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:univention:univention_corporate_server:4.3-2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

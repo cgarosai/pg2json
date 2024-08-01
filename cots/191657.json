@@ -1,0 +1,10 @@
+{
+    "id": 191657,
+    "name": "https-proxy-agent",
+    "version": "0.0.2",
+    "created_at": "2019-01-09T16:21:29",
+    "updated_at": "2019-01-09T16:21:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:https-proxy-agent_project:https-proxy-agent:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

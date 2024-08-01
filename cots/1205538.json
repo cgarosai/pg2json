@@ -1,0 +1,10 @@
+{
+    "id": 1205538,
+    "name": "mleap",
+    "version": "0.18.0",
+    "created_at": "2023-11-27T00:41:00",
+    "updated_at": "2023-11-27T00:41:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:combust:mleap:0.18.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

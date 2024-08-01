@@ -1,0 +1,10 @@
+{
+    "id": 74052,
+    "name": "live_streaming_integration_plugin",
+    "version": "4.25",
+    "created_at": "2013-09-10T15:03:13",
+    "updated_at": "2013-09-12T13:06:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:videowhisper:live_streaming_integration_plugin:4.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

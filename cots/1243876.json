@@ -1,0 +1,10 @@
+{
+    "id": 1243876,
+    "name": "cratedb",
+    "version": "0.8.4",
+    "created_at": "2024-02-05T18:11:59",
+    "updated_at": "2024-02-05T18:11:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cratedb:cratedb:0.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

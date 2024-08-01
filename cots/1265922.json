@@ -1,0 +1,10 @@
+{
+    "id": 1265922,
+    "name": "fme_server",
+    "version": "2022.1.0.0",
+    "created_at": "2024-02-28T13:13:12",
+    "updated_at": "2024-02-28T13:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:safe:fme_server:2022.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

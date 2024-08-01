@@ -1,0 +1,10 @@
+{
+    "id": 58569,
+    "name": "http_communication",
+    "version": "6.20.50",
+    "created_at": "2012-05-14T21:30:26",
+    "updated_at": "2012-05-14T21:30:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:http_communication:6.20.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

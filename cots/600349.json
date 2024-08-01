@@ -1,0 +1,10 @@
+{
+    "id": 600349,
+    "name": "3810_firmware",
+    "version": "16.10.0009",
+    "created_at": "2020-10-08T08:50:43",
+    "updated_at": "2020-10-08T08:50:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:3810_firmware:16.10.0009:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

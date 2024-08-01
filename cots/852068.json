@@ -1,0 +1,10 @@
+{
+    "id": 852068,
+    "name": "fluture-node",
+    "version": "4.0.1",
+    "created_at": "2022-03-14T05:14:23",
+    "updated_at": "2022-09-19T17:45:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fluture-node_project:fluture-node:4.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

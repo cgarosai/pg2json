@@ -1,0 +1,10 @@
+{
+    "id": 547107,
+    "name": "nc220_firmware",
+    "version": "1.1.12",
+    "created_at": "2020-05-07T13:43:26",
+    "updated_at": "2021-05-28T11:11:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:nc220_firmware:1.1.12:160321_a:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 321693,
+    "name": "ntfserver",
+    "version": "0.0.4",
+    "created_at": "2019-08-01T14:57:38",
+    "updated_at": "2019-08-01T14:57:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shutterstock:ntfserver:0.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

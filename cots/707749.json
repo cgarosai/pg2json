@@ -1,0 +1,10 @@
+{
+    "id": 707749,
+    "name": "emc_integrated_system_for_microsoft_azure_stack_hub_firmware",
+    "version": "2011",
+    "created_at": "2021-05-12T15:02:42",
+    "updated_at": "2021-05-28T13:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_integrated_system_for_microsoft_azure_stack_hub_firmware:2011:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

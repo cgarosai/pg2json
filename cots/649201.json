@@ -1,0 +1,10 @@
+{
+    "id": 649201,
+    "name": "application_delivery_controller_firmware",
+    "version": "12.1-58.15",
+    "created_at": "2021-01-14T18:42:28",
+    "updated_at": "2021-01-14T18:42:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:application_delivery_controller_firmware:12.1-58.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

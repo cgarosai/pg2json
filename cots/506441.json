@@ -1,0 +1,10 @@
+{
+    "id": 506441,
+    "name": "security_information_queue",
+    "version": "1.0.4",
+    "created_at": "2020-03-03T01:01:46",
+    "updated_at": "2020-03-03T01:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_information_queue:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

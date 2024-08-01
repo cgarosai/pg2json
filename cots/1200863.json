@@ -1,0 +1,10 @@
+{
+    "id": 1200863,
+    "name": "ion8650_firmware",
+    "version": "-",
+    "created_at": "2023-12-01T21:41:12",
+    "updated_at": "2023-12-01T21:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:ion8650_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

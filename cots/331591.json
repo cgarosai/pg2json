@@ -1,0 +1,10 @@
+{
+    "id": 331591,
+    "name": "rebuild",
+    "version": "1.28",
+    "created_at": "2019-08-15T13:54:43",
+    "updated_at": "2022-10-24T11:38:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rebuild_project:rebuild:1.28:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

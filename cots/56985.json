@@ -1,0 +1,10 @@
+{
+    "id": 56985,
+    "name": "ip_communicator",
+    "version": "7.0\\(5\\)",
+    "created_at": "2012-05-02T16:40:44",
+    "updated_at": "2012-05-30T18:51:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ip_communicator:7.0\\(5\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

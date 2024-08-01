@@ -1,0 +1,10 @@
+{
+    "id": 1229900,
+    "name": "enterprise_linux_desktop_workstation",
+    "version": "5",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_desktop_workstation:5:*:client:*:*:*:*:*",
+    "to_analyse": false
+}

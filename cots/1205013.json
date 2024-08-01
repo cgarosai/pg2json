@@ -1,0 +1,10 @@
+{
+    "id": 1205013,
+    "name": "blue_light_filter",
+    "version": "1.5.5",
+    "created_at": "2023-11-25T03:34:25",
+    "updated_at": "2023-11-25T03:34:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:leap:blue_light_filter:1.5.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

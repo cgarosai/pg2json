@@ -1,0 +1,10 @@
+{
+    "id": 728424,
+    "name": "internet_security",
+    "version": "11.12.4.1622",
+    "created_at": "2021-06-14T13:14:04",
+    "updated_at": "2021-08-20T11:48:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:internet_security:11.12.4.1622:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

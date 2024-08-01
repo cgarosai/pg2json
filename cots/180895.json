@@ -1,0 +1,10 @@
+{
+    "id": 180895,
+    "name": "flex_system_x280_m4_firmware",
+    "version": "6.80",
+    "created_at": "2018-11-08T17:49:53",
+    "updated_at": "2018-11-08T17:49:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:flex_system_x280_m4_firmware:6.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

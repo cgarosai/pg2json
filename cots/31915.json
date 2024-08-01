@@ -1,0 +1,10 @@
+{
+    "id": 31915,
+    "name": "easerver",
+    "version": "5.5",
+    "created_at": "2011-01-21T17:18:29",
+    "updated_at": "2012-08-20T16:28:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:easerver:5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

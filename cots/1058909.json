@@ -1,0 +1,10 @@
+{
+    "id": 1058909,
+    "name": "community_events",
+    "version": "1.4.9",
+    "created_at": "2023-03-24T12:01:14",
+    "updated_at": "2023-04-03T14:17:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:community_events_project:community_events:1.4.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10800,
+    "name": "openview_configuration_management",
+    "version": "4.2",
+    "created_at": "2007-10-31T01:51:28",
+    "updated_at": "2007-10-31T01:51:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:openview_configuration_management:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

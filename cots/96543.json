@@ -1,0 +1,10 @@
+{
+    "id": 96543,
+    "name": "bradesco_gateway",
+    "version": "2.0",
+    "created_at": "2014-05-09T15:42:01",
+    "updated_at": "2014-07-01T00:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bradesco_gateway_plugin_project:bradesco_gateway:2.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

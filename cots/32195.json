@@ -1,0 +1,10 @@
+{
+    "id": 32195,
+    "name": "chrome",
+    "version": "9.0.572.0",
+    "created_at": "2011-02-07T13:27:34",
+    "updated_at": "2012-05-10T13:28:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:chrome:9.0.572.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 416135,
+    "name": "vtiger_crm",
+    "version": "6.0",
+    "created_at": "2019-10-23T12:13:57",
+    "updated_at": "2019-10-23T12:13:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vtiger:vtiger_crm:6.0:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

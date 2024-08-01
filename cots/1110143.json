@@ -1,0 +1,10 @@
+{
+    "id": 1110143,
+    "name": "yt-dlp",
+    "version": "2021.04.22",
+    "created_at": "2023-07-12T14:07:28",
+    "updated_at": "2023-07-12T16:30:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yt-dlp_project:yt-dlp:2021.04.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

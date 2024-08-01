@@ -1,0 +1,10 @@
+{
+    "id": 904026,
+    "name": "fortiadc",
+    "version": "7.0.0",
+    "created_at": "2022-07-21T12:41:51",
+    "updated_at": "2022-07-21T18:54:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiadc:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

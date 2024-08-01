@@ -1,0 +1,10 @@
+{
+    "id": 89548,
+    "name": "yojimbo",
+    "version": "3.0",
+    "created_at": "2014-01-02T16:32:13",
+    "updated_at": "2014-01-02T16:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:barebones:yojimbo:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

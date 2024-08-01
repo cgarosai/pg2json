@@ -1,0 +1,10 @@
+{
+    "id": 940275,
+    "name": "dotnetnuke",
+    "version": "9.10.0",
+    "created_at": "2022-09-30T15:05:26",
+    "updated_at": "2022-10-03T11:31:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dnnsoftware:dotnetnuke:9.10.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

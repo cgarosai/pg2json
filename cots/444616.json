@@ -1,0 +1,10 @@
+{
+    "id": 444616,
+    "name": "slack-chat",
+    "version": "1.5.5",
+    "created_at": "2019-12-04T17:21:22",
+    "updated_at": "2019-12-04T17:21:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slack-chat_project:slack-chat:1.5.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

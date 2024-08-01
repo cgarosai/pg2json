@@ -1,0 +1,10 @@
+{
+    "id": 876431,
+    "name": "nconf",
+    "version": "0.8.3",
+    "created_at": "2022-04-18T17:20:09",
+    "updated_at": "2022-04-18T19:32:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nconf_project:nconf:0.8.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

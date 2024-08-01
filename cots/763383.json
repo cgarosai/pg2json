@@ -1,0 +1,10 @@
+{
+    "id": 763383,
+    "name": "nexus_93180yc-ex_firmware",
+    "version": "14.2\\(4i\\)",
+    "created_at": "2021-09-01T12:58:35",
+    "updated_at": "2021-09-23T12:39:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nexus_93180yc-ex_firmware:14.2\\(4i\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

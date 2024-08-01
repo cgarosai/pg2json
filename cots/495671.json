@@ -1,0 +1,10 @@
+{
+    "id": 495671,
+    "name": "video_streaming_gateway",
+    "version": "6.43",
+    "created_at": "2020-02-11T17:17:12",
+    "updated_at": "2021-03-30T11:47:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:video_streaming_gateway:6.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

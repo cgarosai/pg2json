@@ -1,0 +1,10 @@
+{
+    "id": 455413,
+    "name": "thttpd",
+    "version": "-",
+    "created_at": "2019-12-05T16:05:46",
+    "updated_at": "2019-12-05T16:05:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acme:thttpd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

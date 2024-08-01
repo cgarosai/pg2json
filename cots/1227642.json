@@ -1,0 +1,10 @@
+{
+    "id": 1227642,
+    "name": "woocommerce_square",
+    "version": "-",
+    "created_at": "2023-12-26T14:30:35",
+    "updated_at": "2023-12-26T14:30:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:woocommerce_square:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

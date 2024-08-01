@@ -1,0 +1,10 @@
+{
+    "id": 804962,
+    "name": "iris_xe_max_dedicated_graphics",
+    "version": "27.20.100.9466",
+    "created_at": "2021-11-19T11:37:31",
+    "updated_at": "2021-12-09T20:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:iris_xe_max_dedicated_graphics:27.20.100.9466:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

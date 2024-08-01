@@ -1,0 +1,10 @@
+{
+    "id": 1283070,
+    "name": "matter",
+    "version": "1.1.0.2",
+    "created_at": "2024-07-26T12:42:23",
+    "updated_at": "2024-07-26T12:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:csa-iot:matter:1.1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

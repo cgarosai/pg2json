@@ -1,0 +1,10 @@
+{
+    "id": 821309,
+    "name": "jointjs",
+    "version": "3.0.2",
+    "created_at": "2021-12-28T15:56:26",
+    "updated_at": "2021-12-28T17:24:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:client:jointjs:3.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

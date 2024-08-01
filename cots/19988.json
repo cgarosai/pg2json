@@ -1,0 +1,10 @@
+{
+    "id": 19988,
+    "name": "sophos_anti-virus",
+    "version": "6.5.8",
+    "created_at": "2007-09-11T22:10:23",
+    "updated_at": "2012-08-24T18:01:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:sophos_anti-virus:6.5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

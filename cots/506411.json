@@ -1,0 +1,10 @@
+{
+    "id": 506411,
+    "name": "mail",
+    "version": "2.4.4",
+    "created_at": "2020-03-02T18:48:40",
+    "updated_at": "2020-03-02T18:48:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mail_project:mail:2.4.4:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

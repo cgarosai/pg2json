@@ -1,0 +1,10 @@
+{
+    "id": 495393,
+    "name": "url-parse",
+    "version": "1.0.1",
+    "created_at": "2020-02-11T15:22:18",
+    "updated_at": "2020-02-11T15:22:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:url-parse_project:url-parse:1.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

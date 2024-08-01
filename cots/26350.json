@@ -1,0 +1,10 @@
+{
+    "id": 26350,
+    "name": "director",
+    "version": "4",
+    "created_at": "2009-04-24T17:04:26",
+    "updated_at": "2009-04-24T17:04:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:enhydra:director:4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

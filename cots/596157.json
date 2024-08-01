@@ -1,0 +1,10 @@
+{
+    "id": 596157,
+    "name": "checkinstall",
+    "version": "1.6.2",
+    "created_at": "2020-09-04T18:03:12",
+    "updated_at": "2020-09-04T18:03:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:checkinstall:1.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

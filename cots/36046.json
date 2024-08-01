@@ -1,0 +1,10 @@
+{
+    "id": 36046,
+    "name": "tivoli_storage_manager_fastback",
+    "version": "5.5.3.0",
+    "created_at": "2010-08-23T12:39:57",
+    "updated_at": "2010-08-30T23:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_fastback:5.5.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

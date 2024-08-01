@@ -1,0 +1,10 @@
+{
+    "id": 1863,
+    "name": "big-ip",
+    "version": "4.5.10",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-29T16:10:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip:4.5.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

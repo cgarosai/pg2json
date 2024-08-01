@@ -1,0 +1,10 @@
+{
+    "id": 1204836,
+    "name": "shield",
+    "version": "1.0.0",
+    "created_at": "2023-12-08T14:05:20",
+    "updated_at": "2023-12-08T14:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codeigniter:shield:1.0.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1204307,
+    "name": "ryzen_7_5800h_firmware",
+    "version": "cezannepi-fp6_1.0.0.b",
+    "created_at": "2023-12-07T16:55:46",
+    "updated_at": "2023-12-07T16:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_7_5800h_firmware:cezannepi-fp6_1.0.0.b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

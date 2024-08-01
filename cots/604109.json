@@ -1,0 +1,10 @@
+{
+    "id": 604109,
+    "name": "atheros_ar9283_firmware",
+    "version": "1.85",
+    "created_at": "2020-10-20T14:49:51",
+    "updated_at": "2020-10-20T14:49:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:atheros_ar9283_firmware:1.85:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

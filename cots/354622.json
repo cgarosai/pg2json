@@ -1,0 +1,10 @@
+{
+    "id": 354622,
+    "name": "axios",
+    "version": "0.6.0",
+    "created_at": "2019-09-10T16:01:57",
+    "updated_at": "2019-09-10T16:01:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:axios:axios:0.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

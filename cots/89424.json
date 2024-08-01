@@ -1,0 +1,10 @@
+{
+    "id": 89424,
+    "name": "zendto",
+    "version": "4.10-5",
+    "created_at": "2013-12-30T15:01:53",
+    "updated_at": "2013-12-30T15:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zend:zendto:4.10-5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 247014,
+    "name": "luci",
+    "version": "0.11.0",
+    "created_at": "2019-05-24T14:37:31",
+    "updated_at": "2019-05-24T14:37:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openwrt:luci:0.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

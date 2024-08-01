@@ -1,0 +1,10 @@
+{
+    "id": 866208,
+    "name": "post-loader",
+    "version": "1.1.0",
+    "created_at": "2022-03-23T15:58:36",
+    "updated_at": "2022-03-23T17:06:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:post-loader_project:post-loader:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

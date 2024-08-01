@@ -1,0 +1,10 @@
+{
+    "id": 222459,
+    "name": "laserjet_managed_flow_mfp_m830_firmware",
+    "version": "-",
+    "created_at": "2019-04-23T14:23:29",
+    "updated_at": "2021-05-14T14:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:laserjet_managed_flow_mfp_m830_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

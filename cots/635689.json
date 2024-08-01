@@ -1,0 +1,10 @@
+{
+    "id": 635689,
+    "name": "750-829_firmware",
+    "version": "fw10",
+    "created_at": "2020-12-11T14:33:24",
+    "updated_at": "2021-04-29T16:08:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:750-829_firmware:fw10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 798122,
+    "name": "cluster_glue",
+    "version": "1.0.8",
+    "created_at": "2021-10-19T14:55:50",
+    "updated_at": "2021-10-19T14:58:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:cluster_glue:1.0.8:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

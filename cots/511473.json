@@ -1,0 +1,10 @@
+{
+    "id": 511473,
+    "name": "celeron_1020m",
+    "version": "-",
+    "created_at": "2020-03-26T12:37:06",
+    "updated_at": "2020-03-26T12:37:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:celeron_1020m:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

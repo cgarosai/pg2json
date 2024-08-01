@@ -1,0 +1,10 @@
+{
+    "id": 165791,
+    "name": "ct50_firmware",
+    "version": "1.04.84",
+    "created_at": "2018-06-26T15:17:10",
+    "updated_at": "2021-06-28T11:24:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:radiothermostat:ct50_firmware:1.04.84:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

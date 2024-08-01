@@ -1,0 +1,10 @@
+{
+    "id": 11597,
+    "name": "desktop_engine",
+    "version": "2000",
+    "created_at": "2008-04-15T20:38:10",
+    "updated_at": "2008-04-15T21:01:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:desktop_engine:2000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

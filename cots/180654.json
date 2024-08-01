@@ -1,0 +1,10 @@
+{
+    "id": 180654,
+    "name": "webmail",
+    "version": "7.10.0",
+    "created_at": "2018-11-08T14:30:10",
+    "updated_at": "2018-11-08T14:30:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-xchange:webmail:7.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

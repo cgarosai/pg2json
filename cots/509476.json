@@ -1,0 +1,10 @@
+{
+    "id": 509476,
+    "name": "usg20w-vpn_firmware",
+    "version": "4.35\\(abar.3\\)c0",
+    "created_at": "2020-03-05T19:09:37",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:usg20w-vpn_firmware:4.35\\(abar.3\\)c0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

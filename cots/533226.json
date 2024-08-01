@@ -1,0 +1,10 @@
+{
+    "id": 533226,
+    "name": "arq",
+    "version": "4.0",
+    "created_at": "2020-05-04T11:05:16",
+    "updated_at": "2020-05-04T11:05:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arqbackup:arq:4.0:b10:*:*:*:macos:*:*",
+    "to_analyse": false
+}

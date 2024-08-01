@@ -1,0 +1,10 @@
+{
+    "id": 189978,
+    "name": "azure_repository",
+    "version": "6.2.3",
+    "created_at": "2018-11-07T16:18:35",
+    "updated_at": "2021-05-25T14:22:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:azure_repository:6.2.3:*:*:*:*:azure:*:*",
+    "to_analyse": false
+}

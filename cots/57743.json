@@ -1,0 +1,10 @@
+{
+    "id": 57743,
+    "name": "servicedesk_online",
+    "version": "11.0",
+    "created_at": "2012-05-08T11:52:19",
+    "updated_at": "2012-05-08T11:52:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:consona:servicedesk_online:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 15225,
+    "name": "jet",
+    "version": "3.51",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-15T20:39:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:jet:3.51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

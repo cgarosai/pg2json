@@ -1,0 +1,10 @@
+{
+    "id": 604062,
+    "name": "pdns",
+    "version": "4.1.2",
+    "created_at": "2020-10-20T14:05:12",
+    "updated_at": "2020-10-20T14:05:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:powerdns:pdns:4.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 424501,
+    "name": "qs",
+    "version": "0.6.0",
+    "created_at": "2019-11-08T17:40:05",
+    "updated_at": "2019-11-08T17:40:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qs_project:qs:0.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

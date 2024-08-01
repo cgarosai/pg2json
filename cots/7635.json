@@ -1,0 +1,10 @@
+{
+    "id": 7635,
+    "name": "flex_sdk",
+    "version": "1.5",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2009-03-05T16:16:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:flex_sdk:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

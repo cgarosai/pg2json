@@ -1,0 +1,10 @@
+{
+    "id": 90608,
+    "name": "sonicwall_scrutinizer",
+    "version": "11.0",
+    "created_at": "2014-07-16T16:09:37",
+    "updated_at": "2018-03-12T14:28:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:sonicwall_scrutinizer:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

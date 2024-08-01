@@ -1,0 +1,10 @@
+{
+    "id": 622840,
+    "name": ".net_core",
+    "version": "3.0.0",
+    "created_at": "2020-12-08T16:59:00",
+    "updated_at": "2021-05-18T13:02:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:.net_core:3.0.0:preview8:*:*:*:*:*:*",
+    "to_analyse": false
+}

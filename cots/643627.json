@@ -1,0 +1,10 @@
+{
+    "id": 643627,
+    "name": "bluez",
+    "version": "4.29",
+    "created_at": "2021-01-29T11:58:13",
+    "updated_at": "2021-01-29T11:58:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluez:bluez:4.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

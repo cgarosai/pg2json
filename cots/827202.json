@@ -1,0 +1,10 @@
+{
+    "id": 827202,
+    "name": "single_post_exporter",
+    "version": "-",
+    "created_at": "2021-12-15T14:33:24",
+    "updated_at": "2022-01-04T14:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:single_post_exporter_project:single_post_exporter:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

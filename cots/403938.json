@@ -1,0 +1,10 @@
+{
+    "id": 403938,
+    "name": "nuxeo",
+    "version": "10.1",
+    "created_at": "2019-10-17T16:22:02",
+    "updated_at": "2019-10-17T16:22:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nuxeo:nuxeo:10.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

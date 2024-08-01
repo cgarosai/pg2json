@@ -1,0 +1,10 @@
+{
+    "id": 535835,
+    "name": "big-ip_advanced_firewall_manager",
+    "version": "14.1.0.5.0.15.5",
+    "created_at": "2020-04-14T12:55:28",
+    "updated_at": "2020-04-14T12:55:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_advanced_firewall_manager:14.1.0.5.0.15.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

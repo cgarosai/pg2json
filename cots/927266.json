@@ -1,0 +1,10 @@
+{
+    "id": 927266,
+    "name": "cloud_agent_for_linux",
+    "version": "2.5.548.2",
+    "created_at": "2022-08-18T16:27:27",
+    "updated_at": "2022-11-04T21:50:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qualys:cloud_agent_for_linux:2.5.548.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

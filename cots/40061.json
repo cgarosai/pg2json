@@ -1,0 +1,10 @@
+{
+    "id": 40061,
+    "name": "freeipa",
+    "version": "2.0.0",
+    "created_at": "2011-12-08T21:06:03",
+    "updated_at": "2013-02-04T19:57:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:freeipa:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

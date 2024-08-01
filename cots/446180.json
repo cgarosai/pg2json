@@ -1,0 +1,10 @@
+{
+    "id": 446180,
+    "name": "chrome",
+    "version": "76.0.3809.92",
+    "created_at": "2019-11-25T16:26:29",
+    "updated_at": "2019-11-25T16:26:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:chrome:76.0.3809.92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

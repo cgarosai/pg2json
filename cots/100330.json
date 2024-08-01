@@ -1,0 +1,10 @@
+{
+    "id": 100330,
+    "name": "hotel_site",
+    "version": "3.4.4",
+    "created_at": "2015-06-23T11:24:24",
+    "updated_at": "2015-07-08T16:39:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apphp:hotel_site:3.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

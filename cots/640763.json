@@ -1,0 +1,10 @@
+{
+    "id": 640763,
+    "name": "praesensa_firmware",
+    "version": "-",
+    "created_at": "2021-01-21T21:18:29",
+    "updated_at": "2021-01-21T21:18:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:praesensa_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 604791,
+    "name": "mongoose",
+    "version": "6.17",
+    "created_at": "2020-10-27T13:48:02",
+    "updated_at": "2020-10-27T13:48:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cesanta:mongoose:6.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

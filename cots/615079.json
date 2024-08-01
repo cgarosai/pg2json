@@ -1,0 +1,10 @@
+{
+    "id": 615079,
+    "name": "cups",
+    "version": "1.1.8",
+    "created_at": "2020-10-27T20:23:24",
+    "updated_at": "2020-10-27T20:23:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cups:cups:1.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

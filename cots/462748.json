@@ -1,0 +1,10 @@
+{
+    "id": 462748,
+    "name": "redgate_sql_change_automation",
+    "version": "1.0.11",
+    "created_at": "2020-01-06T12:36:45",
+    "updated_at": "2020-01-06T12:36:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:redgate_sql_change_automation:1.0.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

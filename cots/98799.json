@@ -1,0 +1,10 @@
+{
+    "id": 98799,
+    "name": "security_identity_manager",
+    "version": "6.0.0.2",
+    "created_at": "2014-06-09T14:47:30",
+    "updated_at": "2014-06-19T22:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_identity_manager:6.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

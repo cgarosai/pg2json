@@ -1,0 +1,10 @@
+{
+    "id": 128329,
+    "name": "aescrypt",
+    "version": "1.0.0",
+    "created_at": "2017-04-27T23:05:34",
+    "updated_at": "2021-02-25T14:22:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aescrypt_project:aescrypt:1.0.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 655811,
+    "name": "sf500-24_firmware",
+    "version": "1.4.11.4",
+    "created_at": "2021-02-03T13:13:22",
+    "updated_at": "2021-04-23T15:18:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sf500-24_firmware:1.4.11.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

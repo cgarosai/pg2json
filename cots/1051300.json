@@ -1,0 +1,10 @@
+{
+    "id": 1051300,
+    "name": "serde_v8",
+    "version": "0.87.0",
+    "created_at": "2023-03-29T12:13:09",
+    "updated_at": "2023-07-14T14:16:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deno:serde_v8:0.87.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

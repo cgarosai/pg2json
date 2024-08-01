@@ -1,0 +1,10 @@
+{
+    "id": 137409,
+    "name": "wet200_firmware",
+    "version": "2.0.8.0",
+    "created_at": "2017-10-26T12:35:19",
+    "updated_at": "2021-04-27T12:49:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:wet200_firmware:2.0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

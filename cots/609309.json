@@ -1,0 +1,10 @@
+{
+    "id": 609309,
+    "name": "liquibase_runner",
+    "version": "1.4.0",
+    "created_at": "2020-10-06T14:52:26",
+    "updated_at": "2020-10-06T14:52:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:liquibase_runner:1.4.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 496670,
+    "name": "login_security",
+    "version": "6.x-1.x",
+    "created_at": "2020-02-13T12:18:01",
+    "updated_at": "2020-02-13T12:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:login_security_project:login_security:6.x-1.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

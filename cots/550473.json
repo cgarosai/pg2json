@@ -1,0 +1,10 @@
+{
+    "id": 550473,
+    "name": "word",
+    "version": "-",
+    "created_at": "2020-06-12T16:38:05",
+    "updated_at": "2020-06-12T16:38:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

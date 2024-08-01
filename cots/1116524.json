@@ -1,0 +1,10 @@
+{
+    "id": 1116524,
+    "name": "libx11",
+    "version": "1.8",
+    "created_at": "2023-07-07T08:42:01",
+    "updated_at": "2023-07-07T10:42:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x.org:libx11:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

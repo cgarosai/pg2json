@@ -1,0 +1,10 @@
+{
+    "id": 675247,
+    "name": "velocity_tools",
+    "version": "1.1",
+    "created_at": "2021-03-10T13:36:49",
+    "updated_at": "2021-03-18T10:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:velocity_tools:1.1:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 609536,
+    "name": "simatic_s7-200_smart_cpu_cr40s_firmware",
+    "version": "2.3.0",
+    "created_at": "2020-10-06T15:49:30",
+    "updated_at": "2021-05-26T13:46:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-200_smart_cpu_cr40s_firmware:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 535505,
+    "name": "t656_firmware",
+    "version": "-",
+    "created_at": "2020-04-14T12:15:37",
+    "updated_at": "2020-04-14T12:15:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:t656_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

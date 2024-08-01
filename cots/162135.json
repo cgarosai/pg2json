@@ -1,0 +1,10 @@
+{
+    "id": 162135,
+    "name": "ovirt-ansible-roles",
+    "version": "1.1.0",
+    "created_at": "2018-08-10T12:15:04",
+    "updated_at": "2021-04-20T15:05:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovirt:ovirt-ansible-roles:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

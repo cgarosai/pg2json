@@ -1,0 +1,10 @@
+{
+    "id": 600353,
+    "name": "electrocardiogram_pen",
+    "version": "2.00.08",
+    "created_at": "2020-10-08T09:11:28",
+    "updated_at": "2020-10-08T09:11:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:drtrust:electrocardiogram_pen:2.00.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 267852,
+    "name": "big-ip_websafe",
+    "version": "13.0.0",
+    "created_at": "2019-06-14T16:51:13",
+    "updated_at": "2019-06-14T16:51:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_websafe:13.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

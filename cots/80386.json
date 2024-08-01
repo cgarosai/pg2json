@@ -1,0 +1,10 @@
+{
+    "id": 80386,
+    "name": "newsletter_manager",
+    "version": "1.2.4",
+    "created_at": "2014-01-17T17:33:49",
+    "updated_at": "2014-01-17T18:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xyzscripts:newsletter_manager:1.2.4:-:-:*:-:wordpress:*:*",
+    "to_analyse": false
+}

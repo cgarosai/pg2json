@@ -1,0 +1,10 @@
+{
+    "id": 550410,
+    "name": "p5-crypt-perl",
+    "version": "0.22",
+    "created_at": "2020-06-12T12:27:06",
+    "updated_at": "2020-06-12T12:27:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:p5-crypt-perl_project:p5-crypt-perl:0.22:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

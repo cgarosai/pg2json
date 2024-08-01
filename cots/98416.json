@@ -1,0 +1,10 @@
+{
+    "id": 98416,
+    "name": "nodeaccesskeys",
+    "version": "7.x-1.0",
+    "created_at": "2014-06-03T12:48:23",
+    "updated_at": "2014-06-03T16:15:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:danielkorte:nodeaccesskeys:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

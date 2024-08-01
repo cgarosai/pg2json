@@ -1,0 +1,10 @@
+{
+    "id": 10894,
+    "name": "conga",
+    "version": "0.10.0",
+    "created_at": "2007-11-14T16:38:26",
+    "updated_at": "2007-11-14T16:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:conga:0.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

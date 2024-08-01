@@ -1,0 +1,10 @@
+{
+    "id": 961111,
+    "name": "monitor",
+    "version": "8.3.3",
+    "created_at": "2022-11-15T17:30:55",
+    "updated_at": "2022-11-25T15:06:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:op5:monitor:8.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

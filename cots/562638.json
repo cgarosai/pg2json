@@ -1,0 +1,10 @@
+{
+    "id": 562638,
+    "name": "liberty",
+    "version": "3.15",
+    "created_at": "2020-07-16T14:08:25",
+    "updated_at": "2020-07-16T14:08:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:liberty:3.15:*:*:*:*:bluemix:*:*",
+    "to_analyse": false
+}

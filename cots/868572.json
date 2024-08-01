@@ -1,0 +1,10 @@
+{
+    "id": 868572,
+    "name": "libkiwix",
+    "version": "9.2",
+    "created_at": "2022-03-29T15:36:54",
+    "updated_at": "2022-03-29T15:38:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kiwix:libkiwix:9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

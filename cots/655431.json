@@ -1,0 +1,10 @@
+{
+    "id": 655431,
+    "name": "raw-cpuid",
+    "version": "9.0.0",
+    "created_at": "2021-02-02T16:42:01",
+    "updated_at": "2021-02-02T16:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:raw-cpuid_project:raw-cpuid:9.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

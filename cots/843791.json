@@ -1,0 +1,10 @@
+{
+    "id": 843791,
+    "name": "snow_commander",
+    "version": "1.4",
+    "created_at": "2022-02-18T13:09:45",
+    "updated_at": "2022-02-18T13:11:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:snow_commander:1.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

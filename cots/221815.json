@@ -1,0 +1,10 @@
+{
+    "id": 221815,
+    "name": "msvod",
+    "version": "10",
+    "created_at": "2019-04-23T12:51:01",
+    "updated_at": "2019-04-23T12:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:meisivod:msvod:10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

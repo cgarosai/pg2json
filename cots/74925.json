@@ -1,0 +1,10 @@
+{
+    "id": 74925,
+    "name": "javamelody",
+    "version": "1.41",
+    "created_at": "2013-10-01T13:46:04",
+    "updated_at": "2013-10-01T17:46:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emeric_vernat:javamelody:1.41:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

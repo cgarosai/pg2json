@@ -1,0 +1,10 @@
+{
+    "id": 800848,
+    "name": "protect",
+    "version": "-",
+    "created_at": "2021-11-15T14:03:22",
+    "updated_at": "2021-11-15T16:12:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackberry:protect:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

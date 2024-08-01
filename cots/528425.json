@@ -1,0 +1,10 @@
+{
+    "id": 528425,
+    "name": "pcp",
+    "version": "4.3.1",
+    "created_at": "2020-04-02T13:48:38",
+    "updated_at": "2020-04-02T13:48:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:pcp:4.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

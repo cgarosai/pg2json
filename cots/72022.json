@@ -1,0 +1,10 @@
+{
+    "id": 72022,
+    "name": "lift",
+    "version": "2.5",
+    "created_at": "2013-07-29T12:16:22",
+    "updated_at": "2013-07-31T23:27:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liftweb:lift:2.5:m4:*:*:*:*:*:*",
+    "to_analyse": false
+}

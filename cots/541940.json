@@ -1,0 +1,10 @@
+{
+    "id": 541940,
+    "name": "syslog-ng",
+    "version": "3.4.2",
+    "created_at": "2020-05-19T14:43:26",
+    "updated_at": "2020-05-19T14:43:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oneidentity:syslog-ng:3.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

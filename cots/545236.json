@@ -1,0 +1,10 @@
+{
+    "id": 545236,
+    "name": "wordpress_download_manager",
+    "version": "2.9.75",
+    "created_at": "2020-05-05T10:20:52",
+    "updated_at": "2020-05-05T10:20:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.9.75:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

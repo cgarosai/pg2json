@@ -1,0 +1,10 @@
+{
+    "id": 425728,
+    "name": "maxthon_browser",
+    "version": "5.0.19.87",
+    "created_at": "2019-11-01T12:03:37",
+    "updated_at": "2020-05-04T12:13:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:maxthon:maxthon_browser:5.0.19.87:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

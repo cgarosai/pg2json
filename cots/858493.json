@@ -1,0 +1,10 @@
+{
+    "id": 858493,
+    "name": "ubuntu_linux",
+    "version": "16.04",
+    "created_at": "2022-03-08T14:16:42",
+    "updated_at": "2022-09-19T11:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:canonical:ubuntu_linux:16.04:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

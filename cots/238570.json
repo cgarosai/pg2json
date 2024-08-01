@@ -1,0 +1,10 @@
+{
+    "id": 238570,
+    "name": "dependency_graph_viewer",
+    "version": "0.13",
+    "created_at": "2019-05-07T11:51:06",
+    "updated_at": "2019-05-07T11:51:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:dependency_graph_viewer:0.13:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 115433,
+    "name": "opus_10g_ethernet_switch_family",
+    "version": "1.2.2.15",
+    "created_at": "2016-02-17T16:55:50",
+    "updated_at": "2016-02-17T16:55:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:opus_10g_ethernet_switch_family:1.2.2.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

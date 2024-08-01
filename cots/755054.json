@@ -1,0 +1,10 @@
+{
+    "id": 755054,
+    "name": "infosphere_change_data_capture",
+    "version": "11.4",
+    "created_at": "2021-07-29T15:46:59",
+    "updated_at": "2022-04-06T18:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_change_data_capture:11.4:*:*:*:*:z\\/os:*:*",
+    "to_analyse": false
+}

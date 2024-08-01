@@ -1,0 +1,10 @@
+{
+    "id": 1200044,
+    "name": "dynamics_365",
+    "version": "9.0.51.06",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:dynamics_365:9.0.51.06:*:*:*:on-premises:*:*:*",
+    "to_analyse": false
+}

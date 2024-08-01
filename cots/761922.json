@@ -1,0 +1,10 @@
+{
+    "id": 761922,
+    "name": "alauda_devops_pipeline",
+    "version": "2.6.0",
+    "created_at": "2021-08-26T15:53:59",
+    "updated_at": "2021-08-26T15:56:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:alauda_devops_pipeline:2.6.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

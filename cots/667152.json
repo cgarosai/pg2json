@@ -1,0 +1,10 @@
+{
+    "id": 667152,
+    "name": "pmc7180_firmware",
+    "version": "-",
+    "created_at": "2021-02-24T17:59:17",
+    "updated_at": "2021-03-09T22:00:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:pmc7180_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

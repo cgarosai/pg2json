@@ -1,0 +1,10 @@
+{
+    "id": 8609,
+    "name": "connectra_ngx",
+    "version": "r60",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:09:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:connectra_ngx:r60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

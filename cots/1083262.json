@@ -1,0 +1,10 @@
+{
+    "id": 1083262,
+    "name": "siteserver_cms",
+    "version": "6.4.13",
+    "created_at": "2023-05-31T11:43:53",
+    "updated_at": "2023-05-31T12:42:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sscms:siteserver_cms:6.4.13:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

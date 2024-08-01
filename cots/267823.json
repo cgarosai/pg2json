@@ -1,0 +1,10 @@
+{
+    "id": 267823,
+    "name": "enterprise_linux",
+    "version": "8.0",
+    "created_at": "2019-06-14T16:03:03",
+    "updated_at": "2019-06-14T16:03:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

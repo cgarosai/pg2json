@@ -1,0 +1,10 @@
+{
+    "id": 497846,
+    "name": "pan-os",
+    "version": "9.0.6",
+    "created_at": "2020-02-19T13:38:19",
+    "updated_at": "2020-02-19T13:38:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

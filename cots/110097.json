@@ -1,0 +1,10 @@
+{
+    "id": 110097,
+    "name": "information_server_framework",
+    "version": "11.5",
+    "created_at": "2016-08-11T13:22:26",
+    "updated_at": "2021-06-07T14:05:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:information_server_framework:11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

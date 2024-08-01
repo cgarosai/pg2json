@@ -1,0 +1,10 @@
+{
+    "id": 675272,
+    "name": "advisor",
+    "version": "2018",
+    "created_at": "2021-03-10T14:03:50",
+    "updated_at": "2021-03-29T10:10:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:advisor:2018:update4:*:*:*:*:*:*",
+    "to_analyse": false
+}

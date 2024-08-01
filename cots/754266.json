@@ -1,0 +1,10 @@
+{
+    "id": 754266,
+    "name": "network_services_orchestrator",
+    "version": "5.2.4",
+    "created_at": "2021-08-12T13:18:52",
+    "updated_at": "2021-08-12T13:35:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:network_services_orchestrator:5.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 695057,
+    "name": "secure_passwords_hashes",
+    "version": "6.x-1.0",
+    "created_at": "2021-04-15T14:05:54",
+    "updated_at": "2021-05-03T11:50:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:secure_password_hashes_project:secure_passwords_hashes:6.x-1.0:beta1:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

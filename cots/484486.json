@@ -1,0 +1,10 @@
+{
+    "id": 484486,
+    "name": "lustre",
+    "version": "2.10.7",
+    "created_at": "2020-02-10T15:18:57",
+    "updated_at": "2020-02-10T15:18:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lustre:lustre:2.10.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

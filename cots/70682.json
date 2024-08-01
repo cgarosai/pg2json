@@ -1,0 +1,10 @@
+{
+    "id": 70682,
+    "name": "forticlient_ssl_vpn",
+    "version": "4.0.2012",
+    "created_at": "2013-06-26T16:56:19",
+    "updated_at": "2015-11-27T16:14:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:forticlient_ssl_vpn:4.0.2012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

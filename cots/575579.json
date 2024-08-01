@@ -1,0 +1,10 @@
+{
+    "id": 575579,
+    "name": "tru64_unix",
+    "version": "5.1b",
+    "created_at": "2020-07-27T11:37:03",
+    "updated_at": "2020-07-27T11:37:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:tru64_unix:5.1b:patch_kit2:*:*:*:*:*:*",
+    "to_analyse": false
+}

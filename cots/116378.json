@@ -1,0 +1,10 @@
+{
+    "id": 116378,
+    "name": "profile2_privacy",
+    "version": "7.x-1.0",
+    "created_at": "2016-03-17T15:28:02",
+    "updated_at": "2016-03-17T15:28:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:profile2_privacy_project:profile2_privacy:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

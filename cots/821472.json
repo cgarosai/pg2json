@@ -1,0 +1,10 @@
+{
+    "id": 821472,
+    "name": "cve-search",
+    "version": "2.0",
+    "created_at": "2021-12-29T14:00:12",
+    "updated_at": "2021-12-29T14:54:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:circl:cve-search:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

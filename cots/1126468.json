@@ -1,0 +1,10 @@
+{
+    "id": 1126468,
+    "name": "wp_social_autoconnect",
+    "version": "2.3.7",
+    "created_at": "2023-07-24T17:42:35",
+    "updated_at": "2023-07-24T18:07:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_social_autoconnect_project:wp_social_autoconnect:2.3.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

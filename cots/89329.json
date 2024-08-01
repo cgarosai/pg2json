@@ -1,0 +1,10 @@
+{
+    "id": 89329,
+    "name": "security_access_manager_for_enterprise_single_sign-on",
+    "version": "8.2",
+    "created_at": "2013-12-24T12:11:05",
+    "updated_at": "2013-12-24T12:12:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_access_manager_for_enterprise_single_sign-on:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

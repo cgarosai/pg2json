@@ -1,0 +1,10 @@
+{
+    "id": 279911,
+    "name": "registration_codes",
+    "version": "6.x-2.x",
+    "created_at": "2019-06-26T10:03:19",
+    "updated_at": "2019-06-26T10:03:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:registration_codes_project:registration_codes:6.x-2.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 886824,
+    "name": "epyc_7261_firmware",
+    "version": "naplespi-sp3_1.0.0.h",
+    "created_at": "2022-05-18T15:29:32",
+    "updated_at": "2022-05-18T15:43:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7261_firmware:naplespi-sp3_1.0.0.h:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 735923,
+    "name": "mvision_edr",
+    "version": "3.2.0",
+    "created_at": "2021-06-30T18:31:36",
+    "updated_at": "2021-06-30T18:33:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:mvision_edr:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

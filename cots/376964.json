@@ -1,0 +1,10 @@
+{
+    "id": 376964,
+    "name": "remctl",
+    "version": "2.6",
+    "created_at": "2019-09-18T16:30:13",
+    "updated_at": "2019-09-18T16:30:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eyrie:remctl:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

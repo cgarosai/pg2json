@@ -1,0 +1,10 @@
+{
+    "id": 514784,
+    "name": "system_x3750_m4_firmware",
+    "version": "koe160c",
+    "created_at": "2020-03-31T16:16:08",
+    "updated_at": "2020-03-31T16:16:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:system_x3750_m4_firmware:koe160c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

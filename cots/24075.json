@@ -1,0 +1,10 @@
+{
+    "id": 24075,
+    "name": "rpm",
+    "version": "3.0.2",
+    "created_at": "2010-06-09T14:48:43",
+    "updated_at": "2012-06-29T12:44:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rpm:rpm:3.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

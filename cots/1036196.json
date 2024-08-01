@@ -1,0 +1,10 @@
+{
+    "id": 1036196,
+    "name": "go-unixfs",
+    "version": "1.2.6",
+    "created_at": "2023-02-17T14:01:48",
+    "updated_at": "2023-02-21T19:59:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protocol:go-unixfs:1.2.6:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 956798,
+    "name": "gpgme",
+    "version": "0.1.0",
+    "created_at": "2022-10-18T15:55:20",
+    "updated_at": "2022-10-19T12:59:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpgme_project:gpgme:0.1.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

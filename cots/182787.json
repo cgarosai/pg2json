@@ -1,0 +1,10 @@
+{
+    "id": 182787,
+    "name": "lync_for_mac",
+    "version": "2011",
+    "created_at": "2018-11-20T20:04:03",
+    "updated_at": "2018-11-20T20:04:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:lync_for_mac:2011:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

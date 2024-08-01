@@ -1,0 +1,10 @@
+{
+    "id": 727879,
+    "name": "nomachine",
+    "version": "6.5.6",
+    "created_at": "2021-06-11T15:55:59",
+    "updated_at": "2021-06-11T17:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nomachine:nomachine:6.5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

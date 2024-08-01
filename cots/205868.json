@@ -1,0 +1,10 @@
+{
+    "id": 205868,
+    "name": "hipchat_data_center",
+    "version": "3.1.7",
+    "created_at": "2019-02-04T15:04:32",
+    "updated_at": "2021-03-03T17:08:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:hipchat_data_center:3.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

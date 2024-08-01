@@ -1,0 +1,10 @@
+{
+    "id": 112568,
+    "name": "cvms2025-ir_firmware",
+    "version": "-",
+    "created_at": "2016-11-23T15:15:05",
+    "updated_at": "2016-11-23T15:15:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cvms2025-ir_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

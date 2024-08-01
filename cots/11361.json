@@ -1,0 +1,10 @@
+{
+    "id": 11361,
+    "name": "sockscap",
+    "version": "-",
+    "created_at": "2008-01-23T13:56:03",
+    "updated_at": "2012-05-10T13:20:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nec:sockscap:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

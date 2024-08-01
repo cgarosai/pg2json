@@ -1,0 +1,10 @@
+{
+    "id": 677324,
+    "name": "courier-authlib",
+    "version": "0.71.1-2",
+    "created_at": "2021-03-16T12:31:14",
+    "updated_at": "2021-05-12T15:45:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:courier-authlib:0.71.1-2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

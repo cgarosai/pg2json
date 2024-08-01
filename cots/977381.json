@@ -1,0 +1,10 @@
+{
+    "id": 977381,
+    "name": "xebialabs_xl_deploy",
+    "version": "7.5.5",
+    "created_at": "2022-11-23T17:31:02",
+    "updated_at": "2022-11-23T17:31:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:xebialabs_xl_deploy:7.5.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

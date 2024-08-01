@@ -1,0 +1,10 @@
+{
+    "id": 1095173,
+    "name": "bwm-ng",
+    "version": "-",
+    "created_at": "2023-06-02T12:18:37",
+    "updated_at": "2023-06-15T15:58:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bwm-ng_project:bwm-ng:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

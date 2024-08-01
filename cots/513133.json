@@ -1,0 +1,10 @@
+{
+    "id": 513133,
+    "name": "fastly",
+    "version": "1.2.25",
+    "created_at": "2020-03-30T15:58:05",
+    "updated_at": "2020-03-30T15:58:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastly:fastly:1.2.25:*:*:*:*:magento2:*:*",
+    "to_analyse": false
+}

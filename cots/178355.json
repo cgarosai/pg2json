@@ -1,0 +1,10 @@
+{
+    "id": 178355,
+    "name": "cp300_firmware",
+    "version": "-",
+    "created_at": "2018-10-01T13:58:47",
+    "updated_at": "2021-05-25T10:19:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cp300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

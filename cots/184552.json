@@ -1,0 +1,10 @@
+{
+    "id": 184552,
+    "name": "330_firmware",
+    "version": "nexus_01_12_00.10",
+    "created_at": "2018-11-26T14:39:08",
+    "updated_at": "2018-11-26T14:39:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:330_firmware:nexus_01_12_00.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

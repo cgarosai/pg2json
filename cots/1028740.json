@@ -1,0 +1,10 @@
+{
+    "id": 1028740,
+    "name": "open5gs",
+    "version": "2.4.13",
+    "created_at": "2023-02-07T17:47:15",
+    "updated_at": "2023-07-13T16:32:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open5gs:open5gs:2.4.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

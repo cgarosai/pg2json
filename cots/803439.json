@@ -1,0 +1,10 @@
+{
+    "id": 803439,
+    "name": "scada_automation",
+    "version": "1.0.0",
+    "created_at": "2021-11-17T16:42:56",
+    "updated_at": "2022-09-19T11:12:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipack:scada_automation:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

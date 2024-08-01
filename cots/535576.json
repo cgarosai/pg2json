@@ -1,0 +1,10 @@
+{
+    "id": 535576,
+    "name": "nvr510_firmware",
+    "version": "15.01.14",
+    "created_at": "2020-04-14T12:22:04",
+    "updated_at": "2020-04-14T12:22:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yamaha:nvr510_firmware:15.01.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

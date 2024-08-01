@@ -1,0 +1,10 @@
+{
+    "id": 18993,
+    "name": "wordpress",
+    "version": "1.2.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2011-06-30T13:00:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress:wordpress:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

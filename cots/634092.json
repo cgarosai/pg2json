@@ -1,0 +1,10 @@
+{
+    "id": 634092,
+    "name": "uclibc-ng",
+    "version": "1.0.33",
+    "created_at": "2021-01-05T19:05:59",
+    "updated_at": "2021-01-05T19:05:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

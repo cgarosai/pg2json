@@ -1,0 +1,10 @@
+{
+    "id": 657255,
+    "name": "managed_services_accelerator",
+    "version": "-",
+    "created_at": "2021-02-08T11:48:22",
+    "updated_at": "2021-02-08T11:48:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:managed_services_accelerator:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

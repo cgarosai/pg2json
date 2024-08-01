@@ -1,0 +1,10 @@
+{
+    "id": 1169652,
+    "name": "trustedbsd",
+    "version": "-",
+    "created_at": "2023-09-28T19:37:07",
+    "updated_at": "2023-09-28T19:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:trustedbsd:trustedbsd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

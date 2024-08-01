@@ -1,0 +1,10 @@
+{
+    "id": 739593,
+    "name": "wp-upload-restriction",
+    "version": "2.2.2",
+    "created_at": "2021-07-08T14:47:27",
+    "updated_at": "2021-07-08T16:26:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-upload-restriction_project:wp-upload-restriction:2.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

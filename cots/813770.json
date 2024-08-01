@@ -1,0 +1,10 @@
+{
+    "id": 813770,
+    "name": "modsecurity",
+    "version": "3.0.6",
+    "created_at": "2021-12-09T18:19:03",
+    "updated_at": "2021-12-13T13:14:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trustwave:modsecurity:3.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 562627,
+    "name": "em2400_firmware",
+    "version": "1.10",
+    "created_at": "2020-07-16T13:37:20",
+    "updated_at": "2020-07-16T13:37:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:baxter:em2400_firmware:1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

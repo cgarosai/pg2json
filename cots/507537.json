@@ -1,0 +1,10 @@
+{
+    "id": 507537,
+    "name": "smart_software_manager_on-prem",
+    "version": "7-202001",
+    "created_at": "2020-03-03T18:16:26",
+    "updated_at": "2020-03-03T18:16:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:smart_software_manager_on-prem:7-202001:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

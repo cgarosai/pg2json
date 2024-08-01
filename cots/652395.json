@@ -1,0 +1,10 @@
+{
+    "id": 652395,
+    "name": "csdj-d_firmware",
+    "version": "01.08.00",
+    "created_at": "2021-02-18T13:31:03",
+    "updated_at": "2021-05-27T12:40:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nec:csdj-d_firmware:01.08.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

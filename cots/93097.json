@@ -1,0 +1,10 @@
+{
+    "id": 93097,
+    "name": "claws-mail",
+    "version": "3.9.3",
+    "created_at": "2014-10-23T09:53:24",
+    "updated_at": "2014-12-23T19:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:claws-mail:claws-mail:3.9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

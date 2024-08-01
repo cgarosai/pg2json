@@ -1,0 +1,10 @@
+{
+    "id": 1162224,
+    "name": "conemu",
+    "version": "15.04.19",
+    "created_at": "2023-10-03T13:18:33",
+    "updated_at": "2023-10-03T13:18:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:maximus5:conemu:15.04.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

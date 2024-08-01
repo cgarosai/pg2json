@@ -1,0 +1,10 @@
+{
+    "id": 270017,
+    "name": "perfecto",
+    "version": "7.x-1.x",
+    "created_at": "2019-06-26T10:29:04",
+    "updated_at": "2019-06-26T10:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perfecto_project:perfecto:7.x-1.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

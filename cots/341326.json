@@ -1,0 +1,10 @@
+{
+    "id": 341326,
+    "name": "installbuilder",
+    "version": "5.2.0",
+    "created_at": "2019-08-30T11:17:01",
+    "updated_at": "2019-08-30T11:17:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitrock:installbuilder:5.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

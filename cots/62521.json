@@ -1,0 +1,10 @@
+{
+    "id": 62521,
+    "name": "radsecproxy",
+    "version": "1.5",
+    "created_at": "2012-11-20T14:47:55",
+    "updated_at": "2012-11-26T15:38:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uninett:radsecproxy:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

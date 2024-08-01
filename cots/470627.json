@@ -1,0 +1,10 @@
+{
+    "id": 470627,
+    "name": "process_integration",
+    "version": "7.50",
+    "created_at": "2020-01-16T16:48:21",
+    "updated_at": "2020-01-16T16:48:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:process_integration:7.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

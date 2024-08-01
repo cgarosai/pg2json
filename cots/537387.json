@@ -1,0 +1,10 @@
+{
+    "id": 537387,
+    "name": "coherence",
+    "version": "12.2.1.4.0",
+    "created_at": "2020-04-16T15:59:32",
+    "updated_at": "2020-04-16T15:59:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:coherence:12.2.1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

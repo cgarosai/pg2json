@@ -1,0 +1,10 @@
+{
+    "id": 30449,
+    "name": "adaptive_security_appliance_device_manager",
+    "version": "5.0.2",
+    "created_at": "2010-12-28T16:28:16",
+    "updated_at": "2010-12-28T16:28:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:5.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

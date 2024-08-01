@@ -1,0 +1,10 @@
+{
+    "id": 613815,
+    "name": "backup",
+    "version": "1.7.1h",
+    "created_at": "2020-11-19T16:35:52",
+    "updated_at": "2021-12-06T14:03:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unitrends:backup:1.7.1h:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

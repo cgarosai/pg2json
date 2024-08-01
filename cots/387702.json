@@ -1,0 +1,10 @@
+{
+    "id": 387702,
+    "name": "jwt-simple",
+    "version": "0.5.6",
+    "created_at": "2019-09-24T13:43:19",
+    "updated_at": "2019-09-24T13:43:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jwt-simple_project:jwt-simple:0.5.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

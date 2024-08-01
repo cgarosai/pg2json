@@ -1,0 +1,10 @@
+{
+    "id": 135018,
+    "name": "maxpro_nvr_xe_firmware",
+    "version": "-",
+    "created_at": "2017-09-18T12:12:00",
+    "updated_at": "2021-04-19T13:28:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:honeywell:maxpro_nvr_xe_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

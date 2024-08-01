@@ -1,0 +1,10 @@
+{
+    "id": 470381,
+    "name": "sinamics_s110_firmware",
+    "version": "-",
+    "created_at": "2020-01-16T12:44:05",
+    "updated_at": "2020-01-16T12:44:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_s110_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 647489,
+    "name": "socket2",
+    "version": "-",
+    "created_at": "2021-01-11T17:45:57",
+    "updated_at": "2021-01-11T17:45:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:socket2:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

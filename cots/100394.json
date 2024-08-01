@@ -1,0 +1,10 @@
+{
+    "id": 100394,
+    "name": "juno",
+    "version": "2014.2",
+    "created_at": "2015-06-26T11:06:47",
+    "updated_at": "2015-06-29T16:20:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:juno:2014.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

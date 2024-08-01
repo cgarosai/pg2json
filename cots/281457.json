@@ -1,0 +1,10 @@
+{
+    "id": 281457,
+    "name": "yoast_seo",
+    "version": "5.7",
+    "created_at": "2019-07-10T15:59:53",
+    "updated_at": "2019-07-10T15:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yoast:yoast_seo:5.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

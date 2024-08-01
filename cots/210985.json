@@ -1,0 +1,10 @@
+{
+    "id": 210985,
+    "name": "retail_customer_insights",
+    "version": "16.0",
+    "created_at": "2019-03-20T16:50:17",
+    "updated_at": "2021-05-04T15:37:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_customer_insights:16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

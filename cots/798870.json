@@ -1,0 +1,10 @@
+{
+    "id": 798870,
+    "name": "wechat_reward",
+    "version": "-",
+    "created_at": "2021-10-19T17:39:33",
+    "updated_at": "2021-10-26T13:31:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wechat_reward_project:wechat_reward:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

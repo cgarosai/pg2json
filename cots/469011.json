@@ -1,0 +1,10 @@
+{
+    "id": 469011,
+    "name": "team_concert",
+    "version": "1.1.2",
+    "created_at": "2019-12-20T18:16:17",
+    "updated_at": "2019-12-20T18:16:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:team_concert:1.1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51367,
+    "name": "virtualrescan",
+    "version": "4.0.71",
+    "created_at": "2012-06-21T17:07:36",
+    "updated_at": "2012-06-21T17:07:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kofax:virtualrescan:4.0.71:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

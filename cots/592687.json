@@ -1,0 +1,10 @@
+{
+    "id": 592687,
+    "name": "idrac6_monolithic",
+    "version": "2.91",
+    "created_at": "2020-09-22T19:53:21",
+    "updated_at": "2020-09-22T19:53:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:idrac6_monolithic:2.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 720858,
+    "name": "poweredge_r7415_firmware",
+    "version": "-",
+    "created_at": "2021-06-22T10:52:21",
+    "updated_at": "2021-06-22T12:34:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:poweredge_r7415_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

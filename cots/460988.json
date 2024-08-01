@@ -1,0 +1,10 @@
+{
+    "id": 460988,
+    "name": "core_i3-6300_firmware",
+    "version": "-",
+    "created_at": "2019-12-30T17:17:26",
+    "updated_at": "2021-07-08T16:10:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i3-6300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

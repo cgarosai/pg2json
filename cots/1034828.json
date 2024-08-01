@@ -1,0 +1,10 @@
+{
+    "id": 1034828,
+    "name": "litedb",
+    "version": "5.0.7",
+    "created_at": "2023-03-06T15:54:32",
+    "updated_at": "2023-03-06T16:18:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:litedb:litedb:5.0.7:*:*:*:*:.net:*:*",
+    "to_analyse": false
+}

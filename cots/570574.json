@@ -1,0 +1,10 @@
+{
+    "id": 570574,
+    "name": "rack-mini-profiler",
+    "version": "2.0.3",
+    "created_at": "2020-08-05T13:42:41",
+    "updated_at": "2020-08-05T13:42:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniprofiler:rack-mini-profiler:2.0.3:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

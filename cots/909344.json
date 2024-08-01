@@ -1,0 +1,10 @@
+{
+    "id": 909344,
+    "name": "aironet_ap803_firmware",
+    "version": "-",
+    "created_at": "2022-07-12T13:46:01",
+    "updated_at": "2022-07-29T21:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_ap803_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 471586,
+    "name": "adaptive_security_appliance_software",
+    "version": "8.4\\(7.15\\)",
+    "created_at": "2020-01-21T16:21:54",
+    "updated_at": "2023-08-15T12:28:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:adaptive_security_appliance_software:8.4\\(7.15\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

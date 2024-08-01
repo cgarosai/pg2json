@@ -1,0 +1,10 @@
+{
+    "id": 630418,
+    "name": "armv8-m_firmware",
+    "version": "-",
+    "created_at": "2020-12-22T14:00:04",
+    "updated_at": "2020-12-22T14:00:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arm:armv8-m_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

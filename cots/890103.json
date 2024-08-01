@@ -1,0 +1,10 @@
+{
+    "id": 890103,
+    "name": "discourse_calendar",
+    "version": "1.0.1",
+    "created_at": "2022-06-17T13:40:26",
+    "updated_at": "2022-06-17T14:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:discourse:discourse_calendar:1.0.1:*:*:*:*:discourse:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 84481,
+    "name": "elfutils",
+    "version": "0.127",
+    "created_at": "2014-04-14T13:06:59",
+    "updated_at": "2014-04-17T18:24:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elfutils_project:elfutils:0.127:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

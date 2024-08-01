@@ -1,0 +1,10 @@
+{
+    "id": 986282,
+    "name": "node-fetch",
+    "version": "1.0.3",
+    "created_at": "2022-12-06T18:11:43",
+    "updated_at": "2022-12-06T18:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-fetch_project:node-fetch:1.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

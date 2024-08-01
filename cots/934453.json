@@ -1,0 +1,10 @@
+{
+    "id": 934453,
+    "name": "profanity",
+    "version": "1.31",
+    "created_at": "2022-09-19T11:55:59",
+    "updated_at": "2022-09-19T17:22:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:profanity_project:profanity:1.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

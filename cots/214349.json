@@ -1,0 +1,10 @@
+{
+    "id": 214349,
+    "name": "bash",
+    "version": "4.3.30",
+    "created_at": "2019-04-02T12:48:38",
+    "updated_at": "2019-04-02T12:48:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:bash:4.3.30:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

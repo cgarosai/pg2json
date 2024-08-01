@@ -1,0 +1,10 @@
+{
+    "id": 20713,
+    "name": "identity_protection",
+    "version": "-",
+    "created_at": "2010-01-07T15:09:27",
+    "updated_at": "2010-01-07T15:09:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avg:identity_protection:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 392935,
+    "name": "nexus_5596t_firmware",
+    "version": "-",
+    "created_at": "2019-10-03T14:40:35",
+    "updated_at": "2021-04-21T17:35:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nexus_5596t_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

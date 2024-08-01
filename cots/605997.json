@@ -1,0 +1,10 @@
+{
+    "id": 605997,
+    "name": "sdl",
+    "version": "1.2.15",
+    "created_at": "2020-10-01T11:06:00",
+    "updated_at": "2021-02-08T17:56:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libsdl:sdl:1.2.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

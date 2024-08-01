@@ -1,0 +1,10 @@
+{
+    "id": 1004548,
+    "name": "exec-local-bin",
+    "version": "1.0.2",
+    "created_at": "2023-01-11T13:19:56",
+    "updated_at": "2023-01-11T15:17:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exec-local-bin_project:exec-local-bin:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 812878,
+    "name": "identity",
+    "version": "20.3.197",
+    "created_at": "2021-12-07T14:41:12",
+    "updated_at": "2021-12-07T15:26:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyberark:identity:20.3.197:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

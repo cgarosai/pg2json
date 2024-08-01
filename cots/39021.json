@@ -1,0 +1,10 @@
+{
+    "id": 39021,
+    "name": "forefront_unified_access_gateway",
+    "version": "2010",
+    "created_at": "2010-11-10T17:19:20",
+    "updated_at": "2010-11-19T17:28:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:forefront_unified_access_gateway:2010:update2:*:*:*:*:*:*",
+    "to_analyse": false
+}

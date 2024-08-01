@@ -1,0 +1,10 @@
+{
+    "id": 437917,
+    "name": "cognos_tm1",
+    "version": "10.2",
+    "created_at": "2019-11-14T17:58:01",
+    "updated_at": "2019-11-14T17:58:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_tm1:10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

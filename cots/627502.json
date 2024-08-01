@@ -1,0 +1,10 @@
+{
+    "id": 627502,
+    "name": "model_x",
+    "version": "-",
+    "created_at": "2020-12-02T14:24:57",
+    "updated_at": "2021-08-17T15:09:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:tesla:model_x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

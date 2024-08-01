@@ -1,0 +1,10 @@
+{
+    "id": 1205307,
+    "name": "all_flash_fabric-attached_storage_a800",
+    "version": "-",
+    "created_at": "2023-11-26T23:01:14",
+    "updated_at": "2023-11-26T23:01:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:netapp:all_flash_fabric-attached_storage_a800:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

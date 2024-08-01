@@ -1,0 +1,10 @@
+{
+    "id": 551110,
+    "name": "simatic_process_device_manager",
+    "version": "-",
+    "created_at": "2020-06-16T15:21:15",
+    "updated_at": "2020-06-16T15:21:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_process_device_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

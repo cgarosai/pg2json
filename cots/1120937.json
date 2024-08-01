@@ -1,0 +1,10 @@
+{
+    "id": 1120937,
+    "name": "custom_field_for_wp_job_manager",
+    "version": "1.2",
+    "created_at": "2023-07-31T10:26:26",
+    "updated_at": "2023-08-03T00:18:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_field_for_wp_job_manager_project:custom_field_for_wp_job_manager:1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 228202,
+    "name": "netweaver_process_integration",
+    "version": "7.40",
+    "created_at": "2019-04-12T16:18:32",
+    "updated_at": "2019-04-12T16:18:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_process_integration:7.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

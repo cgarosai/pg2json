@@ -1,0 +1,10 @@
+{
+    "id": 969222,
+    "name": "octocat",
+    "version": "0.2.2",
+    "created_at": "2022-11-09T16:00:51",
+    "updated_at": "2022-11-09T16:50:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octocat_project:octocat:0.2.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

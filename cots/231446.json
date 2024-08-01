@@ -1,0 +1,10 @@
+{
+    "id": 231446,
+    "name": "adaptive_server_enterprise",
+    "version": "15.7",
+    "created_at": "2019-05-09T16:06:09",
+    "updated_at": "2019-05-09T16:06:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:adaptive_server_enterprise:15.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

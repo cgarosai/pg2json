@@ -1,0 +1,10 @@
+{
+    "id": 1079236,
+    "name": "espv2",
+    "version": "2.16.0",
+    "created_at": "2023-05-05T11:23:20",
+    "updated_at": "2023-05-10T12:05:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:espv2:2.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

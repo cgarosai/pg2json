@@ -1,0 +1,10 @@
+{
+    "id": 980698,
+    "name": "ip_phone_7832_firmware",
+    "version": "12.0\\(1\\)",
+    "created_at": "2022-12-12T16:32:31",
+    "updated_at": "2022-12-12T17:24:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_7832_firmware:12.0\\(1\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

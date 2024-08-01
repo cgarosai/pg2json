@@ -1,0 +1,10 @@
+{
+    "id": 985731,
+    "name": "gateway_cpx-iot",
+    "version": "-",
+    "created_at": "2022-12-06T14:08:35",
+    "updated_at": "2022-12-06T14:36:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:festo:gateway_cpx-iot:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

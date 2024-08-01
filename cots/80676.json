@@ -1,0 +1,10 @@
+{
+    "id": 80676,
+    "name": "gaia_os",
+    "version": "r77.0",
+    "created_at": "2014-01-23T18:36:54",
+    "updated_at": "2014-01-23T18:40:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:checkpoint:gaia_os:r77.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

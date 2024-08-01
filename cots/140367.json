@@ -1,0 +1,10 @@
+{
+    "id": 140367,
+    "name": "usb_memory_stick_with_fingerprint_firmware",
+    "version": "-",
+    "created_at": "2018-04-19T12:45:46",
+    "updated_at": "2021-06-24T11:18:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:meco:usb_memory_stick_with_fingerprint_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

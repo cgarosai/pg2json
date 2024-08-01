@@ -1,0 +1,10 @@
+{
+    "id": 1156382,
+    "name": "redis",
+    "version": "7.0.12",
+    "created_at": "2023-09-12T15:30:38",
+    "updated_at": "2023-09-12T15:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redis:redis:7.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

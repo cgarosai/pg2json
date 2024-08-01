@@ -1,0 +1,10 @@
+{
+    "id": 90547,
+    "name": "netmri",
+    "version": "6.8.5",
+    "created_at": "2014-07-15T16:30:56",
+    "updated_at": "2014-07-16T19:25:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infoblox:netmri:6.8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

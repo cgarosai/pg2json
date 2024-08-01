@@ -1,0 +1,10 @@
+{
+    "id": 521264,
+    "name": "xampp",
+    "version": "7.4.4",
+    "created_at": "2020-04-07T13:27:07",
+    "updated_at": "2020-04-07T13:27:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apachefriends:xampp:7.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 745464,
+    "name": "gegl",
+    "version": "0.4.2",
+    "created_at": "2021-07-15T16:44:02",
+    "updated_at": "2021-08-03T11:11:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gegl:gegl:0.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 180224,
+    "name": "manjaro_linux",
+    "version": "18.0",
+    "created_at": "2018-11-08T13:02:02",
+    "updated_at": "2018-11-08T13:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:manjaro:manjaro_linux:18.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

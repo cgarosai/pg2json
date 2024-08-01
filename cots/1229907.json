@@ -1,0 +1,10 @@
+{
+    "id": 1229907,
+    "name": "suse_linux",
+    "version": "10",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:suse_linux:10:sp1:enterprise_server:*:*:*:*:*",
+    "to_analyse": false
+}

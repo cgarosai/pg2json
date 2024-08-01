@@ -1,0 +1,10 @@
+{
+    "id": 529431,
+    "name": "osquery",
+    "version": "2.4.5",
+    "created_at": "2020-04-03T13:20:32",
+    "updated_at": "2020-04-03T13:20:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:osquery:2.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 638995,
+    "name": "asr-9901-rp_firmware",
+    "version": "22.20",
+    "created_at": "2020-12-18T13:17:04",
+    "updated_at": "2020-12-18T13:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asr-9901-rp_firmware:22.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

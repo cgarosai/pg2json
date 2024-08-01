@@ -1,0 +1,10 @@
+{
+    "id": 65633,
+    "name": "workload_analyzer",
+    "version": "13.10.0.4",
+    "created_at": "2012-08-01T19:32:49",
+    "updated_at": "2012-08-01T19:32:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradata:workload_analyzer:13.10.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

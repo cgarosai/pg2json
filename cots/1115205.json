@@ -1,0 +1,10 @@
+{
+    "id": 1115205,
+    "name": "securitycenter",
+    "version": "-",
+    "created_at": "2023-07-05T15:16:12",
+    "updated_at": "2023-09-02T00:38:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tenable:securitycenter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

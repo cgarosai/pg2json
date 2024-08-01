@@ -1,0 +1,10 @@
+{
+    "id": 601276,
+    "name": "directory_server",
+    "version": "-",
+    "created_at": "2020-10-08T16:06:05",
+    "updated_at": "2021-08-17T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:directory_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

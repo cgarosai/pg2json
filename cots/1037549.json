@@ -1,0 +1,10 @@
+{
+    "id": 1037549,
+    "name": "tia_project-server",
+    "version": "1.0",
+    "created_at": "2023-02-21T16:48:21",
+    "updated_at": "2023-03-06T13:59:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:tia_project-server:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

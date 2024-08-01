@@ -1,0 +1,10 @@
+{
+    "id": 53389,
+    "name": "installer_logging",
+    "version": "3.0.1",
+    "created_at": "2012-07-10T01:17:48",
+    "updated_at": "2012-07-10T01:17:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:installer_logging:3.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

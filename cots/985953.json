@@ -1,0 +1,10 @@
+{
+    "id": 985953,
+    "name": "openrazer",
+    "version": "1.0.6",
+    "created_at": "2022-12-06T14:24:24",
+    "updated_at": "2022-12-06T14:36:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openrazer_project:openrazer:1.0.6:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

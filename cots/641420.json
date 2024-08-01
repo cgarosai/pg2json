@@ -1,0 +1,10 @@
+{
+    "id": 641420,
+    "name": "client",
+    "version": "5.0.0.745",
+    "created_at": "2021-01-25T15:29:29",
+    "updated_at": "2021-01-25T15:29:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1e:client:5.0.0.745:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

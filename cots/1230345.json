@@ -1,0 +1,10 @@
+{
+    "id": 1230345,
+    "name": "owasp_antisamy_.net",
+    "version": "1.1.1",
+    "created_at": "2024-01-12T11:35:05",
+    "updated_at": "2024-01-12T11:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spassarop:owasp_antisamy_.net:1.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

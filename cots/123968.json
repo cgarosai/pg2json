@@ -1,0 +1,10 @@
+{
+    "id": 123968,
+    "name": "alzip",
+    "version": "8.51",
+    "created_at": "2017-08-25T17:33:43",
+    "updated_at": "2021-04-29T12:45:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altools:alzip:8.51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

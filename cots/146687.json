@@ -1,0 +1,10 @@
+{
+    "id": 146687,
+    "name": "integrated_lights_out_manager_firmware",
+    "version": "3.0.6",
+    "created_at": "2018-02-22T17:55:43",
+    "updated_at": "2018-02-22T17:55:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:integrated_lights_out_manager_firmware:3.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

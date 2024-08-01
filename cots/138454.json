@@ -1,0 +1,10 @@
+{
+    "id": 138454,
+    "name": "private_internet_access",
+    "version": "-",
+    "created_at": "2017-11-15T15:47:33",
+    "updated_at": "2021-07-07T12:58:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:londontrustmedia:private_internet_access:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 42244,
+    "name": "web_links_module",
+    "version": "-",
+    "created_at": "2012-02-15T20:10:10",
+    "updated_at": "2012-02-16T19:12:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpnuke:web_links_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

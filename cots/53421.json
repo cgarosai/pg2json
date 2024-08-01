@@ -1,0 +1,10 @@
+{
+    "id": 53421,
+    "name": "intrust_report_pack_for_syslog",
+    "version": "10.2.5.1024",
+    "created_at": "2012-07-10T01:17:56",
+    "updated_at": "2012-07-10T01:17:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:intrust_report_pack_for_syslog:10.2.5.1024:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

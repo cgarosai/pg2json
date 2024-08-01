@@ -1,0 +1,10 @@
+{
+    "id": 979171,
+    "name": "netiq_advanced_authentication",
+    "version": "6.4",
+    "created_at": "2022-11-29T14:27:30",
+    "updated_at": "2022-11-29T14:48:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:netiq_advanced_authentication:6.4:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

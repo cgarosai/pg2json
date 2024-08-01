@@ -1,0 +1,10 @@
+{
+    "id": 979133,
+    "name": "tm-c7520_firmware",
+    "version": "wam31500",
+    "created_at": "2022-11-29T13:44:26",
+    "updated_at": "2022-11-29T14:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:epson:tm-c7520_firmware:wam31500:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

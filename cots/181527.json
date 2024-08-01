@@ -1,0 +1,10 @@
+{
+    "id": 181527,
+    "name": "trusted_execution_engine_firmware",
+    "version": "-",
+    "created_at": "2018-11-14T11:53:56",
+    "updated_at": "2018-11-14T11:53:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:trusted_execution_engine_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

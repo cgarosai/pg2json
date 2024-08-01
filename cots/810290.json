@@ -1,0 +1,10 @@
+{
+    "id": 810290,
+    "name": "nextgen_api",
+    "version": "-",
+    "created_at": "2021-11-30T15:57:18",
+    "updated_at": "2021-12-16T19:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:nextgen_api:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 617834,
+    "name": "whatsapp",
+    "version": "2.20.111",
+    "created_at": "2020-11-05T15:18:50",
+    "updated_at": "2021-04-29T17:41:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whatsapp:whatsapp:2.20.111:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

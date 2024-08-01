@@ -1,0 +1,10 @@
+{
+    "id": 229515,
+    "name": "ssh_slaves",
+    "version": "1.20",
+    "created_at": "2019-04-16T11:45:18",
+    "updated_at": "2019-04-16T11:45:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:ssh_slaves:1.20:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

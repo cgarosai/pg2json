@@ -1,0 +1,10 @@
+{
+    "id": 47659,
+    "name": "gimp",
+    "version": "2.6.11",
+    "created_at": "2011-07-27T11:15:33",
+    "updated_at": "2012-07-25T16:31:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gimp:gimp:2.6.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

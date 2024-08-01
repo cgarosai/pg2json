@@ -1,0 +1,10 @@
+{
+    "id": 1156470,
+    "name": "wiremock_docker",
+    "version": "2.1.12",
+    "created_at": "2023-09-12T15:30:38",
+    "updated_at": "2023-09-12T15:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wiremock:wiremock_docker:2.1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 40928,
+    "name": "jboss_operations_network",
+    "version": "2.4",
+    "created_at": "2012-01-09T16:41:45",
+    "updated_at": "2012-01-10T14:40:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_operations_network:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

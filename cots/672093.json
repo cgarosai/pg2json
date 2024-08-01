@@ -1,0 +1,10 @@
+{
+    "id": 672093,
+    "name": "copy-props",
+    "version": "1.0.1",
+    "created_at": "2021-03-23T12:21:50",
+    "updated_at": "2021-03-25T11:19:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gulpjs:copy-props:1.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 6672,
+    "name": "office",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-15T20:39:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 470280,
+    "name": "tex_live",
+    "version": "20100722",
+    "created_at": "2020-01-16T12:20:27",
+    "updated_at": "2020-01-16T12:20:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tug:tex_live:20100722:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

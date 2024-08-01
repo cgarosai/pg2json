@@ -1,0 +1,10 @@
+{
+    "id": 780513,
+    "name": "recording_connector",
+    "version": "3.8.44.20210326",
+    "created_at": "2021-10-06T14:57:06",
+    "updated_at": "2021-10-26T16:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:recording_connector:3.8.44.20210326:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 961371,
+    "name": "rooms",
+    "version": "-",
+    "created_at": "2022-11-16T11:00:52",
+    "updated_at": "2022-11-17T16:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:rooms:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

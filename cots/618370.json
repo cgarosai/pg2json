@@ -1,0 +1,10 @@
+{
+    "id": 618370,
+    "name": "phpldapadmin",
+    "version": "0.9.3",
+    "created_at": "2020-11-09T12:38:42",
+    "updated_at": "2020-11-09T12:38:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpldapadmin_project:phpldapadmin:0.9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

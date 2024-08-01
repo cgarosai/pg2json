@@ -1,0 +1,10 @@
+{
+    "id": 655709,
+    "name": "spring_cloud_data_flow",
+    "version": "1.6.2",
+    "created_at": "2021-02-03T12:44:51",
+    "updated_at": "2021-02-03T12:44:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_cloud_data_flow:1.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

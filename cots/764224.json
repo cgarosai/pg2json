@@ -1,0 +1,10 @@
+{
+    "id": 764224,
+    "name": "simatic_net_cp_1542sp-1_irc_firmware",
+    "version": "2.1",
+    "created_at": "2021-09-03T10:08:00",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_net_cp_1542sp-1_irc_firmware:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

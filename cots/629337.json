@@ -1,0 +1,10 @@
+{
+    "id": 629337,
+    "name": "ssd_e_5100s_firmware",
+    "version": "lhf004e",
+    "created_at": "2020-12-04T17:39:52",
+    "updated_at": "2020-12-04T17:39:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_e_5100s_firmware:lhf004e:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

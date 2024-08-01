@@ -1,0 +1,10 @@
+{
+    "id": 70471,
+    "name": "endpoint_protection_center",
+    "version": "12.0.0",
+    "created_at": "2013-06-20T19:25:08",
+    "updated_at": "2013-07-12T15:36:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_protection_center:12.0.0:-:small_business:*:*:*:*:*",
+    "to_analyse": false
+}

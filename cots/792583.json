@@ -1,0 +1,10 @@
+{
+    "id": 792583,
+    "name": "tao_assessment_platform",
+    "version": "3.3.0",
+    "created_at": "2021-10-28T12:33:49",
+    "updated_at": "2023-01-03T20:16:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taotesting:tao_assessment_platform:3.3.0:rc02:*:*:*:*:*:*",
+    "to_analyse": false
+}

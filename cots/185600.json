@@ -1,0 +1,10 @@
+{
+    "id": 185600,
+    "name": "alaris_gs_firmware",
+    "version": "2.3.6",
+    "created_at": "2018-10-19T15:36:03",
+    "updated_at": "2021-06-07T10:39:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bd:alaris_gs_firmware:2.3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

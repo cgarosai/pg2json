@@ -1,0 +1,10 @@
+{
+    "id": 633008,
+    "name": "xr300_firmware",
+    "version": "1.0.3.50",
+    "created_at": "2021-01-04T11:53:33",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:xr300_firmware:1.0.3.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

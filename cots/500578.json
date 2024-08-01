@@ -1,0 +1,10 @@
+{
+    "id": 500578,
+    "name": "xeon_e3-1230_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T17:26:19",
+    "updated_at": "2020-03-06T17:26:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1230_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

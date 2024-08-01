@@ -1,0 +1,10 @@
+{
+    "id": 268978,
+    "name": "flash_player_desktop_runtime",
+    "version": "27.0.0.170",
+    "created_at": "2019-06-16T00:06:46",
+    "updated_at": "2019-06-16T00:06:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:flash_player_desktop_runtime:27.0.0.170:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 634334,
+    "name": "chacha20",
+    "version": "0.6.0",
+    "created_at": "2021-01-06T13:44:00",
+    "updated_at": "2021-01-06T13:44:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chacha20_project:chacha20:0.6.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

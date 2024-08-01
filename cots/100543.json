@@ -1,0 +1,10 @@
+{
+    "id": 100543,
+    "name": "fuse",
+    "version": "2.9.2",
+    "created_at": "2015-07-07T15:42:16",
+    "updated_at": "2015-08-03T18:11:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fuse_project:fuse:2.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

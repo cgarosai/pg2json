@@ -1,0 +1,10 @@
+{
+    "id": 1050559,
+    "name": "openshift_container_platform_for_power",
+    "version": "4.12",
+    "created_at": "2023-03-28T12:01:22",
+    "updated_at": "2023-07-08T00:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_container_platform_for_power:4.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

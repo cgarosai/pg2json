@@ -1,0 +1,10 @@
+{
+    "id": 288561,
+    "name": "hex",
+    "version": "-",
+    "created_at": "2019-07-08T10:54:47",
+    "updated_at": "2021-05-24T14:32:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mikrotik:hex:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

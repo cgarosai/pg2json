@@ -1,0 +1,10 @@
+{
+    "id": 98391,
+    "name": "digg_digg",
+    "version": "5.3.4",
+    "created_at": "2014-06-03T12:11:33",
+    "updated_at": "2014-07-08T16:58:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bufferapp:digg_digg:5.3.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

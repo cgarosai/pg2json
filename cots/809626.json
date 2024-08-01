@@ -1,0 +1,10 @@
+{
+    "id": 809626,
+    "name": "talon_tc_compact",
+    "version": "-",
+    "created_at": "2021-11-10T18:46:43",
+    "updated_at": "2022-05-23T11:26:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:talon_tc_compact:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 263060,
+    "name": "mailchimp",
+    "version": "8.x-1.5",
+    "created_at": "2019-06-18T15:34:01",
+    "updated_at": "2019-06-18T15:34:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thinkshout:mailchimp:8.x-1.5:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

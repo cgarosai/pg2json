@@ -1,0 +1,10 @@
+{
+    "id": 763236,
+    "name": "nexus_9000_firmware",
+    "version": "7.0\\(3\\)i7\\(9\\)",
+    "created_at": "2021-09-01T08:58:08",
+    "updated_at": "2022-02-02T14:17:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nexus_9000_firmware:7.0\\(3\\)i7\\(9\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

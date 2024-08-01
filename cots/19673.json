@@ -1,0 +1,10 @@
+{
+    "id": 19673,
+    "name": "remote_desktop_protocol",
+    "version": "-",
+    "created_at": "2007-08-28T19:32:12",
+    "updated_at": "2012-03-22T14:14:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:remote_desktop_protocol:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

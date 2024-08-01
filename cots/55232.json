@@ -1,0 +1,10 @@
+{
+    "id": 55232,
+    "name": "http_server",
+    "version": "2.4.2",
+    "created_at": "2012-04-18T15:01:09",
+    "updated_at": "2012-04-18T19:50:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:http_server:2.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

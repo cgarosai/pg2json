@@ -1,0 +1,10 @@
+{
+    "id": 421301,
+    "name": "coherence",
+    "version": "0.1.0",
+    "created_at": "2019-11-05T17:38:21",
+    "updated_at": "2019-11-05T17:38:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:coherence_project:coherence:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 663142,
+    "name": "unifi_cloud_key_gen2_plus_firmware",
+    "version": "1.1.11",
+    "created_at": "2021-03-08T15:09:43",
+    "updated_at": "2021-05-26T17:00:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:unifi_cloud_key_gen2_plus_firmware:1.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

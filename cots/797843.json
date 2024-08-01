@@ -1,0 +1,10 @@
+{
+    "id": 797843,
+    "name": "gutenberg_pdf_viewer_block",
+    "version": "0.2",
+    "created_at": "2021-10-19T11:52:34",
+    "updated_at": "2021-10-28T11:23:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gutenberg_pdf_viewer_block_project:gutenberg_pdf_viewer_block:0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

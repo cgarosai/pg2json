@@ -1,0 +1,10 @@
+{
+    "id": 1215996,
+    "name": "wp_browserupdate",
+    "version": "4.4.1",
+    "created_at": "2023-12-09T14:04:35",
+    "updated_at": "2023-12-09T14:04:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:browserupdate:wp_browserupdate:4.4.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

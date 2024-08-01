@@ -1,0 +1,10 @@
+{
+    "id": 457146,
+    "name": "windows_admin_center",
+    "version": "1910",
+    "created_at": "2019-12-06T18:12:28",
+    "updated_at": "2019-12-06T18:12:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_admin_center:1910:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

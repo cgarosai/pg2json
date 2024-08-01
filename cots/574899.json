@@ -1,0 +1,10 @@
+{
+    "id": 574899,
+    "name": "jbpm",
+    "version": "6.5.0",
+    "created_at": "2020-08-12T13:36:47",
+    "updated_at": "2020-08-12T13:36:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jbpm:6.5.0:cr1:*:*:*:*:*:*",
+    "to_analyse": false
+}

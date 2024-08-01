@@ -1,0 +1,10 @@
+{
+    "id": 192783,
+    "name": "gate-e2_firmware",
+    "version": "-",
+    "created_at": "2019-01-14T18:35:02",
+    "updated_at": "2021-05-19T13:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:gate-e2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1160287,
+    "name": "backstage_plugin-catalog-backend",
+    "version": "-",
+    "created_at": "2023-09-29T09:42:09",
+    "updated_at": "2023-09-29T09:42:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:backstage_plugin-catalog-backend:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

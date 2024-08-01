@@ -1,0 +1,10 @@
+{
+    "id": 627613,
+    "name": "blazar-dashboard",
+    "version": "0.3.0",
+    "created_at": "2020-12-02T14:58:26",
+    "updated_at": "2020-12-02T14:58:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:blazar-dashboard:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

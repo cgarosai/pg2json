@@ -1,0 +1,10 @@
+{
+    "id": 899684,
+    "name": "wp_admin_style",
+    "version": "0.1.2",
+    "created_at": "2022-06-16T13:16:09",
+    "updated_at": "2022-06-21T23:38:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_admin_style_project:wp_admin_style:0.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

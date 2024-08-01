@@ -1,0 +1,10 @@
+{
+    "id": 1211302,
+    "name": "workspace_one_launcher",
+    "version": "22.04",
+    "created_at": "2023-12-18T16:33:34",
+    "updated_at": "2023-12-18T16:33:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workspace_one_launcher:22.04:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

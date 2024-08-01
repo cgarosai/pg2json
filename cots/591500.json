@@ -1,0 +1,10 @@
+{
+    "id": 591500,
+    "name": "service_framework",
+    "version": "-",
+    "created_at": "2020-09-18T14:02:06",
+    "updated_at": "2020-09-18T14:02:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:service_framework:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

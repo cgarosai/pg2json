@@ -1,0 +1,10 @@
+{
+    "id": 468932,
+    "name": "jersey",
+    "version": "2.3",
+    "created_at": "2019-12-20T16:25:03",
+    "updated_at": "2019-12-20T16:25:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jersey_project:jersey:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 265227,
+    "name": "java",
+    "version": "7.1.0.0",
+    "created_at": "2019-06-13T10:40:11",
+    "updated_at": "2019-06-13T10:40:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:java:7.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1071824,
+    "name": "customer_relationship_management_s4fnd",
+    "version": "107",
+    "created_at": "2023-05-11T11:30:40",
+    "updated_at": "2023-07-14T09:16:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:customer_relationship_management_s4fnd:107:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

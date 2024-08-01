@@ -1,0 +1,10 @@
+{
+    "id": 1172923,
+    "name": "airflow",
+    "version": "2.7.2",
+    "created_at": "2023-10-18T16:59:55",
+    "updated_at": "2023-10-18T16:59:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:airflow:2.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

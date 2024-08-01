@@ -1,0 +1,10 @@
+{
+    "id": 108585,
+    "name": "editor",
+    "version": "8.10",
+    "created_at": "2015-04-06T11:20:54",
+    "updated_at": "2015-04-06T11:28:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hidemaru:editor:8.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

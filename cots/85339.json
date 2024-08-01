@@ -1,0 +1,10 @@
+{
+    "id": 85339,
+    "name": "ubuntu-system-service",
+    "version": "0.2.4",
+    "created_at": "2013-10-04T11:39:30",
+    "updated_at": "2013-10-04T14:47:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:michael_vogt:ubuntu-system-service:0.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 746042,
+    "name": "h2o",
+    "version": "2.2.6",
+    "created_at": "2021-07-19T11:47:50",
+    "updated_at": "2021-07-19T17:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dena:h2o:2.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1120463,
+    "name": "montage",
+    "version": "1.0",
+    "created_at": "2023-07-28T15:00:45",
+    "updated_at": "2023-08-04T17:49:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bugfinder:montage:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

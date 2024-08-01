@@ -1,0 +1,10 @@
+{
+    "id": 550519,
+    "name": "commerce_data_hub",
+    "version": "6.7",
+    "created_at": "2020-06-12T19:00:29",
+    "updated_at": "2020-06-12T19:00:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:commerce_data_hub:6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

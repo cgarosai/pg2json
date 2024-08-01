@@ -1,0 +1,10 @@
+{
+    "id": 60403,
+    "name": "tienda_virtual",
+    "version": "-",
+    "created_at": "2012-10-05T14:11:52",
+    "updated_at": "2012-10-05T16:29:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mystorexpress:tienda_virtual:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

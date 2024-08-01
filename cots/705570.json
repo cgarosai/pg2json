@@ -1,0 +1,10 @@
+{
+    "id": 705570,
+    "name": "simulation_runtime",
+    "version": "3.0",
+    "created_at": "2021-05-06T14:29:01",
+    "updated_at": "2021-05-17T12:44:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:simulation_runtime:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

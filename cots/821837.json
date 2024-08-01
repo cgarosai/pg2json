@@ -1,0 +1,10 @@
+{
+    "id": 821837,
+    "name": "my_tickets",
+    "version": "1.4.11",
+    "created_at": "2021-12-30T00:58:51",
+    "updated_at": "2021-12-30T01:04:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:my_tickets_project:my_tickets:1.4.11:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

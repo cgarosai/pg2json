@@ -1,0 +1,10 @@
+{
+    "id": 92929,
+    "name": "ruta_exacta",
+    "version": "1.0",
+    "created_at": "2014-09-25T20:20:42",
+    "updated_at": "2014-12-14T15:02:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rutaexacta:ruta_exacta:1.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

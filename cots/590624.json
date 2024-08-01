@@ -1,0 +1,10 @@
+{
+    "id": 590624,
+    "name": "one_firmware",
+    "version": "9.5.4.4587",
+    "created_at": "2020-09-16T09:35:31",
+    "updated_at": "2020-09-16T09:35:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:veeam:one_firmware:9.5.4.4587:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

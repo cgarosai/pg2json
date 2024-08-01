@@ -1,0 +1,10 @@
+{
+    "id": 51919,
+    "name": "physx_system_software",
+    "version": "9.9.814",
+    "created_at": "2012-06-21T17:10:38",
+    "updated_at": "2012-06-21T17:10:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:physx_system_software:9.9.814:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

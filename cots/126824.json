@@ -1,0 +1,10 @@
+{
+    "id": 126824,
+    "name": "db2",
+    "version": "10.5.0.2",
+    "created_at": "2017-04-05T13:17:47",
+    "updated_at": "2017-04-05T13:17:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2:10.5.0.2:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

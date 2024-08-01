@@ -1,0 +1,10 @@
+{
+    "id": 368175,
+    "name": "liferay_portal",
+    "version": "7.0.6",
+    "created_at": "2019-09-12T10:25:53",
+    "updated_at": "2019-09-12T10:25:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liferay:liferay_portal:7.0.6:ga7:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 910217,
+    "name": "yaysmtp",
+    "version": "2.2.4",
+    "created_at": "2022-08-05T12:16:09",
+    "updated_at": "2022-08-12T14:58:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yaycommerce:yaysmtp:2.2.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

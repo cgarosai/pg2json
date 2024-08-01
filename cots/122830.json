@@ -1,0 +1,10 @@
+{
+    "id": 122830,
+    "name": "microsoft.aspnetcore.mvc.webapicompatshim",
+    "version": "1.0.1",
+    "created_at": "2017-08-08T16:11:56",
+    "updated_at": "2017-08-08T16:11:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc.webapicompatshim:1.0.1:*:*:*:*:asp.net:*:*",
+    "to_analyse": false
+}

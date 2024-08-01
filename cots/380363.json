@@ -1,0 +1,10 @@
+{
+    "id": 380363,
+    "name": "express-restify-mongoose",
+    "version": "3.0.1",
+    "created_at": "2019-09-25T14:04:48",
+    "updated_at": "2019-09-25T14:04:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express-restify-mongoose_project:express-restify-mongoose:3.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

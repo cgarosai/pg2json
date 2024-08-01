@@ -1,0 +1,10 @@
+{
+    "id": 1060767,
+    "name": "turboscript",
+    "version": "1.2",
+    "created_at": "2023-04-18T09:23:07",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:turboscript:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

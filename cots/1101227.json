@@ -1,0 +1,10 @@
+{
+    "id": 1101227,
+    "name": "integrity_mc990_x_server_rmc_firmware",
+    "version": "-",
+    "created_at": "2023-06-29T13:23:44",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:integrity_mc990_x_server_rmc_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

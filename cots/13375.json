@@ -1,0 +1,10 @@
+{
+    "id": 13375,
+    "name": "portage",
+    "version": "2.0.51.22",
+    "created_at": "2008-10-10T14:24:05",
+    "updated_at": "2008-10-10T14:24:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gentoo:portage:2.0.51.22:r3:*:*:*:*:*:*",
+    "to_analyse": false
+}

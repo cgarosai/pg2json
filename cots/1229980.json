@@ -1,0 +1,10 @@
+{
+    "id": 1229980,
+    "name": "c-blosc2",
+    "version": "2.4.3",
+    "created_at": "2023-12-29T17:11:53",
+    "updated_at": "2023-12-29T17:11:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:c-blosc2_project:c-blosc2:2.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

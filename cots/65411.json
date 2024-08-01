@@ -1,0 +1,10 @@
+{
+    "id": 65411,
+    "name": "libguestfs",
+    "version": "1.0.25",
+    "created_at": "2012-07-31T19:10:44",
+    "updated_at": "2012-07-31T19:10:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libguestfs:libguestfs:1.0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

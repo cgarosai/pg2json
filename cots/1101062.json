@@ -1,0 +1,10 @@
+{
+    "id": 1101062,
+    "name": "z2_mini_g5_firmware",
+    "version": "01.04.07",
+    "created_at": "2023-06-29T09:59:16",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:z2_mini_g5_firmware:01.04.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

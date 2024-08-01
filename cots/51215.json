@@ -1,0 +1,10 @@
+{
+    "id": 51215,
+    "name": "pro_alerting_agent",
+    "version": "12.0.2",
+    "created_at": "2012-06-21T17:07:05",
+    "updated_at": "2012-06-21T17:07:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:pro_alerting_agent:12.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

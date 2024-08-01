@@ -1,0 +1,10 @@
+{
+    "id": 604773,
+    "name": "universal_api_framework",
+    "version": "2.5.2",
+    "created_at": "2020-10-27T13:42:27",
+    "updated_at": "2020-10-27T13:42:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:universal_api_framework:2.5.2:*:*:*:*:vmware_esxi:*:*",
+    "to_analyse": false
+}

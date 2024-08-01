@@ -1,0 +1,10 @@
+{
+    "id": 67857,
+    "name": "linux_kernel",
+    "version": "2.6.37",
+    "created_at": "2012-08-24T17:44:09",
+    "updated_at": "2012-08-24T17:44:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.37:rc7:*:*:*:*:*:*",
+    "to_analyse": false
+}

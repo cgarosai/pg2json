@@ -1,0 +1,10 @@
+{
+    "id": 425403,
+    "name": "openvpn",
+    "version": "2.3.16",
+    "created_at": "2019-10-31T16:20:10",
+    "updated_at": "2023-11-27T19:07:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvpn:openvpn:2.3.16:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

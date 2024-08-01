@@ -1,0 +1,10 @@
+{
+    "id": 350301,
+    "name": "rust-protobuf",
+    "version": "2.0.5",
+    "created_at": "2019-09-06T14:20:10",
+    "updated_at": "2019-09-06T14:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-protobuf_project:rust-protobuf:2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

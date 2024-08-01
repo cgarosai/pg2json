@@ -1,0 +1,10 @@
+{
+    "id": 618735,
+    "name": "client_nvme",
+    "version": "4.0.0.1006",
+    "created_at": "2020-11-09T19:48:09",
+    "updated_at": "2020-11-09T19:48:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:client_nvme:4.0.0.1006:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

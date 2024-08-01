@@ -1,0 +1,10 @@
+{
+    "id": 15997,
+    "name": "data_ontap",
+    "version": "6.5.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:39:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:data_ontap:6.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

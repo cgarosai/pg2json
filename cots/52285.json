@@ -1,0 +1,10 @@
+{
+    "id": 52285,
+    "name": "maestro",
+    "version": "7.x-1.0",
+    "created_at": "2012-06-27T15:54:47",
+    "updated_at": "2012-07-30T13:48:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blaine_lang:maestro:7.x-1.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

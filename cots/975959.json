@@ -1,0 +1,10 @@
+{
+    "id": 975959,
+    "name": "pipeline\\",
+    "version": "_input_step",
+    "created_at": "2022-11-23T01:11:44",
+    "updated_at": "2022-11-23T01:13:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline\\:_input_step:2.9:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

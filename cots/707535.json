@@ -1,0 +1,10 @@
+{
+    "id": 707535,
+    "name": "encs_5400_firmware",
+    "version": "-",
+    "created_at": "2021-05-12T10:30:26",
+    "updated_at": "2021-05-26T11:43:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:encs_5400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

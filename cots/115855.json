@@ -1,0 +1,10 @@
+{
+    "id": 115855,
+    "name": "documentum_xcp",
+    "version": "2.2",
+    "created_at": "2016-03-04T18:46:23",
+    "updated_at": "2016-03-04T18:46:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:documentum_xcp:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

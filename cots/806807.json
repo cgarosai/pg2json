@@ -1,0 +1,10 @@
+{
+    "id": 806807,
+    "name": "pa_server_monitor",
+    "version": "7.0.4.209",
+    "created_at": "2021-11-08T14:54:14",
+    "updated_at": "2021-11-08T15:16:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:poweradmin:pa_server_monitor:7.0.4.209:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

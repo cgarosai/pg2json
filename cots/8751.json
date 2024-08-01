@@ -1,0 +1,10 @@
+{
+    "id": 8751,
+    "name": "call_manager",
+    "version": "4.0\\(2a\\)es40",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-06-17T15:50:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:call_manager:4.0\\(2a\\)es40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

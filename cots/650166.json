@@ -1,0 +1,10 @@
+{
+    "id": 650166,
+    "name": "xterm",
+    "version": "281",
+    "created_at": "2021-02-11T15:52:03",
+    "updated_at": "2021-02-11T15:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invisible-island:xterm:281:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

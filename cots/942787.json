@@ -1,0 +1,10 @@
+{
+    "id": 942787,
+    "name": "leap_micro",
+    "version": "5.2",
+    "created_at": "2022-10-07T11:12:55",
+    "updated_at": "2022-12-05T19:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:opensuse:leap_micro:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

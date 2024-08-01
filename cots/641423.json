@@ -1,0 +1,10 @@
+{
+    "id": 641423,
+    "name": "emc_integrated_data_protection_appliance",
+    "version": "2.6",
+    "created_at": "2021-01-25T15:47:28",
+    "updated_at": "2021-01-25T15:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_integrated_data_protection_appliance:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

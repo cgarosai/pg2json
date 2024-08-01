@@ -1,0 +1,10 @@
+{
+    "id": 275780,
+    "name": "tough-cookie",
+    "version": "2.3.2",
+    "created_at": "2019-06-20T14:25:54",
+    "updated_at": "2019-06-20T14:25:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:salesforce:tough-cookie:2.3.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

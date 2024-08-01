@@ -1,0 +1,10 @@
+{
+    "id": 433692,
+    "name": "matomo",
+    "version": "0.2.33",
+    "created_at": "2019-11-21T12:27:48",
+    "updated_at": "2019-11-21T12:27:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matomo:matomo:0.2.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

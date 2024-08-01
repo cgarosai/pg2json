@@ -1,0 +1,10 @@
+{
+    "id": 919522,
+    "name": "mq_appliance_m2001_firmware",
+    "version": "9.2.0.2",
+    "created_at": "2022-08-03T23:05:11",
+    "updated_at": "2022-08-04T13:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:mq_appliance_m2001_firmware:9.2.0.2:*:*:*:long_term_support:*:*:*",
+    "to_analyse": false
+}

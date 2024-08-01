@@ -1,0 +1,10 @@
+{
+    "id": 123200,
+    "name": "ssd_pro_6000p_firmware",
+    "version": "psf109p",
+    "created_at": "2017-08-18T18:46:46",
+    "updated_at": "2021-05-04T12:24:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_pro_6000p_firmware:psf109p:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

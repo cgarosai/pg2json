@@ -1,0 +1,10 @@
+{
+    "id": 628361,
+    "name": "acti9_smartlink_si_d_firmware",
+    "version": "002.004.002",
+    "created_at": "2020-12-02T17:43:53",
+    "updated_at": "2021-05-11T15:37:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:acti9_smartlink_si_d_firmware:002.004.002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

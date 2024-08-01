@@ -1,0 +1,10 @@
+{
+    "id": 1027346,
+    "name": "adguard",
+    "version": "7.10.2",
+    "created_at": "2023-02-06T18:11:18",
+    "updated_at": "2023-02-17T18:13:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adguard:adguard:7.10.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

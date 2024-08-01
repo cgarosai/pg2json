@@ -1,0 +1,10 @@
+{
+    "id": 1030798,
+    "name": "knative_func",
+    "version": "0.17.0",
+    "created_at": "2023-02-28T16:53:47",
+    "updated_at": "2023-03-14T14:35:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:knative_func:0.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

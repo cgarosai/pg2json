@@ -1,0 +1,10 @@
+{
+    "id": 20423,
+    "name": "framemaker",
+    "version": "9.0",
+    "created_at": "2010-01-07T15:08:11",
+    "updated_at": "2010-01-07T15:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:framemaker:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

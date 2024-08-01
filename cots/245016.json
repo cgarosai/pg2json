@@ -1,0 +1,10 @@
+{
+    "id": 245016,
+    "name": "commerce_service_center",
+    "version": "10.2.0.5",
+    "created_at": "2019-05-20T16:32:14",
+    "updated_at": "2019-05-20T16:32:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:commerce_service_center:10.2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

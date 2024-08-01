@@ -1,0 +1,10 @@
+{
+    "id": 481597,
+    "name": "wordpress_backup_to_dropbox",
+    "version": "4.0",
+    "created_at": "2020-02-05T15:35:45",
+    "updated_at": "2020-02-05T15:35:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_backup_to_dropbox_project:wordpress_backup_to_dropbox:4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

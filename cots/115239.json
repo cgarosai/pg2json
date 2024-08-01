@@ -1,0 +1,10 @@
+{
+    "id": 115239,
+    "name": "telepresence_video_communication_server",
+    "version": "-",
+    "created_at": "2016-02-10T22:21:01",
+    "updated_at": "2016-02-10T22:21:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_video_communication_server:-:*:*:*:expressway:*:*:*",
+    "to_analyse": false
+}

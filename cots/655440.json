@@ -1,0 +1,10 @@
+{
+    "id": 655440,
+    "name": "dxenterprise",
+    "version": "20.0.218",
+    "created_at": "2021-02-02T17:07:33",
+    "updated_at": "2021-05-14T16:21:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dh2i:dxenterprise:20.0.218:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57129,
+    "name": "faxcom_server",
+    "version": "5.5.13.20",
+    "created_at": "2012-05-08T11:50:02",
+    "updated_at": "2012-05-08T11:50:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:biscom:faxcom_server:5.5.13.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

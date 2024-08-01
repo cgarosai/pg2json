@@ -1,0 +1,10 @@
+{
+    "id": 605947,
+    "name": "tensorflow",
+    "version": "2.3.0",
+    "created_at": "2020-09-30T18:13:24",
+    "updated_at": "2021-08-17T11:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tensorflow:tensorflow:2.3.0:rc1:*:*:-:*:*:*",
+    "to_analyse": false
+}

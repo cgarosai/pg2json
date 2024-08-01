@@ -1,0 +1,10 @@
+{
+    "id": 60600,
+    "name": "video_filter",
+    "version": "7.x-2.x",
+    "created_at": "2012-10-08T16:38:46",
+    "updated_at": "2012-10-08T23:08:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hans_nilsson:video_filter:7.x-2.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

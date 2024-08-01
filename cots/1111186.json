@@ -1,0 +1,10 @@
+{
+    "id": 1111186,
+    "name": "pandocupload",
+    "version": "-",
+    "created_at": "2023-07-14T11:55:41",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:pandocupload:-:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

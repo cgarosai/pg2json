@@ -1,0 +1,10 @@
+{
+    "id": 1118353,
+    "name": "snapdragon_x12_lte_firmware",
+    "version": "-",
+    "created_at": "2023-07-10T13:27:07",
+    "updated_at": "2023-09-02T00:30:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:snapdragon_x12_lte_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

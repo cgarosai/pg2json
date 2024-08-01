@@ -1,0 +1,10 @@
+{
+    "id": 10611,
+    "name": "ldapscripts",
+    "version": "-",
+    "created_at": "2007-10-11T15:31:04",
+    "updated_at": "2007-10-11T15:31:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:ldapscripts:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

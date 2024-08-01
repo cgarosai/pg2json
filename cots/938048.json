@@ -1,0 +1,10 @@
+{
+    "id": 938048,
+    "name": "xorg-server",
+    "version": "21.1.0",
+    "created_at": "2022-09-07T14:24:14",
+    "updated_at": "2023-01-12T17:47:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x.org:xorg-server:21.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

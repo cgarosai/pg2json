@@ -1,0 +1,10 @@
+{
+    "id": 508420,
+    "name": "ap9635_firmware",
+    "version": "6.7.2",
+    "created_at": "2020-03-04T16:12:10",
+    "updated_at": "2020-03-04T16:12:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:ap9635_firmware:6.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

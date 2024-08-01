@@ -1,0 +1,10 @@
+{
+    "id": 454107,
+    "name": "e-series_santricity_os_controller",
+    "version": "8.40.50.00",
+    "created_at": "2019-12-11T15:30:13",
+    "updated_at": "2019-12-11T15:30:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:e-series_santricity_os_controller:8.40.50.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

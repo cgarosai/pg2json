@@ -1,0 +1,10 @@
+{
+    "id": 547003,
+    "name": "osd",
+    "version": "-",
+    "created_at": "2020-05-07T11:13:32",
+    "updated_at": "2020-05-07T11:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:osd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

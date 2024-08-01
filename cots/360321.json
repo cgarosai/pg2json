@@ -1,0 +1,10 @@
+{
+    "id": 360321,
+    "name": "multisite_post_duplicator",
+    "version": "1.7.4",
+    "created_at": "2019-09-16T12:42:32",
+    "updated_at": "2019-09-16T12:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpmaz:multisite_post_duplicator:1.7.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

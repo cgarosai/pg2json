@@ -1,0 +1,10 @@
+{
+    "id": 465951,
+    "name": "network_flow_analysis",
+    "version": "9.3.6",
+    "created_at": "2019-12-13T18:44:36",
+    "updated_at": "2021-04-09T15:43:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:network_flow_analysis:9.3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

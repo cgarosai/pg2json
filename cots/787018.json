@@ -1,0 +1,10 @@
+{
+    "id": 787018,
+    "name": "rfc_4072s_firmware",
+    "version": "2021.0.5",
+    "created_at": "2021-09-30T17:14:18",
+    "updated_at": "2021-10-01T09:45:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:rfc_4072s_firmware:2021.0.5:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

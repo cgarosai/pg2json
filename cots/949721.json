@@ -1,0 +1,10 @@
+{
+    "id": 949721,
+    "name": "meraki_ms250",
+    "version": "-",
+    "created_at": "2022-09-30T10:32:05",
+    "updated_at": "2022-10-02T19:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:meraki_ms250:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 738429,
+    "name": "addressable",
+    "version": "2.3.1",
+    "created_at": "2021-07-07T14:13:44",
+    "updated_at": "2021-07-07T14:23:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:addressable_project:addressable:2.3.1:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

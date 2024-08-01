@@ -1,0 +1,10 @@
+{
+    "id": 568046,
+    "name": "windows_host_compute_service_shim",
+    "version": "0.5.3",
+    "created_at": "2020-07-02T14:24:57",
+    "updated_at": "2020-07-02T14:24:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_host_compute_service_shim:0.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

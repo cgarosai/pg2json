@@ -1,0 +1,10 @@
+{
+    "id": 404657,
+    "name": "squashfs",
+    "version": "3.0",
+    "created_at": "2019-10-21T14:50:45",
+    "updated_at": "2019-10-21T14:50:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squashfs_project:squashfs:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

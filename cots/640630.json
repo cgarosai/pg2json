@@ -1,0 +1,10 @@
+{
+    "id": 640630,
+    "name": "otp",
+    "version": "23.2.2",
+    "created_at": "2021-01-21T16:29:20",
+    "updated_at": "2023-02-21T18:09:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:erlang:otp:23.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

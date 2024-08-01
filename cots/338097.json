@@ -1,0 +1,10 @@
+{
+    "id": 338097,
+    "name": "esx",
+    "version": "2.5.5",
+    "created_at": "2019-08-12T13:16:15",
+    "updated_at": "2021-05-28T14:36:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vmware:esx:2.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

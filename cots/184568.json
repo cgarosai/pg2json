@@ -1,0 +1,10 @@
+{
+    "id": 184568,
+    "name": "t1300_firmware",
+    "version": "ig_11_00_00.09",
+    "created_at": "2018-11-26T14:39:10",
+    "updated_at": "2018-11-26T14:39:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:t1300_firmware:ig_11_00_00.09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

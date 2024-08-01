@@ -1,0 +1,10 @@
+{
+    "id": 1215496,
+    "name": "qradar_wincollect",
+    "version": "10.1.7",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:qradar_wincollect:10.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

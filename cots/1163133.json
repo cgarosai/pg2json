@@ -1,0 +1,10 @@
+{
+    "id": 1163133,
+    "name": "ops_center_automator",
+    "version": "10.9.1-00",
+    "created_at": "2023-10-04T20:51:08",
+    "updated_at": "2023-10-04T20:51:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:ops_center_automator:10.9.1-00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

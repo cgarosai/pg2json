@@ -1,0 +1,10 @@
+{
+    "id": 44820,
+    "name": "cloudera_service_and_configuration_manager",
+    "version": "3.5",
+    "created_at": "2012-04-12T13:00:23",
+    "updated_at": "2012-04-18T19:53:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudera:cloudera_service_and_configuration_manager:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

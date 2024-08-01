@@ -1,0 +1,10 @@
+{
+    "id": 537326,
+    "name": "s\\/4hana",
+    "version": "100",
+    "created_at": "2020-04-16T13:04:40",
+    "updated_at": "2020-04-16T13:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:s\\/4hana:100:*:*:*:*:financial_products_subledger:*:*",
+    "to_analyse": false
+}

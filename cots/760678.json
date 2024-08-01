@@ -1,0 +1,10 @@
+{
+    "id": 760678,
+    "name": "jsoup",
+    "version": "1.14.2",
+    "created_at": "2021-08-25T21:54:21",
+    "updated_at": "2021-08-26T09:52:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jsoup:jsoup:1.14.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

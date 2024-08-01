@@ -1,0 +1,10 @@
+{
+    "id": 592004,
+    "name": "remote_access_firmware",
+    "version": "7.5.0.15-35sv",
+    "created_at": "2020-09-21T13:18:04",
+    "updated_at": "2020-09-21T13:18:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:remote_access_firmware:7.5.0.15-35sv:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1241084,
+    "name": "isc_2500-s_firmware",
+    "version": "20210930",
+    "created_at": "2024-02-03T00:39:22",
+    "updated_at": "2024-02-03T00:39:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:uniview:isc_2500-s_firmware:20210930:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

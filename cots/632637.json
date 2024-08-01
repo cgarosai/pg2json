@@ -1,0 +1,10 @@
+{
+    "id": 632637,
+    "name": "litespeed_cache",
+    "version": "3.5",
+    "created_at": "2020-12-30T15:40:54",
+    "updated_at": "2020-12-30T15:40:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:litespeedtech:litespeed_cache:3.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

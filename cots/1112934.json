@@ -1,0 +1,10 @@
+{
+    "id": 1112934,
+    "name": "foundry_frontend",
+    "version": "6.228.0",
+    "created_at": "2023-07-18T12:01:20",
+    "updated_at": "2023-09-07T15:20:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:palantir:foundry_frontend:6.228.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

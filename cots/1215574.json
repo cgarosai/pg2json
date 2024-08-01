@@ -1,0 +1,10 @@
+{
+    "id": 1215574,
+    "name": "diagnostics",
+    "version": "4.45.0",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:diagnostics:4.45.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

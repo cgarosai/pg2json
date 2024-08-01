@@ -1,0 +1,10 @@
+{
+    "id": 865631,
+    "name": "lvm2",
+    "version": "2.03.05",
+    "created_at": "2022-03-22T15:43:32",
+    "updated_at": "2022-03-22T16:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:lvm2:2.03.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

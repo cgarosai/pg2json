@@ -1,0 +1,10 @@
+{
+    "id": 1116708,
+    "name": "sealos",
+    "version": "3.3.9",
+    "created_at": "2023-07-07T12:39:56",
+    "updated_at": "2023-07-14T12:40:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sealos_project:sealos:3.3.9:rc10:*:*:*:*:*:*",
+    "to_analyse": false
+}

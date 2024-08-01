@@ -1,0 +1,10 @@
+{
+    "id": 11809,
+    "name": "exchange_srv",
+    "version": "5.5",
+    "created_at": "2008-04-15T20:38:49",
+    "updated_at": "2008-04-15T21:57:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:exchange_srv:5.5:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

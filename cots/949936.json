@@ -1,0 +1,10 @@
+{
+    "id": 949936,
+    "name": "fwupd",
+    "version": "1.0.7",
+    "created_at": "2022-09-30T12:08:33",
+    "updated_at": "2022-09-30T15:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fwupd:fwupd:1.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

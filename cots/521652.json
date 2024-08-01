@@ -1,0 +1,10 @@
+{
+    "id": 521652,
+    "name": "druid",
+    "version": "0.6.13",
+    "created_at": "2020-04-07T15:56:45",
+    "updated_at": "2020-04-07T15:56:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:druid:0.6.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

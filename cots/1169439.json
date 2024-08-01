@@ -1,0 +1,10 @@
+{
+    "id": 1169439,
+    "name": "cash-machine",
+    "version": "2015-03-22",
+    "created_at": "2023-09-28T14:38:45",
+    "updated_at": "2023-09-28T14:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cash-machine_project:cash-machine:2015-03-22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

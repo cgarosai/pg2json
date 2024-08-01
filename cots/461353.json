@@ -1,0 +1,10 @@
+{
+    "id": 461353,
+    "name": "continuous_delivery",
+    "version": "1.0.0",
+    "created_at": "2020-01-02T16:03:41",
+    "updated_at": "2020-01-02T16:03:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:continuous_delivery:1.0.0:*:*:*:*:puppet_enterprise:*:*",
+    "to_analyse": false
+}

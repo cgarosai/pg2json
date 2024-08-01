@@ -1,0 +1,10 @@
+{
+    "id": 523524,
+    "name": "homematic_ccu3_firmware",
+    "version": "1.2.0",
+    "created_at": "2020-04-10T14:04:41",
+    "updated_at": "2020-04-10T14:04:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:eq-3:homematic_ccu3_firmware:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

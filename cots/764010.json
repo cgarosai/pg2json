@@ -1,0 +1,10 @@
+{
+    "id": 764010,
+    "name": "iotdb",
+    "version": "0.12.0",
+    "created_at": "2021-09-02T12:06:34",
+    "updated_at": "2021-09-02T16:46:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:iotdb:0.12.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1058349,
+    "name": "graphql",
+    "version": "1.1.1",
+    "created_at": "2023-03-22T17:15:59",
+    "updated_at": "2023-03-30T09:57:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:silverstripe:graphql:1.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

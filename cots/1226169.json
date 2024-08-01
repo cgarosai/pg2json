@@ -1,0 +1,10 @@
+{
+    "id": 1226169,
+    "name": "redpanda",
+    "version": "22.3.23",
+    "created_at": "2023-12-21T16:06:52",
+    "updated_at": "2023-12-21T16:06:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redpanda:redpanda:22.3.23:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

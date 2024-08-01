@@ -1,0 +1,10 @@
+{
+    "id": 812754,
+    "name": "webhmi_firmware",
+    "version": "3.5",
+    "created_at": "2021-12-06T18:35:20",
+    "updated_at": "2022-01-25T17:46:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:webhmi:webhmi_firmware:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 50350,
+    "name": "network_security_services",
+    "version": "3.12.2",
+    "created_at": "2012-06-06T12:48:10",
+    "updated_at": "2012-06-29T12:49:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:network_security_services:3.12.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

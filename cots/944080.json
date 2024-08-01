@@ -1,0 +1,10 @@
+{
+    "id": 944080,
+    "name": "taskbuilder",
+    "version": "1.0.0",
+    "created_at": "2022-10-12T12:32:43",
+    "updated_at": "2022-10-13T14:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taskbuilder:taskbuilder:1.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

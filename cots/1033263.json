@@ -1,0 +1,10 @@
+{
+    "id": 1033263,
+    "name": "node-ipc",
+    "version": "1.2.0",
+    "created_at": "2023-03-03T13:41:58",
+    "updated_at": "2023-03-03T14:30:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-ipc_project:node-ipc:1.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

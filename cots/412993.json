@@ -1,0 +1,10 @@
+{
+    "id": 412993,
+    "name": "one_endpoint",
+    "version": "19.08",
+    "created_at": "2019-10-30T10:59:50",
+    "updated_at": "2019-10-30T10:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forcepoint:one_endpoint:19.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

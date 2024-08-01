@@ -1,0 +1,10 @@
+{
+    "id": 1066952,
+    "name": "wpfrom_email",
+    "version": "1.8.2",
+    "created_at": "2023-04-10T15:00:03",
+    "updated_at": "2023-05-24T15:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpfrom_email_project:wpfrom_email:1.8.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

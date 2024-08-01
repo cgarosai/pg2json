@@ -1,0 +1,10 @@
+{
+    "id": 87203,
+    "name": "mail-secure",
+    "version": "3.70",
+    "created_at": "2013-11-08T16:16:12",
+    "updated_at": "2013-11-08T16:21:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pineapp:mail-secure:3.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

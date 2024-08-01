@@ -1,0 +1,10 @@
+{
+    "id": 90455,
+    "name": "clearpass",
+    "version": "6.2",
+    "created_at": "2014-07-14T16:04:11",
+    "updated_at": "2014-07-17T15:04:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arubanetworks:clearpass:6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1034984,
+    "name": "laravel-admin",
+    "version": "1.5.8",
+    "created_at": "2023-03-06T18:28:00",
+    "updated_at": "2023-03-06T19:18:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravel-admin:laravel-admin:1.5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 214682,
+    "name": "security_privileged_identity_manager",
+    "version": "2.1.0",
+    "created_at": "2019-04-03T11:32:54",
+    "updated_at": "2019-04-03T11:32:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_privileged_identity_manager:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

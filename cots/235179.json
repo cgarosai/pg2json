@@ -1,0 +1,10 @@
+{
+    "id": 235179,
+    "name": "qpid",
+    "version": "0.27.0",
+    "created_at": "2019-04-29T14:07:22",
+    "updated_at": "2021-03-18T10:35:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid:0.27.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

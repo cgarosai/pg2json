@@ -1,0 +1,10 @@
+{
+    "id": 404809,
+    "name": "puppet",
+    "version": "1.10.3",
+    "created_at": "2019-10-21T19:26:23",
+    "updated_at": "2019-10-21T19:26:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:puppet:1.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

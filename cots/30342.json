@@ -1,0 +1,10 @@
+{
+    "id": 30342,
+    "name": "proxysg_sg9000-10",
+    "version": "-",
+    "created_at": "2010-12-28T16:27:37",
+    "updated_at": "2010-12-28T16:27:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bluecoat:proxysg_sg9000-10:-:-:full_proxy:*:*:*:*:*",
+    "to_analyse": false
+}

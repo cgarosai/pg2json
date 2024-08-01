@@ -1,0 +1,10 @@
+{
+    "id": 325679,
+    "name": "client",
+    "version": "4.1.34821.1119",
+    "created_at": "2019-07-31T11:06:56",
+    "updated_at": "2020-04-07T18:18:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:client:4.1.34821.1119:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

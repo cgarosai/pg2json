@@ -1,0 +1,10 @@
+{
+    "id": 718605,
+    "name": "telemetry",
+    "version": "0.1.2",
+    "created_at": "2021-06-02T11:39:17",
+    "updated_at": "2021-06-02T11:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:telemetry_project:telemetry:0.1.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

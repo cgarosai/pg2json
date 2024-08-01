@@ -1,0 +1,10 @@
+{
+    "id": 134264,
+    "name": "suse_linux_enterprise_desktop",
+    "version": "11",
+    "created_at": "2018-01-25T17:21:00",
+    "updated_at": "2018-01-25T17:21:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:suse_linux_enterprise_desktop:11:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

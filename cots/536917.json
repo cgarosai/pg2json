@@ -1,0 +1,10 @@
+{
+    "id": 536917,
+    "name": "utorrent",
+    "version": "3.4",
+    "created_at": "2020-04-14T17:28:39",
+    "updated_at": "2020-04-14T17:28:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bittorrent:utorrent:3.4:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

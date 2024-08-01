@@ -1,0 +1,10 @@
+{
+    "id": 485910,
+    "name": "boot2docker",
+    "version": "18.02.0",
+    "created_at": "2020-01-30T13:27:02",
+    "updated_at": "2020-01-30T13:27:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:boot2docker:boot2docker:18.02.0:rc1:*:*:community:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 42563,
+    "name": "libvpx",
+    "version": "0.9.0",
+    "created_at": "2012-02-24T13:34:51",
+    "updated_at": "2020-07-29T16:15:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:john_koleszar:libvpx:0.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

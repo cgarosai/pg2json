@@ -1,0 +1,10 @@
+{
+    "id": 116231,
+    "name": "dpc3939_wireless_residential_voice_gateway_firmware",
+    "version": "130514acmcst_base",
+    "created_at": "2016-03-16T14:22:18",
+    "updated_at": "2016-03-16T14:22:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:dpc3939_wireless_residential_voice_gateway_firmware:130514acmcst_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

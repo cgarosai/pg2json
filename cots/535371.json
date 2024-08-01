@@ -1,0 +1,10 @@
+{
+    "id": 535371,
+    "name": "my2token",
+    "version": "-",
+    "created_at": "2020-04-14T11:46:34",
+    "updated_at": "2020-04-14T11:46:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:my2token_project:my2token:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

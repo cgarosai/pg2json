@@ -1,0 +1,10 @@
+{
+    "id": 564057,
+    "name": "prismax_firmware",
+    "version": "-",
+    "created_at": "2020-07-22T15:21:59",
+    "updated_at": "2020-07-22T15:21:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:baxter:prismax_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

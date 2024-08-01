@@ -1,0 +1,10 @@
+{
+    "id": 999761,
+    "name": "dir-869_firmware",
+    "version": "fw102b15",
+    "created_at": "2022-12-22T15:30:07",
+    "updated_at": "2022-12-28T15:08:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dlink:dir-869_firmware:fw102b15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

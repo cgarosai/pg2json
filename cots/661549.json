@@ -1,0 +1,10 @@
+{
+    "id": 661549,
+    "name": "workspace",
+    "version": "1912",
+    "created_at": "2021-03-03T18:59:30",
+    "updated_at": "2021-03-08T15:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:workspace:1912:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

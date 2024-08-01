@@ -1,0 +1,10 @@
+{
+    "id": 583324,
+    "name": "kordil_edms",
+    "version": "2.2.60",
+    "created_at": "2020-09-01T13:56:29",
+    "updated_at": "2020-09-01T13:56:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kordil_edms_project:kordil_edms:2.2.60:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

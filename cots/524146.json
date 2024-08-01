@@ -1,0 +1,10 @@
+{
+    "id": 524146,
+    "name": "tendermint",
+    "version": "0.23.1",
+    "created_at": "2020-04-13T10:34:11",
+    "updated_at": "2020-04-13T10:34:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tendermint:tendermint:0.23.1:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

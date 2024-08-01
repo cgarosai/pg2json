@@ -1,0 +1,10 @@
+{
+    "id": 626582,
+    "name": "view_frontend_statistics",
+    "version": "3.0.0",
+    "created_at": "2020-12-01T12:47:38",
+    "updated_at": "2020-12-01T12:47:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:view_frontend_statistics_project:view_frontend_statistics:3.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

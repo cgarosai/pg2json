@@ -1,0 +1,10 @@
+{
+    "id": 655434,
+    "name": "marc",
+    "version": "2.0.0",
+    "created_at": "2021-02-02T16:42:03",
+    "updated_at": "2021-02-02T16:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marc_project:marc:2.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

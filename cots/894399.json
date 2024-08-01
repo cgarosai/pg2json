@@ -1,0 +1,10 @@
+{
+    "id": 894399,
+    "name": "control_repository_manager",
+    "version": "-",
+    "created_at": "2022-07-05T10:59:26",
+    "updated_at": "2022-11-07T15:12:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:control_repository_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

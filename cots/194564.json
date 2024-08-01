@@ -1,0 +1,10 @@
+{
+    "id": 194564,
+    "name": "zoneminder",
+    "version": "1.25",
+    "created_at": "2019-01-29T14:23:48",
+    "updated_at": "2019-01-29T14:23:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoneminder:zoneminder:1.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

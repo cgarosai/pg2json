@@ -1,0 +1,10 @@
+{
+    "id": 424569,
+    "name": "selenium-chromedriver",
+    "version": "-",
+    "created_at": "2019-11-08T18:02:23",
+    "updated_at": "2019-11-08T18:02:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:selenium-chromedriver_project:selenium-chromedriver:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

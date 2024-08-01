@@ -1,0 +1,10 @@
+{
+    "id": 30688,
+    "name": "ids_sensor_software",
+    "version": "4.1\\(4\\)e0",
+    "created_at": "2010-12-28T16:30:01",
+    "updated_at": "2010-12-28T16:30:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ids_sensor_software:4.1\\(4\\)e0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

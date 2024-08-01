@@ -1,0 +1,10 @@
+{
+    "id": 204251,
+    "name": "percona_server",
+    "version": "8.0.12-2",
+    "created_at": "2019-03-04T14:37:09",
+    "updated_at": "2019-03-04T14:37:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:percona:percona_server:8.0.12-2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

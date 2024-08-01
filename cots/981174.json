@@ -1,0 +1,10 @@
+{
+    "id": 981174,
+    "name": "ata_192",
+    "version": "-",
+    "created_at": "2022-12-12T18:25:38",
+    "updated_at": "2022-12-15T17:05:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ata_192:-:*:*:*:multiplatform:*:*:*",
+    "to_analyse": false
+}

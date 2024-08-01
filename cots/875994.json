@@ -1,0 +1,10 @@
+{
+    "id": 875994,
+    "name": "npm-dependency-versions",
+    "version": "0.1.3",
+    "created_at": "2022-04-18T11:40:07",
+    "updated_at": "2022-04-20T09:44:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:npm-dependency-versions_project:npm-dependency-versions:0.1.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

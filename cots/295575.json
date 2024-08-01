@@ -1,0 +1,10 @@
+{
+    "id": 295575,
+    "name": "mass_contact",
+    "version": "5.x-2.7",
+    "created_at": "2019-07-12T11:23:05",
+    "updated_at": "2019-07-12T11:23:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mass_contact_project:mass_contact:5.x-2.7:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

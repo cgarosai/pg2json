@@ -1,0 +1,10 @@
+{
+    "id": 639860,
+    "name": "sdm830_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:52:24",
+    "updated_at": "2020-12-21T12:52:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sdm830_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

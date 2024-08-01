@@ -1,0 +1,10 @@
+{
+    "id": 395535,
+    "name": "cp_storage_block",
+    "version": "-",
+    "created_at": "2019-09-27T11:14:01",
+    "updated_at": "2021-05-05T12:04:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lenovo:cp_storage_block:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

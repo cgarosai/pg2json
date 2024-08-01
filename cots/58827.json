@@ -1,0 +1,10 @@
+{
+    "id": 58827,
+    "name": "product_detection",
+    "version": "4.0.11",
+    "created_at": "2012-05-14T21:31:39",
+    "updated_at": "2012-05-14T21:31:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:product_detection:4.0.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 432721,
+    "name": "airwatch_console",
+    "version": "9.4.0.0",
+    "created_at": "2019-11-20T16:14:57",
+    "updated_at": "2019-11-20T16:14:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:airwatch_console:9.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

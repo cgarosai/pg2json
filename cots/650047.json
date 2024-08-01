@@ -1,0 +1,10 @@
+{
+    "id": 650047,
+    "name": "fluent_bit",
+    "version": "1.4.4",
+    "created_at": "2021-02-11T15:09:48",
+    "updated_at": "2021-02-11T15:09:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:treasuredata:fluent_bit:1.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 269171,
+    "name": "wp2002_firmware",
+    "version": "-",
+    "created_at": "2019-06-17T10:14:06",
+    "updated_at": "2021-06-17T15:21:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:inateck:wp2002_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

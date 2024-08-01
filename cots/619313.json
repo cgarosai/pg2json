@@ -1,0 +1,10 @@
+{
+    "id": 619313,
+    "name": "nexus_data_broker",
+    "version": "3.9\\(0\\)",
+    "created_at": "2020-11-13T17:08:54",
+    "updated_at": "2020-11-13T17:08:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:nexus_data_broker:3.9\\(0\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 299205,
+    "name": "p9_firmware",
+    "version": "eva-tl00c01b373",
+    "created_at": "2019-07-15T14:40:00",
+    "updated_at": "2019-07-15T14:40:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p9_firmware:eva-tl00c01b373:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

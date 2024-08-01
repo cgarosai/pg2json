@@ -1,0 +1,10 @@
+{
+    "id": 1228782,
+    "name": "eb450_firmware",
+    "version": "-",
+    "created_at": "2023-12-27T13:51:46",
+    "updated_at": "2023-12-27T13:51:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:eb450_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

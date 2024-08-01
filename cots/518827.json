@@ -1,0 +1,10 @@
+{
+    "id": 518827,
+    "name": "commons_configuration",
+    "version": "2.6",
+    "created_at": "2020-03-19T15:37:23",
+    "updated_at": "2020-03-19T15:37:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_configuration:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

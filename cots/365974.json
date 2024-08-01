@@ -1,0 +1,10 @@
+{
+    "id": 365974,
+    "name": "activesupport",
+    "version": "3.2.22.1",
+    "created_at": "2019-09-11T12:36:42",
+    "updated_at": "2019-09-11T12:36:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:activesupport_project:activesupport:3.2.22.1:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

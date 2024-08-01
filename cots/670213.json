@@ -1,0 +1,10 @@
+{
+    "id": 670213,
+    "name": "gizmo",
+    "version": "1.0.3",
+    "created_at": "2021-03-19T12:50:07",
+    "updated_at": "2021-03-19T12:52:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quarkus:gizmo:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 58692,
+    "name": "ocr_software",
+    "version": "8.0",
+    "created_at": "2012-05-14T21:30:59",
+    "updated_at": "2012-05-14T21:30:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:ocr_software:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

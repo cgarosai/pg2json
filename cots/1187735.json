@@ -1,0 +1,10 @@
+{
+    "id": 1187735,
+    "name": "cypress_bluetooth_mesh_software_development_kit",
+    "version": "bsa0107_05.01.00-bx8-amesh-08",
+    "created_at": "2023-10-26T10:51:11",
+    "updated_at": "2023-10-26T10:51:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infineon:cypress_bluetooth_mesh_software_development_kit:bsa0107_05.01.00-bx8-amesh-08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

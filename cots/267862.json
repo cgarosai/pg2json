@@ -1,0 +1,10 @@
+{
+    "id": 267862,
+    "name": "big-ip_protocol_security_manager",
+    "version": "11.6.3.4",
+    "created_at": "2019-06-14T17:14:56",
+    "updated_at": "2019-06-14T17:14:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:f5:big-ip_protocol_security_manager:11.6.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

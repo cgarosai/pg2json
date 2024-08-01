@@ -1,0 +1,10 @@
+{
+    "id": 72239,
+    "name": "openstack",
+    "version": "3.0",
+    "created_at": "2013-07-31T16:22:47",
+    "updated_at": "2013-07-31T23:37:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openstack:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

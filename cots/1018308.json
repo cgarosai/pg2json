@@ -1,0 +1,10 @@
+{
+    "id": 1018308,
+    "name": "cortex-a55_firmware",
+    "version": "-",
+    "created_at": "2023-01-18T16:52:03",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arm:cortex-a55_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

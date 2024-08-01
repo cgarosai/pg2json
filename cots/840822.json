@@ -1,0 +1,10 @@
+{
+    "id": 840822,
+    "name": "inspiron_5300_firmware",
+    "version": "-",
+    "created_at": "2022-02-10T17:19:39",
+    "updated_at": "2022-02-10T19:01:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_5300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

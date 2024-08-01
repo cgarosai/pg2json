@@ -1,0 +1,10 @@
+{
+    "id": 71195,
+    "name": "h3c_switch",
+    "version": "s5820x-28c",
+    "created_at": "2013-07-08T14:55:43",
+    "updated_at": "2013-07-12T15:51:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_switch:s5820x-28c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

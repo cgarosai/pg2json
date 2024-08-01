@@ -1,0 +1,10 @@
+{
+    "id": 610025,
+    "name": "velero",
+    "version": "1.4.3",
+    "created_at": "2020-11-16T17:11:15",
+    "updated_at": "2020-11-16T17:11:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:velero:1.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

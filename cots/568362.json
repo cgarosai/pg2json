@@ -1,0 +1,10 @@
+{
+    "id": 568362,
+    "name": "sonargraph_integration",
+    "version": "1.0.5",
+    "created_at": "2020-07-06T10:28:32",
+    "updated_at": "2020-07-06T10:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:sonargraph_integration:1.0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

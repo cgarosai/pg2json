@@ -1,0 +1,10 @@
+{
+    "id": 613552,
+    "name": "core_i8350k_firmware",
+    "version": "-",
+    "created_at": "2020-11-18T16:07:48",
+    "updated_at": "2021-05-04T09:08:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i8350k_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1200866,
+    "name": "compute_module_hns2600bpb_firmware",
+    "version": "02.01.0015",
+    "created_at": "2023-12-01T21:41:12",
+    "updated_at": "2023-12-01T21:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:compute_module_hns2600bpb_firmware:02.01.0015:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

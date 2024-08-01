@@ -1,0 +1,10 @@
+{
+    "id": 837061,
+    "name": "soketi",
+    "version": "0.25.0",
+    "created_at": "2022-01-14T15:28:31",
+    "updated_at": "2022-01-14T18:27:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:soketi_project:soketi:0.25.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

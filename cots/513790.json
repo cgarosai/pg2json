@@ -1,0 +1,10 @@
+{
+    "id": 513790,
+    "name": "corretto",
+    "version": "11",
+    "created_at": "2020-03-31T12:54:39",
+    "updated_at": "2020-03-31T12:54:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:corretto:11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

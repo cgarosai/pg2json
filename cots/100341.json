@@ -1,0 +1,10 @@
+{
+    "id": 100341,
+    "name": "resident_anywhere",
+    "version": "-",
+    "created_at": "2015-06-23T16:45:19",
+    "updated_at": "2015-08-22T01:05:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aptexx:resident_anywhere:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

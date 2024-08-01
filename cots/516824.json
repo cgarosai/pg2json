@@ -1,0 +1,10 @@
+{
+    "id": 516824,
+    "name": "closure-compiler-stream",
+    "version": "0.1.11",
+    "created_at": "2020-03-16T14:33:43",
+    "updated_at": "2020-03-16T14:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:closure-compiler-stream_project:closure-compiler-stream:0.1.11:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

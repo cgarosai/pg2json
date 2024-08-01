@@ -1,0 +1,10 @@
+{
+    "id": 86260,
+    "name": "service_manager",
+    "version": "9.31",
+    "created_at": "2013-10-17T14:54:09",
+    "updated_at": "2013-10-30T14:15:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:service_manager:9.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

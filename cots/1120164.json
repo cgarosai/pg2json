@@ -1,0 +1,10 @@
+{
+    "id": 1120164,
+    "name": "advisor_network",
+    "version": "2.0.37",
+    "created_at": "2023-07-27T12:55:36",
+    "updated_at": "2023-07-27T13:03:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncia:advisor_network:2.0.37:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

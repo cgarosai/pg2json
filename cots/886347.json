@@ -1,0 +1,10 @@
+{
+    "id": 886347,
+    "name": "exchange_server",
+    "version": "2016",
+    "created_at": "2022-05-17T16:54:09",
+    "updated_at": "2022-05-23T12:02:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_23:*:*:*:*:*:*",
+    "to_analyse": false
+}

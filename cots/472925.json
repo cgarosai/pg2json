@@ -1,0 +1,10 @@
+{
+    "id": 472925,
+    "name": "suricata",
+    "version": "3.2.5",
+    "created_at": "2020-01-23T18:24:13",
+    "updated_at": "2020-01-23T18:24:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openinfosecfoundation:suricata:3.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

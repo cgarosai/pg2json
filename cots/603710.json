@@ -1,0 +1,10 @@
+{
+    "id": 603710,
+    "name": "powershellget",
+    "version": "3.0.0",
+    "created_at": "2020-10-19T09:25:11",
+    "updated_at": "2020-10-19T09:25:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:powershellget:3.0.0:beta6:*:*:*:*:*:*",
+    "to_analyse": false
+}

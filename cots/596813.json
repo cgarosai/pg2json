@@ -1,0 +1,10 @@
+{
+    "id": 596813,
+    "name": "firefox",
+    "version": "28.0",
+    "created_at": "2020-09-09T08:55:50",
+    "updated_at": "2020-09-09T08:55:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox:28.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

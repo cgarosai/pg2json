@@ -1,0 +1,10 @@
+{
+    "id": 1108119,
+    "name": "traffic_server",
+    "version": "9.2.1",
+    "created_at": "2023-06-21T16:48:50",
+    "updated_at": "2023-07-06T11:45:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:traffic_server:9.2.1:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

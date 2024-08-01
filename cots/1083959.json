@@ -1,0 +1,10 @@
+{
+    "id": 1083959,
+    "name": "cbot_panel",
+    "version": "-",
+    "created_at": "2023-05-31T15:04:58",
+    "updated_at": "2023-06-29T12:56:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cbot:cbot_panel:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

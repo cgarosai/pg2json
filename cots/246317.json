@@ -1,0 +1,10 @@
+{
+    "id": 246317,
+    "name": "checkstyle",
+    "version": "3.23",
+    "created_at": "2019-05-22T16:34:03",
+    "updated_at": "2019-05-22T16:34:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:checkstyle:3.23:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

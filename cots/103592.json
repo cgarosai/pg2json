@@ -1,0 +1,10 @@
+{
+    "id": 103592,
+    "name": "swift3",
+    "version": "1.8",
+    "created_at": "2016-01-19T17:47:51",
+    "updated_at": "2016-01-19T17:47:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:swift3:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

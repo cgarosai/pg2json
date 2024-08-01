@@ -1,0 +1,10 @@
+{
+    "id": 197885,
+    "name": "watchos",
+    "version": "4.2.3",
+    "created_at": "2018-12-19T15:01:44",
+    "updated_at": "2018-12-19T15:01:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

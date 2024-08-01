@@ -1,0 +1,10 @@
+{
+    "id": 10374,
+    "name": "tivoli_storage_manager_client",
+    "version": "-",
+    "created_at": "2007-09-24T12:44:05",
+    "updated_at": "2007-09-24T12:44:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_client:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

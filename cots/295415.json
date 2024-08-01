@@ -1,0 +1,10 @@
+{
+    "id": 295415,
+    "name": "linkit",
+    "version": "7.x-1.0",
+    "created_at": "2019-07-12T09:58:38",
+    "updated_at": "2019-07-12T09:58:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linkit_project:linkit:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

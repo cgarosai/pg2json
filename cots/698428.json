@@ -1,0 +1,10 @@
+{
+    "id": 698428,
+    "name": "verify",
+    "version": "5.0.7",
+    "created_at": "2021-04-19T17:08:46",
+    "updated_at": "2021-04-20T14:52:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:okta:verify:5.0.7:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

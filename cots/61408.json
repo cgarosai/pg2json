@@ -1,0 +1,10 @@
+{
+    "id": 61408,
+    "name": "unixodbc",
+    "version": "1.0.6",
+    "created_at": "2012-10-26T18:51:39",
+    "updated_at": "2012-10-26T18:51:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unixodbc:unixodbc:1.0.6:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

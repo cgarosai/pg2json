@@ -1,0 +1,10 @@
+{
+    "id": 99780,
+    "name": "dssearchagent",
+    "version": "1.0",
+    "created_at": "2014-07-03T10:56:37",
+    "updated_at": "2014-07-08T19:58:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dssearchagent_project:dssearchagent:1.0:beta10:-:*:-:wordpress:*:*",
+    "to_analyse": false
+}

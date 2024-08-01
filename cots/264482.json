@@ -1,0 +1,10 @@
+{
+    "id": 264482,
+    "name": "dynamic_display_block",
+    "version": "6.x-1.0",
+    "created_at": "2019-06-19T14:58:24",
+    "updated_at": "2019-06-19T14:58:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dynamic_display_block_project:dynamic_display_block:6.x-1.0:rc8:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

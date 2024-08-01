@@ -1,0 +1,10 @@
+{
+    "id": 22461,
+    "name": "ucosminexus_application_server",
+    "version": "07-60",
+    "created_at": "2010-04-23T16:42:56",
+    "updated_at": "2010-04-23T16:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:ucosminexus_application_server:07-60:-:standard:*:*:*:*:*",
+    "to_analyse": false
+}

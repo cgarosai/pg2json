@@ -1,0 +1,10 @@
+{
+    "id": 595044,
+    "name": "jsgames",
+    "version": "-",
+    "created_at": "2020-09-02T17:37:25",
+    "updated_at": "2020-09-02T17:37:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jsgames:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

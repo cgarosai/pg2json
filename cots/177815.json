@@ -1,0 +1,10 @@
+{
+    "id": 177815,
+    "name": "simatic_wincc_oa_ui",
+    "version": "3.15.10",
+    "created_at": "2018-09-24T16:58:21",
+    "updated_at": "2021-04-29T14:30:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_oa_ui:3.15.10:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

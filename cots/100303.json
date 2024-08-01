@@ -1,0 +1,10 @@
+{
+    "id": 100303,
+    "name": "rt-210_firmware",
+    "version": "-",
+    "created_at": "2015-06-22T10:19:43",
+    "updated_at": "2015-06-22T14:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:airties:rt-210_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

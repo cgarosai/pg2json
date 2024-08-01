@@ -1,0 +1,10 @@
+{
+    "id": 1052394,
+    "name": "harmonyos",
+    "version": "2.0.0",
+    "created_at": "2023-03-30T13:37:55",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:harmonyos:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

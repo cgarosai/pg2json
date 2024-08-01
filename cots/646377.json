@@ -1,0 +1,10 @@
+{
+    "id": 646377,
+    "name": "centro_grande_firmware",
+    "version": "-",
+    "created_at": "2021-01-07T16:48:33",
+    "updated_at": "2021-01-07T16:48:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:swisscom:centro_grande_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

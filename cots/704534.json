@@ -1,0 +1,10 @@
+{
+    "id": 704534,
+    "name": "zope",
+    "version": "4.5.3",
+    "created_at": "2021-05-26T14:43:24",
+    "updated_at": "2021-05-27T14:35:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zope:zope:4.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

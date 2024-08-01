@@ -1,0 +1,10 @@
+{
+    "id": 247168,
+    "name": "applications_manager",
+    "version": "12.2.3",
+    "created_at": "2019-05-24T16:21:59",
+    "updated_at": "2019-05-24T16:21:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:applications_manager:12.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

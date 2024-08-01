@@ -1,0 +1,10 @@
+{
+    "id": 749586,
+    "name": "scratchpad",
+    "version": "0.1.0",
+    "created_at": "2021-07-22T14:44:59",
+    "updated_at": "2021-07-22T16:40:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scratchpad_project:scratchpad:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

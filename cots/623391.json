@@ -1,0 +1,10 @@
+{
+    "id": 623391,
+    "name": "net_print",
+    "version": "-",
+    "created_at": "2020-12-09T15:40:27",
+    "updated_at": "2020-12-09T15:40:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:epson:net_print:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 220103,
+    "name": "pm554-tp-eth_firmware",
+    "version": "-",
+    "created_at": "2019-04-17T14:20:23",
+    "updated_at": "2021-05-19T14:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:pm554-tp-eth_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 186391,
+    "name": "eshop",
+    "version": "6.0.0",
+    "created_at": "2018-10-25T16:13:31",
+    "updated_at": "2018-10-25T16:13:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oxid-esales:eshop:6.0.0:rc2:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 548387,
+    "name": "1password",
+    "version": "3.0",
+    "created_at": "2020-05-11T14:28:28",
+    "updated_at": "2020-05-11T14:28:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1password:1password:3.0:-:*:*:*:macos:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 649209,
+    "name": "storefront_server",
+    "version": "1912",
+    "created_at": "2021-01-14T18:43:06",
+    "updated_at": "2021-01-14T18:43:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:storefront_server:1912:*:*:*:ltsr:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 467697,
+    "name": "cron",
+    "version": "3.0",
+    "created_at": "2019-12-18T12:58:12",
+    "updated_at": "2019-12-18T12:58:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:cron:3.0:pl1-91:*:*:*:*:*:*",
+    "to_analyse": false
+}

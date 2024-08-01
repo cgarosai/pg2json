@@ -1,0 +1,10 @@
+{
+    "id": 639154,
+    "name": "ip150_firmware",
+    "version": "5.02.09",
+    "created_at": "2020-12-18T16:40:00",
+    "updated_at": "2020-12-18T16:40:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:paradox:ip150_firmware:5.02.09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

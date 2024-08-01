@@ -1,0 +1,10 @@
+{
+    "id": 760728,
+    "name": "startserver",
+    "version": "0.2.5",
+    "created_at": "2021-08-26T12:06:51",
+    "updated_at": "2021-08-26T12:23:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:startserver_project:startserver:0.2.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

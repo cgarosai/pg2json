@@ -1,0 +1,10 @@
+{
+    "id": 148961,
+    "name": "workstation_player",
+    "version": "14.0",
+    "created_at": "2018-04-11T15:02:05",
+    "updated_at": "2021-03-26T18:54:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workstation_player:14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

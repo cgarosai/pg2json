@@ -1,0 +1,10 @@
+{
+    "id": 58982,
+    "name": "software_update",
+    "version": "3.0.7.14",
+    "created_at": "2012-05-14T21:32:30",
+    "updated_at": "2012-05-14T21:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:software_update:3.0.7.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

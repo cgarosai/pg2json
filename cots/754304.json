@@ -1,0 +1,10 @@
+{
+    "id": 754304,
+    "name": "newsplugin",
+    "version": "1.0.18",
+    "created_at": "2021-08-12T13:42:14",
+    "updated_at": "2021-08-20T11:20:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipdgroup:newsplugin:1.0.18:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 566393,
+    "name": "bsa_radar",
+    "version": "-",
+    "created_at": "2020-06-26T15:23:41",
+    "updated_at": "2020-06-26T15:23:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:globalradar:bsa_radar:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

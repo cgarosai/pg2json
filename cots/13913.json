@@ -1,0 +1,10 @@
+{
+    "id": 13913,
+    "name": "kernel",
+    "version": "2.6.24",
+    "created_at": "2008-11-21T14:59:56",
+    "updated_at": "2012-03-08T19:00:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:kernel:2.6.24:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

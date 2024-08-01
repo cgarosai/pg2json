@@ -1,0 +1,10 @@
+{
+    "id": 606135,
+    "name": "bootstrap-select",
+    "version": "1.7.0",
+    "created_at": "2020-10-02T15:12:11",
+    "updated_at": "2020-10-02T15:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snapappointments:bootstrap-select:1.7.0:rc4:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

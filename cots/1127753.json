@@ -1,0 +1,10 @@
+{
+    "id": 1127753,
+    "name": "chef_infra_server",
+    "version": "14.13.59",
+    "created_at": "2023-07-26T13:19:49",
+    "updated_at": "2023-07-26T16:59:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:chef_infra_server:14.13.59:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

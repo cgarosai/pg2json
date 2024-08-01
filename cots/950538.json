@@ -1,0 +1,10 @@
+{
+    "id": 950538,
+    "name": "ibus",
+    "version": "1.5.27",
+    "created_at": "2022-10-24T13:23:10",
+    "updated_at": "2022-10-24T13:24:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibus_project:ibus:1.5.27:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

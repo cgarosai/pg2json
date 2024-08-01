@@ -1,0 +1,10 @@
+{
+    "id": 585871,
+    "name": "mailbox_interface_driver",
+    "version": "-",
+    "created_at": "2020-08-14T14:02:02",
+    "updated_at": "2020-08-14T14:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:mailbox_interface_driver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

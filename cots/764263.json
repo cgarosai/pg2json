@@ -1,0 +1,10 @@
+{
+    "id": 764263,
+    "name": "retail_customer_engagement",
+    "version": "19.0",
+    "created_at": "2021-09-03T11:40:27",
+    "updated_at": "2021-09-07T13:49:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_customer_engagement:19.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

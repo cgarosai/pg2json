@@ -1,0 +1,10 @@
+{
+    "id": 451069,
+    "name": "imail_server",
+    "version": "12.5.5",
+    "created_at": "2019-12-10T11:37:17",
+    "updated_at": "2019-12-10T11:37:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:imail_server:12.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

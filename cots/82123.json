@@ -1,0 +1,10 @@
+{
+    "id": 82123,
+    "name": "director_dnp3_outstation_kernel",
+    "version": "2.6.32.11",
+    "created_at": "2014-02-27T20:42:45",
+    "updated_at": "2014-02-27T21:00:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:elecsyscorp:director_dnp3_outstation_kernel:2.6.32.11:ael1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 898507,
+    "name": "gatsby",
+    "version": "-",
+    "created_at": "2022-06-14T18:02:49",
+    "updated_at": "2022-07-06T12:06:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gatsbyjs:gatsby:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

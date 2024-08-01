@@ -1,0 +1,10 @@
+{
+    "id": 479005,
+    "name": "xeon_6134",
+    "version": "-",
+    "created_at": "2020-01-15T13:41:53",
+    "updated_at": "2020-01-15T13:41:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_6134:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

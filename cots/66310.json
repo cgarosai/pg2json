@@ -1,0 +1,10 @@
+{
+    "id": 66310,
+    "name": "poi",
+    "version": "1.0.0",
+    "created_at": "2012-08-08T14:44:37",
+    "updated_at": "2012-08-21T21:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:poi:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

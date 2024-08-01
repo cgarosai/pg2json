@@ -1,0 +1,10 @@
+{
+    "id": 124066,
+    "name": "controllogix_5570_redundant_controller",
+    "version": "-",
+    "created_at": "2017-08-28T15:18:01",
+    "updated_at": "2017-08-28T15:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:rockwellautomation:controllogix_5570_redundant_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

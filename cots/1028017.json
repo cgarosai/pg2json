@@ -1,0 +1,10 @@
+{
+    "id": 1028017,
+    "name": "pfc200_firmware",
+    "version": "03.03.10\\(15\\)",
+    "created_at": "2023-02-07T14:30:16",
+    "updated_at": "2023-02-07T14:31:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:pfc200_firmware:03.03.10\\(15\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

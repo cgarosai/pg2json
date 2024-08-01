@@ -1,0 +1,10 @@
+{
+    "id": 169948,
+    "name": "d3.js",
+    "version": "-",
+    "created_at": "2018-07-26T12:10:29",
+    "updated_at": "2018-07-26T12:10:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:d3.js_project:d3.js:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

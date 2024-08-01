@@ -1,0 +1,10 @@
+{
+    "id": 1078056,
+    "name": "radius_pcv",
+    "version": "2.10.0",
+    "created_at": "2023-05-03T11:48:19",
+    "updated_at": "2023-07-14T15:13:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pingidentity:radius_pcv:2.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

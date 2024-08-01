@@ -1,0 +1,10 @@
+{
+    "id": 914995,
+    "name": "maps_software_development_kit",
+    "version": "10.1.0",
+    "created_at": "2022-08-16T16:01:53",
+    "updated_at": "2022-08-16T17:23:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mapbox:maps_software_development_kit:10.1.0:rc1:*:*:*:android:*:*",
+    "to_analyse": false
+}

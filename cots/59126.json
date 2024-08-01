@@ -1,0 +1,10 @@
+{
+    "id": 59126,
+    "name": "bi_query",
+    "version": "9.0.2.0",
+    "created_at": "2012-05-14T21:33:23",
+    "updated_at": "2012-05-14T21:33:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hummingbird:bi_query:9.0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

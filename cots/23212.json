@@ -1,0 +1,10 @@
+{
+    "id": 23212,
+    "name": "whmcs",
+    "version": "4.2",
+    "created_at": "2010-05-04T17:20:47",
+    "updated_at": "2012-01-16T19:28:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whmcs:whmcs:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

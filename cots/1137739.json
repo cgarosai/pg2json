@@ -1,0 +1,10 @@
+{
+    "id": 1137739,
+    "name": "wp_full_stripe_free",
+    "version": "-",
+    "created_at": "2023-08-09T12:43:25",
+    "updated_at": "2023-08-11T09:05:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paymentsplugin:wp_full_stripe_free:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

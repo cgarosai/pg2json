@@ -1,0 +1,10 @@
+{
+    "id": 670290,
+    "name": "apicast",
+    "version": "3.1.0",
+    "created_at": "2021-03-19T13:26:37",
+    "updated_at": "2021-03-22T10:55:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:apicast:3.1.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

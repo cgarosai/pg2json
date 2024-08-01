@@ -1,0 +1,10 @@
+{
+    "id": 789343,
+    "name": "wp-downloadmanager",
+    "version": "1.67",
+    "created_at": "2021-10-05T14:41:28",
+    "updated_at": "2021-10-05T14:43:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-downloadmanager_project:wp-downloadmanager:1.67:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

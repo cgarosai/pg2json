@@ -1,0 +1,10 @@
+{
+    "id": 15005,
+    "name": "scan_engine",
+    "version": "4.4.00",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:39:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:scan_engine:4.4.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

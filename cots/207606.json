@@ -1,0 +1,10 @@
+{
+    "id": 207606,
+    "name": "content_manager",
+    "version": "12.2.6",
+    "created_at": "2019-02-11T19:00:00",
+    "updated_at": "2019-02-11T19:00:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:content_manager:12.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

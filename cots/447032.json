@@ -1,0 +1,10 @@
+{
+    "id": 447032,
+    "name": "libbluray",
+    "version": "0.8.0",
+    "created_at": "2019-11-26T12:41:47",
+    "updated_at": "2019-11-26T12:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:videolan:libbluray:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

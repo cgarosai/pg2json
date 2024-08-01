@@ -1,0 +1,10 @@
+{
+    "id": 817011,
+    "name": "images_to_webp",
+    "version": "1.9",
+    "created_at": "2021-11-24T11:57:44",
+    "updated_at": "2022-09-19T12:28:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:imagestowebp_project:images_to_webp:1.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 123189,
+    "name": "commons_email",
+    "version": "1.0",
+    "created_at": "2017-08-18T16:40:39",
+    "updated_at": "2017-08-18T16:40:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_email:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

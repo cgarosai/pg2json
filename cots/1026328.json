@@ -1,0 +1,10 @@
+{
+    "id": 1026328,
+    "name": "endpoint_security",
+    "version": "7.17.6",
+    "created_at": "2023-02-03T13:40:20",
+    "updated_at": "2023-02-13T18:19:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:endpoint_security:7.17.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

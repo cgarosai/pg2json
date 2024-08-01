@@ -1,0 +1,10 @@
+{
+    "id": 562763,
+    "name": "jison",
+    "version": "0.4.6",
+    "created_at": "2020-07-16T16:43:11",
+    "updated_at": "2020-07-16T16:43:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jison_project:jison:0.4.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

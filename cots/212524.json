@@ -1,0 +1,10 @@
+{
+    "id": 212524,
+    "name": "gvfs",
+    "version": "1.13.6",
+    "created_at": "2019-03-28T11:45:26",
+    "updated_at": "2019-03-28T11:45:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gvfs:1.13.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57437,
+    "name": "anyconnect_vpn_client_start_before_login_components",
+    "version": "2.4.1012",
+    "created_at": "2012-05-08T11:50:56",
+    "updated_at": "2012-05-08T11:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:anyconnect_vpn_client_start_before_login_components:2.4.1012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 154852,
+    "name": "symantec_intelligencecenter",
+    "version": "3.2",
+    "created_at": "2018-06-19T12:17:19",
+    "updated_at": "2021-08-11T17:38:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_intelligencecenter:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

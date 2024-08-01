@@ -1,0 +1,10 @@
+{
+    "id": 33719,
+    "name": "sendcard",
+    "version": "3.5.0",
+    "created_at": "2011-04-07T16:54:11",
+    "updated_at": "2011-04-22T14:23:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sendcard:sendcard:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

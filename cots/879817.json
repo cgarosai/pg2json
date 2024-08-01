@@ -1,0 +1,10 @@
+{
+    "id": 879817,
+    "name": "telepresence_collaboration_endpoint",
+    "version": "9.0.0.0",
+    "created_at": "2022-05-02T13:14:00",
+    "updated_at": "2022-06-29T09:19:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_collaboration_endpoint:9.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

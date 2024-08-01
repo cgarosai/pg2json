@@ -1,0 +1,10 @@
+{
+    "id": 780541,
+    "name": "rooms",
+    "version": "5.6.7",
+    "created_at": "2021-10-06T15:05:01",
+    "updated_at": "2021-10-26T16:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:rooms:5.6.7:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

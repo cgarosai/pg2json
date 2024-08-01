@@ -1,0 +1,10 @@
+{
+    "id": 1123510,
+    "name": "timekeeper",
+    "version": "5.0.05",
+    "created_at": "2023-08-02T15:24:16",
+    "updated_at": "2023-08-02T16:52:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fsmlabs:timekeeper:5.0.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

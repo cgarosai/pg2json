@@ -1,0 +1,10 @@
+{
+    "id": 1108532,
+    "name": "factorytalk_transaction_manager",
+    "version": "13.10",
+    "created_at": "2023-06-26T11:56:26",
+    "updated_at": "2023-07-29T00:59:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rockwellautomation:factorytalk_transaction_manager:13.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

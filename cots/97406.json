@@ -1,0 +1,10 @@
+{
+    "id": 97406,
+    "name": "nsm3000",
+    "version": "-",
+    "created_at": "2014-05-20T11:07:46",
+    "updated_at": "2014-05-20T11:25:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:nsm3000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

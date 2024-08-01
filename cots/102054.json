@@ -1,0 +1,10 @@
+{
+    "id": 102054,
+    "name": "unified_sip_phone_3900_firmware",
+    "version": "9.2\\(2\\)",
+    "created_at": "2015-12-07T18:40:12",
+    "updated_at": "2015-12-07T18:40:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:unified_sip_phone_3900_firmware:9.2\\(2\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

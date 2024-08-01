@@ -1,0 +1,10 @@
+{
+    "id": 250421,
+    "name": "contao_cms",
+    "version": "4.4.7",
+    "created_at": "2019-06-11T10:37:14",
+    "updated_at": "2019-06-11T10:37:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contao:contao_cms:4.4.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

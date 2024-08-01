@@ -1,0 +1,10 @@
+{
+    "id": 340784,
+    "name": "smallvec",
+    "version": "0.4.3",
+    "created_at": "2019-08-28T17:13:45",
+    "updated_at": "2021-02-01T14:39:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servo:smallvec:0.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

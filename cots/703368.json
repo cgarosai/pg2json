@@ -1,0 +1,10 @@
+{
+    "id": 703368,
+    "name": "flask-security",
+    "version": "1.7.4",
+    "created_at": "2021-05-24T17:29:52",
+    "updated_at": "2021-05-24T17:32:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flask-security_project:flask-security:1.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

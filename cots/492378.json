@@ -1,0 +1,10 @@
+{
+    "id": 492378,
+    "name": "libxpm",
+    "version": "3.5.13",
+    "created_at": "2020-02-25T13:58:10",
+    "updated_at": "2023-10-17T13:55:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libxpm_project:libxpm:3.5.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

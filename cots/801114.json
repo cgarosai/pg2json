@@ -1,0 +1,10 @@
+{
+    "id": 801114,
+    "name": "manageengine_patch_connect_plus",
+    "version": "9.0.0",
+    "created_at": "2021-11-15T16:43:50",
+    "updated_at": "2021-11-15T16:53:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_patch_connect_plus:9.0.0:build90073:*:*:*:*:*:*",
+    "to_analyse": false
+}

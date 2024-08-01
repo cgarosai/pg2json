@@ -1,0 +1,10 @@
+{
+    "id": 1215243,
+    "name": "vision120_firmware",
+    "version": "-",
+    "created_at": "2023-12-08T17:54:41",
+    "updated_at": "2023-12-08T17:54:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:unitronics:vision120_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

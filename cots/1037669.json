@@ -1,0 +1,10 @@
+{
+    "id": 1037669,
+    "name": "react-admin",
+    "version": "3.9.12",
+    "created_at": "2023-02-21T19:54:43",
+    "updated_at": "2023-02-24T14:28:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marmelab:react-admin:3.9.12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

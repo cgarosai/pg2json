@@ -1,0 +1,10 @@
+{
+    "id": 1095443,
+    "name": "gh-pages",
+    "version": "3.0.0",
+    "created_at": "2023-06-05T01:49:40",
+    "updated_at": "2023-06-05T15:29:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gh-pages_project:gh-pages:3.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

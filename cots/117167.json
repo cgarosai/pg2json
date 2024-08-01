@@ -1,0 +1,10 @@
+{
+    "id": 117167,
+    "name": "s2300_firmware",
+    "version": "v100r006c05",
+    "created_at": "2016-04-26T13:15:59",
+    "updated_at": "2016-04-26T13:15:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s2300_firmware:v100r006c05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

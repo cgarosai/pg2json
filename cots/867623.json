@@ -1,0 +1,10 @@
+{
+    "id": 867623,
+    "name": "zed_attack_proxy",
+    "version": "w2016-05-23",
+    "created_at": "2022-03-25T18:59:04",
+    "updated_at": "2022-03-28T19:54:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owasp:zed_attack_proxy:w2016-05-23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

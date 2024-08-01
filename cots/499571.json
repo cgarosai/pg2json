@@ -1,0 +1,10 @@
+{
+    "id": 499571,
+    "name": "aws_javascript_s3_explorer",
+    "version": "2019-08-02",
+    "created_at": "2020-02-20T19:46:12",
+    "updated_at": "2020-02-20T19:46:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_javascript_s3_explorer:2019-08-02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

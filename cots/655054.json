@@ -1,0 +1,10 @@
+{
+    "id": 655054,
+    "name": "node-red-contrib-huemagic",
+    "version": "2.2.0",
+    "created_at": "2021-02-01T18:18:56",
+    "updated_at": "2021-02-01T18:18:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-red-contrib-huemagic_project:node-red-contrib-huemagic:2.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

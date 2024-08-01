@@ -1,0 +1,10 @@
+{
+    "id": 626542,
+    "name": "forklift",
+    "version": "3.3.4",
+    "created_at": "2020-12-01T12:21:09",
+    "updated_at": "2020-12-01T12:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:binarynights:forklift:3.3.4:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

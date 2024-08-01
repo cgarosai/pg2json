@@ -1,0 +1,10 @@
+{
+    "id": 590074,
+    "name": "mail_server",
+    "version": "1.1.0.3",
+    "created_at": "2020-09-15T10:21:16",
+    "updated_at": "2020-09-15T10:21:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:argosoft:mail_server:1.1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

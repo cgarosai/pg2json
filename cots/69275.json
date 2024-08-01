@@ -1,0 +1,10 @@
+{
+    "id": 69275,
+    "name": "firewall",
+    "version": "2.4",
+    "created_at": "2012-09-17T15:29:11",
+    "updated_at": "2012-09-18T12:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:endian:firewall:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

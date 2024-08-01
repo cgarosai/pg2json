@@ -1,0 +1,10 @@
+{
+    "id": 90878,
+    "name": "bozohttpd",
+    "version": "20140708",
+    "created_at": "2014-07-25T13:59:27",
+    "updated_at": "2014-07-30T00:57:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eterna:bozohttpd:20140708:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

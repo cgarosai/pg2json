@@ -1,0 +1,10 @@
+{
+    "id": 1210999,
+    "name": "woopayments",
+    "version": "6.1.0",
+    "created_at": "2023-12-18T13:59:50",
+    "updated_at": "2023-12-18T13:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:woopayments:6.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

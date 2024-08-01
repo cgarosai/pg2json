@@ -1,0 +1,10 @@
+{
+    "id": 1821,
+    "name": "retrospect",
+    "version": "7.5",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T18:15:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:retrospect:7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

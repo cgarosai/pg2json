@@ -1,0 +1,10 @@
+{
+    "id": 65788,
+    "name": "backup_catalog",
+    "version": "5.0.2.230",
+    "created_at": "2012-08-01T19:33:17",
+    "updated_at": "2012-08-01T19:33:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veeam:backup_catalog:5.0.2.230:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

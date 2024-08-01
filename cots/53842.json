@@ -1,0 +1,10 @@
+{
+    "id": 53842,
+    "name": "aventail_web_proxy_agent",
+    "version": "10.52.35",
+    "created_at": "2012-07-10T01:20:04",
+    "updated_at": "2012-07-10T01:20:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:aventail_web_proxy_agent:10.52.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

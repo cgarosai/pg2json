@@ -1,0 +1,10 @@
+{
+    "id": 1153273,
+    "name": "blamer",
+    "version": "1.0.4",
+    "created_at": "2023-09-22T15:49:46",
+    "updated_at": "2023-09-22T15:49:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blamer_project:blamer:1.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

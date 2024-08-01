@@ -1,0 +1,10 @@
+{
+    "id": 1084999,
+    "name": "highlight",
+    "version": "2.11.0",
+    "created_at": "2023-06-02T11:52:32",
+    "updated_at": "2023-06-05T09:41:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:highlight:highlight:2.11.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

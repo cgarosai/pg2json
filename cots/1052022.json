@@ -1,0 +1,10 @@
+{
+    "id": 1052022,
+    "name": "wc_sales_notification",
+    "version": "-",
+    "created_at": "2023-03-29T22:05:16",
+    "updated_at": "2023-04-03T14:08:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hasthemes:wc_sales_notification:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

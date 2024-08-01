@@ -1,0 +1,10 @@
+{
+    "id": 84539,
+    "name": "triton_unified_security_center",
+    "version": "7.7.3",
+    "created_at": "2014-04-14T15:36:45",
+    "updated_at": "2014-04-18T11:24:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:websense:triton_unified_security_center:7.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

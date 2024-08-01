@@ -1,0 +1,10 @@
+{
+    "id": 1209534,
+    "name": "enterprise_mobility_management",
+    "version": "23.1.50",
+    "created_at": "2023-12-01T09:42:50",
+    "updated_at": "2023-12-01T09:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:baramundi:enterprise_mobility_management:23.1.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 684209,
+    "name": "parsoid",
+    "version": "0.9.0",
+    "created_at": "2021-04-13T15:23:06",
+    "updated_at": "2021-04-16T14:32:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wikimedia:parsoid:0.9.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

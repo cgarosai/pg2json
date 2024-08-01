@@ -1,0 +1,10 @@
+{
+    "id": 420238,
+    "name": "nps",
+    "version": "1.2",
+    "created_at": "2019-11-05T12:11:57",
+    "updated_at": "2019-11-05T12:11:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nps_project:nps:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

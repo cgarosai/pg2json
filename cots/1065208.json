@@ -1,0 +1,10 @@
+{
+    "id": 1065208,
+    "name": "jacoco",
+    "version": "1.0.12",
+    "created_at": "2023-04-06T09:41:53",
+    "updated_at": "2023-04-06T10:13:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jacoco:1.0.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

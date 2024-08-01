@@ -1,0 +1,10 @@
+{
+    "id": 1114493,
+    "name": "openshift_login",
+    "version": "1.1.0.230.v5d7030b_f5432",
+    "created_at": "2023-07-20T11:23:13",
+    "updated_at": "2023-07-20T15:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:openshift_login:1.1.0.230.v5d7030b_f5432:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

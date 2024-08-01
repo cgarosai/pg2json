@@ -1,0 +1,10 @@
+{
+    "id": 968361,
+    "name": "pulsar",
+    "version": "2.9.3",
+    "created_at": "2022-11-07T16:13:19",
+    "updated_at": "2022-11-07T16:34:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:pulsar:2.9.3:candidate_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

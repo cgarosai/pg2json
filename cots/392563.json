@@ -1,0 +1,10 @@
+{
+    "id": 392563,
+    "name": "gluster_file_system",
+    "version": "3.4.7",
+    "created_at": "2019-10-03T13:38:32",
+    "updated_at": "2019-10-03T13:38:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:gluster_file_system:3.4.7:beta2:*:*:*:*:*:*",
+    "to_analyse": false
+}

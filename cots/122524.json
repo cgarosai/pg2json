@@ -1,0 +1,10 @@
+{
+    "id": 122524,
+    "name": "sol.connect_iset-mpp_meter",
+    "version": "-",
+    "created_at": "2017-08-03T12:31:11",
+    "updated_at": "2021-08-10T13:13:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sol-connect:sol.connect_iset-mpp_meter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 509772,
+    "name": "dot-object",
+    "version": "1.5.0",
+    "created_at": "2020-03-06T14:50:26",
+    "updated_at": "2020-03-06T14:50:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dot-object_project:dot-object:1.5.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

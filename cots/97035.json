@@ -1,0 +1,10 @@
+{
+    "id": 97035,
+    "name": "lxml",
+    "version": "3.3.5",
+    "created_at": "2014-05-15T13:47:18",
+    "updated_at": "2014-05-16T16:46:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lxml:lxml:3.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

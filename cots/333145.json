@@ -1,0 +1,10 @@
+{
+    "id": 333145,
+    "name": "google_adsense",
+    "version": "-",
+    "created_at": "2019-08-19T11:30:53",
+    "updated_at": "2019-08-19T11:30:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google_adsense_project:google_adsense:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

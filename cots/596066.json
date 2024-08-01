@@ -1,0 +1,10 @@
+{
+    "id": 596066,
+    "name": "flask-cors",
+    "version": "0.2.2",
+    "created_at": "2020-09-04T17:17:17",
+    "updated_at": "2020-09-04T17:17:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flask-cors_project:flask-cors:0.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

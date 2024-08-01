@@ -1,0 +1,10 @@
+{
+    "id": 184699,
+    "name": "unified_communications_manager_im_and_presence_service",
+    "version": "12.5\\(1\\)",
+    "created_at": "2018-11-26T15:48:30",
+    "updated_at": "2021-03-30T16:48:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unified_communications_manager_im_and_presence_service:12.5\\(1\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

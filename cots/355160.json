@@ -1,0 +1,10 @@
+{
+    "id": 355160,
+    "name": "simple_mail_address_encoder",
+    "version": "1.5.5",
+    "created_at": "2019-09-04T09:40:31",
+    "updated_at": "2019-09-04T09:40:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_mail_address_encoder_project:simple_mail_address_encoder:1.5.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

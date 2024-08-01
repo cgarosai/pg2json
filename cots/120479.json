@@ -1,0 +1,10 @@
+{
+    "id": 120479,
+    "name": "wnc01wh_firmware",
+    "version": "1.0.0.8",
+    "created_at": "2017-06-14T16:58:06",
+    "updated_at": "2021-04-29T15:24:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:buffalotech:wnc01wh_firmware:1.0.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

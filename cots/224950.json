@@ -1,0 +1,10 @@
+{
+    "id": 224950,
+    "name": "gerrit_trigger",
+    "version": "2.15.2",
+    "created_at": "2019-04-29T10:49:14",
+    "updated_at": "2019-04-29T10:49:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gerrit_trigger:2.15.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

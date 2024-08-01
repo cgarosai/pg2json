@@ -1,0 +1,10 @@
+{
+    "id": 412960,
+    "name": "pootle",
+    "version": "1.2.0",
+    "created_at": "2019-10-30T10:26:21",
+    "updated_at": "2019-10-30T10:26:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:translatehouse:pootle:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

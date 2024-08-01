@@ -1,0 +1,10 @@
+{
+    "id": 486201,
+    "name": "anti-malware",
+    "version": "2.72.169",
+    "created_at": "2020-01-30T14:51:09",
+    "updated_at": "2020-01-30T14:51:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:malwarefox:anti-malware:2.72.169:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

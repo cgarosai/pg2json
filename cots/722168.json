@@ -1,0 +1,10 @@
+{
+    "id": 722168,
+    "name": "matrix-appservice-bridge",
+    "version": "1.5.0",
+    "created_at": "2021-06-23T22:59:39",
+    "updated_at": "2021-06-24T11:33:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:matrix-appservice-bridge:1.5.0:a:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 101486,
+    "name": "sonicwall_netextender_firmware",
+    "version": "8.0.0.0",
+    "created_at": "2015-08-27T10:36:20",
+    "updated_at": "2018-03-12T12:05:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:sonicwall_netextender_firmware:8.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

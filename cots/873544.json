@@ -1,0 +1,10 @@
+{
+    "id": 873544,
+    "name": "cloud_pak_for_business_automation",
+    "version": "21.0.2",
+    "created_at": "2022-05-09T14:30:28",
+    "updated_at": "2022-05-11T11:41:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cloud_pak_for_business_automation:21.0.2:interim_fix_002:*:*:*:*:*:*",
+    "to_analyse": false
+}

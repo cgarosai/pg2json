@@ -1,0 +1,10 @@
+{
+    "id": 731140,
+    "name": "arcgis_server",
+    "version": "-",
+    "created_at": "2021-07-12T13:45:38",
+    "updated_at": "2024-05-21T10:06:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcgis_server:-:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

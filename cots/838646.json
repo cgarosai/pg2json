@@ -1,0 +1,10 @@
+{
+    "id": 838646,
+    "name": "nvr2xxx",
+    "version": "-",
+    "created_at": "2022-01-20T14:10:58",
+    "updated_at": "2022-06-03T10:55:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dahuasecurity:nvr2xxx:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

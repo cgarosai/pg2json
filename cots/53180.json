@@ -1,0 +1,10 @@
+{
+    "id": 53180,
+    "name": "mysql_documents",
+    "version": "5.5.17",
+    "created_at": "2012-07-10T01:17:10",
+    "updated_at": "2012-07-10T01:17:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_documents:5.5.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

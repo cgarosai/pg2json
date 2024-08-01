@@ -1,0 +1,10 @@
+{
+    "id": 632785,
+    "name": "r7500_firmware",
+    "version": "1.0.3.48",
+    "created_at": "2020-12-30T18:57:38",
+    "updated_at": "2020-12-30T18:57:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7500_firmware:1.0.3.48:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 900913,
+    "name": "audio_aligner_app",
+    "version": "2020-01-10",
+    "created_at": "2022-07-14T13:46:38",
+    "updated_at": "2022-07-20T14:41:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:audio_aligner_app_project:audio_aligner_app:2020-01-10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

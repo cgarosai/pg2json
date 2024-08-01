@@ -1,0 +1,10 @@
+{
+    "id": 457259,
+    "name": "amazon_web_services_software_development_kit",
+    "version": "2.7.6",
+    "created_at": "2019-12-06T18:19:50",
+    "updated_at": "2021-05-10T14:20:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:amazon_web_services_software_development_kit:2.7.6:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

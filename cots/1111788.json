@@ -1,0 +1,10 @@
+{
+    "id": 1111788,
+    "name": "webwinkelkeur",
+    "version": "3.0",
+    "created_at": "2023-07-17T09:26:57",
+    "updated_at": "2023-07-17T11:35:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webwinkelkeur_project:webwinkelkeur:3.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

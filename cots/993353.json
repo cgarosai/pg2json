@@ -1,0 +1,10 @@
+{
+    "id": 993353,
+    "name": "ampache",
+    "version": "5.5.2",
+    "created_at": "2022-12-28T15:29:10",
+    "updated_at": "2022-12-30T18:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ampache:ampache:5.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

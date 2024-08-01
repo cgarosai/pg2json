@@ -1,0 +1,10 @@
+{
+    "id": 617043,
+    "name": "partition_manager",
+    "version": "3.3.0",
+    "created_at": "2020-11-02T14:17:56",
+    "updated_at": "2020-11-02T14:17:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:partition_manager:3.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

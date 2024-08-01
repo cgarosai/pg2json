@@ -1,0 +1,10 @@
+{
+    "id": 453296,
+    "name": "mysql-gui-tools",
+    "version": "-",
+    "created_at": "2019-12-10T16:24:51",
+    "updated_at": "2019-12-10T16:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql-gui-tools:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

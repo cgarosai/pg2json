@@ -1,0 +1,10 @@
+{
+    "id": 1113550,
+    "name": "dronescout_ds230_firmware",
+    "version": "20221213-2153",
+    "created_at": "2023-07-19T11:33:45",
+    "updated_at": "2023-08-15T11:43:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bluemark:dronescout_ds230_firmware:20221213-2153:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

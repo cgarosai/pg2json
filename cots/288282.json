@@ -1,0 +1,10 @@
+{
+    "id": 288282,
+    "name": "katello",
+    "version": "0.2.44-1",
+    "created_at": "2019-07-08T09:53:03",
+    "updated_at": "2019-07-08T09:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:katello_project:katello:0.2.44-1:*:*:*:*:foreman:*:*",
+    "to_analyse": false
+}

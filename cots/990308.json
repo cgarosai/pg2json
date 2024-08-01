@@ -1,0 +1,10 @@
+{
+    "id": 990308,
+    "name": "liquidjs",
+    "version": "1.9.2",
+    "created_at": "2022-12-23T14:21:55",
+    "updated_at": "2022-12-23T15:44:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liquidjs:liquidjs:1.9.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

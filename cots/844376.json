@@ -1,0 +1,10 @@
+{
+    "id": 844376,
+    "name": "auditsafe",
+    "version": "-",
+    "created_at": "2022-02-22T18:21:02",
+    "updated_at": "2022-03-17T18:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:auditsafe:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

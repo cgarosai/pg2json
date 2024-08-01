@@ -1,0 +1,10 @@
+{
+    "id": 886938,
+    "name": "sysaid",
+    "version": "21.1.30",
+    "created_at": "2022-05-19T10:28:22",
+    "updated_at": "2022-07-21T23:21:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysaid:sysaid:21.1.30:*:*:*:cloud:*:*:*",
+    "to_analyse": false
+}

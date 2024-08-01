@@ -1,0 +1,10 @@
+{
+    "id": 1229852,
+    "name": "eve_door_and_window_firmware",
+    "version": "-",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:eve:eve_door_and_window_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

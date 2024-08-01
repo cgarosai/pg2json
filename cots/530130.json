@@ -1,0 +1,10 @@
+{
+    "id": 530130,
+    "name": "xeon_gold_6146_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:07:54",
+    "updated_at": "2020-04-27T18:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_gold_6146_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

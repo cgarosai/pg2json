@@ -1,0 +1,10 @@
+{
+    "id": 99040,
+    "name": "tuning_manager",
+    "version": "8.0.0",
+    "created_at": "2014-06-18T13:47:20",
+    "updated_at": "2014-06-20T00:25:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:tuning_manager:8.0.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

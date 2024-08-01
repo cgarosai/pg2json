@@ -1,0 +1,10 @@
+{
+    "id": 153465,
+    "name": "audio_station",
+    "version": "5.6.0-2991",
+    "created_at": "2018-06-12T16:47:26",
+    "updated_at": "2018-06-12T16:47:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:audio_station:5.6.0-2991:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

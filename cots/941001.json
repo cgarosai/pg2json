@@ -1,0 +1,10 @@
+{
+    "id": 941001,
+    "name": "subassembly_composer",
+    "version": "2020",
+    "created_at": "2022-10-03T16:41:53",
+    "updated_at": "2022-10-04T10:35:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autodesk:subassembly_composer:2020:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

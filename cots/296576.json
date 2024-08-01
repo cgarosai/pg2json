@@ -1,0 +1,10 @@
+{
+    "id": 296576,
+    "name": "private_internet_access_vpn_client",
+    "version": "0.9.8",
+    "created_at": "2019-07-12T23:36:54",
+    "updated_at": "2021-07-07T12:58:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:londontrustmedia:private_internet_access_vpn_client:0.9.8:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

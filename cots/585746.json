@@ -1,0 +1,10 @@
+{
+    "id": 585746,
+    "name": "njs",
+    "version": "0.4.0",
+    "created_at": "2020-08-14T13:36:58",
+    "updated_at": "2022-03-24T13:23:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nginx:njs:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

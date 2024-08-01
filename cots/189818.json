@@ -1,0 +1,10 @@
+{
+    "id": 189818,
+    "name": "open_charge_point_protocol",
+    "version": "2.0.0",
+    "created_at": "2018-11-06T17:24:35",
+    "updated_at": "2021-05-06T14:33:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:circontrol:open_charge_point_protocol:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

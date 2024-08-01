@@ -1,0 +1,10 @@
+{
+    "id": 894188,
+    "name": "protobuf-c",
+    "version": "1.0.1",
+    "created_at": "2022-06-30T15:26:46",
+    "updated_at": "2022-07-01T11:33:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protobuf-c_project:protobuf-c:1.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

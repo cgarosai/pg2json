@@ -1,0 +1,10 @@
+{
+    "id": 102789,
+    "name": "network_switch_software",
+    "version": "15.18.0",
+    "created_at": "2016-01-05T16:06:33",
+    "updated_at": "2016-01-05T16:06:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:network_switch_software:15.18.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

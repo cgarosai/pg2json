@@ -1,0 +1,10 @@
+{
+    "id": 719869,
+    "name": "go_driver",
+    "version": "1.5.0",
+    "created_at": "2021-06-02T15:14:31",
+    "updated_at": "2021-06-02T15:17:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:go_driver:1.5.0:beta1:*:*:*:mongodb:*:*",
+    "to_analyse": false
+}

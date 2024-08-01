@@ -1,0 +1,10 @@
+{
+    "id": 178344,
+    "name": "saml2",
+    "version": "3.1.2",
+    "created_at": "2018-10-01T11:50:48",
+    "updated_at": "2018-10-01T11:50:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simplesamlphp:saml2:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

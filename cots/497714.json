@@ -1,0 +1,10 @@
+{
+    "id": 497714,
+    "name": "nifi",
+    "version": "0.7.4",
+    "created_at": "2020-02-19T12:14:51",
+    "updated_at": "2020-02-19T12:14:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:nifi:0.7.4:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

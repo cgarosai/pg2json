@@ -1,0 +1,10 @@
+{
+    "id": 966239,
+    "name": "virtualbmc",
+    "version": "2.1.0",
+    "created_at": "2022-11-01T13:34:08",
+    "updated_at": "2022-11-01T13:42:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opendev:virtualbmc:2.1.0:*:*:*:*:openstack:*:*",
+    "to_analyse": false
+}

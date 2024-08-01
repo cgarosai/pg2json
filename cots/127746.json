@@ -1,0 +1,10 @@
+{
+    "id": 127746,
+    "name": "nfc-30ir_firmware",
+    "version": "lm.1.6.16.05",
+    "created_at": "2017-04-17T14:00:19",
+    "updated_at": "2021-06-21T15:54:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intellinet-network:nfc-30ir_firmware:lm.1.6.16.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

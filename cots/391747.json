@@ -1,0 +1,10 @@
+{
+    "id": 391747,
+    "name": "sipctoken",
+    "version": "-",
+    "created_at": "2019-10-03T10:40:02",
+    "updated_at": "2019-10-03T10:40:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sipctoken_project:sipctoken:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

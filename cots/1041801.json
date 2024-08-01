@@ -1,0 +1,10 @@
+{
+    "id": 1041801,
+    "name": "libmemcached",
+    "version": "0.25",
+    "created_at": "2023-03-13T15:17:34",
+    "updated_at": "2023-03-21T14:56:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:awesome:libmemcached:0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

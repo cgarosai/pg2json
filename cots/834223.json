@@ -1,0 +1,10 @@
+{
+    "id": 834223,
+    "name": "rust-openssl",
+    "version": "0.9.27",
+    "created_at": "2022-02-02T13:52:17",
+    "updated_at": "2022-02-02T14:29:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-openssl_project:rust-openssl:0.9.27:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

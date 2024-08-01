@@ -1,0 +1,10 @@
+{
+    "id": 41592,
+    "name": "zimbra_desktop",
+    "version": "2.0",
+    "created_at": "2012-01-23T19:02:46",
+    "updated_at": "2012-02-16T19:19:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:zimbra_desktop:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

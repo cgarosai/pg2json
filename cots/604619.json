@@ -1,0 +1,10 @@
+{
+    "id": 604619,
+    "name": "sentry",
+    "version": "10.6.6",
+    "created_at": "2020-10-27T13:24:41",
+    "updated_at": "2020-10-27T13:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:telestream:sentry:10.6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

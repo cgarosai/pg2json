@@ -1,0 +1,10 @@
+{
+    "id": 538753,
+    "name": "iot_field_network_director",
+    "version": "-",
+    "created_at": "2020-04-27T12:58:11",
+    "updated_at": "2020-04-27T12:58:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:iot_field_network_director:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

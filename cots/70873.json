@@ -1,0 +1,10 @@
+{
+    "id": 70873,
+    "name": "procurve_switch",
+    "version": "jf430b",
+    "created_at": "2013-07-08T11:55:19",
+    "updated_at": "2013-07-12T15:51:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:procurve_switch:jf430b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

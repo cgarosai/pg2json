@@ -1,0 +1,10 @@
+{
+    "id": 1007376,
+    "name": "gvariant_database",
+    "version": "2019-06-27",
+    "created_at": "2022-12-30T18:25:09",
+    "updated_at": "2023-08-19T02:00:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gvariant_database:2019-06-27:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

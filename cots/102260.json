@@ -1,0 +1,10 @@
+{
+    "id": 102260,
+    "name": "videoscape_distribution_suite_service_manager",
+    "version": "3.3.0",
+    "created_at": "2015-12-14T18:59:22",
+    "updated_at": "2015-12-14T18:59:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:videoscape_distribution_suite_service_manager:3.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

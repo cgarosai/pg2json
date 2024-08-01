@@ -1,0 +1,10 @@
+{
+    "id": 128573,
+    "name": "wireless_ip_camera_\\(p2p\\)_firmware",
+    "version": "-",
+    "created_at": "2017-05-05T00:02:36",
+    "updated_at": "2021-07-01T13:06:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wificam:wireless_ip_camera_\\(p2p\\)_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

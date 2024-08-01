@@ -1,0 +1,10 @@
+{
+    "id": 575490,
+    "name": "manageability_engine_firmware",
+    "version": "11.0",
+    "created_at": "2020-07-27T10:10:12",
+    "updated_at": "2020-07-27T10:10:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:manageability_engine_firmware:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

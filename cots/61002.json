@@ -1,0 +1,10 @@
+{
+    "id": 61002,
+    "name": "sun_products_suite_sysfw",
+    "version": "8.2.0.a",
+    "created_at": "2012-10-18T19:43:12",
+    "updated_at": "2012-10-19T12:04:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:sun_products_suite_sysfw:8.2.0.a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1167816,
+    "name": "wireless_display_adapter",
+    "version": "-",
+    "created_at": "2023-09-27T09:18:22",
+    "updated_at": "2023-09-27T09:18:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:microsoft:wireless_display_adapter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

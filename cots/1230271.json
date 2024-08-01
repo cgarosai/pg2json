@@ -1,0 +1,10 @@
+{
+    "id": 1230271,
+    "name": "privilege_management_for_windows",
+    "version": "2023-07-14",
+    "created_at": "2024-01-12T11:35:05",
+    "updated_at": "2024-01-12T11:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beyondtrust:privilege_management_for_windows:2023-07-14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

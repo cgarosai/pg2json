@@ -1,0 +1,10 @@
+{
+    "id": 78882,
+    "name": "echo",
+    "version": "3.0",
+    "created_at": "2013-05-02T11:08:23",
+    "updated_at": "2013-05-03T16:58:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextapp:echo:3.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

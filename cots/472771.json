@@ -1,0 +1,10 @@
+{
+    "id": 472771,
+    "name": "web_security",
+    "version": "8.5.3",
+    "created_at": "2020-01-23T16:04:10",
+    "updated_at": "2020-01-23T16:04:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forcepoint:web_security:8.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

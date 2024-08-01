@@ -1,0 +1,10 @@
+{
+    "id": 16111,
+    "name": "navigator",
+    "version": "8.0.40",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:36:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netscape:navigator:8.0.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

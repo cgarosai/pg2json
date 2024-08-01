@@ -1,0 +1,10 @@
+{
+    "id": 519583,
+    "name": "core_i3-9100",
+    "version": "-",
+    "created_at": "2020-03-23T15:19:23",
+    "updated_at": "2020-03-23T15:19:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i3-9100:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

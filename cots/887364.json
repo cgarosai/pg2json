@@ -1,0 +1,10 @@
+{
+    "id": 887364,
+    "name": "quark_soc_firmware",
+    "version": "-",
+    "created_at": "2022-05-20T15:35:21",
+    "updated_at": "2022-05-20T17:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:quark_soc_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

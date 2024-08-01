@@ -1,0 +1,10 @@
+{
+    "id": 202945,
+    "name": "ring_video_doorbell",
+    "version": "-",
+    "created_at": "2019-03-01T13:25:05",
+    "updated_at": "2021-04-06T15:52:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amazon:ring_video_doorbell:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

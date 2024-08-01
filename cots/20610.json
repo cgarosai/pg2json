@@ -1,0 +1,10 @@
+{
+    "id": 20610,
+    "name": "afpl_ghostscript",
+    "version": "6.50",
+    "created_at": "2010-01-07T15:08:57",
+    "updated_at": "2010-01-07T15:08:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artifex:afpl_ghostscript:6.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

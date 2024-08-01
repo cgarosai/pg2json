@@ -1,0 +1,10 @@
+{
+    "id": 777807,
+    "name": "saml",
+    "version": "1.1.7",
+    "created_at": "2021-09-13T11:42:16",
+    "updated_at": "2021-09-13T11:48:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:saml:1.1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

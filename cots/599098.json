@@ -1,0 +1,10 @@
+{
+    "id": 599098,
+    "name": "bank_analyzer",
+    "version": "500",
+    "created_at": "2020-09-11T15:30:30",
+    "updated_at": "2020-09-11T15:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:bank_analyzer:500:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 764213,
+    "name": "ruggedcom_rcm1224_firmware",
+    "version": "6.2",
+    "created_at": "2021-09-03T10:06:12",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:ruggedcom_rcm1224_firmware:6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

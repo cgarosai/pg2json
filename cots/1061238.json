@@ -1,0 +1,10 @@
+{
+    "id": 1061238,
+    "name": "cloudeos",
+    "version": "4.26.9m",
+    "created_at": "2023-04-18T14:41:52",
+    "updated_at": "2023-06-05T11:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arista:cloudeos:4.26.9m:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

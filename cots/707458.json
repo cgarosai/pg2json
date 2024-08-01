@@ -1,0 +1,10 @@
+{
+    "id": 707458,
+    "name": "vault-action",
+    "version": "1.0.0",
+    "created_at": "2021-05-11T15:34:18",
+    "updated_at": "2021-05-12T16:41:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:vault-action:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 92107,
+    "name": "ganeti",
+    "version": "2.10.5",
+    "created_at": "2014-09-02T15:35:14",
+    "updated_at": "2021-09-08T15:06:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ganeti_project:ganeti:2.10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 152869,
+    "name": "ap-fc4064-t_firmware",
+    "version": "ap_gt_b38_5.8.3lb15-w47_lte",
+    "created_at": "2018-06-12T00:42:07",
+    "updated_at": "2021-08-10T14:51:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:foxconn:ap-fc4064-t_firmware:ap_gt_b38_5.8.3lb15-w47_lte:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1237897,
+    "name": "post_smtp",
+    "version": "2.5.8",
+    "created_at": "2024-01-09T17:19:42",
+    "updated_at": "2024-01-09T17:19:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpexperts:post_smtp:2.5.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

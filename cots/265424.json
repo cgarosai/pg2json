@@ -1,0 +1,10 @@
+{
+    "id": 265424,
+    "name": "openswan",
+    "version": "-",
+    "created_at": "2019-06-13T12:36:59",
+    "updated_at": "2021-05-19T12:02:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xelerance:openswan:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

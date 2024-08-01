@@ -1,0 +1,10 @@
+{
+    "id": 819493,
+    "name": "gui_for_windows",
+    "version": "7.70",
+    "created_at": "2021-11-29T15:31:01",
+    "updated_at": "2022-01-04T15:49:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:gui_for_windows:7.70:patch_level3:*:*:*:*:*:*",
+    "to_analyse": false
+}

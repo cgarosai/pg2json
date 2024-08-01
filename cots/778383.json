@@ -1,0 +1,10 @@
+{
+    "id": 778383,
+    "name": "wordpress_simple_shop",
+    "version": "1.2",
+    "created_at": "2021-09-14T13:40:21",
+    "updated_at": "2021-09-30T13:43:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_simple_shop_project:wordpress_simple_shop:1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

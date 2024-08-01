@@ -1,0 +1,10 @@
+{
+    "id": 1093140,
+    "name": "secure_gateway",
+    "version": "-",
+    "created_at": "2023-06-15T11:29:51",
+    "updated_at": "2023-09-07T15:25:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vadesecure:secure_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

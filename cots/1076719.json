@@ -1,0 +1,10 @@
+{
+    "id": 1076719,
+    "name": "simple_yearly_archive",
+    "version": "1.6.0",
+    "created_at": "2023-04-28T15:01:22",
+    "updated_at": "2023-05-03T16:59:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_yearly_archive_project:simple_yearly_archive:1.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

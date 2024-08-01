@@ -1,0 +1,10 @@
+{
+    "id": 601737,
+    "name": "jboss_business_rules_management_system",
+    "version": "5.1.0",
+    "created_at": "2020-10-09T15:08:14",
+    "updated_at": "2021-08-17T12:43:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_business_rules_management_system:5.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

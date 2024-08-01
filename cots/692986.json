@@ -1,0 +1,10 @@
+{
+    "id": 692986,
+    "name": "patreon_wordpress",
+    "version": "1.6.8",
+    "created_at": "2021-04-30T17:04:21",
+    "updated_at": "2021-05-03T09:56:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:patreon:patreon_wordpress:1.6.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

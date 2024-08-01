@@ -1,0 +1,10 @@
+{
+    "id": 94572,
+    "name": "dnp3_opc_server",
+    "version": "1.2.3",
+    "created_at": "2014-11-28T14:13:24",
+    "updated_at": "2015-02-24T13:09:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrikonopc:dnp3_opc_server:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

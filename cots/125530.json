@@ -1,0 +1,10 @@
+{
+    "id": 125530,
+    "name": "plc_winproladder",
+    "version": "-",
+    "created_at": "2017-03-03T03:15:12",
+    "updated_at": "2021-10-19T14:38:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:fatek:plc_winproladder:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

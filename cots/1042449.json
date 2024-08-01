@@ -1,0 +1,10 @@
+{
+    "id": 1042449,
+    "name": "cranelift-codegen",
+    "version": "0.91.1",
+    "created_at": "2023-03-14T12:38:15",
+    "updated_at": "2023-03-14T13:40:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bytecodealliance:cranelift-codegen:0.91.1:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

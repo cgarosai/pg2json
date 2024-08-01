@@ -1,0 +1,10 @@
+{
+    "id": 639112,
+    "name": "sgx",
+    "version": "-",
+    "created_at": "2020-12-18T15:30:39",
+    "updated_at": "2020-12-18T15:30:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lantronix:sgx:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

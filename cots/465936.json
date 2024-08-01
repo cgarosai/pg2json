@@ -1,0 +1,10 @@
+{
+    "id": 465936,
+    "name": "firepower_9300_firmware",
+    "version": "r241",
+    "created_at": "2019-12-13T17:46:04",
+    "updated_at": "2019-12-13T17:46:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:firepower_9300_firmware:r241:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

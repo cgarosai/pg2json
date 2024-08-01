@@ -1,0 +1,10 @@
+{
+    "id": 189007,
+    "name": "keycloak",
+    "version": "2.5.3",
+    "created_at": "2018-10-31T16:40:23",
+    "updated_at": "2018-10-31T16:40:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:keycloak:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

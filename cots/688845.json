@@ -1,0 +1,10 @@
+{
+    "id": 688845,
+    "name": "remote_installer",
+    "version": "5.3.3",
+    "created_at": "2021-04-02T14:56:22",
+    "updated_at": "2021-04-05T11:32:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emcosoftware:remote_installer:5.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

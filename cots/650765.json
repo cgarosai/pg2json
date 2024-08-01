@@ -1,0 +1,10 @@
+{
+    "id": 650765,
+    "name": "siebel_mobile",
+    "version": "20.12",
+    "created_at": "2021-02-12T16:08:11",
+    "updated_at": "2021-05-04T15:37:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:siebel_mobile:20.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 609694,
+    "name": "istio",
+    "version": "1.6.8",
+    "created_at": "2020-10-07T09:30:56",
+    "updated_at": "2020-10-07T09:30:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:istio:istio:1.6.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

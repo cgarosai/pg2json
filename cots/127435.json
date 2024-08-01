@@ -1,0 +1,10 @@
+{
+    "id": 127435,
+    "name": "hardmac_wi-fi_soc_firmware",
+    "version": "6.37.34.40",
+    "created_at": "2017-04-11T17:00:34",
+    "updated_at": "2021-04-09T16:06:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:hardmac_wi-fi_soc_firmware:6.37.34.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

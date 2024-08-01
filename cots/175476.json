@@ -1,0 +1,10 @@
+{
+    "id": 175476,
+    "name": "cb3.1_firmware",
+    "version": "3.4.5-100",
+    "created_at": "2018-09-06T14:40:50",
+    "updated_at": "2021-07-01T12:22:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:universal-robots:cb3.1_firmware:3.4.5-100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1211046,
+    "name": "alma",
+    "version": "3.0.4",
+    "created_at": "2023-12-18T14:22:01",
+    "updated_at": "2023-12-18T14:22:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:almapay:alma:3.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

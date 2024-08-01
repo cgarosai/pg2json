@@ -1,0 +1,10 @@
+{
+    "id": 498676,
+    "name": "source_integration",
+    "version": "1.5.5",
+    "created_at": "2020-02-19T20:38:53",
+    "updated_at": "2020-02-19T20:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mantisbt:source_integration:1.5.5:*:*:*:*:mantisbit:*:*",
+    "to_analyse": false
+}

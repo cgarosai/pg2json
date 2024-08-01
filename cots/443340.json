@@ -1,0 +1,10 @@
+{
+    "id": 443340,
+    "name": "chrony",
+    "version": "1.29",
+    "created_at": "2019-12-04T13:31:39",
+    "updated_at": "2019-12-04T13:31:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chrony_project:chrony:1.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 101480,
+    "name": "version_control_repository_manager",
+    "version": "7.4.0",
+    "created_at": "2015-08-27T10:00:21",
+    "updated_at": "2015-08-27T16:14:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:version_control_repository_manager:7.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

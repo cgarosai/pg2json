@@ -1,0 +1,10 @@
+{
+    "id": 72706,
+    "name": "powerlogic_scada",
+    "version": "7.10",
+    "created_at": "2013-08-12T18:14:51",
+    "updated_at": "2013-08-12T18:30:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:powerlogic_scada:7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 465382,
+    "name": "hisuite",
+    "version": "9.1.0.312",
+    "created_at": "2019-12-13T12:52:40",
+    "updated_at": "2020-05-04T12:13:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:hisuite:9.1.0.312:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

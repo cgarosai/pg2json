@@ -1,0 +1,10 @@
+{
+    "id": 709856,
+    "name": "noobaa-operator",
+    "version": "2.0.4",
+    "created_at": "2021-05-19T14:51:05",
+    "updated_at": "2021-05-19T15:22:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:noobaa-operator:2.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

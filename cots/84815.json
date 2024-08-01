@@ -1,0 +1,10 @@
+{
+    "id": 84815,
+    "name": "grails",
+    "version": "2.3.6",
+    "created_at": "2014-04-16T13:40:51",
+    "updated_at": "2014-04-21T21:36:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gopivotal:grails:2.3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

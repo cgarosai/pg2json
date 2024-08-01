@@ -1,0 +1,10 @@
+{
+    "id": 591216,
+    "name": "locked_files_report",
+    "version": "1.6",
+    "created_at": "2020-09-17T15:44:20",
+    "updated_at": "2020-09-17T15:44:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:locked_files_report:1.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 483144,
+    "name": "strapi",
+    "version": "3.0.0",
+    "created_at": "2020-02-06T18:03:09",
+    "updated_at": "2020-02-06T18:03:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:strapi:strapi:3.0.0:alpha14.1:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 500538,
+    "name": "esp8266_nonos_sdk",
+    "version": "3.1.0",
+    "created_at": "2020-03-06T17:24:56",
+    "updated_at": "2020-03-06T17:24:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:espressif:esp8266_nonos_sdk:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

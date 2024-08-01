@@ -1,0 +1,10 @@
+{
+    "id": 1272151,
+    "name": "user_profile_picture",
+    "version": "2.6.2",
+    "created_at": "2024-07-09T15:25:52",
+    "updated_at": "2024-07-09T15:25:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cozmoslabs:user_profile_picture:2.6.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

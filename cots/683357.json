@@ -1,0 +1,10 @@
+{
+    "id": 683357,
+    "name": "compass",
+    "version": "1.17.0",
+    "created_at": "2021-04-12T11:03:34",
+    "updated_at": "2021-04-14T13:03:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:compass:1.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

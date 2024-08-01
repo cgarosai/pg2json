@@ -1,0 +1,10 @@
+{
+    "id": 557550,
+    "name": "cloud",
+    "version": "3",
+    "created_at": "2020-06-02T18:42:50",
+    "updated_at": "2020-06-02T18:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:cloud:3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

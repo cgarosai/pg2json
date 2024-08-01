@@ -1,0 +1,10 @@
+{
+    "id": 1245002,
+    "name": "mock",
+    "version": "-",
+    "created_at": "2024-01-23T16:59:08",
+    "updated_at": "2024-01-23T16:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rpm-software-management:mock:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

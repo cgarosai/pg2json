@@ -1,0 +1,10 @@
+{
+    "id": 961729,
+    "name": "tasmota",
+    "version": "5.9.0",
+    "created_at": "2022-11-16T13:25:11",
+    "updated_at": "2023-01-12T16:44:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tasmota_project:tasmota:5.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 673404,
+    "name": "hmp300",
+    "version": "-",
+    "created_at": "2021-03-24T17:52:11",
+    "updated_at": "2021-08-18T11:47:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:spinetix:hmp300:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 258202,
+    "name": "cloud_station_backup",
+    "version": "4.0-4203",
+    "created_at": "2019-06-10T12:10:24",
+    "updated_at": "2019-06-10T12:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:cloud_station_backup:4.0-4203:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

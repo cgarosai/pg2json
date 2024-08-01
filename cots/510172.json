@@ -1,0 +1,10 @@
+{
+    "id": 510172,
+    "name": "xeon_x5260_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:34:12",
+    "updated_at": "2020-03-23T16:34:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_x5260_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

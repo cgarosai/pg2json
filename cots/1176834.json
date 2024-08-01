@@ -1,0 +1,10 @@
+{
+    "id": 1176834,
+    "name": "ansible_automation_controller",
+    "version": "4.3.9",
+    "created_at": "2023-10-10T15:29:00",
+    "updated_at": "2023-10-10T15:29:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible_automation_controller:4.3.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

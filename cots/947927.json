@@ -1,0 +1,10 @@
+{
+    "id": 947927,
+    "name": "discovery",
+    "version": "5.1.0",
+    "created_at": "2022-09-27T10:17:32",
+    "updated_at": "2022-09-27T11:12:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nepxion:discovery:5.1.0:*:*:*:*:spring_cloud:*:*",
+    "to_analyse": false
+}

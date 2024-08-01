@@ -1,0 +1,10 @@
+{
+    "id": 177059,
+    "name": "totemomail_encryption_gateway",
+    "version": "-",
+    "created_at": "2018-09-17T16:55:29",
+    "updated_at": "2021-08-12T14:26:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:totemo:totemomail_encryption_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

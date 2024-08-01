@@ -1,0 +1,10 @@
+{
+    "id": 523520,
+    "name": "homematic_ccu3",
+    "version": "-",
+    "created_at": "2020-04-10T14:04:40",
+    "updated_at": "2020-04-10T14:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:eq-3:homematic_ccu3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

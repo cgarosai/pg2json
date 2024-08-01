@@ -1,0 +1,10 @@
+{
+    "id": 1189539,
+    "name": "calibre",
+    "version": "6.18.1",
+    "created_at": "2023-10-27T12:20:21",
+    "updated_at": "2023-10-27T12:20:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:calibre-ebook:calibre:6.18.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

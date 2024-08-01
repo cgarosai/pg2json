@@ -1,0 +1,10 @@
+{
+    "id": 874287,
+    "name": "jena",
+    "version": "3.11.0",
+    "created_at": "2022-05-12T14:15:33",
+    "updated_at": "2022-05-12T17:45:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:jena:3.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

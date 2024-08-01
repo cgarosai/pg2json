@@ -1,0 +1,10 @@
+{
+    "id": 857177,
+    "name": "amt_wi-fi_6_ax200_firmware",
+    "version": "15.0.0",
+    "created_at": "2022-03-03T19:19:43",
+    "updated_at": "2022-03-03T19:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:amt_wi-fi_6_ax200_firmware:15.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

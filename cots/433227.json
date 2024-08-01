@@ -1,0 +1,10 @@
+{
+    "id": 433227,
+    "name": "cs1000e\\/cs1000m_signaling_server_firmware",
+    "version": "7.6",
+    "created_at": "2019-11-20T18:19:44",
+    "updated_at": "2021-05-18T15:02:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:avaya:cs1000e\\/cs1000m_signaling_server_firmware:7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

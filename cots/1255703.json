@@ -1,0 +1,10 @@
+{
+    "id": 1255703,
+    "name": "wintango_application_server",
+    "version": "-",
+    "created_at": "2024-02-08T14:18:04",
+    "updated_at": "2024-02-08T14:18:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:terascript:wintango_application_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

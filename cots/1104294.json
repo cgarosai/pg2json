@@ -1,0 +1,10 @@
+{
+    "id": 1104294,
+    "name": "wekan",
+    "version": "5.38",
+    "created_at": "2023-07-03T17:15:21",
+    "updated_at": "2023-07-03T17:17:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wekan_project:wekan:5.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

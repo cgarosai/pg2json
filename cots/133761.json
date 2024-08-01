@@ -1,0 +1,10 @@
+{
+    "id": 133761,
+    "name": "steam_link_firmware",
+    "version": "644",
+    "created_at": "2018-01-18T20:55:12",
+    "updated_at": "2018-01-18T20:55:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:valvesoftware:steam_link_firmware:644:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

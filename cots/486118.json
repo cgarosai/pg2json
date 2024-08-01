@@ -1,0 +1,10 @@
+{
+    "id": 486118,
+    "name": "node-red",
+    "version": "0.10.10",
+    "created_at": "2020-01-30T14:25:15",
+    "updated_at": "2020-01-30T14:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodered:node-red:0.10.10:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

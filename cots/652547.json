@@ -1,0 +1,10 @@
+{
+    "id": 652547,
+    "name": "collaboration_suite",
+    "version": "4.3.1",
+    "created_at": "2021-02-18T15:15:59",
+    "updated_at": "2021-02-18T15:15:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:collaboration_suite:4.3.1:*:*:*:*:webrtc:*:*",
+    "to_analyse": false
+}

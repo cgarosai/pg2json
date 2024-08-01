@@ -1,0 +1,10 @@
+{
+    "id": 1261947,
+    "name": "localstack",
+    "version": "0.14.2",
+    "created_at": "2024-05-09T13:20:20",
+    "updated_at": "2024-05-09T13:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:localstack:localstack:0.14.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

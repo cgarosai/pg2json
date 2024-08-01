@@ -1,0 +1,10 @@
+{
+    "id": 870015,
+    "name": "fc430_firmware",
+    "version": "2.14.0",
+    "created_at": "2022-05-02T15:24:45",
+    "updated_at": "2022-05-09T15:42:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:fc430_firmware:2.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1014228,
+    "name": "zdir",
+    "version": "1.52",
+    "created_at": "2023-01-30T13:22:06",
+    "updated_at": "2023-01-31T14:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zdir_project:zdir:1.52:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 727534,
+    "name": "locutus",
+    "version": "-",
+    "created_at": "2021-06-11T13:08:08",
+    "updated_at": "2021-06-11T13:09:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:locutus:locutus:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

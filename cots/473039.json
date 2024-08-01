@@ -1,0 +1,10 @@
+{
+    "id": 473039,
+    "name": "pyinstaller",
+    "version": "3.2",
+    "created_at": "2020-01-24T18:18:40",
+    "updated_at": "2020-01-24T18:18:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pyinstaller:pyinstaller:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

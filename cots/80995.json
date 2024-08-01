@@ -1,0 +1,10 @@
+{
+    "id": 80995,
+    "name": "centralauth_extension",
+    "version": "-",
+    "created_at": "2014-01-27T17:03:48",
+    "updated_at": "2014-06-30T15:53:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:brion_vibber:centralauth_extension:-:-:-:*:-:mediawiki:*:*",
+    "to_analyse": false
+}

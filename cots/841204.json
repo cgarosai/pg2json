@@ -1,0 +1,10 @@
+{
+    "id": 841204,
+    "name": "satellite_with_embedded_oracle",
+    "version": "5.2",
+    "created_at": "2022-02-11T16:53:44",
+    "updated_at": "2022-03-11T15:03:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:satellite_with_embedded_oracle:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

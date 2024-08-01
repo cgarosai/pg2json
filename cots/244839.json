@@ -1,0 +1,10 @@
+{
+    "id": 244839,
+    "name": "static_analysis_utilities",
+    "version": "1.12",
+    "created_at": "2019-06-06T14:41:55",
+    "updated_at": "2019-06-06T14:41:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:static_analysis_utilities:1.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

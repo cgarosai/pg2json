@@ -1,0 +1,10 @@
+{
+    "id": 467545,
+    "name": "3scale",
+    "version": "-",
+    "created_at": "2019-12-18T11:24:19",
+    "updated_at": "2019-12-18T11:24:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:3scale:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

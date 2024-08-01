@@ -1,0 +1,10 @@
+{
+    "id": 58504,
+    "name": "enterprise_npi",
+    "version": "70.0.200.0",
+    "created_at": "2012-05-14T21:30:09",
+    "updated_at": "2012-05-14T21:30:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:enterprise_npi:70.0.200.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

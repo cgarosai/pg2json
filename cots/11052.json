@@ -1,0 +1,10 @@
+{
+    "id": 11052,
+    "name": "insight_manager",
+    "version": "-",
+    "created_at": "2007-12-12T18:34:17",
+    "updated_at": "2007-12-12T18:34:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:insight_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

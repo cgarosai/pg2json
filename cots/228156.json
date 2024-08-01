@@ -1,0 +1,10 @@
+{
+    "id": 228156,
+    "name": "ipsec_vpn",
+    "version": "r80.10",
+    "created_at": "2019-04-12T14:03:43",
+    "updated_at": "2019-04-12T14:03:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:ipsec_vpn:r80.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

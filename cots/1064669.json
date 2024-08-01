@@ -1,0 +1,10 @@
+{
+    "id": 1064669,
+    "name": "pay",
+    "version": "2.3.0",
+    "created_at": "2023-04-26T12:47:17",
+    "updated_at": "2023-05-02T10:58:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pay_project:pay:2.3.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

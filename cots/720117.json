@@ -1,0 +1,10 @@
+{
+    "id": 720117,
+    "name": "powerlogic_pm5562_firmware",
+    "version": "2.5.4",
+    "created_at": "2021-06-21T09:27:56",
+    "updated_at": "2021-06-21T11:29:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:powerlogic_pm5562_firmware:2.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

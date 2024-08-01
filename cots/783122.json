@@ -1,0 +1,10 @@
+{
+    "id": 783122,
+    "name": "java",
+    "version": "12.0.0",
+    "created_at": "2021-10-12T15:45:13",
+    "updated_at": "2021-10-13T09:25:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:java:12.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

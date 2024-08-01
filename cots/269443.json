@@ -1,0 +1,10 @@
+{
+    "id": 269443,
+    "name": "extract",
+    "version": "1.1.1",
+    "created_at": "2019-06-17T12:05:45",
+    "updated_at": "2019-06-17T12:05:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:extract:1.1.1:*:*:*:*:nextcloud:*:*",
+    "to_analyse": false
+}

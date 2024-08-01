@@ -1,0 +1,10 @@
+{
+    "id": 282733,
+    "name": "stdlib",
+    "version": "2.3.3",
+    "created_at": "2019-07-11T11:42:30",
+    "updated_at": "2019-07-11T11:42:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:stdlib:2.3.3:*:*:*:*:puppet:*:*",
+    "to_analyse": false
+}

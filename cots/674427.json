@@ -1,0 +1,10 @@
+{
+    "id": 674427,
+    "name": "kauth",
+    "version": "5.70.0",
+    "created_at": "2021-03-29T16:35:42",
+    "updated_at": "2021-04-07T15:33:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kauth:5.70.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

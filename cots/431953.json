@@ -1,0 +1,10 @@
+{
+    "id": 431953,
+    "name": "rvm",
+    "version": "1.28.0",
+    "created_at": "2019-11-19T16:12:45",
+    "updated_at": "2019-11-19T16:12:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rvm_project:rvm:1.28.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

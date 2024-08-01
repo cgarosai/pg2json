@@ -1,0 +1,10 @@
+{
+    "id": 952979,
+    "name": "password_storage_application",
+    "version": "1.0",
+    "created_at": "2022-10-27T12:50:16",
+    "updated_at": "2022-10-28T11:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:password_storage_application_project:password_storage_application:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

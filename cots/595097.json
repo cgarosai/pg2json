@@ -1,0 +1,10 @@
+{
+    "id": 595097,
+    "name": "database",
+    "version": "-",
+    "created_at": "2020-09-03T09:52:08",
+    "updated_at": "2020-09-03T09:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:database:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

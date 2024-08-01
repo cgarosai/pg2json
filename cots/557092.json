@@ -1,0 +1,10 @@
+{
+    "id": 557092,
+    "name": "fusion",
+    "version": "11.5.3",
+    "created_at": "2020-06-01T15:58:55",
+    "updated_at": "2020-06-01T15:58:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:fusion:11.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

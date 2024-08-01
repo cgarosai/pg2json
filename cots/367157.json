@@ -1,0 +1,10 @@
+{
+    "id": 367157,
+    "name": "dropbox",
+    "version": "90.2.4",
+    "created_at": "2019-09-11T14:58:38",
+    "updated_at": "2019-09-11T14:58:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dropbox:dropbox:90.2.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

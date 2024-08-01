@@ -1,0 +1,10 @@
+{
+    "id": 699175,
+    "name": "cheetah_browser",
+    "version": "1.2.0",
+    "created_at": "2021-04-21T12:36:36",
+    "updated_at": "2021-05-28T15:11:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cheetah_browser_project:cheetah_browser:1.2.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

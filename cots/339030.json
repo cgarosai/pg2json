@@ -1,0 +1,10 @@
+{
+    "id": 339030,
+    "name": "sourcetree",
+    "version": "2.6.10.0",
+    "created_at": "2019-08-13T13:05:29",
+    "updated_at": "2019-08-13T13:05:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:sourcetree:2.6.10.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

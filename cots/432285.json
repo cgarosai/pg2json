@@ -1,0 +1,10 @@
+{
+    "id": 432285,
+    "name": "xeon_6252_firmware",
+    "version": "-",
+    "created_at": "2019-11-20T13:03:43",
+    "updated_at": "2021-05-04T12:04:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_6252_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

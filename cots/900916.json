@@ -1,0 +1,10 @@
+{
+    "id": 900916,
+    "name": "bt_lnmp",
+    "version": "-",
+    "created_at": "2022-07-14T13:53:07",
+    "updated_at": "2022-10-25T14:04:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bt_lnmp_project:bt_lnmp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

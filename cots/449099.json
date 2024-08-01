@@ -1,0 +1,10 @@
+{
+    "id": 449099,
+    "name": "quassel",
+    "version": "0.14",
+    "created_at": "2019-12-02T15:21:17",
+    "updated_at": "2019-12-02T15:21:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quassel-irc:quassel:0.14:pre:*:*:*:*:*:*",
+    "to_analyse": false
+}

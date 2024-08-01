@@ -1,0 +1,10 @@
+{
+    "id": 535497,
+    "name": "t640_firmware",
+    "version": "ls.st.p240s",
+    "created_at": "2020-04-14T12:15:33",
+    "updated_at": "2020-04-14T12:15:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:t640_firmware:ls.st.p240s:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

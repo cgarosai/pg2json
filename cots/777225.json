@@ -1,0 +1,10 @@
+{
+    "id": 777225,
+    "name": "crumb",
+    "version": "4.0.3",
+    "created_at": "2021-09-10T16:47:35",
+    "updated_at": "2021-09-10T16:49:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hapijs:crumb:4.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

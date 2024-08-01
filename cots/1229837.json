@@ -1,0 +1,10 @@
+{
+    "id": 1229837,
+    "name": "xiaomi_router_firmware",
+    "version": "2023.2",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mi:xiaomi_router_firmware:2023.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

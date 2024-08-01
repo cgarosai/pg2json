@@ -1,0 +1,10 @@
+{
+    "id": 606017,
+    "name": "simatic_wincc_open_architecture",
+    "version": "3.15",
+    "created_at": "2020-10-01T12:29:01",
+    "updated_at": "2022-05-18T15:08:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_open_architecture:3.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

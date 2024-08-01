@@ -1,0 +1,10 @@
+{
+    "id": 522000,
+    "name": "acu",
+    "version": "-",
+    "created_at": "2020-04-07T16:04:26",
+    "updated_at": "2020-04-07T16:04:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:acu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1059142,
+    "name": "cp900_firmware",
+    "version": "6.3c.566_b20171026",
+    "created_at": "2023-03-24T13:13:28",
+    "updated_at": "2023-08-28T15:42:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:totolink:cp900_firmware:6.3c.566_b20171026:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

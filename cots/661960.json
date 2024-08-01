@@ -1,0 +1,10 @@
+{
+    "id": 661960,
+    "name": "connection-tester",
+    "version": "0.0.7",
+    "created_at": "2021-03-04T15:06:14",
+    "updated_at": "2021-03-04T15:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:connection-tester_project:connection-tester:0.0.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

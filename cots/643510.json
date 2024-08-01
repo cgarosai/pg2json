@@ -1,0 +1,10 @@
+{
+    "id": 643510,
+    "name": "slf4j",
+    "version": "1.7.4",
+    "created_at": "2021-01-28T20:56:10",
+    "updated_at": "2021-01-28T20:56:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qos:slf4j:1.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

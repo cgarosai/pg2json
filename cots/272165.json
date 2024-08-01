@@ -1,0 +1,10 @@
+{
+    "id": 272165,
+    "name": "openwhisk",
+    "version": "1.0.0",
+    "created_at": "2019-06-28T15:43:04",
+    "updated_at": "2019-06-28T15:43:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:openwhisk:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

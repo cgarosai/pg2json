@@ -1,0 +1,10 @@
+{
+    "id": 231127,
+    "name": "glusterfs",
+    "version": "3.0.5",
+    "created_at": "2019-05-09T13:36:35",
+    "updated_at": "2019-05-09T13:36:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gluster:glusterfs:3.0.5:rc4:*:*:*:*:*:*",
+    "to_analyse": false
+}

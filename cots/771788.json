@@ -1,0 +1,10 @@
+{
+    "id": 771788,
+    "name": "contact_center",
+    "version": "700",
+    "created_at": "2021-09-17T15:42:58",
+    "updated_at": "2021-09-22T17:11:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:contact_center:700:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

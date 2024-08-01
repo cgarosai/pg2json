@@ -1,0 +1,10 @@
+{
+    "id": 594166,
+    "name": "simatic_notifier_server",
+    "version": "-",
+    "created_at": "2020-09-24T09:10:02",
+    "updated_at": "2020-09-24T09:10:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_notifier_server:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

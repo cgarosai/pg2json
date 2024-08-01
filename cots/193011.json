@@ -1,0 +1,10 @@
+{
+    "id": 193011,
+    "name": "inplc-rt",
+    "version": "3.08",
+    "created_at": "2019-01-15T16:08:42",
+    "updated_at": "2021-07-06T15:42:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mnc:inplc-rt:3.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

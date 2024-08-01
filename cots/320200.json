@@ -1,0 +1,10 @@
+{
+    "id": 320200,
+    "name": "parsedown",
+    "version": "0.1.4",
+    "created_at": "2019-08-01T13:30:12",
+    "updated_at": "2019-08-01T13:36:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parsedown_project:parsedown:0.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

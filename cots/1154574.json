@@ -1,0 +1,10 @@
+{
+    "id": 1154574,
+    "name": "webcamserver",
+    "version": "0.5.2",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webcamserver_project:webcamserver:0.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

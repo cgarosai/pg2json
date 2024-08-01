@@ -1,0 +1,10 @@
+{
+    "id": 183830,
+    "name": "enterprise_network_function_virtualization_software",
+    "version": "8.0",
+    "created_at": "2018-11-21T20:55:52",
+    "updated_at": "2021-05-25T12:50:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:enterprise_network_function_virtualization_software:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 115650,
+    "name": "rv_series_router_firmware",
+    "version": "1.0.2.6",
+    "created_at": "2016-02-24T16:12:19",
+    "updated_at": "2016-02-24T16:12:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv_series_router_firmware:1.0.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

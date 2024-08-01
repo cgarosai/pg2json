@@ -1,0 +1,10 @@
+{
+    "id": 92313,
+    "name": "db2",
+    "version": "9.7.0.9",
+    "created_at": "2014-09-04T14:52:12",
+    "updated_at": "2014-09-08T19:46:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2:9.7.0.9:a:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 462606,
+    "name": "secospace_usg6600_firmware",
+    "version": "v500r001c30spc600",
+    "created_at": "2020-01-05T14:50:30",
+    "updated_at": "2020-01-05T14:50:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:secospace_usg6600_firmware:v500r001c30spc600:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

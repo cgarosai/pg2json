@@ -1,0 +1,10 @@
+{
+    "id": 1219588,
+    "name": "jruby-openssl",
+    "version": "0.9.18",
+    "created_at": "2023-12-15T18:52:03",
+    "updated_at": "2023-12-15T18:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jruby:jruby-openssl:0.9.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

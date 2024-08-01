@@ -1,0 +1,10 @@
+{
+    "id": 492309,
+    "name": "tc_server",
+    "version": "3.1.6",
+    "created_at": "2020-02-25T13:08:52",
+    "updated_at": "2020-02-25T13:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:tc_server:3.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

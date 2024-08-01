@@ -1,0 +1,10 @@
+{
+    "id": 860435,
+    "name": "clash",
+    "version": "0.16.4",
+    "created_at": "2022-04-05T11:45:07",
+    "updated_at": "2022-04-05T19:33:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clash_project:clash:0.16.4:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

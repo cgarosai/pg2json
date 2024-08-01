@@ -1,0 +1,10 @@
+{
+    "id": 462555,
+    "name": "nip6800_firmware",
+    "version": "v500r001c80",
+    "created_at": "2020-01-05T14:50:14",
+    "updated_at": "2020-01-05T14:50:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nip6800_firmware:v500r001c80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

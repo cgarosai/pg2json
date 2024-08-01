@@ -1,0 +1,10 @@
+{
+    "id": 846779,
+    "name": "beanstalk_console",
+    "version": "1.7.10",
+    "created_at": "2022-02-07T17:45:05",
+    "updated_at": "2022-02-07T18:04:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beanstalk_console_project:beanstalk_console:1.7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

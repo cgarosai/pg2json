@@ -1,0 +1,10 @@
+{
+    "id": 810083,
+    "name": "vcenter_server",
+    "version": "6.7",
+    "created_at": "2021-11-30T00:19:28",
+    "updated_at": "2022-04-07T23:14:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vcenter_server:6.7:update_3o:*:*:*:*:*:*",
+    "to_analyse": false
+}

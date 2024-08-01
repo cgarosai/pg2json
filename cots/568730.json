@@ -1,0 +1,10 @@
+{
+    "id": 568730,
+    "name": "cryptography",
+    "version": "2.4.2",
+    "created_at": "2020-07-06T14:27:47",
+    "updated_at": "2020-07-06T14:27:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cryptography.io:cryptography:2.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

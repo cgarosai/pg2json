@@ -1,0 +1,10 @@
+{
+    "id": 583133,
+    "name": "reportdata",
+    "version": "1.5",
+    "created_at": "2020-09-01T10:57:43",
+    "updated_at": "2020-09-01T10:57:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:reportdata_project:reportdata:1.5:*:*:*:*:munkireport:*:*",
+    "to_analyse": false
+}

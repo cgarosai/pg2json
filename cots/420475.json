@@ -1,0 +1,10 @@
+{
+    "id": 420475,
+    "name": "sanic",
+    "version": "0.1.8",
+    "created_at": "2019-11-05T14:02:53",
+    "updated_at": "2019-11-05T14:02:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sanic_project:sanic:0.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

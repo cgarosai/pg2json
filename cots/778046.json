@@ -1,0 +1,10 @@
+{
+    "id": 778046,
+    "name": "buildgraph-view",
+    "version": "1.7",
+    "created_at": "2021-09-14T12:10:24",
+    "updated_at": "2021-09-14T12:41:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:buildgraph-view:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

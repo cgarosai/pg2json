@@ -1,0 +1,10 @@
+{
+    "id": 1012800,
+    "name": "open_vswitch",
+    "version": "2.7.3",
+    "created_at": "2023-01-24T19:03:54",
+    "updated_at": "2023-01-24T19:33:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudbase:open_vswitch:2.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

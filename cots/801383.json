@@ -1,0 +1,10 @@
+{
+    "id": 801383,
+    "name": "owasp_dependency-check",
+    "version": "3.1.2",
+    "created_at": "2021-11-15T19:36:45",
+    "updated_at": "2021-11-15T19:38:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:owasp_dependency-check:3.1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

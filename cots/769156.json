@@ -1,0 +1,10 @@
+{
+    "id": 769156,
+    "name": "redmine",
+    "version": "4.2.2",
+    "created_at": "2021-08-24T11:08:37",
+    "updated_at": "2021-08-25T11:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redmine:redmine:4.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 407461,
+    "name": "abrt",
+    "version": "2.10.6",
+    "created_at": "2019-10-09T15:37:55",
+    "updated_at": "2019-10-09T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abrt_project:abrt:2.10.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

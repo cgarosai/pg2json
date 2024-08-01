@@ -1,0 +1,10 @@
+{
+    "id": 1018167,
+    "name": "epyc_7302p_firmware",
+    "version": "romepi_100d",
+    "created_at": "2023-01-18T13:14:13",
+    "updated_at": "2023-01-25T05:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7302p_firmware:romepi_100d:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

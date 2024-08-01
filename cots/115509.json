@@ -1,0 +1,10 @@
+{
+    "id": 115509,
+    "name": "phpmyadmin",
+    "version": "4.0.10.12",
+    "created_at": "2016-02-23T14:10:24",
+    "updated_at": "2016-02-23T14:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.0.10.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

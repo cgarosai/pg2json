@@ -1,0 +1,10 @@
+{
+    "id": 797151,
+    "name": "simatic_pcs_neo",
+    "version": "3.0",
+    "created_at": "2021-10-18T10:36:14",
+    "updated_at": "2021-12-03T15:38:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_pcs_neo:3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

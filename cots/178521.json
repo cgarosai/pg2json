@@ -1,0 +1,10 @@
+{
+    "id": 178521,
+    "name": "sg300-28_firmware",
+    "version": "1.4.7.06",
+    "created_at": "2018-10-01T16:32:40",
+    "updated_at": "2021-04-23T16:25:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg300-28_firmware:1.4.7.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

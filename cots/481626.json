@@ -1,0 +1,10 @@
+{
+    "id": 481626,
+    "name": "yast2-rmt",
+    "version": "1.2.2",
+    "created_at": "2020-02-05T15:41:55",
+    "updated_at": "2020-02-05T15:41:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yast2-rmt_project:yast2-rmt:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 838392,
+    "name": "engine.io",
+    "version": "1.7.0",
+    "created_at": "2022-01-19T14:43:22",
+    "updated_at": "2022-01-19T15:33:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:socket:engine.io:1.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

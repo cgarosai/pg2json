@@ -1,0 +1,10 @@
+{
+    "id": 400356,
+    "name": "ionic_web_view",
+    "version": "2.3.0",
+    "created_at": "2019-10-15T15:13:46",
+    "updated_at": "2019-10-15T15:13:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ionicframework:ionic_web_view:2.3.0:*:*:*:*:cordova:*:*",
+    "to_analyse": false
+}

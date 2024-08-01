@@ -1,0 +1,10 @@
+{
+    "id": 530170,
+    "name": "xeon",
+    "version": "e5530",
+    "created_at": "2020-04-27T18:28:45",
+    "updated_at": "2020-04-28T09:38:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon:e5530:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

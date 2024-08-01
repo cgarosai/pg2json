@@ -1,0 +1,10 @@
+{
+    "id": 1168715,
+    "name": "identity_linux_broker",
+    "version": "1.6.1",
+    "created_at": "2023-09-28T09:09:50",
+    "updated_at": "2023-09-28T09:09:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:identity_linux_broker:1.6.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

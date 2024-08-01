@@ -1,0 +1,10 @@
+{
+    "id": 75830,
+    "name": "ircd-hybrid",
+    "version": "7.3.0",
+    "created_at": "2013-02-13T14:18:53",
+    "updated_at": "2013-03-07T17:45:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ircd-hybrid:ircd-hybrid:7.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

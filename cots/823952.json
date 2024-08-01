@@ -1,0 +1,10 @@
+{
+    "id": 823952,
+    "name": "davinci_resolve",
+    "version": "17.3.1.0005",
+    "created_at": "2022-01-05T14:51:24",
+    "updated_at": "2022-10-03T14:41:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackmagicdesign:davinci_resolve:17.3.1.0005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

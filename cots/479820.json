@@ -1,0 +1,10 @@
+{
+    "id": 479820,
+    "name": "eglibc",
+    "version": "2.11",
+    "created_at": "2020-01-15T18:39:30",
+    "updated_at": "2020-01-15T18:39:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eglibc:eglibc:2.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

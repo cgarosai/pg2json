@@ -1,0 +1,10 @@
+{
+    "id": 315673,
+    "name": "yaws",
+    "version": "1.91",
+    "created_at": "2019-07-25T15:07:09",
+    "updated_at": "2019-07-25T15:07:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yaws:yaws:1.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 967050,
+    "name": "net",
+    "version": "2018-07-13",
+    "created_at": "2022-11-02T15:57:20",
+    "updated_at": "2022-11-08T18:40:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:net:2018-07-13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

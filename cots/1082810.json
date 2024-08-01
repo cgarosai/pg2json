@@ -1,0 +1,10 @@
+{
+    "id": 1082810,
+    "name": "civicrm",
+    "version": "5.59",
+    "created_at": "2023-05-30T14:21:07",
+    "updated_at": "2023-05-31T09:53:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:civicrm:civicrm:5.59:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

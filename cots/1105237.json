@@ -1,0 +1,10 @@
+{
+    "id": 1105237,
+    "name": "shipping_management",
+    "version": "1.0",
+    "created_at": "2023-06-18T10:48:27",
+    "updated_at": "2023-07-14T09:26:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shipyaari:shipping_management:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1255177,
+    "name": "snom_820",
+    "version": "-",
+    "created_at": "2024-02-07T20:02:50",
+    "updated_at": "2024-02-07T20:02:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:snom:snom_820:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

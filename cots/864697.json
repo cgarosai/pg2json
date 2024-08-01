@@ -1,0 +1,10 @@
+{
+    "id": 864697,
+    "name": "emg3525-t50b_firmware",
+    "version": "5.50\\(abpm.6\\)c0",
+    "created_at": "2022-04-14T13:32:20",
+    "updated_at": "2022-04-15T15:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:emg3525-t50b_firmware:5.50\\(abpm.6\\)c0:*:*:*:emea:*:*:*",
+    "to_analyse": false
+}

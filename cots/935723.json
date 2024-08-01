@@ -1,0 +1,10 @@
+{
+    "id": 935723,
+    "name": "oslo.utils",
+    "version": "3.41.4",
+    "created_at": "2022-08-31T12:13:14",
+    "updated_at": "2022-09-01T17:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:oslo.utils:3.41.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

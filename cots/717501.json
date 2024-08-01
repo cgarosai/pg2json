@@ -1,0 +1,10 @@
+{
+    "id": 717501,
+    "name": "cisco_nx-os_collection",
+    "version": "1.2.0",
+    "created_at": "2021-06-01T13:29:16",
+    "updated_at": "2021-06-02T15:22:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:cisco_nx-os_collection:1.2.0:*:*:*:*:ansible:*:*",
+    "to_analyse": false
+}

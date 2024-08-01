@@ -1,0 +1,10 @@
+{
+    "id": 1047194,
+    "name": "web_policy_agents",
+    "version": "5.10.2",
+    "created_at": "2023-03-07T10:28:41",
+    "updated_at": "2023-03-07T10:31:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forgerock:web_policy_agents:5.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

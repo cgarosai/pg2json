@@ -1,0 +1,10 @@
+{
+    "id": 839063,
+    "name": "nanoid",
+    "version": "1.2.3",
+    "created_at": "2022-01-21T13:40:18",
+    "updated_at": "2022-01-21T13:47:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nanoid_project:nanoid:1.2.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

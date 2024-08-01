@@ -1,0 +1,10 @@
+{
+    "id": 214679,
+    "name": "sigma_spectrum_infusion_system",
+    "version": "-",
+    "created_at": "2019-04-03T11:13:41",
+    "updated_at": "2021-04-28T14:10:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:baxter:sigma_spectrum_infusion_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

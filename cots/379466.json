@@ -1,0 +1,10 @@
+{
+    "id": 379466,
+    "name": "embeddable_build_status",
+    "version": "1.9",
+    "created_at": "2019-09-19T13:15:44",
+    "updated_at": "2019-09-19T13:15:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:embeddable_build_status:1.9:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 760398,
+    "name": "maintenance",
+    "version": "2.0",
+    "created_at": "2021-08-25T18:41:06",
+    "updated_at": "2021-08-25T20:06:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webfactoryltd:maintenance:2.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

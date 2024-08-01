@@ -1,0 +1,10 @@
+{
+    "id": 1023864,
+    "name": "formula",
+    "version": "3.0.1",
+    "created_at": "2023-02-14T19:25:09",
+    "updated_at": "2023-02-23T12:58:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hapi:formula:3.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

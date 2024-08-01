@@ -1,0 +1,10 @@
+{
+    "id": 1044367,
+    "name": "rack",
+    "version": "2.1.4.3",
+    "created_at": "2023-03-15T14:30:55",
+    "updated_at": "2023-07-13T17:00:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rack_project:rack:2.1.4.3:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

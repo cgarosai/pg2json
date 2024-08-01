@@ -1,0 +1,10 @@
+{
+    "id": 979435,
+    "name": "spring_security_core",
+    "version": "3.1.0",
+    "created_at": "2022-11-29T16:34:55",
+    "updated_at": "2022-11-29T17:00:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grails:spring_security_core:3.1.0:*:*:*:*:grails:*:*",
+    "to_analyse": false
+}

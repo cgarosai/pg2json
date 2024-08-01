@@ -1,0 +1,10 @@
+{
+    "id": 292453,
+    "name": "git_hosting",
+    "version": "2.1.0",
+    "created_at": "2019-07-17T13:02:30",
+    "updated_at": "2019-07-17T13:02:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redmine:git_hosting:2.1.0:*:*:*:*:redmine:*:*",
+    "to_analyse": false
+}

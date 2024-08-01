@@ -1,0 +1,10 @@
+{
+    "id": 1073068,
+    "name": "postgresnio",
+    "version": "1.4.3",
+    "created_at": "2023-05-16T11:51:41",
+    "updated_at": "2023-06-07T12:06:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vapor:postgresnio:1.4.3:*:*:*:*:postgresql:*:*",
+    "to_analyse": false
+}

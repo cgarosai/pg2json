@@ -1,0 +1,10 @@
+{
+    "id": 382685,
+    "name": "halo",
+    "version": "1.0.0",
+    "created_at": "2019-09-26T12:21:49",
+    "updated_at": "2019-10-04T14:40:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:halo_project:halo:1.0.0:beta7:*:*:*:*:*:*",
+    "to_analyse": false
+}

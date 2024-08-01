@@ -1,0 +1,10 @@
+{
+    "id": 302454,
+    "name": "connect",
+    "version": "1.6.0",
+    "created_at": "2019-07-23T14:48:29",
+    "updated_at": "2019-07-23T14:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sencha:connect:1.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

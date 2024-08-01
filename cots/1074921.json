@@ -1,0 +1,10 @@
+{
+    "id": 1074921,
+    "name": "ryzen_3995wx_firmware",
+    "version": "chagallwspi-swrx8_1.0.0.2",
+    "created_at": "2023-05-18T17:30:53",
+    "updated_at": "2023-08-15T11:33:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_3995wx_firmware:chagallwspi-swrx8_1.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

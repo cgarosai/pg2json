@@ -1,0 +1,10 @@
+{
+    "id": 519215,
+    "name": "core_i9-9980xe",
+    "version": "-",
+    "created_at": "2020-03-23T13:40:00",
+    "updated_at": "2020-03-23T13:40:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i9-9980xe:-:*:*:*:extreme:*:*:*",
+    "to_analyse": false
+}

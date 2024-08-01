@@ -1,0 +1,10 @@
+{
+    "id": 23467,
+    "name": "fetchmail",
+    "version": "6.3.0",
+    "created_at": "2010-05-10T11:22:18",
+    "updated_at": "2011-02-15T15:16:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fetchmail:fetchmail:6.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

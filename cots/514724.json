@@ -1,0 +1,10 @@
+{
+    "id": 514724,
+    "name": "bigfix_webui_profile_management",
+    "version": "7",
+    "created_at": "2020-03-31T16:01:46",
+    "updated_at": "2020-03-31T16:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:bigfix_webui_profile_management:7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

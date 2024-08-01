@@ -1,0 +1,10 @@
+{
+    "id": 844131,
+    "name": "pipeline\\",
+    "version": "_multibranch",
+    "created_at": "2022-02-22T13:23:11",
+    "updated_at": "2022-02-22T13:24:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline\\:_multibranch:2.17:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

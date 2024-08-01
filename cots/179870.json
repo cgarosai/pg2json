@@ -1,0 +1,10 @@
+{
+    "id": 179870,
+    "name": "gzip",
+    "version": "1.9",
+    "created_at": "2018-10-09T16:40:20",
+    "updated_at": "2023-06-06T17:01:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gzip:1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

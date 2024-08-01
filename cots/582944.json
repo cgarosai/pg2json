@@ -1,0 +1,10 @@
+{
+    "id": 582944,
+    "name": "lms143_firmware",
+    "version": "-",
+    "created_at": "2020-09-01T09:05:39",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:lms143_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

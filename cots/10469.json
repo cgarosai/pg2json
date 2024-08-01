@@ -1,0 +1,10 @@
+{
+    "id": 10469,
+    "name": "brightstor_arcserve_backup_laptops_desktops",
+    "version": "11.5",
+    "created_at": "2007-10-02T11:31:16",
+    "updated_at": "2021-04-07T16:19:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:brightstor_arcserve_backup_laptops_desktops:11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

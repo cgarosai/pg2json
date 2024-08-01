@@ -1,0 +1,10 @@
+{
+    "id": 96903,
+    "name": "phppgadmin",
+    "version": "5.0.3",
+    "created_at": "2014-05-14T16:01:23",
+    "updated_at": "2014-05-14T21:57:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phppgadmin_project:phppgadmin:5.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

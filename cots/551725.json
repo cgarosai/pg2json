@@ -1,0 +1,10 @@
+{
+    "id": 551725,
+    "name": "indy-node",
+    "version": "1.1.35",
+    "created_at": "2020-06-18T16:36:40",
+    "updated_at": "2020-06-18T16:36:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:indy-node:1.1.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

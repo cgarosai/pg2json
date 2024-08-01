@@ -1,0 +1,10 @@
+{
+    "id": 832231,
+    "name": "convert-svg-core",
+    "version": "-",
+    "created_at": "2022-01-27T16:46:33",
+    "updated_at": "2022-01-31T15:19:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:convert-svg-core_project:convert-svg-core:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

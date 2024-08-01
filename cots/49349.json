@@ -1,0 +1,10 @@
+{
+    "id": 49349,
+    "name": "tcp_ip_services_openvms",
+    "version": "5.6",
+    "created_at": "2011-11-11T16:40:06",
+    "updated_at": "2011-11-17T20:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:tcp_ip_services_openvms:5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 671515,
+    "name": "sql_backup",
+    "version": "9.2.7",
+    "created_at": "2021-03-19T19:14:48",
+    "updated_at": "2021-03-23T14:10:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:red-gate:sql_backup:9.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

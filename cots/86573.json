@@ -1,0 +1,10 @@
+{
+    "id": 86573,
+    "name": "shindig",
+    "version": "2.5.0",
+    "created_at": "2013-10-24T11:55:15",
+    "updated_at": "2013-10-24T11:56:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:shindig:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

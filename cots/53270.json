@@ -1,0 +1,10 @@
+{
+    "id": 53270,
+    "name": "perl_express",
+    "version": "2.5",
+    "created_at": "2012-07-10T01:17:25",
+    "updated_at": "2012-07-10T01:17:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perlexpress:perl_express:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 606096,
+    "name": "m2release",
+    "version": "0.14.0",
+    "created_at": "2020-10-02T12:46:52",
+    "updated_at": "2020-10-02T12:46:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:m2release:0.14.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

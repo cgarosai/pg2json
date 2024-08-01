@@ -1,0 +1,10 @@
+{
+    "id": 737152,
+    "name": "ipmctl",
+    "version": "2.00.00.3771",
+    "created_at": "2021-07-02T11:57:10",
+    "updated_at": "2021-07-02T14:05:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:ipmctl:2.00.00.3771:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

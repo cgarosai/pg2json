@@ -1,0 +1,10 @@
+{
+    "id": 408539,
+    "name": "simatic_it_uadm",
+    "version": "-",
+    "created_at": "2019-10-11T11:52:09",
+    "updated_at": "2019-10-11T11:52:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_it_uadm:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

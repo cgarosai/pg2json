@@ -1,0 +1,10 @@
+{
+    "id": 1200792,
+    "name": "polyeco1000_firmware",
+    "version": "1.9.4",
+    "created_at": "2023-12-01T17:30:58",
+    "updated_at": "2023-12-01T17:30:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sielco:polyeco1000_firmware:1.9.4:*:*:*:cpu:*:*:*",
+    "to_analyse": false
+}

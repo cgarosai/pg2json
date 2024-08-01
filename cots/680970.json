@@ -1,0 +1,10 @@
+{
+    "id": 680970,
+    "name": "host-based_intrusion_prevention_system",
+    "version": "8",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T14:52:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:host-based_intrusion_prevention_system:8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

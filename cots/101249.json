@@ -1,0 +1,10 @@
+{
+    "id": 101249,
+    "name": "hybridauth_social_login",
+    "version": "7.x-2.10",
+    "created_at": "2015-08-20T11:18:36",
+    "updated_at": "2015-09-01T15:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hybridauth_social_login_project:hybridauth_social_login:7.x-2.10:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

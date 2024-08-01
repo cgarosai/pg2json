@@ -1,0 +1,10 @@
+{
+    "id": 8304,
+    "name": "2401_video_server",
+    "version": "1.0_1",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T12:36:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:axis:2401_video_server:1.0_1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 796972,
+    "name": "omero-web",
+    "version": "-",
+    "created_at": "2021-10-15T12:10:33",
+    "updated_at": "2021-10-18T10:36:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmicroscopy:omero-web:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

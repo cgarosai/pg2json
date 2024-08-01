@@ -1,0 +1,10 @@
+{
+    "id": 447293,
+    "name": "qcs405_firmware",
+    "version": "-",
+    "created_at": "2019-11-26T13:55:01",
+    "updated_at": "2019-11-26T13:55:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:qcs405_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

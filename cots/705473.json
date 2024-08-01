@@ -1,0 +1,10 @@
+{
+    "id": 705473,
+    "name": "r1-2210_firmware",
+    "version": "2.0.0.82",
+    "created_at": "2021-05-06T10:21:32",
+    "updated_at": "2021-05-19T12:36:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:r1-2210_firmware:2.0.0.82:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

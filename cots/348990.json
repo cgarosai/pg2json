@@ -1,0 +1,10 @@
+{
+    "id": 348990,
+    "name": "media_library_assistant",
+    "version": "0.90",
+    "created_at": "2019-08-26T11:10:20",
+    "updated_at": "2023-08-07T16:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:media_library_assistant_project:media_library_assistant:0.90:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

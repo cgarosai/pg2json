@@ -1,0 +1,10 @@
+{
+    "id": 124374,
+    "name": "openstack",
+    "version": "07132017",
+    "created_at": "2017-08-31T16:16:42",
+    "updated_at": "2021-08-09T16:19:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:openstack:07132017:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

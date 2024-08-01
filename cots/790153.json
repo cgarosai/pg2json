@@ -1,0 +1,10 @@
+{
+    "id": 790153,
+    "name": "essbase_administration_services",
+    "version": "11.1.2.4.046",
+    "created_at": "2021-10-25T16:19:30",
+    "updated_at": "2021-11-08T13:37:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:essbase_administration_services:11.1.2.4.046:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

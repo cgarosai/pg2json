@@ -1,0 +1,10 @@
+{
+    "id": 511120,
+    "name": "simple_link_directory",
+    "version": "6.6.0",
+    "created_at": "2020-03-24T17:44:00",
+    "updated_at": "2020-03-24T17:44:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quantumcloud:simple_link_directory:6.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

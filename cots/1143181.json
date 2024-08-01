@@ -1,0 +1,10 @@
+{
+    "id": 1143181,
+    "name": "graylog",
+    "version": "4.2.9",
+    "created_at": "2023-09-05T14:07:57",
+    "updated_at": "2023-09-05T17:38:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:graylog:graylog:4.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

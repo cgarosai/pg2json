@@ -1,0 +1,10 @@
+{
+    "id": 98923,
+    "name": "jogamp",
+    "version": "-",
+    "created_at": "2014-06-13T15:06:14",
+    "updated_at": "2014-06-20T16:56:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jogamp:jogamp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 220075,
+    "name": "vtune_amplifier",
+    "version": "2018",
+    "created_at": "2019-04-17T12:48:03",
+    "updated_at": "2019-04-17T12:48:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:vtune_amplifier:2018:update3:*:*:*:*:*:*",
+    "to_analyse": false
+}

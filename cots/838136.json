@@ -1,0 +1,10 @@
+{
+    "id": 838136,
+    "name": "follow-redirects",
+    "version": "1.11.0",
+    "created_at": "2022-01-18T18:13:07",
+    "updated_at": "2022-02-09T13:03:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:follow-redirects_project:follow-redirects:1.11.0:*:*:*:node.js:*:*:*",
+    "to_analyse": false
+}

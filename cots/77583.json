@@ -1,0 +1,10 @@
+{
+    "id": 77583,
+    "name": "networks_mobility_system_software",
+    "version": "7.4",
+    "created_at": "2013-04-03T10:50:22",
+    "updated_at": "2013-04-09T19:29:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:networks_mobility_system_software:7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 805113,
+    "name": "update_manager",
+    "version": "2.2",
+    "created_at": "2021-11-03T13:17:55",
+    "updated_at": "2021-11-08T13:00:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abb:update_manager:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 618003,
+    "name": "app_connect_enterprise_certified_container",
+    "version": "1.0.2",
+    "created_at": "2020-11-05T18:34:39",
+    "updated_at": "2020-11-05T18:34:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:app_connect_enterprise_certified_container:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

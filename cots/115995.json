@@ -1,0 +1,10 @@
+{
+    "id": 115995,
+    "name": "financial_transaction_manager",
+    "version": "3.0.0.4",
+    "created_at": "2016-03-09T16:32:54",
+    "updated_at": "2016-03-09T16:32:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.4:*:*:*:*:ach_services:*:*",
+    "to_analyse": false
+}

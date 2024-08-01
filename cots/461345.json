@@ -1,0 +1,10 @@
+{
+    "id": 461345,
+    "name": "ethernet_i218_adapter_driver",
+    "version": "24.1",
+    "created_at": "2020-01-02T15:21:10",
+    "updated_at": "2020-01-02T15:21:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:ethernet_i218_adapter_driver:24.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

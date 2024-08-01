@@ -1,0 +1,10 @@
+{
+    "id": 167467,
+    "name": "cortex-a",
+    "version": "76",
+    "created_at": "2018-07-11T16:21:57",
+    "updated_at": "2021-04-13T14:27:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arm:cortex-a:76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

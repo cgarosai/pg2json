@@ -1,0 +1,10 @@
+{
+    "id": 604519,
+    "name": "core_i7_8086k",
+    "version": "-",
+    "created_at": "2020-10-23T15:59:19",
+    "updated_at": "2020-10-23T15:59:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i7_8086k:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

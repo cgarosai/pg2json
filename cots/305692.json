@@ -1,0 +1,10 @@
+{
+    "id": 305692,
+    "name": "zeek",
+    "version": "2.3",
+    "created_at": "2019-07-18T16:21:28",
+    "updated_at": "2019-07-18T16:21:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zeek:zeek:2.3:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

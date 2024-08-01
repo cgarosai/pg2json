@@ -1,0 +1,10 @@
+{
+    "id": 54196,
+    "name": "veritas_gridnode_agent",
+    "version": "5.0.286",
+    "created_at": "2012-07-10T01:22:43",
+    "updated_at": "2012-07-10T01:22:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_gridnode_agent:5.0.286:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

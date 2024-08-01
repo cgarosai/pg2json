@@ -1,0 +1,10 @@
+{
+    "id": 905230,
+    "name": "scniro-validator",
+    "version": "1.0.1",
+    "created_at": "2022-07-06T12:20:18",
+    "updated_at": "2022-07-07T12:15:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scniro-validator_project:scniro-validator:1.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

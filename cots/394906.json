@@ -1,0 +1,10 @@
+{
+    "id": 394906,
+    "name": "user_account_and_authentication",
+    "version": "4.27.0",
+    "created_at": "2019-10-07T14:23:48",
+    "updated_at": "2021-08-17T10:48:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:user_account_and_authentication:4.27.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 138445,
+    "name": "talon_tc_bacnet_automation_controller",
+    "version": "-",
+    "created_at": "2017-11-14T20:03:32",
+    "updated_at": "2021-07-08T16:32:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:talon_tc_bacnet_automation_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

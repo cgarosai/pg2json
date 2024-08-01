@@ -1,0 +1,10 @@
+{
+    "id": 539867,
+    "name": "proliant_e910_server_blade",
+    "version": "-",
+    "created_at": "2020-04-27T18:05:00",
+    "updated_at": "2020-04-27T18:05:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hpe:proliant_e910_server_blade:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

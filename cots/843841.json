@@ -1,0 +1,10 @@
+{
+    "id": 843841,
+    "name": "checkmarx",
+    "version": "8.80.0",
+    "created_at": "2022-02-18T15:17:17",
+    "updated_at": "2022-02-18T15:18:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:checkmarx:8.80.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

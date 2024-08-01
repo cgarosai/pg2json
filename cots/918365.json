@@ -1,0 +1,10 @@
+{
+    "id": 918365,
+    "name": "git_client",
+    "version": "3.11.0",
+    "created_at": "2022-08-01T15:36:28",
+    "updated_at": "2022-08-02T12:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:git_client:3.11.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

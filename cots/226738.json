@@ -1,0 +1,10 @@
+{
+    "id": 226738,
+    "name": "proliant_ml350_gen10",
+    "version": "-",
+    "created_at": "2019-04-10T13:45:46",
+    "updated_at": "2021-06-24T15:41:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:proliant_ml350_gen10:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

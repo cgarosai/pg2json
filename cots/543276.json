@@ -1,0 +1,10 @@
+{
+    "id": 543276,
+    "name": "php",
+    "version": "7.2.31",
+    "created_at": "2020-05-21T13:12:15",
+    "updated_at": "2020-05-21T13:12:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php:php:7.2.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

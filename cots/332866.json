@@ -1,0 +1,10 @@
+{
+    "id": 332866,
+    "name": "mbedtls",
+    "version": "2.10.0",
+    "created_at": "2019-08-16T16:30:42",
+    "updated_at": "2020-11-05T16:46:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mbed:mbedtls:2.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

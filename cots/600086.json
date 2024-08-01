@@ -1,0 +1,10 @@
+{
+    "id": 600086,
+    "name": "uniqlo",
+    "version": "7.3.3",
+    "created_at": "2020-10-07T14:33:20",
+    "updated_at": "2020-10-07T14:33:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uniqlo:uniqlo:7.3.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

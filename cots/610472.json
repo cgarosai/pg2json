@@ -1,0 +1,10 @@
+{
+    "id": 610472,
+    "name": "netweaver_compare_systems",
+    "version": "7.20",
+    "created_at": "2020-11-17T17:52:32",
+    "updated_at": "2020-11-17T17:52:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_compare_systems:7.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

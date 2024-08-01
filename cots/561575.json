@@ -1,0 +1,10 @@
+{
+    "id": 561575,
+    "name": "stripe_api",
+    "version": "1.0.6",
+    "created_at": "2020-07-13T14:55:12",
+    "updated_at": "2020-07-13T14:55:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stripe:stripe_api:1.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

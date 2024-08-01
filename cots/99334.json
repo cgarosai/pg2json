@@ -1,0 +1,10 @@
+{
+    "id": 99334,
+    "name": "freefloat_ftp_server",
+    "version": "1.0",
+    "created_at": "2014-06-23T13:31:52",
+    "updated_at": "2014-06-24T12:51:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freefloat:freefloat_ftp_server:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

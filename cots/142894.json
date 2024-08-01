@@ -1,0 +1,10 @@
+{
+    "id": 142894,
+    "name": "power_hardware_management_console",
+    "version": "7r7.1.0",
+    "created_at": "2018-05-18T13:40:28",
+    "updated_at": "2021-06-07T16:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:power_hardware_management_console:7r7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

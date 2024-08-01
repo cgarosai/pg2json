@@ -1,0 +1,10 @@
+{
+    "id": 786575,
+    "name": "openvpn_access_server",
+    "version": "2.9.4",
+    "created_at": "2021-09-29T15:50:03",
+    "updated_at": "2021-09-29T16:40:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvpn:openvpn_access_server:2.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

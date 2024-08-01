@@ -1,0 +1,10 @@
+{
+    "id": 229431,
+    "name": "tinfoil_security",
+    "version": "1.0",
+    "created_at": "2019-04-16T11:22:37",
+    "updated_at": "2019-04-16T11:22:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:tinfoil_security:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

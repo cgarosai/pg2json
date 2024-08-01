@@ -1,0 +1,10 @@
+{
+    "id": 1260147,
+    "name": "it_service_intelligence",
+    "version": "4.17.0",
+    "created_at": "2024-04-23T10:49:08",
+    "updated_at": "2024-04-23T10:49:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splunk:it_service_intelligence:4.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

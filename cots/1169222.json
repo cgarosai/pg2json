@@ -1,0 +1,10 @@
+{
+    "id": 1169222,
+    "name": "appointment_scheduling_module",
+    "version": "1.17.0",
+    "created_at": "2023-09-28T12:51:39",
+    "updated_at": "2023-09-28T12:51:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmrs:appointment_scheduling_module:1.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

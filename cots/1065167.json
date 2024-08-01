@@ -1,0 +1,10 @@
+{
+    "id": 1065167,
+    "name": "mashup_portlets",
+    "version": "1.1.2",
+    "created_at": "2023-04-06T09:25:18",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mashup_portlets:1.1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

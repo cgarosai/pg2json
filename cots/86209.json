@@ -1,0 +1,10 @@
+{
+    "id": 86209,
+    "name": "jrockit",
+    "version": "r28.2.4",
+    "created_at": "2013-10-16T16:38:12",
+    "updated_at": "2013-10-16T17:00:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:jrockit:r28.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

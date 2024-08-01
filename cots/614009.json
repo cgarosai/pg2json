@@ -1,0 +1,10 @@
+{
+    "id": 614009,
+    "name": "dependabot",
+    "version": "0.119.4",
+    "created_at": "2020-11-20T18:12:35",
+    "updated_at": "2020-11-20T18:12:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dependabot_project:dependabot:0.119.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

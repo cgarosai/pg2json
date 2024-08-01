@@ -1,0 +1,10 @@
+{
+    "id": 562656,
+    "name": "melsec-fx_firmware",
+    "version": "-",
+    "created_at": "2020-07-16T15:02:37",
+    "updated_at": "2020-07-16T15:02:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:melsec-fx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1144575,
+    "name": "bioentry-w2_firmware",
+    "version": "-",
+    "created_at": "2023-09-07T12:51:04",
+    "updated_at": "2023-09-07T14:50:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synel:bioentry-w2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

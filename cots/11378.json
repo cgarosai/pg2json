@@ -1,0 +1,10 @@
+{
+    "id": 11378,
+    "name": "smtp",
+    "version": "7.10",
+    "created_at": "2008-01-23T14:27:17",
+    "updated_at": "2008-04-01T12:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citadel:smtp:7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

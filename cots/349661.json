@@ -1,0 +1,10 @@
+{
+    "id": 349661,
+    "name": "processor_identification_utility",
+    "version": "6.1.0731",
+    "created_at": "2019-08-27T10:00:42",
+    "updated_at": "2019-08-27T10:00:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:processor_identification_utility:6.1.0731:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

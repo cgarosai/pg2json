@@ -1,0 +1,10 @@
+{
+    "id": 609222,
+    "name": "json-pointer",
+    "version": "0.3.0",
+    "created_at": "2020-10-06T14:33:14",
+    "updated_at": "2020-10-06T14:33:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smallpdf:json-pointer:0.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

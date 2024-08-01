@@ -1,0 +1,10 @@
+{
+    "id": 867145,
+    "name": "simatic_et_200sp_open_controller_firmware",
+    "version": "-",
+    "created_at": "2022-03-25T18:02:02",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_et_200sp_open_controller_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

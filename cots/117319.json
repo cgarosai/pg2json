@@ -1,0 +1,10 @@
+{
+    "id": 117319,
+    "name": "rsa_data_loss_prevention",
+    "version": "9.6.2.4",
+    "created_at": "2016-05-04T12:52:19",
+    "updated_at": "2016-05-04T12:52:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_data_loss_prevention:9.6.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

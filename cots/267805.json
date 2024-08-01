@@ -1,0 +1,10 @@
+{
+    "id": 267805,
+    "name": "mozjpeg",
+    "version": "1.2.90",
+    "created_at": "2019-06-14T15:52:54",
+    "updated_at": "2019-06-14T15:52:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:mozjpeg:1.2.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

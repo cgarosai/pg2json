@@ -1,0 +1,10 @@
+{
+    "id": 1090922,
+    "name": "yajl",
+    "version": "1.0.12",
+    "created_at": "2023-06-12T12:19:09",
+    "updated_at": "2023-06-15T14:35:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yajl_project:yajl:1.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

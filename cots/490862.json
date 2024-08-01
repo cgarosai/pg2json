@@ -1,0 +1,10 @@
+{
+    "id": 490862,
+    "name": "e600_firmware",
+    "version": "v200r008c00",
+    "created_at": "2020-02-21T21:28:01",
+    "updated_at": "2020-02-21T21:28:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:e600_firmware:v200r008c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

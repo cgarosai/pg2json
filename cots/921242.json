@@ -1,0 +1,10 @@
+{
+    "id": 921242,
+    "name": "angular",
+    "version": "1.0.3",
+    "created_at": "2022-08-26T18:30:36",
+    "updated_at": "2022-08-26T18:36:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:angular:angular:1.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

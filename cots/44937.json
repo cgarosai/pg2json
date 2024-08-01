@@ -1,0 +1,10 @@
+{
+    "id": 44937,
+    "name": "scanjet_8200_firmware",
+    "version": "1.0",
+    "created_at": "2012-04-16T12:12:12",
+    "updated_at": "2012-04-16T12:12:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:scanjet_8200_firmware:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

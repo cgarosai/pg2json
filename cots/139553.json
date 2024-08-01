@@ -1,0 +1,10 @@
+{
+    "id": 139553,
+    "name": "mongodb",
+    "version": "3.0.15",
+    "created_at": "2017-11-28T18:00:12",
+    "updated_at": "2017-11-28T18:00:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:mongodb:3.0.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

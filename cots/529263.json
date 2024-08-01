@@ -1,0 +1,10 @@
+{
+    "id": 529263,
+    "name": "flex_i\\/o_ethernet\\/ip__firmware",
+    "version": "-",
+    "created_at": "2020-04-03T12:20:36",
+    "updated_at": "2020-04-03T12:20:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:flex_i\\/o_ethernet\\/ip__firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

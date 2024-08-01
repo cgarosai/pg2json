@@ -1,0 +1,10 @@
+{
+    "id": 353156,
+    "name": "harbor",
+    "version": "1.6.3",
+    "created_at": "2019-09-10T12:01:41",
+    "updated_at": "2020-04-01T13:04:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goharbor:harbor:1.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

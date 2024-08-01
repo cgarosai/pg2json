@@ -1,0 +1,10 @@
+{
+    "id": 1018080,
+    "name": "emc_secure_connect_gateway_policy_manager",
+    "version": "5.12.00.00",
+    "created_at": "2023-01-18T10:32:21",
+    "updated_at": "2023-01-20T23:14:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.12.00.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

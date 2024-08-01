@@ -1,0 +1,10 @@
+{
+    "id": 1209018,
+    "name": "apm_.net_agent",
+    "version": "1.15.0",
+    "created_at": "2023-11-30T15:11:39",
+    "updated_at": "2023-11-30T15:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:apm_.net_agent:1.15.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

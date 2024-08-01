@@ -1,0 +1,10 @@
+{
+    "id": 876662,
+    "name": "sd-wan_5100_standard_edition_firmware",
+    "version": "11.4.1",
+    "created_at": "2022-04-19T13:11:53",
+    "updated_at": "2022-04-22T16:05:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:sd-wan_5100_standard_edition_firmware:11.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

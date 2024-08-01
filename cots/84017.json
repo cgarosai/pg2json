@@ -1,0 +1,10 @@
+{
+    "id": 84017,
+    "name": "security_manager",
+    "version": "3.2.2",
+    "created_at": "2014-04-02T14:47:53",
+    "updated_at": "2014-04-10T16:45:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:security_manager:3.2.2:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

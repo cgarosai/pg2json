@@ -1,0 +1,10 @@
+{
+    "id": 619747,
+    "name": "arx_firmware",
+    "version": "6.3.0",
+    "created_at": "2020-11-16T14:22:38",
+    "updated_at": "2020-11-16T14:22:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:f5:arx_firmware:6.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

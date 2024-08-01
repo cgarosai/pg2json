@@ -1,0 +1,10 @@
+{
+    "id": 959214,
+    "name": "repo",
+    "version": "-",
+    "created_at": "2022-10-20T15:35:20",
+    "updated_at": "2022-10-20T16:13:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:repo:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

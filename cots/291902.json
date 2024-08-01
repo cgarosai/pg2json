@@ -1,0 +1,10 @@
+{
+    "id": 291902,
+    "name": "import_users_from_csv_with_meta",
+    "version": "1.12.6.2",
+    "created_at": "2019-07-17T11:19:14",
+    "updated_at": "2019-07-17T11:19:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codection:import_users_from_csv_with_meta:1.12.6.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 864845,
+    "name": "zyxel_ap_configurator",
+    "version": "1.1.4",
+    "created_at": "2022-04-14T17:07:47",
+    "updated_at": "2022-04-15T15:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zyxel:zyxel_ap_configurator:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

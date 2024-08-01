@@ -1,0 +1,10 @@
+{
+    "id": 570154,
+    "name": "trust-store_\\(ubuntu\\)",
+    "version": "1.1.0",
+    "created_at": "2020-08-05T11:02:02",
+    "updated_at": "2021-05-20T13:18:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:trust-store_\\(ubuntu\\):1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

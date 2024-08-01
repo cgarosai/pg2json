@@ -1,0 +1,10 @@
+{
+    "id": 741771,
+    "name": "accumulo",
+    "version": "2.0.0",
+    "created_at": "2021-07-26T13:46:37",
+    "updated_at": "2021-07-27T10:35:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:accumulo:2.0.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

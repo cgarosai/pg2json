@@ -1,0 +1,10 @@
+{
+    "id": 577239,
+    "name": "serv-u_file_server",
+    "version": "11.1.0.5",
+    "created_at": "2020-07-28T12:50:25",
+    "updated_at": "2020-07-28T12:50:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:serv-u_file_server:11.1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

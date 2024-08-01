@@ -1,0 +1,10 @@
+{
+    "id": 83179,
+    "name": "infosphere_master_data_management_server",
+    "version": "9.0.2",
+    "created_at": "2014-03-17T18:12:15",
+    "updated_at": "2014-03-19T20:20:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_master_data_management_server:9.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

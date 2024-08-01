@@ -1,0 +1,10 @@
+{
+    "id": 57601,
+    "name": "receiver_pna",
+    "version": "13.0.0.6685",
+    "created_at": "2012-05-08T11:51:38",
+    "updated_at": "2012-05-08T11:51:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:receiver_pna:13.0.0.6685:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

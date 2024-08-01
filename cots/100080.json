@@ -1,0 +1,10 @@
+{
+    "id": 100080,
+    "name": "wsr-600dhp",
+    "version": "-",
+    "created_at": "2015-06-15T12:54:00",
+    "updated_at": "2015-06-16T13:32:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:buffalotech:wsr-600dhp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 642469,
+    "name": "rapid_home_provisioning",
+    "version": "18c",
+    "created_at": "2021-01-27T12:31:07",
+    "updated_at": "2021-01-27T12:31:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:rapid_home_provisioning:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

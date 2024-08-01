@@ -1,0 +1,10 @@
+{
+    "id": 582068,
+    "name": "model_3_firmware",
+    "version": "-",
+    "created_at": "2020-08-26T20:42:20",
+    "updated_at": "2020-08-26T20:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tesla:model_3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

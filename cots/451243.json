@@ -1,0 +1,10 @@
+{
+    "id": 451243,
+    "name": "myna_firmware",
+    "version": "9.0.1.9\\(h100sp6c00\\)",
+    "created_at": "2019-12-10T12:30:26",
+    "updated_at": "2019-12-10T12:30:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:myna_firmware:9.0.1.9\\(h100sp6c00\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1192575,
+    "name": "azure_stack_hci",
+    "version": "-",
+    "created_at": "2023-11-20T18:24:43",
+    "updated_at": "2023-11-20T18:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_stack_hci:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

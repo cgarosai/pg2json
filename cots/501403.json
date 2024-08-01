@@ -1,0 +1,10 @@
+{
+    "id": 501403,
+    "name": "precision_7910_firmware",
+    "version": "a31",
+    "created_at": "2020-03-06T19:01:07",
+    "updated_at": "2020-03-06T19:01:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:precision_7910_firmware:a31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

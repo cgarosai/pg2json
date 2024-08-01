@@ -1,0 +1,10 @@
+{
+    "id": 656483,
+    "name": "rtl8195a_firmware",
+    "version": "2.08",
+    "created_at": "2021-02-04T13:35:47",
+    "updated_at": "2021-06-28T11:24:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:realtek:rtl8195a_firmware:2.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

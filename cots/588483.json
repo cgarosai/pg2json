@@ -1,0 +1,10 @@
+{
+    "id": 588483,
+    "name": "calico",
+    "version": "2.6.2",
+    "created_at": "2020-08-20T13:05:51",
+    "updated_at": "2020-08-20T13:05:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:projectcalico:calico:2.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

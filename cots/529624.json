@@ -1,0 +1,10 @@
+{
+    "id": 529624,
+    "name": "install-package",
+    "version": "-",
+    "created_at": "2020-04-03T15:54:50",
+    "updated_at": "2020-04-03T15:54:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:install-package_project:install-package:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

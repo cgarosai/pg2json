@@ -1,0 +1,10 @@
+{
+    "id": 235847,
+    "name": "firefox_esr",
+    "version": "60.3.0",
+    "created_at": "2019-04-29T15:23:44",
+    "updated_at": "2019-04-29T15:23:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox_esr:60.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

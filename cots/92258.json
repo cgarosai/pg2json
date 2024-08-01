@@ -1,0 +1,10 @@
+{
+    "id": 92258,
+    "name": "android-msm",
+    "version": "3.13.4",
+    "created_at": "2014-09-02T16:33:57",
+    "updated_at": "2014-09-04T19:29:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:codeaurora:android-msm:3.13.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

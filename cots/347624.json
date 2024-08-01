@@ -1,0 +1,10 @@
+{
+    "id": 347624,
+    "name": "printer_firmware",
+    "version": "cb",
+    "created_at": "2019-08-22T15:13:18",
+    "updated_at": "2019-08-22T15:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:printer_firmware:cb:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57685,
+    "name": "subversion_client",
+    "version": "1.6.12",
+    "created_at": "2012-05-08T11:52:01",
+    "updated_at": "2012-05-08T11:52:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:collabnet:subversion_client:1.6.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

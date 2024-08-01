@@ -1,0 +1,10 @@
+{
+    "id": 805576,
+    "name": "network_location",
+    "version": "-",
+    "created_at": "2021-11-04T13:48:04",
+    "updated_at": "2022-09-16T14:40:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ericsson:network_location:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

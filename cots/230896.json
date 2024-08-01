@@ -1,0 +1,10 @@
+{
+    "id": 230896,
+    "name": "a11_firmware",
+    "version": "-",
+    "created_at": "2019-05-09T12:20:44",
+    "updated_at": "2021-06-16T14:00:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:chuango:a11_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

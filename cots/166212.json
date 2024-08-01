@@ -1,0 +1,10 @@
+{
+    "id": 166212,
+    "name": "pentium",
+    "version": "n4200",
+    "created_at": "2018-06-27T12:23:42",
+    "updated_at": "2021-05-10T14:53:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:pentium:n4200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

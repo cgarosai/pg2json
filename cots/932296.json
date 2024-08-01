@@ -1,0 +1,10 @@
+{
+    "id": 932296,
+    "name": "azure_arc",
+    "version": "-",
+    "created_at": "2022-09-14T15:15:37",
+    "updated_at": "2022-11-27T12:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_arc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

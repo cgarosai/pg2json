@@ -1,0 +1,10 @@
+{
+    "id": 902843,
+    "name": "kvf-admin",
+    "version": "-",
+    "created_at": "2022-07-19T13:37:24",
+    "updated_at": "2022-10-25T15:04:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kvf-admin_project:kvf-admin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

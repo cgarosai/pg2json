@@ -1,0 +1,10 @@
+{
+    "id": 1219788,
+    "name": "duet_display",
+    "version": "2.5.9.1",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duetdisplay:duet_display:2.5.9.1:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

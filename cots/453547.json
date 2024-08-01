@@ -1,0 +1,10 @@
+{
+    "id": 453547,
+    "name": "cdh",
+    "version": "6.1.0",
+    "created_at": "2019-12-10T19:06:45",
+    "updated_at": "2019-12-10T19:06:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudera:cdh:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

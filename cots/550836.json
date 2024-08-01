@@ -1,0 +1,10 @@
+{
+    "id": 550836,
+    "name": "hana_db",
+    "version": "1.00.091.00.14186593",
+    "created_at": "2020-06-16T10:02:11",
+    "updated_at": "2020-06-16T10:02:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:hana_db:1.00.091.00.14186593:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 651367,
+    "name": "aruba_2530ya_firmware",
+    "version": "ya.16.10.0012",
+    "created_at": "2021-02-16T14:36:22",
+    "updated_at": "2021-05-19T14:53:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:aruba_2530ya_firmware:ya.16.10.0012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

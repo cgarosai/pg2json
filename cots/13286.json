@@ -1,0 +1,10 @@
+{
+    "id": 13286,
+    "name": "security_gateway_os",
+    "version": "4.2",
+    "created_at": "2008-10-08T14:26:20",
+    "updated_at": "2008-10-08T14:26:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bluecoat:security_gateway_os:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1269140,
+    "name": "liferay_portal",
+    "version": "-",
+    "created_at": "2024-04-09T16:05:14",
+    "updated_at": "2024-04-09T16:05:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liferay:liferay_portal:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

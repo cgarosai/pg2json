@@ -1,0 +1,10 @@
+{
+    "id": 1210987,
+    "name": "mod_proxy_cluster",
+    "version": "-",
+    "created_at": "2023-12-18T13:57:05",
+    "updated_at": "2023-12-18T13:57:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modcluster:mod_proxy_cluster:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

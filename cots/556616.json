@@ -1,0 +1,10 @@
+{
+    "id": 556616,
+    "name": "nc230_firmware",
+    "version": "2020-02-09",
+    "created_at": "2020-06-01T12:19:25",
+    "updated_at": "2021-05-28T11:13:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:nc230_firmware:2020-02-09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

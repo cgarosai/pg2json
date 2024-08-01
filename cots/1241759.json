@@ -1,0 +1,10 @@
+{
+    "id": 1241759,
+    "name": "symantec_data_center_security_server",
+    "version": "14.0.2",
+    "created_at": "2024-02-03T02:15:39",
+    "updated_at": "2024-02-03T02:15:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_data_center_security_server:14.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

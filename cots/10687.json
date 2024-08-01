@@ -1,0 +1,10 @@
+{
+    "id": 10687,
+    "name": "http_service",
+    "version": "-",
+    "created_at": "2007-10-19T15:25:10",
+    "updated_at": "2007-10-19T15:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:http_service:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

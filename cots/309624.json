@@ -1,0 +1,10 @@
+{
+    "id": 309624,
+    "name": "jetson_tx1_l4t_firmware",
+    "version": "r32.2",
+    "created_at": "2019-07-22T16:39:04",
+    "updated_at": "2021-06-25T12:23:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:jetson_tx1_l4t_firmware:r32.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

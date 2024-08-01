@@ -1,0 +1,10 @@
+{
+    "id": 336000,
+    "name": "screen_stream",
+    "version": "2.2.0",
+    "created_at": "2019-08-06T15:01:56",
+    "updated_at": "2019-08-06T15:01:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:screen_stream_project:screen_stream:2.2.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

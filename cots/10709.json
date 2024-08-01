@@ -1,0 +1,10 @@
+{
+    "id": 10709,
+    "name": "adaptive_security_appliance",
+    "version": "7.0\\(5.2\\)",
+    "created_at": "2007-10-19T22:21:37",
+    "updated_at": "2010-12-28T16:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:adaptive_security_appliance:7.0\\(5.2\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

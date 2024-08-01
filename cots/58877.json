@@ -1,0 +1,10 @@
+{
+    "id": 58877,
+    "name": "scan",
+    "version": "12.0.0.0",
+    "created_at": "2012-05-14T21:31:55",
+    "updated_at": "2012-05-14T21:31:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:scan:12.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

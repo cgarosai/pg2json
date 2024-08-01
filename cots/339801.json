@@ -1,0 +1,10 @@
+{
+    "id": 339801,
+    "name": "mask_passwords",
+    "version": "2.5",
+    "created_at": "2019-08-13T17:42:10",
+    "updated_at": "2019-08-13T17:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mask_passwords:2.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

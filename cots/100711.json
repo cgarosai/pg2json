@@ -1,0 +1,10 @@
+{
+    "id": 100711,
+    "name": "c2box",
+    "version": "4.0.0",
+    "created_at": "2015-07-17T13:51:46",
+    "updated_at": "2015-11-24T18:11:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:boxautomation:c2box:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

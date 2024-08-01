@@ -1,0 +1,10 @@
+{
+    "id": 703738,
+    "name": "uaa",
+    "version": "3.7.3",
+    "created_at": "2021-05-25T11:08:27",
+    "updated_at": "2021-08-17T10:48:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:uaa:3.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

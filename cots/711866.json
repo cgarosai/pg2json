@@ -1,0 +1,10 @@
+{
+    "id": 711866,
+    "name": "http4s",
+    "version": "0.22.0",
+    "created_at": "2021-06-04T14:44:20",
+    "updated_at": "2021-06-04T16:48:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typelevel:http4s:0.22.0:milestone5:*:*:*:*:*:*",
+    "to_analyse": false
+}

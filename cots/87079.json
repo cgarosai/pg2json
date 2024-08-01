@@ -1,0 +1,10 @@
+{
+    "id": 87079,
+    "name": "opsview",
+    "version": "3.6",
+    "created_at": "2013-11-06T15:22:21",
+    "updated_at": "2013-11-07T18:56:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opsview:opsview:3.6:-:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

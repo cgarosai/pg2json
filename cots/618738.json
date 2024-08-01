@@ -1,0 +1,10 @@
+{
+    "id": 618738,
+    "name": "datacenter_nvme",
+    "version": "4.0.0.1007",
+    "created_at": "2020-11-09T19:48:09",
+    "updated_at": "2020-11-09T19:48:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:datacenter_nvme:4.0.0.1007:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

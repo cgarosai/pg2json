@@ -1,0 +1,10 @@
+{
+    "id": 728237,
+    "name": "mono_framework",
+    "version": "5.20.0.237",
+    "created_at": "2021-06-14T10:30:15",
+    "updated_at": "2021-06-14T10:32:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mono-project:mono_framework:5.20.0.237:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

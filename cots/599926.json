@@ -1,0 +1,10 @@
+{
+    "id": 599926,
+    "name": "ve6046_firmware",
+    "version": "09.0.12",
+    "created_at": "2020-09-14T16:25:03",
+    "updated_at": "2020-09-14T16:25:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emerson:ve6046_firmware:09.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

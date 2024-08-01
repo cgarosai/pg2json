@@ -1,0 +1,10 @@
+{
+    "id": 971385,
+    "name": "snyk_docker_cli",
+    "version": "1.6.0",
+    "created_at": "2022-12-01T17:07:37",
+    "updated_at": "2022-12-01T17:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_docker_cli:1.6.0:*:*:*:*:snyk:*:*",
+    "to_analyse": false
+}

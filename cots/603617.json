@@ -1,0 +1,10 @@
+{
+    "id": 603617,
+    "name": "recursor",
+    "version": "4.3.3",
+    "created_at": "2020-10-16T13:55:19",
+    "updated_at": "2023-05-11T12:04:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:powerdns:recursor:4.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

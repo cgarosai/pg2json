@@ -1,0 +1,10 @@
+{
+    "id": 1169299,
+    "name": "mobile_security",
+    "version": "9.8",
+    "created_at": "2023-09-28T13:22:04",
+    "updated_at": "2023-09-28T13:22:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:mobile_security:9.8:sp5:*:*:enterprise:windows:*:*",
+    "to_analyse": false
+}

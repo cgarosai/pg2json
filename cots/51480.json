@@ -1,0 +1,10 @@
+{
+    "id": 51480,
+    "name": "updater",
+    "version": "1.70",
+    "created_at": "2012-06-21T17:08:04",
+    "updated_at": "2012-06-21T17:08:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logitech:updater:1.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

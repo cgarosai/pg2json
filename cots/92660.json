@@ -1,0 +1,10 @@
+{
+    "id": 92660,
+    "name": "dish_anywhere",
+    "version": "3.5.10",
+    "created_at": "2014-09-11T14:27:22",
+    "updated_at": "2014-10-04T22:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dish:dish_anywhere:3.5.10:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

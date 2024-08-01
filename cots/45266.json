@@ -1,0 +1,10 @@
+{
+    "id": 45266,
+    "name": "tivoli_directory_server",
+    "version": "6.1.0.39",
+    "created_at": "2011-04-21T14:30:40",
+    "updated_at": "2015-04-02T15:59:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_directory_server:6.1.0.39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

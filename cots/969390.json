@@ -1,0 +1,10 @@
+{
+    "id": 969390,
+    "name": "billing",
+    "version": "-",
+    "created_at": "2022-11-10T14:25:41",
+    "updated_at": "2022-11-10T16:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:billing:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

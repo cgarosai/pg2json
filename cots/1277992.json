@@ -1,0 +1,10 @@
+{
+    "id": 1277992,
+    "name": "retryablehttp",
+    "version": "-",
+    "created_at": "2024-06-25T14:31:03",
+    "updated_at": "2024-06-25T14:31:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:retryablehttp:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 145927,
+    "name": "xeon_silver",
+    "version": "4114",
+    "created_at": "2018-02-07T11:32:46",
+    "updated_at": "2023-09-27T18:43:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_silver:4114:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

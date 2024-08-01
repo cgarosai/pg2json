@@ -1,0 +1,10 @@
+{
+    "id": 161243,
+    "name": "ovirt",
+    "version": "4.2.5.2",
+    "created_at": "2018-08-07T10:35:44",
+    "updated_at": "2019-11-06T19:50:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovirt:ovirt:4.2.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

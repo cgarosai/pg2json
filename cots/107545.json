@@ -1,0 +1,10 @@
+{
+    "id": 107545,
+    "name": "mcafee_agent",
+    "version": "4.8.0",
+    "created_at": "2015-02-24T15:08:27",
+    "updated_at": "2015-03-03T18:37:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:mcafee_agent:4.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

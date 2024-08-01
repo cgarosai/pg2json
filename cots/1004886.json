@@ -1,0 +1,10 @@
+{
+    "id": 1004886,
+    "name": "ttrrs-auth-ldap",
+    "version": "0.5",
+    "created_at": "2023-01-12T00:55:06",
+    "updated_at": "2023-03-03T15:23:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ttrrs-auth-ldap_project:ttrrs-auth-ldap:0.5:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 570780,
+    "name": "streaming_engine",
+    "version": "4.8.5",
+    "created_at": "2020-08-05T18:04:43",
+    "updated_at": "2020-08-05T18:04:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wowza:streaming_engine:4.8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

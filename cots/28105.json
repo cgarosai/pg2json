@@ -1,0 +1,10 @@
+{
+    "id": 28105,
+    "name": "systemtap",
+    "version": "1.0",
+    "created_at": "2009-10-23T11:01:00",
+    "updated_at": "2010-12-09T19:25:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:systemtap:systemtap:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

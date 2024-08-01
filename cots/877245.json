@@ -1,0 +1,10 @@
+{
+    "id": 877245,
+    "name": "leadtools",
+    "version": "22.0.0.0.0",
+    "created_at": "2022-04-20T17:01:23",
+    "updated_at": "2022-11-04T17:44:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:leadtools:leadtools:22.0.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

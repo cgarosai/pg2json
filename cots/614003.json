@@ -1,0 +1,10 @@
+{
+    "id": 614003,
+    "name": "snapprotect",
+    "version": "-",
+    "created_at": "2020-11-20T18:09:20",
+    "updated_at": "2020-11-20T18:09:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:snapprotect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

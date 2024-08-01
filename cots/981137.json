@@ -1,0 +1,10 @@
+{
+    "id": 981137,
+    "name": "custom_build_properties",
+    "version": "-",
+    "created_at": "2022-12-12T17:02:36",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:custom_build_properties:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

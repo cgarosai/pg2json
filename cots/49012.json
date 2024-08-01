@@ -1,0 +1,10 @@
+{
+    "id": 49012,
+    "name": "rational_appscan",
+    "version": "8.0.0.2",
+    "created_at": "2011-10-31T12:54:55",
+    "updated_at": "2012-05-30T18:52:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:rational_appscan:8.0.0.2:*:enterprise:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1047378,
+    "name": "gradio",
+    "version": "3.12.0",
+    "created_at": "2023-03-07T14:06:20",
+    "updated_at": "2023-03-07T16:34:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gradio_project:gradio:3.12.0:beta7:*:*:*:python:*:*",
+    "to_analyse": false
+}

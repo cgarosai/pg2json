@@ -1,0 +1,10 @@
+{
+    "id": 147608,
+    "name": "homematic_central_control_unit_ccu2_firmware",
+    "version": "2.29.22",
+    "created_at": "2018-03-12T16:49:14",
+    "updated_at": "2021-06-21T14:43:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:eq-3:homematic_central_control_unit_ccu2_firmware:2.29.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

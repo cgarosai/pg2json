@@ -1,0 +1,10 @@
+{
+    "id": 195874,
+    "name": "netscreen_screenos",
+    "version": "6.3.0",
+    "created_at": "2018-12-02T17:45:16",
+    "updated_at": "2018-12-02T17:45:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:netscreen_screenos:6.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

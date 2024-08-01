@@ -1,0 +1,10 @@
+{
+    "id": 920908,
+    "name": "b5_mini_firmware",
+    "version": "b5miniv100r005",
+    "created_at": "2022-08-26T11:07:15",
+    "updated_at": "2023-01-04T19:06:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:h3c:b5_mini_firmware:b5miniv100r005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

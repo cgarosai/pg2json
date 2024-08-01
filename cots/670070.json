@@ -1,0 +1,10 @@
+{
+    "id": 670070,
+    "name": "swiftlint",
+    "version": "1.2.2",
+    "created_at": "2021-03-18T23:59:39",
+    "updated_at": "2021-04-22T11:39:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swiftlint_project:swiftlint:1.2.2:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

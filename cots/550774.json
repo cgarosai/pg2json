@@ -1,0 +1,10 @@
+{
+    "id": 550774,
+    "name": "cd-messenger",
+    "version": "2.7.4",
+    "created_at": "2020-06-15T17:05:59",
+    "updated_at": "2020-06-15T17:05:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cd-messenger_project:cd-messenger:2.7.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

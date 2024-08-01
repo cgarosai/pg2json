@@ -1,0 +1,10 @@
+{
+    "id": 599688,
+    "name": "lemonldap\\",
+    "version": "\\",
+    "created_at": "2020-09-14T12:57:17",
+    "updated_at": "2021-03-04T15:01:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lemonldap-ng:lemonldap\\:\\:ng_handler:0.2.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 624806,
+    "name": "py",
+    "version": "1.4.14",
+    "created_at": "2020-12-10T14:12:00",
+    "updated_at": "2020-12-10T14:12:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pytest:py:1.4.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

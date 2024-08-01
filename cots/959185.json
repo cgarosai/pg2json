@@ -1,0 +1,10 @@
+{
+    "id": 959185,
+    "name": "codecov",
+    "version": "0.1.19",
+    "created_at": "2022-10-20T15:29:32",
+    "updated_at": "2022-10-20T15:30:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codecov:codecov:0.1.19:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

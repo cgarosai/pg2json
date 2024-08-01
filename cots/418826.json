@@ -1,0 +1,10 @@
+{
+    "id": 418826,
+    "name": "passenger",
+    "version": "3.0.0",
+    "created_at": "2019-10-24T16:11:09",
+    "updated_at": "2019-10-24T16:11:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phusion:passenger:3.0.0:pre2:*:*:open_source:*:*:*",
+    "to_analyse": false
+}

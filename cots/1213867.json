@@ -1,0 +1,10 @@
+{
+    "id": 1213867,
+    "name": "webhooks",
+    "version": "7.1.0",
+    "created_at": "2023-12-19T17:04:11",
+    "updated_at": "2023-12-19T17:04:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octokit:webhooks:7.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

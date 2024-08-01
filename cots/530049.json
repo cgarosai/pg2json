@@ -1,0 +1,10 @@
+{
+    "id": 530049,
+    "name": "proliant_xl250a_gen9_server_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:06:50",
+    "updated_at": "2020-04-27T18:06:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_xl250a_gen9_server_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

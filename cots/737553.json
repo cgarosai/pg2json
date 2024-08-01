@@ -1,0 +1,10 @@
+{
+    "id": 737553,
+    "name": "record-like-deep-assign",
+    "version": "1.0.1",
+    "created_at": "2021-07-06T10:12:27",
+    "updated_at": "2021-07-19T14:08:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:record-like-deep-assign_project:record-like-deep-assign:1.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

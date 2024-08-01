@@ -1,0 +1,10 @@
+{
+    "id": 2538,
+    "name": "cifs-9000_server",
+    "version": "a.01.09.01",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:10:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:cifs-9000_server:a.01.09.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

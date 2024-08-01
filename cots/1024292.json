@@ -1,0 +1,10 @@
+{
+    "id": 1024292,
+    "name": "expressionengine",
+    "version": "6.0.6",
+    "created_at": "2023-02-15T15:40:54",
+    "updated_at": "2023-02-15T15:49:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:expressionengine:expressionengine:6.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

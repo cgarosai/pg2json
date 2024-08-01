@@ -1,0 +1,10 @@
+{
+    "id": 869142,
+    "name": "sentrifugo",
+    "version": "3.2",
+    "created_at": "2022-03-31T15:47:56",
+    "updated_at": "2022-05-20T16:56:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sentrifugo:sentrifugo:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

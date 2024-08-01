@@ -1,0 +1,10 @@
+{
+    "id": 720556,
+    "name": "keycloak",
+    "version": "14.0.0",
+    "created_at": "2021-06-21T15:21:47",
+    "updated_at": "2021-06-21T15:22:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:keycloak:14.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

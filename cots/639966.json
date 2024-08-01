@@ -1,0 +1,10 @@
+{
+    "id": 639966,
+    "name": "operation_bridge_manager",
+    "version": "10.61",
+    "created_at": "2020-12-21T13:59:01",
+    "updated_at": "2020-12-21T13:59:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:operation_bridge_manager:10.61:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

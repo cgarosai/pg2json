@@ -1,0 +1,10 @@
+{
+    "id": 1169606,
+    "name": "multi-domain_management",
+    "version": "-",
+    "created_at": "2023-09-28T19:23:03",
+    "updated_at": "2023-09-28T19:23:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:checkpoint:multi-domain_management:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

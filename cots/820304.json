@@ -1,0 +1,10 @@
+{
+    "id": 820304,
+    "name": "remote_application_server",
+    "version": "17.0",
+    "created_at": "2021-12-22T14:13:51",
+    "updated_at": "2022-01-04T14:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parallels:remote_application_server:17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

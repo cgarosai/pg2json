@@ -1,0 +1,10 @@
+{
+    "id": 58954,
+    "name": "software_configuration",
+    "version": "6.20.101",
+    "created_at": "2012-05-14T21:32:21",
+    "updated_at": "2012-05-14T21:32:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:software_configuration:6.20.101:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

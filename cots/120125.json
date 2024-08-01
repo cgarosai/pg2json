@@ -1,0 +1,10 @@
+{
+    "id": 120125,
+    "name": "knox",
+    "version": "0.8.0",
+    "created_at": "2017-06-07T16:42:15",
+    "updated_at": "2017-06-07T16:42:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:knox:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1143280,
+    "name": "single_sign_on_client",
+    "version": "-",
+    "created_at": "2023-09-05T14:53:07",
+    "updated_at": "2023-09-07T11:24:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:decentraland:single_sign_on_client:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

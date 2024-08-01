@@ -1,0 +1,10 @@
+{
+    "id": 53380,
+    "name": "application_integration_tool",
+    "version": "1.0.5",
+    "created_at": "2012-07-10T01:17:46",
+    "updated_at": "2012-07-10T01:17:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:application_integration_tool:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

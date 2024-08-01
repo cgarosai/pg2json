@@ -1,0 +1,10 @@
+{
+    "id": 901399,
+    "name": "azure_site_recovery_vmware_to_azure",
+    "version": "-",
+    "created_at": "2022-07-18T09:05:47",
+    "updated_at": "2022-08-12T18:37:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_site_recovery_vmware_to_azure:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

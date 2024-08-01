@@ -1,0 +1,10 @@
+{
+    "id": 110055,
+    "name": "firmware",
+    "version": "-",
+    "created_at": "2016-08-04T20:53:31",
+    "updated_at": "2021-06-15T14:00:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amazonbasics:firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

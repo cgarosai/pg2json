@@ -1,0 +1,10 @@
+{
+    "id": 510096,
+    "name": "xeon_platinum_8256_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:33:09",
+    "updated_at": "2020-03-23T16:33:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_platinum_8256_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

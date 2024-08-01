@@ -1,0 +1,10 @@
+{
+    "id": 470708,
+    "name": "network_monitor",
+    "version": "15.40",
+    "created_at": "2020-01-16T18:17:59",
+    "updated_at": "2020-01-16T18:17:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:akips:network_monitor:15.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1037723,
+    "name": "defender_for_iot",
+    "version": "22.2.8",
+    "created_at": "2023-02-22T14:22:40",
+    "updated_at": "2023-02-23T17:07:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:defender_for_iot:22.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

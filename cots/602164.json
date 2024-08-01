@@ -1,0 +1,10 @@
+{
+    "id": 602164,
+    "name": "ncs_5502",
+    "version": "se",
+    "created_at": "2020-10-13T11:04:12",
+    "updated_at": "2020-10-13T11:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ncs_5502:se:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

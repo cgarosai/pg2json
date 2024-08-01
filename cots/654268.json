@@ -1,0 +1,10 @@
+{
+    "id": 654268,
+    "name": "yottadb",
+    "version": "1.1.0",
+    "created_at": "2021-02-22T16:34:37",
+    "updated_at": "2021-02-22T16:34:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yottadb:yottadb:1.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

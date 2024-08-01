@@ -1,0 +1,10 @@
+{
+    "id": 560046,
+    "name": "usbpcap",
+    "version": "1.0.0.6",
+    "created_at": "2020-07-08T13:14:29",
+    "updated_at": "2020-07-08T13:14:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:usbpcap_project:usbpcap:1.0.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

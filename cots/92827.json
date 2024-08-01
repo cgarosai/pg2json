@@ -1,0 +1,10 @@
+{
+    "id": 92827,
+    "name": "tv_guide",
+    "version": "5.4.3",
+    "created_at": "2014-09-21T22:58:37",
+    "updated_at": "2014-12-14T14:44:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mini_group:tv_guide:5.4.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

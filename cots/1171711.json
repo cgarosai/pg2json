@@ -1,0 +1,10 @@
+{
+    "id": 1171711,
+    "name": "location_weather",
+    "version": "1.2.7",
+    "created_at": "2023-10-18T10:21:35",
+    "updated_at": "2023-10-18T10:21:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shapedplugin:location_weather:1.2.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

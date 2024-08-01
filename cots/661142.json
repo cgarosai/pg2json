@@ -1,0 +1,10 @@
+{
+    "id": 661142,
+    "name": "k8",
+    "version": "-",
+    "created_at": "2021-03-03T16:54:12",
+    "updated_at": "2021-06-25T11:37:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ftsafe:k8:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

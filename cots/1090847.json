@@ -1,0 +1,10 @@
+{
+    "id": 1090847,
+    "name": "moveit_cloud",
+    "version": "15.0.0.0",
+    "created_at": "2023-06-12T10:57:08",
+    "updated_at": "2023-07-06T13:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:moveit_cloud:15.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

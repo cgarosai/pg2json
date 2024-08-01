@@ -1,0 +1,10 @@
+{
+    "id": 10466,
+    "name": "ruby",
+    "version": "-",
+    "created_at": "2007-10-01T20:27:08",
+    "updated_at": "2011-03-04T16:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ruby-lang:ruby:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

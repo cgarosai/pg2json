@@ -1,0 +1,10 @@
+{
+    "id": 58004,
+    "name": "office_compatibility_pack",
+    "version": "-",
+    "created_at": "2012-05-09T12:13:37",
+    "updated_at": "2012-06-15T13:23:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_compatibility_pack:-:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

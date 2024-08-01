@@ -1,0 +1,10 @@
+{
+    "id": 674919,
+    "name": "storage_resource_monitor",
+    "version": "2019.4.2",
+    "created_at": "2021-03-30T11:34:07",
+    "updated_at": "2021-05-19T12:22:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:storage_resource_monitor:2019.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

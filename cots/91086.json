@@ -1,0 +1,10 @@
+{
+    "id": 91086,
+    "name": "unifi_controller",
+    "version": "2.4.4",
+    "created_at": "2014-07-30T14:06:57",
+    "updated_at": "2019-06-10T16:34:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubnt:unifi_controller:2.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

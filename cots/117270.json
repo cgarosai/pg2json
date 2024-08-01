@@ -1,0 +1,10 @@
+{
+    "id": 117270,
+    "name": "enterprise_server",
+    "version": "12.4",
+    "created_at": "2016-04-28T15:12:33",
+    "updated_at": "2016-04-28T15:12:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackberry:enterprise_server:12.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

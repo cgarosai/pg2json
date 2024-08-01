@@ -1,0 +1,10 @@
+{
+    "id": 51621,
+    "name": "network_time_protocol",
+    "version": "4.2.4p7\\@copenhagen-o",
+    "created_at": "2012-06-21T17:08:44",
+    "updated_at": "2012-06-21T17:08:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:meinberg:network_time_protocol:4.2.4p7\\@copenhagen-o:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

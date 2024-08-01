@@ -1,0 +1,10 @@
+{
+    "id": 648205,
+    "name": "ecs_imaging",
+    "version": "6.21.3",
+    "created_at": "2021-01-12T16:47:06",
+    "updated_at": "2021-01-12T16:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:medicalexpo:ecs_imaging:6.21.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

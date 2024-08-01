@@ -1,0 +1,10 @@
+{
+    "id": 349642,
+    "name": "mt6577_firmware",
+    "version": "-",
+    "created_at": "2019-08-26T17:43:45",
+    "updated_at": "2021-06-23T12:31:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mediatek:mt6577_firmware:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

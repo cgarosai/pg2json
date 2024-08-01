@@ -1,0 +1,10 @@
+{
+    "id": 371570,
+    "name": "tmock",
+    "version": "0.0.7",
+    "created_at": "2019-09-20T17:15:50",
+    "updated_at": "2019-09-20T17:15:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tmock_project:tmock:0.0.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

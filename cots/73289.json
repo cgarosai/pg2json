@@ -1,0 +1,10 @@
+{
+    "id": 73289,
+    "name": "spice",
+    "version": "0.12.3",
+    "created_at": "2013-08-21T14:26:40",
+    "updated_at": "2013-08-21T14:41:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spice_project:spice:0.12.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

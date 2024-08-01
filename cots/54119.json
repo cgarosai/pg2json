@@ -1,0 +1,10 @@
+{
+    "id": 54119,
+    "name": "opscenter_agent",
+    "version": "7.0.1",
+    "created_at": "2012-07-10T01:22:05",
+    "updated_at": "2012-07-10T01:22:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:opscenter_agent:7.0.1:release_update_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

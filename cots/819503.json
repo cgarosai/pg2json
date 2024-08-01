@@ -1,0 +1,10 @@
+{
+    "id": 819503,
+    "name": "eos",
+    "version": "4.23.3m",
+    "created_at": "2021-11-29T15:40:08",
+    "updated_at": "2021-12-01T16:16:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:eos:4.23.3m:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1229085,
+    "name": "bulk_comment_remove",
+    "version": "1.0",
+    "created_at": "2023-12-28T18:46:49",
+    "updated_at": "2023-12-28T18:46:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:supremo:bulk_comment_remove:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

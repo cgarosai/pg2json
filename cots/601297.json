@@ -1,0 +1,10 @@
+{
+    "id": 601297,
+    "name": "office",
+    "version": "2013",
+    "created_at": "2020-10-08T17:05:32",
+    "updated_at": "2020-10-08T17:05:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:2013:*:*:*:click-to-run:*:*:*",
+    "to_analyse": false
+}

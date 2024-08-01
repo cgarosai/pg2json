@@ -1,0 +1,10 @@
+{
+    "id": 401618,
+    "name": "x_server",
+    "version": "1.2.0",
+    "created_at": "2019-10-16T13:16:03",
+    "updated_at": "2020-08-24T14:52:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x:x_server:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

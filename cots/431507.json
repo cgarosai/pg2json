@@ -1,0 +1,10 @@
+{
+    "id": 431507,
+    "name": "ftp_server",
+    "version": "1.27",
+    "created_at": "2019-11-19T11:43:30",
+    "updated_at": "2019-11-19T11:43:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theolivetree:ftp_server:1.27:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

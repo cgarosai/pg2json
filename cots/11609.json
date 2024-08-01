@@ -1,0 +1,10 @@
+{
+    "id": 11609,
+    "name": "media_player",
+    "version": "6.4",
+    "created_at": "2008-04-15T20:38:16",
+    "updated_at": "2008-04-15T21:57:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:media_player:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

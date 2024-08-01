@@ -1,0 +1,10 @@
+{
+    "id": 118340,
+    "name": "pcm600",
+    "version": "2.6",
+    "created_at": "2016-06-10T12:10:34",
+    "updated_at": "2021-04-02T12:43:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abb:pcm600:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

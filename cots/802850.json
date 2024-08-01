@@ -1,0 +1,10 @@
+{
+    "id": 802850,
+    "name": "d7000v2_firmware",
+    "version": "1.0.0.76",
+    "created_at": "2021-11-17T13:22:03",
+    "updated_at": "2021-11-17T13:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:d7000v2_firmware:1.0.0.76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

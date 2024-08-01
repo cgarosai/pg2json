@@ -1,0 +1,10 @@
+{
+    "id": 539425,
+    "name": "x9scd_series_firmware",
+    "version": "2.3",
+    "created_at": "2020-04-27T15:20:50",
+    "updated_at": "2020-04-27T15:20:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:supermicro:x9scd_series_firmware:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

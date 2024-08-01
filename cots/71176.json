@@ -1,0 +1,10 @@
+{
+    "id": 71176,
+    "name": "h3c_switch",
+    "version": "s9508e-v",
+    "created_at": "2013-07-08T14:55:41",
+    "updated_at": "2013-07-12T15:51:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_switch:s9508e-v:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

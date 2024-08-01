@@ -1,0 +1,10 @@
+{
+    "id": 201786,
+    "name": "sed",
+    "version": "4.0.5",
+    "created_at": "2019-02-27T16:10:10",
+    "updated_at": "2019-02-27T16:10:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:sed:4.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

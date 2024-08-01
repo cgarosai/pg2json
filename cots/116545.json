@@ -1,0 +1,10 @@
+{
+    "id": 116545,
+    "name": "hirschmann_firmware",
+    "version": "05.3.06",
+    "created_at": "2016-03-23T17:36:49",
+    "updated_at": "2016-03-23T17:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belden:hirschmann_firmware:05.3.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

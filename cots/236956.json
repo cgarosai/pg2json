@@ -1,0 +1,10 @@
+{
+    "id": 236956,
+    "name": "application_links",
+    "version": "3.3",
+    "created_at": "2019-05-02T13:10:16",
+    "updated_at": "2019-05-02T13:10:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:application_links:3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

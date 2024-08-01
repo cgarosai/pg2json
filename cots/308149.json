@@ -1,0 +1,10 @@
+{
+    "id": 308149,
+    "name": "managed_file_transfer_internet_server",
+    "version": "7.2.5",
+    "created_at": "2019-07-22T09:41:38",
+    "updated_at": "2019-07-22T09:41:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:managed_file_transfer_internet_server:7.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

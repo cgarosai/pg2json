@@ -1,0 +1,10 @@
+{
+    "id": 1282635,
+    "name": "wordpress_file_upload",
+    "version": "4.18.1",
+    "created_at": "2024-07-25T14:44:20",
+    "updated_at": "2024-07-25T14:44:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iptanus:wordpress_file_upload:4.18.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

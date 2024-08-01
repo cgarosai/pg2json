@@ -1,0 +1,10 @@
+{
+    "id": 821041,
+    "name": "autocad_lt",
+    "version": "2020",
+    "created_at": "2021-12-27T17:50:30",
+    "updated_at": "2022-01-10T15:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autodesk:autocad_lt:2020:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

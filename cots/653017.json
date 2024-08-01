@@ -1,0 +1,10 @@
+{
+    "id": 653017,
+    "name": "fx_aggregator_terminal_client",
+    "version": "1.0",
+    "created_at": "2021-02-18T20:41:28",
+    "updated_at": "2021-08-17T14:14:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xn--b1agzlht:fx_aggregator_terminal_client:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

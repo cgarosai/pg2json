@@ -1,0 +1,10 @@
+{
+    "id": 76235,
+    "name": "opus",
+    "version": "1.0.0",
+    "created_at": "2013-02-25T16:33:51",
+    "updated_at": "2013-02-27T16:42:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opus-codec:opus:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

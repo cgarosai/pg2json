@@ -1,0 +1,10 @@
+{
+    "id": 629335,
+    "name": "ssd_dc_p4101_firmware",
+    "version": "008d",
+    "created_at": "2020-12-04T17:39:51",
+    "updated_at": "2020-12-04T17:39:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_dc_p4101_firmware:008d:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

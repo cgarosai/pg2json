@@ -1,0 +1,10 @@
+{
+    "id": 899617,
+    "name": "webriti_smtp_mail",
+    "version": "-",
+    "created_at": "2022-06-16T12:02:41",
+    "updated_at": "2022-06-17T14:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webriti:webriti_smtp_mail:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

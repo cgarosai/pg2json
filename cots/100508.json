@@ -1,0 +1,10 @@
+{
+    "id": 100508,
+    "name": "powervault_tl2000",
+    "version": "-",
+    "created_at": "2015-07-02T11:46:15",
+    "updated_at": "2015-07-02T11:47:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:powervault_tl2000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

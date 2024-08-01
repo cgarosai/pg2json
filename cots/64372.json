@@ -1,0 +1,10 @@
+{
+    "id": 64372,
+    "name": "rssh",
+    "version": "2.3.4",
+    "created_at": "2013-01-11T13:47:47",
+    "updated_at": "2013-01-16T18:26:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pizzashack:rssh:2.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

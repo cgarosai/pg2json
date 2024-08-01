@@ -1,0 +1,10 @@
+{
+    "id": 56104,
+    "name": "securityexpressions",
+    "version": "3.4.0",
+    "created_at": "2012-04-24T21:22:24",
+    "updated_at": "2012-04-24T21:22:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:securityexpressions:3.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

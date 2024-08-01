@@ -1,0 +1,10 @@
+{
+    "id": 673893,
+    "name": "linux",
+    "version": "18.0",
+    "created_at": "2021-03-29T11:05:56",
+    "updated_at": "2021-07-01T13:06:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:windriver:linux:18.0:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

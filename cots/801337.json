@@ -1,0 +1,10 @@
+{
+    "id": 801337,
+    "name": "job_fair",
+    "version": "0.0.7",
+    "created_at": "2021-11-15T19:03:11",
+    "updated_at": "2021-11-15T22:06:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:job_fair_project:job_fair:0.0.7:alpha:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

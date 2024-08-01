@@ -1,0 +1,10 @@
+{
+    "id": 1267828,
+    "name": "command_line_interface",
+    "version": "1.10.0",
+    "created_at": "2024-03-20T10:54:32",
+    "updated_at": "2024-03-25T16:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1password:command_line_interface:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

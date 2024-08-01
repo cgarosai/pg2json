@@ -1,0 +1,10 @@
+{
+    "id": 330040,
+    "name": "wekan",
+    "version": "1.70",
+    "created_at": "2019-08-14T11:53:00",
+    "updated_at": "2019-08-14T11:53:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wekan_project:wekan:1.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

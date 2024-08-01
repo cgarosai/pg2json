@@ -1,0 +1,10 @@
+{
+    "id": 266488,
+    "name": "sqlalchemy",
+    "version": "1.2.13",
+    "created_at": "2019-06-14T11:59:13",
+    "updated_at": "2019-06-14T11:59:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqlalchemy:sqlalchemy:1.2.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

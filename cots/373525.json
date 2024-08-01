@@ -1,0 +1,10 @@
+{
+    "id": 373525,
+    "name": "nuxt.js",
+    "version": "1.4.0",
+    "created_at": "2019-09-23T11:53:05",
+    "updated_at": "2019-09-23T11:53:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nuxtjs:nuxt.js:1.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

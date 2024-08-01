@@ -1,0 +1,10 @@
+{
+    "id": 911383,
+    "name": "frrouting",
+    "version": "8.3",
+    "created_at": "2022-08-08T12:54:35",
+    "updated_at": "2022-09-21T12:26:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frrouting:frrouting:8.3:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1025507,
+    "name": "kubernetes_credentials_provider",
+    "version": "-",
+    "created_at": "2023-02-01T17:19:58",
+    "updated_at": "2023-02-01T20:18:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:kubernetes_credentials_provider:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

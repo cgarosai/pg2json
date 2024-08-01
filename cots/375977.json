@@ -1,0 +1,10 @@
+{
+    "id": 375977,
+    "name": "zuul",
+    "version": "3.5.0",
+    "created_at": "2019-09-18T14:17:45",
+    "updated_at": "2019-09-18T14:17:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zuul-ci:zuul:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 11294,
+    "name": "yast2",
+    "version": "-",
+    "created_at": "2008-01-10T17:21:57",
+    "updated_at": "2008-01-10T17:21:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:yast2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 699257,
+    "name": "refpolicy",
+    "version": "20060117",
+    "created_at": "2021-04-21T14:54:07",
+    "updated_at": "2021-04-21T14:55:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:selinuxproject:refpolicy:20060117:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 774387,
+    "name": "madge",
+    "version": "0.0.5",
+    "created_at": "2021-09-24T15:38:09",
+    "updated_at": "2021-09-30T14:06:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:madge_project:madge:0.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

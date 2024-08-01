@@ -1,0 +1,10 @@
+{
+    "id": 134420,
+    "name": "mysql_connector\\/j",
+    "version": "1.1i",
+    "created_at": "2018-01-30T18:01:40",
+    "updated_at": "2018-01-30T18:01:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_connector\\/j:1.1i:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

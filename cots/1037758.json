@@ -1,0 +1,10 @@
+{
+    "id": 1037758,
+    "name": "office",
+    "version": "-",
+    "created_at": "2023-02-22T16:22:03",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:-:*:*:*:*:universal:*:*",
+    "to_analyse": false
+}

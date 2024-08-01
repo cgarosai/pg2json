@@ -1,0 +1,10 @@
+{
+    "id": 1149372,
+    "name": "ghostscript",
+    "version": "7.31",
+    "created_at": "2023-08-25T13:39:13",
+    "updated_at": "2023-08-25T13:47:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artifex:ghostscript:7.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

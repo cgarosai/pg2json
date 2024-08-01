@@ -1,0 +1,10 @@
+{
+    "id": 736649,
+    "name": "xml2dict",
+    "version": "0.2.2",
+    "created_at": "2021-07-01T15:08:51",
+    "updated_at": "2021-07-16T15:24:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xml2dict_project:xml2dict:0.2.2:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

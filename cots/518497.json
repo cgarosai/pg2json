@@ -1,0 +1,10 @@
+{
+    "id": 518497,
+    "name": "ddr4_sdram",
+    "version": "-",
+    "created_at": "2020-03-18T16:50:54",
+    "updated_at": "2020-03-18T16:50:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:micron:ddr4_sdram:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

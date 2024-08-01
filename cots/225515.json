@@ -1,0 +1,10 @@
+{
+    "id": 225515,
+    "name": "logback",
+    "version": "0.9.29",
+    "created_at": "2019-04-08T11:22:36",
+    "updated_at": "2021-06-24T14:40:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logback:logback:0.9.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 507882,
+    "name": "internet_security",
+    "version": "-",
+    "created_at": "2020-03-04T14:02:30",
+    "updated_at": "2020-03-04T14:02:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eset:internet_security:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

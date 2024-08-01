@@ -1,0 +1,10 @@
+{
+    "id": 290334,
+    "name": "simatic_wincc",
+    "version": "15",
+    "created_at": "2019-07-16T10:27:00",
+    "updated_at": "2021-06-04T14:18:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc:15:*:*:*:professional:*:*:*",
+    "to_analyse": false
+}

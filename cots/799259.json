@@ -1,0 +1,10 @@
+{
+    "id": 799259,
+    "name": "fas2750_firmware",
+    "version": "-",
+    "created_at": "2021-10-21T10:25:12",
+    "updated_at": "2021-10-29T13:17:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:fas2750_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

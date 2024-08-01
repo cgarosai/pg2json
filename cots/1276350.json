@@ -1,0 +1,10 @@
+{
+    "id": 1276350,
+    "name": "sc_filechecker",
+    "version": "0.6",
+    "created_at": "2024-06-12T10:34:21",
+    "updated_at": "2024-06-12T10:34:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sc_filechecker_project:sc_filechecker:0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

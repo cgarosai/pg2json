@@ -1,0 +1,10 @@
+{
+    "id": 236400,
+    "name": "azure_ad",
+    "version": "0.3.1",
+    "created_at": "2019-05-01T10:46:45",
+    "updated_at": "2019-05-01T10:46:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:azure_ad:0.3.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

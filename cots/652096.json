@@ -1,0 +1,10 @@
+{
+    "id": 652096,
+    "name": "dbi",
+    "version": "0.80",
+    "created_at": "2021-02-17T16:32:34",
+    "updated_at": "2021-04-12T15:29:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perl:dbi:0.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

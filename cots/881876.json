@@ -1,0 +1,10 @@
+{
+    "id": 881876,
+    "name": "cs200_firmware",
+    "version": "1.06.14",
+    "created_at": "2022-06-06T12:04:57",
+    "updated_at": "2022-06-06T15:04:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bachmann:cs200_firmware:1.06.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

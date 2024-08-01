@@ -1,0 +1,10 @@
+{
+    "id": 116447,
+    "name": "change_and_configuration_management_database",
+    "version": "7.1.1.2",
+    "created_at": "2016-03-21T19:22:05",
+    "updated_at": "2021-05-12T16:42:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:change_and_configuration_management_database:7.1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

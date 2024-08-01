@@ -1,0 +1,10 @@
+{
+    "id": 337052,
+    "name": "energy_logserver",
+    "version": "6.1.2",
+    "created_at": "2019-08-12T09:10:21",
+    "updated_at": "2019-08-12T09:10:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emca:energy_logserver:6.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

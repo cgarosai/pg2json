@@ -1,0 +1,10 @@
+{
+    "id": 476075,
+    "name": "jamf",
+    "version": "10.0.0",
+    "created_at": "2020-01-13T11:13:40",
+    "updated_at": "2020-01-13T11:13:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jamf:jamf:10.0.0:*:*:*:pro:*:*:*",
+    "to_analyse": false
+}

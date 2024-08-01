@@ -1,0 +1,10 @@
+{
+    "id": 7274,
+    "name": "enterprise_authentication_mechanism",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:55:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:enterprise_authentication_mechanism:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

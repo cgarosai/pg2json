@@ -1,0 +1,10 @@
+{
+    "id": 529739,
+    "name": "confinit",
+    "version": "0.4.0",
+    "created_at": "2020-04-06T13:48:24",
+    "updated_at": "2020-04-06T13:48:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:confinit_project:confinit:0.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

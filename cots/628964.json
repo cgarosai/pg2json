@@ -1,0 +1,10 @@
+{
+    "id": 628964,
+    "name": "firebase\\/util",
+    "version": "0.3.0",
+    "created_at": "2020-12-03T17:18:44",
+    "updated_at": "2020-12-03T17:18:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:firebase\\/util:0.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

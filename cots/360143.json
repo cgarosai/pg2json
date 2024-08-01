@@ -1,0 +1,10 @@
+{
+    "id": 360143,
+    "name": "post_indexer",
+    "version": "3.0.6.2",
+    "created_at": "2019-09-16T12:11:29",
+    "updated_at": "2019-09-16T12:11:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:post_indexer_project:post_indexer:3.0.6.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

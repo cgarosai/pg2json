@@ -1,0 +1,10 @@
+{
+    "id": 227916,
+    "name": "jabber_server",
+    "version": "-",
+    "created_at": "2019-04-11T17:09:37",
+    "updated_at": "2019-04-11T17:09:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jabber_server:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

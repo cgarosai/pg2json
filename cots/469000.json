@@ -1,0 +1,10 @@
+{
+    "id": 469000,
+    "name": "dhcp6c",
+    "version": "2011-07-25",
+    "created_at": "2019-12-20T17:58:14",
+    "updated_at": "2019-12-20T17:58:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux:dhcp6c:2011-07-25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

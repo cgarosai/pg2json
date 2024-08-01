@@ -1,0 +1,10 @@
+{
+    "id": 489375,
+    "name": "nucleus_rtos",
+    "version": "-",
+    "created_at": "2020-02-03T20:03:09",
+    "updated_at": "2020-02-03T20:03:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:nucleus_rtos:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

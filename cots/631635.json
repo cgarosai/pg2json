@@ -1,0 +1,10 @@
+{
+    "id": 631635,
+    "name": "hugo",
+    "version": "0.48",
+    "created_at": "2020-12-28T10:48:23",
+    "updated_at": "2021-03-04T16:05:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gohugo:hugo:0.48:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

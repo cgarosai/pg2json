@@ -1,0 +1,10 @@
+{
+    "id": 467473,
+    "name": "pdf_embedder",
+    "version": "-",
+    "created_at": "2019-12-17T18:42:16",
+    "updated_at": "2019-12-17T18:42:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-pdf:pdf_embedder:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

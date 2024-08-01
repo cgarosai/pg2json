@@ -1,0 +1,10 @@
+{
+    "id": 54191,
+    "name": "veritas_enterprise_administrator_service",
+    "version": "3.3.782",
+    "created_at": "2012-07-10T01:22:40",
+    "updated_at": "2012-07-10T01:22:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_enterprise_administrator_service:3.3.782:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

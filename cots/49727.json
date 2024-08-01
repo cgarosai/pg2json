@@ -1,0 +1,10 @@
+{
+    "id": 49727,
+    "name": "zen_cart",
+    "version": "1.5",
+    "created_at": "2011-11-29T15:23:05",
+    "updated_at": "2012-11-13T22:59:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zen-cart:zen_cart:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

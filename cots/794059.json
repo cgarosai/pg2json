@@ -1,0 +1,10 @@
+{
+    "id": 794059,
+    "name": "galette",
+    "version": "0.7.6",
+    "created_at": "2021-11-02T12:26:12",
+    "updated_at": "2021-11-02T12:31:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:galette:galette:0.7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

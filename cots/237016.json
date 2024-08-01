@@ -1,0 +1,10 @@
+{
+    "id": 237016,
+    "name": "metasploit",
+    "version": "4.13.0",
+    "created_at": "2019-05-02T13:54:36",
+    "updated_at": "2019-05-02T13:54:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rapid7:metasploit:4.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

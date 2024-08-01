@@ -1,0 +1,10 @@
+{
+    "id": 1022096,
+    "name": "diego",
+    "version": "2.47.0",
+    "created_at": "2023-02-10T14:17:11",
+    "updated_at": "2023-02-10T14:24:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:diego:2.47.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

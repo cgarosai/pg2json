@@ -1,0 +1,10 @@
+{
+    "id": 680598,
+    "name": "cohesion_agent",
+    "version": "4.5.0.0",
+    "created_at": "2021-04-07T13:36:00",
+    "updated_at": "2021-04-08T11:06:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:cohesion_agent:4.5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

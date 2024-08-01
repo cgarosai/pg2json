@@ -1,0 +1,10 @@
+{
+    "id": 70212,
+    "name": "openchrome",
+    "version": "0.3.2",
+    "created_at": "2013-06-17T14:25:54",
+    "updated_at": "2013-06-24T12:12:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openchrome:openchrome:0.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

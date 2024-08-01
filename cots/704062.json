@@ -1,0 +1,10 @@
+{
+    "id": 704062,
+    "name": "hci_compute_node_firmware",
+    "version": "-",
+    "created_at": "2021-05-25T14:37:20",
+    "updated_at": "2021-08-19T15:00:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:hci_compute_node_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

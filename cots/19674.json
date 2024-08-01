@@ -1,0 +1,10 @@
+{
+    "id": 19674,
+    "name": "remote_desktop_connection",
+    "version": "5.1.2600.2180",
+    "created_at": "2007-08-28T19:32:12",
+    "updated_at": "2008-04-07T12:27:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:remote_desktop_connection:5.1.2600.2180:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 871197,
+    "name": "ejs",
+    "version": "2.7.2",
+    "created_at": "2022-05-04T13:28:33",
+    "updated_at": "2022-05-04T23:11:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ejs:ejs:2.7.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

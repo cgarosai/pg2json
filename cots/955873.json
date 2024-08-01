@@ -1,0 +1,10 @@
+{
+    "id": 955873,
+    "name": "restricted_site_access",
+    "version": "3.1.1",
+    "created_at": "2022-10-17T14:48:11",
+    "updated_at": "2022-10-17T14:49:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:10up:restricted_site_access:3.1.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

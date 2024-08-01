@@ -1,0 +1,10 @@
+{
+    "id": 511908,
+    "name": "monkey",
+    "version": "0.10.2",
+    "created_at": "2020-03-26T13:23:07",
+    "updated_at": "2020-03-26T13:23:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:monkey-project:monkey:0.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

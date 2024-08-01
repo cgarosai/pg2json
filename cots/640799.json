@@ -1,0 +1,10 @@
+{
+    "id": 640799,
+    "name": "scripting",
+    "version": "12.2.8",
+    "created_at": "2021-01-22T18:14:59",
+    "updated_at": "2021-01-22T18:14:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:scripting:12.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

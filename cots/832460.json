@@ -1,0 +1,10 @@
+{
+    "id": 832460,
+    "name": "agilia_connect",
+    "version": "-",
+    "created_at": "2022-01-27T18:14:37",
+    "updated_at": "2022-10-03T14:03:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:fresenius-kabi:agilia_connect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

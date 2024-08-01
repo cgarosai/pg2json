@@ -1,0 +1,10 @@
+{
+    "id": 888867,
+    "name": "ignition",
+    "version": "0.29.1",
+    "created_at": "2022-05-24T14:48:51",
+    "updated_at": "2022-05-24T17:51:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ignition:0.29.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

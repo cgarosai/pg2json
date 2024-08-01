@@ -1,0 +1,10 @@
+{
+    "id": 733925,
+    "name": "pango",
+    "version": "1.37.2",
+    "created_at": "2021-07-14T13:38:34",
+    "updated_at": "2021-07-14T13:41:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:pango:1.37.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

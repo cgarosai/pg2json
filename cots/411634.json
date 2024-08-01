@@ -1,0 +1,10 @@
+{
+    "id": 411634,
+    "name": "websphere",
+    "version": "7.1.0.3",
+    "created_at": "2019-10-28T18:34:35",
+    "updated_at": "2019-10-28T18:34:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere:7.1.0.3:*:*:*:lombardi:*:*:*",
+    "to_analyse": false
+}

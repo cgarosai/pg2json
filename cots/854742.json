@@ -1,0 +1,10 @@
+{
+    "id": 854742,
+    "name": "glance",
+    "version": "5.1.1.42207",
+    "created_at": "2022-03-18T16:26:15",
+    "updated_at": "2022-09-28T18:58:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mirametrix:glance:5.1.1.42207:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

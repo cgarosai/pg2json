@@ -1,0 +1,10 @@
+{
+    "id": 754575,
+    "name": "sitemanager_firmware",
+    "version": "-",
+    "created_at": "2021-08-13T14:32:06",
+    "updated_at": "2021-09-30T16:06:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:secomea:sitemanager_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

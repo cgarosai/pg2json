@@ -1,0 +1,10 @@
+{
+    "id": 550013,
+    "name": "graphql-playground-middleware-lambda",
+    "version": "1.7.13",
+    "created_at": "2020-06-11T13:48:34",
+    "updated_at": "2020-06-11T13:48:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prisma:graphql-playground-middleware-lambda:1.7.13:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

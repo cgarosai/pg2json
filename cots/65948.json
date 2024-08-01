@@ -1,0 +1,10 @@
+{
+    "id": 65948,
+    "name": "diagnostics",
+    "version": "1.7.0",
+    "created_at": "2012-08-01T19:33:54",
+    "updated_at": "2020-02-24T14:02:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wdc:diagnostics:1.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

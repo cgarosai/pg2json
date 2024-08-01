@@ -1,0 +1,10 @@
+{
+    "id": 827984,
+    "name": "mercurius",
+    "version": "3.6.0",
+    "created_at": "2021-12-15T17:49:08",
+    "updated_at": "2021-12-15T18:13:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mercurius_project:mercurius:3.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

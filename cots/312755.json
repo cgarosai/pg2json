@@ -1,0 +1,10 @@
+{
+    "id": 312755,
+    "name": "bridge",
+    "version": "13.7",
+    "created_at": "2019-07-30T10:21:56",
+    "updated_at": "2019-07-30T10:21:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qodeinteractive:bridge:13.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

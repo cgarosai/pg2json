@@ -1,0 +1,10 @@
+{
+    "id": 51531,
+    "name": "agent",
+    "version": "4.0.0.1494",
+    "created_at": "2012-06-21T17:08:18",
+    "updated_at": "2012-06-21T17:08:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:agent:4.0.0.1494:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

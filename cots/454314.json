@@ -1,0 +1,10 @@
+{
+    "id": 454314,
+    "name": "model_specific_registers-safe",
+    "version": "1.1.0",
+    "created_at": "2019-12-11T17:29:18",
+    "updated_at": "2019-12-11T17:29:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:llnl:model_specific_registers-safe:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

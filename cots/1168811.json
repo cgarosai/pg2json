@@ -1,0 +1,10 @@
+{
+    "id": 1168811,
+    "name": "peprodev_cf7_database",
+    "version": "1.4.0",
+    "created_at": "2023-09-28T09:17:04",
+    "updated_at": "2023-09-28T09:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:peprodev:peprodev_cf7_database:1.4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

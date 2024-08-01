@@ -1,0 +1,10 @@
+{
+    "id": 865637,
+    "name": "sysuser-shadow",
+    "version": "3.0",
+    "created_at": "2022-03-22T15:43:32",
+    "updated_at": "2022-03-22T16:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:sysuser-shadow:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

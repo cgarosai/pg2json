@@ -1,0 +1,10 @@
+{
+    "id": 109976,
+    "name": "strongswan_vpn_client",
+    "version": "1.4.5",
+    "created_at": "2015-06-11T13:28:07",
+    "updated_at": "2015-06-12T15:01:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:strongswan:strongswan_vpn_client:1.4.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

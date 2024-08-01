@@ -1,0 +1,10 @@
+{
+    "id": 550667,
+    "name": "netweaver_application_server_java",
+    "version": "7.05",
+    "created_at": "2020-06-15T15:52:52",
+    "updated_at": "2020-06-15T15:52:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_application_server_java:7.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

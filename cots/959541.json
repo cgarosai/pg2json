@@ -1,0 +1,10 @@
+{
+    "id": 959541,
+    "name": "publish_over_ssh",
+    "version": "1.7",
+    "created_at": "2022-10-21T17:24:17",
+    "updated_at": "2022-10-21T17:25:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:publish_over_ssh:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

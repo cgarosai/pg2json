@@ -1,0 +1,10 @@
+{
+    "id": 784128,
+    "name": "cloud_manager",
+    "version": "3.8.1",
+    "created_at": "2021-10-13T11:48:10",
+    "updated_at": "2021-10-13T11:52:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:cloud_manager:3.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

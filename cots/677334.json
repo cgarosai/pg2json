@@ -1,0 +1,10 @@
+{
+    "id": 677334,
+    "name": "openmaint",
+    "version": "0.8",
+    "created_at": "2021-03-16T13:02:02",
+    "updated_at": "2021-04-23T15:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmaint:openmaint:0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

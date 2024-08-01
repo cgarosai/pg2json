@@ -1,0 +1,10 @@
+{
+    "id": 1230241,
+    "name": "govuk_tech_docs",
+    "version": "1.2.0",
+    "created_at": "2024-01-12T11:30:50",
+    "updated_at": "2024-01-12T11:30:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gov.uk:govuk_tech_docs:1.2.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

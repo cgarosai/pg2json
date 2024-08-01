@@ -1,0 +1,10 @@
+{
+    "id": 609819,
+    "name": "archer",
+    "version": "6.4",
+    "created_at": "2020-10-07T10:22:37",
+    "updated_at": "2020-10-07T10:22:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsa:archer:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

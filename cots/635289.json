@@ -1,0 +1,10 @@
+{
+    "id": 635289,
+    "name": "integrated_lights-out_firmware",
+    "version": "2.30",
+    "created_at": "2020-12-10T21:07:38",
+    "updated_at": "2020-12-10T21:07:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:integrated_lights-out_firmware:2.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

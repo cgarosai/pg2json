@@ -1,0 +1,10 @@
+{
+    "id": 962499,
+    "name": "libiec61850",
+    "version": "1.5",
+    "created_at": "2022-11-18T14:28:11",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mz-automation:libiec61850:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

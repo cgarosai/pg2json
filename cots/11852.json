@@ -1,0 +1,10 @@
+{
+    "id": 11852,
+    "name": "windows_98",
+    "version": "-",
+    "created_at": "2008-04-15T21:55:05",
+    "updated_at": "2008-04-15T21:55:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_98:-:scd:*:*:*:*:*:*",
+    "to_analyse": false
+}

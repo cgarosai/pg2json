@@ -1,0 +1,10 @@
+{
+    "id": 1142406,
+    "name": "ironic-image",
+    "version": "-",
+    "created_at": "2023-09-01T10:23:42",
+    "updated_at": "2023-09-02T00:33:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:metal3:ironic-image:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 99051,
+    "name": "jp1\\/performance_management-manager_web_option",
+    "version": "07-54",
+    "created_at": "2014-06-18T13:51:16",
+    "updated_at": "2014-06-20T00:25:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:jp1\\/performance_management-manager_web_option:07-54:*:*:*:*:solaris:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100838,
+    "name": "acmailer",
+    "version": "3.9.6",
+    "created_at": "2015-07-23T12:08:05",
+    "updated_at": "2015-07-23T12:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seeds:acmailer:3.9.6:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1012902,
+    "name": "cookiejar",
+    "version": "2.1.1",
+    "created_at": "2023-01-25T14:02:45",
+    "updated_at": "2023-01-27T18:11:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cookiejar_project:cookiejar:2.1.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

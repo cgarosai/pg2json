@@ -1,0 +1,10 @@
+{
+    "id": 88158,
+    "name": "djvulibre",
+    "version": "3.5.2",
+    "created_at": "2013-12-03T15:02:20",
+    "updated_at": "2013-12-20T00:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:djvulibre_project:djvulibre:3.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

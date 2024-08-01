@@ -1,0 +1,10 @@
+{
+    "id": 117797,
+    "name": "enterprise_linux_server_supplementary",
+    "version": "7.0",
+    "created_at": "2016-05-24T16:13:22",
+    "updated_at": "2021-05-07T16:01:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_supplementary:7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

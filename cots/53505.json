@@ -1,0 +1,10 @@
+{
+    "id": 53505,
+    "name": "realupgrade",
+    "version": "1.1.0",
+    "created_at": "2012-07-10T01:18:16",
+    "updated_at": "2012-07-10T01:18:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:realnetworks:realupgrade:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

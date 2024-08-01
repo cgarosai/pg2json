@@ -1,0 +1,10 @@
+{
+    "id": 1004683,
+    "name": "simplexrd",
+    "version": "3.0",
+    "created_at": "2023-01-11T15:00:24",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simplexrd_project:simplexrd:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

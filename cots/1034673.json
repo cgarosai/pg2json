@@ -1,0 +1,10 @@
+{
+    "id": 1034673,
+    "name": "rocky_linux",
+    "version": "8.6",
+    "created_at": "2023-03-06T13:47:07",
+    "updated_at": "2023-03-06T14:01:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockylinux:rocky_linux:8.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

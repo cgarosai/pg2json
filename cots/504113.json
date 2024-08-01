@@ -1,0 +1,10 @@
+{
+    "id": 504113,
+    "name": "logstash",
+    "version": "2.3.0",
+    "created_at": "2020-03-10T16:26:03",
+    "updated_at": "2020-03-10T16:26:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:logstash:2.3.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

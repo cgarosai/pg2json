@@ -1,0 +1,10 @@
+{
+    "id": 186920,
+    "name": "nasm",
+    "version": "2.08.02",
+    "created_at": "2018-10-29T15:25:14",
+    "updated_at": "2018-10-29T15:59:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nasm:nasm:2.08.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 564537,
+    "name": "cortex-a32",
+    "version": "-",
+    "created_at": "2020-07-23T14:38:54",
+    "updated_at": "2020-07-23T14:38:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arm:cortex-a32:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

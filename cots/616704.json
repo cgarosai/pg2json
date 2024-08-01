@@ -1,0 +1,10 @@
+{
+    "id": 616704,
+    "name": "blueman",
+    "version": "1.99",
+    "created_at": "2020-10-30T15:48:21",
+    "updated_at": "2020-10-30T15:48:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blueman_project:blueman:1.99:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

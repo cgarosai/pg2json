@@ -1,0 +1,10 @@
+{
+    "id": 756346,
+    "name": "fossil",
+    "version": "2.15.2",
+    "created_at": "2021-07-30T15:18:18",
+    "updated_at": "2021-07-30T15:35:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fossil-scm:fossil:2.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 31191,
+    "name": "big-ip_1000",
+    "version": "-",
+    "created_at": "2010-12-29T16:10:26",
+    "updated_at": "2010-12-29T16:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:f5:big-ip_1000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

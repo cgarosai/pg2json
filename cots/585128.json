@@ -1,0 +1,10 @@
+{
+    "id": 585128,
+    "name": "pipeline_maven_integration",
+    "version": "3.5.13",
+    "created_at": "2020-08-12T15:28:32",
+    "updated_at": "2020-08-12T15:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline_maven_integration:3.5.13:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

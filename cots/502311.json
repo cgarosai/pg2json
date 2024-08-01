@@ -1,0 +1,10 @@
+{
+    "id": 502311,
+    "name": "beaker",
+    "version": "0.4.15",
+    "created_at": "2020-03-09T12:54:17",
+    "updated_at": "2020-03-09T12:54:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:beaker:0.4.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

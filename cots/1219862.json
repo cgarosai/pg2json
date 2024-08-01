@@ -1,0 +1,10 @@
+{
+    "id": 1219862,
+    "name": "informix_dynamic_server_on_cloud_pak_for_data",
+    "version": "-",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:informix_dynamic_server_on_cloud_pak_for_data:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

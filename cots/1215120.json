@@ -1,0 +1,10 @@
+{
+    "id": 1215120,
+    "name": "pingfederate",
+    "version": "10.3.5",
+    "created_at": "2023-12-08T17:54:41",
+    "updated_at": "2023-12-08T17:54:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pingidentity:pingfederate:10.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

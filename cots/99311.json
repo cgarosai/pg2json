@@ -1,0 +1,10 @@
+{
+    "id": 99311,
+    "name": "openshift",
+    "version": "1.2.8",
+    "created_at": "2014-06-23T12:57:06",
+    "updated_at": "2014-06-24T12:30:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift:1.2.8:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

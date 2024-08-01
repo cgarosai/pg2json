@@ -1,0 +1,10 @@
+{
+    "id": 538810,
+    "name": "openvpn",
+    "version": "-",
+    "created_at": "2020-04-27T13:36:13",
+    "updated_at": "2020-04-27T13:36:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aviatrix:openvpn:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

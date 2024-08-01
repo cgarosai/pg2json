@@ -1,0 +1,10 @@
+{
+    "id": 1184536,
+    "name": "rmagick",
+    "version": "1.15.5",
+    "created_at": "2023-11-06T13:19:13",
+    "updated_at": "2023-11-06T13:19:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rmagick:rmagick:1.15.5:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 336464,
+    "name": "libidn2",
+    "version": "2.2.0",
+    "created_at": "2019-08-07T11:30:51",
+    "updated_at": "2019-10-21T16:21:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libidn2_project:libidn2:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 385567,
+    "name": "useragent",
+    "version": "1.0.2",
+    "created_at": "2019-09-23T16:11:29",
+    "updated_at": "2019-09-23T16:11:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:useragent_project:useragent:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

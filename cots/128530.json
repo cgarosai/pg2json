@@ -1,0 +1,10 @@
+{
+    "id": 128530,
+    "name": "payroll",
+    "version": "12.2.4",
+    "created_at": "2017-05-03T09:46:11",
+    "updated_at": "2017-05-03T09:46:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:payroll:12.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

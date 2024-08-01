@@ -1,0 +1,10 @@
+{
+    "id": 115640,
+    "name": "rvl200_4-port_ssl_ipsec_vpn_router",
+    "version": "-",
+    "created_at": "2016-02-24T16:12:19",
+    "updated_at": "2016-02-24T16:12:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:rvl200_4-port_ssl_ipsec_vpn_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

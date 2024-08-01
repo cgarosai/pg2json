@@ -1,0 +1,10 @@
+{
+    "id": 751876,
+    "name": "drawblog",
+    "version": "-",
+    "created_at": "2021-08-07T01:24:14",
+    "updated_at": "2021-08-12T11:12:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drawblog_project:drawblog:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 70653,
+    "name": "bl20_programmable_gateway_firmware",
+    "version": "-",
+    "created_at": "2013-06-24T15:27:07",
+    "updated_at": "2013-07-12T15:46:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:turck:bl20_programmable_gateway_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

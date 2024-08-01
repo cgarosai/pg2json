@@ -1,0 +1,10 @@
+{
+    "id": 1219354,
+    "name": "master_data_governance",
+    "version": "747",
+    "created_at": "2023-12-15T17:25:32",
+    "updated_at": "2023-12-15T17:25:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:master_data_governance:747:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

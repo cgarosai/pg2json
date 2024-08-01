@@ -1,0 +1,10 @@
+{
+    "id": 655647,
+    "name": "unified_threat_prevention_platform",
+    "version": "4.1.2",
+    "created_at": "2021-02-03T11:36:18",
+    "updated_at": "2021-05-20T15:39:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:morphisec:unified_threat_prevention_platform:4.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

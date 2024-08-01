@@ -1,0 +1,10 @@
+{
+    "id": 77213,
+    "name": "video",
+    "version": "7.x-2.2",
+    "created_at": "2013-03-21T13:24:15",
+    "updated_at": "2013-04-02T14:59:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:video_project:video:7.x-2.2:beta5:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1018363,
+    "name": "bloom",
+    "version": "1.0.0",
+    "created_at": "2023-01-18T18:12:16",
+    "updated_at": "2023-01-19T11:13:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bloom_project:bloom:1.0.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

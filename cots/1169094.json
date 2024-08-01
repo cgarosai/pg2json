@@ -1,0 +1,10 @@
+{
+    "id": 1169094,
+    "name": "enterprise_linux_for_scientific_computing",
+    "version": "6.0",
+    "created_at": "2023-09-28T11:17:12",
+    "updated_at": "2023-09-28T11:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_for_scientific_computing:6.0:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 144100,
+    "name": "7-zip",
+    "version": "15.07",
+    "created_at": "2018-05-24T11:28:07",
+    "updated_at": "2018-05-24T11:28:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:7-zip:7-zip:15.07:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

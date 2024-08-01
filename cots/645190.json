@@ -1,0 +1,10 @@
+{
+    "id": 645190,
+    "name": "rulinalg",
+    "version": "0.3.7",
+    "created_at": "2021-01-06T17:10:38",
+    "updated_at": "2021-01-06T17:10:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rulinalg_project:rulinalg:0.3.7:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

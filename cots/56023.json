@@ -1,0 +1,10 @@
+{
+    "id": 56023,
+    "name": "monitor_agent_for_windows",
+    "version": "6.0.1317",
+    "created_at": "2012-04-24T21:22:02",
+    "updated_at": "2012-04-24T21:22:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:monitor_agent_for_windows:6.0.1317:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

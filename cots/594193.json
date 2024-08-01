@@ -1,0 +1,10 @@
+{
+    "id": 594193,
+    "name": "simatic_s7-200_smart_sr_cpu",
+    "version": "-",
+    "created_at": "2020-09-24T09:58:20",
+    "updated_at": "2020-09-24T09:58:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_s7-200_smart_sr_cpu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51266,
+    "name": "quicken",
+    "version": "2001",
+    "created_at": "2012-06-21T17:07:15",
+    "updated_at": "2012-06-21T17:07:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intuit:quicken:2001:*:*:*:basic:*:*:*",
+    "to_analyse": false
+}

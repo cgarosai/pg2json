@@ -1,0 +1,10 @@
+{
+    "id": 1207271,
+    "name": "desktop_connector",
+    "version": "15.8.0.1827",
+    "created_at": "2023-11-28T16:12:58",
+    "updated_at": "2023-11-28T16:12:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autodesk:desktop_connector:15.8.0.1827:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

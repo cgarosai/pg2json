@@ -1,0 +1,10 @@
+{
+    "id": 107737,
+    "name": "services_single_sign-on_server_helper",
+    "version": "-",
+    "created_at": "2015-03-05T16:20:27",
+    "updated_at": "2015-05-18T16:14:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:services_single_sign-on_server_helper_project:services_single_sign-on_server_helper:-:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

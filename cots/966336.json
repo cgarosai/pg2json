@@ -1,0 +1,10 @@
+{
+    "id": 966336,
+    "name": "tokio-rustls",
+    "version": "0.23.2",
+    "created_at": "2022-11-01T14:21:54",
+    "updated_at": "2022-11-01T14:22:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tokio:tokio-rustls:0.23.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

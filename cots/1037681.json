@@ -1,0 +1,10 @@
+{
+    "id": 1037681,
+    "name": "synopsys_coverity",
+    "version": "3.0.1",
+    "created_at": "2023-02-22T11:21:16",
+    "updated_at": "2023-02-23T12:58:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:synopsys_coverity:3.0.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

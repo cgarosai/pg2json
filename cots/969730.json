@@ -1,0 +1,10 @@
+{
+    "id": 969730,
+    "name": "messagepack",
+    "version": "0.9.2",
+    "created_at": "2022-11-14T12:45:06",
+    "updated_at": "2022-11-14T13:13:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:messagepack_project:messagepack:0.9.2:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

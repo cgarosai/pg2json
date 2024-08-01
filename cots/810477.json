@@ -1,0 +1,10 @@
+{
+    "id": 810477,
+    "name": "o-105_firmware",
+    "version": "11.0.0-36",
+    "created_at": "2021-11-30T18:00:43",
+    "updated_at": "2021-12-01T16:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:o-105_firmware:11.0.0-36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

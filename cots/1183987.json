@@ -1,0 +1,10 @@
+{
+    "id": 1183987,
+    "name": "jre",
+    "version": "1.4",
+    "created_at": "2023-11-03T18:13:46",
+    "updated_at": "2023-11-03T18:13:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:jre:1.4:*:*:*:*:solaris:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 503857,
+    "name": "nv-websocket-client",
+    "version": "1.1",
+    "created_at": "2020-03-10T13:34:19",
+    "updated_at": "2020-03-10T13:34:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nv-websocket-client_project:nv-websocket-client:1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

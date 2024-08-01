@@ -1,0 +1,10 @@
+{
+    "id": 10965,
+    "name": "cairo",
+    "version": "1.4.12",
+    "created_at": "2007-11-30T19:00:35",
+    "updated_at": "2008-03-25T18:17:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:cairo:1.4.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

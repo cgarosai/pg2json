@@ -1,0 +1,10 @@
+{
+    "id": 94328,
+    "name": "ilogscanner",
+    "version": "4.0",
+    "created_at": "2014-11-17T12:45:19",
+    "updated_at": "2014-11-25T16:38:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipa:ilogscanner:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

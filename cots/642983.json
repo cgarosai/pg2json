@@ -1,0 +1,10 @@
+{
+    "id": 642983,
+    "name": "backup_\\&_replication_director",
+    "version": "9.4.0.r43656",
+    "created_at": "2021-01-28T15:19:08",
+    "updated_at": "2021-01-28T15:19:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nakivo:backup_\\&_replication_director:9.4.0.r43656:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

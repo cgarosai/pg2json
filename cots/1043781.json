@@ -1,0 +1,10 @@
+{
+    "id": 1043781,
+    "name": "update-center2",
+    "version": "3.14",
+    "created_at": "2023-03-15T12:52:20",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:update-center2:3.14:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

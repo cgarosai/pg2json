@@ -1,0 +1,10 @@
+{
+    "id": 657908,
+    "name": "command_center_agent",
+    "version": "16.3",
+    "created_at": "2021-02-08T16:43:05",
+    "updated_at": "2021-02-08T16:43:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncr:command_center_agent:16.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

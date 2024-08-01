@@ -1,0 +1,10 @@
+{
+    "id": 1101059,
+    "name": "z1_entry_tower_g6_firmware",
+    "version": "02.12.01",
+    "created_at": "2023-06-29T09:59:16",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:z1_entry_tower_g6_firmware:02.12.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

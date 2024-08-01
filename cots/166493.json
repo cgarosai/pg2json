@@ -1,0 +1,10 @@
+{
+    "id": 166493,
+    "name": "giflib",
+    "version": "3.0",
+    "created_at": "2018-06-28T15:04:37",
+    "updated_at": "2018-06-28T15:04:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:giflib_project:giflib:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

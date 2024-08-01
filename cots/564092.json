@@ -1,0 +1,10 @@
+{
+    "id": 564092,
+    "name": "emc_powerstore_3000_firmware",
+    "version": "1.0.1.0.5.002",
+    "created_at": "2020-07-22T15:36:23",
+    "updated_at": "2020-07-22T15:36:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_powerstore_3000_firmware:1.0.1.0.5.002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

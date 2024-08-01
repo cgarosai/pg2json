@@ -1,0 +1,10 @@
+{
+    "id": 650374,
+    "name": "issuer",
+    "version": "-",
+    "created_at": "2021-02-11T16:35:03",
+    "updated_at": "2021-02-11T16:35:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:issuer_project:issuer:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 847996,
+    "name": "ca_harvest_software_change_manager",
+    "version": "14.0.0",
+    "created_at": "2022-02-08T13:39:03",
+    "updated_at": "2022-02-08T13:43:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_harvest_software_change_manager:14.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

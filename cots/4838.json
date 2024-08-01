@@ -1,0 +1,10 @@
+{
+    "id": 4838,
+    "name": "ascend_pipeline_router",
+    "version": "5.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lucent:ascend_pipeline_router:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

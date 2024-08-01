@@ -1,0 +1,10 @@
+{
+    "id": 563516,
+    "name": "spring_batch",
+    "version": "4.0.0",
+    "created_at": "2020-07-17T15:36:54",
+    "updated_at": "2020-07-17T15:36:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_batch:4.0.0:m2:*:*:*:*:*:*",
+    "to_analyse": false
+}

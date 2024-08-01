@@ -1,0 +1,10 @@
+{
+    "id": 642361,
+    "name": "mq_internet_pass-thru",
+    "version": "9.2",
+    "created_at": "2021-01-27T11:56:43",
+    "updated_at": "2021-01-27T11:56:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:mq_internet_pass-thru:9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

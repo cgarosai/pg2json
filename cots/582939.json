@@ -1,0 +1,10 @@
+{
+    "id": 582939,
+    "name": "lms133_firmware",
+    "version": "2.10",
+    "created_at": "2020-09-01T09:05:36",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:lms133_firmware:2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

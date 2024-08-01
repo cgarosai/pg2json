@@ -1,0 +1,10 @@
+{
+    "id": 73826,
+    "name": "global_site_selector",
+    "version": "-",
+    "created_at": "2013-09-05T12:33:49",
+    "updated_at": "2013-09-10T12:13:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:global_site_selector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

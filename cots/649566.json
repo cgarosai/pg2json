@@ -1,0 +1,10 @@
+{
+    "id": 649566,
+    "name": "crmsh",
+    "version": "2.2.0",
+    "created_at": "2021-01-14T19:15:59",
+    "updated_at": "2021-01-14T19:15:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:crmsh:2.2.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

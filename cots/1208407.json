@@ -1,0 +1,10 @@
+{
+    "id": 1208407,
+    "name": "powershell_universal",
+    "version": "4.1.6",
+    "created_at": "2023-11-29T19:14:04",
+    "updated_at": "2023-11-29T19:14:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ironmansoftware:powershell_universal:4.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

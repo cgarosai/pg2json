@@ -1,0 +1,10 @@
+{
+    "id": 451700,
+    "name": "uglifyjs",
+    "version": "3.3.20",
+    "created_at": "2019-12-10T14:55:08",
+    "updated_at": "2021-10-28T13:04:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lisperator:uglifyjs:3.3.20:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

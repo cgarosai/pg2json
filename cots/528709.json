@@ -1,0 +1,10 @@
+{
+    "id": 528709,
+    "name": "syndesis",
+    "version": "1.6.12",
+    "created_at": "2020-04-02T15:13:49",
+    "updated_at": "2020-04-02T15:13:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:syndesis:1.6.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

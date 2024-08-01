@@ -1,0 +1,10 @@
+{
+    "id": 1043383,
+    "name": "t618_firmware",
+    "version": "-",
+    "created_at": "2023-03-14T17:02:19",
+    "updated_at": "2023-06-07T11:48:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:unisoc:t618_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

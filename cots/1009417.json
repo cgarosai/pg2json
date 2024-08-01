@@ -1,0 +1,10 @@
+{
+    "id": 1009417,
+    "name": "goutils",
+    "version": "1.0.0",
+    "created_at": "2023-01-04T15:15:25",
+    "updated_at": "2023-01-04T15:45:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goutils_project:goutils:1.0.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

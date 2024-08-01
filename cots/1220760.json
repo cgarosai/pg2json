@@ -1,0 +1,10 @@
+{
+    "id": 1220760,
+    "name": "journalpump",
+    "version": "2.4.6",
+    "created_at": "2024-01-02T15:57:32",
+    "updated_at": "2024-01-02T15:57:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aiven:journalpump:2.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

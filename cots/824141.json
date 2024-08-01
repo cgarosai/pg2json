@@ -1,0 +1,10 @@
+{
+    "id": 824141,
+    "name": "zeroize_derive",
+    "version": "1.1.0",
+    "created_at": "2022-01-05T18:05:29",
+    "updated_at": "2022-01-10T14:59:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zeroize_derive_project:zeroize_derive:1.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1241437,
+    "name": "kap",
+    "version": "2.2.0",
+    "created_at": "2024-02-03T00:45:04",
+    "updated_at": "2024-02-03T00:45:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getkap:kap:2.2.0:beta1:*:*:*:macos:*:*",
+    "to_analyse": false
+}

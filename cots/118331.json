@@ -1,0 +1,10 @@
+{
+    "id": 118331,
+    "name": "vtscada",
+    "version": "9.1.20",
+    "created_at": "2016-06-09T15:49:11",
+    "updated_at": "2016-06-09T15:49:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trihedral:vtscada:9.1.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

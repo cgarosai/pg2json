@@ -1,0 +1,10 @@
+{
+    "id": 349070,
+    "name": "emc_powerconnect_m8024_firmware",
+    "version": "5.1.15.2",
+    "created_at": "2019-08-26T12:09:56",
+    "updated_at": "2021-05-05T15:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_powerconnect_m8024_firmware:5.1.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

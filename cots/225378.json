@@ -1,0 +1,10 @@
+{
+    "id": 225378,
+    "name": "opensaml_java",
+    "version": "2.6.2",
+    "created_at": "2019-04-05T17:36:12",
+    "updated_at": "2021-08-13T13:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shibboleth:opensaml_java:2.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

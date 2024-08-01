@@ -1,0 +1,10 @@
+{
+    "id": 88874,
+    "name": "dnp3_master_opc_server",
+    "version": "-",
+    "created_at": "2013-12-18T02:45:18",
+    "updated_at": "2014-06-30T15:15:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cooperindustries:dnp3_master_opc_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

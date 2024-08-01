@@ -1,0 +1,10 @@
+{
+    "id": 247492,
+    "name": "driver_suite",
+    "version": "14.12",
+    "created_at": "2019-05-28T12:17:26",
+    "updated_at": "2021-05-10T17:46:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:driver_suite:14.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

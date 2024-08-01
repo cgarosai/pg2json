@@ -1,0 +1,10 @@
+{
+    "id": 54202,
+    "name": "veritas_netbackup",
+    "version": "6.5.2a",
+    "created_at": "2012-07-10T01:22:46",
+    "updated_at": "2012-07-10T01:22:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_netbackup:6.5.2a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

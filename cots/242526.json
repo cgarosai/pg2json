@@ -1,0 +1,10 @@
+{
+    "id": 242526,
+    "name": "antimalware",
+    "version": "3.6.1.2711",
+    "created_at": "2019-06-04T17:10:46",
+    "updated_at": "2019-06-04T17:10:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:malwarebytes:antimalware:3.6.1.2711:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

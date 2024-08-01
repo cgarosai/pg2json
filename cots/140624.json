@@ -1,0 +1,10 @@
+{
+    "id": 140624,
+    "name": "tegra_k1",
+    "version": "-",
+    "created_at": "2018-04-23T11:58:35",
+    "updated_at": "2021-06-24T13:35:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:tegra_k1:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

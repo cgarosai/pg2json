@@ -1,0 +1,10 @@
+{
+    "id": 1036323,
+    "name": "wp_customer_area",
+    "version": "8.1.4",
+    "created_at": "2023-02-17T14:32:32",
+    "updated_at": "2023-05-01T12:13:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-customerarea:wp_customer_area:8.1.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

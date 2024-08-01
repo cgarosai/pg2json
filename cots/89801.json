@@ -1,0 +1,10 @@
+{
+    "id": 89801,
+    "name": "amberdms_billing_system",
+    "version": "1.2.0",
+    "created_at": "2014-01-10T17:33:29",
+    "updated_at": "2014-01-10T17:36:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amberdms:amberdms_billing_system:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

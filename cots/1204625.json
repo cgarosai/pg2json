@@ -1,0 +1,10 @@
+{
+    "id": 1204625,
+    "name": "azure_rtos_netx_duo",
+    "version": "6.1.12",
+    "created_at": "2023-12-07T18:40:27",
+    "updated_at": "2023-12-07T18:40:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:azure_rtos_netx_duo:6.1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 851306,
+    "name": "fortitoken_mobile",
+    "version": "5.1.0",
+    "created_at": "2022-03-10T14:20:28",
+    "updated_at": "2022-03-10T14:30:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortitoken_mobile:5.1.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

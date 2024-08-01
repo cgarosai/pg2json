@@ -1,0 +1,10 @@
+{
+    "id": 7091,
+    "name": "linux_advanced_workstation",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:17:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:linux_advanced_workstation:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

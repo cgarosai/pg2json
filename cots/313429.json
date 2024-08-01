@@ -1,0 +1,10 @@
+{
+    "id": 313429,
+    "name": "libslirp",
+    "version": "2.2.0",
+    "created_at": "2019-07-30T12:23:08",
+    "updated_at": "2019-07-30T12:23:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libslirp_project:libslirp:2.2.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

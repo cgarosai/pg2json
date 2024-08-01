@@ -1,0 +1,10 @@
+{
+    "id": 86215,
+    "name": "industry_applications",
+    "version": "4.5",
+    "created_at": "2013-10-17T11:43:55",
+    "updated_at": "2013-10-17T11:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:industry_applications:4.5:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1210529,
+    "name": "postgres_advanced_server",
+    "version": "13.0.0",
+    "created_at": "2023-12-16T03:11:41",
+    "updated_at": "2023-12-16T03:11:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:enterprisedb:postgres_advanced_server:13.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

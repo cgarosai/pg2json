@@ -1,0 +1,10 @@
+{
+    "id": 674771,
+    "name": "rocket.chat",
+    "version": "3.8.5",
+    "created_at": "2021-03-29T22:42:33",
+    "updated_at": "2021-04-20T18:07:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rocket.chat:rocket.chat:3.8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

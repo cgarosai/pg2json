@@ -1,0 +1,10 @@
+{
+    "id": 31072,
+    "name": "skinny_client_control_protocol_software",
+    "version": "8.70",
+    "created_at": "2010-12-28T16:34:38",
+    "updated_at": "2010-12-28T16:34:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

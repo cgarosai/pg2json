@@ -1,0 +1,10 @@
+{
+    "id": 399590,
+    "name": "mime",
+    "version": "2.0.3",
+    "created_at": "2019-10-01T12:52:41",
+    "updated_at": "2019-10-01T12:52:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mime_project:mime:2.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

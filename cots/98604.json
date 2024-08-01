@@ -1,0 +1,10 @@
+{
+    "id": 98604,
+    "name": "spoon",
+    "version": "0.24",
+    "created_at": "2014-06-05T13:38:26",
+    "updated_at": "2014-06-09T16:12:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ingy:spoon:0.24:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

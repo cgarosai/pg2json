@@ -1,0 +1,10 @@
+{
+    "id": 510357,
+    "name": "xeon_e3-1220_v5_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:43",
+    "updated_at": "2020-03-23T17:00:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1220_v5_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

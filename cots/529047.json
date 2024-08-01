@@ -1,0 +1,10 @@
+{
+    "id": 529047,
+    "name": "lsw_s9700_firmware",
+    "version": "v200r003c00spc500",
+    "created_at": "2020-04-02T17:41:35",
+    "updated_at": "2020-04-02T17:41:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:lsw_s9700_firmware:v200r003c00spc500:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 86154,
+    "name": "d-bus",
+    "version": "1.6.10",
+    "created_at": "2013-10-16T12:56:57",
+    "updated_at": "2023-12-27T15:36:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:d-bus_project:d-bus:1.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 248968,
+    "name": "building_integration_system",
+    "version": "2.3",
+    "created_at": "2019-05-30T15:51:57",
+    "updated_at": "2021-03-29T16:37:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:building_integration_system:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

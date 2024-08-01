@@ -1,0 +1,10 @@
+{
+    "id": 981231,
+    "name": "cube.js",
+    "version": "0.30.67",
+    "created_at": "2022-12-12T19:26:40",
+    "updated_at": "2022-12-12T19:32:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cube:cube.js:0.30.67:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

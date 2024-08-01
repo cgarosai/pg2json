@@ -1,0 +1,10 @@
+{
+    "id": 854189,
+    "name": "pjsip",
+    "version": "2.12",
+    "created_at": "2022-03-17T16:57:01",
+    "updated_at": "2022-03-18T19:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teluu:pjsip:2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

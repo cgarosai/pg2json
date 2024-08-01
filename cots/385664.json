@@ -1,0 +1,10 @@
+{
+    "id": 385664,
+    "name": "open-device",
+    "version": "1.0.0",
+    "created_at": "2019-09-23T16:52:27",
+    "updated_at": "2019-09-23T16:52:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-device_project:open-device:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

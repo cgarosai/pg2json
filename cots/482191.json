@@ -1,0 +1,10 @@
+{
+    "id": 482191,
+    "name": "cortex",
+    "version": "2.1.0",
+    "created_at": "2020-02-05T16:49:07",
+    "updated_at": "2020-02-05T16:49:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thehive-project:cortex:2.1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

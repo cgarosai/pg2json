@@ -1,0 +1,10 @@
+{
+    "id": 506358,
+    "name": "internet_gatekeeper",
+    "version": "17.0.605.474",
+    "created_at": "2020-03-02T18:21:25",
+    "updated_at": "2021-06-02T11:17:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:internet_gatekeeper:17.0.605.474:*:*:*:*:linux_kernel:*:*",
+    "to_analyse": false
+}

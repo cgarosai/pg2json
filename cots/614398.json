@@ -1,0 +1,10 @@
+{
+    "id": 614398,
+    "name": "spree",
+    "version": "3.3.0",
+    "created_at": "2020-11-23T13:53:59",
+    "updated_at": "2020-11-23T13:53:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spreecommerce:spree:3.3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 634335,
+    "name": "try-mutex",
+    "version": "-",
+    "created_at": "2021-01-06T13:55:17",
+    "updated_at": "2021-01-06T13:55:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:try-mutex_project:try-mutex:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

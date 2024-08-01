@@ -1,0 +1,10 @@
+{
+    "id": 792259,
+    "name": "metascraper",
+    "version": "3.4.0",
+    "created_at": "2021-10-28T11:29:26",
+    "updated_at": "2021-10-28T11:31:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:metascraper_project:metascraper:3.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

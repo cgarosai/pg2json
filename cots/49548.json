@@ -1,0 +1,10 @@
+{
+    "id": 49548,
+    "name": "directory",
+    "version": "r12",
+    "created_at": "2011-11-21T13:22:12",
+    "updated_at": "2021-04-08T11:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:directory:r12:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

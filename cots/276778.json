@@ -1,0 +1,10 @@
+{
+    "id": 276778,
+    "name": "nagios_xi",
+    "version": "2011",
+    "created_at": "2019-06-24T14:09:53",
+    "updated_at": "2019-06-24T14:09:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagios:nagios_xi:2011:r3.3:*:*:*:*:*:*",
+    "to_analyse": false
+}

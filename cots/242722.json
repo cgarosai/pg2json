@@ -1,0 +1,10 @@
+{
+    "id": 242722,
+    "name": "provisioning_services",
+    "version": "7.6",
+    "created_at": "2019-06-05T10:05:37",
+    "updated_at": "2019-06-05T10:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:provisioning_services:7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

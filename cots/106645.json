@@ -1,0 +1,10 @@
+{
+    "id": 106645,
+    "name": "updatexpress_system_packs_installer",
+    "version": "9.60",
+    "created_at": "2015-01-20T15:09:13",
+    "updated_at": "2015-04-13T13:16:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:updatexpress_system_packs_installer:9.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

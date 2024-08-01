@@ -1,0 +1,10 @@
+{
+    "id": 925231,
+    "name": "zimbra",
+    "version": "8.8.9",
+    "created_at": "2022-08-17T13:32:30",
+    "updated_at": "2022-08-17T17:30:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zimbra:zimbra:8.8.9:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

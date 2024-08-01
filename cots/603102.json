@@ -1,0 +1,10 @@
+{
+    "id": 603102,
+    "name": "tomcat",
+    "version": "9.0.39",
+    "created_at": "2020-10-14T13:51:35",
+    "updated_at": "2020-10-14T13:51:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:tomcat:9.0.39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

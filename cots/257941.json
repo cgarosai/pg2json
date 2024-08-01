@@ -1,0 +1,10 @@
+{
+    "id": 257941,
+    "name": "vagrant_vmware_fusion",
+    "version": "4.0.2",
+    "created_at": "2019-06-10T11:08:50",
+    "updated_at": "2019-06-10T11:08:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:vagrant_vmware_fusion:4.0.2:*:*:*:*:vagrant:*:*",
+    "to_analyse": false
+}

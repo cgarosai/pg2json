@@ -1,0 +1,10 @@
+{
+    "id": 911808,
+    "name": "activedemand",
+    "version": "-",
+    "created_at": "2022-08-09T11:53:27",
+    "updated_at": "2022-08-09T12:00:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jumpdemand:activedemand:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

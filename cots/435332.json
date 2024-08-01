@@ -1,0 +1,10 @@
+{
+    "id": 435332,
+    "name": "yourcoin",
+    "version": "-",
+    "created_at": "2019-11-12T16:39:06",
+    "updated_at": "2019-11-12T16:39:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yourcoin_project:yourcoin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

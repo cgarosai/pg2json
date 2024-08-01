@@ -1,0 +1,10 @@
+{
+    "id": 763065,
+    "name": "data_center",
+    "version": "7.11.6",
+    "created_at": "2021-08-31T16:03:28",
+    "updated_at": "2022-03-30T11:28:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:data_center:7.11.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

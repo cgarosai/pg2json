@@ -1,0 +1,10 @@
+{
+    "id": 1098035,
+    "name": "blade_a5_2020_firmware",
+    "version": "m05",
+    "created_at": "2023-06-06T13:23:59",
+    "updated_at": "2023-06-28T16:21:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:blade_a5_2020_firmware:m05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 960793,
+    "name": "hyperscan",
+    "version": "5.4.0",
+    "created_at": "2022-11-15T14:58:13",
+    "updated_at": "2022-11-18T16:31:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:hyperscan:5.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

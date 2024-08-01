@@ -1,0 +1,10 @@
+{
+    "id": 97613,
+    "name": "mail_on_update",
+    "version": "5.1.0",
+    "created_at": "2014-05-23T16:29:54",
+    "updated_at": "2014-05-28T14:33:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mail_on_update_project:mail_on_update:5.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

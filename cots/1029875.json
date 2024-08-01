@@ -1,0 +1,10 @@
+{
+    "id": 1029875,
+    "name": "latitude_3420_firmware",
+    "version": "1.23.2",
+    "created_at": "2023-02-08T14:29:48",
+    "updated_at": "2023-02-08T14:43:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:latitude_3420_firmware:1.23.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

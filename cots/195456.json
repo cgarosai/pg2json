@@ -1,0 +1,10 @@
+{
+    "id": 195456,
+    "name": "ex-series",
+    "version": "-",
+    "created_at": "2018-11-29T19:00:38",
+    "updated_at": "2021-04-15T13:58:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:ex-series:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

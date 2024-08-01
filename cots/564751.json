@@ -1,0 +1,10 @@
+{
+    "id": 564751,
+    "name": "uppy",
+    "version": "0.11.0",
+    "created_at": "2020-07-23T18:26:23",
+    "updated_at": "2020-07-23T18:26:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:transloadit:uppy:0.11.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

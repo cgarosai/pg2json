@@ -1,0 +1,10 @@
+{
+    "id": 920976,
+    "name": "gr2200_firmware",
+    "version": "minigr1a0v100r014",
+    "created_at": "2022-08-26T12:55:50",
+    "updated_at": "2023-01-04T19:06:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:h3c:gr2200_firmware:minigr1a0v100r014:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 97432,
+    "name": "sentinel",
+    "version": "-",
+    "created_at": "2014-05-20T17:37:44",
+    "updated_at": "2021-04-13T15:18:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netiq:sentinel:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 449657,
+    "name": "core_i9-9900_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T16:29:24",
+    "updated_at": "2019-12-02T16:29:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i9-9900_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

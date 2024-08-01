@@ -1,0 +1,10 @@
+{
+    "id": 123065,
+    "name": "nfc_net_installer",
+    "version": "1.1.0.0",
+    "created_at": "2017-08-14T16:20:30",
+    "updated_at": "2021-06-29T13:22:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sony:nfc_net_installer:1.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

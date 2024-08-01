@@ -1,0 +1,10 @@
+{
+    "id": 476695,
+    "name": "core_i7-7500u_firmware",
+    "version": "26.20.100.6859",
+    "created_at": "2020-01-13T13:14:37",
+    "updated_at": "2020-01-13T13:14:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i7-7500u_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 664804,
+    "name": "element",
+    "version": "-",
+    "created_at": "2021-03-09T14:14:03",
+    "updated_at": "2021-06-24T16:17:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:element:-:*:*:*:*:vcenter_server:*:*",
+    "to_analyse": false
+}

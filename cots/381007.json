@@ -1,0 +1,10 @@
+{
+    "id": 381007,
+    "name": "chromedriver",
+    "version": "2.15.0",
+    "created_at": "2019-09-25T15:42:35",
+    "updated_at": "2019-09-25T15:42:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chromedriver_project:chromedriver:2.15.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

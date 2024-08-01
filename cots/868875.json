@@ -1,0 +1,10 @@
+{
+    "id": 868875,
+    "name": "ur_bootloader_binary",
+    "version": "7.01",
+    "created_at": "2022-03-30T14:36:43",
+    "updated_at": "2022-04-01T11:23:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ge:ur_bootloader_binary:7.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

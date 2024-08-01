@@ -1,0 +1,10 @@
+{
+    "id": 221935,
+    "name": "thinkserver_rs160_firmware",
+    "version": "-",
+    "created_at": "2019-04-23T13:15:55",
+    "updated_at": "2021-03-30T11:44:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkserver_rs160_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

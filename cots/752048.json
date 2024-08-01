@@ -1,0 +1,10 @@
+{
+    "id": 752048,
+    "name": "emc_idrac8_firmware",
+    "version": "2.80.80.80",
+    "created_at": "2021-08-09T15:08:21",
+    "updated_at": "2021-09-23T17:17:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_idrac8_firmware:2.80.80.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

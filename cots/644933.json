@@ -1,0 +1,10 @@
+{
+    "id": 644933,
+    "name": "abi_stable",
+    "version": "0.6",
+    "created_at": "2021-02-01T18:04:22",
+    "updated_at": "2021-02-01T18:04:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abi_stable_project:abi_stable:0.6:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

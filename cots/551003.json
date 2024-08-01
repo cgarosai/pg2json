@@ -1,0 +1,10 @@
+{
+    "id": 551003,
+    "name": "staros",
+    "version": "-",
+    "created_at": "2020-06-16T13:17:29",
+    "updated_at": "2020-06-16T13:17:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:staros:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

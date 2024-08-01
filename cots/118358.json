@@ -1,0 +1,10 @@
+{
+    "id": 118358,
+    "name": "application_infrastructure_controller",
+    "version": "-",
+    "created_at": "2016-06-10T14:06:45",
+    "updated_at": "2021-07-08T20:16:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:application_infrastructure_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

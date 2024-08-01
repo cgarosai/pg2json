@@ -1,0 +1,10 @@
+{
+    "id": 468008,
+    "name": "py-lmdb",
+    "version": "0.63",
+    "created_at": "2019-12-18T15:59:56",
+    "updated_at": "2019-12-18T15:59:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:py-lmdb_project:py-lmdb:0.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

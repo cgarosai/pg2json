@@ -1,0 +1,10 @@
+{
+    "id": 358974,
+    "name": "pigeonhole",
+    "version": "0.3.3",
+    "created_at": "2019-09-05T13:46:26",
+    "updated_at": "2019-09-05T13:46:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dovecot:pigeonhole:0.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

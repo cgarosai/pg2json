@@ -1,0 +1,10 @@
+{
+    "id": 1060118,
+    "name": "albo_pretorio_on_line",
+    "version": "3.6",
+    "created_at": "2023-04-17T08:48:18",
+    "updated_at": "2023-04-17T15:00:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:albo_pretorio_on_line_project:albo_pretorio_on_line:3.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

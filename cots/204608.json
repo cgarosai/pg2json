@@ -1,0 +1,10 @@
+{
+    "id": 204608,
+    "name": "github_oauth",
+    "version": "0.21",
+    "created_at": "2019-03-05T19:04:18",
+    "updated_at": "2019-03-05T19:04:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:github_oauth:0.21:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 595991,
+    "name": "kleopatra",
+    "version": "17.04.2",
+    "created_at": "2020-09-04T14:37:38",
+    "updated_at": "2020-09-04T14:37:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kleopatra_project:kleopatra:17.04.2:*:*:*:*:gnupg:*:*",
+    "to_analyse": false
+}

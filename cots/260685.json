@@ -1,0 +1,10 @@
+{
+    "id": 260685,
+    "name": "scalance_x-200irt_firmware",
+    "version": "-",
+    "created_at": "2019-06-17T15:01:33",
+    "updated_at": "2021-05-19T13:59:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_x-200irt_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

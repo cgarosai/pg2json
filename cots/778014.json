@@ -1,0 +1,10 @@
+{
+    "id": 778014,
+    "name": "line",
+    "version": "11.16.0",
+    "created_at": "2021-09-14T12:09:29",
+    "updated_at": "2021-09-14T12:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linecorp:line:11.16.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

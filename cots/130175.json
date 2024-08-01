@@ -1,0 +1,10 @@
+{
+    "id": 130175,
+    "name": "camel",
+    "version": "2.19.4",
+    "created_at": "2017-12-01T18:11:20",
+    "updated_at": "2017-12-01T18:11:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:camel:2.19.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

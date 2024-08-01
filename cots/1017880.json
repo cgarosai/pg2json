@@ -1,0 +1,10 @@
+{
+    "id": 1017880,
+    "name": "personnummer",
+    "version": "3.0.0",
+    "created_at": "2023-01-17T17:12:22",
+    "updated_at": "2023-01-21T00:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:personnummer:personnummer:3.0.0:*:*:*:*:dart:*:*",
+    "to_analyse": false
+}

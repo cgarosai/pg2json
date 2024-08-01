@@ -1,0 +1,10 @@
+{
+    "id": 113818,
+    "name": "asterisk",
+    "version": "13.12.2",
+    "created_at": "2017-01-04T14:36:32",
+    "updated_at": "2017-01-04T14:36:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digium:asterisk:13.12.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

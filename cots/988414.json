@@ -1,0 +1,10 @@
+{
+    "id": 988414,
+    "name": "serenityos",
+    "version": "2021-03-27",
+    "created_at": "2022-12-08T17:53:43",
+    "updated_at": "2022-12-08T17:55:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:serenityos:serenityos:2021-03-27:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 644285,
+    "name": "ncurses",
+    "version": "5.90.0",
+    "created_at": "2021-02-01T12:12:02",
+    "updated_at": "2021-02-01T12:12:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncurses_project:ncurses:5.90.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

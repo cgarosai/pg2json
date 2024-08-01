@@ -1,0 +1,10 @@
+{
+    "id": 707666,
+    "name": "ironport_s380",
+    "version": "-",
+    "created_at": "2021-05-12T13:03:53",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ironport_s380:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

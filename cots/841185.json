@@ -1,0 +1,10 @@
+{
+    "id": 841185,
+    "name": "xeon_d2700",
+    "version": "-",
+    "created_at": "2022-02-11T16:05:27",
+    "updated_at": "2022-02-11T19:56:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_d2700:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 936635,
+    "name": "rpi-jukebox-rfid",
+    "version": "2.3.0",
+    "created_at": "2022-09-02T13:04:36",
+    "updated_at": "2022-10-03T14:44:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sourcefabric:rpi-jukebox-rfid:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

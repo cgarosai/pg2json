@@ -1,0 +1,10 @@
+{
+    "id": 927922,
+    "name": "radare2",
+    "version": "5.7.4",
+    "created_at": "2022-08-22T11:35:35",
+    "updated_at": "2022-08-22T11:36:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:radare:radare2:5.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1284310,
+    "name": "sonarqube",
+    "version": "10.2.0.77647",
+    "created_at": "2024-07-30T14:42:48",
+    "updated_at": "2024-07-30T14:42:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonarsource:sonarqube:10.2.0.77647:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1039764,
+    "name": "dpkg",
+    "version": "1.20.2",
+    "created_at": "2023-02-27T18:20:56",
+    "updated_at": "2023-02-27T18:31:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:dpkg:1.20.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

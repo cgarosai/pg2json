@@ -1,0 +1,10 @@
+{
+    "id": 634983,
+    "name": "lock_api",
+    "version": "-",
+    "created_at": "2021-01-06T16:30:33",
+    "updated_at": "2021-01-06T16:30:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lock_api_project:lock_api:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

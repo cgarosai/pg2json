@@ -1,0 +1,10 @@
+{
+    "id": 1110824,
+    "name": "unifi_network_application",
+    "version": "7.1.66",
+    "created_at": "2023-07-13T11:54:37",
+    "updated_at": "2023-07-13T14:26:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ui:unifi_network_application:7.1.66:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

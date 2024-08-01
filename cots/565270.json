@@ -1,0 +1,10 @@
+{
+    "id": 565270,
+    "name": "ecryptfs-utils",
+    "version": "105",
+    "created_at": "2020-06-25T10:58:10",
+    "updated_at": "2020-06-25T10:58:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ecryptfs:ecryptfs-utils:105:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

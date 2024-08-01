@@ -1,0 +1,10 @@
+{
+    "id": 8335,
+    "name": "700_network_document_server",
+    "version": "1.11",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T12:36:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:axis:700_network_document_server:1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

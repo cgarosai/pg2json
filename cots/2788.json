@@ -1,0 +1,10 @@
+{
+    "id": 2788,
+    "name": "shared_trace_service",
+    "version": "a.07.50",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:shared_trace_service:a.07.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

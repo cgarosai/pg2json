@@ -1,0 +1,10 @@
+{
+    "id": 1037583,
+    "name": "azure_data_box_gateway",
+    "version": "-",
+    "created_at": "2023-02-21T19:18:37",
+    "updated_at": "2023-03-06T13:59:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_data_box_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

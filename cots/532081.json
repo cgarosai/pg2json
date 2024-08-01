@@ -1,0 +1,10 @@
+{
+    "id": 532081,
+    "name": "privileged_access_manager",
+    "version": "3.0.0",
+    "created_at": "2020-04-29T14:49:08",
+    "updated_at": "2021-04-12T11:40:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:privileged_access_manager:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 628405,
+    "name": "hibernate_orm",
+    "version": "5.4.23",
+    "created_at": "2020-12-02T18:35:47",
+    "updated_at": "2020-12-02T18:35:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hibernate:hibernate_orm:5.4.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

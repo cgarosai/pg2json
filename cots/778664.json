@@ -1,0 +1,10 @@
+{
+    "id": 778664,
+    "name": "micros_kitchen_display_system_firmware",
+    "version": "210",
+    "created_at": "2021-09-14T23:15:51",
+    "updated_at": "2021-09-30T16:10:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:micros_kitchen_display_system_firmware:210:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

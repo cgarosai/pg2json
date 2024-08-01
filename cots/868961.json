@@ -1,0 +1,10 @@
+{
+    "id": 868961,
+    "name": "mac_os_x",
+    "version": "10.13.6",
+    "created_at": "2022-03-30T19:42:31",
+    "updated_at": "2022-09-02T11:40:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:mac_os_x:10.13.6:security_update_2020-004:*:*:*:*:*:*",
+    "to_analyse": false
+}

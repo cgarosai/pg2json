@@ -1,0 +1,10 @@
+{
+    "id": 145361,
+    "name": "core_i7",
+    "version": "4610y",
+    "created_at": "2018-02-07T11:26:56",
+    "updated_at": "2023-09-26T11:34:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i7:4610y:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

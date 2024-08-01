@@ -1,0 +1,10 @@
+{
+    "id": 941610,
+    "name": "sinamics_perfect_harmony_gh180_firmware",
+    "version": "2022",
+    "created_at": "2022-10-05T10:36:31",
+    "updated_at": "2022-10-14T20:00:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_perfect_harmony_gh180_firmware:2022:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

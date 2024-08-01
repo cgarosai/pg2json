@@ -1,0 +1,10 @@
+{
+    "id": 1227842,
+    "name": "moonlight",
+    "version": "11.0",
+    "created_at": "2023-12-26T16:03:49",
+    "updated_at": "2023-12-26T16:03:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moonlight-stream:moonlight:11.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

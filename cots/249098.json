@@ -1,0 +1,10 @@
+{
+    "id": 249098,
+    "name": "microarchitectural_load_port_data_sampling_firmware",
+    "version": "-",
+    "created_at": "2019-05-31T07:51:26",
+    "updated_at": "2021-05-04T14:50:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:microarchitectural_load_port_data_sampling_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 985184,
+    "name": "commons_net",
+    "version": "2.0",
+    "created_at": "2022-12-05T17:46:14",
+    "updated_at": "2022-12-05T18:02:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_net:2.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 84703,
+    "name": "compute",
+    "version": "2013.2.3",
+    "created_at": "2014-04-16T10:59:39",
+    "updated_at": "2014-05-05T14:57:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:compute:2013.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

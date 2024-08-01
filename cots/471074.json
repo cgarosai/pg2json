@@ -1,0 +1,10 @@
+{
+    "id": 471074,
+    "name": "amazon_ec2",
+    "version": "1.31",
+    "created_at": "2020-01-17T17:35:40",
+    "updated_at": "2020-01-17T17:35:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:amazon_ec2:1.31:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

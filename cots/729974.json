@@ -1,0 +1,10 @@
+{
+    "id": 729974,
+    "name": "ripgrep",
+    "version": "0.1.13",
+    "created_at": "2021-06-17T14:12:44",
+    "updated_at": "2021-06-21T12:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ripgrep_project:ripgrep:0.1.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

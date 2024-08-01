@@ -1,0 +1,10 @@
+{
+    "id": 587555,
+    "name": "dashlane",
+    "version": "4.2",
+    "created_at": "2020-08-19T13:01:56",
+    "updated_at": "2020-08-19T13:01:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dashlane:dashlane:4.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

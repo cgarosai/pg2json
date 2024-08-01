@@ -1,0 +1,10 @@
+{
+    "id": 499902,
+    "name": "nip6600_firmware",
+    "version": "v500r001c00sph303",
+    "created_at": "2020-02-21T19:02:30",
+    "updated_at": "2020-02-21T19:02:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nip6600_firmware:v500r001c00sph303:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

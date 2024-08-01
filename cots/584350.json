@@ -1,0 +1,10 @@
+{
+    "id": 584350,
+    "name": "gammautils",
+    "version": "0.0.69",
+    "created_at": "2020-09-02T15:23:57",
+    "updated_at": "2020-09-02T15:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gammautils_project:gammautils:0.0.69:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

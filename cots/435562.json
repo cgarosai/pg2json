@@ -1,0 +1,10 @@
+{
+    "id": 435562,
+    "name": "lintian",
+    "version": "1.23.13",
+    "created_at": "2019-11-12T18:18:01",
+    "updated_at": "2019-11-12T18:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:lintian:1.23.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

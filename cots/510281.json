@@ -1,0 +1,10 @@
+{
+    "id": 510281,
+    "name": "xeon_3060_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:59:59",
+    "updated_at": "2020-03-23T16:59:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_3060_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 538433,
+    "name": "aironet_2800e_firmware",
+    "version": "8.10\\(1.255\\)",
+    "created_at": "2020-04-23T14:08:29",
+    "updated_at": "2021-04-19T12:07:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_2800e_firmware:8.10\\(1.255\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

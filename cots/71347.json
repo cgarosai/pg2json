@@ -1,0 +1,10 @@
+{
+    "id": 71347,
+    "name": "3com_switch",
+    "version": "e4210-24g-poe",
+    "created_at": "2013-07-08T16:55:24",
+    "updated_at": "2013-07-12T15:50:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3com_switch:e4210-24g-poe:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

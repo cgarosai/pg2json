@@ -1,0 +1,10 @@
+{
+    "id": 190624,
+    "name": "z-wave_s2",
+    "version": "-",
+    "created_at": "2019-01-08T02:47:24",
+    "updated_at": "2021-06-28T15:10:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:silabs:z-wave_s2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

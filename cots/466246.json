@@ -1,0 +1,10 @@
+{
+    "id": 466246,
+    "name": "jboss_portal",
+    "version": "5.2.0",
+    "created_at": "2019-12-16T13:37:48",
+    "updated_at": "2019-12-16T13:37:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_portal:5.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

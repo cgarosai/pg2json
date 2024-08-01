@@ -1,0 +1,10 @@
+{
+    "id": 107308,
+    "name": "motorola_scanner_sdk",
+    "version": "-",
+    "created_at": "2015-02-17T15:45:27",
+    "updated_at": "2015-02-20T01:01:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:motorola:motorola_scanner_sdk:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

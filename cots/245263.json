@@ -1,0 +1,10 @@
+{
+    "id": 245263,
+    "name": "xeon_processor_d-1567",
+    "version": "-",
+    "created_at": "2019-05-21T14:00:24",
+    "updated_at": "2021-06-21T12:58:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_processor_d-1567:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

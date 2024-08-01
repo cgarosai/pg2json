@@ -1,0 +1,10 @@
+{
+    "id": 131844,
+    "name": "postgresql-common",
+    "version": "100",
+    "created_at": "2017-12-20T19:12:37",
+    "updated_at": "2021-04-27T15:49:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:postgresql-common:100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

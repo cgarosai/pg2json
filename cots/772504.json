@@ -1,0 +1,10 @@
+{
+    "id": 772504,
+    "name": "modem",
+    "version": "lr13",
+    "created_at": "2021-09-21T17:39:58",
+    "updated_at": "2022-09-20T12:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mediatek:modem:lr13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

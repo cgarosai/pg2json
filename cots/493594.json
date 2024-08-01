@@ -1,0 +1,10 @@
+{
+    "id": 493594,
+    "name": "libsamplerate",
+    "version": "0.1.1",
+    "created_at": "2020-02-26T16:29:14",
+    "updated_at": "2020-02-26T16:29:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libsamplerate_project:libsamplerate:0.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

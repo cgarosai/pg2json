@@ -1,0 +1,10 @@
+{
+    "id": 1089330,
+    "name": "openblue_enterprise_manager_data_collector",
+    "version": "3.2.5.75",
+    "created_at": "2023-05-24T14:46:15",
+    "updated_at": "2023-08-30T09:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:johnsoncontrols:openblue_enterprise_manager_data_collector:3.2.5.75:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

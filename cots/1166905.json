@@ -1,0 +1,10 @@
+{
+    "id": 1166905,
+    "name": "rest",
+    "version": "2.0.0",
+    "created_at": "2023-09-25T18:05:14",
+    "updated_at": "2023-09-25T18:05:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plone:rest:2.0.0:alpha4:*:*:*:*:*:*",
+    "to_analyse": false
+}

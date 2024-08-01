@@ -1,0 +1,10 @@
+{
+    "id": 646460,
+    "name": "enterprise_vault",
+    "version": "12.2.1",
+    "created_at": "2021-01-08T14:11:24",
+    "updated_at": "2021-01-08T14:11:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:enterprise_vault:12.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

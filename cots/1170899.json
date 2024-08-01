@@ -1,0 +1,10 @@
+{
+    "id": 1170899,
+    "name": "business_process_manager",
+    "version": "8.6.0.0",
+    "created_at": "2023-10-17T13:54:58",
+    "updated_at": "2023-10-17T13:54:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:business_process_manager:8.6.0.0:cf201803:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 132200,
+    "name": "python",
+    "version": "2.2.0",
+    "created_at": "2017-12-29T17:42:03",
+    "updated_at": "2017-12-29T17:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:python:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

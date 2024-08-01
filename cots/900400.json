@@ -1,0 +1,10 @@
+{
+    "id": 900400,
+    "name": "burp_suite",
+    "version": "2021.6",
+    "created_at": "2022-07-13T17:51:47",
+    "updated_at": "2022-07-14T16:33:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:portswigger:burp_suite:2021.6:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

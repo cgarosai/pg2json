@@ -1,0 +1,10 @@
+{
+    "id": 921874,
+    "name": "colord",
+    "version": "1.4.5",
+    "created_at": "2022-08-29T13:11:19",
+    "updated_at": "2022-09-19T09:14:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:colord_project:colord:1.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

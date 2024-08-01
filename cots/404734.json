@@ -1,0 +1,10 @@
+{
+    "id": 404734,
+    "name": "libidn2",
+    "version": "2.0.1",
+    "created_at": "2019-10-21T16:20:56",
+    "updated_at": "2019-10-21T16:20:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:libidn2:2.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

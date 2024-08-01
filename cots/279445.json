@@ -1,0 +1,10 @@
+{
+    "id": 279445,
+    "name": "pivotal_application_service",
+    "version": "2.4.1",
+    "created_at": "2019-06-25T15:26:10",
+    "updated_at": "2019-06-25T15:26:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

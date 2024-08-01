@@ -1,0 +1,10 @@
+{
+    "id": 14310,
+    "name": "etrust_antivirus",
+    "version": "31.6.6086",
+    "created_at": "2008-12-15T15:25:29",
+    "updated_at": "2021-04-09T11:51:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:etrust_antivirus:31.6.6086:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

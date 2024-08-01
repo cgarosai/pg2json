@@ -1,0 +1,10 @@
+{
+    "id": 630624,
+    "name": "fluid_engine",
+    "version": "2.6.8",
+    "created_at": "2020-12-22T15:20:50",
+    "updated_at": "2020-12-22T15:20:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typo3:fluid_engine:2.6.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

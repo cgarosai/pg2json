@@ -1,0 +1,10 @@
+{
+    "id": 228696,
+    "name": "aws_elastic_beanstalk_publisher",
+    "version": "1.7.2",
+    "created_at": "2019-04-15T12:19:27",
+    "updated_at": "2019-04-15T12:19:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:aws_elastic_beanstalk_publisher:1.7.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 167057,
+    "name": "hapi",
+    "version": "8.4.0",
+    "created_at": "2018-07-09T13:16:28",
+    "updated_at": "2018-07-09T13:16:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hapijs:hapi:8.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 636756,
+    "name": "corenlp-js-prefab",
+    "version": "-",
+    "created_at": "2020-12-15T11:32:30",
+    "updated_at": "2020-12-15T11:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:corenlp-js-prefab_project:corenlp-js-prefab:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

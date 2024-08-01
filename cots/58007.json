@@ -1,0 +1,10 @@
+{
+    "id": 58007,
+    "name": "office",
+    "version": "2010",
+    "created_at": "2012-05-09T12:54:21",
+    "updated_at": "2012-06-15T13:23:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:2010:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

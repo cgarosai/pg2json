@@ -1,0 +1,10 @@
+{
+    "id": 352519,
+    "name": "sakai",
+    "version": "12.4",
+    "created_at": "2019-09-09T15:52:08",
+    "updated_at": "2019-09-09T15:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sakailms:sakai:12.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

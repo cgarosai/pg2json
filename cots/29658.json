@@ -1,0 +1,10 @@
+{
+    "id": 29658,
+    "name": "winzip",
+    "version": "12.1",
+    "created_at": "2009-11-25T17:34:06",
+    "updated_at": "2009-11-25T17:34:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:winzip:winzip:12.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

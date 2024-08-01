@@ -1,0 +1,10 @@
+{
+    "id": 129293,
+    "name": "smartdiag_diagnosis_tool",
+    "version": "2.5",
+    "created_at": "2017-05-18T16:58:31",
+    "updated_at": "2021-05-25T14:46:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gemalto:smartdiag_diagnosis_tool:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

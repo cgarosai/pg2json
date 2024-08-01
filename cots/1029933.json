@@ -1,0 +1,10 @@
+{
+    "id": 1029933,
+    "name": "inspiron_7000_firmware",
+    "version": "1.20.0",
+    "created_at": "2023-02-08T14:36:12",
+    "updated_at": "2023-02-08T14:43:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_7000_firmware:1.20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

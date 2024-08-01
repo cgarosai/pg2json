@@ -1,0 +1,10 @@
+{
+    "id": 118344,
+    "name": "application_policy_infrastructure_controller_firmware",
+    "version": "1.0\\(3i\\)",
+    "created_at": "2016-06-10T14:06:45",
+    "updated_at": "2021-04-19T13:42:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:application_policy_infrastructure_controller_firmware:1.0\\(3i\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

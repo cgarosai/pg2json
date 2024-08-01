@@ -1,0 +1,10 @@
+{
+    "id": 599349,
+    "name": "litecoin",
+    "version": "0.8.2",
+    "created_at": "2020-09-11T18:49:29",
+    "updated_at": "2020-09-11T18:49:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:litecoin:litecoin:0.8.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

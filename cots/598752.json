@@ -1,0 +1,10 @@
+{
+    "id": 598752,
+    "name": "tanzu_gemfire_for_virtual_machines",
+    "version": "1.10.0",
+    "created_at": "2020-09-11T12:35:15",
+    "updated_at": "2020-09-11T12:35:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:tanzu_gemfire_for_virtual_machines:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

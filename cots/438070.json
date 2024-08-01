@@ -1,0 +1,10 @@
+{
+    "id": 438070,
+    "name": "hornetq",
+    "version": "-",
+    "created_at": "2019-11-14T18:51:32",
+    "updated_at": "2019-11-14T18:51:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:hornetq:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

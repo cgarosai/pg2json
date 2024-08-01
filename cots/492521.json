@@ -1,0 +1,10 @@
+{
+    "id": 492521,
+    "name": "celeron_firmware",
+    "version": "-",
+    "created_at": "2020-02-25T14:52:27",
+    "updated_at": "2020-02-25T14:52:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:celeron_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

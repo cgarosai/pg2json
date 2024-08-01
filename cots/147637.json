@@ -1,0 +1,10 @@
+{
+    "id": 147637,
+    "name": "virtual_managed_services",
+    "version": "3.0",
+    "created_at": "2018-03-13T13:02:01",
+    "updated_at": "2021-04-01T13:57:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:virtual_managed_services:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

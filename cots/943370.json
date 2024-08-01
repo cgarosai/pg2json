@@ -1,0 +1,10 @@
+{
+    "id": 943370,
+    "name": "fastify",
+    "version": "4.2.0",
+    "created_at": "2022-10-11T11:55:43",
+    "updated_at": "2022-10-13T14:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastify:fastify:4.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

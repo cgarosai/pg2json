@@ -1,0 +1,10 @@
+{
+    "id": 578407,
+    "name": "mailcore2",
+    "version": "0.6.2",
+    "created_at": "2020-07-31T14:21:42",
+    "updated_at": "2020-07-31T14:21:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libmailcore:mailcore2:0.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 544234,
+    "name": "image_resizer",
+    "version": "1.0.2",
+    "created_at": "2020-05-27T16:13:49",
+    "updated_at": "2020-05-27T16:13:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:verbb:image_resizer:1.0.2:*:*:*:*:craft_cms:*:*",
+    "to_analyse": false
+}

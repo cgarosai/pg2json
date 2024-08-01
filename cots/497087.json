@@ -1,0 +1,10 @@
+{
+    "id": 497087,
+    "name": "parasoft_environment_manager",
+    "version": "2.12",
+    "created_at": "2020-02-14T13:20:34",
+    "updated_at": "2020-02-14T13:20:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:parasoft_environment_manager:2.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

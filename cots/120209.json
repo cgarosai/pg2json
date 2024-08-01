@@ -1,0 +1,10 @@
+{
+    "id": 120209,
+    "name": "oncell_5104-hsdpa_firmware",
+    "version": "-",
+    "created_at": "2017-06-08T15:24:41",
+    "updated_at": "2021-04-16T12:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:oncell_5104-hsdpa_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

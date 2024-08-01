@@ -1,0 +1,10 @@
+{
+    "id": 237314,
+    "name": "znc",
+    "version": "0.047",
+    "created_at": "2019-05-03T13:43:06",
+    "updated_at": "2019-05-03T13:43:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:znc:znc:0.047:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

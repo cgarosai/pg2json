@@ -1,0 +1,10 @@
+{
+    "id": 107911,
+    "name": "telepresence_conductor",
+    "version": "xc2.4",
+    "created_at": "2015-03-13T13:39:09",
+    "updated_at": "2015-11-09T16:16:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_conductor:xc2.4:prealpha0:*:*:*:*:*:*",
+    "to_analyse": false
+}

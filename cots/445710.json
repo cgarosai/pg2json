@@ -1,0 +1,10 @@
+{
+    "id": 445710,
+    "name": "play_framework",
+    "version": "2.2.0",
+    "created_at": "2019-11-25T15:23:37",
+    "updated_at": "2019-11-25T15:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightbend:play_framework:2.2.0:milestone3:*:*:*:*:*:*",
+    "to_analyse": false
+}

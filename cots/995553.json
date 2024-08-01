@@ -1,0 +1,10 @@
+{
+    "id": 995553,
+    "name": "talon_tc_modular_\\(bacnet\\)_firmware",
+    "version": "3.5.5",
+    "created_at": "2022-12-19T11:15:12",
+    "updated_at": "2022-12-22T16:43:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:talon_tc_modular_\\(bacnet\\)_firmware:3.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

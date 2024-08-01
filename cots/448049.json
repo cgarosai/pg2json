@@ -1,0 +1,10 @@
+{
+    "id": 448049,
+    "name": "bl250_firmware",
+    "version": "-",
+    "created_at": "2019-11-27T16:29:57",
+    "updated_at": "2019-11-27T16:29:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dexp:bl250_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

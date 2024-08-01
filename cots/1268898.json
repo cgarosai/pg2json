@@ -1,0 +1,10 @@
+{
+    "id": 1268898,
+    "name": "siem",
+    "version": "6.10.0",
+    "created_at": "2024-04-09T10:26:57",
+    "updated_at": "2024-04-09T10:26:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logpoint:siem:6.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

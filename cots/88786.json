@@ -1,0 +1,10 @@
+{
+    "id": 88786,
+    "name": "rockmongo",
+    "version": "0.0.4",
+    "created_at": "2013-12-16T19:34:35",
+    "updated_at": "2013-12-16T19:39:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rockmongo:rockmongo:0.0.4:-:-:*:-:windows:*:*",
+    "to_analyse": false
+}

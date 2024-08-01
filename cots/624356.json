@@ -1,0 +1,10 @@
+{
+    "id": 624356,
+    "name": "anti-ransomware_tool",
+    "version": "4.0",
+    "created_at": "2020-12-10T11:55:37",
+    "updated_at": "2020-12-10T11:55:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:anti-ransomware_tool:4.0:patch_c:*:*:*:*:*:*",
+    "to_analyse": false
+}

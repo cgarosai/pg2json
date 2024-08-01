@@ -1,0 +1,10 @@
+{
+    "id": 693469,
+    "name": "channelmgnt",
+    "version": "1.0.6",
+    "created_at": "2021-05-04T07:31:37",
+    "updated_at": "2021-05-04T07:33:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mirahezebots:channelmgnt:1.0.6:*:*:*:*:sopel:*:*",
+    "to_analyse": false
+}

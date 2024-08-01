@@ -1,0 +1,10 @@
+{
+    "id": 561145,
+    "name": "devcert",
+    "version": "0.2.12",
+    "created_at": "2020-07-13T12:30:31",
+    "updated_at": "2020-07-13T12:30:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devcert_project:devcert:0.2.12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

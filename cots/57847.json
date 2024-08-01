@@ -1,0 +1,10 @@
+{
+    "id": 57847,
+    "name": "controlvault_host_components_installer",
+    "version": "1.7.450.290",
+    "created_at": "2012-05-08T11:52:52",
+    "updated_at": "2012-05-08T11:52:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:controlvault_host_components_installer:1.7.450.290:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

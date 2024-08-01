@@ -1,0 +1,10 @@
+{
+    "id": 601278,
+    "name": "directory_server",
+    "version": "4.4.5-0090",
+    "created_at": "2020-10-08T16:06:05",
+    "updated_at": "2020-10-08T16:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:directory_server:4.4.5-0090:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

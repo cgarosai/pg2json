@@ -1,0 +1,10 @@
+{
+    "id": 196911,
+    "name": "wifiranger_firmware",
+    "version": "7.0.3",
+    "created_at": "2018-12-06T12:25:04",
+    "updated_at": "2021-06-23T13:44:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wifiranger:wifiranger_firmware:7.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

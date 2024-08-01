@@ -1,0 +1,10 @@
+{
+    "id": 235925,
+    "name": "policy_suite_for_mobile",
+    "version": "12.0.0",
+    "created_at": "2019-04-30T12:18:15",
+    "updated_at": "2019-04-30T12:18:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:policy_suite_for_mobile:12.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

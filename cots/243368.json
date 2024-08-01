@@ -1,0 +1,10 @@
+{
+    "id": 243368,
+    "name": "cf-mysql-release",
+    "version": "36.2.0",
+    "created_at": "2019-06-05T13:10:59",
+    "updated_at": "2019-06-05T13:10:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:cf-mysql-release:36.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

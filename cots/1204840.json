@@ -1,0 +1,10 @@
+{
+    "id": 1204840,
+    "name": "flamingo",
+    "version": "3.6.20",
+    "created_at": "2023-12-08T14:05:20",
+    "updated_at": "2023-12-08T14:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ateme:flamingo:3.6.20:*:*:*:xl:*:*:*",
+    "to_analyse": false
+}

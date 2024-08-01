@@ -1,0 +1,10 @@
+{
+    "id": 61797,
+    "name": "commons",
+    "version": "6.x-2.6",
+    "created_at": "2012-11-01T12:05:46",
+    "updated_at": "2012-11-13T22:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acquia:commons:6.x-2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

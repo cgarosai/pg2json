@@ -1,0 +1,10 @@
+{
+    "id": 67352,
+    "name": "firewall_reporter",
+    "version": "5.1.0.13",
+    "created_at": "2012-08-22T14:38:48",
+    "updated_at": "2012-08-23T00:36:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:firewall_reporter:5.1.0.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

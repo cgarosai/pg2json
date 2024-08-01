@@ -1,0 +1,10 @@
+{
+    "id": 568595,
+    "name": "support_incident_tracker",
+    "version": "3.36",
+    "created_at": "2020-07-06T12:42:01",
+    "updated_at": "2020-07-06T12:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:turnkeylinux:support_incident_tracker:3.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

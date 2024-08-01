@@ -1,0 +1,10 @@
+{
+    "id": 588457,
+    "name": "fas26x0_firmware",
+    "version": "-",
+    "created_at": "2020-08-20T12:36:02",
+    "updated_at": "2020-08-20T12:36:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:fas26x0_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

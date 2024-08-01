@@ -1,0 +1,10 @@
+{
+    "id": 5377,
+    "name": "widcomm_bluetooth",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2010-12-28T16:36:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 603481,
+    "name": "solr",
+    "version": "8.4.1",
+    "created_at": "2020-10-15T11:43:04",
+    "updated_at": "2020-10-15T11:43:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:solr:8.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

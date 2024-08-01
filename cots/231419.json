@@ -1,0 +1,10 @@
+{
+    "id": 231419,
+    "name": "pippo",
+    "version": "0.1.0",
+    "created_at": "2019-05-09T15:50:33",
+    "updated_at": "2019-05-09T15:50:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pippo:pippo:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

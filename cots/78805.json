@@ -1,0 +1,10 @@
+{
+    "id": 78805,
+    "name": "netscaler_access_gateway",
+    "version": "-",
+    "created_at": "2013-04-30T23:36:19",
+    "updated_at": "2013-04-30T23:36:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:citrix:netscaler_access_gateway:-:-:enterprise:*:*:*:*:*",
+    "to_analyse": false
+}

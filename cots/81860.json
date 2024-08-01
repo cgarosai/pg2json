@@ -1,0 +1,10 @@
+{
+    "id": 81860,
+    "name": "sharefile_mobile_for_tablets",
+    "version": "2.4",
+    "created_at": "2014-02-21T16:32:24",
+    "updated_at": "2014-02-21T16:37:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:sharefile_mobile_for_tablets:2.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

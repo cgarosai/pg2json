@@ -1,0 +1,10 @@
+{
+    "id": 550663,
+    "name": "business_one",
+    "version": "10.0",
+    "created_at": "2020-06-15T15:48:20",
+    "updated_at": "2020-06-15T15:48:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:business_one:10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

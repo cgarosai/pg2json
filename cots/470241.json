@@ -1,0 +1,10 @@
+{
+    "id": 470241,
+    "name": "norton_mobile_security",
+    "version": "3.16",
+    "created_at": "2020-01-16T12:17:34",
+    "updated_at": "2020-01-16T12:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:norton_mobile_security:3.16:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

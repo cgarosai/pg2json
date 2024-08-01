@@ -1,0 +1,10 @@
+{
+    "id": 129656,
+    "name": "sourcefire_snort",
+    "version": "3.0",
+    "created_at": "2017-05-24T17:13:54",
+    "updated_at": "2021-04-01T12:09:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:sourcefire_snort:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

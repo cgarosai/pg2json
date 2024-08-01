@@ -1,0 +1,10 @@
+{
+    "id": 614753,
+    "name": "home_dns_server",
+    "version": "0.10",
+    "created_at": "2020-11-23T23:55:38",
+    "updated_at": "2020-11-23T23:55:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:home_dns_server_project:home_dns_server:0.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

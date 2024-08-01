@@ -1,0 +1,10 @@
+{
+    "id": 1228494,
+    "name": "configuration_manager",
+    "version": "7.62",
+    "created_at": "2023-12-27T13:07:09",
+    "updated_at": "2023-12-27T13:07:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:configuration_manager:7.62:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

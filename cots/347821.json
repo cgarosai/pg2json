@@ -1,0 +1,10 @@
+{
+    "id": 347821,
+    "name": "sender",
+    "version": "0.5",
+    "created_at": "2019-08-22T16:26:00",
+    "updated_at": "2019-08-22T16:26:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestwebsoft:sender:0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

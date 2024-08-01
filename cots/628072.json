@@ -1,0 +1,10 @@
+{
+    "id": 628072,
+    "name": "mathjs",
+    "version": "4.2.0",
+    "created_at": "2020-12-02T16:31:21",
+    "updated_at": "2020-12-02T16:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mathjs:mathjs:4.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 11023,
+    "name": "community_server",
+    "version": "5.0.45",
+    "created_at": "2007-12-10T19:24:13",
+    "updated_at": "2008-04-07T12:32:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysql:community_server:5.0.45:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

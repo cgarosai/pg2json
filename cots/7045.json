@@ -1,0 +1,10 @@
+{
+    "id": 7045,
+    "name": "4gl_compiler",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:16:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:4gl_compiler:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

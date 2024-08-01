@@ -1,0 +1,10 @@
+{
+    "id": 598776,
+    "name": "virtualization",
+    "version": "5",
+    "created_at": "2020-09-11T12:55:29",
+    "updated_at": "2020-09-11T12:55:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:virtualization:5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

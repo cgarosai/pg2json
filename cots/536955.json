@@ -1,0 +1,10 @@
+{
+    "id": 536955,
+    "name": "provide_ftp_server",
+    "version": "-",
+    "created_at": "2020-04-14T18:13:41",
+    "updated_at": "2020-04-14T18:13:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:provideserver:provide_ftp_server:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

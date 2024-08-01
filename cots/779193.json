@@ -1,0 +1,10 @@
+{
+    "id": 779193,
+    "name": "cortex_xsoar",
+    "version": "6.2.0",
+    "created_at": "2021-09-15T11:07:21",
+    "updated_at": "2021-09-15T12:03:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1321594:*:*:*:*:*:*",
+    "to_analyse": false
+}

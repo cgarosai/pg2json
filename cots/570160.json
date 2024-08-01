@@ -1,0 +1,10 @@
+{
+    "id": 570160,
+    "name": "internet_box_standard",
+    "version": "-",
+    "created_at": "2020-08-05T11:24:53",
+    "updated_at": "2021-06-28T11:15:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:swisscom:internet_box_standard:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

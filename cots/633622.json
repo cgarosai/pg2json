@@ -1,0 +1,10 @@
+{
+    "id": 633622,
+    "name": "shoretel_firmware",
+    "version": "19.46.1802.0",
+    "created_at": "2021-01-04T16:11:00",
+    "updated_at": "2021-01-04T16:11:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitel:shoretel_firmware:19.46.1802.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

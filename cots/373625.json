@@ -1,0 +1,10 @@
+{
+    "id": 373625,
+    "name": "hubl-server",
+    "version": "1.1.2",
+    "created_at": "2019-09-23T12:01:32",
+    "updated_at": "2019-09-23T12:01:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hubspot:hubl-server:1.1.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

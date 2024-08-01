@@ -1,0 +1,10 @@
+{
+    "id": 1069670,
+    "name": "wordpress_amazon_s3",
+    "version": "1.4",
+    "created_at": "2023-04-13T15:09:22",
+    "updated_at": "2023-05-24T15:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_amazon_s3_project:wordpress_amazon_s3:1.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

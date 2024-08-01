@@ -1,0 +1,10 @@
+{
+    "id": 460037,
+    "name": "phpfastcache",
+    "version": "5.0.0",
+    "created_at": "2019-12-27T18:56:00",
+    "updated_at": "2019-12-27T18:56:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpfastcache:phpfastcache:5.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

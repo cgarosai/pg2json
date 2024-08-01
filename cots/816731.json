@@ -1,0 +1,10 @@
+{
+    "id": 816731,
+    "name": "client_relationship_management",
+    "version": "4.1.1",
+    "created_at": "2021-11-23T17:50:13",
+    "updated_at": "2021-11-23T22:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oroinc:client_relationship_management:4.1.1:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

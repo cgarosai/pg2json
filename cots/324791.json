@@ -1,0 +1,10 @@
+{
+    "id": 324791,
+    "name": "alcatel_linkzone_firmware",
+    "version": "mw40-v-v1.0_mw40_lu_02.00_02",
+    "created_at": "2019-08-06T10:20:02",
+    "updated_at": "2021-06-30T15:47:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tcl:alcatel_linkzone_firmware:mw40-v-v1.0_mw40_lu_02.00_02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

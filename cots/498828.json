@@ -1,0 +1,10 @@
+{
+    "id": 498828,
+    "name": "timespan",
+    "version": "2.3.0",
+    "created_at": "2020-02-20T13:43:12",
+    "updated_at": "2020-02-20T13:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:timespan_project:timespan:2.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

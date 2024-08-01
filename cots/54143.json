@@ -1,0 +1,10 @@
+{
+    "id": 54143,
+    "name": "sms-smtp-xml_mm",
+    "version": "1.0.0",
+    "created_at": "2012-07-10T01:22:17",
+    "updated_at": "2012-07-10T01:22:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:sms-smtp-xml_mm:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

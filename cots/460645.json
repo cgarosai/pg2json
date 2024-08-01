@@ -1,0 +1,10 @@
+{
+    "id": 460645,
+    "name": "\\",
+    "version": "plugin\\",
+    "created_at": "2019-12-29T14:01:54",
+    "updated_at": "2019-12-29T14:01:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dancer\\:\\:plugin\\:\\:simplecrud_project:dancer\\:\\:plugin\\:\\:simplecrud:1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

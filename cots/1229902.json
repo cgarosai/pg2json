@@ -1,0 +1,10 @@
+{
+    "id": 1229902,
+    "name": "novell_linux_pos",
+    "version": "9",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:novell_linux_pos:9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

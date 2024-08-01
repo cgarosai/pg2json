@@ -1,0 +1,10 @@
+{
+    "id": 116918,
+    "name": "glance",
+    "version": "24.0.0",
+    "created_at": "2016-04-15T15:57:39",
+    "updated_at": "2022-04-18T13:31:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:glance:24.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 630867,
+    "name": "sourcefire_defense_center",
+    "version": "6.4.0",
+    "created_at": "2020-12-22T15:58:52",
+    "updated_at": "2020-12-22T15:58:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:sourcefire_defense_center:6.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

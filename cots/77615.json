@@ -1,0 +1,10 @@
+{
+    "id": 77615,
+    "name": "opc_datahub",
+    "version": "6.4.21",
+    "created_at": "2013-04-08T11:58:37",
+    "updated_at": "2013-04-09T19:38:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cogentdatahub:opc_datahub:6.4.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

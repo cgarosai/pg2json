@@ -1,0 +1,10 @@
+{
+    "id": 691020,
+    "name": "samlv2",
+    "version": "0.2.3",
+    "created_at": "2021-04-27T15:37:31",
+    "updated_at": "2021-06-02T14:20:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fusionauth:samlv2:0.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

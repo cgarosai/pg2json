@@ -1,0 +1,10 @@
+{
+    "id": 647581,
+    "name": "jabber",
+    "version": "12.8.3",
+    "created_at": "2021-01-12T12:09:43",
+    "updated_at": "2021-01-12T12:09:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:jabber:12.8.3:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 102373,
+    "name": "spa500_firmware",
+    "version": "7.5.7",
+    "created_at": "2015-12-17T16:12:38",
+    "updated_at": "2015-12-17T16:12:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:spa500_firmware:7.5.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

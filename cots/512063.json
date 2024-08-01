@@ -1,0 +1,10 @@
+{
+    "id": 512063,
+    "name": "tm-838_firmware",
+    "version": "-",
+    "created_at": "2020-03-26T14:58:13",
+    "updated_at": "2020-03-26T14:58:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:safescan:tm-838_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

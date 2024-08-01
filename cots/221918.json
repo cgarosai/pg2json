@@ -1,0 +1,10 @@
+{
+    "id": 221918,
+    "name": "enterprise",
+    "version": "2018.5",
+    "created_at": "2019-04-23T13:13:18",
+    "updated_at": "2019-04-23T13:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gradle:enterprise:2018.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

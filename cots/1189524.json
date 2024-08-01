@@ -1,0 +1,10 @@
+{
+    "id": 1189524,
+    "name": "i915_graphics",
+    "version": "6.2.10",
+    "created_at": "2023-10-27T12:19:53",
+    "updated_at": "2023-10-27T12:19:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:i915_graphics:6.2.10:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 739885,
+    "name": "tpm2-tools",
+    "version": "4.3.2",
+    "created_at": "2021-07-09T12:04:53",
+    "updated_at": "2021-07-09T12:07:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tpm2-tools_project:tpm2-tools:4.3.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

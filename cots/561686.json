@@ -1,0 +1,10 @@
+{
+    "id": 561686,
+    "name": "virtual_traffic_manager",
+    "version": "10.4",
+    "created_at": "2020-07-14T11:12:09",
+    "updated_at": "2020-07-14T11:12:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:virtual_traffic_manager:10.4:r2:*:*:*:*:*:*",
+    "to_analyse": false
+}

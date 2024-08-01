@@ -1,0 +1,10 @@
+{
+    "id": 249878,
+    "name": "esel-server",
+    "version": "-",
+    "created_at": "2019-06-03T12:55:51",
+    "updated_at": "2021-04-06T14:42:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ais:esel-server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

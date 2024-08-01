@@ -1,0 +1,10 @@
+{
+    "id": 99580,
+    "name": "enterprise_maps",
+    "version": "1.00",
+    "created_at": "2014-06-30T13:41:00",
+    "updated_at": "2014-06-30T23:51:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:enterprise_maps:1.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

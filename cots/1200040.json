@@ -1,0 +1,10 @@
+{
+    "id": 1200040,
+    "name": "optimizely_cms",
+    "version": "12.16.0",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:optimizely:optimizely_cms:12.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

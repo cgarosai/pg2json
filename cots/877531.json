@@ -1,0 +1,10 @@
+{
+    "id": 877531,
+    "name": "sd-wan_1100_firmware",
+    "version": "11.4.1",
+    "created_at": "2022-04-21T16:21:54",
+    "updated_at": "2022-04-22T16:05:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:sd-wan_1100_firmware:11.4.1:*:*:*:premium:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1215670,
+    "name": "simics_simulator",
+    "version": "1.7.2",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:simics_simulator:1.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

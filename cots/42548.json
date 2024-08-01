@@ -1,0 +1,10 @@
+{
+    "id": 42548,
+    "name": "dolphin",
+    "version": "7.0.8",
+    "created_at": "2012-02-24T13:21:43",
+    "updated_at": "2012-02-29T23:17:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:boonex:dolphin:7.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

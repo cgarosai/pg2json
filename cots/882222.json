@@ -1,0 +1,10 @@
+{
+    "id": 882222,
+    "name": "integration",
+    "version": "-",
+    "created_at": "2022-06-06T13:52:03",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:integration:-:*:*:*:text-only:*:*:*",
+    "to_analyse": false
+}

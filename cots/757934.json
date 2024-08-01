@@ -1,0 +1,10 @@
+{
+    "id": 757934,
+    "name": "control_center",
+    "version": "-",
+    "created_at": "2021-08-03T17:55:26",
+    "updated_at": "2022-09-07T16:48:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webgateinc:control_center:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

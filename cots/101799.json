@@ -1,0 +1,10 @@
+{
+    "id": 101799,
+    "name": "mobaxterm",
+    "version": "8.2",
+    "created_at": "2015-11-04T14:29:58",
+    "updated_at": "2015-11-24T17:03:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobatek:mobaxterm:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

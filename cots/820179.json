@@ -1,0 +1,10 @@
+{
+    "id": 820179,
+    "name": "limesurvey",
+    "version": "3.6.2",
+    "created_at": "2021-12-21T13:19:50",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:limesurvey:limesurvey:3.6.2:180406:*:*:*:*:*:*",
+    "to_analyse": false
+}

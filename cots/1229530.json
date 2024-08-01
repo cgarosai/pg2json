@@ -1,0 +1,10 @@
+{
+    "id": 1229530,
+    "name": "graphical_user_interface",
+    "version": "sap_basis_755",
+    "created_at": "2023-12-29T09:46:53",
+    "updated_at": "2023-12-29T09:46:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:graphical_user_interface:sap_basis_755:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

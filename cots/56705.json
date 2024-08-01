@@ -1,0 +1,10 @@
+{
+    "id": 56705,
+    "name": "content_service",
+    "version": "2.0.90",
+    "created_at": "2012-04-24T21:26:38",
+    "updated_at": "2012-04-24T21:26:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autodesk:content_service:2.0.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

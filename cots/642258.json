@@ -1,0 +1,10 @@
+{
+    "id": 642258,
+    "name": "vert.x-web",
+    "version": "3.0.0",
+    "created_at": "2021-01-26T16:25:12",
+    "updated_at": "2021-01-26T16:25:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:vert.x-web:3.0.0:milestone3:*:*:*:*:*:*",
+    "to_analyse": false
+}

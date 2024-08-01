@@ -1,0 +1,10 @@
+{
+    "id": 777896,
+    "name": "rift_s",
+    "version": "-",
+    "created_at": "2021-09-13T14:23:40",
+    "updated_at": "2021-09-21T15:29:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:oculus:rift_s:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

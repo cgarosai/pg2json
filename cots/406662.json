@@ -1,0 +1,10 @@
+{
+    "id": 406662,
+    "name": "webassembly_virtual_machine",
+    "version": "2018-09-11",
+    "created_at": "2019-10-09T10:28:42",
+    "updated_at": "2019-10-09T10:28:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webassembly_virtual_machine_project:webassembly_virtual_machine:2018-09-11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

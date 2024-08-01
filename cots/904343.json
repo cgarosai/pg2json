@@ -1,0 +1,10 @@
+{
+    "id": 904343,
+    "name": "capsule_workspace",
+    "version": "8.2.2",
+    "created_at": "2022-07-22T11:03:07",
+    "updated_at": "2022-07-26T12:37:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:capsule_workspace:8.2.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1181980,
+    "name": "http_antivirus_proxy",
+    "version": "0.87",
+    "created_at": "2023-10-31T14:17:45",
+    "updated_at": "2023-10-31T14:17:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:havp:http_antivirus_proxy:0.87:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

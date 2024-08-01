@@ -1,0 +1,10 @@
+{
+    "id": 145586,
+    "name": "xeon_e3",
+    "version": "1275_v6",
+    "created_at": "2018-02-07T11:28:58",
+    "updated_at": "2020-04-28T10:16:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e3:1275_v6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

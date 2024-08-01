@@ -1,0 +1,10 @@
+{
+    "id": 871289,
+    "name": "catalyst_9130_ap_firmware",
+    "version": "-",
+    "created_at": "2022-05-04T15:46:15",
+    "updated_at": "2022-07-29T21:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:catalyst_9130_ap_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

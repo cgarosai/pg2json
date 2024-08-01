@@ -1,0 +1,10 @@
+{
+    "id": 58037,
+    "name": "enterprise_update_server",
+    "version": "2.2.0.426",
+    "created_at": "2012-05-14T21:28:46",
+    "updated_at": "2012-05-14T21:28:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eeye:enterprise_update_server:2.2.0.426:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

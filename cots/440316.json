@@ -1,0 +1,10 @@
+{
+    "id": 440316,
+    "name": "rabbitmq",
+    "version": "1.7.22",
+    "created_at": "2019-12-03T12:15:02",
+    "updated_at": "2019-12-03T12:15:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:rabbitmq:1.7.22:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

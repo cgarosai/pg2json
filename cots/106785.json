@@ -1,0 +1,10 @@
+{
+    "id": 106785,
+    "name": "api_management",
+    "version": "3.0.4.0",
+    "created_at": "2015-01-21T20:14:23",
+    "updated_at": "2015-01-26T13:49:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:api_management:3.0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

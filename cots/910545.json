@@ -1,0 +1,10 @@
+{
+    "id": 910545,
+    "name": "krakend",
+    "version": "-",
+    "created_at": "2022-08-05T15:22:34",
+    "updated_at": "2022-08-17T12:33:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

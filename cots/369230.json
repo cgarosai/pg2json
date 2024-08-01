@@ -1,0 +1,10 @@
+{
+    "id": 369230,
+    "name": "set-value",
+    "version": "0.1.6",
+    "created_at": "2019-09-13T14:28:41",
+    "updated_at": "2019-09-13T14:28:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:set-value_project:set-value:0.1.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

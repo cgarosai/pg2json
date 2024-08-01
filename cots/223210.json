@@ -1,0 +1,10 @@
+{
+    "id": 223210,
+    "name": "email_center",
+    "version": "12.2.8",
+    "created_at": "2019-04-24T16:19:31",
+    "updated_at": "2019-04-24T16:19:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:email_center:12.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

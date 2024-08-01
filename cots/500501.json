@@ -1,0 +1,10 @@
+{
+    "id": 500501,
+    "name": "galaxy_gear_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T17:05:00",
+    "updated_at": "2020-03-06T17:05:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:galaxy_gear_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 113528,
+    "name": "jabber_guest",
+    "version": "10.6.9",
+    "created_at": "2016-12-28T11:46:15",
+    "updated_at": "2016-12-28T11:46:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:jabber_guest:10.6.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

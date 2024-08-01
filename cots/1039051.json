@@ -1,0 +1,10 @@
+{
+    "id": 1039051,
+    "name": "hyperkit",
+    "version": "0.20170227",
+    "created_at": "2023-02-27T10:59:12",
+    "updated_at": "2023-02-28T16:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobyproject:hyperkit:0.20170227:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

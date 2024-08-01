@@ -1,0 +1,10 @@
+{
+    "id": 644102,
+    "name": "sppa-t3000_application_server",
+    "version": "r8.2",
+    "created_at": "2021-01-29T16:46:01",
+    "updated_at": "2021-01-29T16:46:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:sppa-t3000_application_server:r8.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

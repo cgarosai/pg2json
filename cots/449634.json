@@ -1,0 +1,10 @@
+{
+    "id": 449634,
+    "name": "core_i5-8500_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T16:29:12",
+    "updated_at": "2019-12-02T16:29:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i5-8500_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 510463,
+    "name": "xeon_e5-2658_v4_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:01:52",
+    "updated_at": "2020-03-23T17:01:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e5-2658_v4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

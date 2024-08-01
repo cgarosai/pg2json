@@ -1,0 +1,10 @@
+{
+    "id": 297076,
+    "name": "services_basic_authentication",
+    "version": "7.x-1.2",
+    "created_at": "2019-07-15T09:36:27",
+    "updated_at": "2019-07-15T09:36:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:services_basic_authentication_project:services_basic_authentication:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

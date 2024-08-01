@@ -1,0 +1,10 @@
+{
+    "id": 643828,
+    "name": "simatic_s7-1500_software_controller",
+    "version": "2.1",
+    "created_at": "2021-01-29T14:20:54",
+    "updated_at": "2021-01-29T14:20:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_s7-1500_software_controller:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

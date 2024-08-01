@@ -1,0 +1,10 @@
+{
+    "id": 1201696,
+    "name": "debug_log_manager",
+    "version": "2.1.4",
+    "created_at": "2023-12-04T17:22:41",
+    "updated_at": "2023-12-04T17:22:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bowo:debug_log_manager:2.1.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

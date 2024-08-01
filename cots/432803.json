@@ -1,0 +1,10 @@
+{
+    "id": 432803,
+    "name": "selenium-download",
+    "version": "2.0.15",
+    "created_at": "2019-11-20T16:30:21",
+    "updated_at": "2019-11-20T16:30:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:groupon:selenium-download:2.0.15:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

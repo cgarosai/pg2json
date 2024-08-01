@@ -1,0 +1,10 @@
+{
+    "id": 151568,
+    "name": "jaspersoft_studio",
+    "version": "7.1.0",
+    "created_at": "2018-05-25T19:38:16",
+    "updated_at": "2021-05-17T12:54:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:jaspersoft_studio:7.1.0:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

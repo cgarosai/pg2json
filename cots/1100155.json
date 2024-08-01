@@ -1,0 +1,10 @@
+{
+    "id": 1100155,
+    "name": "fl_mguard_centerport_vpn-1000_firmware",
+    "version": "8.9.0",
+    "created_at": "2023-06-27T15:58:23",
+    "updated_at": "2023-06-28T12:30:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:fl_mguard_centerport_vpn-1000_firmware:8.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

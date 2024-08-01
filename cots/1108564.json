@@ -1,0 +1,10 @@
+{
+    "id": 1108564,
+    "name": "reminder",
+    "version": "2.0.3",
+    "created_at": "2023-06-26T13:21:29",
+    "updated_at": "2023-06-26T14:23:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teamlead:reminder:2.0.3:*:*:*:*:jira:*:*",
+    "to_analyse": false
+}

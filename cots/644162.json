@@ -1,0 +1,10 @@
+{
+    "id": 644162,
+    "name": "arubaos",
+    "version": "8.6.0.0",
+    "created_at": "2021-01-29T18:37:39",
+    "updated_at": "2021-01-29T18:37:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:arubaos:8.6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

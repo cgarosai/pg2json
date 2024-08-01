@@ -1,0 +1,10 @@
+{
+    "id": 918405,
+    "name": "lucene-search",
+    "version": "370.v62a5f618cd3a",
+    "created_at": "2022-08-01T16:34:05",
+    "updated_at": "2022-08-02T12:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:lucene-search:370.v62a5f618cd3a:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

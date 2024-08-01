@@ -1,0 +1,10 @@
+{
+    "id": 50979,
+    "name": "agent_controller",
+    "version": "5.0.2",
+    "created_at": "2012-06-21T17:06:29",
+    "updated_at": "2012-06-21T17:06:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:agent_controller:5.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

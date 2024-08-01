@@ -1,0 +1,10 @@
+{
+    "id": 651187,
+    "name": "pcoip_soft_client",
+    "version": "20.07.2",
+    "created_at": "2021-02-16T13:50:48",
+    "updated_at": "2021-02-16T13:50:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_soft_client:20.07.2:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 426574,
+    "name": "oslo-incubator",
+    "version": "2013.2",
+    "created_at": "2019-11-01T16:14:57",
+    "updated_at": "2019-11-01T16:14:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:oslo-incubator:2013.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

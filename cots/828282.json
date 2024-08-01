@@ -1,0 +1,10 @@
+{
+    "id": 828282,
+    "name": "mediamatic",
+    "version": "-",
+    "created_at": "2021-12-16T14:33:20",
+    "updated_at": "2021-12-22T18:16:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frenify:mediamatic:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

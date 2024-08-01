@@ -1,0 +1,10 @@
+{
+    "id": 648557,
+    "name": "redcarpet",
+    "version": "1.17.2",
+    "created_at": "2021-01-13T14:32:30",
+    "updated_at": "2021-01-13T14:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redcarpet_project:redcarpet:1.17.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

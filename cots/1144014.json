@@ -1,0 +1,10 @@
+{
+    "id": 1144014,
+    "name": "accountsservice",
+    "version": "23.13.9-2ubuntu2",
+    "created_at": "2023-09-06T13:04:59",
+    "updated_at": "2023-09-07T12:56:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:accountsservice:23.13.9-2ubuntu2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

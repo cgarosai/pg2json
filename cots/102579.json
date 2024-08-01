@@ -1,0 +1,10 @@
+{
+    "id": 102579,
+    "name": "kea",
+    "version": "1.0.0",
+    "created_at": "2015-12-23T14:30:52",
+    "updated_at": "2015-12-23T14:30:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isc:kea:1.0.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

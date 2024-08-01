@@ -1,0 +1,10 @@
+{
+    "id": 709796,
+    "name": "iot-gw30_firmware",
+    "version": "1.10.3",
+    "created_at": "2021-05-19T13:38:41",
+    "updated_at": "2021-07-08T12:32:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:weidmueller:iot-gw30_firmware:1.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

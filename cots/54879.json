@@ -1,0 +1,10 @@
+{
+    "id": 54879,
+    "name": "glpi",
+    "version": "0.21",
+    "created_at": "2012-07-25T13:26:37",
+    "updated_at": "2012-07-25T13:26:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glpi-project:glpi:0.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

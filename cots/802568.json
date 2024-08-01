@@ -1,0 +1,10 @@
+{
+    "id": 802568,
+    "name": "framework",
+    "version": "6.18.2",
+    "created_at": "2021-11-16T17:11:43",
+    "updated_at": "2021-11-16T17:15:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravel:framework:6.18.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

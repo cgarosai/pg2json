@@ -1,0 +1,10 @@
+{
+    "id": 197648,
+    "name": "nsx_data_center",
+    "version": "-",
+    "created_at": "2018-12-17T17:00:56",
+    "updated_at": "2018-12-17T17:00:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:nsx_data_center:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

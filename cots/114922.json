@@ -1,0 +1,10 @@
+{
+    "id": 114922,
+    "name": "webex_meeting_center",
+    "version": "t29_base",
+    "created_at": "2017-02-24T18:26:22",
+    "updated_at": "2021-04-02T11:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex_meeting_center:t29_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

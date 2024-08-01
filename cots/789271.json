@@ -1,0 +1,10 @@
+{
+    "id": 789271,
+    "name": "sma_500v",
+    "version": "10.2.0.0",
+    "created_at": "2021-10-05T14:03:14",
+    "updated_at": "2021-10-05T15:06:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:sma_500v:10.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

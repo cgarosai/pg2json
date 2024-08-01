@@ -1,0 +1,10 @@
+{
+    "id": 948855,
+    "name": "jetson_linux",
+    "version": "34.1",
+    "created_at": "2022-09-28T17:59:07",
+    "updated_at": "2022-09-28T18:00:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:jetson_linux:34.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

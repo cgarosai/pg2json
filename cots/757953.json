@@ -1,0 +1,10 @@
+{
+    "id": 757953,
+    "name": "sinumerik_manage_myresources",
+    "version": "-",
+    "created_at": "2021-08-04T11:16:49",
+    "updated_at": "2022-05-18T14:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sinumerik_manage_myresources:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

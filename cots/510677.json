@@ -1,0 +1,10 @@
+{
+    "id": 510677,
+    "name": "core_i9-10900x_x-series_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:35:07",
+    "updated_at": "2020-03-23T17:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i9-10900x_x-series_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

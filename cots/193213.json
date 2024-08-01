@@ -1,0 +1,10 @@
+{
+    "id": 193213,
+    "name": "ea-finserv",
+    "version": "5.0",
+    "created_at": "2019-01-17T12:51:59",
+    "updated_at": "2021-03-02T14:15:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:ea-finserv:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

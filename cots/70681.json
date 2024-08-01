@@ -1,0 +1,10 @@
+{
+    "id": 70681,
+    "name": "forticlient_lite",
+    "version": "2.0",
+    "created_at": "2013-06-26T16:56:19",
+    "updated_at": "2015-11-27T16:14:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:forticlient_lite:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

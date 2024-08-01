@@ -1,0 +1,10 @@
+{
+    "id": 669025,
+    "name": "folly",
+    "version": "2020.06.15.00",
+    "created_at": "2021-02-26T19:50:31",
+    "updated_at": "2021-02-26T19:53:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:facebook:folly:2020.06.15.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 762352,
+    "name": "envoy",
+    "version": "1.17.4",
+    "created_at": "2021-08-30T10:08:07",
+    "updated_at": "2021-08-30T10:41:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:envoyproxy:envoy:1.17.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

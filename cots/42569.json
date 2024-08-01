@@ -1,0 +1,10 @@
+{
+    "id": 42569,
+    "name": "lepton",
+    "version": "1.1.4",
+    "created_at": "2012-02-24T14:19:01",
+    "updated_at": "2012-02-29T23:18:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lepton-cms:lepton:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 695119,
+    "name": "nextcloud\\/dialogs",
+    "version": "1.2.0",
+    "created_at": "2021-04-15T16:45:21",
+    "updated_at": "2021-04-19T14:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud\\/dialogs_project:nextcloud\\/dialogs:1.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

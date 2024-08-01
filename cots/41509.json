@@ -1,0 +1,10 @@
+{
+    "id": 41509,
+    "name": "messenger",
+    "version": "8.1.0.195",
+    "created_at": "2012-01-20T16:58:15",
+    "updated_at": "2012-02-10T18:53:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yahoo:messenger:8.1.0.195:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

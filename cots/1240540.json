@@ -1,0 +1,10 @@
+{
+    "id": 1240540,
+    "name": "directory_services_connector",
+    "version": "4.1.22",
+    "created_at": "2024-02-02T21:20:37",
+    "updated_at": "2024-02-02T21:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:directory_services_connector:4.1.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 183134,
+    "name": "azure-iot-sdk-c",
+    "version": "2017-11-03",
+    "created_at": "2018-11-21T14:30:34",
+    "updated_at": "2018-11-21T14:30:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure-iot-sdk-c:2017-11-03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

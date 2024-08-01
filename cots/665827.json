@@ -1,0 +1,10 @@
+{
+    "id": 665827,
+    "name": "privilege_management_for_unix\\/linux",
+    "version": "-",
+    "created_at": "2021-02-23T17:31:25",
+    "updated_at": "2021-05-26T13:13:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beyondtrust:privilege_management_for_unix\\/linux:-:*:*:*:basic:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 913066,
+    "name": "secure_firewall_3140",
+    "version": "-",
+    "created_at": "2022-08-12T13:31:56",
+    "updated_at": "2022-08-15T12:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:secure_firewall_3140:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

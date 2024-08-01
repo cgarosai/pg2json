@@ -1,0 +1,10 @@
+{
+    "id": 860663,
+    "name": "codeready_linux_builder",
+    "version": "8.4",
+    "created_at": "2022-04-05T17:09:27",
+    "updated_at": "2022-06-03T11:02:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:codeready_linux_builder:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

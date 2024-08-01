@@ -1,0 +1,10 @@
+{
+    "id": 874160,
+    "name": "sd-wan_solution",
+    "version": "-",
+    "created_at": "2022-05-12T03:50:36",
+    "updated_at": "2022-11-04T17:01:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:sd-wan_solution:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

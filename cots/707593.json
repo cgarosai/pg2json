@@ -1,0 +1,10 @@
+{
+    "id": 707593,
+    "name": "hyperflex_hx220c_all_nvme_m5",
+    "version": "-",
+    "created_at": "2021-05-12T12:26:00",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:hyperflex_hx220c_all_nvme_m5:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

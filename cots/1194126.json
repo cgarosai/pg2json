@@ -1,0 +1,10 @@
+{
+    "id": 1194126,
+    "name": "ryzen_3_5300ge_firmware",
+    "version": "comboam4v2_1.2.0.b",
+    "created_at": "2023-11-24T12:47:15",
+    "updated_at": "2023-11-24T12:47:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_3_5300ge_firmware:comboam4v2_1.2.0.b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

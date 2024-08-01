@@ -1,0 +1,10 @@
+{
+    "id": 813430,
+    "name": "knime_server",
+    "version": "4.13.3",
+    "created_at": "2021-12-08T13:41:48",
+    "updated_at": "2021-12-08T13:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

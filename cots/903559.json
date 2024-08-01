@@ -1,0 +1,10 @@
+{
+    "id": 903559,
+    "name": "t618_firmware",
+    "version": "-",
+    "created_at": "2022-07-20T14:14:57",
+    "updated_at": "2022-07-21T13:54:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nautilus:t618_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 715762,
+    "name": "arangodb",
+    "version": "0.4.2",
+    "created_at": "2021-05-27T12:31:07",
+    "updated_at": "2021-05-27T12:57:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arangodb:arangodb:0.4.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

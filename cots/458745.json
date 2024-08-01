@@ -1,0 +1,10 @@
+{
+    "id": 458745,
+    "name": "emc_elastic_cloud_storage",
+    "version": "3.4.0.0",
+    "created_at": "2019-12-09T13:57:05",
+    "updated_at": "2019-12-09T13:57:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_elastic_cloud_storage:3.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1018365,
+    "name": "omnicore_c30_firmware",
+    "version": "-",
+    "created_at": "2023-01-18T18:49:30",
+    "updated_at": "2023-03-20T15:51:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:abb:omnicore_c30_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

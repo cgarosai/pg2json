@@ -1,0 +1,10 @@
+{
+    "id": 660903,
+    "name": "argo-cd",
+    "version": "0.3.3",
+    "created_at": "2021-03-03T15:40:08",
+    "updated_at": "2021-04-01T15:34:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:argo-cd:0.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

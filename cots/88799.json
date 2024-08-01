@@ -1,0 +1,10 @@
+{
+    "id": 88799,
+    "name": "ack",
+    "version": "2.10",
+    "created_at": "2013-12-16T21:46:29",
+    "updated_at": "2013-12-16T21:50:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beyondgrep:ack:2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

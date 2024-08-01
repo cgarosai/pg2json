@@ -1,0 +1,10 @@
+{
+    "id": 692159,
+    "name": "vaadin",
+    "version": "18.0.7",
+    "created_at": "2021-04-29T13:52:35",
+    "updated_at": "2021-04-29T14:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vaadin:vaadin:18.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

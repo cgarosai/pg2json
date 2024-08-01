@@ -1,0 +1,10 @@
+{
+    "id": 67716,
+    "name": "bionic",
+    "version": "-",
+    "created_at": "2012-08-24T16:56:49",
+    "updated_at": "2012-08-24T17:56:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:bionic:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

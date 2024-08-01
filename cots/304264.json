@@ -1,0 +1,10 @@
+{
+    "id": 304264,
+    "name": "mono",
+    "version": "3.2.0",
+    "created_at": "2019-07-25T11:52:06",
+    "updated_at": "2019-07-25T11:52:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mono-project:mono:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

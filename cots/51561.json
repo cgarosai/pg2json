@@ -1,0 +1,10 @@
+{
+    "id": 51561,
+    "name": "firewall_enterprise_admin_console",
+    "version": "4.10.3",
+    "created_at": "2012-06-21T17:08:26",
+    "updated_at": "2012-06-21T17:08:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:firewall_enterprise_admin_console:4.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

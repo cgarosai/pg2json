@@ -1,0 +1,10 @@
+{
+    "id": 224880,
+    "name": "grafana",
+    "version": "5.4.3",
+    "created_at": "2019-04-29T10:21:09",
+    "updated_at": "2019-04-29T10:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grafana:grafana:5.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

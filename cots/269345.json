@@ -1,0 +1,10 @@
+{
+    "id": 269345,
+    "name": "spice-gtk",
+    "version": "0.22",
+    "created_at": "2019-06-17T11:42:03",
+    "updated_at": "2019-06-17T11:49:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spice_project:spice-gtk:0.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 534834,
+    "name": "healthsuite_health",
+    "version": "-",
+    "created_at": "2020-05-04T16:12:02",
+    "updated_at": "2020-05-04T16:12:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:philips:healthsuite_health:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

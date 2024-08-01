@@ -1,0 +1,10 @@
+{
+    "id": 1060978,
+    "name": "cp-8031_firmware",
+    "version": "-",
+    "created_at": "2023-04-18T12:19:51",
+    "updated_at": "2023-09-01T01:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cp-8031_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

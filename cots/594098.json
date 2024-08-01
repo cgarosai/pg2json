@@ -1,0 +1,10 @@
+{
+    "id": 594098,
+    "name": "ac6005_firmware",
+    "version": "v200r006c10",
+    "created_at": "2020-09-23T17:05:26",
+    "updated_at": "2020-09-23T17:05:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ac6005_firmware:v200r006c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

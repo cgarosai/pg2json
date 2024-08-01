@@ -1,0 +1,10 @@
+{
+    "id": 392967,
+    "name": "ldap_email",
+    "version": "0.7",
+    "created_at": "2019-10-03T15:26:28",
+    "updated_at": "2019-10-03T15:26:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:ldap_email:0.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

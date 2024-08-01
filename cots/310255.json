@@ -1,0 +1,10 @@
+{
+    "id": 310255,
+    "name": "exchange_server",
+    "version": "2016",
+    "created_at": "2019-07-29T10:57:44",
+    "updated_at": "2019-07-29T10:57:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_13:*:*:*:*:*:*",
+    "to_analyse": false
+}

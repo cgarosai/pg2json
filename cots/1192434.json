@@ -1,0 +1,10 @@
+{
+    "id": 1192434,
+    "name": "epyc_7303p",
+    "version": "-",
+    "created_at": "2023-11-18T03:38:38",
+    "updated_at": "2023-11-18T03:38:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:epyc_7303p:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

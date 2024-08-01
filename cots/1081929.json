@@ -1,0 +1,10 @@
+{
+    "id": 1081929,
+    "name": "emc_storage_nx3240",
+    "version": "-",
+    "created_at": "2023-05-26T17:39:59",
+    "updated_at": "2023-06-15T16:16:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:emc_storage_nx3240:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

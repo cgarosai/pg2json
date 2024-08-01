@@ -1,0 +1,10 @@
+{
+    "id": 376571,
+    "name": "grml-debootstrap",
+    "version": "0.83",
+    "created_at": "2019-09-18T15:08:48",
+    "updated_at": "2019-09-18T15:08:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grml:grml-debootstrap:0.83:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

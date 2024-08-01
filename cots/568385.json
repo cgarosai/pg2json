@@ -1,0 +1,10 @@
+{
+    "id": 568385,
+    "name": "vncrecorder",
+    "version": "1.6",
+    "created_at": "2020-07-06T10:37:19",
+    "updated_at": "2020-07-06T10:37:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:vncrecorder:1.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

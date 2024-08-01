@@ -1,0 +1,10 @@
+{
+    "id": 1196886,
+    "name": "digirisk",
+    "version": "6.2.5.2",
+    "created_at": "2023-11-08T11:45:35",
+    "updated_at": "2023-11-08T11:45:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:evarisk:digirisk:6.2.5.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

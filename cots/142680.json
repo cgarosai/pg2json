@@ -1,0 +1,10 @@
+{
+    "id": 142680,
+    "name": "signal",
+    "version": "2.23.0.0",
+    "created_at": "2018-05-17T10:55:15",
+    "updated_at": "2018-05-17T10:55:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:signal:signal:2.23.0.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

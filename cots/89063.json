@@ -1,0 +1,10 @@
+{
+    "id": 89063,
+    "name": "prosafe_firmware",
+    "version": "5.4.1.10",
+    "created_at": "2013-12-19T16:49:18",
+    "updated_at": "2013-12-19T17:08:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:prosafe_firmware:5.4.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

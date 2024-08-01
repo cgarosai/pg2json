@@ -1,0 +1,10 @@
+{
+    "id": 374366,
+    "name": "aegir",
+    "version": "18.0.0",
+    "created_at": "2019-09-23T12:13:39",
+    "updated_at": "2019-09-23T12:13:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aegir_project:aegir:18.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

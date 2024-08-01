@@ -1,0 +1,10 @@
+{
+    "id": 1132134,
+    "name": "huemagic",
+    "version": "3.0.0",
+    "created_at": "2023-08-16T18:22:24",
+    "updated_at": "2023-08-16T18:29:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dgtl:huemagic:3.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

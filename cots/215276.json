@@ -1,0 +1,10 @@
+{
+    "id": 215276,
+    "name": "pango",
+    "version": "1.39.0",
+    "created_at": "2019-03-08T12:29:11",
+    "updated_at": "2021-07-14T13:41:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pango:pango:1.39.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

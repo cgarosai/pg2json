@@ -1,0 +1,10 @@
+{
+    "id": 504479,
+    "name": "routers2",
+    "version": "2.0",
+    "created_at": "2020-03-11T13:13:02",
+    "updated_at": "2020-03-11T13:13:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:routers2_project:routers2:2.0:b11:*:*:*:*:*:*",
+    "to_analyse": false
+}

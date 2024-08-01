@@ -1,0 +1,10 @@
+{
+    "id": 1144800,
+    "name": "blockchain_keystore",
+    "version": "-",
+    "created_at": "2023-09-08T12:11:56",
+    "updated_at": "2023-09-09T01:41:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:blockchain_keystore:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

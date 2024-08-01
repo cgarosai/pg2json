@@ -1,0 +1,10 @@
+{
+    "id": 129489,
+    "name": "sirius_motor_starter_m200d_profinet_firmware",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-06-29T11:39:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sirius_motor_starter_m200d_profinet_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

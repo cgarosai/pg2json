@@ -1,0 +1,10 @@
+{
+    "id": 574638,
+    "name": "install_norton_security",
+    "version": "6.2",
+    "created_at": "2020-08-12T11:43:35",
+    "updated_at": "2020-08-12T11:43:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:norton:install_norton_security:6.2:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

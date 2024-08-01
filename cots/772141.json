@@ -1,0 +1,10 @@
+{
+    "id": 772141,
+    "name": "azure_diagnostics_\\(lad\\)",
+    "version": "-",
+    "created_at": "2021-09-21T13:30:29",
+    "updated_at": "2022-08-12T18:37:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_diagnostics_\\(lad\\):-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

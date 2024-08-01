@@ -1,0 +1,10 @@
+{
+    "id": 77459,
+    "name": "varnish",
+    "version": "7.x-1.0",
+    "created_at": "2013-03-28T15:43:41",
+    "updated_at": "2013-04-09T19:35:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:varnish_http_accelerator_integration_project:varnish:7.x-1.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

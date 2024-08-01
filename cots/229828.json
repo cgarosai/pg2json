@@ -1,0 +1,10 @@
+{
+    "id": 229828,
+    "name": "github",
+    "version": "1.26.2",
+    "created_at": "2019-04-16T13:23:01",
+    "updated_at": "2019-04-16T13:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:github:1.26.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

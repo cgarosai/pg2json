@@ -1,0 +1,10 @@
+{
+    "id": 836878,
+    "name": "ultimaker_s3_firmware",
+    "version": "6.3",
+    "created_at": "2022-01-13T19:34:09",
+    "updated_at": "2022-01-20T18:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ultimaker:ultimaker_s3_firmware:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 899695,
+    "name": "basic_pdu_firmware",
+    "version": "3.30.30",
+    "created_at": "2022-06-16T13:47:29",
+    "updated_at": "2022-07-27T14:21:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:powertekpdus:basic_pdu_firmware:3.30.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

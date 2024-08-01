@@ -1,0 +1,10 @@
+{
+    "id": 475985,
+    "name": "mrg_management_console",
+    "version": "r5310",
+    "created_at": "2020-01-10T17:18:12",
+    "updated_at": "2020-01-10T17:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:mrg_management_console:r5310:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

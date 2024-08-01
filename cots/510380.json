@@ -1,0 +1,10 @@
+{
+    "id": 510380,
+    "name": "xeon_e3-1268l_v5_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:57",
+    "updated_at": "2020-03-23T17:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1268l_v5_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

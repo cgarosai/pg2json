@@ -1,0 +1,10 @@
+{
+    "id": 952882,
+    "name": "kardia",
+    "version": "-",
+    "created_at": "2022-10-27T11:51:05",
+    "updated_at": "2022-10-28T11:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alivecor:kardia:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

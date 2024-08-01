@@ -1,0 +1,10 @@
+{
+    "id": 263215,
+    "name": "webform_matrix_component",
+    "version": "7.x-4.28",
+    "created_at": "2019-06-18T15:51:06",
+    "updated_at": "2019-06-18T15:51:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webform_matrix_component_project:webform_matrix_component:7.x-4.28:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

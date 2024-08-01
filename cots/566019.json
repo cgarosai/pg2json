@@ -1,0 +1,10 @@
+{
+    "id": 566019,
+    "name": "storwize_v3500_firmware",
+    "version": "8.2.1.5",
+    "created_at": "2020-06-26T10:28:18",
+    "updated_at": "2021-04-19T14:07:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:storwize_v3500_firmware:8.2.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

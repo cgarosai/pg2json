@@ -1,0 +1,10 @@
+{
+    "id": 375659,
+    "name": "brbackup",
+    "version": "0.1.1",
+    "created_at": "2019-09-18T13:28:51",
+    "updated_at": "2019-09-18T13:28:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:brbackup_project:brbackup:0.1.1:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

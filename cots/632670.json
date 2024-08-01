@@ -1,0 +1,10 @@
+{
+    "id": 632670,
+    "name": "opendkim",
+    "version": "2.3.2",
+    "created_at": "2020-12-30T15:48:59",
+    "updated_at": "2020-12-30T15:48:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opendkim:opendkim:2.3.2:beta2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1202932,
+    "name": "simple_urls",
+    "version": "117",
+    "created_at": "2023-12-05T16:30:39",
+    "updated_at": "2023-12-05T16:30:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getlasso:simple_urls:117:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

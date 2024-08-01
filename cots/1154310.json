@@ -1,0 +1,10 @@
+{
+    "id": 1154310,
+    "name": "tungstenite",
+    "version": "-",
+    "created_at": "2023-09-22T19:05:32",
+    "updated_at": "2023-09-22T19:05:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snapview:tungstenite:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

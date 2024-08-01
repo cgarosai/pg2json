@@ -1,0 +1,10 @@
+{
+    "id": 1087123,
+    "name": "sling_commons_json",
+    "version": "2.0.18",
+    "created_at": "2023-05-23T11:28:46",
+    "updated_at": "2023-05-25T12:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:sling_commons_json:2.0.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

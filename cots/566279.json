@@ -1,0 +1,10 @@
+{
+    "id": 566279,
+    "name": "ssd_dc_p4610_firmware",
+    "version": "vdv10170",
+    "created_at": "2020-06-26T13:22:56",
+    "updated_at": "2020-06-26T13:22:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_dc_p4610_firmware:vdv10170:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

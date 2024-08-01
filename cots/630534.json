@@ -1,0 +1,10 @@
+{
+    "id": 630534,
+    "name": "scada",
+    "version": "4.3.1.870",
+    "created_at": "2020-12-22T14:46:48",
+    "updated_at": "2020-12-22T14:46:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laquisscada:scada:4.3.1.870:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

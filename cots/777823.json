@@ -1,0 +1,10 @@
+{
+    "id": 777823,
+    "name": "covid-19_contact_tracing",
+    "version": "2021-09-01",
+    "created_at": "2021-09-13T12:54:01",
+    "updated_at": "2021-09-23T17:25:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:th-wildau:covid-19_contact_tracing:2021-09-01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 359400,
+    "name": "rest-client",
+    "version": "0.8",
+    "created_at": "2019-09-05T14:45:41",
+    "updated_at": "2019-09-05T14:45:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rest-client_project:rest-client:0.8:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

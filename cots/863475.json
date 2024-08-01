@@ -1,0 +1,10 @@
+{
+    "id": 863475,
+    "name": "employee_performance_evaluation",
+    "version": "1.0",
+    "created_at": "2022-04-12T12:09:31",
+    "updated_at": "2022-07-20T16:31:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:employee_performance_evaluation_project:employee_performance_evaluation:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

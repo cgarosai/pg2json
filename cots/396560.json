@@ -1,0 +1,10 @@
+{
+    "id": 396560,
+    "name": "aerospike",
+    "version": "1.0.51",
+    "created_at": "2019-09-27T16:37:14",
+    "updated_at": "2019-09-27T16:37:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aerospike:aerospike:1.0.51:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

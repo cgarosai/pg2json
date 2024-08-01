@@ -1,0 +1,10 @@
+{
+    "id": 651816,
+    "name": "profinet_io_device_firmware",
+    "version": "3.14.0.3",
+    "created_at": "2021-02-17T13:47:12",
+    "updated_at": "2021-07-08T14:12:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hilscher:profinet_io_device_firmware:3.14.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

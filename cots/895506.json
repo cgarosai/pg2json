@@ -1,0 +1,10 @@
+{
+    "id": 895506,
+    "name": "caddy",
+    "version": "2.5.0",
+    "created_at": "2022-06-09T13:36:49",
+    "updated_at": "2022-06-09T16:52:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:caddyserver:caddy:2.5.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

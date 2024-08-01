@@ -1,0 +1,10 @@
+{
+    "id": 91978,
+    "name": "rsa_identity_management_and_governance",
+    "version": "6.5.0",
+    "created_at": "2014-08-28T14:02:33",
+    "updated_at": "2014-08-28T14:05:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_identity_management_and_governance:6.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

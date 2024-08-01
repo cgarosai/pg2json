@@ -1,0 +1,10 @@
+{
+    "id": 617421,
+    "name": "maltego",
+    "version": "4.1.12",
+    "created_at": "2020-11-03T19:29:28",
+    "updated_at": "2020-11-03T19:29:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:maltego:maltego:4.1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

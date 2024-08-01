@@ -1,0 +1,10 @@
+{
+    "id": 418129,
+    "name": "zulip",
+    "version": "1.1.0",
+    "created_at": "2019-10-24T09:58:53",
+    "updated_at": "2019-10-24T09:58:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:zulip:1.1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

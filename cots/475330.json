@@ -1,0 +1,10 @@
+{
+    "id": 475330,
+    "name": "cifs_server",
+    "version": "b.04.05.11.00",
+    "created_at": "2020-01-08T16:28:04",
+    "updated_at": "2020-01-08T16:28:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:cifs_server:b.04.05.11.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

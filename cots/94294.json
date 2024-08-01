@@ -1,0 +1,10 @@
+{
+    "id": 94294,
+    "name": "open_atrium",
+    "version": "7.x-2.21",
+    "created_at": "2014-11-13T13:19:27",
+    "updated_at": "2014-11-13T21:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open_atrium_project:open_atrium:7.x-2.21:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

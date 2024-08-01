@@ -1,0 +1,10 @@
+{
+    "id": 511377,
+    "name": "pentium_b980",
+    "version": "-",
+    "created_at": "2020-03-26T12:31:29",
+    "updated_at": "2020-03-26T12:31:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:pentium_b980:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

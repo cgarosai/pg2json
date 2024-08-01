@@ -1,0 +1,10 @@
+{
+    "id": 961380,
+    "name": "vdi_windows_meeting_clients",
+    "version": "-",
+    "created_at": "2022-11-16T11:01:46",
+    "updated_at": "2022-11-17T16:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:vdi_windows_meeting_clients:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

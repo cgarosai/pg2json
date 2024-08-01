@@ -1,0 +1,10 @@
+{
+    "id": 381670,
+    "name": "apk-parser",
+    "version": "0.0.7",
+    "created_at": "2019-09-25T16:24:32",
+    "updated_at": "2019-09-25T16:24:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apk-parser_project:apk-parser:0.0.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

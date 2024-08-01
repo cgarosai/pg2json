@@ -1,0 +1,10 @@
+{
+    "id": 189548,
+    "name": "cloudforms",
+    "version": "4.5",
+    "created_at": "2018-11-01T16:50:17",
+    "updated_at": "2018-11-01T16:50:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:cloudforms:4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 371270,
+    "name": "build_environment",
+    "version": "1.0",
+    "created_at": "2019-09-20T16:05:54",
+    "updated_at": "2019-09-20T16:05:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:build_environment:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

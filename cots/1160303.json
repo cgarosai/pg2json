@@ -1,0 +1,10 @@
+{
+    "id": 1160303,
+    "name": "cilium",
+    "version": "1.11.20",
+    "created_at": "2023-09-29T11:49:09",
+    "updated_at": "2023-09-29T11:49:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cilium:cilium:1.11.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

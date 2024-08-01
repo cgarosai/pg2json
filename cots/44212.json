@@ -1,0 +1,10 @@
+{
+    "id": 44212,
+    "name": "scalar_i500_firmware",
+    "version": "i3",
+    "created_at": "2012-03-22T16:01:03",
+    "updated_at": "2012-03-22T18:02:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quantum:scalar_i500_firmware:i3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

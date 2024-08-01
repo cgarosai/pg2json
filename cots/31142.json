@@ -1,0 +1,10 @@
+{
+    "id": 31142,
+    "name": "application_gateway_for_avaya",
+    "version": "-",
+    "created_at": "2010-12-29T16:10:18",
+    "updated_at": "2010-12-29T16:10:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:citrix:application_gateway_for_avaya:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

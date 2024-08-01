@@ -1,0 +1,10 @@
+{
+    "id": 776179,
+    "name": "tip200_firmware",
+    "version": "60.0.75.29",
+    "created_at": "2021-09-08T23:26:20",
+    "updated_at": "2021-10-07T18:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intelbras:tip200_firmware:60.0.75.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

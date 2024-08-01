@@ -1,0 +1,10 @@
+{
+    "id": 110134,
+    "name": "fontconfig",
+    "version": "2.12",
+    "created_at": "2016-08-15T16:13:39",
+    "updated_at": "2022-01-31T16:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fontconfig_project:fontconfig:2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

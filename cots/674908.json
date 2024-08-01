@@ -1,0 +1,10 @@
+{
+    "id": 674908,
+    "name": "instant",
+    "version": "8.7.1.0",
+    "created_at": "2021-03-30T11:16:23",
+    "updated_at": "2021-05-19T15:02:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:instant:8.7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

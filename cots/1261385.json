@@ -1,0 +1,10 @@
+{
+    "id": 1261385,
+    "name": "enterprise_validation_authority",
+    "version": "3.3",
+    "created_at": "2024-04-29T09:53:11",
+    "updated_at": "2024-04-29T09:53:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:valicert:enterprise_validation_authority:3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

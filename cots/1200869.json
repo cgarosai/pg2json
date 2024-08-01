@@ -1,0 +1,10 @@
+{
+    "id": 1200869,
+    "name": "quickassist_technology_driver_firmware",
+    "version": "1.10",
+    "created_at": "2023-12-01T21:41:12",
+    "updated_at": "2023-12-01T21:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:quickassist_technology_driver_firmware:1.10:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

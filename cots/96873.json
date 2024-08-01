@@ -1,0 +1,10 @@
+{
+    "id": 96873,
+    "name": "sharepoint_server_client_components_sdk",
+    "version": "2013",
+    "created_at": "2014-05-14T14:46:10",
+    "updated_at": "2014-05-14T22:11:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_server_client_components_sdk:2013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

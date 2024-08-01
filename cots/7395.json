@@ -1,0 +1,10 @@
+{
+    "id": 7395,
+    "name": "symav_filter_domino_nt",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:56:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:symav_filter_domino_nt:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

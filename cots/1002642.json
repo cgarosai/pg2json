@@ -1,0 +1,10 @@
+{
+    "id": 1002642,
+    "name": "fortiweb",
+    "version": "7.0.0",
+    "created_at": "2023-01-09T11:10:13",
+    "updated_at": "2023-01-09T19:18:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiweb:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

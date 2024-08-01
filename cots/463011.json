@@ -1,0 +1,10 @@
+{
+    "id": 463011,
+    "name": "connect_box_eurodocsis",
+    "version": "3.0",
+    "created_at": "2020-01-06T18:25:38",
+    "updated_at": "2021-08-16T13:23:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:upc:connect_box_eurodocsis:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 340716,
+    "name": "bloodhound",
+    "version": "1.5",
+    "created_at": "2019-08-28T16:00:44",
+    "updated_at": "2019-08-28T16:00:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bloodhound_project:bloodhound:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

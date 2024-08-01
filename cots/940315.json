@@ -1,0 +1,10 @@
+{
+    "id": 940315,
+    "name": "solarwinds_platform",
+    "version": "2022.2.0",
+    "created_at": "2022-09-30T15:54:41",
+    "updated_at": "2022-11-14T14:13:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:solarwinds_platform:2022.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

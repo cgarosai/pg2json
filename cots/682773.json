@@ -1,0 +1,10 @@
+{
+    "id": 682773,
+    "name": "owncloud_client",
+    "version": "11.4.3",
+    "created_at": "2021-04-09T16:27:22",
+    "updated_at": "2021-04-30T14:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owncloud:owncloud_client:11.4.3:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

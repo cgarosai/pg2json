@@ -1,0 +1,10 @@
+{
+    "id": 1111218,
+    "name": "outlook",
+    "version": "2013",
+    "created_at": "2023-07-14T12:26:12",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:outlook:2013:-:-:*:-:-:*:*",
+    "to_analyse": false
+}

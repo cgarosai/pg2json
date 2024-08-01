@@ -1,0 +1,10 @@
+{
+    "id": 778666,
+    "name": "micros_workstation_5a_firmware",
+    "version": "5a",
+    "created_at": "2021-09-14T23:15:51",
+    "updated_at": "2021-09-23T17:36:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:micros_workstation_5a_firmware:5a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

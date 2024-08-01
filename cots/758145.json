@@ -1,0 +1,10 @@
+{
+    "id": 758145,
+    "name": "hmi-3_control_panel",
+    "version": "-",
+    "created_at": "2021-08-04T13:04:11",
+    "updated_at": "2023-02-07T18:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:swisslog-healthcare:hmi-3_control_panel:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

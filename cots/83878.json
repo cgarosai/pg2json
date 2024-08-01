@@ -1,0 +1,10 @@
+{
+    "id": 83878,
+    "name": "modbus_serial_driver",
+    "version": "3.2",
+    "created_at": "2014-04-01T11:19:02",
+    "updated_at": "2014-04-30T22:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:modbus_serial_driver:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

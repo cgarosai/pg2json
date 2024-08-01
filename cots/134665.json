@@ -1,0 +1,10 @@
+{
+    "id": 134665,
+    "name": "ldaptive",
+    "version": "1.1.0",
+    "created_at": "2018-01-31T01:48:09",
+    "updated_at": "2021-03-30T15:29:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vt:ldaptive:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

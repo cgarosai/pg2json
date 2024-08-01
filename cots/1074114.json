@@ -1,0 +1,10 @@
+{
+    "id": 1074114,
+    "name": "oneapi_hpc_toolkit",
+    "version": "-",
+    "created_at": "2023-05-18T07:56:11",
+    "updated_at": "2023-05-22T11:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:oneapi_hpc_toolkit:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

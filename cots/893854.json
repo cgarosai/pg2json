@@ -1,0 +1,10 @@
+{
+    "id": 893854,
+    "name": "l26cpu-bt-cm_firmware",
+    "version": "-",
+    "created_at": "2022-06-30T13:07:33",
+    "updated_at": "2022-07-18T12:10:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:l26cpu-bt-cm_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

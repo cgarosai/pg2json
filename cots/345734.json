@@ -1,0 +1,10 @@
+{
+    "id": 345734,
+    "name": "loglogic_enterprise_virtual_appliance",
+    "version": "6.2.1",
+    "created_at": "2019-08-21T12:05:22",
+    "updated_at": "2021-04-23T13:21:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:loglogic_enterprise_virtual_appliance:6.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

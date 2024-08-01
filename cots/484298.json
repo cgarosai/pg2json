@@ -1,0 +1,10 @@
+{
+    "id": 484298,
+    "name": "cloud_automation_manager",
+    "version": "3.1.0.0",
+    "created_at": "2020-02-10T14:50:34",
+    "updated_at": "2020-02-10T14:50:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cloud_automation_manager:3.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

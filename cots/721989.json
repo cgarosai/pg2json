@@ -1,0 +1,10 @@
+{
+    "id": 721989,
+    "name": "mso_1300_firmware",
+    "version": "-",
+    "created_at": "2021-06-23T15:27:03",
+    "updated_at": "2021-06-23T15:28:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:idemia:mso_1300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

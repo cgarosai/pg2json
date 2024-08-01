@@ -1,0 +1,10 @@
+{
+    "id": 42138,
+    "name": "infosphere_guardium",
+    "version": "8.01",
+    "created_at": "2012-02-13T14:24:37",
+    "updated_at": "2012-02-13T14:24:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_guardium:8.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

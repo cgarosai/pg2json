@@ -1,0 +1,10 @@
+{
+    "id": 1163151,
+    "name": "home",
+    "version": "-",
+    "created_at": "2023-10-04T21:08:07",
+    "updated_at": "2023-10-04T21:08:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:govee:home:-:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

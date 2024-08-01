@@ -1,0 +1,10 @@
+{
+    "id": 936261,
+    "name": "zulip",
+    "version": "26.1.124",
+    "created_at": "2022-09-01T11:31:02",
+    "updated_at": "2022-09-01T17:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zulip:zulip:26.1.124:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

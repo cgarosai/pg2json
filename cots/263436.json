@@ -1,0 +1,10 @@
+{
+    "id": 263436,
+    "name": "airport_base_station_firmware",
+    "version": "7.7.7",
+    "created_at": "2019-06-18T16:20:38",
+    "updated_at": "2019-06-18T16:20:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:airport_base_station_firmware:7.7.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

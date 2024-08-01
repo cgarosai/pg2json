@@ -1,0 +1,10 @@
+{
+    "id": 244165,
+    "name": "libzypp",
+    "version": "9.12.11",
+    "created_at": "2019-06-05T15:57:26",
+    "updated_at": "2019-06-05T15:57:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:libzypp:9.12.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 81010,
+    "name": "vzkernel",
+    "version": "-",
+    "created_at": "2014-01-28T14:55:16",
+    "updated_at": "2014-02-07T17:55:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:openvz:vzkernel:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

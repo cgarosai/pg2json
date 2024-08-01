@@ -1,0 +1,10 @@
+{
+    "id": 537500,
+    "name": "document_server",
+    "version": "5.0.6",
+    "created_at": "2020-04-17T16:16:17",
+    "updated_at": "2020-04-17T16:16:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:onlyoffice:document_server:5.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

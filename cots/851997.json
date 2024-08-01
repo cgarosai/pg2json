@@ -1,0 +1,10 @@
+{
+    "id": 851997,
+    "name": "stripe_cli",
+    "version": "0.2.7",
+    "created_at": "2022-03-11T17:23:49",
+    "updated_at": "2022-03-14T11:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stripe:stripe_cli:0.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 857341,
+    "name": "jira_service_management",
+    "version": "4.20.6",
+    "created_at": "2022-03-04T13:47:37",
+    "updated_at": "2022-03-04T13:52:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_service_management:4.20.6:*:*:*:data_center:*:*:*",
+    "to_analyse": false
+}

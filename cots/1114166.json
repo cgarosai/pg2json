@@ -1,0 +1,10 @@
+{
+    "id": 1114166,
+    "name": "test_results_aggregator",
+    "version": "1.2.11",
+    "created_at": "2023-07-19T14:28:00",
+    "updated_at": "2023-07-19T15:26:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:test_results_aggregator:1.2.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

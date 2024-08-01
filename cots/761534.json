@@ -1,0 +1,10 @@
+{
+    "id": 761534,
+    "name": "joplin",
+    "version": "10.0.25",
+    "created_at": "2021-08-26T15:31:31",
+    "updated_at": "2021-08-26T15:40:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joplin_project:joplin:10.0.25:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

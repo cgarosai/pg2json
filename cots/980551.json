@@ -1,0 +1,10 @@
+{
+    "id": 980551,
+    "name": "db2",
+    "version": "3.5",
+    "created_at": "2022-12-12T16:14:19",
+    "updated_at": "2022-12-19T16:42:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2:3.5:refresh_10:*:*:*:*:*:*",
+    "to_analyse": false
+}

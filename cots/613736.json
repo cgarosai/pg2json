@@ -1,0 +1,10 @@
+{
+    "id": 613736,
+    "name": "magicspam",
+    "version": "2.1-7",
+    "created_at": "2020-11-19T13:44:07",
+    "updated_at": "2020-11-19T13:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxmagic:magicspam:2.1-7:*:*:*:*:plesk:*:*",
+    "to_analyse": false
+}

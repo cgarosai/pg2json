@@ -1,0 +1,10 @@
+{
+    "id": 530333,
+    "name": "xeon_e5607",
+    "version": "-",
+    "created_at": "2020-04-28T09:38:23",
+    "updated_at": "2020-04-28T09:38:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5607:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

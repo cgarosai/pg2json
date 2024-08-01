@@ -1,0 +1,10 @@
+{
+    "id": 520506,
+    "name": "huawei_pay",
+    "version": "-",
+    "created_at": "2020-04-06T17:04:43",
+    "updated_at": "2020-04-06T17:04:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:huawei_pay:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

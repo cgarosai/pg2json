@@ -1,0 +1,10 @@
+{
+    "id": 1024493,
+    "name": "globalid",
+    "version": "0.3.7",
+    "created_at": "2023-02-15T17:11:37",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:globalid:0.3.7:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

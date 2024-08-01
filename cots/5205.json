@@ -1,0 +1,10 @@
+{
+    "id": 5205,
+    "name": "mac_os_runtime_for_java",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:36:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:mac_os_runtime_for_java:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

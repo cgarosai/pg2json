@@ -1,0 +1,10 @@
+{
+    "id": 1218266,
+    "name": "private_cloud_platform",
+    "version": "10.24.0.0",
+    "created_at": "2023-12-13T15:03:59",
+    "updated_at": "2023-12-13T15:03:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qualys:private_cloud_platform:10.24.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

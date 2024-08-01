@@ -1,0 +1,10 @@
+{
+    "id": 526985,
+    "name": "exchange_server",
+    "version": "5.5",
+    "created_at": "2020-04-01T14:34:09",
+    "updated_at": "2020-04-01T14:34:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:exchange_server:5.5:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

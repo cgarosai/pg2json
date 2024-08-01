@@ -1,0 +1,10 @@
+{
+    "id": 936663,
+    "name": "enterprise_linux_fast_datapath",
+    "version": "9.0",
+    "created_at": "2022-09-02T14:24:52",
+    "updated_at": "2022-09-06T12:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:enterprise_linux_fast_datapath:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

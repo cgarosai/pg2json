@@ -1,0 +1,10 @@
+{
+    "id": 656911,
+    "name": "favorites",
+    "version": "-",
+    "created_at": "2021-02-04T15:43:06",
+    "updated_at": "2021-02-04T15:43:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagios:favorites:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

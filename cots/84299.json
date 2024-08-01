@@ -1,0 +1,10 @@
+{
+    "id": 84299,
+    "name": "wp-print",
+    "version": "2.51",
+    "created_at": "2014-04-11T11:28:26",
+    "updated_at": "2014-04-15T17:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-plugins:wp-print:2.51:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

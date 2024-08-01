@@ -1,0 +1,10 @@
+{
+    "id": 700240,
+    "name": "elastic_app_search",
+    "version": "1.0.0",
+    "created_at": "2021-05-20T08:08:44",
+    "updated_at": "2021-05-24T17:55:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:elastic_app_search:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

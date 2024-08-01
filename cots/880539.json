@@ -1,0 +1,10 @@
+{
+    "id": 880539,
+    "name": "simple_blog",
+    "version": "-",
+    "created_at": "2022-06-03T10:03:26",
+    "updated_at": "2022-07-20T16:26:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_blog_project:simple_blog:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

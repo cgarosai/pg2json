@@ -1,0 +1,10 @@
+{
+    "id": 1178162,
+    "name": "geo_my_wordpress",
+    "version": "4.0",
+    "created_at": "2023-10-13T15:42:14",
+    "updated_at": "2023-10-13T15:42:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geomywp:geo_my_wordpress:4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

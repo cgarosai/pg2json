@@ -1,0 +1,10 @@
+{
+    "id": 575336,
+    "name": "subscriptions",
+    "version": "-",
+    "created_at": "2020-07-24T18:48:49",
+    "updated_at": "2020-07-24T18:48:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:subscriptions:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

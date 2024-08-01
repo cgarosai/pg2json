@@ -1,0 +1,10 @@
+{
+    "id": 210742,
+    "name": "d2050-ve_firmware",
+    "version": "7.35.4.2",
+    "created_at": "2019-03-20T16:44:21",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:d2050-ve_firmware:7.35.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

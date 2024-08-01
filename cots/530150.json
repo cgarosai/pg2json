@@ -1,0 +1,10 @@
+{
+    "id": 530150,
+    "name": "xeon_platinum_8176_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:08:12",
+    "updated_at": "2020-04-27T18:08:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_platinum_8176_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 76131,
+    "name": "cx600",
+    "version": "v600r003",
+    "created_at": "2013-02-21T18:37:41",
+    "updated_at": "2013-07-12T15:34:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:cx600:v600r003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

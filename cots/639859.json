@@ -1,0 +1,10 @@
+{
+    "id": 639859,
+    "name": "qsm8250_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:52:24",
+    "updated_at": "2020-12-21T12:52:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:qsm8250_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 549410,
+    "name": "group_folders",
+    "version": "5.0.6",
+    "created_at": "2020-05-12T15:14:56",
+    "updated_at": "2020-05-12T15:14:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:group_folders:5.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

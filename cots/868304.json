@@ -1,0 +1,10 @@
+{
+    "id": 868304,
+    "name": "node-config-shield",
+    "version": "0.2.3",
+    "created_at": "2022-03-28T19:23:34",
+    "updated_at": "2022-09-03T01:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:godaddy:node-config-shield:0.2.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

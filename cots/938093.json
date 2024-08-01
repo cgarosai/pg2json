@@ -1,0 +1,10 @@
+{
+    "id": 938093,
+    "name": "log_collector",
+    "version": "4.4.7-2.el8ev",
+    "created_at": "2022-09-07T15:04:50",
+    "updated_at": "2022-11-09T15:47:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovirt:log_collector:4.4.7-2.el8ev:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

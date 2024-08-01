@@ -1,0 +1,10 @@
+{
+    "id": 171620,
+    "name": "508_minimed_insulin_pump_firmware",
+    "version": "-",
+    "created_at": "2018-10-15T15:29:34",
+    "updated_at": "2021-06-24T11:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:medtronicdiabetes:508_minimed_insulin_pump_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 513784,
+    "name": "srg3300_firmware",
+    "version": "v200r010c00",
+    "created_at": "2020-03-31T12:00:35",
+    "updated_at": "2020-03-31T12:00:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:srg3300_firmware:v200r010c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

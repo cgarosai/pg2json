@@ -1,0 +1,10 @@
+{
+    "id": 328119,
+    "name": "graphql_engine",
+    "version": "1.0.0",
+    "created_at": "2019-08-01T10:15:37",
+    "updated_at": "2019-08-01T10:15:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hasura:graphql_engine:1.0.0:alpha21:*:*:*:*:*:*",
+    "to_analyse": false
+}

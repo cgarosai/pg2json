@@ -1,0 +1,10 @@
+{
+    "id": 550661,
+    "name": "subversion_application_lifecycle_management",
+    "version": "8.8.2",
+    "created_at": "2020-06-15T15:18:54",
+    "updated_at": "2020-06-15T15:18:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:subversion_application_lifecycle_management:8.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 480415,
+    "name": "gac2500_firmware",
+    "version": "1.0.3.13",
+    "created_at": "2020-02-04T16:25:42",
+    "updated_at": "2020-02-04T16:25:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:grandstream:gac2500_firmware:1.0.3.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

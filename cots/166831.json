@@ -1,0 +1,10 @@
+{
+    "id": 166831,
+    "name": "telematics_control_unit_firmware",
+    "version": "-",
+    "created_at": "2018-06-28T16:25:12",
+    "updated_at": "2021-06-16T12:00:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bmw:telematics_control_unit_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

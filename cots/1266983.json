@@ -1,0 +1,10 @@
+{
+    "id": 1266983,
+    "name": "libssh",
+    "version": "0.10.5",
+    "created_at": "2024-03-06T15:50:13",
+    "updated_at": "2024-03-06T15:50:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libssh:libssh:0.10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

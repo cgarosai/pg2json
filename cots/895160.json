@@ -1,0 +1,10 @@
+{
+    "id": 895160,
+    "name": "libinput",
+    "version": "1.19.3",
+    "created_at": "2022-06-08T09:14:26",
+    "updated_at": "2022-06-09T10:58:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:libinput:1.19.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

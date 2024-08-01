@@ -1,0 +1,10 @@
+{
+    "id": 147362,
+    "name": "cloud_optimizer",
+    "version": "3.03",
+    "created_at": "2018-03-07T18:30:08",
+    "updated_at": "2021-04-13T11:12:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:cloud_optimizer:3.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

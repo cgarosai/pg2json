@@ -1,0 +1,10 @@
+{
+    "id": 591122,
+    "name": "jboss_data_grid",
+    "version": "-",
+    "created_at": "2020-09-17T11:24:41",
+    "updated_at": "2021-08-17T12:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_data_grid:-:*:*:*:text-only:*:*:*",
+    "to_analyse": false
+}

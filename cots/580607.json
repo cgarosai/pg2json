@@ -1,0 +1,10 @@
+{
+    "id": 580607,
+    "name": "automation_license_manager",
+    "version": "5.0.0",
+    "created_at": "2020-08-24T12:55:43",
+    "updated_at": "2020-08-24T12:55:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:automation_license_manager:5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

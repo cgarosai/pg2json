@@ -1,0 +1,10 @@
+{
+    "id": 565645,
+    "name": "jsrsasign",
+    "version": "7.1.4",
+    "created_at": "2020-06-25T16:42:52",
+    "updated_at": "2020-06-25T16:42:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jsrsasign_project:jsrsasign:7.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

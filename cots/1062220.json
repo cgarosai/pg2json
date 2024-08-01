@@ -1,0 +1,10 @@
+{
+    "id": 1062220,
+    "name": "nod32",
+    "version": "-",
+    "created_at": "2023-04-20T15:51:56",
+    "updated_at": "2023-04-25T10:12:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eset:nod32:-:11008:*:*:*:*:*:*",
+    "to_analyse": false
+}

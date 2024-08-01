@@ -1,0 +1,10 @@
+{
+    "id": 1087905,
+    "name": "mlflow",
+    "version": "2.3.0",
+    "created_at": "2023-05-23T14:23:47",
+    "updated_at": "2023-05-23T14:24:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lfprojects:mlflow:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

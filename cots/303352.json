@@ -1,0 +1,10 @@
+{
+    "id": 303352,
+    "name": "zimbra_collaboration_suite",
+    "version": "7.2.7",
+    "created_at": "2019-07-25T09:29:15",
+    "updated_at": "2020-06-04T10:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zimbra:zimbra_collaboration_suite:7.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

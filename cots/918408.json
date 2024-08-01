@@ -1,0 +1,10 @@
+{
+    "id": 918408,
+    "name": "hashicorp_vault",
+    "version": "354.vdb_858fd6b_f48",
+    "created_at": "2022-08-01T16:38:34",
+    "updated_at": "2022-08-02T12:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:hashicorp_vault:354.vdb_858fd6b_f48:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

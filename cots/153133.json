@@ -1,0 +1,10 @@
+{
+    "id": 153133,
+    "name": "media_server",
+    "version": "1.7.7-2855",
+    "created_at": "2018-06-12T12:56:17",
+    "updated_at": "2018-06-12T12:56:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:media_server:1.7.7-2855:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

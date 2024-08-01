@@ -1,0 +1,10 @@
+{
+    "id": 572958,
+    "name": "autopass_license_server",
+    "version": "10.5.0",
+    "created_at": "2020-08-11T12:02:09",
+    "updated_at": "2020-08-11T12:02:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:autopass_license_server:10.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

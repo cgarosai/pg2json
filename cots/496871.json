@@ -1,0 +1,10 @@
+{
+    "id": 496871,
+    "name": "proficy",
+    "version": "8.0",
+    "created_at": "2020-02-13T15:38:41",
+    "updated_at": "2020-02-13T15:38:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geautomation:proficy:8.0:*:*:*:machine:*:*:*",
+    "to_analyse": false
+}

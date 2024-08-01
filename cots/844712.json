@@ -1,0 +1,10 @@
+{
+    "id": 844712,
+    "name": "m12-2_firmware",
+    "version": "xcp3110",
+    "created_at": "2022-02-23T14:42:04",
+    "updated_at": "2022-03-04T18:14:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:m12-2_firmware:xcp3110:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

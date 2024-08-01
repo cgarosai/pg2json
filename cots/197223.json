@@ -1,0 +1,10 @@
+{
+    "id": 197223,
+    "name": "api_connect",
+    "version": "2018.1.0",
+    "created_at": "2018-12-12T12:55:25",
+    "updated_at": "2018-12-12T12:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:api_connect:2018.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

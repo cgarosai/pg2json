@@ -1,0 +1,10 @@
+{
+    "id": 305027,
+    "name": "wp_user_groups",
+    "version": "2.0.0",
+    "created_at": "2019-07-18T15:02:11",
+    "updated_at": "2019-07-18T15:02:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_user_groups_project:wp_user_groups:2.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

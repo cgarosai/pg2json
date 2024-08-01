@@ -1,0 +1,10 @@
+{
+    "id": 778547,
+    "name": "mir500_firmware",
+    "version": "-",
+    "created_at": "2021-09-14T15:19:30",
+    "updated_at": "2022-04-19T15:50:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mobile-industrial-robots:mir500_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

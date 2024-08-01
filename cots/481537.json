@@ -1,0 +1,10 @@
+{
+    "id": 481537,
+    "name": "prtg",
+    "version": "19.2.50",
+    "created_at": "2020-02-05T15:17:06",
+    "updated_at": "2021-06-29T11:49:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paessler:prtg:19.2.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

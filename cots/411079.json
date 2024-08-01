@@ -1,0 +1,10 @@
+{
+    "id": 411079,
+    "name": "gogs",
+    "version": "1.0.8",
+    "created_at": "2019-10-28T15:58:37",
+    "updated_at": "2019-10-28T15:58:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gogs:1.0.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

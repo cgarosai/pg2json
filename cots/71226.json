@@ -1,0 +1,10 @@
+{
+    "id": 71226,
+    "name": "h3c_switch",
+    "version": "s5100-8p-si_ls-5100-8p-si-ovs-h3",
+    "created_at": "2013-07-08T14:55:46",
+    "updated_at": "2013-07-12T15:51:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_switch:s5100-8p-si_ls-5100-8p-si-ovs-h3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

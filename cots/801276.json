@@ -1,0 +1,10 @@
+{
+    "id": 801276,
+    "name": "security_guardium_key_lifecycle_manager",
+    "version": "4.1.1",
+    "created_at": "2021-11-15T18:01:53",
+    "updated_at": "2021-11-16T17:31:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

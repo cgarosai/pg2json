@@ -1,0 +1,10 @@
+{
+    "id": 815994,
+    "name": "edgex_foundry",
+    "version": "2.1.0",
+    "created_at": "2021-11-22T17:53:16",
+    "updated_at": "2021-11-30T19:58:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:edgexfoundry:edgex_foundry:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71793,
+    "name": "ips_nme",
+    "version": "-",
+    "created_at": "2013-07-18T11:21:32",
+    "updated_at": "2013-07-24T12:15:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ips_nme:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

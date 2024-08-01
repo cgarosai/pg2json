@@ -1,0 +1,10 @@
+{
+    "id": 273949,
+    "name": "hns7200ap_firmware",
+    "version": "r01.03.0018",
+    "created_at": "2019-07-01T13:34:56",
+    "updated_at": "2019-07-01T13:34:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:hns7200ap_firmware:r01.03.0018:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

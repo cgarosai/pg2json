@@ -1,0 +1,10 @@
+{
+    "id": 977310,
+    "name": "testng_results",
+    "version": "0.30",
+    "created_at": "2022-11-23T17:17:04",
+    "updated_at": "2022-11-23T17:18:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:testng_results:0.30:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

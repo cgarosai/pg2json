@@ -1,0 +1,10 @@
+{
+    "id": 239202,
+    "name": "rails",
+    "version": "4.2.6",
+    "created_at": "2019-05-07T14:22:40",
+    "updated_at": "2019-05-07T14:22:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:rails:4.2.6:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

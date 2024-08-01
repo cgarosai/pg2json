@@ -1,0 +1,10 @@
+{
+    "id": 109427,
+    "name": "fortianalyzer_firmware",
+    "version": "5.0.10",
+    "created_at": "2015-05-13T15:41:45",
+    "updated_at": "2015-05-18T12:34:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fortianalyzer_firmware:5.0.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

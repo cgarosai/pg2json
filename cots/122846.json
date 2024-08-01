@@ -1,0 +1,10 @@
+{
+    "id": 122846,
+    "name": "addons_module",
+    "version": "2.11.0.7",
+    "created_at": "2017-08-08T23:41:12",
+    "updated_at": "2021-05-13T15:53:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digium:addons_module:2.11.0.7:*:*:*:*:freepbx:*:*",
+    "to_analyse": false
+}

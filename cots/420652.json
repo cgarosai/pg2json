@@ -1,0 +1,10 @@
+{
+    "id": 420652,
+    "name": "splunk",
+    "version": "6.2.11",
+    "created_at": "2019-11-05T15:48:12",
+    "updated_at": "2019-11-05T15:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splunk:splunk:6.2.11:*:*:*:light:*:*:*",
+    "to_analyse": false
+}

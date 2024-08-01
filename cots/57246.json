@@ -1,0 +1,10 @@
+{
+    "id": 57246,
+    "name": "network_advisor",
+    "version": "11.0.0.0",
+    "created_at": "2012-05-08T11:50:20",
+    "updated_at": "2012-05-08T11:50:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:brocade:network_advisor:11.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 56055,
+    "name": "patch_management_dell_agent",
+    "version": "6.2.2623",
+    "created_at": "2012-04-24T21:22:11",
+    "updated_at": "2012-04-24T21:22:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:patch_management_dell_agent:6.2.2623:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

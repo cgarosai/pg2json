@@ -1,0 +1,10 @@
+{
+    "id": 145250,
+    "name": "core_i5",
+    "version": "6440hq",
+    "created_at": "2018-02-07T11:26:06",
+    "updated_at": "2018-02-07T11:26:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:6440hq:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

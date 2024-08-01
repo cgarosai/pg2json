@@ -1,0 +1,10 @@
+{
+    "id": 98889,
+    "name": "pulseaudio",
+    "version": "1.0",
+    "created_at": "2014-06-12T15:06:42",
+    "updated_at": "2014-06-19T23:35:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulseaudio:pulseaudio:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

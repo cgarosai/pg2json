@@ -1,0 +1,10 @@
+{
+    "id": 650660,
+    "name": "ignition",
+    "version": "1.4.11",
+    "created_at": "2021-02-12T14:36:52",
+    "updated_at": "2021-02-12T14:36:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:facade:ignition:1.4.11:*:*:*:*:laravel:*:*",
+    "to_analyse": false
+}

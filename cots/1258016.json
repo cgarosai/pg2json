@@ -1,0 +1,10 @@
+{
+    "id": 1258016,
+    "name": "pgpfire",
+    "version": "7.1",
+    "created_at": "2024-02-09T15:30:11",
+    "updated_at": "2024-02-09T15:30:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:network.associates:pgpfire:7.1:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

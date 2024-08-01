@@ -1,0 +1,10 @@
+{
+    "id": 677059,
+    "name": "kill-process-by-name",
+    "version": "1.0.5",
+    "created_at": "2021-03-15T17:40:13",
+    "updated_at": "2021-04-21T10:54:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kill-process-by-name_project:kill-process-by-name:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

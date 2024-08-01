@@ -1,0 +1,10 @@
+{
+    "id": 1197786,
+    "name": "enterprise_linux_update_services_for_sap_solutions",
+    "version": "8.2",
+    "created_at": "2023-11-09T19:11:14",
+    "updated_at": "2023-11-09T19:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_update_services_for_sap_solutions:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

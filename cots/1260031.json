@@ -1,0 +1,10 @@
+{
+    "id": 1260031,
+    "name": "cloud_director",
+    "version": "10.4.0",
+    "created_at": "2024-04-18T17:37:40",
+    "updated_at": "2024-04-18T17:37:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:cloud_director:10.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

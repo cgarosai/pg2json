@@ -1,0 +1,10 @@
+{
+    "id": 666226,
+    "name": "arr",
+    "version": "0.5.0",
+    "created_at": "2021-02-23T17:54:14",
+    "updated_at": "2021-02-23T17:54:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arr_project:arr:0.5.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

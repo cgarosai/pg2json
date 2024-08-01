@@ -1,0 +1,10 @@
+{
+    "id": 805088,
+    "name": "planning_poker",
+    "version": "1.0.0",
+    "created_at": "2021-11-03T12:26:51",
+    "updated_at": "2021-11-23T22:54:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thunderdome:planning_poker:1.0.0:rc27:*:*:*:*:*:*",
+    "to_analyse": false
+}

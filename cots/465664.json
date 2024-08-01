@@ -1,0 +1,10 @@
+{
+    "id": 465664,
+    "name": "l26cpu-pbt_firmware",
+    "version": "21101",
+    "created_at": "2019-12-13T14:56:01",
+    "updated_at": "2019-12-13T14:56:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:l26cpu-pbt_firmware:21101:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

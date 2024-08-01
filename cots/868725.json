@@ -1,0 +1,10 @@
+{
+    "id": 868725,
+    "name": "tcpreplay",
+    "version": "4.2.6",
+    "created_at": "2022-03-30T13:22:36",
+    "updated_at": "2022-04-02T01:29:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:tcpreplay:4.2.6:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

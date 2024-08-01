@@ -1,0 +1,10 @@
+{
+    "id": 999247,
+    "name": "iplanet_web_server",
+    "version": "6.1",
+    "created_at": "2022-12-21T16:24:52",
+    "updated_at": "2022-12-30T19:36:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:iplanet_web_server:6.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

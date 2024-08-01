@@ -1,0 +1,10 @@
+{
+    "id": 403797,
+    "name": "nuxeo",
+    "version": "6.0",
+    "created_at": "2019-10-17T16:21:07",
+    "updated_at": "2019-10-17T16:21:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nuxeo:nuxeo:6.0:hotfix44:*:*:*:*:*:*",
+    "to_analyse": false
+}

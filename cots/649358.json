@@ -1,0 +1,10 @@
+{
+    "id": 649358,
+    "name": "bot_framework_software_development_kit",
+    "version": "0.7.3",
+    "created_at": "2021-01-14T18:48:26",
+    "updated_at": "2021-01-14T18:48:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:bot_framework_software_development_kit:0.7.3:*:*:*:*:.net_framework:*:*",
+    "to_analyse": false
+}

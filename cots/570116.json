@@ -1,0 +1,10 @@
+{
+    "id": 570116,
+    "name": "pcb_mobile",
+    "version": "3.0.2",
+    "created_at": "2020-08-04T16:13:26",
+    "updated_at": "2020-08-04T16:13:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mypcb:pcb_mobile:3.0.2:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 17448,
+    "name": "docbook_stylesheets",
+    "version": "1.54.13",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:docbook_stylesheets:1.54.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

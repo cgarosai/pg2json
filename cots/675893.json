@@ -1,0 +1,10 @@
+{
+    "id": 675893,
+    "name": "fd8000_firmware",
+    "version": "2.4.05_000",
+    "created_at": "2021-03-11T15:35:33",
+    "updated_at": "2021-03-23T15:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cdatatec:fd8000_firmware:2.4.05_000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

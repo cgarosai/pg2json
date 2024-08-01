@@ -1,0 +1,10 @@
+{
+    "id": 603575,
+    "name": "open-xchange_appsuite",
+    "version": "7.10.2",
+    "created_at": "2020-10-15T15:26:39",
+    "updated_at": "2020-10-15T15:26:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.2:patch_release5397:*:*:*:*:*:*",
+    "to_analyse": false
+}

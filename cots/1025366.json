@@ -1,0 +1,10 @@
+{
+    "id": 1025366,
+    "name": "application_delivery_controller",
+    "version": "12.1-55.278",
+    "created_at": "2023-02-01T13:14:03",
+    "updated_at": "2023-02-01T16:56:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.278:*:*:*:fips:*:*:*",
+    "to_analyse": false
+}

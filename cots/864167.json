@@ -1,0 +1,10 @@
+{
+    "id": 864167,
+    "name": "secure_network_analytics",
+    "version": "2.1.1",
+    "created_at": "2022-04-13T13:44:41",
+    "updated_at": "2022-05-13T14:01:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_network_analytics:2.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

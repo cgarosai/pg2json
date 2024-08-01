@@ -1,0 +1,10 @@
+{
+    "id": 420804,
+    "name": "netware",
+    "version": "86",
+    "created_at": "2019-11-05T15:58:45",
+    "updated_at": "2019-11-05T15:58:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:netware:86:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

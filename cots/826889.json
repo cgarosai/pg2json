@@ -1,0 +1,10 @@
+{
+    "id": 826889,
+    "name": "php_server_monitor",
+    "version": "-",
+    "created_at": "2021-12-15T13:29:53",
+    "updated_at": "2021-12-15T13:39:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpservermonitor:php_server_monitor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

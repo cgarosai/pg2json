@@ -1,0 +1,10 @@
+{
+    "id": 74489,
+    "name": "eustore",
+    "version": "emi_1347115203",
+    "created_at": "2013-09-18T18:01:35",
+    "updated_at": "2013-09-18T18:10:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:eucalyptus:eustore:emi_1347115203:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

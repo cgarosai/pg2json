@@ -1,0 +1,10 @@
+{
+    "id": 127224,
+    "name": "alertwerks_servsensor_junior_eme152a",
+    "version": "-",
+    "created_at": "2017-04-07T17:24:59",
+    "updated_at": "2021-05-04T14:51:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme152a:-:*:*:*:poe:*:*:*",
+    "to_analyse": false
+}

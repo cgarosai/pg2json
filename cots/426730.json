@@ -1,0 +1,10 @@
+{
+    "id": 426730,
+    "name": "cinder",
+    "version": "14.0.0",
+    "created_at": "2019-11-01T16:46:06",
+    "updated_at": "2019-11-01T16:46:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:cinder:14.0.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 601599,
+    "name": "r6220_firmware",
+    "version": "1.1.0.100",
+    "created_at": "2020-10-09T12:07:44",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6220_firmware:1.1.0.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

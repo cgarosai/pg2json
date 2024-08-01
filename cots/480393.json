@@ -1,0 +1,10 @@
+{
+    "id": 480393,
+    "name": "mail",
+    "version": "1.8",
+    "created_at": "2020-02-04T16:18:55",
+    "updated_at": "2020-02-04T16:18:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zetacomponents:mail:1.8:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

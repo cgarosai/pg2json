@@ -1,0 +1,10 @@
+{
+    "id": 1183151,
+    "name": "ampedsense",
+    "version": "4.56",
+    "created_at": "2023-11-01T15:06:12",
+    "updated_at": "2023-11-01T15:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ezoic:ampedsense:4.56:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

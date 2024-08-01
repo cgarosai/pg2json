@@ -1,0 +1,10 @@
+{
+    "id": 501228,
+    "name": "latitude_5400_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T18:58:46",
+    "updated_at": "2020-03-06T18:58:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:latitude_5400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

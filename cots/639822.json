@@ -1,0 +1,10 @@
+{
+    "id": 639822,
+    "name": "sdm1000_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:46:20",
+    "updated_at": "2020-12-21T12:46:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sdm1000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 520906,
+    "name": "code_coverage_api",
+    "version": "1.0.3",
+    "created_at": "2020-04-07T12:53:40",
+    "updated_at": "2020-04-07T12:53:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:code_coverage_api:1.0.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

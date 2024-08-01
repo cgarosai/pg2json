@@ -1,0 +1,10 @@
+{
+    "id": 492232,
+    "name": "mod_auth_openidc",
+    "version": "2.4.1",
+    "created_at": "2020-02-24T18:14:07",
+    "updated_at": "2023-05-25T18:18:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zmartzone:mod_auth_openidc:2.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

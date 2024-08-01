@@ -1,0 +1,10 @@
+{
+    "id": 841073,
+    "name": "realsense_depth_camera_manager",
+    "version": "20210625",
+    "created_at": "2022-02-11T13:12:50",
+    "updated_at": "2022-02-11T19:56:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:realsense_depth_camera_manager:20210625:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

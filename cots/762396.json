@@ -1,0 +1,10 @@
+{
+    "id": 762396,
+    "name": "diez",
+    "version": "10.0.0",
+    "created_at": "2021-08-30T12:35:23",
+    "updated_at": "2021-08-30T12:40:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haikuforteams:diez:10.0.0:beta2:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

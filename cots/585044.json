@@ -1,0 +1,10 @@
+{
+    "id": 585044,
+    "name": "django-celery-results",
+    "version": "1.1.0",
+    "created_at": "2020-08-12T15:08:57",
+    "updated_at": "2020-08-12T15:08:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-celery-results_project:django-celery-results:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

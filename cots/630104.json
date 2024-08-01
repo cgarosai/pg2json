@@ -1,0 +1,10 @@
+{
+    "id": 630104,
+    "name": "compactrio_firmware",
+    "version": "20.5",
+    "created_at": "2020-12-21T16:47:54",
+    "updated_at": "2020-12-21T16:47:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ni:compactrio_firmware:20.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

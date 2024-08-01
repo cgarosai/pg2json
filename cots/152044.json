@@ -1,0 +1,10 @@
+{
+    "id": 152044,
+    "name": "norton_core_firmware",
+    "version": "237",
+    "created_at": "2018-06-05T19:04:37",
+    "updated_at": "2022-04-21T14:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:norton_core_firmware:237:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 783099,
+    "name": "redis",
+    "version": "-",
+    "created_at": "2021-10-12T14:01:00",
+    "updated_at": "2021-10-12T14:10:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redis:redis:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

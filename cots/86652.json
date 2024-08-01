@@ -1,0 +1,10 @@
+{
+    "id": 86652,
+    "name": "nginx",
+    "version": "1.4.2",
+    "created_at": "2013-10-28T16:57:56",
+    "updated_at": "2014-08-29T15:33:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:igor_sysoev:nginx:1.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

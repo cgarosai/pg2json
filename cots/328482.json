@@ -1,0 +1,10 @@
+{
+    "id": 328482,
+    "name": "libnmap",
+    "version": "0.3.7",
+    "created_at": "2019-08-01T11:45:39",
+    "updated_at": "2019-08-01T11:45:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libnmap_project:libnmap:0.3.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 107314,
+    "name": "email",
+    "version": "4.2.2.0200",
+    "created_at": "2015-02-17T16:55:26",
+    "updated_at": "2015-02-18T18:01:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:email:4.2.2.0200:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

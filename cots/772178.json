@@ -1,0 +1,10 @@
+{
+    "id": 772178,
+    "name": "enterprise_search",
+    "version": "7.10.2",
+    "created_at": "2021-09-21T14:28:46",
+    "updated_at": "2021-09-21T14:49:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:enterprise_search:7.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

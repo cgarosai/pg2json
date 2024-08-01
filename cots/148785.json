@@ -1,0 +1,10 @@
+{
+    "id": 148785,
+    "name": "vpn_unlimited",
+    "version": "4.2.0",
+    "created_at": "2018-04-09T16:43:19",
+    "updated_at": "2021-03-29T17:40:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:keepsolid:vpn_unlimited:4.2.0:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

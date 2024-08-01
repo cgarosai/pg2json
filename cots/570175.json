@@ -1,0 +1,10 @@
+{
+    "id": 570175,
+    "name": "horizon_view",
+    "version": "2.1",
+    "created_at": "2020-08-05T11:32:51",
+    "updated_at": "2020-08-05T11:32:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:horizon_view:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

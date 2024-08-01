@@ -1,0 +1,10 @@
+{
+    "id": 111545,
+    "name": "openjpeg",
+    "version": "2.1.1",
+    "created_at": "2016-10-03T15:30:27",
+    "updated_at": "2020-09-09T17:57:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openjpeg:openjpeg:2.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

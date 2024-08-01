@@ -1,0 +1,10 @@
+{
+    "id": 338840,
+    "name": "gitlab_oauth",
+    "version": "1.0.5",
+    "created_at": "2019-08-13T10:16:14",
+    "updated_at": "2019-08-13T10:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gitlab_oauth:1.0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

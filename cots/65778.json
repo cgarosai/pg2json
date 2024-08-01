@@ -1,0 +1,10 @@
+{
+    "id": 65778,
+    "name": "strawberry_perl",
+    "version": "5.10.256",
+    "created_at": "2012-08-01T19:33:15",
+    "updated_at": "2012-08-01T19:33:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vanilla_perl_project:strawberry_perl:5.10.256:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

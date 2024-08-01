@@ -1,0 +1,10 @@
+{
+    "id": 53500,
+    "name": "winrar",
+    "version": "4.1.0",
+    "created_at": "2012-07-10T01:18:15",
+    "updated_at": "2012-07-10T01:18:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rarlab:winrar:4.1.0:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

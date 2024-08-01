@@ -1,0 +1,10 @@
+{
+    "id": 1187757,
+    "name": "client",
+    "version": "23.7.1.151",
+    "created_at": "2023-10-26T10:56:01",
+    "updated_at": "2023-10-26T10:56:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1e:client:23.7.1.151:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

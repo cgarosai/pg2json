@@ -1,0 +1,10 @@
+{
+    "id": 50573,
+    "name": "spa8000_8-port_ip_telephony_gateway_firmware",
+    "version": "5.1.12",
+    "created_at": "2012-06-14T15:35:33",
+    "updated_at": "2012-06-15T13:11:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:spa8000_8-port_ip_telephony_gateway_firmware:5.1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

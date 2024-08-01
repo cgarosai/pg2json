@@ -1,0 +1,10 @@
+{
+    "id": 332746,
+    "name": "one_firmware",
+    "version": "1.8.2",
+    "created_at": "2019-08-16T13:04:57",
+    "updated_at": "2021-06-30T17:13:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:trezor:one_firmware:1.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

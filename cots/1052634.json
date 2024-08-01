@@ -1,0 +1,10 @@
+{
+    "id": 1052634,
+    "name": "redis-py",
+    "version": "2.10.3",
+    "created_at": "2023-03-30T15:02:02",
+    "updated_at": "2023-04-03T10:44:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redis:redis-py:2.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

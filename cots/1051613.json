@@ -1,0 +1,10 @@
+{
+    "id": 1051613,
+    "name": "bl-ac1900_firmware",
+    "version": "1.0.1",
+    "created_at": "2023-03-29T15:28:12",
+    "updated_at": "2023-08-30T09:28:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lb-link:bl-ac1900_firmware:1.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

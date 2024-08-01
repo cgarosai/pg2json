@@ -1,0 +1,10 @@
+{
+    "id": 44341,
+    "name": "libtasn1",
+    "version": "0.2.8",
+    "created_at": "2012-03-27T14:39:22",
+    "updated_at": "2012-04-02T16:03:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:libtasn1:0.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

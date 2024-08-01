@@ -1,0 +1,10 @@
+{
+    "id": 1200051,
+    "name": "ole_db_provider",
+    "version": "-",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:ole_db_provider:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

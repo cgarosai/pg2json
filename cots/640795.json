@@ -1,0 +1,10 @@
+{
+    "id": 640795,
+    "name": "acmailer_db",
+    "version": "1.1.4",
+    "created_at": "2021-01-22T17:27:42",
+    "updated_at": "2021-02-25T16:57:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acmailer:acmailer_db:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

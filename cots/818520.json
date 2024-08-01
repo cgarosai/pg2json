@@ -1,0 +1,10 @@
+{
+    "id": 818520,
+    "name": "mainwp_child",
+    "version": "0.14",
+    "created_at": "2021-11-26T13:29:17",
+    "updated_at": "2021-11-26T13:32:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mainwp:mainwp_child:0.14:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

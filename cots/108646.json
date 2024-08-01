@@ -1,0 +1,10 @@
+{
+    "id": 108646,
+    "name": "bblog",
+    "version": "-",
+    "created_at": "2015-04-08T11:28:46",
+    "updated_at": "2015-04-10T11:44:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bblog_project:bblog:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

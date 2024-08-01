@@ -1,0 +1,10 @@
+{
+    "id": 638932,
+    "name": "gitaly",
+    "version": "13.4.6",
+    "created_at": "2020-12-18T12:56:44",
+    "updated_at": "2020-12-18T12:56:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitlab:gitaly:13.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

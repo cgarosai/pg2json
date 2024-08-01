@@ -1,0 +1,10 @@
+{
+    "id": 550993,
+    "name": "office",
+    "version": "2016",
+    "created_at": "2020-06-16T12:37:11",
+    "updated_at": "2020-06-16T12:37:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

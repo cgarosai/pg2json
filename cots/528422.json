@@ -1,0 +1,10 @@
+{
+    "id": 528422,
+    "name": "pcp",
+    "version": "-",
+    "created_at": "2020-04-02T13:48:37",
+    "updated_at": "2020-04-02T13:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:pcp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

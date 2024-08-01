@@ -1,0 +1,10 @@
+{
+    "id": 326024,
+    "name": "neovim",
+    "version": "0.1.2",
+    "created_at": "2019-07-31T13:22:44",
+    "updated_at": "2019-07-31T13:22:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:neovim:neovim:0.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

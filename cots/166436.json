@@ -1,0 +1,10 @@
+{
+    "id": 166436,
+    "name": "haproxy",
+    "version": "1.5.8",
+    "created_at": "2018-06-28T14:00:30",
+    "updated_at": "2018-06-28T14:00:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haproxy:haproxy:1.5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

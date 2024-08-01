@@ -1,0 +1,10 @@
+{
+    "id": 399703,
+    "name": "serverlyr",
+    "version": "1.0.0",
+    "created_at": "2019-10-01T13:04:19",
+    "updated_at": "2019-10-01T13:04:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serverlyr_project:serverlyr:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

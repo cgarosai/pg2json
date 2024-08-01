@@ -1,0 +1,10 @@
+{
+    "id": 1030631,
+    "name": "borg",
+    "version": "1.1.18",
+    "created_at": "2023-02-28T13:34:51",
+    "updated_at": "2023-02-28T18:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:borg_project:borg:1.1.18:*:*:*:*:backdrop_cms:*:*",
+    "to_analyse": false
+}

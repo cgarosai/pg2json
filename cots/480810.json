@@ -1,0 +1,10 @@
+{
+    "id": 480810,
+    "name": "nectar",
+    "version": "-",
+    "created_at": "2020-02-04T19:28:39",
+    "updated_at": "2020-02-04T19:28:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nectar_project:nectar:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 163545,
+    "name": "opensid",
+    "version": "18.06-pasca",
+    "created_at": "2018-08-20T17:54:33",
+    "updated_at": "2021-08-12T13:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensid:opensid:18.06-pasca:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 112350,
+    "name": "simatic_step_7_\\(tia_portal\\)",
+    "version": "14.0",
+    "created_at": "2016-11-17T01:12:55",
+    "updated_at": "2021-06-15T19:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_step_7_\\(tia_portal\\):14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

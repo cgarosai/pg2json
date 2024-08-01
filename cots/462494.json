@@ -1,0 +1,10 @@
+{
+    "id": 462494,
+    "name": "ips_firmware",
+    "version": "v500r001c20spc100pwe",
+    "created_at": "2020-01-05T14:49:59",
+    "updated_at": "2020-01-05T14:49:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ips_firmware:v500r001c20spc100pwe:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

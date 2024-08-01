@@ -1,0 +1,10 @@
+{
+    "id": 61905,
+    "name": "announcements",
+    "version": "6.x-1.x",
+    "created_at": "2012-11-01T14:27:37",
+    "updated_at": "2012-11-13T22:53:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nancy_wichmann:announcements:6.x-1.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

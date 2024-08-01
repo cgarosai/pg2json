@@ -1,0 +1,10 @@
+{
+    "id": 29625,
+    "name": "winpcap",
+    "version": "2.2",
+    "created_at": "2009-11-25T17:33:41",
+    "updated_at": "2009-11-25T17:33:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:winpcap:winpcap:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

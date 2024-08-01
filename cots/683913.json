@@ -1,0 +1,10 @@
+{
+    "id": 683913,
+    "name": "ax3600_firmware",
+    "version": "-",
+    "created_at": "2021-04-12T13:12:00",
+    "updated_at": "2021-06-14T14:15:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mi:ax3600_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

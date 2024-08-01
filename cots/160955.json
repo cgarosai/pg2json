@@ -1,0 +1,10 @@
+{
+    "id": 160955,
+    "name": "redis",
+    "version": "4.0.2",
+    "created_at": "2018-08-01T15:52:05",
+    "updated_at": "2018-08-07T14:37:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:redis:4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

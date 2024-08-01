@@ -1,0 +1,10 @@
+{
+    "id": 189988,
+    "name": "wordfence_security",
+    "version": "1.4.3",
+    "created_at": "2018-11-07T16:20:12",
+    "updated_at": "2018-11-07T16:20:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordfence:wordfence_security:1.4.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

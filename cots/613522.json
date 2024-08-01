@@ -1,0 +1,10 @@
+{
+    "id": 613522,
+    "name": "untangle_firewall_ng",
+    "version": "12.1.2",
+    "created_at": "2020-11-18T15:52:39",
+    "updated_at": "2020-11-18T15:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:untangle:untangle_firewall_ng:12.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

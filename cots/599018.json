@@ -1,0 +1,10 @@
+{
+    "id": 599018,
+    "name": "clustered_data_ontap",
+    "version": "9.3",
+    "created_at": "2020-09-11T15:15:34",
+    "updated_at": "2021-05-05T16:57:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p12d3:*:*:*:*:*:*",
+    "to_analyse": false
+}

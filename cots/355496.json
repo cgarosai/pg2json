@@ -1,0 +1,10 @@
+{
+    "id": 355496,
+    "name": "thinkpad_a275_firmware",
+    "version": "-",
+    "created_at": "2019-09-04T10:09:48",
+    "updated_at": "2021-05-05T12:09:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_a275_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

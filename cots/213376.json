@@ -1,0 +1,10 @@
+{
+    "id": 213376,
+    "name": "otrs",
+    "version": "6.0.13",
+    "created_at": "2019-03-29T15:42:20",
+    "updated_at": "2019-03-29T15:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:otrs:6.0.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

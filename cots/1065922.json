@@ -1,0 +1,10 @@
+{
+    "id": 1065922,
+    "name": "google_map",
+    "version": "4.3.8",
+    "created_at": "2023-04-06T14:52:06",
+    "updated_at": "2023-05-23T13:11:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flippercode:google_map:4.3.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

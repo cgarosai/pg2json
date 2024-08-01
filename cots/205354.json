@@ -1,0 +1,10 @@
+{
+    "id": 205354,
+    "name": "react",
+    "version": "16.8.0",
+    "created_at": "2019-01-31T18:06:12",
+    "updated_at": "2019-01-31T18:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:facebook:react:16.8.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 893133,
+    "name": "threadfix",
+    "version": "1.5.4",
+    "created_at": "2022-06-29T11:39:51",
+    "updated_at": "2022-07-05T15:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:threadfix:1.5.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

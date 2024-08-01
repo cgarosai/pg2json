@@ -1,0 +1,10 @@
+{
+    "id": 645591,
+    "name": "htmlsanitizer",
+    "version": "5.0.310",
+    "created_at": "2021-01-06T18:01:11",
+    "updated_at": "2021-01-06T18:01:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:htmlsanitizer_project:htmlsanitizer:5.0.310:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

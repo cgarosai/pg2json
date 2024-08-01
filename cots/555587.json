@@ -1,0 +1,10 @@
+{
+    "id": 555587,
+    "name": "spring_advanced_message_queuing_protocol",
+    "version": "1.7.14",
+    "created_at": "2020-05-28T15:41:30",
+    "updated_at": "2020-05-28T15:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_advanced_message_queuing_protocol:1.7.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

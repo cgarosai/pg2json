@@ -1,0 +1,10 @@
+{
+    "id": 33086,
+    "name": "internet_security",
+    "version": "2010",
+    "created_at": "2011-03-04T16:47:04",
+    "updated_at": "2011-03-04T16:47:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:internet_security:2010:*:pro:*:*:*:*:*",
+    "to_analyse": false
+}

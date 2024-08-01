@@ -1,0 +1,10 @@
+{
+    "id": 246739,
+    "name": "gcc",
+    "version": "4.7.2",
+    "created_at": "2019-05-23T11:00:13",
+    "updated_at": "2019-05-23T11:00:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gcc:4.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

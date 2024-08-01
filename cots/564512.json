@@ -1,0 +1,10 @@
+{
+    "id": 564512,
+    "name": "webex_network_recording_player",
+    "version": "4.0",
+    "created_at": "2020-07-23T13:51:08",
+    "updated_at": "2020-07-23T13:51:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex_network_recording_player:4.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

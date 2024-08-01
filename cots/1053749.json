@@ -1,0 +1,10 @@
+{
+    "id": 1053749,
+    "name": "d6400_firmware",
+    "version": "1.0.0.114",
+    "created_at": "2023-04-04T11:41:33",
+    "updated_at": "2023-05-11T16:04:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:d6400_firmware:1.0.0.114:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 79242,
+    "name": "documentum_wdk",
+    "version": "6.7",
+    "created_at": "2013-05-10T12:28:26",
+    "updated_at": "2013-05-14T20:56:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:documentum_wdk:6.7:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

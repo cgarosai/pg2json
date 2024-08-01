@@ -1,0 +1,10 @@
+{
+    "id": 1125018,
+    "name": "inventorypress",
+    "version": "1.7",
+    "created_at": "2023-07-21T14:30:11",
+    "updated_at": "2023-07-21T15:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inventorypress_project:inventorypress:1.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

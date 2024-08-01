@@ -1,0 +1,10 @@
+{
+    "id": 683622,
+    "name": "lua-nginx-module",
+    "version": "0.7.6",
+    "created_at": "2021-04-12T11:09:26",
+    "updated_at": "2021-04-12T11:49:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openresty:lua-nginx-module:0.7.6:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

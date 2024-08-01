@@ -1,0 +1,10 @@
+{
+    "id": 26512,
+    "name": "windows_xp",
+    "version": "-",
+    "created_at": "2009-04-30T15:26:42",
+    "updated_at": "2009-04-30T15:26:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_xp:-:gold:64-bit-2003:*:*:*:*:*",
+    "to_analyse": false
+}

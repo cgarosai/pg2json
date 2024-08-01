@@ -1,0 +1,10 @@
+{
+    "id": 1031487,
+    "name": "commons_fileupload",
+    "version": "1.0",
+    "created_at": "2023-03-01T14:09:21",
+    "updated_at": "2023-03-03T12:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_fileupload:1.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

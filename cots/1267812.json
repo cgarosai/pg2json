@@ -1,0 +1,10 @@
+{
+    "id": 1267812,
+    "name": "bitcoin_core",
+    "version": "0.20.2",
+    "created_at": "2024-03-12T20:10:39",
+    "updated_at": "2024-03-12T20:10:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitcoin:bitcoin_core:0.20.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

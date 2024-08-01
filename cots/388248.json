@@ -1,0 +1,10 @@
+{
+    "id": 388248,
+    "name": "apex-publish-static-files",
+    "version": "1.0.4",
+    "created_at": "2019-09-24T15:33:56",
+    "updated_at": "2019-09-24T15:33:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apex-publish-static-files_project:apex-publish-static-files:1.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

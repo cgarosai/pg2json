@@ -1,0 +1,10 @@
+{
+    "id": 125493,
+    "name": "netbackup_appliance",
+    "version": "2.5.3",
+    "created_at": "2017-03-02T16:40:17",
+    "updated_at": "2017-03-02T16:40:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:netbackup_appliance:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

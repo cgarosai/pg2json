@@ -1,0 +1,10 @@
+{
+    "id": 491902,
+    "name": "wemo_switch_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T16:02:18",
+    "updated_at": "2020-02-24T16:02:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belkin:wemo_switch_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

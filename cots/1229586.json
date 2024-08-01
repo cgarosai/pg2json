@@ -1,0 +1,10 @@
+{
+    "id": 1229586,
+    "name": "thor",
+    "version": "2.6.9",
+    "created_at": "2023-12-29T14:15:26",
+    "updated_at": "2023-12-29T14:15:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heimdalsecurity:thor:2.6.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 661878,
+    "name": "skype_for_business_server",
+    "version": "2019",
+    "created_at": "2021-03-04T14:12:26",
+    "updated_at": "2021-08-17T14:37:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:skype_for_business_server:2019:cu2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 735581,
+    "name": "openvpn-client",
+    "version": "2.0.25",
+    "created_at": "2021-06-30T13:40:02",
+    "updated_at": "2021-07-08T12:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:securepoint:openvpn-client:2.0.25:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

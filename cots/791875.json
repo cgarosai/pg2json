@@ -1,0 +1,10 @@
+{
+    "id": 791875,
+    "name": "vsrx",
+    "version": "-",
+    "created_at": "2021-10-28T10:43:58",
+    "updated_at": "2022-02-04T18:38:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:vsrx:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 745777,
+    "name": "mgate_mb3480",
+    "version": "-",
+    "created_at": "2021-07-16T12:49:34",
+    "updated_at": "2021-07-16T12:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:moxa:mgate_mb3480:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

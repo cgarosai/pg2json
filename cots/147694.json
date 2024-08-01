@@ -1,0 +1,10 @@
+{
+    "id": 147694,
+    "name": "knox_identity_access_management",
+    "version": "16.11",
+    "created_at": "2018-03-14T17:05:46",
+    "updated_at": "2021-08-09T12:09:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:knox_identity_access_management:16.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

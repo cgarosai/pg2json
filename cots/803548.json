@@ -1,0 +1,10 @@
+{
+    "id": 803548,
+    "name": "epyc_72f3_firmware",
+    "version": "-",
+    "created_at": "2021-11-18T13:27:32",
+    "updated_at": "2021-11-18T17:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_72f3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

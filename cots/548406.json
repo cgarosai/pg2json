@@ -1,0 +1,10 @@
+{
+    "id": 548406,
+    "name": "knox",
+    "version": "2.1.0",
+    "created_at": "2020-05-11T14:28:33",
+    "updated_at": "2020-05-11T14:28:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:agilebits:knox:2.1.0:-:*:*:*:macos:*:*",
+    "to_analyse": false
+}

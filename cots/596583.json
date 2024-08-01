@@ -1,0 +1,10 @@
+{
+    "id": 596583,
+    "name": "aspera_connect",
+    "version": "3.9.9",
+    "created_at": "2020-09-08T13:27:45",
+    "updated_at": "2020-09-08T13:27:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:aspera_connect:3.9.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

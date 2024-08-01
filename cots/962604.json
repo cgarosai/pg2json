@@ -1,0 +1,10 @@
+{
+    "id": 962604,
+    "name": "core_i5-12600he_firmware",
+    "version": "-",
+    "created_at": "2022-11-18T15:14:36",
+    "updated_at": "2022-11-18T16:37:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i5-12600he_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

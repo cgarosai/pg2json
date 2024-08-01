@@ -1,0 +1,10 @@
+{
+    "id": 1154498,
+    "name": "wolt_delivery",
+    "version": "-",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wolt:wolt_delivery:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 639005,
+    "name": "n560-7-sys_firmware",
+    "version": "0.14",
+    "created_at": "2020-12-18T13:17:06",
+    "updated_at": "2020-12-18T13:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:n560-7-sys_firmware:0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

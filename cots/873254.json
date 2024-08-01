@@ -1,0 +1,10 @@
+{
+    "id": 873254,
+    "name": "trutops_monitor",
+    "version": "22.05",
+    "created_at": "2022-05-09T11:25:57",
+    "updated_at": "2022-06-03T11:02:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trumpf:trutops_monitor:22.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

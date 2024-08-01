@@ -1,0 +1,10 @@
+{
+    "id": 541429,
+    "name": "free_range_routing",
+    "version": "3.0.2",
+    "created_at": "2020-05-18T13:53:49",
+    "updated_at": "2020-05-18T13:53:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:free_range_routing:3.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

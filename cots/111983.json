@@ -1,0 +1,10 @@
+{
+    "id": 111983,
+    "name": "s3-video",
+    "version": "0.983",
+    "created_at": "2016-10-31T13:47:18",
+    "updated_at": "2016-10-31T13:47:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:s3-video_project:s3-video:0.983:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

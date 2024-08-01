@@ -1,0 +1,10 @@
+{
+    "id": 975660,
+    "name": "bitbucket_server_integration",
+    "version": "2.0.0",
+    "created_at": "2022-11-22T23:43:13",
+    "updated_at": "2022-11-22T23:46:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:bitbucket_server_integration:2.0.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

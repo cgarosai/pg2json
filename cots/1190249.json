@@ -1,0 +1,10 @@
+{
+    "id": 1190249,
+    "name": "ryzen3_5300u",
+    "version": "-",
+    "created_at": "2023-11-15T22:08:05",
+    "updated_at": "2023-11-15T22:08:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen3_5300u:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 724010,
+    "name": "nuc_m15_laptop_kit_lapbc710_firmware",
+    "version": "bctgl357.0051",
+    "created_at": "2021-06-28T15:45:54",
+    "updated_at": "2021-09-07T17:02:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:nuc_m15_laptop_kit_lapbc710_firmware:bctgl357.0051:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

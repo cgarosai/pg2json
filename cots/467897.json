@@ -1,0 +1,10 @@
+{
+    "id": 467897,
+    "name": "skopeo",
+    "version": "0.1.20",
+    "created_at": "2019-12-18T15:05:41",
+    "updated_at": "2019-12-18T15:05:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:skopeo_project:skopeo:0.1.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

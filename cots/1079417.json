@@ -1,0 +1,10 @@
+{
+    "id": 1079417,
+    "name": "ms-n1008-upc_firmware",
+    "version": "-",
+    "created_at": "2023-05-05T13:31:22",
+    "updated_at": "2023-05-06T12:08:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:milesight:ms-n1008-upc_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

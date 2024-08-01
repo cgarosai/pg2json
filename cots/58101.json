@@ -1,0 +1,10 @@
+{
+    "id": 58101,
+    "name": "fibre_channel_hbanyware",
+    "version": "2.1.17",
+    "created_at": "2012-05-14T21:28:54",
+    "updated_at": "2012-05-14T21:28:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emulex:fibre_channel_hbanyware:2.1.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

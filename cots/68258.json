@@ -1,0 +1,10 @@
+{
+    "id": 68258,
+    "name": "autosave",
+    "version": "6.x-2.x",
+    "created_at": "2012-08-29T17:20:07",
+    "updated_at": "2012-08-31T16:19:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:larry_garfield:autosave:6.x-2.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

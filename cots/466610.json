@@ -1,0 +1,10 @@
+{
+    "id": 466610,
+    "name": "unzip",
+    "version": "5.52",
+    "created_at": "2019-12-16T19:14:00",
+    "updated_at": "2019-12-16T19:14:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unzip_project:unzip:5.52:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

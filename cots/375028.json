@@ -1,0 +1,10 @@
+{
+    "id": 375028,
+    "name": "summit",
+    "version": "0.0.9",
+    "created_at": "2019-09-18T12:21:54",
+    "updated_at": "2019-09-18T12:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:summit_project:summit:0.0.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

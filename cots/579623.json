@@ -1,0 +1,10 @@
+{
+    "id": 579623,
+    "name": "foreman_discovery_image",
+    "version": "1.9.91",
+    "created_at": "2020-08-03T14:42:09",
+    "updated_at": "2020-08-03T14:42:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theforeman:foreman_discovery_image:1.9.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

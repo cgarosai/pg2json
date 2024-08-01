@@ -1,0 +1,10 @@
+{
+    "id": 631677,
+    "name": "enterprise_session_border_controller",
+    "version": "8.4",
+    "created_at": "2020-12-28T11:31:51",
+    "updated_at": "2020-12-28T11:31:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_session_border_controller:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 921004,
+    "name": "amq_broker",
+    "version": "7.10.0",
+    "created_at": "2022-08-26T14:07:31",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:amq_broker:7.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

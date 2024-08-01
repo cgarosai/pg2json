@@ -1,0 +1,10 @@
+{
+    "id": 907933,
+    "name": "session",
+    "version": "1.13.1",
+    "created_at": "2022-07-08T11:19:01",
+    "updated_at": "2022-07-11T12:54:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opft:session:1.13.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

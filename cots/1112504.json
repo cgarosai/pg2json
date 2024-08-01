@@ -1,0 +1,10 @@
+{
+    "id": 1112504,
+    "name": "webex_meetings",
+    "version": "40.2",
+    "created_at": "2023-07-17T16:56:17",
+    "updated_at": "2023-07-18T13:33:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex_meetings:40.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

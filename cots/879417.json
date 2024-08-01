@@ -1,0 +1,10 @@
+{
+    "id": 879417,
+    "name": "simatic_reader_rf650r_arib",
+    "version": "-",
+    "created_at": "2022-04-28T12:48:51",
+    "updated_at": "2022-05-02T11:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_reader_rf650r_arib:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

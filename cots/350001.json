@@ -1,0 +1,10 @@
+{
+    "id": 350001,
+    "name": "eclipse-wtp",
+    "version": "3.9.7",
+    "created_at": "2019-09-06T10:42:48",
+    "updated_at": "2021-05-20T11:46:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diffplug:eclipse-wtp:3.9.7:*:*:*:*:spotless:*:*",
+    "to_analyse": false
+}

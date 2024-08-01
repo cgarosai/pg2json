@@ -1,0 +1,10 @@
+{
+    "id": 127514,
+    "name": "wireless_lan_controller_firmware",
+    "version": "8.2.121.0",
+    "created_at": "2017-04-12T16:18:10",
+    "updated_at": "2021-04-15T15:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:wireless_lan_controller_firmware:8.2.121.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 433075,
+    "name": "graphics_driver",
+    "version": "26.20.100.6812",
+    "created_at": "2019-11-20T17:57:13",
+    "updated_at": "2019-11-20T17:57:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_driver:26.20.100.6812:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

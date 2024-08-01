@@ -1,0 +1,10 @@
+{
+    "id": 824178,
+    "name": "crypto2",
+    "version": "0.1.2",
+    "created_at": "2022-01-05T19:12:01",
+    "updated_at": "2022-01-10T14:55:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crypto2_project:crypto2:0.1.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

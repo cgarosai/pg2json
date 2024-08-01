@@ -1,0 +1,10 @@
+{
+    "id": 523412,
+    "name": "\\",
+    "version": "asn1_project",
+    "created_at": "2020-04-10T12:01:12",
+    "updated_at": "2020-04-10T12:01:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:convert\\:\\:asn1_project:convert\\:\\:asn1:0.22:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

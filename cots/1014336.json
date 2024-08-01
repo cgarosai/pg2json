@@ -1,0 +1,10 @@
+{
+    "id": 1014336,
+    "name": "endpoint_detection_and_response",
+    "version": "20.1.343",
+    "created_at": "2023-01-30T14:06:30",
+    "updated_at": "2023-01-31T14:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybereason:endpoint_detection_and_response:20.1.343:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

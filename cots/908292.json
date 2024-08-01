@@ -1,0 +1,10 @@
+{
+    "id": 908292,
+    "name": "nvflare",
+    "version": "2.1.0",
+    "created_at": "2022-07-11T13:20:49",
+    "updated_at": "2022-07-12T11:08:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:nvflare:2.1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 920170,
+    "name": "i40en",
+    "version": "2.1.5.0",
+    "created_at": "2022-08-25T11:32:34",
+    "updated_at": "2022-11-02T15:09:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:i40en:2.1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

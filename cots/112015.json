@@ -1,0 +1,10 @@
+{
+    "id": 112015,
+    "name": "virtual_desktop_infrastructure",
+    "version": "3.5.2",
+    "created_at": "2016-11-01T17:09:30",
+    "updated_at": "2021-07-08T20:16:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:virtual_desktop_infrastructure:3.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

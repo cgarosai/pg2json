@@ -1,0 +1,10 @@
+{
+    "id": 936392,
+    "name": "zulip",
+    "version": "27.182",
+    "created_at": "2022-09-01T11:31:15",
+    "updated_at": "2022-09-01T17:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zulip:zulip:27.182:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

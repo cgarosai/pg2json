@@ -1,0 +1,10 @@
+{
+    "id": 94175,
+    "name": "tekno_apsis",
+    "version": "2.4",
+    "created_at": "2014-11-10T15:23:03",
+    "updated_at": "2014-11-10T15:31:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tekno_apsis_project:tekno_apsis:2.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

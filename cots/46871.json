@@ -1,0 +1,10 @@
+{
+    "id": 46871,
+    "name": "anyconnect_secure_mobility_client",
+    "version": "2.5.2019",
+    "created_at": "2011-06-03T11:22:40",
+    "updated_at": "2012-07-31T19:08:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:2.5.2019:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

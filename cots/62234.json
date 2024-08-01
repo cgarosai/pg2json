@@ -1,0 +1,10 @@
+{
+    "id": 62234,
+    "name": "bezip",
+    "version": "3.04",
+    "created_at": "2012-11-08T16:30:27",
+    "updated_at": "2012-11-26T15:38:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:be-graph:bezip:3.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

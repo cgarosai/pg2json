@@ -1,0 +1,10 @@
+{
+    "id": 878874,
+    "name": "http-swagger",
+    "version": "-",
+    "created_at": "2022-04-26T12:18:30",
+    "updated_at": "2022-04-26T16:28:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http-swagger_project:http-swagger:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1021862,
+    "name": "bond_2_firmware",
+    "version": "-",
+    "created_at": "2023-02-10T12:53:08",
+    "updated_at": "2023-02-25T02:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teradek:bond_2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

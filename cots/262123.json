@@ -1,0 +1,10 @@
+{
+    "id": 262123,
+    "name": "orc",
+    "version": "1.1.2",
+    "created_at": "2019-06-18T13:19:14",
+    "updated_at": "2019-06-18T13:19:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:orc:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 610174,
+    "name": "core_i3-10100e",
+    "version": "-",
+    "created_at": "2020-11-17T12:29:58",
+    "updated_at": "2021-04-30T12:26:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i3-10100e:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

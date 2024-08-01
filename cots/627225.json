@@ -1,0 +1,10 @@
+{
+    "id": 627225,
+    "name": "tip300_firmware",
+    "version": "60.61.75.15",
+    "created_at": "2020-12-01T17:27:16",
+    "updated_at": "2021-06-21T15:40:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intelbras:tip300_firmware:60.61.75.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 811297,
+    "name": "communications_session_route_manager",
+    "version": "8.2.0.0",
+    "created_at": "2021-12-02T14:10:12",
+    "updated_at": "2021-12-02T21:36:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:communications_session_route_manager:8.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

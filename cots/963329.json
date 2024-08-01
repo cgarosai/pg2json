@@ -1,0 +1,10 @@
+{
+    "id": 963329,
+    "name": "mailpoet",
+    "version": "3.11.2",
+    "created_at": "2022-11-21T14:08:08",
+    "updated_at": "2022-11-21T14:18:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailpoet:mailpoet:3.11.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

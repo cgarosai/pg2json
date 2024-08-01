@@ -1,0 +1,10 @@
+{
+    "id": 945652,
+    "name": "js-compute",
+    "version": "0.5.2",
+    "created_at": "2022-09-21T13:09:12",
+    "updated_at": "2022-09-21T16:44:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastly:js-compute:0.5.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

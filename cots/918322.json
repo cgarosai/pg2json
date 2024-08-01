@@ -1,0 +1,10 @@
+{
+    "id": 918322,
+    "name": "modular_switchgear_monitoring_firmware",
+    "version": "2.2.0",
+    "created_at": "2022-08-01T14:54:09",
+    "updated_at": "2023-04-19T13:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

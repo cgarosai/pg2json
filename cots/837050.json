@@ -1,0 +1,10 @@
+{
+    "id": 837050,
+    "name": "peertube",
+    "version": "2.1.0",
+    "created_at": "2022-01-14T15:25:44",
+    "updated_at": "2022-01-14T15:30:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:framasoft:peertube:2.1.0:rc.1:*:*:*:*:*:*",
+    "to_analyse": false
+}

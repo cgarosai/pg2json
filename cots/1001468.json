@@ -1,0 +1,10 @@
+{
+    "id": 1001468,
+    "name": "gpu_display_driver",
+    "version": "527.41",
+    "created_at": "2023-01-05T17:28:38",
+    "updated_at": "2023-02-24T14:28:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_display_driver:527.41:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

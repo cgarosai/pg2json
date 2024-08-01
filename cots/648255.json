@@ -1,0 +1,10 @@
+{
+    "id": 648255,
+    "name": "access_points_firmware",
+    "version": "6.10",
+    "created_at": "2021-01-12T17:00:51",
+    "updated_at": "2021-01-12T17:00:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:access_points_firmware:6.10:patch6:*:*:*:*:*:*",
+    "to_analyse": false
+}

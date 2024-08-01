@@ -1,0 +1,10 @@
+{
+    "id": 991399,
+    "name": "vpn",
+    "version": "-",
+    "created_at": "2022-12-23T17:10:51",
+    "updated_at": "2022-12-30T18:30:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:vpn:-:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

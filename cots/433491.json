@@ -1,0 +1,10 @@
+{
+    "id": 433491,
+    "name": "klibc",
+    "version": "1.4.19",
+    "created_at": "2019-11-20T19:08:12",
+    "updated_at": "2019-11-20T19:08:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:klibc_project:klibc:1.4.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

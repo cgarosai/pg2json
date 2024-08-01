@@ -1,0 +1,10 @@
+{
+    "id": 412846,
+    "name": "security_access_manager",
+    "version": "9.0.1.0",
+    "created_at": "2019-10-29T19:21:06",
+    "updated_at": "2019-10-29T19:21:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_access_manager:9.0.1.0:interim_fix_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

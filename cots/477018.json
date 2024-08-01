@@ -1,0 +1,10 @@
+{
+    "id": 477018,
+    "name": "mailstore_server",
+    "version": "5.2",
+    "created_at": "2020-01-13T13:40:22",
+    "updated_at": "2020-01-13T13:40:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailstore:mailstore_server:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

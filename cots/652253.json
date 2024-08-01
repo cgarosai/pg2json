@@ -1,0 +1,10 @@
+{
+    "id": 652253,
+    "name": "sma_200_firmware",
+    "version": "-",
+    "created_at": "2021-02-17T16:52:53",
+    "updated_at": "2021-02-17T16:52:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sma_200_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

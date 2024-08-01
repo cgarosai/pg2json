@@ -1,0 +1,10 @@
+{
+    "id": 858849,
+    "name": "edk2",
+    "version": "202202",
+    "created_at": "2022-03-08T15:34:24",
+    "updated_at": "2022-03-09T14:06:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tianocore:edk2:202202:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

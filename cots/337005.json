@@ -1,0 +1,10 @@
+{
+    "id": 337005,
+    "name": "ironic-inspector",
+    "version": "6.0.1",
+    "created_at": "2019-08-09T17:05:56",
+    "updated_at": "2019-08-09T17:05:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:ironic-inspector:6.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

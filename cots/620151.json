@@ -1,0 +1,10 @@
+{
+    "id": 620151,
+    "name": "wire",
+    "version": "3.9.2895",
+    "created_at": "2020-12-07T16:27:14",
+    "updated_at": "2020-12-07T16:27:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wire:wire:3.9.2895:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 163489,
+    "name": "node_token",
+    "version": "-",
+    "created_at": "2018-08-17T10:00:46",
+    "updated_at": "2021-06-10T14:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intchain:node_token:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

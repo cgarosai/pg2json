@@ -1,0 +1,10 @@
+{
+    "id": 932645,
+    "name": "m330-w_firmware",
+    "version": "1.11",
+    "created_at": "2022-09-15T11:56:35",
+    "updated_at": "2022-09-20T12:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:proscend:m330-w_firmware:1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

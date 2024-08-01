@@ -1,0 +1,10 @@
+{
+    "id": 473987,
+    "name": "applications_dba",
+    "version": "12.1.0.2",
+    "created_at": "2020-01-27T13:55:17",
+    "updated_at": "2020-01-27T13:55:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:applications_dba:12.1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

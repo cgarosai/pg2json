@@ -1,0 +1,10 @@
+{
+    "id": 866701,
+    "name": "epolicy_orchestrator",
+    "version": "5.10.0",
+    "created_at": "2022-03-24T14:25:26",
+    "updated_at": "2022-09-02T11:36:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.10.0:update_12:*:*:*:*:*:*",
+    "to_analyse": false
+}

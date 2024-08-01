@@ -1,0 +1,10 @@
+{
+    "id": 350978,
+    "name": "koji",
+    "version": "1.5.0",
+    "created_at": "2019-09-06T15:57:58",
+    "updated_at": "2019-09-06T15:57:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:koji_project:koji:1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

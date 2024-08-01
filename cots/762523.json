@@ -1,0 +1,10 @@
+{
+    "id": 762523,
+    "name": "manageengine_cloud_security_plus",
+    "version": "4.0",
+    "created_at": "2021-08-30T13:40:59",
+    "updated_at": "2021-08-30T13:53:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_cloud_security_plus:4.0:build4002:*:*:*:*:*:*",
+    "to_analyse": false
+}

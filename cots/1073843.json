@@ -1,0 +1,10 @@
+{
+    "id": 1073843,
+    "name": "ryzen_3300x",
+    "version": "-",
+    "created_at": "2023-05-17T20:19:01",
+    "updated_at": "2023-06-20T11:49:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen_3300x:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

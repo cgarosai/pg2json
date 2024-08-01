@@ -1,0 +1,10 @@
+{
+    "id": 630516,
+    "name": "vm-superio",
+    "version": "0.1.0",
+    "created_at": "2020-12-22T14:38:26",
+    "updated_at": "2020-12-22T14:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vm-superio_project:vm-superio:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

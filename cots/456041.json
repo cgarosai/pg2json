@@ -1,0 +1,10 @@
+{
+    "id": 456041,
+    "name": "proset\\/wireless_wifi",
+    "version": "21.20.0",
+    "created_at": "2019-12-06T12:27:04",
+    "updated_at": "2019-12-06T12:27:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:proset\\/wireless_wifi:21.20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

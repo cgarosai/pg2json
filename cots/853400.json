@@ -1,0 +1,10 @@
+{
+    "id": 853400,
+    "name": "simple-git",
+    "version": "3.0.1",
+    "created_at": "2022-03-17T12:01:53",
+    "updated_at": "2022-03-17T18:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple-git_project:simple-git:3.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

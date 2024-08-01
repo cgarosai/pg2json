@@ -1,0 +1,10 @@
+{
+    "id": 928788,
+    "name": "xeon_d-2777nx_firmware",
+    "version": "-",
+    "created_at": "2022-08-23T18:09:38",
+    "updated_at": "2022-08-24T10:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_d-2777nx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

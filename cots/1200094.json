@@ -1,0 +1,10 @@
+{
+    "id": 1200094,
+    "name": "ntl-bc-03-snm",
+    "version": "-",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:neutron:ntl-bc-03-snm:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

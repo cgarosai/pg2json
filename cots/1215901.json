@@ -1,0 +1,10 @@
+{
+    "id": 1215901,
+    "name": "debian_linux",
+    "version": "13.0",
+    "created_at": "2023-12-09T03:57:34",
+    "updated_at": "2023-12-09T03:57:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:debian:debian_linux:13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

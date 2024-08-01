@@ -1,0 +1,10 @@
+{
+    "id": 1170402,
+    "name": "perl",
+    "version": "5.9.4",
+    "created_at": "2023-10-16T17:22:50",
+    "updated_at": "2023-10-16T17:22:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perl:perl:5.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

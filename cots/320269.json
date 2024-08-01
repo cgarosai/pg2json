@@ -1,0 +1,10 @@
+{
+    "id": 320269,
+    "name": "libmodbus",
+    "version": "-",
+    "created_at": "2019-08-01T13:32:17",
+    "updated_at": "2019-08-01T13:32:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libmodbus:libmodbus:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

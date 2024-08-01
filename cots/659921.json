@@ -1,0 +1,10 @@
+{
+    "id": 659921,
+    "name": "prusaslicer",
+    "version": "2.2.0",
+    "created_at": "2021-02-11T14:59:00",
+    "updated_at": "2021-04-07T15:41:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prusa3d:prusaslicer:2.2.0:alpha0:*:*:*:*:*:*",
+    "to_analyse": false
+}

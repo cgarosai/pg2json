@@ -1,0 +1,10 @@
+{
+    "id": 1092001,
+    "name": "syncthing",
+    "version": "1.22.2",
+    "created_at": "2023-06-13T12:29:45",
+    "updated_at": "2023-06-13T15:29:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:syncthing:syncthing:1.22.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 789264,
+    "name": "sma_210_firmware",
+    "version": "9.0.0.10-28sv",
+    "created_at": "2021-10-05T14:02:24",
+    "updated_at": "2021-10-05T14:55:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sma_210_firmware:9.0.0.10-28sv:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

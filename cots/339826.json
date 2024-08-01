@@ -1,0 +1,10 @@
+{
+    "id": 339826,
+    "name": "vmware_lab_manager_slaves",
+    "version": "0.2.6",
+    "created_at": "2019-08-13T17:43:54",
+    "updated_at": "2019-08-13T17:43:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:vmware_lab_manager_slaves:0.2.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

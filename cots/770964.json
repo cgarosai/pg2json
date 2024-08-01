@@ -1,0 +1,10 @@
+{
+    "id": 770964,
+    "name": "google_translate",
+    "version": "99.99.99.2059",
+    "created_at": "2021-09-16T14:41:36",
+    "updated_at": "2021-09-16T17:22:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:onlyoffice:google_translate:99.99.99.2059:*:*:*:*:document_server:*:*",
+    "to_analyse": false
+}

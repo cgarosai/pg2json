@@ -1,0 +1,10 @@
+{
+    "id": 339430,
+    "name": "mbed_tls",
+    "version": "2.1.15",
+    "created_at": "2019-08-13T15:19:08",
+    "updated_at": "2019-08-13T15:19:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:mbed_tls:2.1.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

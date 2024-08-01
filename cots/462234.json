@@ -1,0 +1,10 @@
+{
+    "id": 462234,
+    "name": "mongo-express",
+    "version": "0.52.2",
+    "created_at": "2020-01-03T19:27:28",
+    "updated_at": "2020-01-03T19:27:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongo-express_project:mongo-express:0.52.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

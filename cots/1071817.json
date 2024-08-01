@@ -1,0 +1,10 @@
+{
+    "id": 1071817,
+    "name": "macos",
+    "version": "11.7.5",
+    "created_at": "2023-05-11T08:33:43",
+    "updated_at": "2023-08-15T11:37:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:macos:11.7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

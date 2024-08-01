@@ -1,0 +1,10 @@
+{
+    "id": 264313,
+    "name": "abuild",
+    "version": "0.2",
+    "created_at": "2019-06-19T13:19:09",
+    "updated_at": "2019-06-19T13:19:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alpinelinux:abuild:0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

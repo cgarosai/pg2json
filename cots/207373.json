@@ -1,0 +1,10 @@
+{
+    "id": 207373,
+    "name": "jetty",
+    "version": "9.4.13",
+    "created_at": "2019-02-07T17:41:36",
+    "updated_at": "2019-05-10T12:40:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:jetty:9.4.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

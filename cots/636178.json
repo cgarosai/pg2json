@@ -1,0 +1,10 @@
+{
+    "id": 636178,
+    "name": "csi2_host_controller",
+    "version": "-",
+    "created_at": "2020-12-14T14:00:54",
+    "updated_at": "2020-12-14T14:00:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:csi2_host_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

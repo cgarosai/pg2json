@@ -1,0 +1,10 @@
+{
+    "id": 590017,
+    "name": "at91bootstrap",
+    "version": "3.8.8",
+    "created_at": "2020-09-14T17:49:59",
+    "updated_at": "2020-09-14T17:49:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux4sam:at91bootstrap:3.8.8:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

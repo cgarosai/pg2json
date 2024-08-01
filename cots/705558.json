@@ -1,0 +1,10 @@
+{
+    "id": 705558,
+    "name": "opc_server",
+    "version": "3.5.17.0",
+    "created_at": "2021-05-06T14:26:47",
+    "updated_at": "2021-05-17T12:44:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:opc_server:3.5.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

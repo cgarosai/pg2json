@@ -1,0 +1,10 @@
+{
+    "id": 99880,
+    "name": "control",
+    "version": "8.3.0",
+    "created_at": "2014-07-07T11:48:01",
+    "updated_at": "2014-07-10T12:09:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kerio:control:8.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

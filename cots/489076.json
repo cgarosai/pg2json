@@ -1,0 +1,10 @@
+{
+    "id": 489076,
+    "name": "django-user-sessions",
+    "version": "1.0.0",
+    "created_at": "2020-02-03T16:38:33",
+    "updated_at": "2020-02-03T16:38:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-user-sessions_project:django-user-sessions:1.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 557480,
+    "name": "recording_station_firmware",
+    "version": "-",
+    "created_at": "2020-06-02T14:54:51",
+    "updated_at": "2020-06-02T14:54:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:recording_station_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

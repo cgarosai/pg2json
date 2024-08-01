@@ -1,0 +1,10 @@
+{
+    "id": 916807,
+    "name": "grapesjs",
+    "version": "0.3.18",
+    "created_at": "2022-07-27T16:50:40",
+    "updated_at": "2023-02-17T18:29:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grapesjs:grapesjs:0.3.18:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

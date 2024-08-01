@@ -1,0 +1,10 @@
+{
+    "id": 601229,
+    "name": "emc_isilon",
+    "version": "8.0.0.6",
+    "created_at": "2020-10-08T14:32:30",
+    "updated_at": "2020-10-08T14:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_isilon:8.0.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

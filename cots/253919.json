@@ -1,0 +1,10 @@
+{
+    "id": 253919,
+    "name": "moonshot_provisioning_manager",
+    "version": "1.24",
+    "created_at": "2019-06-12T13:50:13",
+    "updated_at": "2019-06-12T13:50:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:moonshot_provisioning_manager:1.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

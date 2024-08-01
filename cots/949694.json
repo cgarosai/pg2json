@@ -1,0 +1,10 @@
+{
+    "id": 949694,
+    "name": "catalyst_6880-x_firmware",
+    "version": "15.5\\(01.01.85\\)sy07",
+    "created_at": "2022-09-30T10:32:05",
+    "updated_at": "2022-10-06T10:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:catalyst_6880-x_firmware:15.5\\(01.01.85\\)sy07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

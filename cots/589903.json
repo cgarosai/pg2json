@@ -1,0 +1,10 @@
+{
+    "id": 589903,
+    "name": "nodebb",
+    "version": "1.14.3",
+    "created_at": "2020-08-21T14:45:14",
+    "updated_at": "2020-08-21T14:45:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodebb:nodebb:1.14.3:beta15:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 650834,
+    "name": "video_insight_ip_server",
+    "version": "7.8",
+    "created_at": "2021-02-13T17:11:48",
+    "updated_at": "2021-04-12T13:53:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:panasonic:video_insight_ip_server:7.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

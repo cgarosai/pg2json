@@ -1,0 +1,10 @@
+{
+    "id": 1018309,
+    "name": "cortex-a55",
+    "version": "-",
+    "created_at": "2023-01-18T16:52:03",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arm:cortex-a55:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

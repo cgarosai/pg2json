@@ -1,0 +1,10 @@
+{
+    "id": 107977,
+    "name": "single_sign_on",
+    "version": "4.3",
+    "created_at": "2015-03-20T11:30:22",
+    "updated_at": "2015-07-24T19:05:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:single_sign_on:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

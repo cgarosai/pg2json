@@ -1,0 +1,10 @@
+{
+    "id": 120136,
+    "name": "bluetooth_stack",
+    "version": "-",
+    "created_at": "2017-06-07T17:28:46",
+    "updated_at": "2021-05-26T13:13:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bavarian_motor_works:bluetooth_stack:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

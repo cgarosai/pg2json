@@ -1,0 +1,10 @@
+{
+    "id": 594721,
+    "name": "webaccess_scada",
+    "version": "8.3.1",
+    "created_at": "2020-09-24T15:34:46",
+    "updated_at": "2021-03-29T13:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:advantech:webaccess_scada:8.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

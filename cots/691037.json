@@ -1,0 +1,10 @@
+{
+    "id": 691037,
+    "name": "simotics_connect_400_firmware",
+    "version": "-",
+    "created_at": "2021-04-28T12:44:15",
+    "updated_at": "2021-05-26T15:31:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simotics_connect_400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

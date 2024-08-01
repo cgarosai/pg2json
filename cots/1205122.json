@@ -1,0 +1,10 @@
+{
+    "id": 1205122,
+    "name": "unison",
+    "version": "20.14.4244",
+    "created_at": "2023-11-25T03:35:20",
+    "updated_at": "2023-11-25T03:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:unison:20.14.4244:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

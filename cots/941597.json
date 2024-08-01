@@ -1,0 +1,10 @@
+{
+    "id": 941597,
+    "name": "skiboot",
+    "version": "5.7",
+    "created_at": "2022-10-04T17:04:28",
+    "updated_at": "2022-10-11T11:52:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:openpowerfoundation:skiboot:5.7:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

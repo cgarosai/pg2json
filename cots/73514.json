@@ -1,0 +1,10 @@
+{
+    "id": 73514,
+    "name": "wimax_network_service",
+    "version": "1.5.2",
+    "created_at": "2013-08-26T16:27:05",
+    "updated_at": "2013-08-26T16:29:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:wimax_network_service:1.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

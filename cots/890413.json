@@ -1,0 +1,10 @@
+{
+    "id": 890413,
+    "name": "typo3",
+    "version": "7.6.57",
+    "created_at": "2022-06-21T14:56:32",
+    "updated_at": "2022-06-22T13:54:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typo3:typo3:7.6.57:*:*:*:elts:*:*:*",
+    "to_analyse": false
+}

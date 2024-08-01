@@ -1,0 +1,10 @@
+{
+    "id": 322917,
+    "name": "jsonwebtoken",
+    "version": "5.1.0",
+    "created_at": "2019-08-02T12:01:22",
+    "updated_at": "2019-08-02T12:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:jsonwebtoken:5.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 580653,
+    "name": "cf-deployment",
+    "version": "13.13.0",
+    "created_at": "2020-08-24T13:14:10",
+    "updated_at": "2021-03-24T15:07:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:cf-deployment:13.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

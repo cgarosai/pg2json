@@ -1,0 +1,10 @@
+{
+    "id": 100987,
+    "name": "websphere_extreme_scale",
+    "version": "8.6.0.8",
+    "created_at": "2015-08-04T10:23:12",
+    "updated_at": "2015-08-04T12:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_extreme_scale:8.6.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

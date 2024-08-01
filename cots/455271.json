@@ -1,0 +1,10 @@
+{
+    "id": 455271,
+    "name": "services_monitor",
+    "version": "-",
+    "created_at": "2019-12-05T15:20:26",
+    "updated_at": "2019-12-05T15:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lexmark:services_monitor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

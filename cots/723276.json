@@ -1,0 +1,10 @@
+{
+    "id": 723276,
+    "name": "ese620x_vess_firmware",
+    "version": "v100r001c20spc200",
+    "created_at": "2021-06-25T11:10:21",
+    "updated_at": "2021-06-30T11:34:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ese620x_vess_firmware:v100r001c20spc200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

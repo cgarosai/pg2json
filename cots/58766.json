@@ -1,0 +1,10 @@
+{
+    "id": 58766,
+    "name": "openview_snmp_runtime",
+    "version": "1.30.10",
+    "created_at": "2012-05-14T21:31:21",
+    "updated_at": "2012-05-14T21:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:openview_snmp_runtime:1.30.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

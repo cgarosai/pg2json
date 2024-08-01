@@ -1,0 +1,10 @@
+{
+    "id": 198871,
+    "name": "iptables",
+    "version": "1.8.1",
+    "created_at": "2018-12-31T18:41:45",
+    "updated_at": "2018-12-31T18:41:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netfilter:iptables:1.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

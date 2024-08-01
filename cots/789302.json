@@ -1,0 +1,10 @@
+{
+    "id": 789302,
+    "name": "p40_firmware",
+    "version": "11.0.0.180\\(c00e180r6p6\\)",
+    "created_at": "2021-10-05T14:13:55",
+    "updated_at": "2021-10-07T18:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p40_firmware:11.0.0.180\\(c00e180r6p6\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

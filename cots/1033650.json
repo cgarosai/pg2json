@@ -1,0 +1,10 @@
+{
+    "id": 1033650,
+    "name": "openmrs",
+    "version": "2.4.0",
+    "created_at": "2023-03-03T17:07:15",
+    "updated_at": "2023-03-03T18:05:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmrs:openmrs:2.4.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

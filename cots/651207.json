@@ -1,0 +1,10 @@
+{
+    "id": 651207,
+    "name": "digital_sentry_server",
+    "version": "6.8.22",
+    "created_at": "2021-02-16T14:11:08",
+    "updated_at": "2021-02-16T14:11:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pelco:digital_sentry_server:6.8.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

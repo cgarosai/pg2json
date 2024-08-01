@@ -1,0 +1,10 @@
+{
+    "id": 37539,
+    "name": "powerstore",
+    "version": "2.0",
+    "created_at": "2010-10-13T00:43:04",
+    "updated_at": "2010-10-13T00:43:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webassist:powerstore:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

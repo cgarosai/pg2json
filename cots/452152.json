@@ -1,0 +1,10 @@
+{
+    "id": 452152,
+    "name": "thinkpad_l590_firmware",
+    "version": "-",
+    "created_at": "2019-12-10T15:08:29",
+    "updated_at": "2019-12-10T15:08:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_l590_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

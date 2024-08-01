@@ -1,0 +1,10 @@
+{
+    "id": 762558,
+    "name": "binderhub",
+    "version": "0.2.0-n653",
+    "created_at": "2021-08-30T14:14:34",
+    "updated_at": "2021-08-31T12:06:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:binderhub:0.2.0-n653:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

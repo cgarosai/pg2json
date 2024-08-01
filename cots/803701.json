@@ -1,0 +1,10 @@
+{
+    "id": 803701,
+    "name": "epyc_7f32_firmware",
+    "version": "-",
+    "created_at": "2021-11-18T13:52:50",
+    "updated_at": "2021-11-18T17:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7f32_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

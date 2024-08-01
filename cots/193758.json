@@ -1,0 +1,10 @@
+{
+    "id": 193758,
+    "name": "ca_identity_governance",
+    "version": "12.6",
+    "created_at": "2019-01-25T11:24:38",
+    "updated_at": "2021-03-16T17:26:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_identity_governance:12.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

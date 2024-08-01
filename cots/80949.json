@@ -1,0 +1,10 @@
+{
+    "id": 80949,
+    "name": "video_surveillance_indoor_fixed_dome_ip_hd_camera",
+    "version": "5010",
+    "created_at": "2014-01-27T14:17:59",
+    "updated_at": "2014-05-14T23:54:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:video_surveillance_indoor_fixed_dome_ip_hd_camera:5010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

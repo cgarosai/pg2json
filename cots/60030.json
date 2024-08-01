@@ -1,0 +1,10 @@
+{
+    "id": 60030,
+    "name": "vino",
+    "version": "3.4.0",
+    "created_at": "2012-10-01T16:46:49",
+    "updated_at": "2013-03-20T12:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:david_king:vino:3.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

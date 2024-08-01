@@ -1,0 +1,10 @@
+{
+    "id": 528452,
+    "name": "debian-edu-config",
+    "version": "2.10.65",
+    "created_at": "2020-04-02T14:04:39",
+    "updated_at": "2020-04-02T14:04:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:skolelinux:debian-edu-config:2.10.65:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

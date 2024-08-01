@@ -1,0 +1,10 @@
+{
+    "id": 833436,
+    "name": "zabbix-agent2",
+    "version": "5.4.0",
+    "created_at": "2022-01-31T17:12:14",
+    "updated_at": "2022-01-31T23:32:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zabbix:zabbix-agent2:5.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

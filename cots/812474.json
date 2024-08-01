@@ -1,0 +1,10 @@
+{
+    "id": 812474,
+    "name": "unitrends_backup",
+    "version": "9.0",
+    "created_at": "2021-12-06T13:38:59",
+    "updated_at": "2021-12-06T14:03:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaseya:unitrends_backup:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

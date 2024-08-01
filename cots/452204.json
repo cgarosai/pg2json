@@ -1,0 +1,10 @@
+{
+    "id": 452204,
+    "name": "thinkstation_p300_firmware",
+    "version": "-",
+    "created_at": "2019-12-10T15:09:05",
+    "updated_at": "2019-12-10T15:09:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkstation_p300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

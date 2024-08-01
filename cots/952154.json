@@ -1,0 +1,10 @@
+{
+    "id": 952154,
+    "name": "bifrost_gpu_kernel_driver",
+    "version": "r38p2",
+    "created_at": "2022-10-26T11:18:43",
+    "updated_at": "2022-10-26T13:53:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

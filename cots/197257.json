@@ -1,0 +1,10 @@
+{
+    "id": 197257,
+    "name": "network_security_manager",
+    "version": "6.1.15",
+    "created_at": "2018-12-12T17:28:55",
+    "updated_at": "2021-04-08T18:18:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:network_security_manager:6.1.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

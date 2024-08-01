@@ -1,0 +1,10 @@
+{
+    "id": 568315,
+    "name": "avg_antivirus",
+    "version": "20.4",
+    "created_at": "2020-07-02T15:47:03",
+    "updated_at": "2020-07-02T15:47:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:avg_antivirus:20.4:*:*:*:free:*:*:*",
+    "to_analyse": false
+}

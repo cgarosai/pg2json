@@ -1,0 +1,10 @@
+{
+    "id": 511154,
+    "name": "suse_linux_enterprise_server",
+    "version": "11.0",
+    "created_at": "2020-03-24T18:26:28",
+    "updated_at": "2020-03-24T18:26:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:novell:suse_linux_enterprise_server:11.0:sp3:*:*:*:vmware:*:*",
+    "to_analyse": false
+}

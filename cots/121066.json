@@ -1,0 +1,10 @@
+{
+    "id": 121066,
+    "name": "asr_5000_series",
+    "version": "21.0.v0.65839",
+    "created_at": "2017-06-28T14:13:12",
+    "updated_at": "2021-04-08T17:15:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:asr_5000_series:21.0.v0.65839:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

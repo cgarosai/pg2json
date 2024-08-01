@@ -1,0 +1,10 @@
+{
+    "id": 1025699,
+    "name": "realtek_high_definition_audio_driver",
+    "version": "-",
+    "created_at": "2023-02-02T14:02:15",
+    "updated_at": "2023-02-02T18:33:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:realtek_high_definition_audio_driver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

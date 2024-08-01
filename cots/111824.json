@@ -1,0 +1,10 @@
+{
+    "id": 111824,
+    "name": "remote_device_access_virtual_customer_access_system",
+    "version": "15.07",
+    "created_at": "2016-10-20T13:14:45",
+    "updated_at": "2021-06-03T16:50:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:remote_device_access_virtual_customer_access_system:15.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

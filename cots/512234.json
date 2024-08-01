@@ -1,0 +1,10 @@
+{
+    "id": 512234,
+    "name": "oncommand_system_manager",
+    "version": "9.3",
+    "created_at": "2020-03-26T16:12:08",
+    "updated_at": "2020-03-26T16:12:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:oncommand_system_manager:9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

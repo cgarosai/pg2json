@@ -1,0 +1,10 @@
+{
+    "id": 299206,
+    "name": "p9_firmware",
+    "version": "eva-al10c00b389",
+    "created_at": "2019-07-15T14:40:49",
+    "updated_at": "2019-07-15T14:40:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p9_firmware:eva-al10c00b389:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

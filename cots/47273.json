@@ -1,0 +1,10 @@
+{
+    "id": 47273,
+    "name": "pure-ftpd",
+    "version": "0.95",
+    "created_at": "2011-06-30T13:03:23",
+    "updated_at": "2011-06-30T13:03:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pureftpd:pure-ftpd:0.95:pre3:*:*:*:*:*:*",
+    "to_analyse": false
+}

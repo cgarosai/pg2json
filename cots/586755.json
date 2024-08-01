@@ -1,0 +1,10 @@
+{
+    "id": 586755,
+    "name": "3par_service_provider",
+    "version": "sp-4.4.0",
+    "created_at": "2020-08-17T14:11:55",
+    "updated_at": "2020-08-17T14:11:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:3par_service_provider:sp-4.4.0:ga-22:*:*:*:*:*:*",
+    "to_analyse": false
+}

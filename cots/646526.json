@@ -1,0 +1,10 @@
+{
+    "id": 646526,
+    "name": "future-utils",
+    "version": "0.1.29",
+    "created_at": "2021-01-08T14:37:05",
+    "updated_at": "2021-01-08T14:37:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:future-utils:0.1.29:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

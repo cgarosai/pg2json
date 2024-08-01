@@ -1,0 +1,10 @@
+{
+    "id": 96060,
+    "name": "c54apm_firmware",
+    "version": "1.26",
+    "created_at": "2014-05-05T13:25:58",
+    "updated_at": "2014-05-05T14:55:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:conceptronic:c54apm_firmware:1.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

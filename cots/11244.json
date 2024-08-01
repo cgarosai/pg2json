@@ -1,0 +1,10 @@
+{
+    "id": 11244,
+    "name": "insight_management_agent",
+    "version": "4.37",
+    "created_at": "2008-01-02T17:16:21",
+    "updated_at": "2008-01-02T17:16:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:compaq:insight_management_agent:4.37:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

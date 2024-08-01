@@ -1,0 +1,10 @@
+{
+    "id": 987717,
+    "name": "information_server",
+    "version": "2.9.5",
+    "created_at": "2022-12-08T13:56:21",
+    "updated_at": "2022-12-08T17:23:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kwoksys:information_server:2.9.5:sp25:*:*:*:*:*:*",
+    "to_analyse": false
+}

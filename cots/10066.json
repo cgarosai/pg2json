@@ -1,0 +1,10 @@
+{
+    "id": 10066,
+    "name": "windows_2003_server",
+    "version": "-",
+    "created_at": "2007-09-12T20:53:23",
+    "updated_at": "2008-04-07T12:30:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_2003_server:-:gold:itanium:*:*:*:*:*",
+    "to_analyse": false
+}

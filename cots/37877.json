@@ -1,0 +1,10 @@
+{
+    "id": 37877,
+    "name": "scilab",
+    "version": "2.6",
+    "created_at": "2010-10-21T15:23:36",
+    "updated_at": "2010-10-21T19:04:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scilab:scilab:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

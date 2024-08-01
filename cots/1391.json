@@ -1,0 +1,10 @@
+{
+    "id": 1391,
+    "name": "etrust_admin",
+    "version": "2.07",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2021-04-09T11:51:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:etrust_admin:2.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

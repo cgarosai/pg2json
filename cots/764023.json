@@ -1,0 +1,10 @@
+{
+    "id": 764023,
+    "name": "pluto",
+    "version": "-",
+    "created_at": "2021-09-02T12:45:58",
+    "updated_at": "2021-09-02T16:46:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:pluto:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

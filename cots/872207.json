@@ -1,0 +1,10 @@
+{
+    "id": 872207,
+    "name": "nsa5650",
+    "version": "-",
+    "created_at": "2022-05-06T10:57:14",
+    "updated_at": "2022-06-16T13:09:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:nsa5650:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

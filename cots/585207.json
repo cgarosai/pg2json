@@ -1,0 +1,10 @@
+{
+    "id": 585207,
+    "name": "p2p",
+    "version": "3.0.3",
+    "created_at": "2020-08-12T15:44:17",
+    "updated_at": "2020-08-12T15:44:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cs2-network:p2p:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

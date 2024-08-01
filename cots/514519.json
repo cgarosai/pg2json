@@ -1,0 +1,10 @@
+{
+    "id": 514519,
+    "name": "pxc200-e.d_firmware",
+    "version": "6.00.320",
+    "created_at": "2020-03-31T15:35:40",
+    "updated_at": "2020-03-31T15:35:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:pxc200-e.d_firmware:6.00.320:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

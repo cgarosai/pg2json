@@ -1,0 +1,10 @@
+{
+    "id": 1045510,
+    "name": "scylla",
+    "version": "3.1.0",
+    "created_at": "2023-03-06T21:31:17",
+    "updated_at": "2023-03-07T12:15:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scylladb:scylla:3.1.0:rc2:*:*:open_source:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1030961,
+    "name": "fpga_add-on",
+    "version": "-",
+    "created_at": "2023-02-28T17:57:46",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:fpga_add-on:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

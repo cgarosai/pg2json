@@ -1,0 +1,10 @@
+{
+    "id": 920165,
+    "name": "82599_10_gigabit_ethernet_controller",
+    "version": "-",
+    "created_at": "2022-08-25T11:32:20",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:82599_10_gigabit_ethernet_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

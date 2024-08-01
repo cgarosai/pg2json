@@ -1,0 +1,10 @@
+{
+    "id": 194812,
+    "name": "infinity_delta_firmware",
+    "version": "-",
+    "created_at": "2019-01-29T18:55:36",
+    "updated_at": "2021-06-17T16:01:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:draeger:infinity_delta_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

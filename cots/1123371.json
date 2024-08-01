@@ -1,0 +1,10 @@
+{
+    "id": 1123371,
+    "name": "ip-he900e_firmware",
+    "version": "v01l010",
+    "created_at": "2023-08-02T15:12:33",
+    "updated_at": "2023-08-11T22:01:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:ip-he900e_firmware:v01l010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

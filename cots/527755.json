@@ -1,0 +1,10 @@
+{
+    "id": 527755,
+    "name": "azure_log_analytics_nozzle",
+    "version": "-",
+    "created_at": "2020-04-01T18:19:02",
+    "updated_at": "2020-04-01T18:19:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_log_analytics_nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

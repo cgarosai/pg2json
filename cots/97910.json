@@ -1,0 +1,10 @@
+{
+    "id": 97910,
+    "name": "x3270",
+    "version": "3.3.7",
+    "created_at": "2014-05-28T12:38:30",
+    "updated_at": "2014-05-30T16:43:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paul_mattes:x3270:3.3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

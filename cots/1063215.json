@@ -1,0 +1,10 @@
+{
+    "id": 1063215,
+    "name": "snowflake_jdbc",
+    "version": "3.12.12",
+    "created_at": "2023-04-21T11:52:46",
+    "updated_at": "2023-04-25T15:31:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snowflake:snowflake_jdbc:3.12.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

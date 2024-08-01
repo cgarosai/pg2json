@@ -1,0 +1,10 @@
+{
+    "id": 999709,
+    "name": "lite-server",
+    "version": "-",
+    "created_at": "2022-12-22T14:17:59",
+    "updated_at": "2022-12-22T14:50:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lite-server_project:lite-server:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

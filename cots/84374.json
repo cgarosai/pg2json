@@ -1,0 +1,10 @@
+{
+    "id": 84374,
+    "name": "linux-pam",
+    "version": "1.1.8",
+    "created_at": "2014-04-11T13:47:20",
+    "updated_at": "2019-01-03T14:01:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:linux-pam:1.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

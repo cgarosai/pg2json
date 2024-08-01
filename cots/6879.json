@@ -1,0 +1,10 @@
+{
+    "id": 6879,
+    "name": "access_manager_identity_server",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:40:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:access_manager_identity_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

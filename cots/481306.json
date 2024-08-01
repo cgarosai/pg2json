@@ -1,0 +1,10 @@
+{
+    "id": 481306,
+    "name": "libpoe-component-irc-perl",
+    "version": "6.26",
+    "created_at": "2020-02-05T14:08:12",
+    "updated_at": "2020-02-05T14:08:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libpoe-component-irc-perl_project:libpoe-component-irc-perl:6.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

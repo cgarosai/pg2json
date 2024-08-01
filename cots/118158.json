@@ -1,0 +1,10 @@
+{
+    "id": 118158,
+    "name": "openstack_cloud",
+    "version": "5",
+    "created_at": "2016-06-03T18:48:56",
+    "updated_at": "2021-08-04T14:32:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

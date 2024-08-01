@@ -1,0 +1,10 @@
+{
+    "id": 820330,
+    "name": "http-server-node",
+    "version": "1.0.0",
+    "created_at": "2021-12-22T14:46:02",
+    "updated_at": "2022-01-04T14:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http-server-node_project:http-server-node:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

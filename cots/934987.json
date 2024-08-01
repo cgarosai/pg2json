@@ -1,0 +1,10 @@
+{
+    "id": 934987,
+    "name": "d8s-netstrings",
+    "version": "0.1.0",
+    "created_at": "2022-09-21T04:43:11",
+    "updated_at": "2023-07-08T01:28:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:d8s-netstrings_project:d8s-netstrings:0.1.0:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1066158,
+    "name": "agent",
+    "version": "5.7.9",
+    "created_at": "2023-04-07T12:07:29",
+    "updated_at": "2023-04-07T12:24:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trellix:agent:5.7.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

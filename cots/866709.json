@@ -1,0 +1,10 @@
+{
+    "id": 866709,
+    "name": "frontend",
+    "version": "5.4.0",
+    "created_at": "2022-03-24T15:02:32",
+    "updated_at": "2022-04-29T13:45:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zabbix:frontend:5.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

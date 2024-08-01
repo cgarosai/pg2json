@@ -1,0 +1,10 @@
+{
+    "id": 324742,
+    "name": "nextcloud",
+    "version": "20161224",
+    "created_at": "2019-08-06T10:13:30",
+    "updated_at": "2019-08-06T10:13:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:nextcloud:20161224:beta:*:*:*:android:*:*",
+    "to_analyse": false
+}

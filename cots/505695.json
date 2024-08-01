@@ -1,0 +1,10 @@
+{
+    "id": 505695,
+    "name": "bson",
+    "version": "3.1.2",
+    "created_at": "2020-02-28T15:43:35",
+    "updated_at": "2020-02-28T15:43:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:bson:3.1.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

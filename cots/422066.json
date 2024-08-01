@@ -1,0 +1,10 @@
+{
+    "id": 422066,
+    "name": "fmt",
+    "version": "5.2.1",
+    "created_at": "2019-11-06T15:08:22",
+    "updated_at": "2019-11-06T15:08:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fmt:fmt:5.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

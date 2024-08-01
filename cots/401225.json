@@ -1,0 +1,10 @@
+{
+    "id": 401225,
+    "name": "libofx",
+    "version": "0.7.0",
+    "created_at": "2019-10-16T12:19:52",
+    "updated_at": "2019-10-16T12:19:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libofx_project:libofx:0.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

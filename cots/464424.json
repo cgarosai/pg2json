@@ -1,0 +1,10 @@
+{
+    "id": 464424,
+    "name": "pulsera_firmware",
+    "version": "-",
+    "created_at": "2020-01-08T00:57:44",
+    "updated_at": "2021-06-25T15:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:philips:pulsera_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

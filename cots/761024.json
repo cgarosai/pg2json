@@ -1,0 +1,10 @@
+{
+    "id": 761024,
+    "name": "nb800",
+    "version": "-",
+    "created_at": "2021-08-26T14:23:22",
+    "updated_at": "2021-08-26T15:15:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:netmodule:nb800:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 673419,
+    "name": "hmp300_firmware",
+    "version": "-",
+    "created_at": "2021-03-24T17:54:37",
+    "updated_at": "2021-05-27T11:47:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:spinetix:hmp300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

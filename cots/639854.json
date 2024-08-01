@@ -1,0 +1,10 @@
+{
+    "id": 639854,
+    "name": "apq8052_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:52:22",
+    "updated_at": "2020-12-21T12:52:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:apq8052_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

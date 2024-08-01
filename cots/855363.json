@@ -1,0 +1,10 @@
+{
+    "id": 855363,
+    "name": "netweaver_as_abap",
+    "version": "krnl64nuc_8.04",
+    "created_at": "2022-02-25T16:46:35",
+    "updated_at": "2022-10-05T12:16:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_as_abap:krnl64nuc_8.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

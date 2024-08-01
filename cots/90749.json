@@ -1,0 +1,10 @@
+{
+    "id": 90749,
+    "name": "logstash",
+    "version": "1.1.0",
+    "created_at": "2014-07-22T15:27:09",
+    "updated_at": "2019-06-17T13:48:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elasticsearch:logstash:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

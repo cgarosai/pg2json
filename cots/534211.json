@@ -1,0 +1,10 @@
+{
+    "id": 534211,
+    "name": "ignition_gateway",
+    "version": "7.2.6.128",
+    "created_at": "2020-05-04T13:59:34",
+    "updated_at": "2020-05-04T13:59:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inductiveautomation:ignition_gateway:7.2.6.128:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

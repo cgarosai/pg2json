@@ -1,0 +1,10 @@
+{
+    "id": 193028,
+    "name": "nvr500_firmware",
+    "version": "rev.11.00.36",
+    "created_at": "2019-01-15T17:56:42",
+    "updated_at": "2021-06-28T16:17:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yamaha:nvr500_firmware:rev.11.00.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

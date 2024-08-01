@@ -1,0 +1,10 @@
+{
+    "id": 773541,
+    "name": "taro",
+    "version": "2.2.0",
+    "created_at": "2021-09-23T15:48:33",
+    "updated_at": "2021-09-23T16:16:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taro:taro:2.2.0:beta0:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

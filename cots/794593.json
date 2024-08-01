@@ -1,0 +1,10 @@
+{
+    "id": 794593,
+    "name": "ontap_system_manager",
+    "version": "9.7",
+    "created_at": "2021-11-02T15:55:50",
+    "updated_at": "2021-12-16T19:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:ontap_system_manager:9.7:p16:*:*:*:*:*:*",
+    "to_analyse": false
+}

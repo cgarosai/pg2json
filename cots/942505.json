@@ -1,0 +1,10 @@
+{
+    "id": 942505,
+    "name": "sinec-nms",
+    "version": "1.0",
+    "created_at": "2022-10-06T14:40:44",
+    "updated_at": "2022-11-14T14:10:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:sinec-nms:1.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

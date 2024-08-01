@@ -1,0 +1,10 @@
+{
+    "id": 24341,
+    "name": "splunk",
+    "version": "4.0.4",
+    "created_at": "2010-06-24T13:00:53",
+    "updated_at": "2013-04-12T12:23:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splunk:splunk:4.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

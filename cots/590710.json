@@ -1,0 +1,10 @@
+{
+    "id": 590710,
+    "name": "v100_firmware",
+    "version": "1.20",
+    "created_at": "2020-09-16T10:48:09",
+    "updated_at": "2020-09-16T10:48:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intellian:v100_firmware:1.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 111245,
+    "name": "faq",
+    "version": "2.0.3",
+    "created_at": "2016-09-19T15:48:23",
+    "updated_at": "2016-09-19T15:48:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:faq:2.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

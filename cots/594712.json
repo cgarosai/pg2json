@@ -1,0 +1,10 @@
+{
+    "id": 594712,
+    "name": "asterisk_gui",
+    "version": "2.1.0",
+    "created_at": "2020-09-24T14:47:21",
+    "updated_at": "2020-09-24T14:47:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digium:asterisk_gui:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

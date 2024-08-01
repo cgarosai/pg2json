@@ -1,0 +1,10 @@
+{
+    "id": 707545,
+    "name": "wap581_firmware",
+    "version": "1.0.4.4",
+    "created_at": "2021-05-12T11:05:36",
+    "updated_at": "2021-05-26T12:12:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:wap581_firmware:1.0.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

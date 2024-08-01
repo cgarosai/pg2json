@@ -1,0 +1,10 @@
+{
+    "id": 63934,
+    "name": "opera_browser",
+    "version": "12.02",
+    "created_at": "2013-01-02T16:57:37",
+    "updated_at": "2013-01-04T19:29:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opera:opera_browser:12.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

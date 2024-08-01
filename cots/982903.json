@@ -1,0 +1,10 @@
+{
+    "id": 982903,
+    "name": "cloudwatch_agent",
+    "version": "1.247354.0",
+    "created_at": "2022-12-13T13:54:11",
+    "updated_at": "2022-12-13T14:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:cloudwatch_agent:1.247354.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

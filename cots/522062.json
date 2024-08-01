@@ -1,0 +1,10 @@
+{
+    "id": 522062,
+    "name": "ne40e_firmware",
+    "version": "-",
+    "created_at": "2020-04-07T16:19:13",
+    "updated_at": "2020-04-07T16:19:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ne40e_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

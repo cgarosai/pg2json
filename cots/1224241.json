@@ -1,0 +1,10 @@
+{
+    "id": 1224241,
+    "name": "activeadmin",
+    "version": "1.4.3",
+    "created_at": "2024-01-04T15:46:50",
+    "updated_at": "2024-01-04T15:46:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:activeadmin:activeadmin:1.4.3:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

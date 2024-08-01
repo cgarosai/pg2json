@@ -1,0 +1,10 @@
+{
+    "id": 184899,
+    "name": "pony_mail",
+    "version": "0.8",
+    "created_at": "2018-11-26T17:49:30",
+    "updated_at": "2018-11-26T17:49:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:pony_mail:0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

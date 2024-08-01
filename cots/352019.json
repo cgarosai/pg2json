@@ -1,0 +1,10 @@
+{
+    "id": 352019,
+    "name": "nokogiri",
+    "version": "1.8.3",
+    "created_at": "2019-09-09T13:08:00",
+    "updated_at": "2019-09-09T13:08:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nokogiri:nokogiri:1.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

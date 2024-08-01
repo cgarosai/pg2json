@@ -1,0 +1,10 @@
+{
+    "id": 199621,
+    "name": "proliant_microserver_gen8",
+    "version": "-",
+    "created_at": "2019-01-03T14:59:25",
+    "updated_at": "2021-06-24T15:41:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:proliant_microserver_gen8:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

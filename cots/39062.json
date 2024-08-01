@@ -1,0 +1,10 @@
+{
+    "id": 39062,
+    "name": "safari",
+    "version": "5.0.2",
+    "created_at": "2010-11-17T17:21:57",
+    "updated_at": "2010-11-19T17:32:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:safari:5.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

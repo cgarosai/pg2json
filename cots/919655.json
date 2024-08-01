@@ -1,0 +1,10 @@
+{
+    "id": 919655,
+    "name": "wp_visitor_statistics",
+    "version": "3.13",
+    "created_at": "2022-08-04T14:00:32",
+    "updated_at": "2022-08-04T14:16:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_visitor_statistics_project:wp_visitor_statistics:3.13:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

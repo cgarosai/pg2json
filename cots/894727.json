@@ -1,0 +1,10 @@
+{
+    "id": 894727,
+    "name": "cray_ex_supercomputers",
+    "version": "-",
+    "created_at": "2022-07-05T13:10:33",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hpe:cray_ex_supercomputers:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

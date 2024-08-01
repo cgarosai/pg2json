@@ -1,0 +1,10 @@
+{
+    "id": 64857,
+    "name": "firefly_media_server",
+    "version": "1.0.0.1359",
+    "created_at": "2013-01-18T18:51:47",
+    "updated_at": "2013-01-18T21:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fireflymediaserver:firefly_media_server:1.0.0.1359:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

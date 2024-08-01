@@ -1,0 +1,10 @@
+{
+    "id": 951511,
+    "name": "linux_kernel",
+    "version": "4.19.191",
+    "created_at": "2022-10-25T20:50:09",
+    "updated_at": "2022-10-25T20:57:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:4.19.191:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 557408,
+    "name": "multi_server",
+    "version": "6.90",
+    "created_at": "2020-06-02T13:53:30",
+    "updated_at": "2020-06-02T13:53:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysax:multi_server:6.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

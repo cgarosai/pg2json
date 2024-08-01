@@ -1,0 +1,10 @@
+{
+    "id": 192819,
+    "name": "nuc_kit_firmware",
+    "version": "-",
+    "created_at": "2019-01-15T13:53:36",
+    "updated_at": "2021-05-25T19:28:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:nuc_kit_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

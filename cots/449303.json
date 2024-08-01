@@ -1,0 +1,10 @@
+{
+    "id": 449303,
+    "name": "gs1900-16_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T15:50:22",
+    "updated_at": "2019-12-02T15:50:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:gs1900-16_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

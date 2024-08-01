@@ -1,0 +1,10 @@
+{
+    "id": 678456,
+    "name": "kubernetes-client",
+    "version": "5.0.0",
+    "created_at": "2021-03-17T14:31:09",
+    "updated_at": "2021-04-08T14:41:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:kubernetes-client:5.0.0:alpha3:*:*:*:*:*:*",
+    "to_analyse": false
+}

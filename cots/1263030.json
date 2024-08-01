@@ -1,0 +1,10 @@
+{
+    "id": 1263030,
+    "name": "save_as_pdf",
+    "version": "3.2.2",
+    "created_at": "2024-06-05T10:32:13",
+    "updated_at": "2024-06-05T10:32:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pdfcrowd:save_as_pdf:3.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

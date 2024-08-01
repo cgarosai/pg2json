@@ -1,0 +1,10 @@
+{
+    "id": 395890,
+    "name": "psensor",
+    "version": "0.2.5",
+    "created_at": "2019-09-27T13:07:55",
+    "updated_at": "2019-09-27T16:42:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:psensor_project:psensor:0.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

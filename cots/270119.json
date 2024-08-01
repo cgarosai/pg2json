@@ -1,0 +1,10 @@
+{
+    "id": 270119,
+    "name": "libcaca",
+    "version": "0.99",
+    "created_at": "2019-06-26T11:47:06",
+    "updated_at": "2019-06-26T11:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libcaca_project:libcaca:0.99:beta18:*:*:*:*:*:*",
+    "to_analyse": false
+}

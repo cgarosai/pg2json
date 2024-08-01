@@ -1,0 +1,10 @@
+{
+    "id": 626145,
+    "name": "r08cpu_firmware",
+    "version": "51",
+    "created_at": "2020-11-30T17:28:08",
+    "updated_at": "2021-05-24T12:07:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:r08cpu_firmware:51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

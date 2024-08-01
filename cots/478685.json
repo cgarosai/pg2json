@@ -1,0 +1,10 @@
+{
+    "id": 478685,
+    "name": "db2_high_performance_unload_load",
+    "version": "6.1.0.3",
+    "created_at": "2020-01-14T18:26:07",
+    "updated_at": "2020-01-14T18:26:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2_high_performance_unload_load:6.1.0.3:interim_fix2:*:*:*:*:*:*",
+    "to_analyse": false
+}

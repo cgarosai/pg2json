@@ -1,0 +1,10 @@
+{
+    "id": 371150,
+    "name": "xd-testing",
+    "version": "0.0.0",
+    "created_at": "2019-09-20T15:06:14",
+    "updated_at": "2019-09-20T15:06:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xd-testing_project:xd-testing:0.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

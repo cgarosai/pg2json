@@ -1,0 +1,10 @@
+{
+    "id": 1219831,
+    "name": "ofbiz",
+    "version": "18.12.10",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:ofbiz:18.12.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

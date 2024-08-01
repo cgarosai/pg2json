@@ -1,0 +1,10 @@
+{
+    "id": 19910,
+    "name": "procurve_switch_4000m",
+    "version": "c.07.23",
+    "created_at": "2007-09-05T19:05:46",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:procurve_switch_4000m:c.07.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 188062,
+    "name": "logrotate",
+    "version": "3.6.10",
+    "created_at": "2018-10-30T12:32:18",
+    "updated_at": "2018-10-30T12:32:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logrotate_project:logrotate:3.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

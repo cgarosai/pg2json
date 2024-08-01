@@ -1,0 +1,10 @@
+{
+    "id": 537459,
+    "name": "application_performance_management",
+    "version": "13.3.0.0",
+    "created_at": "2020-04-17T14:28:30",
+    "updated_at": "2020-04-17T14:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:application_performance_management:13.3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

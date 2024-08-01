@@ -1,0 +1,10 @@
+{
+    "id": 101508,
+    "name": "search_api_autocomplete",
+    "version": "7.x-1.2",
+    "created_at": "2015-09-01T12:03:16",
+    "updated_at": "2015-09-03T16:40:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:search_api_autocomplete_project:search_api_autocomplete:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

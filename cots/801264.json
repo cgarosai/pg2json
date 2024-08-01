@@ -1,0 +1,10 @@
+{
+    "id": 801264,
+    "name": "shardingsphere-ui",
+    "version": "4.1.0",
+    "created_at": "2021-11-15T17:32:11",
+    "updated_at": "2021-11-15T17:32:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:shardingsphere-ui:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

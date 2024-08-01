@@ -1,0 +1,10 @@
+{
+    "id": 689263,
+    "name": "stripe",
+    "version": "0.5.1",
+    "created_at": "2021-04-05T12:16:52",
+    "updated_at": "2021-05-11T12:59:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stripe:stripe:0.5.1:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

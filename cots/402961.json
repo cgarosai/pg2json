@@ -1,0 +1,10 @@
+{
+    "id": 402961,
+    "name": "http.rb",
+    "version": "0.6.2",
+    "created_at": "2019-10-17T10:50:52",
+    "updated_at": "2019-10-17T10:50:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http.rb_project:http.rb:0.6.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

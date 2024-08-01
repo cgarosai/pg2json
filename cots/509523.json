@@ -1,0 +1,10 @@
+{
+    "id": 509523,
+    "name": "nx-os",
+    "version": "5.2\\(1\\)sv5\\(1.2\\)",
+    "created_at": "2020-03-06T12:51:29",
+    "updated_at": "2020-03-06T12:51:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nx-os:5.2\\(1\\)sv5\\(1.2\\):*:*:*:*:vsphere:*:*",
+    "to_analyse": false
+}

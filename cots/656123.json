@@ -1,0 +1,10 @@
+{
+    "id": 656123,
+    "name": "fortilogger",
+    "version": "4.2.5",
+    "created_at": "2021-02-03T14:51:37",
+    "updated_at": "2021-02-03T14:51:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortilogger:fortilogger:4.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

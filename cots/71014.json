@@ -1,0 +1,10 @@
+{
+    "id": 71014,
+    "name": "procurve_switch",
+    "version": "jd008a",
+    "created_at": "2013-07-08T12:45:32",
+    "updated_at": "2013-07-12T15:51:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:procurve_switch:jd008a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

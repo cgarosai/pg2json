@@ -1,0 +1,10 @@
+{
+    "id": 207230,
+    "name": "token_macro",
+    "version": "1.12",
+    "created_at": "2019-02-06T18:53:36",
+    "updated_at": "2019-02-06T18:53:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:token_macro:1.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

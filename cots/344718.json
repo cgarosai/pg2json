@@ -1,0 +1,10 @@
+{
+    "id": 344718,
+    "name": "webtorrent",
+    "version": "0.102.3",
+    "created_at": "2019-09-03T16:49:41",
+    "updated_at": "2019-09-03T16:49:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webtorrent:webtorrent:0.102.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 900907,
+    "name": "csm_server",
+    "version": "3.4",
+    "created_at": "2022-07-14T13:42:38",
+    "updated_at": "2022-07-14T17:11:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:csm_server_project:csm_server:3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

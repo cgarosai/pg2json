@@ -1,0 +1,10 @@
+{
+    "id": 404060,
+    "name": "google_kubernetes_engine",
+    "version": "0.6.2",
+    "created_at": "2019-10-21T10:16:12",
+    "updated_at": "2019-10-21T10:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:google_kubernetes_engine:0.6.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

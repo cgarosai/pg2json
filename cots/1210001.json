@@ -1,0 +1,10 @@
+{
+    "id": 1210001,
+    "name": "umbraco_cms",
+    "version": "13.0.0",
+    "created_at": "2023-12-16T02:35:10",
+    "updated_at": "2023-12-16T02:35:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:umbraco:umbraco_cms:13.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

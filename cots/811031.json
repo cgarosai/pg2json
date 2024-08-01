@@ -1,0 +1,10 @@
+{
+    "id": 811031,
+    "name": "graph_server_and_client",
+    "version": "-",
+    "created_at": "2021-12-01T15:38:39",
+    "updated_at": "2021-12-02T21:36:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:graph_server_and_client:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

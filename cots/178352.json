@@ -1,0 +1,10 @@
+{
+    "id": 178352,
+    "name": "cp100_firmware",
+    "version": "7.80",
+    "created_at": "2018-10-01T13:58:39",
+    "updated_at": "2021-05-25T10:17:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cp100_firmware:7.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

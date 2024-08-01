@@ -1,0 +1,10 @@
+{
+    "id": 399441,
+    "name": "windows-selenium-chromedriver",
+    "version": "0.1.0",
+    "created_at": "2019-10-01T12:35:27",
+    "updated_at": "2019-10-01T12:35:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:windows-selenium-chromedriver_project:windows-selenium-chromedriver:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

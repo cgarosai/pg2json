@@ -1,0 +1,10 @@
+{
+    "id": 805245,
+    "name": "validator",
+    "version": "4.4.0",
+    "created_at": "2021-11-03T14:37:04",
+    "updated_at": "2021-11-23T22:55:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:validator_project:validator:4.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

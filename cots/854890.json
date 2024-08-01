@@ -1,0 +1,10 @@
+{
+    "id": 854890,
+    "name": "data_virtualization_on_cloud_pak_for_data",
+    "version": "1.7.1",
+    "created_at": "2022-03-18T18:19:56",
+    "updated_at": "2022-03-22T14:10:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:data_virtualization_on_cloud_pak_for_data:1.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 359936,
+    "name": "marlin_firmware",
+    "version": "1.1.0",
+    "created_at": "2019-09-05T15:54:40",
+    "updated_at": "2019-09-05T15:54:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:marlinfw:marlin_firmware:1.1.0:rc8:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 655147,
+    "name": "qradar_security_information_and_event_manager",
+    "version": "7.4.2",
+    "created_at": "2021-02-02T12:06:29",
+    "updated_at": "2021-02-02T12:06:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

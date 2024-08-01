@@ -1,0 +1,10 @@
+{
+    "id": 457942,
+    "name": "unifi_video_controller",
+    "version": "-",
+    "created_at": "2019-12-09T11:56:47",
+    "updated_at": "2020-12-04T15:33:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ubiquiti:unifi_video_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 990002,
+    "name": "squirrel.windows",
+    "version": "1.2.2",
+    "created_at": "2022-12-23T11:36:12",
+    "updated_at": "2022-12-23T15:48:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squirrel.windows_project:squirrel.windows:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

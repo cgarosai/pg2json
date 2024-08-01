@@ -1,0 +1,10 @@
+{
+    "id": 504572,
+    "name": "change_passwd",
+    "version": "2.0",
+    "created_at": "2020-03-11T13:31:09",
+    "updated_at": "2020-03-11T13:31:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squirrelmail:change_passwd:2.0:*:*:*:*:squirrelmail:*:*",
+    "to_analyse": false
+}

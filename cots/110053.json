@@ -1,0 +1,10 @@
+{
+    "id": 110053,
+    "name": "km632_dongle",
+    "version": "-",
+    "created_at": "2016-08-04T20:53:31",
+    "updated_at": "2021-04-19T14:40:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:km632_dongle:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

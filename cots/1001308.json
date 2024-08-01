@@ -1,0 +1,10 @@
+{
+    "id": 1001308,
+    "name": "authentik",
+    "version": "0.2.2",
+    "created_at": "2023-01-05T14:52:23",
+    "updated_at": "2023-01-05T15:25:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goauthentik:authentik:0.2.2:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

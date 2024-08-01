@@ -1,0 +1,10 @@
+{
+    "id": 433180,
+    "name": "aura_session_manager",
+    "version": "7.0.1",
+    "created_at": "2019-11-20T18:16:11",
+    "updated_at": "2021-03-24T16:02:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:aura_session_manager:7.0.1:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

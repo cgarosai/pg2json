@@ -1,0 +1,10 @@
+{
+    "id": 262993,
+    "name": "smart_trim",
+    "version": "7.x-1.x",
+    "created_at": "2019-06-18T15:26:45",
+    "updated_at": "2019-06-18T15:26:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smart_trim_project:smart_trim:7.x-1.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

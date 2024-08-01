@@ -1,0 +1,10 @@
+{
+    "id": 320934,
+    "name": "misskey",
+    "version": "2.25.2",
+    "created_at": "2019-08-01T14:24:56",
+    "updated_at": "2019-08-01T14:24:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:misskey:misskey:2.25.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

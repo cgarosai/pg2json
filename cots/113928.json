@@ -1,0 +1,10 @@
+{
+    "id": 113928,
+    "name": "netscaler_gateway_firmware",
+    "version": "10.5",
+    "created_at": "2017-01-04T19:21:00",
+    "updated_at": "2017-01-04T19:21:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:citrix:netscaler_gateway_firmware:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

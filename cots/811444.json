@@ -1,0 +1,10 @@
+{
+    "id": 811444,
+    "name": "wi-fi_station_sh-52a_firmware",
+    "version": "38jp_1_26g",
+    "created_at": "2021-12-02T16:03:24",
+    "updated_at": "2022-08-01T14:36:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nttdocomo:wi-fi_station_sh-52a_firmware:38jp_1_26g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

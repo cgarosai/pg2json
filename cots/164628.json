@@ -1,0 +1,10 @@
+{
+    "id": 164628,
+    "name": "core_i5",
+    "version": "7640x",
+    "created_at": "2018-09-05T10:53:19",
+    "updated_at": "2018-09-05T10:53:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:7640x:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

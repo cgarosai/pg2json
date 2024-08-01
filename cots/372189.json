@@ -1,0 +1,10 @@
+{
+    "id": 372189,
+    "name": "mastodon",
+    "version": "1.4",
+    "created_at": "2019-09-23T09:24:35",
+    "updated_at": "2019-09-23T09:24:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joinmastodon:mastodon:1.4:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

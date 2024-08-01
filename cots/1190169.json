@@ -1,0 +1,10 @@
+{
+    "id": 1190169,
+    "name": "sentry_software_development_kit",
+    "version": "7.29.0",
+    "created_at": "2023-11-15T18:25:22",
+    "updated_at": "2023-11-15T18:25:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sentry:sentry_software_development_kit:7.29.0:*:*:*:*:next.js:*:*",
+    "to_analyse": false
+}

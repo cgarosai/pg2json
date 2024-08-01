@@ -1,0 +1,10 @@
+{
+    "id": 618067,
+    "name": "whatsapp",
+    "version": "173.0.0.29.505",
+    "created_at": "2020-11-06T11:02:47",
+    "updated_at": "2020-11-06T11:02:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whatsapp:whatsapp:173.0.0.29.505:*:*:*:*:portal:*:*",
+    "to_analyse": false
+}

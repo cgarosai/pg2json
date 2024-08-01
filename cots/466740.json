@@ -1,0 +1,10 @@
+{
+    "id": 466740,
+    "name": "sylius",
+    "version": "1.4.9",
+    "created_at": "2019-12-17T11:18:12",
+    "updated_at": "2019-12-17T11:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sylius:sylius:1.4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

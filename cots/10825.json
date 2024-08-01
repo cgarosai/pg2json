@@ -1,0 +1,10 @@
+{
+    "id": 10825,
+    "name": "imail_client",
+    "version": "9.22",
+    "created_at": "2007-11-01T13:57:09",
+    "updated_at": "2012-08-20T16:31:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:imail_client:9.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

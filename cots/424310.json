@@ -1,0 +1,10 @@
+{
+    "id": 424310,
+    "name": "bracket-template",
+    "version": "1.1.0",
+    "created_at": "2019-11-08T16:59:24",
+    "updated_at": "2019-11-08T16:59:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bracket-template_project:bracket-template:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

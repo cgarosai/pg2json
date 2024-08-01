@@ -1,0 +1,10 @@
+{
+    "id": 657660,
+    "name": "cryptography",
+    "version": "2.9.2",
+    "created_at": "2021-02-08T14:11:52",
+    "updated_at": "2021-02-08T14:11:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cryptography_project:cryptography:2.9.2:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

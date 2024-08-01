@@ -1,0 +1,10 @@
+{
+    "id": 192655,
+    "name": "bitlocker",
+    "version": "-",
+    "created_at": "2019-01-11T18:49:31",
+    "updated_at": "2019-01-11T18:49:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:bitlocker:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

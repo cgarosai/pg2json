@@ -1,0 +1,10 @@
+{
+    "id": 595249,
+    "name": "sliced_invoices",
+    "version": "3.8.7",
+    "created_at": "2020-09-03T10:45:56",
+    "updated_at": "2020-09-03T10:45:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slicedinvoices:sliced_invoices:3.8.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

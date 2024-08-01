@@ -1,0 +1,10 @@
+{
+    "id": 1186543,
+    "name": "policy_automation",
+    "version": "12.2.13",
+    "created_at": "2023-10-25T12:02:18",
+    "updated_at": "2023-10-25T12:02:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:policy_automation:12.2.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

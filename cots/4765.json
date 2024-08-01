@@ -1,0 +1,10 @@
+{
+    "id": 4765,
+    "name": "linux_kernel",
+    "version": "2.6.21",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-14T18:20:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:2.6.21:git4:*:*:*:*:*:*",
+    "to_analyse": false
+}

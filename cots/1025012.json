@@ -1,0 +1,10 @@
+{
+    "id": 1025012,
+    "name": "act",
+    "version": "-",
+    "created_at": "2023-01-31T16:13:32",
+    "updated_at": "2023-02-03T15:32:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:act_project:act:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

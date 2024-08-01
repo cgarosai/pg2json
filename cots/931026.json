@@ -1,0 +1,10 @@
+{
+    "id": 931026,
+    "name": "samsung_pay_kr",
+    "version": "5.0.63",
+    "created_at": "2022-09-12T14:03:50",
+    "updated_at": "2022-09-12T16:08:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:samsung_pay_kr:5.0.63:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

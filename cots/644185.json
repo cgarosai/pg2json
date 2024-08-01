@@ -1,0 +1,10 @@
+{
+    "id": 644185,
+    "name": "smartagent",
+    "version": "3.1.0",
+    "created_at": "2021-01-29T23:19:27",
+    "updated_at": "2021-06-21T12:30:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:missionlabs:smartagent:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

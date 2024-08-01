@@ -1,0 +1,10 @@
+{
+    "id": 869215,
+    "name": "multilin_l60_firmware",
+    "version": "8.10",
+    "created_at": "2022-03-31T16:14:34",
+    "updated_at": "2022-04-01T11:23:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:multilin_l60_firmware:8.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

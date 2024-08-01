@@ -1,0 +1,10 @@
+{
+    "id": 260143,
+    "name": "winlogbeat",
+    "version": "5.5.2",
+    "created_at": "2019-06-17T14:01:03",
+    "updated_at": "2019-06-17T14:01:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:winlogbeat:5.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 883369,
+    "name": "kr_c4_firmware",
+    "version": "8.7",
+    "created_at": "2022-06-07T12:20:18",
+    "updated_at": "2022-10-28T11:43:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:kuka:kr_c4_firmware:8.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

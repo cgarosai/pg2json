@@ -1,0 +1,10 @@
+{
+    "id": 976113,
+    "name": "global_variable_string_parameter",
+    "version": "-",
+    "created_at": "2022-11-23T12:12:37",
+    "updated_at": "2022-11-23T12:27:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:global_variable_string_parameter:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

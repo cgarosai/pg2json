@@ -1,0 +1,10 @@
+{
+    "id": 93122,
+    "name": "date",
+    "version": "7.x-2.7",
+    "created_at": "2014-10-24T16:10:35",
+    "updated_at": "2014-12-29T13:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:date_project:date:7.x-2.7:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

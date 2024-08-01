@@ -1,0 +1,10 @@
+{
+    "id": 1189521,
+    "name": "connect_m",
+    "version": "1.82",
+    "created_at": "2023-10-27T12:19:53",
+    "updated_at": "2023-10-27T12:19:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:connect_m:1.82:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

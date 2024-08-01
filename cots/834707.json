@@ -1,0 +1,10 @@
+{
+    "id": 834707,
+    "name": "desktop",
+    "version": "1.9.8",
+    "created_at": "2022-02-03T12:16:29",
+    "updated_at": "2022-02-08T14:39:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:element:desktop:1.9.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

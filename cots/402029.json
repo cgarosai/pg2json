@@ -1,0 +1,10 @@
+{
+    "id": 402029,
+    "name": "devise-two-factor",
+    "version": "1.1.0",
+    "created_at": "2019-10-16T14:55:07",
+    "updated_at": "2019-10-16T14:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tinfoilsecurity:devise-two-factor:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

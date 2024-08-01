@@ -1,0 +1,10 @@
+{
+    "id": 1014338,
+    "name": "google_analyticator",
+    "version": "6.5.6",
+    "created_at": "2023-01-30T14:55:49",
+    "updated_at": "2023-01-30T14:57:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sumo:google_analyticator:6.5.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

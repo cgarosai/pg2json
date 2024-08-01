@@ -1,0 +1,10 @@
+{
+    "id": 1214547,
+    "name": "ilc_3xx_firmware",
+    "version": "-",
+    "created_at": "2023-12-20T12:30:13",
+    "updated_at": "2023-12-20T12:30:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:ilc_3xx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

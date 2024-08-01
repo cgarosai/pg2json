@@ -1,0 +1,10 @@
+{
+    "id": 399746,
+    "name": "anti.virus",
+    "version": "2.16.7",
+    "created_at": "2019-10-01T13:22:13",
+    "updated_at": "2019-10-01T13:22:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ikarussecurity:anti.virus:2.16.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

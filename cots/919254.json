@@ -1,0 +1,10 @@
+{
+    "id": 919254,
+    "name": "apache_calcite_avatica",
+    "version": "1.18.0",
+    "created_at": "2022-08-03T12:31:02",
+    "updated_at": "2022-08-03T12:55:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:apache_calcite_avatica:1.18.0:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 135811,
+    "name": "enterprise_mobility_manager",
+    "version": "2.2.0",
+    "created_at": "2017-09-27T23:51:07",
+    "updated_at": "2021-06-17T15:29:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wso2:enterprise_mobility_manager:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

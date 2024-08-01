@@ -1,0 +1,10 @@
+{
+    "id": 195797,
+    "name": "banking_payments",
+    "version": "12.3.0",
+    "created_at": "2018-12-02T01:10:30",
+    "updated_at": "2018-12-02T01:10:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:banking_payments:12.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 54132,
+    "name": "product_authentication_service_client",
+    "version": "4.3.32.0",
+    "created_at": "2012-07-10T01:22:12",
+    "updated_at": "2012-07-10T01:22:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:product_authentication_service_client:4.3.32.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

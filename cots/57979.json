@@ -1,0 +1,10 @@
+{
+    "id": 57979,
+    "name": "h.264_decoder",
+    "version": "1.1.0",
+    "created_at": "2012-05-08T11:53:39",
+    "updated_at": "2012-05-08T11:53:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:divx:h.264_decoder:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 325512,
+    "name": "client",
+    "version": "3.5.49863.0509",
+    "created_at": "2019-07-31T11:05:28",
+    "updated_at": "2020-04-07T17:24:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:client:3.5.49863.0509:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

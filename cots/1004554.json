@@ -1,0 +1,10 @@
+{
+    "id": 1004554,
+    "name": "ghidra",
+    "version": "9.1.2",
+    "created_at": "2023-01-11T13:23:47",
+    "updated_at": "2023-01-11T15:08:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nsa:ghidra:9.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

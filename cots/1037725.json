@@ -1,0 +1,10 @@
+{
+    "id": 1037725,
+    "name": "pandora_fms",
+    "version": "765",
+    "created_at": "2023-02-22T14:39:51",
+    "updated_at": "2023-02-22T14:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pandorafms:pandora_fms:765:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

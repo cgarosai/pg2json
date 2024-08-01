@@ -1,0 +1,10 @@
+{
+    "id": 1153104,
+    "name": "jumpserver",
+    "version": "3.4.2",
+    "created_at": "2023-09-22T15:36:08",
+    "updated_at": "2023-09-22T15:36:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fit2cloud:jumpserver:3.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

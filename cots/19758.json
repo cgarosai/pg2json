@@ -1,0 +1,10 @@
+{
+    "id": 19758,
+    "name": "word_viewer",
+    "version": "2003",
+    "created_at": "2007-08-28T19:32:30",
+    "updated_at": "2009-10-14T15:56:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word_viewer:2003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

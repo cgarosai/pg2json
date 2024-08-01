@@ -1,0 +1,10 @@
+{
+    "id": 1072689,
+    "name": "log4cxx",
+    "version": "1.0.0",
+    "created_at": "2023-05-12T14:02:21",
+    "updated_at": "2023-05-15T13:28:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:log4cxx:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

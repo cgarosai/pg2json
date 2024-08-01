@@ -1,0 +1,10 @@
+{
+    "id": 728114,
+    "name": "file-path_module",
+    "version": "2.10",
+    "created_at": "2021-06-11T17:19:12",
+    "updated_at": "2021-06-11T17:25:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jkeenan:file-path_module:2.10:004:*:*:*:perl:*:*",
+    "to_analyse": false
+}

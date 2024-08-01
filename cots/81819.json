@@ -1,0 +1,10 @@
+{
+    "id": 81819,
+    "name": "bean",
+    "version": "7.x-1.2",
+    "created_at": "2014-02-18T16:23:15",
+    "updated_at": "2014-09-03T19:55:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bean_project:bean:7.x-1.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

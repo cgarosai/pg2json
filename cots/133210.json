@@ -1,0 +1,10 @@
+{
+    "id": 133210,
+    "name": "simatic_compact_field_unit_firmware",
+    "version": "-",
+    "created_at": "2018-01-11T14:10:56",
+    "updated_at": "2021-06-28T17:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_compact_field_unit_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

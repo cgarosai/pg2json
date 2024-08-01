@@ -1,0 +1,10 @@
+{
+    "id": 1096011,
+    "name": "ranger",
+    "version": "0.6.2",
+    "created_at": "2023-06-05T12:01:22",
+    "updated_at": "2023-06-05T12:19:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:ranger:0.6.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

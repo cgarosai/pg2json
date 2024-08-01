@@ -1,0 +1,10 @@
+{
+    "id": 60821,
+    "name": "infopath",
+    "version": "2010",
+    "created_at": "2012-10-10T13:56:58",
+    "updated_at": "2013-04-12T12:19:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:infopath:2010:sp1:x86:*:*:*:*:*",
+    "to_analyse": false
+}

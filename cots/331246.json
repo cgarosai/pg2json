@@ -1,0 +1,10 @@
+{
+    "id": 331246,
+    "name": "go-camo",
+    "version": "1.0.2",
+    "created_at": "2019-08-15T12:44:12",
+    "updated_at": "2019-08-15T12:44:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:go-camo_project:go-camo:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

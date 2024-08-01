@@ -1,0 +1,10 @@
+{
+    "id": 486437,
+    "name": "tornado",
+    "version": "3.0.2",
+    "created_at": "2020-01-30T18:39:10",
+    "updated_at": "2020-01-30T18:39:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tornadoweb:tornado:3.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

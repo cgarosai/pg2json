@@ -1,0 +1,10 @@
+{
+    "id": 610250,
+    "name": "standard_manageability",
+    "version": "14.0",
+    "created_at": "2020-11-17T13:12:32",
+    "updated_at": "2020-11-17T13:12:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:standard_manageability:14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

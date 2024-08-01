@@ -1,0 +1,10 @@
+{
+    "id": 602143,
+    "name": "ex60_firmware",
+    "version": "-",
+    "created_at": "2020-10-13T11:01:49",
+    "updated_at": "2020-10-13T11:01:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ex60_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

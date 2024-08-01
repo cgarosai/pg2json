@@ -1,0 +1,10 @@
+{
+    "id": 629282,
+    "name": "webex_meetings_server",
+    "version": "3.0",
+    "created_at": "2020-12-04T17:20:48",
+    "updated_at": "2020-12-04T17:20:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex_meetings_server:3.0:maintenance_release3_service_pack_3:*:*:*:*:*:*",
+    "to_analyse": false
+}

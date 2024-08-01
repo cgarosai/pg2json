@@ -1,0 +1,10 @@
+{
+    "id": 13161,
+    "name": "insight_diagnostics",
+    "version": "7.4.0.1570",
+    "created_at": "2008-10-03T13:21:54",
+    "updated_at": "2008-10-03T13:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:insight_diagnostics:7.4.0.1570:online_windows_server_2003:*:*:*:*:*:*",
+    "to_analyse": false
+}

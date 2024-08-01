@@ -1,0 +1,10 @@
+{
+    "id": 11042,
+    "name": "message_queuing",
+    "version": "-",
+    "created_at": "2007-12-12T14:19:37",
+    "updated_at": "2008-04-01T14:14:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:message_queuing:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

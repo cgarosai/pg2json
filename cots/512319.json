@@ -1,0 +1,10 @@
+{
+    "id": 512319,
+    "name": "exynos",
+    "version": "-",
+    "created_at": "2020-03-26T19:52:21",
+    "updated_at": "2020-03-26T19:52:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:samsung:exynos:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

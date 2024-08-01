@@ -1,0 +1,10 @@
+{
+    "id": 601631,
+    "name": "connection_broker",
+    "version": "8.2.27",
+    "created_at": "2020-10-09T12:10:51",
+    "updated_at": "2020-10-09T12:10:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:leostream:connection_broker:8.2.27:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

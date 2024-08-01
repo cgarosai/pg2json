@@ -1,0 +1,10 @@
+{
+    "id": 512493,
+    "name": "perun",
+    "version": "3.2.3",
+    "created_at": "2020-03-27T13:43:22",
+    "updated_at": "2020-03-27T13:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cesnet:perun:3.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

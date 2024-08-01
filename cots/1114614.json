@@ -1,0 +1,10 @@
+{
+    "id": 1114614,
+    "name": "acme.sh",
+    "version": "2.7.5",
+    "created_at": "2023-07-20T12:29:17",
+    "updated_at": "2023-07-20T12:31:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acme.sh_project:acme.sh:2.7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

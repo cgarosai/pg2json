@@ -1,0 +1,10 @@
+{
+    "id": 20703,
+    "name": "anti-virus",
+    "version": "8.5",
+    "created_at": "2010-01-07T15:09:24",
+    "updated_at": "2010-01-07T15:09:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avg:anti-virus:8.5:-:network:*:*:*:*:*",
+    "to_analyse": false
+}

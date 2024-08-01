@@ -1,0 +1,10 @@
+{
+    "id": 1227414,
+    "name": "cpp14_firmware",
+    "version": "8.20",
+    "created_at": "2023-12-26T12:44:15",
+    "updated_at": "2023-12-26T12:44:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:cpp14_firmware:8.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

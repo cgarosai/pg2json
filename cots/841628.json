@@ -1,0 +1,10 @@
+{
+    "id": 841628,
+    "name": "build_of_quarkus",
+    "version": "-",
+    "created_at": "2022-02-14T19:14:18",
+    "updated_at": "2022-06-06T11:54:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:build_of_quarkus:-:*:*:*:text-only:*:*:*",
+    "to_analyse": false
+}

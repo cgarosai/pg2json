@@ -1,0 +1,10 @@
+{
+    "id": 447223,
+    "name": "sm6150_firmware",
+    "version": "-",
+    "created_at": "2019-11-26T13:33:32",
+    "updated_at": "2019-11-26T13:33:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sm6150_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

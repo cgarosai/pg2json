@@ -1,0 +1,10 @@
+{
+    "id": 379063,
+    "name": "graphics_driver",
+    "version": "15.36.28.4332",
+    "created_at": "2019-09-19T12:40:52",
+    "updated_at": "2019-09-19T12:40:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_driver:15.36.28.4332:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

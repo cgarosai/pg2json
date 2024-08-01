@@ -1,0 +1,10 @@
+{
+    "id": 560600,
+    "name": "samba",
+    "version": "3.0.27",
+    "created_at": "2020-07-10T14:10:18",
+    "updated_at": "2020-07-10T14:10:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samba:samba:3.0.27:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 183014,
+    "name": "kibana_x-pack",
+    "version": "5.4.0",
+    "created_at": "2018-11-21T14:14:12",
+    "updated_at": "2018-11-21T14:14:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:kibana_x-pack:5.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 43224,
+    "name": "miso",
+    "version": "2.2",
+    "created_at": "2012-03-07T14:42:58",
+    "updated_at": "2012-03-07T22:04:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gomiso:miso:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1119350,
+    "name": "metersphere",
+    "version": "1.20.17",
+    "created_at": "2023-07-12T11:17:45",
+    "updated_at": "2023-07-13T12:45:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:metersphere:metersphere:1.20.17:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

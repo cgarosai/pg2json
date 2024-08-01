@@ -1,0 +1,10 @@
+{
+    "id": 58126,
+    "name": "usb_display",
+    "version": "1.42.0",
+    "created_at": "2012-05-14T21:28:57",
+    "updated_at": "2012-05-14T21:28:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:epson:usb_display:1.42.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

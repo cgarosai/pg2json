@@ -1,0 +1,10 @@
+{
+    "id": 1037622,
+    "name": "junit",
+    "version": "1119.1122.v750e65d31b_db",
+    "created_at": "2023-02-21T19:41:50",
+    "updated_at": "2023-02-21T19:44:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:junit:1119.1122.v750e65d31b_db:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

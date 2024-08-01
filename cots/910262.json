@@ -1,0 +1,10 @@
+{
+    "id": 910262,
+    "name": "s3-kilatstorage",
+    "version": "0.1.0",
+    "created_at": "2022-08-05T13:02:45",
+    "updated_at": "2022-08-12T14:58:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:s3-kilatstorage_project:s3-kilatstorage:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

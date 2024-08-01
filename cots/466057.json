@@ -1,0 +1,10 @@
+{
+    "id": 466057,
+    "name": "azure_app_service_on_azure_stack",
+    "version": "1.7",
+    "created_at": "2019-12-14T00:21:22",
+    "updated_at": "2019-12-14T00:21:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_app_service_on_azure_stack:1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

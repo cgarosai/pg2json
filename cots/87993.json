@@ -1,0 +1,10 @@
+{
+    "id": 87993,
+    "name": "exclusion",
+    "version": "0.7",
+    "created_at": "2013-11-26T15:41:51",
+    "updated_at": "2013-11-27T15:14:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins-ci:exclusion:0.7:-:*:*:*:cloudbees_jenkins:*:*",
+    "to_analyse": false
+}

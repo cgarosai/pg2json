@@ -1,0 +1,10 @@
+{
+    "id": 238598,
+    "name": "windows_nt",
+    "version": "4.0",
+    "created_at": "2019-05-07T12:12:13",
+    "updated_at": "2019-05-07T12:12:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_nt:4.0:-:*:*:workstation:*:x86:*",
+    "to_analyse": false
+}

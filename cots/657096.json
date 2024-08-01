@@ -1,0 +1,10 @@
+{
+    "id": 657096,
+    "name": "jinja",
+    "version": "2.1.1",
+    "created_at": "2021-02-05T19:02:21",
+    "updated_at": "2021-02-05T19:02:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:palletsprojects:jinja:2.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

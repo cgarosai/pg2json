@@ -1,0 +1,10 @@
+{
+    "id": 749997,
+    "name": "szchat",
+    "version": "4",
+    "created_at": "2021-07-23T12:04:09",
+    "updated_at": "2021-08-19T13:56:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortics:szchat:4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

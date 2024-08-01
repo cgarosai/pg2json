@@ -1,0 +1,10 @@
+{
+    "id": 1101076,
+    "name": "mt22_firmware",
+    "version": "01.14.00",
+    "created_at": "2023-06-29T09:59:16",
+    "updated_at": "2023-09-09T01:09:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:mt22_firmware:01.14.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

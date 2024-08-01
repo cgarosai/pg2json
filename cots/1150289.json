@@ -1,0 +1,10 @@
+{
+    "id": 1150289,
+    "name": "airflow_hdfs_provider",
+    "version": "-",
+    "created_at": "2023-09-18T15:52:03",
+    "updated_at": "2023-09-18T15:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:airflow_hdfs_provider:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

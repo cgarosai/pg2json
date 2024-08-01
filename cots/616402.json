@@ -1,0 +1,10 @@
+{
+    "id": 616402,
+    "name": "simatic_s7-410_v8_firmware",
+    "version": "8.2.2",
+    "created_at": "2020-10-30T10:11:33",
+    "updated_at": "2020-10-30T10:11:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-410_v8_firmware:8.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

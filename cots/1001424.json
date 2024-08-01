@@ -1,0 +1,10 @@
+{
+    "id": 1001424,
+    "name": "gpu_display_driver",
+    "version": "450.216.04",
+    "created_at": "2023-01-05T16:51:49",
+    "updated_at": "2023-02-24T14:28:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_display_driver:450.216.04:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

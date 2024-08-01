@@ -1,0 +1,10 @@
+{
+    "id": 640035,
+    "name": "octavia",
+    "version": "0.8.0",
+    "created_at": "2021-01-19T21:35:17",
+    "updated_at": "2021-01-19T21:35:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:octavia:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

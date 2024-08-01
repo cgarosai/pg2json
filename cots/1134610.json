@@ -1,0 +1,10 @@
+{
+    "id": 1134610,
+    "name": "user_submitted_posts",
+    "version": "20230809",
+    "created_at": "2023-08-21T15:33:31",
+    "updated_at": "2023-08-22T04:59:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plugin-planet:user_submitted_posts:20230809:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

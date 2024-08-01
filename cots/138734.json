@@ -1,0 +1,10 @@
+{
+    "id": 138734,
+    "name": "windows_server",
+    "version": "2008",
+    "created_at": "2017-11-21T14:33:55",
+    "updated_at": "2022-05-23T15:35:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_server:2008:*:*:*:*:*:itanium:*",
+    "to_analyse": false
+}

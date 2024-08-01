@@ -1,0 +1,10 @@
+{
+    "id": 559586,
+    "name": "openpyxl",
+    "version": "2.6.4",
+    "created_at": "2020-06-10T15:56:14",
+    "updated_at": "2020-06-10T15:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:openpyxl:2.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

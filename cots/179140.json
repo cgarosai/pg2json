@@ -1,0 +1,10 @@
+{
+    "id": 179140,
+    "name": "network_assurance_engine",
+    "version": "2.1\\(1a\\)",
+    "created_at": "2018-10-05T16:46:04",
+    "updated_at": "2021-04-13T09:07:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:network_assurance_engine:2.1\\(1a\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

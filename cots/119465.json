@@ -1,0 +1,10 @@
+{
+    "id": 119465,
+    "name": "asr_5000_software",
+    "version": "17.3.1",
+    "created_at": "2016-06-29T16:37:53",
+    "updated_at": "2016-06-29T16:37:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:asr_5000_software:17.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

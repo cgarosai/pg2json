@@ -1,0 +1,10 @@
+{
+    "id": 137425,
+    "name": "wrp500",
+    "version": "-",
+    "created_at": "2017-10-26T12:35:19",
+    "updated_at": "2021-04-27T13:09:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:wrp500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

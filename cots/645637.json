@@ -1,0 +1,10 @@
+{
+    "id": 645637,
+    "name": "rest\\/json",
+    "version": "7.x-1.5",
+    "created_at": "2021-01-07T11:50:15",
+    "updated_at": "2021-01-07T11:50:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rest\\/json_project:rest\\/json:7.x-1.5:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

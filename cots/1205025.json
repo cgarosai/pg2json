@@ -1,0 +1,10 @@
+{
+    "id": 1205025,
+    "name": "intelligent_broadband_subscriber_gateway",
+    "version": "3.5",
+    "created_at": "2023-11-25T03:34:25",
+    "updated_at": "2023-11-25T03:34:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvki:intelligent_broadband_subscriber_gateway:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

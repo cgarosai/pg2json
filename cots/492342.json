@@ -1,0 +1,10 @@
+{
+    "id": 492342,
+    "name": "airwave_network_management",
+    "version": "8.2.5",
+    "created_at": "2020-02-25T13:24:03",
+    "updated_at": "2021-05-04T11:32:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arubanetworks:airwave_network_management:8.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 976234,
+    "name": "cloudbees_aws_credentials",
+    "version": "1.20",
+    "created_at": "2022-11-23T12:50:04",
+    "updated_at": "2022-11-23T12:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:cloudbees_aws_credentials:1.20:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

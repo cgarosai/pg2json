@@ -1,0 +1,10 @@
+{
+    "id": 628823,
+    "name": "visual_compute_accelerator_2_firmware",
+    "version": "-",
+    "created_at": "2020-12-03T15:46:19",
+    "updated_at": "2020-12-03T15:46:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:visual_compute_accelerator_2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

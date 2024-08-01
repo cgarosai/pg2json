@@ -1,0 +1,10 @@
+{
+    "id": 1167714,
+    "name": "email_security",
+    "version": "-",
+    "created_at": "2023-09-27T07:58:03",
+    "updated_at": "2023-09-27T07:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:forcepoint:email_security:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

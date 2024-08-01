@@ -1,0 +1,10 @@
+{
+    "id": 955757,
+    "name": "tp50_firmware",
+    "version": "oxh1.50",
+    "created_at": "2022-10-17T12:58:41",
+    "updated_at": "2022-10-25T13:44:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oxhoo:tp50_firmware:oxh1.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

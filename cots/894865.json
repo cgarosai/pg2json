@@ -1,0 +1,10 @@
+{
+    "id": 894865,
+    "name": "cics_tx",
+    "version": "-",
+    "created_at": "2022-07-05T15:28:49",
+    "updated_at": "2022-11-07T16:29:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cics_tx:-:*:*:*:standard:*:*:*",
+    "to_analyse": false
+}

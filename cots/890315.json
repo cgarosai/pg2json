@@ -1,0 +1,10 @@
+{
+    "id": 890315,
+    "name": "open_liberty",
+    "version": "19.0.0.12",
+    "created_at": "2022-06-21T13:31:01",
+    "updated_at": "2022-06-21T13:33:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:open_liberty:19.0.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

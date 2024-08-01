@@ -1,0 +1,10 @@
+{
+    "id": 1284283,
+    "name": "sonarqube",
+    "version": "8.8.0.42792",
+    "created_at": "2024-07-30T14:42:48",
+    "updated_at": "2024-07-30T14:42:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonarsource:sonarqube:8.8.0.42792:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

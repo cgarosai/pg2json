@@ -1,0 +1,10 @@
+{
+    "id": 234657,
+    "name": "ic3000-k9_firmware",
+    "version": "1.0.2",
+    "created_at": "2019-05-16T16:32:37",
+    "updated_at": "2021-04-28T13:47:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ic3000-k9_firmware:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

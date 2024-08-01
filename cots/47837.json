@@ -1,0 +1,10 @@
+{
+    "id": 47837,
+    "name": "secure_access_link_gateway",
+    "version": "1.8",
+    "created_at": "2011-08-08T12:14:29",
+    "updated_at": "2011-08-16T13:04:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:secure_access_link_gateway:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

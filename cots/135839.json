@@ -1,0 +1,10 @@
+{
+    "id": 135839,
+    "name": "powerscada_expert",
+    "version": "8.2",
+    "created_at": "2017-09-29T12:12:43",
+    "updated_at": "2021-05-11T11:25:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:powerscada_expert:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

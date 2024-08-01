@@ -1,0 +1,10 @@
+{
+    "id": 689849,
+    "name": "macos_server",
+    "version": "5.11",
+    "created_at": "2021-04-06T18:56:22",
+    "updated_at": "2021-05-22T23:46:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:macos_server:5.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

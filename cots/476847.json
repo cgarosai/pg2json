@@ -1,0 +1,10 @@
+{
+    "id": 476847,
+    "name": "xeon_e-2286m_firmware",
+    "version": "26.20.100.6859",
+    "created_at": "2020-01-13T13:15:42",
+    "updated_at": "2020-01-13T13:15:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e-2286m_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

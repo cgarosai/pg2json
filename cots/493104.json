@@ -1,0 +1,10 @@
+{
+    "id": 493104,
+    "name": "sg300-10p_firmware",
+    "version": "-",
+    "created_at": "2020-02-26T11:57:51",
+    "updated_at": "2020-02-26T11:57:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg300-10p_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

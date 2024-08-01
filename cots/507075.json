@@ -1,0 +1,10 @@
+{
+    "id": 507075,
+    "name": "apport",
+    "version": "2.20.6",
+    "created_at": "2020-03-03T15:28:13",
+    "updated_at": "2020-03-03T15:28:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apport_project:apport:2.20.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

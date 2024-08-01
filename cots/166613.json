@@ -1,0 +1,10 @@
+{
+    "id": 166613,
+    "name": "root",
+    "version": "5-11-01",
+    "created_at": "2018-06-28T15:42:50",
+    "updated_at": "2018-06-28T15:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cern:root:5-11-01:alice:*:*:*:*:*:*",
+    "to_analyse": false
+}

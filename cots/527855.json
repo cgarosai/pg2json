@@ -1,0 +1,10 @@
+{
+    "id": 527855,
+    "name": "single_sign-on",
+    "version": "1.8.4",
+    "created_at": "2020-04-01T18:19:49",
+    "updated_at": "2020-04-01T18:19:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:single_sign-on:1.8.4:*:*:*:*:cloud_foundry:*:*",
+    "to_analyse": false
+}

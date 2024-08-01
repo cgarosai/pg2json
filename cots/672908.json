@@ -1,0 +1,10 @@
+{
+    "id": 672908,
+    "name": "eftl",
+    "version": "6.6.0",
+    "created_at": "2021-03-24T12:41:17",
+    "updated_at": "2021-04-23T12:29:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:eftl:6.6.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

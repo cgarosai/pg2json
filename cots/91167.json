@@ -1,0 +1,10 @@
+{
+    "id": 91167,
+    "name": "mguard_firmware",
+    "version": "6.1.5",
+    "created_at": "2014-07-31T14:22:24",
+    "updated_at": "2014-08-01T18:16:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:innominate:mguard_firmware:6.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

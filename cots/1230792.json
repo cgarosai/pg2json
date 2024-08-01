@@ -1,0 +1,10 @@
+{
+    "id": 1230792,
+    "name": "tapo",
+    "version": "2.11.44",
+    "created_at": "2024-01-12T17:55:24",
+    "updated_at": "2024-01-12T17:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tp-link:tapo:2.11.44:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

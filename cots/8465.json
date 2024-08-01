@@ -1,0 +1,10 @@
+{
+    "id": 8465,
+    "name": "proxysg",
+    "version": "4.1.2.1",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-28T16:36:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bluecoat:proxysg:4.1.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1219551,
+    "name": "windows_embedded_compact",
+    "version": "7.0",
+    "created_at": "2023-12-15T18:11:44",
+    "updated_at": "2023-12-15T18:11:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_embedded_compact:7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

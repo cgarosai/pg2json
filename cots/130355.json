@@ -1,0 +1,10 @@
+{
+    "id": 130355,
+    "name": "rx-v200_firmware",
+    "version": "09.87.17.09",
+    "created_at": "2017-12-06T02:27:48",
+    "updated_at": "2021-05-14T11:44:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sharp:rx-v200_firmware:09.87.17.09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

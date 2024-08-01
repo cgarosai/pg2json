@@ -1,0 +1,10 @@
+{
+    "id": 976591,
+    "name": "groovy",
+    "version": "453.vcdb_a_c5c99890",
+    "created_at": "2022-11-23T15:09:23",
+    "updated_at": "2022-11-23T15:10:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:groovy:453.vcdb_a_c5c99890:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

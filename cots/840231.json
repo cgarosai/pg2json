@@ -1,0 +1,10 @@
+{
+    "id": 840231,
+    "name": "fisco-bcos",
+    "version": "3.0.0",
+    "created_at": "2022-02-09T17:08:02",
+    "updated_at": "2022-03-18T17:07:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fisco-bcos:fisco-bcos:3.0.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

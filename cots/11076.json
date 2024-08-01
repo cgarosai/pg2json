@@ -1,0 +1,10 @@
+{
+    "id": 11076,
+    "name": "security_agent",
+    "version": "4.5.1.657",
+    "created_at": "2007-12-17T14:34:42",
+    "updated_at": "2008-04-14T18:20:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:security_agent:4.5.1.657:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 345731,
+    "name": "bc_vault",
+    "version": "-",
+    "created_at": "2019-08-21T11:40:32",
+    "updated_at": "2021-08-16T16:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:real-sec:bc_vault:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 72067,
+    "name": "dnsco_bind",
+    "version": "9.9.4",
+    "created_at": "2013-07-29T14:23:19",
+    "updated_at": "2013-07-31T23:29:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isc:dnsco_bind:9.9.4:b1:*:*:*:*:*:*",
+    "to_analyse": false
+}

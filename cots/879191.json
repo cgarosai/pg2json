@@ -1,0 +1,10 @@
+{
+    "id": 879191,
+    "name": "detekt",
+    "version": "1.0.0",
+    "created_at": "2022-04-27T12:34:05",
+    "updated_at": "2022-04-27T14:14:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:detekt:detekt:1.0.0:rc16:*:*:*:*:*:*",
+    "to_analyse": false
+}

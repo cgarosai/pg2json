@@ -1,0 +1,10 @@
+{
+    "id": 468179,
+    "name": "spamassassin",
+    "version": "3.3.1",
+    "created_at": "2019-12-18T18:29:06",
+    "updated_at": "2019-12-18T18:29:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:spamassassin:3.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

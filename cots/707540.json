@@ -1,0 +1,10 @@
+{
+    "id": 707540,
+    "name": "wap131_firmware",
+    "version": "-",
+    "created_at": "2021-05-12T11:05:02",
+    "updated_at": "2021-05-26T12:12:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:wap131_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

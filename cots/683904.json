@@ -1,0 +1,10 @@
+{
+    "id": 683904,
+    "name": "arcgis_enterprise",
+    "version": "-",
+    "created_at": "2021-04-12T12:28:18",
+    "updated_at": "2021-04-15T16:07:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcgis_enterprise:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

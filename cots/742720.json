@@ -1,0 +1,10 @@
+{
+    "id": 742720,
+    "name": "pcoip_stnadard_agent",
+    "version": "-",
+    "created_at": "2021-07-27T12:00:50",
+    "updated_at": "2022-06-06T13:36:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_stnadard_agent:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

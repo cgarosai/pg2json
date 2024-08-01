@@ -1,0 +1,10 @@
+{
+    "id": 862422,
+    "name": "cocoapods-downloader",
+    "version": "1.0.0",
+    "created_at": "2022-04-08T11:43:16",
+    "updated_at": "2022-04-11T10:06:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cocoapods:cocoapods-downloader:1.0.0:beta1:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

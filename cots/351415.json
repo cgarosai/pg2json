@@ -1,0 +1,10 @@
+{
+    "id": 351415,
+    "name": "airbrake_ruby",
+    "version": "2.6.2",
+    "created_at": "2019-09-09T10:48:28",
+    "updated_at": "2019-09-09T10:48:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:airbrake:airbrake_ruby:2.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

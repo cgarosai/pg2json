@@ -1,0 +1,10 @@
+{
+    "id": 846643,
+    "name": "easergy_p5_firmware",
+    "version": "01.401.101",
+    "created_at": "2022-02-07T15:03:02",
+    "updated_at": "2022-02-07T15:04:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:easergy_p5_firmware:01.401.101:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

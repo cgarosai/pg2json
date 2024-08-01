@@ -1,0 +1,10 @@
+{
+    "id": 689757,
+    "name": "mac_os_x",
+    "version": "10.15.7",
+    "created_at": "2021-04-06T14:10:38",
+    "updated_at": "2021-05-22T23:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:mac_os_x:10.15.7:supplemental_update:*:*:*:*:*:*",
+    "to_analyse": false
+}

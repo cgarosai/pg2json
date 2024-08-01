@@ -1,0 +1,10 @@
+{
+    "id": 1011006,
+    "name": "kubeoperator",
+    "version": "2.1.58",
+    "created_at": "2023-01-20T18:24:58",
+    "updated_at": "2023-01-27T18:11:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fit2cloud:kubeoperator:2.1.58:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

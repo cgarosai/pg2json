@@ -1,0 +1,10 @@
+{
+    "id": 1069863,
+    "name": "servicenow",
+    "version": "rome",
+    "created_at": "2023-04-14T11:18:00",
+    "updated_at": "2023-06-07T12:03:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servicenow:servicenow:rome:patch_8_hotfix_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

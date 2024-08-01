@@ -1,0 +1,10 @@
+{
+    "id": 152475,
+    "name": "spring_cloud_sso_connector",
+    "version": "1.1.0",
+    "created_at": "2018-06-08T15:13:09",
+    "updated_at": "2021-08-05T13:42:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_cloud_sso_connector:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 920280,
+    "name": "mr8300_firmware",
+    "version": "1.0",
+    "created_at": "2022-08-25T13:10:08",
+    "updated_at": "2023-02-27T18:19:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linksys:mr8300_firmware:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

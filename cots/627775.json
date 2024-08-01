@@ -1,0 +1,10 @@
+{
+    "id": 627775,
+    "name": "scratch-svg-renderer",
+    "version": "0.2.0",
+    "created_at": "2020-12-02T15:40:46",
+    "updated_at": "2020-12-02T15:40:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mit:scratch-svg-renderer:0.2.0:prerelease20200604203226:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

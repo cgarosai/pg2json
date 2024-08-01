@@ -1,0 +1,10 @@
+{
+    "id": 229669,
+    "name": "active_directory",
+    "version": "1.0",
+    "created_at": "2019-04-16T12:11:22",
+    "updated_at": "2019-04-16T12:11:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:active_directory:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

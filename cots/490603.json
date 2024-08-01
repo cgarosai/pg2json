@@ -1,0 +1,10 @@
+{
+    "id": 490603,
+    "name": "te30_firmware",
+    "version": "v100r001c10spc600",
+    "created_at": "2020-02-21T20:01:25",
+    "updated_at": "2020-02-21T20:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:te30_firmware:v100r001c10spc600:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

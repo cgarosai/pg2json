@@ -1,0 +1,10 @@
+{
+    "id": 547583,
+    "name": "it_service_management",
+    "version": "london",
+    "created_at": "2020-05-11T09:45:47",
+    "updated_at": "2020-05-11T09:45:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servicenow:it_service_management:london:patch_1-2:*:*:*:*:*:*",
+    "to_analyse": false
+}

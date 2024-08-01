@@ -1,0 +1,10 @@
+{
+    "id": 58426,
+    "name": "client_automation_application_manager_agent",
+    "version": "7.80",
+    "created_at": "2012-05-14T21:29:52",
+    "updated_at": "2012-05-14T21:29:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:client_automation_application_manager_agent:7.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

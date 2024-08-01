@@ -1,0 +1,10 @@
+{
+    "id": 520018,
+    "name": "grav",
+    "version": "1.7.0",
+    "created_at": "2020-04-06T14:56:09",
+    "updated_at": "2020-04-06T14:56:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getgrav:grav:1.7.0:rc8:*:*:*:*:*:*",
+    "to_analyse": false
+}

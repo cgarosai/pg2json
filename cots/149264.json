@@ -1,0 +1,10 @@
+{
+    "id": 149264,
+    "name": "ognl",
+    "version": "3.0.11",
+    "created_at": "2018-04-12T16:42:41",
+    "updated_at": "2018-04-12T16:42:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ognl_project:ognl:3.0.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

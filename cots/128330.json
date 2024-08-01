@@ -1,0 +1,10 @@
+{
+    "id": 128330,
+    "name": "documentum_content_server",
+    "version": "-",
+    "created_at": "2017-04-28T00:25:02",
+    "updated_at": "2021-08-06T15:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opentext:documentum_content_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

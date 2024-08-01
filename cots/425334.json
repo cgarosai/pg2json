@@ -1,0 +1,10 @@
+{
+    "id": 425334,
+    "name": "keyring",
+    "version": "16.1.1",
+    "created_at": "2019-10-31T16:10:57",
+    "updated_at": "2019-10-31T16:10:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:keyring:16.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

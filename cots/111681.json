@@ -1,0 +1,10 @@
+{
+    "id": 111681,
+    "name": "twincat",
+    "version": "-",
+    "created_at": "2016-10-05T15:41:04",
+    "updated_at": "2021-05-06T14:38:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beckhoff:twincat:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

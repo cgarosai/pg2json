@@ -1,0 +1,10 @@
+{
+    "id": 481376,
+    "name": "eni_server",
+    "version": "3.2.2.25",
+    "created_at": "2020-02-05T14:16:30",
+    "updated_at": "2020-02-05T14:16:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:eni_server:3.2.2.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

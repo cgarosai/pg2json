@@ -1,0 +1,10 @@
+{
+    "id": 1228536,
+    "name": "opentelemetry",
+    "version": "0.46.0",
+    "created_at": "2023-12-27T13:23:46",
+    "updated_at": "2023-12-27T13:23:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opentelemetry:opentelemetry:0.46.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

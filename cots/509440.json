@@ -1,0 +1,10 @@
+{
+    "id": 509440,
+    "name": "atp100",
+    "version": "-",
+    "created_at": "2020-03-05T18:57:19",
+    "updated_at": "2021-04-28T11:11:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:zyxel:atp100:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

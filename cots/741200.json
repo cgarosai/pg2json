@@ -1,0 +1,10 @@
+{
+    "id": 741200,
+    "name": "mocha",
+    "version": "5.0.0",
+    "created_at": "2021-07-23T17:02:27",
+    "updated_at": "2021-07-26T10:28:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mochajs:mocha:5.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

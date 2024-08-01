@@ -1,0 +1,10 @@
+{
+    "id": 53011,
+    "name": "ruby_on_rails",
+    "version": "3.1.2",
+    "created_at": "2012-07-06T15:06:58",
+    "updated_at": "2019-08-08T13:25:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:ruby_on_rails:3.1.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

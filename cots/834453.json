@@ -1,0 +1,10 @@
+{
+    "id": 834453,
+    "name": "extra_packages_for_enterprise_linux",
+    "version": "9.0",
+    "created_at": "2022-02-02T15:48:17",
+    "updated_at": "2022-02-02T18:03:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:extra_packages_for_enterprise_linux:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

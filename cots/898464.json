@@ -1,0 +1,10 @@
+{
+    "id": 898464,
+    "name": "fastjson",
+    "version": "-",
+    "created_at": "2022-06-14T17:55:44",
+    "updated_at": "2022-06-17T12:38:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alibaba:fastjson:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

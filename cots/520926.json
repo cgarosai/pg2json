@@ -1,0 +1,10 @@
+{
+    "id": 520926,
+    "name": "usemango_runner",
+    "version": "1.4",
+    "created_at": "2020-04-07T12:54:39",
+    "updated_at": "2020-04-07T12:54:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:usemango_runner:1.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

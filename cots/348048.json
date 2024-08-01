@@ -1,0 +1,10 @@
+{
+    "id": 348048,
+    "name": "duplicate_post",
+    "version": "0.5",
+    "created_at": "2019-08-23T12:49:03",
+    "updated_at": "2019-08-23T12:49:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duplicate_post_project:duplicate_post:0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

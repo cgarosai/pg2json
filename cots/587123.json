@@ -1,0 +1,10 @@
+{
+    "id": 587123,
+    "name": "xenmobile_server",
+    "version": "10.12.0",
+    "created_at": "2020-08-18T15:08:40",
+    "updated_at": "2020-08-18T15:08:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xenmobile_server:10.12.0:rolling_patch1:*:*:*:*:*:*",
+    "to_analyse": false
+}

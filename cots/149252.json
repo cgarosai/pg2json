@@ -1,0 +1,10 @@
+{
+    "id": 149252,
+    "name": "ofbiz",
+    "version": "10.04.02",
+    "created_at": "2018-04-12T16:32:06",
+    "updated_at": "2018-04-12T16:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:ofbiz:10.04.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

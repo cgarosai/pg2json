@@ -1,0 +1,10 @@
+{
+    "id": 450783,
+    "name": "radeon_550",
+    "version": "-",
+    "created_at": "2019-12-09T18:39:28",
+    "updated_at": "2019-12-09T18:39:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:radeon_550:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

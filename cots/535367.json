@@ -1,0 +1,10 @@
+{
+    "id": 535367,
+    "name": "ucm6208_firmware",
+    "version": "1.0.20.22",
+    "created_at": "2020-04-14T11:23:01",
+    "updated_at": "2020-04-14T11:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:grandstream:ucm6208_firmware:1.0.20.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

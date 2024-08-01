@@ -1,0 +1,10 @@
+{
+    "id": 641076,
+    "name": "virtual_environment",
+    "version": "4.1",
+    "created_at": "2021-01-25T13:12:47",
+    "updated_at": "2021-01-25T13:12:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proxmox:virtual_environment:4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

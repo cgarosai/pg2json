@@ -1,0 +1,10 @@
+{
+    "id": 125769,
+    "name": "workload_automation_ae",
+    "version": "11.3",
+    "created_at": "2017-03-14T14:18:47",
+    "updated_at": "2017-03-14T14:18:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:workload_automation_ae:11.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

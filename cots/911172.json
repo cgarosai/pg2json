@@ -1,0 +1,10 @@
+{
+    "id": 911172,
+    "name": "contracts-upgradeable",
+    "version": "4.7.2",
+    "created_at": "2022-08-08T09:55:49",
+    "updated_at": "2022-12-06T18:51:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openzeppelin:contracts-upgradeable:4.7.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 960379,
+    "name": "californium",
+    "version": "3.0.0",
+    "created_at": "2022-11-14T17:36:35",
+    "updated_at": "2022-11-14T17:49:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:californium:3.0.0:m4:*:*:*:*:*:*",
+    "to_analyse": false
+}

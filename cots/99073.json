@@ -1,0 +1,10 @@
+{
+    "id": 99073,
+    "name": "powerpc-utils",
+    "version": "1.2.20",
+    "created_at": "2014-06-18T15:22:12",
+    "updated_at": "2014-06-20T00:27:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:powerpc-utils_project:powerpc-utils:1.2.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

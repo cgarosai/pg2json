@@ -1,0 +1,10 @@
+{
+    "id": 11756,
+    "name": "windows-nt",
+    "version": "2003",
+    "created_at": "2008-04-15T20:38:37",
+    "updated_at": "2008-04-15T21:56:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows-nt:2003:r2:compute_cluster:*:*:*:*:*",
+    "to_analyse": false
+}

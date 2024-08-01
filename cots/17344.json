@@ -1,0 +1,10 @@
+{
+    "id": 17344,
+    "name": "network_audio_system",
+    "version": "1.8a",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2013-10-09T16:40:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:radscan:network_audio_system:1.8a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

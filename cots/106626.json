@@ -1,0 +1,10 @@
+{
+    "id": 106626,
+    "name": "linux_mint",
+    "version": "17.0",
+    "created_at": "2015-01-16T19:18:16",
+    "updated_at": "2015-04-06T13:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linuxmint:linux_mint:17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1040163,
+    "name": "qtranslate_slug",
+    "version": "1.1.16",
+    "created_at": "2023-03-09T16:31:02",
+    "updated_at": "2023-03-09T18:41:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qtranslate_slug_project:qtranslate_slug:1.1.16:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 139388,
+    "name": "octopus_deploy",
+    "version": "3.12.4",
+    "created_at": "2017-11-28T15:09:24",
+    "updated_at": "2022-07-27T13:36:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octopus:octopus_deploy:3.12.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

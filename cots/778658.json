@@ -1,0 +1,10 @@
+{
+    "id": 778658,
+    "name": "sms-ovh",
+    "version": "-",
+    "created_at": "2021-09-14T17:13:58",
+    "updated_at": "2021-09-17T11:21:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elyazalee:sms-ovh:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

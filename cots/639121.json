@@ -1,0 +1,10 @@
+{
+    "id": 639121,
+    "name": "media_sdk",
+    "version": "2018",
+    "created_at": "2020-12-18T15:47:19",
+    "updated_at": "2020-12-18T15:47:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:media_sdk:2018:r1:*:*:*:*:*:*",
+    "to_analyse": false
+}

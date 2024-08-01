@@ -1,0 +1,10 @@
+{
+    "id": 507857,
+    "name": "nova",
+    "version": "18.2.4",
+    "created_at": "2020-03-04T13:42:20",
+    "updated_at": "2020-03-04T13:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:nova:18.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

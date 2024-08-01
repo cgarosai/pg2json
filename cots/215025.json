@@ -1,0 +1,10 @@
+{
+    "id": 215025,
+    "name": "nexus_3600",
+    "version": "-",
+    "created_at": "2019-03-07T16:39:52",
+    "updated_at": "2021-04-28T15:57:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_3600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

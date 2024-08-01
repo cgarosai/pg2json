@@ -1,0 +1,10 @@
+{
+    "id": 389372,
+    "name": "harfbuzz",
+    "version": "1.1.1",
+    "created_at": "2019-09-25T12:31:24",
+    "updated_at": "2019-09-25T12:31:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:harfbuzz_project:harfbuzz:1.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

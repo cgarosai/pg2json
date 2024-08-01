@@ -1,0 +1,10 @@
+{
+    "id": 405031,
+    "name": "closure-util",
+    "version": "0.17.0",
+    "created_at": "2019-10-08T09:32:49",
+    "updated_at": "2019-10-08T09:32:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openlayers:closure-util:0.17.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

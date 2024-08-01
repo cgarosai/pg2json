@@ -1,0 +1,10 @@
+{
+    "id": 659055,
+    "name": "powerpc",
+    "version": "-",
+    "created_at": "2021-02-10T13:44:24",
+    "updated_at": "2021-06-02T11:19:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:powerpc_project:powerpc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

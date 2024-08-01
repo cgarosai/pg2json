@@ -1,0 +1,10 @@
+{
+    "id": 645411,
+    "name": "bigint",
+    "version": "1.0.0",
+    "created_at": "2021-01-06T17:39:32",
+    "updated_at": "2021-01-06T17:39:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bigint_project:bigint:1.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

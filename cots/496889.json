@@ -1,0 +1,10 @@
+{
+    "id": 496889,
+    "name": "detcon_sitewatch_gateway",
+    "version": "-",
+    "created_at": "2020-02-13T17:31:37",
+    "updated_at": "2020-02-13T17:31:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:detcon_sitewatch_gateway_project:detcon_sitewatch_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

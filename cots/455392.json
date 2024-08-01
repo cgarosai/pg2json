@@ -1,0 +1,10 @@
+{
+    "id": 455392,
+    "name": "haier_g8_firmware",
+    "version": "-",
+    "created_at": "2019-12-05T15:45:40",
+    "updated_at": "2019-12-05T15:45:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:haier_g8_project:haier_g8_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

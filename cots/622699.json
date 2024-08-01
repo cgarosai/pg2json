@@ -1,0 +1,10 @@
+{
+    "id": 622699,
+    "name": "openldap",
+    "version": "2.4.56",
+    "created_at": "2020-12-08T15:53:32",
+    "updated_at": "2020-12-08T15:53:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openldap:openldap:2.4.56:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

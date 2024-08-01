@@ -1,0 +1,10 @@
+{
+    "id": 454241,
+    "name": "endpoint_antivirus",
+    "version": "6.6.800.1",
+    "created_at": "2019-12-11T17:11:30",
+    "updated_at": "2020-05-04T11:44:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eset:endpoint_antivirus:6.6.800.1:*:*:*:-:mac_os:*:*",
+    "to_analyse": false
+}

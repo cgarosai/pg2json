@@ -1,0 +1,10 @@
+{
+    "id": 782039,
+    "name": "ts7700_firmware",
+    "version": "8.51.0.63",
+    "created_at": "2021-10-08T15:00:45",
+    "updated_at": "2021-10-13T21:56:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:ts7700_firmware:8.51.0.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

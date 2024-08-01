@@ -1,0 +1,10 @@
+{
+    "id": 478728,
+    "name": "api_gateway",
+    "version": "2.2.3",
+    "created_at": "2020-01-14T18:45:09",
+    "updated_at": "2020-01-14T18:45:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mulesoft:api_gateway:2.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

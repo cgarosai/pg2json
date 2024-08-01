@@ -1,0 +1,10 @@
+{
+    "id": 317614,
+    "name": "weblate",
+    "version": "2.13",
+    "created_at": "2019-07-26T14:03:43",
+    "updated_at": "2019-07-26T14:03:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:weblate:weblate:2.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

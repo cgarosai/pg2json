@@ -1,0 +1,10 @@
+{
+    "id": 537526,
+    "name": "workflow",
+    "version": "12.2.9",
+    "created_at": "2020-04-17T16:20:17",
+    "updated_at": "2020-04-17T16:20:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:workflow:12.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

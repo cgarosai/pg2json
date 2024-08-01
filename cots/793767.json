@@ -1,0 +1,10 @@
+{
+    "id": 793767,
+    "name": "ac10u_firmware",
+    "version": "15.03.06.48_multi_tde01",
+    "created_at": "2021-11-01T17:44:11",
+    "updated_at": "2021-11-19T12:23:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tendacn:ac10u_firmware:15.03.06.48_multi_tde01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

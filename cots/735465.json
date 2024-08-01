@@ -1,0 +1,10 @@
+{
+    "id": 735465,
+    "name": "connect",
+    "version": "-",
+    "created_at": "2021-06-30T11:33:32",
+    "updated_at": "2021-06-30T12:04:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:connect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 350058,
+    "name": "libvips",
+    "version": "7.28.0",
+    "created_at": "2019-09-06T13:17:00",
+    "updated_at": "2023-09-29T09:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libvips_project:libvips:7.28.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

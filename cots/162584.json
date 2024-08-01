@@ -1,0 +1,10 @@
+{
+    "id": 162584,
+    "name": "meeting_server_1000_firmware",
+    "version": "2.2.5",
+    "created_at": "2018-08-14T13:43:33",
+    "updated_at": "2021-04-21T16:20:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:meeting_server_1000_firmware:2.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

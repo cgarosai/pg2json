@@ -1,0 +1,10 @@
+{
+    "id": 244422,
+    "name": "spring_security_oauth",
+    "version": "2.1.5",
+    "created_at": "2019-06-05T16:58:23",
+    "updated_at": "2019-06-05T16:58:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_security_oauth:2.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10952,
+    "name": "filemaker_server",
+    "version": "-",
+    "created_at": "2007-11-27T00:11:09",
+    "updated_at": "2007-11-27T00:11:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:filemaker:filemaker_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

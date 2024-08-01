@@ -1,0 +1,10 @@
+{
+    "id": 595749,
+    "name": "freedombox",
+    "version": "20.6",
+    "created_at": "2020-09-03T20:26:00",
+    "updated_at": "2020-09-03T20:26:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:freedombox:20.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

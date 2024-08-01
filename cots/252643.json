@@ -1,0 +1,10 @@
+{
+    "id": 252643,
+    "name": "monitoring_software",
+    "version": "7.10.2",
+    "created_at": "2019-06-12T09:17:28",
+    "updated_at": "2019-06-12T09:17:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serverscheck:monitoring_software:7.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

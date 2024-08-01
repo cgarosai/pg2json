@@ -1,0 +1,10 @@
+{
+    "id": 423513,
+    "name": "miner",
+    "version": "1.9.0.1",
+    "created_at": "2019-11-07T19:29:23",
+    "updated_at": "2019-11-07T19:29:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nicehash:miner:1.9.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

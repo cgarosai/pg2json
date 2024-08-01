@@ -1,0 +1,10 @@
+{
+    "id": 942263,
+    "name": "squirrel",
+    "version": "3.0.6",
+    "created_at": "2022-10-06T12:35:06",
+    "updated_at": "2023-03-06T22:33:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squirrel-lang:squirrel:3.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

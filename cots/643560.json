@@ -1,0 +1,10 @@
+{
+    "id": 643560,
+    "name": "linux_for_tegra",
+    "version": "r32.5",
+    "created_at": "2021-01-28T21:15:01",
+    "updated_at": "2021-01-28T21:15:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:linux_for_tegra:r32.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 550510,
+    "name": "network_level_service",
+    "version": "3.0\\(0.0.83b\\)",
+    "created_at": "2020-06-12T17:20:07",
+    "updated_at": "2020-06-12T17:20:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:network_level_service:3.0\\(0.0.83b\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

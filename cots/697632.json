@@ -1,0 +1,10 @@
+{
+    "id": 697632,
+    "name": "database_tools",
+    "version": "3.7.2",
+    "created_at": "2021-04-19T11:24:26",
+    "updated_at": "2021-04-19T16:01:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:database_tools:3.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 473833,
+    "name": "safemode",
+    "version": "1.2.4",
+    "created_at": "2020-01-27T12:48:57",
+    "updated_at": "2020-01-27T12:48:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:safemode_project:safemode:1.2.4:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

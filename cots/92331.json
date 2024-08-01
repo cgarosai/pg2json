@@ -1,0 +1,10 @@
+{
+    "id": 92331,
+    "name": "crystal_reports",
+    "version": "-",
+    "created_at": "2014-09-05T13:28:29",
+    "updated_at": "2014-09-10T00:11:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:crystal_reports:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

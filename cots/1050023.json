@@ -1,0 +1,10 @@
+{
+    "id": 1050023,
+    "name": "pulse_firmware",
+    "version": "c21010800",
+    "created_at": "2023-03-27T12:00:12",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:varta:pulse_firmware:c21010800:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 982805,
+    "name": "wp-memory",
+    "version": "2.10",
+    "created_at": "2022-12-13T13:09:07",
+    "updated_at": "2022-12-13T13:22:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-memory_project:wp-memory:2.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

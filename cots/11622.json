@@ -1,0 +1,10 @@
+{
+    "id": 11622,
+    "name": "visual_studio",
+    "version": "2003",
+    "created_at": "2008-04-15T20:38:18",
+    "updated_at": "2011-02-18T15:45:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio:2003:gold:*:*:*:*:*:*",
+    "to_analyse": false
+}

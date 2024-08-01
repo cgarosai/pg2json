@@ -1,0 +1,10 @@
+{
+    "id": 899619,
+    "name": "latest_tweets_widget",
+    "version": "-",
+    "created_at": "2022-06-16T12:05:11",
+    "updated_at": "2022-06-17T14:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:latest_tweets_widget_project:latest_tweets_widget:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1240710,
+    "name": "wordpress_brute_force_protection_-_stop_brute_force_attacks",
+    "version": "2.2.5",
+    "created_at": "2024-02-03T00:39:22",
+    "updated_at": "2024-02-03T00:39:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guardgiant:wordpress_brute_force_protection_-_stop_brute_force_attacks:2.2.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

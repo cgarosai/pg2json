@@ -1,0 +1,10 @@
+{
+    "id": 616030,
+    "name": "fastd",
+    "version": "14.0",
+    "created_at": "2020-10-28T20:26:40",
+    "updated_at": "2020-10-28T20:26:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastd_project:fastd:14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

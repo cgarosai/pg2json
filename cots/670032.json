@@ -1,0 +1,10 @@
+{
+    "id": 670032,
+    "name": "kong_gateway",
+    "version": "0.35-5",
+    "created_at": "2021-03-18T22:36:38",
+    "updated_at": "2021-03-29T18:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:konghq:kong_gateway:0.35-5:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

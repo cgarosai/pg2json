@@ -1,0 +1,10 @@
+{
+    "id": 490805,
+    "name": "ar2200_firmware",
+    "version": "v200r006c16pwe",
+    "created_at": "2020-02-21T21:18:56",
+    "updated_at": "2020-02-21T21:18:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar2200_firmware:v200r006c16pwe:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

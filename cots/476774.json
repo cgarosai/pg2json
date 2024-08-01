@@ -1,0 +1,10 @@
+{
+    "id": 476774,
+    "name": "core_i9-9980hk_firmware",
+    "version": "-",
+    "created_at": "2020-01-13T13:15:08",
+    "updated_at": "2020-01-13T13:15:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i9-9980hk_firmware:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

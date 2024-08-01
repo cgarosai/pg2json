@@ -1,0 +1,10 @@
+{
+    "id": 509094,
+    "name": "lxdm",
+    "version": "0.5.3",
+    "created_at": "2020-03-05T17:47:22",
+    "updated_at": "2020-03-05T17:47:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lxdm_project:lxdm:0.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

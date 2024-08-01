@@ -1,0 +1,10 @@
+{
+    "id": 43261,
+    "name": "2112_wireless_lan_controller",
+    "version": "-",
+    "created_at": "2012-03-07T19:47:09",
+    "updated_at": "2012-03-07T22:02:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:2112_wireless_lan_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

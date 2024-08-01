@@ -1,0 +1,10 @@
+{
+    "id": 184709,
+    "name": "gmo-pg_payment_module",
+    "version": "-",
+    "created_at": "2018-11-26T16:11:38",
+    "updated_at": "2018-11-26T16:11:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gmo-pg:gmo-pg_payment_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

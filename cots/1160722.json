@@ -1,0 +1,10 @@
+{
+    "id": 1160722,
+    "name": "sitekit",
+    "version": "1.4",
+    "created_at": "2023-09-29T15:02:20",
+    "updated_at": "2023-09-29T15:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sitekit_project:sitekit:1.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

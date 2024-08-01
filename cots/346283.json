@@ -1,0 +1,10 @@
+{
+    "id": 346283,
+    "name": "content_audit",
+    "version": "0.8",
+    "created_at": "2019-08-21T15:36:44",
+    "updated_at": "2019-08-21T15:36:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:content_audit_project:content_audit:0.8:beta:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

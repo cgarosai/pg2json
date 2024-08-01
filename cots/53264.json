@@ -1,0 +1,10 @@
+{
+    "id": 53264,
+    "name": "echo",
+    "version": "9.0",
+    "created_at": "2012-07-10T01:17:24",
+    "updated_at": "2012-07-10T01:17:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pearlsw:echo:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

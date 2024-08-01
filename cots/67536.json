@@ -1,0 +1,10 @@
+{
+    "id": 67536,
+    "name": "koffice",
+    "version": "2.3",
+    "created_at": "2012-08-23T00:39:56",
+    "updated_at": "2012-08-23T00:39:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:koffice:2.3:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

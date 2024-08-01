@@ -1,0 +1,10 @@
+{
+    "id": 69555,
+    "name": "block_class",
+    "version": "6.x-2.x",
+    "created_at": "2012-09-19T15:25:26",
+    "updated_at": "2012-09-21T18:17:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fourkitchens:block_class:6.x-2.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

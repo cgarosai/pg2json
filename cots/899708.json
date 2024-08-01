@@ -1,0 +1,10 @@
+{
+    "id": 899708,
+    "name": "smart_pos_firmware",
+    "version": "-",
+    "created_at": "2022-06-16T13:48:14",
+    "updated_at": "2022-07-27T14:21:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:powertekpdus:smart_pos_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

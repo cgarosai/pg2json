@@ -1,0 +1,10 @@
+{
+    "id": 135123,
+    "name": "wlr_300_nm_firmware",
+    "version": "1.90",
+    "created_at": "2017-09-20T11:30:38",
+    "updated_at": "2021-05-13T14:16:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:corega:wlr_300_nm_firmware:1.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

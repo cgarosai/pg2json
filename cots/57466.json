@@ -1,0 +1,10 @@
+{
+    "id": 57466,
+    "name": "network_equipment_information",
+    "version": "1.0.0",
+    "created_at": "2012-05-08T11:51:04",
+    "updated_at": "2012-05-08T11:51:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:network_equipment_information:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

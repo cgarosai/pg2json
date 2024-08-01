@@ -1,0 +1,10 @@
+{
+    "id": 483790,
+    "name": "clamav",
+    "version": "0.102.2",
+    "created_at": "2020-02-10T12:35:12",
+    "updated_at": "2020-02-10T12:35:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clamav:clamav:0.102.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

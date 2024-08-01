@@ -1,0 +1,10 @@
+{
+    "id": 506353,
+    "name": "cloud_protection_for_salesforce",
+    "version": "-",
+    "created_at": "2020-03-02T18:21:23",
+    "updated_at": "2021-06-02T11:14:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:cloud_protection_for_salesforce:-:*:*:*:*:linux_kernel:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 76629,
+    "name": "dbus-glib",
+    "version": "0.98",
+    "created_at": "2013-03-06T13:41:37",
+    "updated_at": "2013-03-07T17:46:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:dbus-glib:0.98:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

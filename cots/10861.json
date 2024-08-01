@@ -1,0 +1,10 @@
+{
+    "id": 10861,
+    "name": "tivoli_continuous_data_protection_for_files",
+    "version": "3.1.0",
+    "created_at": "2007-11-07T01:58:08",
+    "updated_at": "2007-11-07T01:58:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_continuous_data_protection_for_files:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

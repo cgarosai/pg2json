@@ -1,0 +1,10 @@
+{
+    "id": 123589,
+    "name": "small_business_rv_series_router_firmware",
+    "version": "1.0.0.30",
+    "created_at": "2017-08-22T15:35:06",
+    "updated_at": "2021-08-09T16:04:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:small_business_rv_series_router_firmware:1.0.0.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

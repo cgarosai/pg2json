@@ -1,0 +1,10 @@
+{
+    "id": 261721,
+    "name": "cerb",
+    "version": "9.0",
+    "created_at": "2019-06-18T12:00:45",
+    "updated_at": "2019-06-18T12:00:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webgroupmedia:cerb:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

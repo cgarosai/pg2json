@@ -1,0 +1,10 @@
+{
+    "id": 1242044,
+    "name": "adapter-node",
+    "version": "1.0.0",
+    "created_at": "2024-02-05T14:34:55",
+    "updated_at": "2024-02-05T14:34:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:svelte:adapter-node:1.0.0:next68:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 550343,
+    "name": "homey_firmware",
+    "version": "2.5.1",
+    "created_at": "2020-06-11T16:25:25",
+    "updated_at": "2020-06-11T16:25:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:homey:homey_firmware:2.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

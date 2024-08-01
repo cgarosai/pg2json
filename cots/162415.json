@@ -1,0 +1,10 @@
+{
+    "id": 162415,
+    "name": "firepower_appliance_8140_firmware",
+    "version": "6.2.2",
+    "created_at": "2018-08-14T12:15:48",
+    "updated_at": "2021-04-20T12:03:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:firepower_appliance_8140_firmware:6.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

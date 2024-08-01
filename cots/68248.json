@@ -1,0 +1,10 @@
+{
+    "id": 68248,
+    "name": "messaging_gateway",
+    "version": "9.5",
+    "created_at": "2012-08-29T13:06:08",
+    "updated_at": "2012-08-31T16:15:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:messaging_gateway:9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

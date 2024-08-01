@@ -1,0 +1,10 @@
+{
+    "id": 42119,
+    "name": "esxi",
+    "version": "3.5",
+    "created_at": "2012-02-10T19:09:53",
+    "updated_at": "2012-02-10T19:09:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vmware:esxi:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

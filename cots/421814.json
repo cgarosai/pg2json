@@ -1,0 +1,10 @@
+{
+    "id": 421814,
+    "name": "apt",
+    "version": "1.1",
+    "created_at": "2019-11-06T13:29:36",
+    "updated_at": "2020-01-08T14:23:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:apt:1.1:exp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

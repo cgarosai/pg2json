@@ -1,0 +1,10 @@
+{
+    "id": 507157,
+    "name": "push-dir",
+    "version": "0.1.0",
+    "created_at": "2020-03-03T16:43:47",
+    "updated_at": "2020-03-03T16:43:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:push-dir_project:push-dir:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 472799,
+    "name": "qmail",
+    "version": "-",
+    "created_at": "2020-01-23T16:36:29",
+    "updated_at": "2020-01-23T16:36:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qmail_project:qmail:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

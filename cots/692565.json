@@ -1,0 +1,10 @@
+{
+    "id": 692565,
+    "name": "appformix",
+    "version": "3.2.14",
+    "created_at": "2021-04-29T18:13:19",
+    "updated_at": "2021-05-14T16:31:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:appformix:3.2.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 510501,
+    "name": "netstandard.opc.ua",
+    "version": "1.4.359.31",
+    "created_at": "2020-03-23T17:02:35",
+    "updated_at": "2020-03-23T17:02:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opcfoundation:netstandard.opc.ua:1.4.359.31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

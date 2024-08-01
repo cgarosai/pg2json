@@ -1,0 +1,10 @@
+{
+    "id": 592510,
+    "name": "webapp",
+    "version": "3.3.0",
+    "created_at": "2020-09-22T14:06:35",
+    "updated_at": "2020-09-22T14:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kopano:webapp:3.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

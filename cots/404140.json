@@ -1,0 +1,10 @@
+{
+    "id": 404140,
+    "name": "crx_content_package_deployer",
+    "version": "1.8",
+    "created_at": "2019-10-21T10:25:47",
+    "updated_at": "2019-10-21T10:25:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:crx_content_package_deployer:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 211031,
+    "name": "q3505-ve_firmware",
+    "version": "6.50.2.3",
+    "created_at": "2019-03-20T16:55:28",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:q3505-ve_firmware:6.50.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

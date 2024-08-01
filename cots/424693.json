@@ -1,0 +1,10 @@
+{
+    "id": 424693,
+    "name": "air-sdk",
+    "version": "16.0.0-272-13",
+    "created_at": "2019-11-08T18:28:23",
+    "updated_at": "2019-11-08T18:28:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:air-sdk_project:air-sdk:16.0.0-272-13:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

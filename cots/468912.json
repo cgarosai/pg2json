@@ -1,0 +1,10 @@
+{
+    "id": 468912,
+    "name": "mdaemon_email_server",
+    "version": "17.5.1",
+    "created_at": "2019-12-20T15:35:50",
+    "updated_at": "2019-12-20T15:35:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altn:mdaemon_email_server:17.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

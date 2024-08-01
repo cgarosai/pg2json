@@ -1,0 +1,10 @@
+{
+    "id": 258218,
+    "name": "openj9",
+    "version": "0.9.0",
+    "created_at": "2019-06-10T12:21:24",
+    "updated_at": "2019-06-10T12:21:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:openj9:0.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

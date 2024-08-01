@@ -1,0 +1,10 @@
+{
+    "id": 1249661,
+    "name": "golden_ftp_server",
+    "version": "4.20",
+    "created_at": "2024-02-01T18:55:48",
+    "updated_at": "2024-02-01T18:55:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kmint21:golden_ftp_server:4.20:*:*:*:free:*:*:*",
+    "to_analyse": false
+}

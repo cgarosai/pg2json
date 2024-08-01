@@ -1,0 +1,10 @@
+{
+    "id": 633541,
+    "name": "ac1200_firmware",
+    "version": "15.03.06.51",
+    "created_at": "2021-01-04T15:27:05",
+    "updated_at": "2021-01-04T15:27:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tendacn:ac1200_firmware:15.03.06.51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

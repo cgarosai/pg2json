@@ -1,0 +1,10 @@
+{
+    "id": 999267,
+    "name": "popup_manager",
+    "version": "1.6.6",
+    "created_at": "2022-12-21T17:14:15",
+    "updated_at": "2023-03-03T15:05:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:popup_manager_project:popup_manager:1.6.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

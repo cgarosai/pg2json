@@ -1,0 +1,10 @@
+{
+    "id": 1206616,
+    "name": "rundeck",
+    "version": "4.17.2",
+    "created_at": "2023-11-27T18:59:57",
+    "updated_at": "2023-11-27T18:59:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pagerduty:rundeck:4.17.2:rc4:*:*:community:*:*:*",
+    "to_analyse": false
+}

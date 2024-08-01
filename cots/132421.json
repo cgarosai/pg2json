@@ -1,0 +1,10 @@
+{
+    "id": 132421,
+    "name": "simplejson",
+    "version": "3.10.0",
+    "created_at": "2017-12-29T18:49:02",
+    "updated_at": "2017-12-29T18:49:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simplejson_project:simplejson:3.10.0:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

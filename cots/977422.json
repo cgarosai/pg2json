@@ -1,0 +1,10 @@
+{
+    "id": 977422,
+    "name": "dotci",
+    "version": "2.39.10",
+    "created_at": "2022-11-23T17:49:55",
+    "updated_at": "2022-11-23T17:53:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:dotci:2.39.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

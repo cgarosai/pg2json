@@ -1,0 +1,10 @@
+{
+    "id": 390473,
+    "name": "workload_control_center",
+    "version": "r11.4",
+    "created_at": "2019-10-01T14:41:11",
+    "updated_at": "2019-10-01T14:41:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:workload_control_center:r11.4:sp6:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 551824,
+    "name": "hpux-ntp",
+    "version": "-",
+    "created_at": "2020-06-19T12:53:55",
+    "updated_at": "2020-06-19T12:53:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:hpux-ntp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

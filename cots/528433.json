@@ -1,0 +1,10 @@
+{
+    "id": 528433,
+    "name": "linux_enterprise_software_development_kit",
+    "version": "12",
+    "created_at": "2020-04-02T13:48:38",
+    "updated_at": "2020-04-02T13:48:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_software_development_kit:12:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

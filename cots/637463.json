@@ -1,0 +1,10 @@
+{
+    "id": 637463,
+    "name": "bigfix_platform",
+    "version": "9.5.2",
+    "created_at": "2020-12-15T16:51:04",
+    "updated_at": "2020-12-15T16:51:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:bigfix_platform:9.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

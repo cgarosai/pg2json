@@ -1,0 +1,10 @@
+{
+    "id": 1057154,
+    "name": "hkcms",
+    "version": "2.2.4.230206",
+    "created_at": "2023-03-21T19:16:44",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hkcms_project:hkcms:2.2.4.230206:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

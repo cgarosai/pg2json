@@ -1,0 +1,10 @@
+{
+    "id": 81103,
+    "name": "java_application_monitor",
+    "version": "2.0",
+    "created_at": "2014-02-03T17:47:38",
+    "updated_at": "2014-02-05T14:06:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:steve_souza:java_application_monitor:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

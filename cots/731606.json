@@ -1,0 +1,10 @@
+{
+    "id": 731606,
+    "name": "icewarp_server",
+    "version": "12.3.0.2",
+    "created_at": "2021-07-12T17:48:12",
+    "updated_at": "2021-07-13T12:22:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icewarp:icewarp_server:12.3.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

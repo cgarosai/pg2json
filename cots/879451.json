@@ -1,0 +1,10 @@
+{
+    "id": 879451,
+    "name": "storagetek_tape_analytics",
+    "version": "2.4",
+    "created_at": "2022-04-28T13:38:27",
+    "updated_at": "2022-05-02T12:57:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:storagetek_tape_analytics:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

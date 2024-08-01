@@ -1,0 +1,10 @@
+{
+    "id": 69206,
+    "name": "mod_pagespeed",
+    "version": "0.10.19.1",
+    "created_at": "2012-09-17T12:18:44",
+    "updated_at": "2013-11-12T16:22:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

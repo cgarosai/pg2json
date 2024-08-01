@@ -1,0 +1,10 @@
+{
+    "id": 108040,
+    "name": "mp_form_mail_cgi",
+    "version": "2.0.12",
+    "created_at": "2015-03-24T17:44:53",
+    "updated_at": "2015-03-24T17:53:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:futomi:mp_form_mail_cgi:2.0.12:*:*:*:ecommerce:*:*:*",
+    "to_analyse": false
+}

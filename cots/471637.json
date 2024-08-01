@@ -1,0 +1,10 @@
+{
+    "id": 471637,
+    "name": "brocade_network_advisor",
+    "version": "14.0.2",
+    "created_at": "2020-01-21T17:38:13",
+    "updated_at": "2020-01-21T17:38:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:brocade_network_advisor:14.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

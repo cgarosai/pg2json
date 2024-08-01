@@ -1,0 +1,10 @@
+{
+    "id": 51357,
+    "name": "password_safe",
+    "version": "2.13",
+    "created_at": "2012-06-21T17:07:34",
+    "updated_at": "2012-06-21T17:07:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:keepass:password_safe:2.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

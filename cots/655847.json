@@ -1,0 +1,10 @@
+{
+    "id": 655847,
+    "name": "sg300-10mpp_firmware",
+    "version": "1.4.11.4",
+    "created_at": "2021-02-03T13:13:46",
+    "updated_at": "2021-04-23T16:14:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg300-10mpp_firmware:1.4.11.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

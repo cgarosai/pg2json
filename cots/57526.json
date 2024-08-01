@@ -1,0 +1,10 @@
+{
+    "id": 57526,
+    "name": "delivery_client",
+    "version": "11.0.0.5284",
+    "created_at": "2012-05-08T11:51:19",
+    "updated_at": "2012-05-08T11:51:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:delivery_client:11.0.0.5284:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

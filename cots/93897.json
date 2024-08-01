@@ -1,0 +1,10 @@
+{
+    "id": 93897,
+    "name": "intelligent_sme",
+    "version": "3",
+    "created_at": "2014-11-10T15:20:26",
+    "updated_at": "2014-11-10T15:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magzter:intelligent_sme:3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

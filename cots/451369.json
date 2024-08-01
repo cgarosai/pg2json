@@ -1,0 +1,10 @@
+{
+    "id": 451369,
+    "name": "firepower_9300_sm-24",
+    "version": "-",
+    "created_at": "2019-12-10T14:17:48",
+    "updated_at": "2019-12-10T14:17:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_9300_sm-24:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

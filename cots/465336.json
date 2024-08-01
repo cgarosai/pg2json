@@ -1,0 +1,10 @@
+{
+    "id": 465336,
+    "name": "identity_services_engine_software",
+    "version": "2.4\\(0.357\\)",
+    "created_at": "2019-12-12T18:51:48",
+    "updated_at": "2019-12-12T18:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:identity_services_engine_software:2.4\\(0.357\\):patch2:*:*:*:*:*:*",
+    "to_analyse": false
+}

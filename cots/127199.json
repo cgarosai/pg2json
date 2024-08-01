@@ -1,0 +1,10 @@
+{
+    "id": 127199,
+    "name": "powerkvm",
+    "version": "2.1.0.2",
+    "created_at": "2017-04-07T17:04:06",
+    "updated_at": "2017-04-07T17:04:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:powerkvm:2.1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

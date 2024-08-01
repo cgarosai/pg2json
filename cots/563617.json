@@ -1,0 +1,10 @@
+{
+    "id": 563617,
+    "name": "xarm_6_firmware",
+    "version": "-",
+    "created_at": "2020-07-21T12:58:25",
+    "updated_at": "2021-07-01T12:22:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ufactory:xarm_6_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

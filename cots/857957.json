@@ -1,0 +1,10 @@
+{
+    "id": 857957,
+    "name": "echo_dot",
+    "version": "4.0",
+    "created_at": "2022-03-07T14:11:41",
+    "updated_at": "2022-03-18T15:24:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amazon:echo_dot:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

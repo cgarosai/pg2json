@@ -1,0 +1,10 @@
+{
+    "id": 681129,
+    "name": "network_flow_analysis",
+    "version": "9.3.3",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T15:43:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:network_flow_analysis:9.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

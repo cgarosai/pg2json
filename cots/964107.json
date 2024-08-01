@@ -1,0 +1,10 @@
+{
+    "id": 964107,
+    "name": "local_discovery_server",
+    "version": "1.04.405.479",
+    "created_at": "2022-11-21T18:21:10",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opcfoundation:local_discovery_server:1.04.405.479:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

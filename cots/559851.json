@@ -1,0 +1,10 @@
+{
+    "id": 559851,
+    "name": "graphql-playground-middleware-express",
+    "version": "1.3.7",
+    "created_at": "2020-06-11T13:47:12",
+    "updated_at": "2020-06-11T13:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prisma:graphql-playground-middleware-express:1.3.7:alpha3:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

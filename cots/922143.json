@@ -1,0 +1,10 @@
+{
+    "id": 922143,
+    "name": "mod_wsgi",
+    "version": "4.5.2",
+    "created_at": "2022-08-29T15:37:32",
+    "updated_at": "2022-09-03T01:16:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modwsgi:mod_wsgi:4.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1169782,
+    "name": "ac6_firmware",
+    "version": "us_ac6v1.0br_v15.03.05.19",
+    "created_at": "2023-09-29T01:57:47",
+    "updated_at": "2023-09-29T01:57:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenda:ac6_firmware:us_ac6v1.0br_v15.03.05.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

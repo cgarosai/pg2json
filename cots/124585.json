@@ -1,0 +1,10 @@
+{
+    "id": 124585,
+    "name": "ha",
+    "version": "0.999p\\+dfsg-5",
+    "created_at": "2017-09-06T12:59:34",
+    "updated_at": "2021-04-01T15:53:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux-ha:ha:0.999p\\+dfsg-5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

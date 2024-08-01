@@ -1,0 +1,10 @@
+{
+    "id": 819375,
+    "name": "metrocluster_tiebreaker",
+    "version": "-",
+    "created_at": "2021-11-29T14:13:45",
+    "updated_at": "2021-12-16T19:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:metrocluster_tiebreaker:-:*:*:*:*:clustered_data_ontap:*:*",
+    "to_analyse": false
+}

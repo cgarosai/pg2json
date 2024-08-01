@@ -1,0 +1,10 @@
+{
+    "id": 872164,
+    "name": "httpx",
+    "version": "0.9.2",
+    "created_at": "2022-05-05T16:12:49",
+    "updated_at": "2022-05-05T17:39:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:encode:httpx:0.9.2:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

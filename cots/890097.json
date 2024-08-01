@@ -1,0 +1,10 @@
+{
+    "id": 890097,
+    "name": "en100_ethernet_module_iec_61850_firmware",
+    "version": "-",
+    "created_at": "2022-06-17T13:19:41",
+    "updated_at": "2022-06-17T14:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:en100_ethernet_module_iec_61850_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

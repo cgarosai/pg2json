@@ -1,0 +1,10 @@
+{
+    "id": 10888,
+    "name": "mcstrans",
+    "version": "0.2.3",
+    "created_at": "2007-11-12T13:43:03",
+    "updated_at": "2008-04-01T14:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:mcstrans:0.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

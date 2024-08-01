@@ -1,0 +1,10 @@
+{
+    "id": 863485,
+    "name": "swaylock",
+    "version": "1.5",
+    "created_at": "2022-04-12T12:21:42",
+    "updated_at": "2022-04-19T01:08:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swayvm:swaylock:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

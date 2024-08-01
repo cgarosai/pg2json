@@ -1,0 +1,10 @@
+{
+    "id": 1194255,
+    "name": "epyc_75f3_firmware",
+    "version": "milanpi_1.0.0.7",
+    "created_at": "2023-11-24T15:34:56",
+    "updated_at": "2023-11-24T15:34:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_75f3_firmware:milanpi_1.0.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 960082,
+    "name": "ui",
+    "version": "0.8.4",
+    "created_at": "2022-11-14T14:10:33",
+    "updated_at": "2022-11-14T15:15:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:go-vela:ui:0.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

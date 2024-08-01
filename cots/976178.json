@@ -1,0 +1,10 @@
+{
+    "id": 976178,
+    "name": "vboxwrapper",
+    "version": "1.2",
+    "created_at": "2022-11-23T12:31:06",
+    "updated_at": "2022-11-23T12:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:vboxwrapper:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

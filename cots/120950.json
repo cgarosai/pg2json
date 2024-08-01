@@ -1,0 +1,10 @@
+{
+    "id": 120950,
+    "name": "ip_phone_8800_series",
+    "version": "11.0\\(0.1\\)",
+    "created_at": "2017-06-26T11:13:28",
+    "updated_at": "2021-05-25T13:21:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ip_phone_8800_series:11.0\\(0.1\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

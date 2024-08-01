@@ -1,0 +1,10 @@
+{
+    "id": 857180,
+    "name": "amt_wi-fi_6_ax201_firmware",
+    "version": "14.1.60",
+    "created_at": "2022-03-03T19:22:49",
+    "updated_at": "2022-03-03T19:24:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:amt_wi-fi_6_ax201_firmware:14.1.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

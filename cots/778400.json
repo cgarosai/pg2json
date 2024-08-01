@@ -1,0 +1,10 @@
+{
+    "id": 778400,
+    "name": "manageiq",
+    "version": "ivanchuk-7",
+    "created_at": "2021-09-14T13:42:51",
+    "updated_at": "2021-09-14T14:01:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:manageiq:manageiq:ivanchuk-7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

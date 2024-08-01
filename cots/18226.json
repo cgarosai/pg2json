@@ -1,0 +1,10 @@
+{
+    "id": 18226,
+    "name": "java_system_content_delivery_server",
+    "version": "4.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:java_system_content_delivery_server:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

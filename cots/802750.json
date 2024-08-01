@@ -1,0 +1,10 @@
+{
+    "id": 802750,
+    "name": "speex",
+    "version": "1.0.5",
+    "created_at": "2021-11-16T17:58:21",
+    "updated_at": "2021-11-16T18:16:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xiph:speex:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

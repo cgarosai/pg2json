@@ -1,0 +1,10 @@
+{
+    "id": 800878,
+    "name": "opc",
+    "version": "-",
+    "created_at": "2021-11-15T15:18:12",
+    "updated_at": "2021-11-15T16:40:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:softing:opc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 81680,
+    "name": "firepass",
+    "version": "6.0.0",
+    "created_at": "2014-02-11T14:12:29",
+    "updated_at": "2014-03-04T18:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:firepass:6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

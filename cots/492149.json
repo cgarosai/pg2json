@@ -1,0 +1,10 @@
+{
+    "id": 492149,
+    "name": "workspace_one_intelligent_hub",
+    "version": "19.10",
+    "created_at": "2020-02-24T17:32:34",
+    "updated_at": "2020-02-24T17:32:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workspace_one_intelligent_hub:19.10:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

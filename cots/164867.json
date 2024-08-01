@@ -1,0 +1,10 @@
+{
+    "id": 164867,
+    "name": "powershell_extension",
+    "version": "1.7.0",
+    "created_at": "2018-09-06T11:08:03",
+    "updated_at": "2021-08-12T12:51:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:powershell_extension:1.7.0:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

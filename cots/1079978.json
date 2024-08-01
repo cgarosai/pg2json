@@ -1,0 +1,10 @@
+{
+    "id": 1079978,
+    "name": "site_reviews",
+    "version": "-",
+    "created_at": "2023-05-08T11:46:27",
+    "updated_at": "2023-05-10T12:02:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geminilabs:site_reviews:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

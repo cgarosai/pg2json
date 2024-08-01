@@ -1,0 +1,10 @@
+{
+    "id": 680919,
+    "name": "etrust_ez_armor",
+    "version": "2",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T11:54:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:etrust_ez_armor:2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

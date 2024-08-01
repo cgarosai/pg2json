@@ -1,0 +1,10 @@
+{
+    "id": 1084932,
+    "name": "ntpd-rs",
+    "version": "0.3.0",
+    "created_at": "2023-06-02T11:36:02",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tweedegolf:ntpd-rs:0.3.0:alpha0:*:*:*:rust:*:*",
+    "to_analyse": false
+}

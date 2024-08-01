@@ -1,0 +1,10 @@
+{
+    "id": 73423,
+    "name": "udr",
+    "version": "1.9",
+    "created_at": "2013-08-22T14:46:23",
+    "updated_at": "2013-08-23T14:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sixnet:udr:1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 702543,
+    "name": "dxp",
+    "version": "7.2",
+    "created_at": "2021-05-24T12:00:50",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_12:*:*:*:*:*:*",
+    "to_analyse": false
+}

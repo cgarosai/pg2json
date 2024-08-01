@@ -1,0 +1,10 @@
+{
+    "id": 27168,
+    "name": "mod_ldap_userdir",
+    "version": "0.9",
+    "created_at": "2009-06-03T18:01:03",
+    "updated_at": "2009-06-03T18:01:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:john_morrissey:mod_ldap_userdir:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

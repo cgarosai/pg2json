@@ -1,0 +1,10 @@
+{
+    "id": 543263,
+    "name": "ubuntu_touch",
+    "version": "-",
+    "created_at": "2020-05-20T18:09:37",
+    "updated_at": "2020-05-20T18:09:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubports:ubuntu_touch:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

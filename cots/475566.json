@@ -1,0 +1,10 @@
+{
+    "id": 475566,
+    "name": "dnsmasq",
+    "version": "2.81",
+    "created_at": "2020-01-08T18:41:13",
+    "updated_at": "2020-01-08T18:41:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thekelleys:dnsmasq:2.81:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 577817,
+    "name": "gaia_os",
+    "version": "r77.20",
+    "created_at": "2020-07-30T09:29:42",
+    "updated_at": "2020-07-30T09:29:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:checkpoint:gaia_os:r77.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

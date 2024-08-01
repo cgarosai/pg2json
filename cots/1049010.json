@@ -1,0 +1,10 @@
+{
+    "id": 1049010,
+    "name": "sm9600",
+    "version": "-",
+    "created_at": "2023-03-09T11:20:23",
+    "updated_at": "2023-08-19T00:27:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:sm9600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

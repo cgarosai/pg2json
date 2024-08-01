@@ -1,0 +1,10 @@
+{
+    "id": 811229,
+    "name": "symantec_netbackup",
+    "version": "-",
+    "created_at": "2021-12-02T10:48:53",
+    "updated_at": "2021-12-16T19:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:symantec_netbackup:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 871522,
+    "name": "csv-safe",
+    "version": "1.0.0",
+    "created_at": "2022-05-05T11:47:05",
+    "updated_at": "2022-05-05T16:52:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:csv-safe_project:csv-safe:1.0.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

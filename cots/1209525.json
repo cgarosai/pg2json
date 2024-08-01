@@ -1,0 +1,10 @@
+{
+    "id": 1209525,
+    "name": "payment_gateway",
+    "version": "3.2.0",
+    "created_at": "2023-11-30T18:16:33",
+    "updated_at": "2023-11-30T18:16:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tripay:payment_gateway:3.2.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 345729,
+    "name": "sugarcrm",
+    "version": "9.0.0",
+    "created_at": "2019-08-21T11:38:32",
+    "updated_at": "2019-08-21T11:38:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sugarcrm:sugarcrm:9.0.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

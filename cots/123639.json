@@ -1,0 +1,10 @@
+{
+    "id": 123639,
+    "name": "i.mx_6solo_firmware",
+    "version": "-",
+    "created_at": "2017-08-22T17:47:24",
+    "updated_at": "2021-06-01T13:19:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nxp:i.mx_6solo_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

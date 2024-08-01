@@ -1,0 +1,10 @@
+{
+    "id": 302103,
+    "name": "bosh_cli",
+    "version": "0.0.154",
+    "created_at": "2019-07-23T13:36:38",
+    "updated_at": "2019-07-23T13:36:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:bosh_cli:0.0.154:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

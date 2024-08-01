@@ -1,0 +1,10 @@
+{
+    "id": 539296,
+    "name": "readynas_os",
+    "version": "6.9.3",
+    "created_at": "2020-04-27T15:13:29",
+    "updated_at": "2020-04-27T15:13:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:readynas_os:6.9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

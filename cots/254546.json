@@ -1,0 +1,10 @@
+{
+    "id": 254546,
+    "name": "numpy",
+    "version": "1.11.0",
+    "created_at": "2019-06-12T15:08:24",
+    "updated_at": "2019-06-12T15:08:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:numpy:numpy:1.11.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

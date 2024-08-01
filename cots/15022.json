@@ -1,0 +1,10 @@
+{
+    "id": 15022,
+    "name": "security_center",
+    "version": "7.1",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2012-05-10T13:20:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:security_center:7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

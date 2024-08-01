@@ -1,0 +1,10 @@
+{
+    "id": 527977,
+    "name": "simatic_s7-1500_cpu_1515-2_pn_firmware",
+    "version": "2.5",
+    "created_at": "2020-04-02T09:15:09",
+    "updated_at": "2020-04-02T09:15:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1515-2_pn_firmware:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

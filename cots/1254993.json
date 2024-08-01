@@ -1,0 +1,10 @@
+{
+    "id": 1254993,
+    "name": "forticlient_enterprise_management_server",
+    "version": "7.2.1",
+    "created_at": "2024-02-20T19:58:05",
+    "updated_at": "2024-02-20T19:58:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:forticlient_enterprise_management_server:7.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

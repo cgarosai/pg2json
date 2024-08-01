@@ -1,0 +1,10 @@
+{
+    "id": 1073237,
+    "name": "counterparty_settlement_and_billing",
+    "version": "-",
+    "created_at": "2023-05-16T16:52:04",
+    "updated_at": "2023-05-16T18:08:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1038561,
+    "name": "bleach",
+    "version": "3.1.4",
+    "created_at": "2023-02-24T14:05:21",
+    "updated_at": "2023-07-14T12:08:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:bleach:3.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

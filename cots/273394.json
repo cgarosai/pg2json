@@ -1,0 +1,10 @@
+{
+    "id": 273394,
+    "name": "gnome_display_manager",
+    "version": "3.23.92",
+    "created_at": "2019-07-01T13:05:02",
+    "updated_at": "2019-07-01T13:05:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gnome_display_manager:3.23.92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 815918,
+    "name": "ethernet_controller_xl710-am1_firmware",
+    "version": "-",
+    "created_at": "2021-11-22T15:33:30",
+    "updated_at": "2021-11-23T17:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_controller_xl710-am1_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

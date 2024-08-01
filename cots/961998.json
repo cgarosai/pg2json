@@ -1,0 +1,10 @@
+{
+    "id": 961998,
+    "name": "tc_mguard_rs2000_4g_att_vpn_firmware",
+    "version": "-",
+    "created_at": "2022-11-16T18:19:20",
+    "updated_at": "2022-11-18T16:31:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:tc_mguard_rs2000_4g_att_vpn_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

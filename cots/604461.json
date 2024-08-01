@@ -1,0 +1,10 @@
+{
+    "id": 604461,
+    "name": "prime_infrastructure",
+    "version": "3.5.1",
+    "created_at": "2020-10-21T15:27:16",
+    "updated_at": "2020-10-21T15:27:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_infrastructure:3.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

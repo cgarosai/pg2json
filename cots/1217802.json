@@ -1,0 +1,10 @@
+{
+    "id": 1217802,
+    "name": "senec_storage_box",
+    "version": "v3",
+    "created_at": "2023-12-12T16:54:25",
+    "updated_at": "2023-12-12T16:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:enbw:senec_storage_box:v3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

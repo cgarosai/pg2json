@@ -1,0 +1,10 @@
+{
+    "id": 65741,
+    "name": "enterprise_output_manager",
+    "version": "9.0.0.0",
+    "created_at": "2012-08-01T19:33:07",
+    "updated_at": "2012-08-01T19:33:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unisys:enterprise_output_manager:9.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

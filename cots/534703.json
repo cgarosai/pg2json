@@ -1,0 +1,10 @@
+{
+    "id": 534703,
+    "name": "loggregator",
+    "version": "103.2",
+    "created_at": "2020-05-04T15:33:00",
+    "updated_at": "2020-05-04T15:33:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:loggregator:103.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

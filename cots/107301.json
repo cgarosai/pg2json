@@ -1,0 +1,10 @@
+{
+    "id": 107301,
+    "name": "rhodecode_enterprise",
+    "version": "2.2.6",
+    "created_at": "2015-02-17T14:40:24",
+    "updated_at": "2015-02-19T18:36:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rhodecode:rhodecode_enterprise:2.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

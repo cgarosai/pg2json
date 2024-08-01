@@ -1,0 +1,10 @@
+{
+    "id": 605822,
+    "name": "brocade_sannav",
+    "version": "2.1.0",
+    "created_at": "2020-09-30T17:44:59",
+    "updated_at": "2020-09-30T17:44:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:brocade_sannav:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71840,
+    "name": "glass",
+    "version": "xe5",
+    "created_at": "2013-07-19T14:18:35",
+    "updated_at": "2013-07-24T13:21:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:google:glass:xe5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

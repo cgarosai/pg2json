@@ -1,0 +1,10 @@
+{
+    "id": 1204500,
+    "name": "rsa",
+    "version": "0.6.0",
+    "created_at": "2023-12-07T17:48:09",
+    "updated_at": "2023-12-07T17:48:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rustcrypto:rsa:0.6.0:pre:*:*:*:rust:*:*",
+    "to_analyse": false
+}

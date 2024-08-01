@@ -1,0 +1,10 @@
+{
+    "id": 1008218,
+    "name": "thinkserver_ts450_firmware",
+    "version": "6.0.1.7525",
+    "created_at": "2023-01-04T12:39:56",
+    "updated_at": "2023-01-23T14:40:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkserver_ts450_firmware:6.0.1.7525:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

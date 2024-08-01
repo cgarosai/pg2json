@@ -1,0 +1,10 @@
+{
+    "id": 584785,
+    "name": "blog_comments",
+    "version": "0.0.6",
+    "created_at": "2020-09-02T16:55:39",
+    "updated_at": "2020-09-02T16:55:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodebb:blog_comments:0.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

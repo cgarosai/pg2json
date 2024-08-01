@@ -1,0 +1,10 @@
+{
+    "id": 210959,
+    "name": "p5522-e_firmware",
+    "version": "5.51.5",
+    "created_at": "2019-03-20T16:47:18",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:p5522-e_firmware:5.51.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

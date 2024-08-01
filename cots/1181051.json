@@ -1,0 +1,10 @@
+{
+    "id": 1181051,
+    "name": "httpserver",
+    "version": "-",
+    "created_at": "2023-10-30T13:19:55",
+    "updated_at": "2023-10-30T13:19:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:httpserver_project:httpserver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

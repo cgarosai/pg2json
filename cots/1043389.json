@@ -1,0 +1,10 @@
+{
+    "id": 1043389,
+    "name": "verse",
+    "version": "2.0",
+    "created_at": "2023-03-14T17:30:39",
+    "updated_at": "2023-03-15T12:08:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:verse:2.0:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

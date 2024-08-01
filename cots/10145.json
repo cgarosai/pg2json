@@ -1,0 +1,10 @@
+{
+    "id": 10145,
+    "name": "antispyware",
+    "version": "1.0.509",
+    "created_at": "2007-09-12T20:54:23",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:antispyware:1.0.509:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

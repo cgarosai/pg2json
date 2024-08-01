@@ -1,0 +1,10 @@
+{
+    "id": 327652,
+    "name": "bosh_backup_and_restore",
+    "version": "1.2.8",
+    "created_at": "2019-07-31T16:03:51",
+    "updated_at": "2019-07-31T16:03:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:1.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1156832,
+    "name": "alluxio",
+    "version": "0.6.4",
+    "created_at": "2023-09-13T11:13:24",
+    "updated_at": "2023-09-13T11:13:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alluxio:alluxio:0.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

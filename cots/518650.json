@@ -1,0 +1,10 @@
+{
+    "id": 518650,
+    "name": "jdk",
+    "version": "9",
+    "created_at": "2020-03-19T12:00:23",
+    "updated_at": "2023-11-21T18:55:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:jdk:9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

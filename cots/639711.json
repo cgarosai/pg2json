@@ -1,0 +1,10 @@
+{
+    "id": 639711,
+    "name": "azure_sdk_for_java",
+    "version": "-",
+    "created_at": "2020-12-18T20:41:59",
+    "updated_at": "2020-12-18T20:41:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_sdk_for_java:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

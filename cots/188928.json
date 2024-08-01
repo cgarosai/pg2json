@@ -1,0 +1,10 @@
+{
+    "id": 188928,
+    "name": "ansible_tower",
+    "version": "2.4.0",
+    "created_at": "2018-10-31T13:39:10",
+    "updated_at": "2018-10-31T13:39:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible_tower:2.4.0:*:*:*:scm_repositories:*:*:*",
+    "to_analyse": false
+}

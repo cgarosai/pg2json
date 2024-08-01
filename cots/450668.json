@@ -1,0 +1,10 @@
+{
+    "id": 450668,
+    "name": "node-browser",
+    "version": "0.0.2",
+    "created_at": "2019-12-09T18:15:58",
+    "updated_at": "2019-12-09T18:15:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-browser_project:node-browser:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

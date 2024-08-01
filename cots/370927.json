@@ -1,0 +1,10 @@
+{
+    "id": 370927,
+    "name": "kconfig",
+    "version": "5.30.0",
+    "created_at": "2019-09-20T13:27:04",
+    "updated_at": "2019-09-20T13:27:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kconfig:5.30.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

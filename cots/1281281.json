@@ -1,0 +1,10 @@
+{
+    "id": 1281281,
+    "name": "metricool",
+    "version": "1.14",
+    "created_at": "2024-07-24T19:21:01",
+    "updated_at": "2024-07-24T19:21:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:metricool:metricool:1.14:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

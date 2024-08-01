@@ -1,0 +1,10 @@
+{
+    "id": 57709,
+    "name": "exchange_webproxy_archiver_agent",
+    "version": "9.0.0",
+    "created_at": "2012-05-08T11:52:08",
+    "updated_at": "2012-05-08T11:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commvault:exchange_webproxy_archiver_agent:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

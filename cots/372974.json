@@ -1,0 +1,10 @@
+{
+    "id": 372974,
+    "name": "powerpoint_viewer",
+    "version": "2012",
+    "created_at": "2019-09-23T10:43:22",
+    "updated_at": "2019-09-23T10:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:powerpoint_viewer:2012:*:*:*:*:*:x86:*",
+    "to_analyse": false
+}

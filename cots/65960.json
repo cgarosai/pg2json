@@ -1,0 +1,10 @@
+{
+    "id": 65960,
+    "name": "software_upgrader",
+    "version": "1.4.5.5",
+    "created_at": "2012-08-01T19:33:57",
+    "updated_at": "2020-02-24T14:02:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wdc:software_upgrader:1.4.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

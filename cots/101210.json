@@ -1,0 +1,10 @@
+{
+    "id": 101210,
+    "name": "administration_views",
+    "version": "7.x-1.x",
+    "created_at": "2015-08-20T10:56:40",
+    "updated_at": "2015-09-16T16:44:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:administration_views_project:administration_views:7.x-1.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

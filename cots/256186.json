@@ -1,0 +1,10 @@
+{
+    "id": 256186,
+    "name": "mingw-w64",
+    "version": "5.0.4",
+    "created_at": "2019-06-07T14:29:30",
+    "updated_at": "2019-06-07T14:29:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mingw:mingw-w64:5.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

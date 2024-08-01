@@ -1,0 +1,10 @@
+{
+    "id": 760726,
+    "name": "miniftpd",
+    "version": "1.0",
+    "created_at": "2021-08-26T12:01:50",
+    "updated_at": "2021-08-30T11:27:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniftpd_project:miniftpd:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

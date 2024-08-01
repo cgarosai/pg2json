@@ -1,0 +1,10 @@
+{
+    "id": 444619,
+    "name": "ng_firewall",
+    "version": "14.2.0",
+    "created_at": "2019-12-04T17:25:46",
+    "updated_at": "2019-12-04T17:25:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:untangle:ng_firewall:14.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

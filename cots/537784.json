@@ -1,0 +1,10 @@
+{
+    "id": 537784,
+    "name": "aws-lambda-multipart-parser",
+    "version": "0.1.2",
+    "created_at": "2020-04-21T11:14:45",
+    "updated_at": "2020-04-21T11:14:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aws-lambda-multipart-parser_project:aws-lambda-multipart-parser:0.1.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

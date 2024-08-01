@@ -1,0 +1,10 @@
+{
+    "id": 80948,
+    "name": "bing",
+    "version": "4.2.0",
+    "created_at": "2014-01-27T14:12:15",
+    "updated_at": "2014-01-27T14:15:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:bing:4.2.0:-:-:*:-:android:*:*",
+    "to_analyse": false
+}

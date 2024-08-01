@@ -1,0 +1,10 @@
+{
+    "id": 5551,
+    "name": "ciscoworks_management_center_for_ips_sensors",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ciscoworks_management_center_for_ips_sensors:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

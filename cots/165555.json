@@ -1,0 +1,10 @@
+{
+    "id": 165555,
+    "name": "pacsystems_cru320_firmware",
+    "version": "-",
+    "created_at": "2018-06-21T15:40:37",
+    "updated_at": "2021-06-08T11:47:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:pacsystems_cru320_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

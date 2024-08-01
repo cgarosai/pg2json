@@ -1,0 +1,10 @@
+{
+    "id": 960198,
+    "name": "worker",
+    "version": "0.2.1",
+    "created_at": "2022-11-14T14:14:15",
+    "updated_at": "2022-11-14T15:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:go-vela:worker:0.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

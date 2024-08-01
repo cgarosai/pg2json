@@ -1,0 +1,10 @@
+{
+    "id": 1215951,
+    "name": "zod",
+    "version": "3.22.2",
+    "created_at": "2023-12-09T03:57:34",
+    "updated_at": "2023-12-09T03:57:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zod:zod:3.22.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

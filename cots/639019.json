@@ -1,0 +1,10 @@
+{
+    "id": 639019,
+    "name": "ncs-55a2-mod-se-s_firmware",
+    "version": "6.6.25",
+    "created_at": "2020-12-18T13:17:09",
+    "updated_at": "2020-12-18T13:17:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ncs-55a2-mod-se-s_firmware:6.6.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 110559,
+    "name": "security_identity_manager_active_directory_adapter",
+    "version": "6.0.14",
+    "created_at": "2016-08-30T17:51:24",
+    "updated_at": "2021-06-08T11:28:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_identity_manager_active_directory_adapter:6.0.14:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

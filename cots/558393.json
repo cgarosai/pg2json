@@ -1,0 +1,10 @@
+{
+    "id": 558393,
+    "name": "ip_office",
+    "version": "9.0",
+    "created_at": "2020-06-04T16:41:28",
+    "updated_at": "2020-06-04T16:41:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:ip_office:9.0:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

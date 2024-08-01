@@ -1,0 +1,10 @@
+{
+    "id": 117806,
+    "name": "mobile_broadband_hl_service",
+    "version": "22.001.25.00.03",
+    "created_at": "2016-05-24T19:57:01",
+    "updated_at": "2021-06-04T10:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:mobile_broadband_hl_service:22.001.25.00.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

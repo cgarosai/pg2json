@@ -1,0 +1,10 @@
+{
+    "id": 1043769,
+    "name": "ez_platform_kernel",
+    "version": "6.0.0",
+    "created_at": "2023-03-15T12:48:39",
+    "updated_at": "2023-03-21T16:32:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibexa:ez_platform_kernel:6.0.0:alpha6:*:*:*:*:*:*",
+    "to_analyse": false
+}

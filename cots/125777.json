@@ -1,0 +1,10 @@
+{
+    "id": 125777,
+    "name": "systemedge",
+    "version": "5.8.2",
+    "created_at": "2017-03-14T14:18:47",
+    "updated_at": "2021-04-12T12:30:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:systemedge:5.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

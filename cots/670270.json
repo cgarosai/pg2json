@@ -1,0 +1,10 @@
+{
+    "id": 670270,
+    "name": "karaf_cellar",
+    "version": "2.3.4",
+    "created_at": "2021-03-19T13:14:52",
+    "updated_at": "2021-03-19T16:07:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:karaf_cellar:2.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

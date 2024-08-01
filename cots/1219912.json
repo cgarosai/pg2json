@@ -1,0 +1,10 @@
+{
+    "id": 1219912,
+    "name": "alfresco_content_services",
+    "version": "7.2.0",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hyland:alfresco_content_services:7.2.0:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

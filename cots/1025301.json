@@ -1,0 +1,10 @@
+{
+    "id": 1025301,
+    "name": "serve-lite",
+    "version": "-",
+    "created_at": "2023-02-01T10:58:38",
+    "updated_at": "2023-07-14T14:55:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serve-lite_project:serve-lite:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 594399,
+    "name": "dfu_library",
+    "version": "1.2.0",
+    "created_at": "2020-09-24T12:21:45",
+    "updated_at": "2020-09-24T12:21:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nordicsemi:dfu_library:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

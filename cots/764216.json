@@ -1,0 +1,10 @@
+{
+    "id": 764216,
+    "name": "tim_1531_irc_firmware",
+    "version": "2.2",
+    "created_at": "2021-09-03T10:06:33",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:tim_1531_irc_firmware:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

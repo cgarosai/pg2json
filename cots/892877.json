@@ -1,0 +1,10 @@
+{
+    "id": 892877,
+    "name": "sling_api",
+    "version": "2.4.2",
+    "created_at": "2022-06-28T13:13:56",
+    "updated_at": "2022-06-29T13:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:sling_api:2.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

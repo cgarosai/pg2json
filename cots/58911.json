@@ -1,0 +1,10 @@
+{
+    "id": 58911,
+    "name": "sitescope_monitoring",
+    "version": "11.10.0",
+    "created_at": "2012-05-14T21:32:06",
+    "updated_at": "2012-05-14T21:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:sitescope_monitoring:11.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

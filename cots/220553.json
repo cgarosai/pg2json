@@ -1,0 +1,10 @@
+{
+    "id": 220553,
+    "name": "simatic_cp343-1_advanced_firmware",
+    "version": "-",
+    "created_at": "2019-04-18T15:30:12",
+    "updated_at": "2021-05-25T16:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_cp343-1_advanced_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

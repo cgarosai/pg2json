@@ -1,0 +1,10 @@
+{
+    "id": 1055507,
+    "name": "dpd_france",
+    "version": "-",
+    "created_at": "2023-03-15T17:32:56",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prestashop:dpd_france:-:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 226185,
+    "name": "geforce_gtx_745",
+    "version": "-",
+    "created_at": "2019-04-09T10:25:50",
+    "updated_at": "2021-05-19T14:37:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:geforce_gtx_745:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

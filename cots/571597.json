@@ -1,0 +1,10 @@
+{
+    "id": 571597,
+    "name": "tivoli_netcool\\/impact",
+    "version": "7.1.0",
+    "created_at": "2020-08-06T15:20:17",
+    "updated_at": "2020-08-06T15:20:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_netcool\\/impact:7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

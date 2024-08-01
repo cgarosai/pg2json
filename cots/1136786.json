@@ -1,0 +1,10 @@
+{
+    "id": 1136786,
+    "name": "wag302v2_firmware",
+    "version": "5.1.19",
+    "created_at": "2023-08-08T15:10:42",
+    "updated_at": "2023-08-29T10:24:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:wag302v2_firmware:5.1.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

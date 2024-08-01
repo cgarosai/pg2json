@@ -1,0 +1,10 @@
+{
+    "id": 214034,
+    "name": "fortify_on_demand_uploader",
+    "version": "3.0.7",
+    "created_at": "2019-04-01T16:32:03",
+    "updated_at": "2019-04-01T16:32:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:fortify_on_demand_uploader:3.0.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

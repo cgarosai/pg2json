@@ -1,0 +1,10 @@
+{
+    "id": 587293,
+    "name": "go-tpm",
+    "version": "0.2.0",
+    "created_at": "2020-08-18T17:30:16",
+    "updated_at": "2020-08-18T17:30:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:go-tpm:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

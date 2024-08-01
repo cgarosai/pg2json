@@ -1,0 +1,10 @@
+{
+    "id": 138915,
+    "name": "openam",
+    "version": "9.5.5-41",
+    "created_at": "2017-11-21T18:23:54",
+    "updated_at": "2021-06-28T18:06:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osstech:openam:9.5.5-41:*:*:*:open_source:*:*:*",
+    "to_analyse": false
+}

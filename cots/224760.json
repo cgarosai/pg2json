@@ -1,0 +1,10 @@
+{
+    "id": 224760,
+    "name": "connectivity_engine_4_firmware",
+    "version": "201812",
+    "created_at": "2019-04-27T00:00:27",
+    "updated_at": "2021-06-16T13:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cerner:connectivity_engine_4_firmware:201812:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

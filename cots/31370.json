@@ -1,0 +1,10 @@
+{
+    "id": 31370,
+    "name": "configuration_compliance_manager",
+    "version": "-",
+    "created_at": "2011-01-07T16:45:24",
+    "updated_at": "2011-01-07T16:45:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncircle:configuration_compliance_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

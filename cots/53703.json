@@ -1,0 +1,10 @@
+{
+    "id": 53703,
+    "name": "power_agent_for_windows_2000_server",
+    "version": "6.3.405",
+    "created_at": "2012-07-10T01:19:15",
+    "updated_at": "2012-07-10T01:19:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sightlinesystems:power_agent_for_windows_2000_server:6.3.405:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1060979,
+    "name": "cp-8050_firmware",
+    "version": "cpci85_v05",
+    "created_at": "2023-04-18T12:20:00",
+    "updated_at": "2023-09-01T01:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cp-8050_firmware:cpci85_v05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

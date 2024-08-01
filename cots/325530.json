@@ -1,0 +1,10 @@
+{
+    "id": 325530,
+    "name": "client",
+    "version": "3.5.64827.0908",
+    "created_at": "2019-07-31T11:05:36",
+    "updated_at": "2020-04-07T17:47:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:client:3.5.64827.0908:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

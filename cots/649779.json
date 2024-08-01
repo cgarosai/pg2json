@@ -1,0 +1,10 @@
+{
+    "id": 649779,
+    "name": "http_server",
+    "version": "11.5.10.2",
+    "created_at": "2021-01-19T16:13:09",
+    "updated_at": "2021-01-19T16:13:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:http_server:11.5.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

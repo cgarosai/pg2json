@@ -1,0 +1,10 @@
+{
+    "id": 628586,
+    "name": "network_watcher_agent",
+    "version": "-",
+    "created_at": "2020-12-03T11:54:23",
+    "updated_at": "2020-12-03T11:54:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:network_watcher_agent:-:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

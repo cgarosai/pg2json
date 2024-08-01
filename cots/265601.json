@@ -1,0 +1,10 @@
+{
+    "id": 265601,
+    "name": "polkit",
+    "version": "0.108",
+    "created_at": "2019-06-13T16:06:54",
+    "updated_at": "2019-06-13T16:06:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:polkit_project:polkit:0.108:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 338951,
+    "name": "gpu_driver",
+    "version": "337.25",
+    "created_at": "2019-08-13T12:00:33",
+    "updated_at": "2019-08-13T12:00:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

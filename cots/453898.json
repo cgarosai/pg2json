@@ -1,0 +1,10 @@
+{
+    "id": 453898,
+    "name": "phone",
+    "version": "-",
+    "created_at": "2019-12-11T13:16:52",
+    "updated_at": "2019-12-11T13:16:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:samsung:phone:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

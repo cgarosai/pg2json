@@ -1,0 +1,10 @@
+{
+    "id": 1105773,
+    "name": "comment_and_review_spam_control",
+    "version": "-",
+    "created_at": "2023-06-20T21:45:04",
+    "updated_at": "2023-06-21T15:05:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xforwoocommerce:comment_and_review_spam_control:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

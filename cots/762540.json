@@ -1,0 +1,10 @@
+{
+    "id": 762540,
+    "name": "device_manager",
+    "version": "5.13.055",
+    "created_at": "2021-08-30T14:06:18",
+    "updated_at": "2021-08-30T14:07:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:axis:device_manager:5.13.055:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

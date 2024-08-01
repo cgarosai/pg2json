@@ -1,0 +1,10 @@
+{
+    "id": 1142762,
+    "name": "manageengine_m365_manager_plus",
+    "version": "4.5",
+    "created_at": "2023-09-01T14:25:17",
+    "updated_at": "2023-09-02T00:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_m365_manager_plus:4.5:build4533:*:*:*:*:*:*",
+    "to_analyse": false
+}

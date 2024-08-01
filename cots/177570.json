@@ -1,0 +1,10 @@
+{
+    "id": 177570,
+    "name": "vpn_5000_concentrator_series_software",
+    "version": "5.2.21",
+    "created_at": "2018-09-20T14:16:03",
+    "updated_at": "2021-04-27T12:04:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vpn_5000_concentrator_series_software:5.2.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

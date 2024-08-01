@@ -1,0 +1,10 @@
+{
+    "id": 7325,
+    "name": "backupexec_system_recovery",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:backupexec_system_recovery:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

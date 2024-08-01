@@ -1,0 +1,10 @@
+{
+    "id": 1204280,
+    "name": "ryzen_7_3750h_firmware",
+    "version": "picassopi-fp5_1.0.0.e",
+    "created_at": "2023-12-07T16:55:46",
+    "updated_at": "2023-12-07T16:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_7_3750h_firmware:picassopi-fp5_1.0.0.e:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

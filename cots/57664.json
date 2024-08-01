@@ -1,0 +1,10 @@
+{
+    "id": 57664,
+    "name": "cognos_enterprise_planning_client",
+    "version": "1.0.0",
+    "created_at": "2012-05-08T11:51:55",
+    "updated_at": "2012-05-08T11:51:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cognos:cognos_enterprise_planning_client:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

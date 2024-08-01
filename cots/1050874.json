@@ -1,0 +1,10 @@
+{
+    "id": 1050874,
+    "name": "swagger-ui-dist",
+    "version": "4.16.0",
+    "created_at": "2023-03-28T12:29:48",
+    "updated_at": "2023-04-06T12:31:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smartbear:swagger-ui-dist:4.16.0:-:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

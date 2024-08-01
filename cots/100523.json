@@ -1,0 +1,10 @@
+{
+    "id": 100523,
+    "name": "ts3200",
+    "version": "-",
+    "created_at": "2015-07-06T13:45:54",
+    "updated_at": "2015-07-06T13:48:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:ts3200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

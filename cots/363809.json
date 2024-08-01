@@ -1,0 +1,10 @@
+{
+    "id": 363809,
+    "name": "crm",
+    "version": "2.3.4",
+    "created_at": "2019-09-17T15:33:44",
+    "updated_at": "2019-09-17T15:33:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redmineup:crm:2.3.4:*:*:*:*:redmine:*:*",
+    "to_analyse": false
+}

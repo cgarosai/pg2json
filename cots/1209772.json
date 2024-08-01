@@ -1,0 +1,10 @@
+{
+    "id": 1209772,
+    "name": "carrierwave",
+    "version": "3.0.0",
+    "created_at": "2023-12-01T09:45:30",
+    "updated_at": "2023-12-01T09:45:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:carrierwave_project:carrierwave:3.0.0:-:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

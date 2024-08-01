@@ -1,0 +1,10 @@
+{
+    "id": 1136664,
+    "name": "metabase",
+    "version": "1.47.0",
+    "created_at": "2023-08-08T13:55:05",
+    "updated_at": "2023-08-11T22:29:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:metabase:metabase:1.47.0:rc3:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

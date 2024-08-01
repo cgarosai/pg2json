@@ -1,0 +1,10 @@
+{
+    "id": 282939,
+    "name": "flightcrew",
+    "version": "0.9.2",
+    "created_at": "2019-07-11T12:09:22",
+    "updated_at": "2019-07-11T12:09:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flightcrew_project:flightcrew:0.9.2:*:*:*:*:sigil:*:*",
+    "to_analyse": false
+}

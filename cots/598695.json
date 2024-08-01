@@ -1,0 +1,10 @@
+{
+    "id": 598695,
+    "name": "enterprise_linux_eus",
+    "version": "4.7",
+    "created_at": "2020-09-11T11:45:39",
+    "updated_at": "2020-09-11T11:45:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_eus:4.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 83900,
+    "name": "vplex_geosynchrony",
+    "version": "5.0",
+    "created_at": "2014-04-01T12:10:03",
+    "updated_at": "2014-04-02T11:47:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:vplex_geosynchrony:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

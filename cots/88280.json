@@ -1,0 +1,10 @@
+{
+    "id": 88280,
+    "name": "mod_dontdothat",
+    "version": "-",
+    "created_at": "2013-12-09T17:04:18",
+    "updated_at": "2013-12-09T17:12:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:mod_dontdothat:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

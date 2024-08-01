@@ -1,0 +1,10 @@
+{
+    "id": 1038,
+    "name": "vpn_3015_concentrator",
+    "version": "4.7.1",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-28T16:38:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vpn_3015_concentrator:4.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

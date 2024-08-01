@@ -1,0 +1,10 @@
+{
+    "id": 660670,
+    "name": "pug-code-gen",
+    "version": "1.1.0",
+    "created_at": "2021-03-03T15:07:02",
+    "updated_at": "2021-03-08T16:59:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pugjs:pug-code-gen:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

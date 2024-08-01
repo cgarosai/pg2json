@@ -1,0 +1,10 @@
+{
+    "id": 669181,
+    "name": "amazon_pay",
+    "version": "-",
+    "created_at": "2021-03-01T12:18:05",
+    "updated_at": "2021-03-04T15:16:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestit:amazon_pay:-:*:*:*:*:shopware:*:*",
+    "to_analyse": false
+}

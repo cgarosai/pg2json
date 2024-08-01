@@ -1,0 +1,10 @@
+{
+    "id": 125632,
+    "name": "gateway_ecu",
+    "version": "-",
+    "created_at": "2017-03-10T18:38:12",
+    "updated_at": "2017-03-10T18:38:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tesla:gateway_ecu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

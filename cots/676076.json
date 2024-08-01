@@ -1,0 +1,10 @@
+{
+    "id": 676076,
+    "name": "tivoli_netcool\\/omnibus_webgui",
+    "version": "8.1.0",
+    "created_at": "2021-03-12T12:32:01",
+    "updated_at": "2021-05-17T15:45:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_netcool\\/omnibus_webgui:8.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

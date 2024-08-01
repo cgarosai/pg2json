@@ -1,0 +1,10 @@
+{
+    "id": 1104599,
+    "name": "word-wrap",
+    "version": "-",
+    "created_at": "2023-07-05T11:46:39",
+    "updated_at": "2023-07-05T13:53:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:word-wrap_project:word-wrap:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

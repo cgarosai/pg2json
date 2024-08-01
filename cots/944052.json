@@ -1,0 +1,10 @@
+{
+    "id": 944052,
+    "name": "enterprise_sonic_distribution",
+    "version": "4.0.0",
+    "created_at": "2022-10-12T10:54:38",
+    "updated_at": "2022-10-13T13:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:enterprise_sonic_distribution:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

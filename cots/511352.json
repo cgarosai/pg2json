@@ -1,0 +1,10 @@
+{
+    "id": 511352,
+    "name": "celeron_b710",
+    "version": "-",
+    "created_at": "2020-03-26T12:31:17",
+    "updated_at": "2020-03-26T12:31:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:celeron_b710:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

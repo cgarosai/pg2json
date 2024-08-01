@@ -1,0 +1,10 @@
+{
+    "id": 289817,
+    "name": "redirection",
+    "version": "3.2",
+    "created_at": "2019-07-09T13:46:14",
+    "updated_at": "2019-07-09T13:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redirection:redirection:3.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

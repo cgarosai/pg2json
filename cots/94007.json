@@ -1,0 +1,10 @@
+{
+    "id": 94007,
+    "name": "shaklee_product_catalog",
+    "version": "2",
+    "created_at": "2014-11-10T15:21:23",
+    "updated_at": "2014-11-10T15:46:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shaklee_product_catalog_project:shaklee_product_catalog:2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

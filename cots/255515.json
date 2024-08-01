@@ -1,0 +1,10 @@
+{
+    "id": 255515,
+    "name": "big-ip_global_traffic_manager",
+    "version": "13.1.0.3",
+    "created_at": "2019-06-07T10:57:18",
+    "updated_at": "2019-06-07T10:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_global_traffic_manager:13.1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

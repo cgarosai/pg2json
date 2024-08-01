@@ -1,0 +1,10 @@
+{
+    "id": 451067,
+    "name": "mate_20_firmware",
+    "version": "-",
+    "created_at": "2019-12-10T11:26:17",
+    "updated_at": "2019-12-10T11:26:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mate_20_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

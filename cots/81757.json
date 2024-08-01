@@ -1,0 +1,10 @@
+{
+    "id": 81757,
+    "name": "enterprise_server_express",
+    "version": "5.0.4",
+    "created_at": "2014-02-14T16:28:36",
+    "updated_at": "2014-02-24T14:02:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackberry:enterprise_server_express:5.0.4:*:*:*:*:exchange_server:*:*",
+    "to_analyse": false
+}

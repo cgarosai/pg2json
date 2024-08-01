@@ -1,0 +1,10 @@
+{
+    "id": 44633,
+    "name": "sql_server",
+    "version": "2000",
+    "created_at": "2012-04-11T14:35:53",
+    "updated_at": "2012-04-18T19:49:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server:2000:sp4:analysis_services:*:*:*:*:*",
+    "to_analyse": false
+}

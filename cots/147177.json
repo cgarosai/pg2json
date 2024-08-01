@@ -1,0 +1,10 @@
+{
+    "id": 147177,
+    "name": "hive",
+    "version": "2.3.0",
+    "created_at": "2018-03-02T17:29:50",
+    "updated_at": "2018-03-02T17:29:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:hive:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 656967,
+    "name": "sonarqube_docker_image",
+    "version": "6.5",
+    "created_at": "2021-02-04T16:53:03",
+    "updated_at": "2021-02-04T16:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonarsource:sonarqube_docker_image:6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

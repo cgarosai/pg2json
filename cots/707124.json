@@ -1,0 +1,10 @@
+{
+    "id": 707124,
+    "name": "vsmart_controller_firmware",
+    "version": "-",
+    "created_at": "2021-05-10T19:20:33",
+    "updated_at": "2021-10-01T15:50:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vsmart_controller_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

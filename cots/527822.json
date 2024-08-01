@@ -1,0 +1,10 @@
+{
+    "id": 527822,
+    "name": "on_demand_service_broker",
+    "version": "0.15.3",
+    "created_at": "2020-04-01T18:19:33",
+    "updated_at": "2020-04-01T18:19:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:on_demand_service_broker:0.15.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

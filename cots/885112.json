@@ -1,0 +1,10 @@
+{
+    "id": 885112,
+    "name": "coreboot",
+    "version": "4.3",
+    "created_at": "2022-05-13T14:50:39",
+    "updated_at": "2022-06-03T11:09:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:coreboot:coreboot:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

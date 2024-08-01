@@ -1,0 +1,10 @@
+{
+    "id": 1161705,
+    "name": "scylladb",
+    "version": "5.1.0",
+    "created_at": "2023-10-02T16:22:56",
+    "updated_at": "2023-10-02T16:22:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scylladb:scylladb:5.1.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

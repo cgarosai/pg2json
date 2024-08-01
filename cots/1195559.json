@@ -1,0 +1,10 @@
+{
+    "id": 1195559,
+    "name": "automate",
+    "version": "4.10.40",
+    "created_at": "2023-11-06T17:17:17",
+    "updated_at": "2023-11-06T17:17:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chef:automate:4.10.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

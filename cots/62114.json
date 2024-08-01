@@ -1,0 +1,10 @@
+{
+    "id": 62114,
+    "name": "magento",
+    "version": "1.6.2",
+    "created_at": "2012-11-06T14:29:16",
+    "updated_at": "2012-11-21T16:12:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magentocommerce:magento:1.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

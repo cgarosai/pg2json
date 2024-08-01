@@ -1,0 +1,10 @@
+{
+    "id": 1159923,
+    "name": "ffmpeg-cli-wrapper",
+    "version": "0.4",
+    "created_at": "2023-09-16T11:48:57",
+    "updated_at": "2023-09-16T11:48:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bramp:ffmpeg-cli-wrapper:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

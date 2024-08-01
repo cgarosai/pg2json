@@ -1,0 +1,10 @@
+{
+    "id": 723352,
+    "name": "swan_lake",
+    "version": "alpha3",
+    "created_at": "2021-06-25T13:31:50",
+    "updated_at": "2021-06-28T11:24:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ballerina:swan_lake:alpha3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

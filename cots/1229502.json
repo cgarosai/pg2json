@@ -1,0 +1,10 @@
+{
+    "id": 1229502,
+    "name": "data_vault_publisher",
+    "version": "3.0.2",
+    "created_at": "2023-12-29T09:43:01",
+    "updated_at": "2023-12-29T09:43:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guard:data_vault_publisher:3.0.2:*:*:*:*:opc_ua:*:*",
+    "to_analyse": false
+}

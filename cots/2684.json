@@ -1,0 +1,10 @@
+{
+    "id": 2684,
+    "name": "755_network_printer",
+    "version": "-",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:12:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:755_network_printer:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 315615,
+    "name": "git_large_file_storage",
+    "version": "0.5.3",
+    "created_at": "2019-07-25T14:50:20",
+    "updated_at": "2019-07-25T14:50:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:git_large_file_storage_project:git_large_file_storage:0.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

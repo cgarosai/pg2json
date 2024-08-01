@@ -1,0 +1,10 @@
+{
+    "id": 652362,
+    "name": "ethernet_network_adapter_xl710-qda1_for_open_compute_project",
+    "version": "-",
+    "created_at": "2021-02-18T12:26:24",
+    "updated_at": "2021-04-30T15:21:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ethernet_network_adapter_xl710-qda1_for_open_compute_project:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

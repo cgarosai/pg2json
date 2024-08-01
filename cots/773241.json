@@ -1,0 +1,10 @@
+{
+    "id": 773241,
+    "name": "zeppelin",
+    "version": "0.5.6",
+    "created_at": "2021-09-23T15:27:52",
+    "updated_at": "2021-09-23T15:30:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:zeppelin:0.5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

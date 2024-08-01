@@ -1,0 +1,10 @@
+{
+    "id": 507901,
+    "name": "parallel\\",
+    "version": "\\",
+    "created_at": "2020-03-04T14:22:54",
+    "updated_at": "2020-03-04T14:22:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cpan:parallel\\:\\:forkmanager:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 52125,
+    "name": "mariadb",
+    "version": "5.2.1",
+    "created_at": "2012-06-27T11:10:03",
+    "updated_at": "2012-07-28T11:42:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mariadb:mariadb:5.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

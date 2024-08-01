@@ -1,0 +1,10 @@
+{
+    "id": 58898,
+    "name": "service_location_protocol",
+    "version": "1.0.9a",
+    "created_at": "2012-05-14T21:32:02",
+    "updated_at": "2012-05-14T21:32:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:service_location_protocol:1.0.9a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

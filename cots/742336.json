@@ -1,0 +1,10 @@
+{
+    "id": 742336,
+    "name": "modeler",
+    "version": "0.2.0",
+    "created_at": "2021-07-26T16:24:26",
+    "updated_at": "2021-07-27T17:25:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:camunda:modeler:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

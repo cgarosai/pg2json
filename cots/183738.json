@@ -1,0 +1,10 @@
+{
+    "id": 183738,
+    "name": "chat_server",
+    "version": "2.9",
+    "created_at": "2018-11-21T17:50:12",
+    "updated_at": "2018-11-21T17:50:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:12planet:chat_server:2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

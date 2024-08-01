@@ -1,0 +1,10 @@
+{
+    "id": 351120,
+    "name": "entropic",
+    "version": "-",
+    "created_at": "2019-09-09T09:19:08",
+    "updated_at": "2019-09-09T09:19:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:entropic_project:entropic:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

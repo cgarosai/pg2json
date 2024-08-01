@@ -1,0 +1,10 @@
+{
+    "id": 130800,
+    "name": "fusioncompute",
+    "version": "v100r005c10",
+    "created_at": "2017-12-08T15:51:38",
+    "updated_at": "2021-05-25T16:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:fusioncompute:v100r005c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

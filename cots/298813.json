@@ -1,0 +1,10 @@
+{
+    "id": 298813,
+    "name": "aruba_instant",
+    "version": "6.5.3.0",
+    "created_at": "2019-07-15T13:56:38",
+    "updated_at": "2019-07-15T13:56:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arubanetworks:aruba_instant:6.5.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

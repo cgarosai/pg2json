@@ -1,0 +1,10 @@
+{
+    "id": 888577,
+    "name": "2615_firmware",
+    "version": "16.01.0",
+    "created_at": "2022-05-24T10:59:43",
+    "updated_at": "2022-05-27T01:44:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:2615_firmware:16.01.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

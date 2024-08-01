@@ -1,0 +1,10 @@
+{
+    "id": 728449,
+    "name": "ovn-kubernetes",
+    "version": "0.3.0",
+    "created_at": "2021-06-14T13:22:34",
+    "updated_at": "2021-06-14T16:45:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovn:ovn-kubernetes:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

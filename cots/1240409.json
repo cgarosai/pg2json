@@ -1,0 +1,10 @@
+{
+    "id": 1240409,
+    "name": "smartphone_test_farm",
+    "version": "3.6.5",
+    "created_at": "2024-02-02T16:58:12",
+    "updated_at": "2024-02-02T16:58:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devicefarmer:smartphone_test_farm:3.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

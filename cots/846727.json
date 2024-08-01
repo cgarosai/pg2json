@@ -1,0 +1,10 @@
+{
+    "id": 846727,
+    "name": "gobblin",
+    "version": "0.15.0",
+    "created_at": "2022-02-07T17:07:42",
+    "updated_at": "2022-03-04T18:20:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:gobblin:0.15.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

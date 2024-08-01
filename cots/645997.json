@@ -1,0 +1,10 @@
+{
+    "id": 645997,
+    "name": "compiler",
+    "version": "0.2.0",
+    "created_at": "2021-01-07T14:09:40",
+    "updated_at": "2021-04-14T16:48:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:go-vela:compiler:0.2.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

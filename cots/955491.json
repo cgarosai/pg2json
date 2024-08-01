@@ -1,0 +1,10 @@
+{
+    "id": 955491,
+    "name": "lava",
+    "version": "2019.07",
+    "created_at": "2022-10-14T15:29:43",
+    "updated_at": "2022-10-14T16:07:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linaro:lava:2019.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

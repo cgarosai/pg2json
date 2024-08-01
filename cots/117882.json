@@ -1,0 +1,10 @@
+{
+    "id": 117882,
+    "name": "plk_firmware",
+    "version": "al10c92",
+    "created_at": "2016-05-25T18:18:54",
+    "updated_at": "2021-05-17T13:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:plk_firmware:al10c92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

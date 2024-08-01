@@ -1,0 +1,10 @@
+{
+    "id": 18340,
+    "name": "jsse",
+    "version": "1.0.3_03",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:jsse:1.0.3_03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

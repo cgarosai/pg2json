@@ -1,0 +1,10 @@
+{
+    "id": 147255,
+    "name": "hdl2-ah_firmware",
+    "version": "1.26",
+    "created_at": "2018-03-05T18:23:02",
+    "updated_at": "2021-06-04T12:51:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:iodata:hdl2-ah_firmware:1.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

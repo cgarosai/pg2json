@@ -1,0 +1,10 @@
+{
+    "id": 513647,
+    "name": "uap-core",
+    "version": "0.2.2",
+    "created_at": "2020-03-31T11:28:30",
+    "updated_at": "2021-02-17T12:32:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uap-core_project:uap-core:0.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

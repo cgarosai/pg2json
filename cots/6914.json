@@ -1,0 +1,10 @@
+{
+    "id": 6914,
+    "name": "application_server",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2009-10-22T17:30:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:application_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 648995,
+    "name": "jupyterhub",
+    "version": "0.8.0",
+    "created_at": "2021-01-14T16:24:22",
+    "updated_at": "2021-01-14T16:24:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:jupyterhub:0.8.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

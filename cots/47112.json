@@ -1,0 +1,10 @@
+{
+    "id": 47112,
+    "name": "sharepoint_server",
+    "version": "2010",
+    "created_at": "2011-06-14T14:28:40",
+    "updated_at": "2011-06-14T14:28:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_server:2010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

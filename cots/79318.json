@@ -1,0 +1,10 @@
+{
+    "id": 79318,
+    "name": "trafficanalyzer",
+    "version": "2.3.0",
+    "created_at": "2013-05-13T11:38:27",
+    "updated_at": "2013-05-14T21:26:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wptrafficanalyzer:trafficanalyzer:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 337433,
+    "name": "latitude_3150_firmware",
+    "version": "a10",
+    "created_at": "2019-08-12T10:20:24",
+    "updated_at": "2021-05-19T15:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:latitude_3150_firmware:a10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

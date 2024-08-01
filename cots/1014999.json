@@ -1,0 +1,10 @@
+{
+    "id": 1014999,
+    "name": "bolster",
+    "version": "-",
+    "created_at": "2023-01-31T15:53:58",
+    "updated_at": "2023-03-16T17:51:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chimpgroup:bolster:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

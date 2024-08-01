@@ -1,0 +1,10 @@
+{
+    "id": 940962,
+    "name": "catalyst_9800_firmware",
+    "version": "17.6",
+    "created_at": "2022-10-03T15:03:00",
+    "updated_at": "2022-10-13T15:27:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:catalyst_9800_firmware:17.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

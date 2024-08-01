@@ -1,0 +1,10 @@
+{
+    "id": 229140,
+    "name": "saltstack",
+    "version": "3.1.7",
+    "created_at": "2019-04-15T15:03:32",
+    "updated_at": "2019-04-15T15:03:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:saltstack:3.1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

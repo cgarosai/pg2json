@@ -1,0 +1,10 @@
+{
+    "id": 153610,
+    "name": "bibutils",
+    "version": "6.5",
+    "created_at": "2018-06-13T11:08:29",
+    "updated_at": "2018-06-13T11:08:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bibutils_project:bibutils:6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

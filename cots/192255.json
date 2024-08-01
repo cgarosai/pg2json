@@ -1,0 +1,10 @@
+{
+    "id": 192255,
+    "name": "slf4j-migrator",
+    "version": "1.8.0",
+    "created_at": "2019-01-10T15:03:50",
+    "updated_at": "2019-01-10T15:03:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slf4j:slf4j-migrator:1.8.0:alpha0:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 590828,
+    "name": "database",
+    "version": "19d",
+    "created_at": "2020-09-16T11:40:10",
+    "updated_at": "2020-09-16T11:40:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:database:19d:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

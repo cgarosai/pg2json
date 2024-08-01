@@ -1,0 +1,10 @@
+{
+    "id": 404043,
+    "name": "cadence_vmanager",
+    "version": "2.5.3",
+    "created_at": "2019-10-21T10:11:00",
+    "updated_at": "2019-10-21T10:11:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:cadence_vmanager:2.5.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

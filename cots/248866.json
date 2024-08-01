@@ -1,0 +1,10 @@
+{
+    "id": 248866,
+    "name": "tor_browser",
+    "version": "6.0.2",
+    "created_at": "2019-05-30T13:11:27",
+    "updated_at": "2019-05-30T13:11:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:torproject:tor_browser:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

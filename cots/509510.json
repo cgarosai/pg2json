@@ -1,0 +1,10 @@
+{
+    "id": 509510,
+    "name": "native_client",
+    "version": "2015",
+    "created_at": "2020-03-05T20:21:45",
+    "updated_at": "2020-03-05T20:21:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:native_client:2015:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

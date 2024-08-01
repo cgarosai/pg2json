@@ -1,0 +1,10 @@
+{
+    "id": 147692,
+    "name": "word",
+    "version": "2016",
+    "created_at": "2018-03-14T16:57:43",
+    "updated_at": "2018-03-14T16:57:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word:2016:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

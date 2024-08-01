@@ -1,0 +1,10 @@
+{
+    "id": 387294,
+    "name": "central_authentication_service",
+    "version": "3.4.11",
+    "created_at": "2019-09-24T12:50:13",
+    "updated_at": "2019-09-24T12:50:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apereo:central_authentication_service:3.4.11:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

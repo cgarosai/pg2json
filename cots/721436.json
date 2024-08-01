@@ -1,0 +1,10 @@
+{
+    "id": 721436,
+    "name": "magento-scripts",
+    "version": "1.0.6",
+    "created_at": "2021-06-22T17:39:11",
+    "updated_at": "2021-06-23T16:22:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scandipwa:magento-scripts:1.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

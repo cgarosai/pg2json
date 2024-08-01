@@ -1,0 +1,10 @@
+{
+    "id": 583381,
+    "name": "srs_simple_hits_counter",
+    "version": "0.1.2",
+    "created_at": "2020-09-01T14:07:51",
+    "updated_at": "2020-09-01T14:07:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:srs_simple_hits_counter_project:srs_simple_hits_counter:0.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

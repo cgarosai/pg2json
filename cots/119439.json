@@ -1,0 +1,10 @@
+{
+    "id": 119439,
+    "name": "elastic_storage_server",
+    "version": "3.0.4",
+    "created_at": "2016-06-29T16:08:08",
+    "updated_at": "2016-06-29T16:08:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:elastic_storage_server:3.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

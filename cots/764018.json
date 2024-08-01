@@ -1,0 +1,10 @@
+{
+    "id": 764018,
+    "name": "snapcenter_plug-in",
+    "version": "-",
+    "created_at": "2021-09-02T12:38:26",
+    "updated_at": "2021-11-17T15:31:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:snapcenter_plug-in:-:*:*:*:*:vmware_vsphere:*:*",
+    "to_analyse": false
+}

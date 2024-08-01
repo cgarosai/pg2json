@@ -1,0 +1,10 @@
+{
+    "id": 948030,
+    "name": "bifrost",
+    "version": "1.6.0",
+    "created_at": "2022-09-27T10:56:04",
+    "updated_at": "2022-09-27T11:17:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xbifrost:bifrost:1.6.0:beta4:*:*:*:*:*:*",
+    "to_analyse": false
+}

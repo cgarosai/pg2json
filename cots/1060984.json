@@ -1,0 +1,10 @@
+{
+    "id": 1060984,
+    "name": "woocommerce_payments",
+    "version": "4.9.0",
+    "created_at": "2023-04-18T12:49:11",
+    "updated_at": "2023-12-18T14:22:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:woocommerce_payments:4.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1269728,
+    "name": "azure_site_recovery",
+    "version": "-",
+    "created_at": "2024-04-15T19:47:46",
+    "updated_at": "2024-04-15T19:47:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_site_recovery:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

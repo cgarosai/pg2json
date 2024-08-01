@@ -1,0 +1,10 @@
+{
+    "id": 51922,
+    "name": "times_reader",
+    "version": "2.54",
+    "created_at": "2012-06-21T17:10:40",
+    "updated_at": "2012-06-21T17:10:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nytimes:times_reader:2.54:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

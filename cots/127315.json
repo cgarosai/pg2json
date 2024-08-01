@@ -1,0 +1,10 @@
+{
+    "id": 127315,
+    "name": "general_parallel_file_system_storage_server",
+    "version": "3.5.0.3",
+    "created_at": "2017-04-10T14:05:20",
+    "updated_at": "2017-04-10T14:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:general_parallel_file_system_storage_server:3.5.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

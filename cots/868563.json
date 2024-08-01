@@ -1,0 +1,10 @@
+{
+    "id": 868563,
+    "name": "f35_firmware",
+    "version": "1.0.34.0",
+    "created_at": "2022-03-29T15:36:47",
+    "updated_at": "2023-02-27T18:19:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexar:f35_firmware:1.0.34.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

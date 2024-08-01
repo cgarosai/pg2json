@@ -1,0 +1,10 @@
+{
+    "id": 633457,
+    "name": "jboss_a-mq",
+    "version": "7",
+    "created_at": "2021-01-04T14:42:52",
+    "updated_at": "2021-01-04T14:42:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_a-mq:7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

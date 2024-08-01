@@ -1,0 +1,10 @@
+{
+    "id": 10364,
+    "name": "linux",
+    "version": "9.0",
+    "created_at": "2007-09-19T18:35:55",
+    "updated_at": "2007-09-19T18:35:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:conectiva:linux:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

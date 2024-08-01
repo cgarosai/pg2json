@@ -1,0 +1,10 @@
+{
+    "id": 110078,
+    "name": "connections_portlets",
+    "version": "5.0",
+    "created_at": "2016-08-10T18:51:54",
+    "updated_at": "2021-06-04T15:41:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:connections_portlets:5.0:*:*:*:*:websphere_portal:*:*",
+    "to_analyse": false
+}

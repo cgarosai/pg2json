@@ -1,0 +1,10 @@
+{
+    "id": 99807,
+    "name": "wp_silverlight_media_player",
+    "version": "0.8",
+    "created_at": "2014-07-03T13:12:29",
+    "updated_at": "2014-07-17T15:17:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_silverlight_media_player_project:wp_silverlight_media_player:0.8:-:-:*:-:wordpress:*:*",
+    "to_analyse": false
+}

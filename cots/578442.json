@@ -1,0 +1,10 @@
+{
+    "id": 578442,
+    "name": "software_manager",
+    "version": "11.8.76",
+    "created_at": "2020-08-03T09:03:35",
+    "updated_at": "2020-08-03T09:03:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:software_manager:11.8.76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

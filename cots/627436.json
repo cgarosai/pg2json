@@ -1,0 +1,10 @@
+{
+    "id": 627436,
+    "name": "spice-vdagent",
+    "version": "0.20.0",
+    "created_at": "2020-12-02T12:13:57",
+    "updated_at": "2020-12-02T12:13:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spice-space:spice-vdagent:0.20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

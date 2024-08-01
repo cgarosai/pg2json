@@ -1,0 +1,10 @@
+{
+    "id": 131448,
+    "name": "ipc-hdbw2xxx_firmware",
+    "version": "-",
+    "created_at": "2017-12-15T14:10:15",
+    "updated_at": "2021-05-19T11:58:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dahuasecurity:ipc-hdbw2xxx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

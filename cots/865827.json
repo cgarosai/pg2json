@@ -1,0 +1,10 @@
+{
+    "id": 865827,
+    "name": "pgadmin_4",
+    "version": "4.2",
+    "created_at": "2022-03-22T16:41:43",
+    "updated_at": "2022-03-23T14:10:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postgresql:pgadmin_4:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

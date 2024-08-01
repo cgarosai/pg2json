@@ -1,0 +1,10 @@
+{
+    "id": 102216,
+    "name": "live_meeting",
+    "version": "2007",
+    "created_at": "2015-12-09T17:28:24",
+    "updated_at": "2015-12-09T17:28:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:live_meeting:2007:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

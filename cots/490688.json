@@ -1,0 +1,10 @@
+{
+    "id": 490688,
+    "name": "iopsys_firmware",
+    "version": "-",
+    "created_at": "2020-02-21T20:21:13",
+    "updated_at": "2020-02-21T20:21:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intenogroup:iopsys_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

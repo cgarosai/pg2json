@@ -1,0 +1,10 @@
+{
+    "id": 602097,
+    "name": "simatic_et_200_sp_open_controller_cpu_1515sp_pc2_firmware",
+    "version": "2.7",
+    "created_at": "2020-10-13T10:58:02",
+    "updated_at": "2020-10-13T10:58:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_et_200_sp_open_controller_cpu_1515sp_pc2_firmware:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

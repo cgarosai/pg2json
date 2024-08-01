@@ -1,0 +1,10 @@
+{
+    "id": 997904,
+    "name": "controllogix_5570_redundancy",
+    "version": "-",
+    "created_at": "2022-12-20T14:43:35",
+    "updated_at": "2022-12-20T14:49:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:rockwellautomation:controllogix_5570_redundancy:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

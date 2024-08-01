@@ -1,0 +1,10 @@
+{
+    "id": 177060,
+    "name": "cointoken",
+    "version": "-",
+    "created_at": "2018-09-17T17:11:36",
+    "updated_at": "2018-09-17T17:11:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cointoken_project:cointoken:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 302737,
+    "name": "burp",
+    "version": "2.1.22",
+    "created_at": "2019-07-23T14:54:06",
+    "updated_at": "2019-07-23T14:54:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:burp_project:burp:2.1.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

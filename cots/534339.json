@@ -1,0 +1,10 @@
+{
+    "id": 534339,
+    "name": "msm8920_firmware",
+    "version": "-",
+    "created_at": "2020-05-04T15:04:43",
+    "updated_at": "2020-05-04T15:04:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:msm8920_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

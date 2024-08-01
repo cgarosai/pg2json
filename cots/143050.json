@@ -1,0 +1,10 @@
+{
+    "id": 143050,
+    "name": "nmap",
+    "version": "3.91",
+    "created_at": "2018-05-22T15:26:23",
+    "updated_at": "2018-05-22T15:26:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nmap:nmap:3.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

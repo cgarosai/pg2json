@@ -1,0 +1,10 @@
+{
+    "id": 472968,
+    "name": "papercrop",
+    "version": "0.3.0",
+    "created_at": "2020-01-23T21:09:30",
+    "updated_at": "2020-01-23T21:09:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:papercrop_project:papercrop:0.3.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

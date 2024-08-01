@@ -1,0 +1,10 @@
+{
+    "id": 670116,
+    "name": "swift_development_environment",
+    "version": "2.5.0",
+    "created_at": "2021-03-19T00:07:47",
+    "updated_at": "2021-04-22T11:39:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swift_development_environment_project:swift_development_environment:2.5.0:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 433933,
+    "name": "operations_agent",
+    "version": "12.06",
+    "created_at": "2019-11-21T14:32:03",
+    "updated_at": "2019-11-21T14:32:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:operations_agent:12.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

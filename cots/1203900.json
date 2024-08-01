@@ -1,0 +1,10 @@
+{
+    "id": 1203900,
+    "name": "vite",
+    "version": "5.0.0",
+    "created_at": "2023-12-07T15:17:07",
+    "updated_at": "2023-12-07T15:17:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vitejs:vite:5.0.0:beta16:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

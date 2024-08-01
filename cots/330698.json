@@ -1,0 +1,10 @@
+{
+    "id": 330698,
+    "name": "freeswitch",
+    "version": "1.8.3",
+    "created_at": "2019-08-14T17:43:06",
+    "updated_at": "2019-08-14T17:43:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freeswitch:freeswitch:1.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

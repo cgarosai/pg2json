@@ -1,0 +1,10 @@
+{
+    "id": 587701,
+    "name": "dashlane",
+    "version": "4.6.8",
+    "created_at": "2020-08-19T13:34:06",
+    "updated_at": "2020-08-19T13:34:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dashlane:dashlane:4.6.8:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

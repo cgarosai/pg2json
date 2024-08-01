@@ -1,0 +1,10 @@
+{
+    "id": 483070,
+    "name": "buyertoken",
+    "version": "-",
+    "created_at": "2020-02-06T16:27:55",
+    "updated_at": "2020-02-06T16:27:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buyertoken_project:buyertoken:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

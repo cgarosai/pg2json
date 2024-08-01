@@ -1,0 +1,10 @@
+{
+    "id": 111641,
+    "name": "s5700_firmware",
+    "version": "v200r002c00",
+    "created_at": "2016-10-05T11:26:53",
+    "updated_at": "2016-10-05T11:26:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s5700_firmware:v200r002c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 560883,
+    "name": "mx_player",
+    "version": "1.20.8",
+    "created_at": "2020-07-10T17:57:19",
+    "updated_at": "2020-07-10T17:57:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mxplayer:mx_player:1.20.8:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

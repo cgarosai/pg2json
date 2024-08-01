@@ -1,0 +1,10 @@
+{
+    "id": 198352,
+    "name": "cgroupfs-mount",
+    "version": "1.4",
+    "created_at": "2018-12-31T14:58:31",
+    "updated_at": "2018-12-31T14:58:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cgroupfs-mount_project:cgroupfs-mount:1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

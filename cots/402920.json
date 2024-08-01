@@ -1,0 +1,10 @@
+{
+    "id": 402920,
+    "name": "upx",
+    "version": "1.90",
+    "created_at": "2019-10-17T10:34:01",
+    "updated_at": "2019-10-17T10:34:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:upx_project:upx:1.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 146107,
+    "name": "82576_firmware",
+    "version": "-",
+    "created_at": "2018-02-13T17:11:16",
+    "updated_at": "2021-05-03T16:57:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:82576_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

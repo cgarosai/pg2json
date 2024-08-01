@@ -1,0 +1,10 @@
+{
+    "id": 92789,
+    "name": "hanabank",
+    "version": "4.06",
+    "created_at": "2014-09-20T22:23:51",
+    "updated_at": "2014-12-14T14:43:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hanabank:hanabank:4.06:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

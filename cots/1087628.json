@@ -1,0 +1,10 @@
+{
+    "id": 1087628,
+    "name": "videogo",
+    "version": "6.8.1",
+    "created_at": "2023-05-23T12:41:37",
+    "updated_at": "2023-05-30T11:07:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:videogo_project:videogo:6.8.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

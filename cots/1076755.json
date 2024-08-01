@@ -1,0 +1,10 @@
+{
+    "id": 1076755,
+    "name": "json_content_importer",
+    "version": "1.3.3",
+    "created_at": "2023-04-28T15:08:47",
+    "updated_at": "2023-05-02T14:55:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:json-content-importer:json_content_importer:1.3.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

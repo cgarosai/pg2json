@@ -1,0 +1,10 @@
+{
+    "id": 527871,
+    "name": "service_broker",
+    "version": "0.0.28",
+    "created_at": "2020-04-01T18:19:58",
+    "updated_at": "2020-04-01T18:19:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:signalsciences:service_broker:0.0.28:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

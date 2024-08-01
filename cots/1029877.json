@@ -1,0 +1,10 @@
+{
+    "id": 1029877,
+    "name": "latitude_3400_firmware",
+    "version": "1.26.0",
+    "created_at": "2023-02-08T14:30:04",
+    "updated_at": "2023-02-08T14:43:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:latitude_3400_firmware:1.26.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

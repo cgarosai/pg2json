@@ -1,0 +1,10 @@
+{
+    "id": 708309,
+    "name": "singularity_image_format",
+    "version": "1.0.3",
+    "created_at": "2021-05-13T10:26:06",
+    "updated_at": "2021-05-17T16:23:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sylabs:singularity_image_format:1.0.3:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

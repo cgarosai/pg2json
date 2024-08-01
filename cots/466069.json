@@ -1,0 +1,10 @@
+{
+    "id": 466069,
+    "name": "vsa",
+    "version": "9.5.0.18",
+    "created_at": "2019-12-14T00:24:29",
+    "updated_at": "2019-12-14T00:24:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaseya:vsa:9.5.0.18:*:*:*:rmm:*:*:*",
+    "to_analyse": false
+}

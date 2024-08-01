@@ -1,0 +1,10 @@
+{
+    "id": 626490,
+    "name": "safeaccess",
+    "version": "-",
+    "created_at": "2020-12-01T12:00:57",
+    "updated_at": "2020-12-01T12:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:safeaccess:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

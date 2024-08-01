@@ -1,0 +1,10 @@
+{
+    "id": 919274,
+    "name": "sysmac_cp1e_firmware",
+    "version": "1.30",
+    "created_at": "2022-08-03T12:54:37",
+    "updated_at": "2022-08-03T14:56:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:omron:sysmac_cp1e_firmware:1.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

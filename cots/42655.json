@@ -1,0 +1,10 @@
+{
+    "id": 42655,
+    "name": "eclient",
+    "version": "7.3.2.3",
+    "created_at": "2012-02-29T23:35:47",
+    "updated_at": "2012-03-07T22:00:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infor:eclient:7.3.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

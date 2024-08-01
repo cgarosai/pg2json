@@ -1,0 +1,10 @@
+{
+    "id": 1168093,
+    "name": "openbsd",
+    "version": "7.2",
+    "created_at": "2023-09-27T17:30:30",
+    "updated_at": "2023-09-27T17:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:openbsd:openbsd:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

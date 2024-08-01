@@ -1,0 +1,10 @@
+{
+    "id": 718030,
+    "name": "fltk",
+    "version": "0.14.8",
+    "created_at": "2021-06-01T17:32:06",
+    "updated_at": "2021-06-01T17:34:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fltk_project:fltk:0.14.8:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

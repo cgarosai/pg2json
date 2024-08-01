@@ -1,0 +1,10 @@
+{
+    "id": 166856,
+    "name": "srea-01_firmware",
+    "version": "3.31.5",
+    "created_at": "2018-07-02T13:06:27",
+    "updated_at": "2021-05-19T14:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:srea-01_firmware:3.31.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

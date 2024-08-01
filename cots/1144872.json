@@ -1,0 +1,10 @@
+{
+    "id": 1144872,
+    "name": "camera",
+    "version": "12.1.00.00",
+    "created_at": "2023-09-08T13:09:10",
+    "updated_at": "2023-09-09T01:41:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:camera:12.1.00.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

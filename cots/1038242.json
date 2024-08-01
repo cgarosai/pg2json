@@ -1,0 +1,10 @@
+{
+    "id": 1038242,
+    "name": "netmodule_router_software",
+    "version": "4.3.0.119",
+    "created_at": "2023-02-23T17:25:46",
+    "updated_at": "2023-02-24T14:28:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netmodule:netmodule_router_software:4.3.0.119:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 931380,
+    "name": "cruddl",
+    "version": "2.4.0",
+    "created_at": "2022-09-12T15:26:30",
+    "updated_at": "2022-09-12T15:43:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aeb:cruddl:2.4.0:alpha0:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

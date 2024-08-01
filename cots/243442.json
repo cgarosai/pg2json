@@ -1,0 +1,10 @@
+{
+    "id": 243442,
+    "name": "ntopng",
+    "version": "3.4.180617",
+    "created_at": "2019-06-05T13:16:48",
+    "updated_at": "2019-06-05T13:16:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ntop:ntopng:3.4.180617:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

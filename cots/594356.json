@@ -1,0 +1,10 @@
+{
+    "id": 594356,
+    "name": "cyber_backup",
+    "version": "12.5",
+    "created_at": "2020-09-24T12:21:24",
+    "updated_at": "2020-09-24T12:21:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acronis:cyber_backup:12.5:8850:*:*:*:*:*:*",
+    "to_analyse": false
+}

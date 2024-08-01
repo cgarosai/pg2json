@@ -1,0 +1,10 @@
+{
+    "id": 589082,
+    "name": "automation_runtime",
+    "version": "3.10",
+    "created_at": "2020-08-20T15:21:42",
+    "updated_at": "2020-08-20T15:21:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:br-automation:automation_runtime:3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

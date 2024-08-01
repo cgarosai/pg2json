@@ -1,0 +1,10 @@
+{
+    "id": 141125,
+    "name": "clearpath_mcp",
+    "version": "17.0",
+    "created_at": "2018-04-24T14:52:12",
+    "updated_at": "2021-05-13T14:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:unisys:clearpath_mcp:17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

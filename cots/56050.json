@@ -1,0 +1,10 @@
+{
+    "id": 56050,
+    "name": "package_server_wmi_provider",
+    "version": "6.0.1057",
+    "created_at": "2012-04-24T21:22:09",
+    "updated_at": "2012-04-24T21:22:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:package_server_wmi_provider:6.0.1057:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

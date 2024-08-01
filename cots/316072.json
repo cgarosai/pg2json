@@ -1,0 +1,10 @@
+{
+    "id": 316072,
+    "name": "wp_no_external_links",
+    "version": "3.5.19",
+    "created_at": "2019-07-25T15:45:48",
+    "updated_at": "2019-07-25T15:45:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_no_external_links_project:wp_no_external_links:3.5.19:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

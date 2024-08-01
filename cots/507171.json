@@ -1,0 +1,10 @@
+{
+    "id": 507171,
+    "name": "selenium-standalone-painful",
+    "version": "2.39.0-2.7.0",
+    "created_at": "2020-03-03T16:46:27",
+    "updated_at": "2020-03-03T16:46:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:selenium-standalone-painful_project:selenium-standalone-painful:2.39.0-2.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

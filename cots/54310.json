@@ -1,0 +1,10 @@
+{
+    "id": 54310,
+    "name": "unified_threat_management_software",
+    "version": "8.3",
+    "created_at": "2012-07-10T15:02:13",
+    "updated_at": "2012-07-30T13:54:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:unified_threat_management_software:8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

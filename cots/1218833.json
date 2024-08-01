@@ -1,0 +1,10 @@
+{
+    "id": 1218833,
+    "name": "brocade_6505",
+    "version": "-",
+    "created_at": "2023-12-14T13:06:26",
+    "updated_at": "2023-12-14T13:06:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:broadcom:brocade_6505:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

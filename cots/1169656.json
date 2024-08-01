@@ -1,0 +1,10 @@
+{
+    "id": 1169656,
+    "name": "cc100_firmware",
+    "version": "22",
+    "created_at": "2023-09-28T19:37:07",
+    "updated_at": "2023-09-28T19:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:cc100_firmware:22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

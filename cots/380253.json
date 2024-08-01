@@ -1,0 +1,10 @@
+{
+    "id": 380253,
+    "name": "log_correlation_engine",
+    "version": "4.8.0",
+    "created_at": "2019-09-25T13:48:05",
+    "updated_at": "2019-09-25T13:48:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tenable:log_correlation_engine:4.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

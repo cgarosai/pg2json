@@ -1,0 +1,10 @@
+{
+    "id": 652073,
+    "name": "library_system",
+    "version": "1.0",
+    "created_at": "2021-02-17T16:23:37",
+    "updated_at": "2021-02-17T16:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:library_system_project:library_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

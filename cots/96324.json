@@ -1,0 +1,10 @@
+{
+    "id": 96324,
+    "name": "ncsa_mosaic",
+    "version": "2.7",
+    "created_at": "2014-05-08T12:05:27",
+    "updated_at": "2014-05-08T12:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:illinois:ncsa_mosaic:2.7:b5:*:*:*:*:*:*",
+    "to_analyse": false
+}

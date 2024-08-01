@@ -1,0 +1,10 @@
+{
+    "id": 31118,
+    "name": "vpn_3000_concentrator_series_software",
+    "version": "3.6.7.f",
+    "created_at": "2010-12-28T16:35:25",
+    "updated_at": "2010-12-28T16:35:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vpn_3000_concentrator_series_software:3.6.7.f:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 619153,
+    "name": "curl",
+    "version": "0.0.9",
+    "created_at": "2020-11-12T15:36:03",
+    "updated_at": "2020-11-12T15:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:curl_project:curl:0.0.9:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

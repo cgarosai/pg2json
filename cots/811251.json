@@ -1,0 +1,10 @@
+{
+    "id": 811251,
+    "name": "qradar_security_information_and_event_manager",
+    "version": "7.3.3",
+    "created_at": "2021-12-02T12:38:38",
+    "updated_at": "2021-12-09T20:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_9:*:*:*:*:*:*",
+    "to_analyse": false
+}

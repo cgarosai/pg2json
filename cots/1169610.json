@@ -1,0 +1,10 @@
+{
+    "id": 1169610,
+    "name": "interest_security_scanner",
+    "version": "1.8",
+    "created_at": "2023-09-28T19:23:03",
+    "updated_at": "2023-09-28T19:23:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:weka:interest_security_scanner:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

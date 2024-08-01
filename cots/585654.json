@@ -1,0 +1,10 @@
+{
+    "id": 585654,
+    "name": "ax200",
+    "version": "-",
+    "created_at": "2020-08-14T11:15:35",
+    "updated_at": "2021-05-10T13:24:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ax200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

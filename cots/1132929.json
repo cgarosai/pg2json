@@ -1,0 +1,10 @@
+{
+    "id": 1132929,
+    "name": "xeon_platinum_8470q",
+    "version": "-",
+    "created_at": "2023-08-17T17:06:44",
+    "updated_at": "2023-08-17T17:19:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_platinum_8470q:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

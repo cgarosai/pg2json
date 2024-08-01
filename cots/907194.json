@@ -1,0 +1,10 @@
+{
+    "id": 907194,
+    "name": "gps-sdr-sim",
+    "version": "1.0",
+    "created_at": "2022-07-07T14:52:22",
+    "updated_at": "2022-07-08T09:00:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gps-sdr-sim_project:gps-sdr-sim:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

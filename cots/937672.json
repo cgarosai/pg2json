@@ -1,0 +1,10 @@
+{
+    "id": 937672,
+    "name": "controledge_rtu_firmware",
+    "version": "r151.2",
+    "created_at": "2022-09-07T10:59:13",
+    "updated_at": "2022-09-07T11:55:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:honeywell:controledge_rtu_firmware:r151.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

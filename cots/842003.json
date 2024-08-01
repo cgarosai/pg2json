@@ -1,0 +1,10 @@
+{
+    "id": 842003,
+    "name": "interactive_graphical_scada_system_data_collector",
+    "version": "-",
+    "created_at": "2022-02-15T16:57:46",
+    "updated_at": "2022-02-15T17:25:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:schneider-electric:interactive_graphical_scada_system_data_collector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

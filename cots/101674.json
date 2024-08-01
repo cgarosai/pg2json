@@ -1,0 +1,10 @@
+{
+    "id": 101674,
+    "name": "license_metric_tool",
+    "version": "9.1.0.2",
+    "created_at": "2015-10-13T10:57:46",
+    "updated_at": "2015-11-24T17:45:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:license_metric_tool:9.1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

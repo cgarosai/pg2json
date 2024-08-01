@@ -1,0 +1,10 @@
+{
+    "id": 868201,
+    "name": "wallbox_gtc",
+    "version": "-",
+    "created_at": "2022-03-28T13:26:30",
+    "updated_at": "2022-03-30T11:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:garo:wallbox_gtc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 941215,
+    "name": "zephyr_project_manager",
+    "version": "3.0.0",
+    "created_at": "2022-10-04T13:05:30",
+    "updated_at": "2022-10-04T13:44:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zephyr_project_manager_project:zephyr_project_manager:3.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

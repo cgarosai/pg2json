@@ -1,0 +1,10 @@
+{
+    "id": 106776,
+    "name": "kde_applications",
+    "version": "14.11.3",
+    "created_at": "2015-01-21T16:31:05",
+    "updated_at": "2015-02-12T15:10:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kde_applications:14.11.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

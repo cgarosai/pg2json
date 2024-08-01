@@ -1,0 +1,10 @@
+{
+    "id": 1219136,
+    "name": "cloud-security-client-go",
+    "version": "0.4.1",
+    "created_at": "2023-12-15T17:08:08",
+    "updated_at": "2023-12-15T17:08:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:cloud-security-client-go:0.4.1:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 162120,
+    "name": "ui5_java",
+    "version": "7.30",
+    "created_at": "2018-08-09T17:28:59",
+    "updated_at": "2021-05-10T17:24:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:ui5_java:7.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

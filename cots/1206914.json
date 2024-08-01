@@ -1,0 +1,10 @@
+{
+    "id": 1206914,
+    "name": "submarine",
+    "version": "0.8.0",
+    "created_at": "2023-11-28T11:44:46",
+    "updated_at": "2023-11-28T11:44:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:submarine:0.8.0:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

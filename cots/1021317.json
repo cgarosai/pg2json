@@ -1,0 +1,10 @@
+{
+    "id": 1021317,
+    "name": "elitebook_640_g9_firmware",
+    "version": "01.04.00",
+    "created_at": "2023-02-10T11:50:11",
+    "updated_at": "2023-02-16T19:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:elitebook_640_g9_firmware:01.04.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

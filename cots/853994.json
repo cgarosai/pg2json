@@ -1,0 +1,10 @@
+{
+    "id": 853994,
+    "name": "smt_series_1031_ups_firmware",
+    "version": "-",
+    "created_at": "2022-03-17T13:57:34",
+    "updated_at": "2022-03-18T19:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:smt_series_1031_ups_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

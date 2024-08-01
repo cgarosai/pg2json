@@ -1,0 +1,10 @@
+{
+    "id": 133202,
+    "name": "ek-ertec_200pn_io_firmware",
+    "version": "-",
+    "created_at": "2018-01-11T14:10:56",
+    "updated_at": "2021-05-25T11:19:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:ek-ertec_200pn_io_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

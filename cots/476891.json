@@ -1,0 +1,10 @@
+{
+    "id": 476891,
+    "name": "xeon_e3-1285_v6_firmware",
+    "version": "26.20.100.6859",
+    "created_at": "2020-01-13T13:16:05",
+    "updated_at": "2020-01-13T13:16:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1285_v6_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

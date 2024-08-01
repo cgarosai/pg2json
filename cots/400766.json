@@ -1,0 +1,10 @@
+{
+    "id": 400766,
+    "name": "dynamic_resource_scheduling",
+    "version": "5.5.3.5",
+    "created_at": "2019-10-16T09:24:03",
+    "updated_at": "2019-10-16T09:24:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kirona:dynamic_resource_scheduling:5.5.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

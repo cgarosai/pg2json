@@ -1,0 +1,10 @@
+{
+    "id": 563727,
+    "name": "matrix_authorization_strategy",
+    "version": "2.6.2",
+    "created_at": "2020-07-21T13:57:28",
+    "updated_at": "2020-07-21T13:57:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:matrix_authorization_strategy:2.6.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

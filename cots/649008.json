@@ -1,0 +1,10 @@
+{
+    "id": 649008,
+    "name": "emui",
+    "version": "10.1.0",
+    "created_at": "2021-01-14T17:13:09",
+    "updated_at": "2021-12-09T16:57:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:emui:10.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

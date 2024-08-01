@@ -1,0 +1,10 @@
+{
+    "id": 914098,
+    "name": "yugabytedb",
+    "version": "2.11.0.0",
+    "created_at": "2022-08-16T11:05:01",
+    "updated_at": "2022-08-16T12:42:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yugabyte:yugabytedb:2.11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

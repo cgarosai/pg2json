@@ -1,0 +1,10 @@
+{
+    "id": 452190,
+    "name": "thinkpad_w540_firmware",
+    "version": "gnet92ww",
+    "created_at": "2019-12-10T15:08:55",
+    "updated_at": "2019-12-10T15:08:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_w540_firmware:gnet92ww:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

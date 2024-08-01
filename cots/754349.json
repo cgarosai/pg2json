@@ -1,0 +1,10 @@
+{
+    "id": 754349,
+    "name": "edgeswitch_xp",
+    "version": "-",
+    "created_at": "2021-08-12T14:40:10",
+    "updated_at": "2021-08-12T14:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ui:edgeswitch_xp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

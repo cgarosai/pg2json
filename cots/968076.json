@@ -1,0 +1,10 @@
+{
+    "id": 968076,
+    "name": "lightning_network_daemon",
+    "version": "0.14.3",
+    "created_at": "2022-11-07T13:58:59",
+    "updated_at": "2022-11-07T14:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.14.3:beta_rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

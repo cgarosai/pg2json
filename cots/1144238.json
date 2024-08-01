@@ -1,0 +1,10 @@
+{
+    "id": 1144238,
+    "name": "client_portal_\\",
+    "version": "suitedash_direct_login",
+    "created_at": "2023-09-07T11:36:36",
+    "updated_at": "2023-09-07T16:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suitedash:client_portal_\\:suitedash_direct_login:1.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

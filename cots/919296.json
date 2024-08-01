@@ -1,0 +1,10 @@
+{
+    "id": 919296,
+    "name": "tbox_ms-cpu32_firmware",
+    "version": "-",
+    "created_at": "2022-08-03T14:26:10",
+    "updated_at": "2022-08-03T14:56:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ovarro:tbox_ms-cpu32_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

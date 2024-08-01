@@ -1,0 +1,10 @@
+{
+    "id": 1248483,
+    "name": "clojure",
+    "version": "1.4.0",
+    "created_at": "2024-01-30T18:35:35",
+    "updated_at": "2024-01-30T18:35:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clojure:clojure:1.4.0:beta5:*:*:*:*:*:*",
+    "to_analyse": false
+}

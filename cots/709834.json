@@ -1,0 +1,10 @@
+{
+    "id": 709834,
+    "name": "pcoip_agent",
+    "version": "20.10.6",
+    "created_at": "2021-05-19T14:16:24",
+    "updated_at": "2021-06-04T16:43:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_agent:20.10.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1030672,
+    "name": "trace_analyzer_and_collector",
+    "version": "2021.6",
+    "created_at": "2023-02-28T15:09:29",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:trace_analyzer_and_collector:2021.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 461263,
+    "name": "ca_client_automation",
+    "version": "14.3",
+    "created_at": "2020-01-02T13:55:02",
+    "updated_at": "2020-01-02T13:55:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_client_automation:14.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

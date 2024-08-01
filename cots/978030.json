@@ -1,0 +1,10 @@
+{
+    "id": 978030,
+    "name": "i.mx_8m_vybrid_firmware",
+    "version": "-",
+    "created_at": "2022-11-28T09:37:56",
+    "updated_at": "2022-12-05T19:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nxp:i.mx_8m_vybrid_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10161,
+    "name": "sql_server",
+    "version": "7.0",
+    "created_at": "2007-09-12T20:54:38",
+    "updated_at": "2008-04-15T21:33:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server:7.0:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

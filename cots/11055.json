@@ -1,0 +1,10 @@
+{
+    "id": 11055,
+    "name": "tru64",
+    "version": "5.1a_pk4_bl21",
+    "created_at": "2007-12-12T18:55:24",
+    "updated_at": "2008-04-07T12:13:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:tru64:5.1a_pk4_bl21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

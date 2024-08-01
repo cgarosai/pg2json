@@ -1,0 +1,10 @@
+{
+    "id": 1023646,
+    "name": "syft",
+    "version": "0.12.5",
+    "created_at": "2023-02-14T15:41:51",
+    "updated_at": "2023-02-14T16:50:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anchore:syft:0.12.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

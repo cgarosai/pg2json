@@ -1,0 +1,10 @@
+{
+    "id": 76101,
+    "name": "smartcloud_control_desk",
+    "version": "7.5.0.0",
+    "created_at": "2013-02-20T16:19:33",
+    "updated_at": "2013-03-07T17:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:smartcloud_control_desk:7.5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

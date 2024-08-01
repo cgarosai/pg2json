@@ -1,0 +1,10 @@
+{
+    "id": 511457,
+    "name": "xeon_e5-4610",
+    "version": "-",
+    "created_at": "2020-03-26T12:32:08",
+    "updated_at": "2023-09-27T18:23:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5-4610:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

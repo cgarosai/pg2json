@@ -1,0 +1,10 @@
+{
+    "id": 74702,
+    "name": "idrac7_firmware",
+    "version": "1.10.10",
+    "created_at": "2013-09-24T15:34:01",
+    "updated_at": "2013-09-25T16:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:idrac7_firmware:1.10.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

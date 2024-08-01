@@ -1,0 +1,10 @@
+{
+    "id": 479089,
+    "name": "xeon_8176_firmware",
+    "version": "-",
+    "created_at": "2020-01-15T13:42:23",
+    "updated_at": "2020-01-15T13:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_8176_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 828501,
+    "name": "fathom_analytics",
+    "version": "-",
+    "created_at": "2021-12-17T00:24:00",
+    "updated_at": "2021-12-17T18:02:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conva:fathom_analytics:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

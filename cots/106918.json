@@ -1,0 +1,10 @@
+{
+    "id": 106918,
+    "name": "kde-workspace",
+    "version": "4.2.0",
+    "created_at": "2015-01-26T17:41:01",
+    "updated_at": "2015-01-26T18:41:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kde-workspace:4.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

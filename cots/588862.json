@@ -1,0 +1,10 @@
+{
+    "id": 588862,
+    "name": "base_software",
+    "version": "6.0",
+    "created_at": "2020-08-20T13:53:20",
+    "updated_at": "2020-08-20T13:53:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abb:base_software:6.0:*:*:*:*:softcontrol:*:*",
+    "to_analyse": false
+}

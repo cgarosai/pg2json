@@ -1,0 +1,10 @@
+{
+    "id": 755349,
+    "name": "export_users_with_meta",
+    "version": "0.6.6",
+    "created_at": "2021-07-29T16:30:00",
+    "updated_at": "2021-07-29T16:32:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:export_users_with_meta_project:export_users_with_meta:0.6.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

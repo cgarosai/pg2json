@@ -1,0 +1,10 @@
+{
+    "id": 164624,
+    "name": "core_i5",
+    "version": "7500t",
+    "created_at": "2018-09-05T10:53:18",
+    "updated_at": "2018-09-05T10:53:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:7500t:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

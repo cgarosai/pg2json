@@ -1,0 +1,10 @@
+{
+    "id": 90766,
+    "name": "firefox_esr",
+    "version": "24.6",
+    "created_at": "2014-07-23T12:10:27",
+    "updated_at": "2014-07-23T15:20:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox_esr:24.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

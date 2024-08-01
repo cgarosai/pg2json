@@ -1,0 +1,10 @@
+{
+    "id": 1160937,
+    "name": "windows_defender_security_intelligence_updates",
+    "version": "1.0.0",
+    "created_at": "2023-09-29T17:38:49",
+    "updated_at": "2023-09-29T17:38:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_defender_security_intelligence_updates:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

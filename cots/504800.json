@@ -1,0 +1,10 @@
+{
+    "id": 504800,
+    "name": "mod_gnutls",
+    "version": "0.7.3",
+    "created_at": "2020-03-11T14:11:18",
+    "updated_at": "2020-03-11T14:11:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mod_gnutls_project:mod_gnutls:0.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

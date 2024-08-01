@@ -1,0 +1,10 @@
+{
+    "id": 226756,
+    "name": "foreman",
+    "version": "1.21.0",
+    "created_at": "2019-04-10T15:07:13",
+    "updated_at": "2019-04-10T15:07:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theforeman:foreman:1.21.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 449300,
+    "name": "gs1900-10hp_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T15:50:21",
+    "updated_at": "2019-12-02T15:50:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:gs1900-10hp_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

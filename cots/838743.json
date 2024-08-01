@@ -1,0 +1,10 @@
+{
+    "id": 838743,
+    "name": "flatpak-builder",
+    "version": "0.99.3",
+    "created_at": "2022-01-20T15:28:05",
+    "updated_at": "2022-01-20T16:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flatpak:flatpak-builder:0.99.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

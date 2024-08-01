@@ -1,0 +1,10 @@
+{
+    "id": 976580,
+    "name": "google_compute_engine",
+    "version": "4.3.3",
+    "created_at": "2022-11-23T14:56:21",
+    "updated_at": "2022-11-23T14:56:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:google_compute_engine:4.3.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

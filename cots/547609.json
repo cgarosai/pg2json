@@ -1,0 +1,10 @@
+{
+    "id": 547609,
+    "name": "it_service_management",
+    "version": "madrid",
+    "created_at": "2020-05-11T09:45:53",
+    "updated_at": "2020-05-11T09:45:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:servicenow:it_service_management:madrid:patch_1-1:*:*:*:*:*:*",
+    "to_analyse": false
+}

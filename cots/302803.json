@@ -1,0 +1,10 @@
+{
+    "id": 302803,
+    "name": "nes",
+    "version": "1.1.0",
+    "created_at": "2019-07-23T15:09:57",
+    "updated_at": "2019-07-23T15:09:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hapijs:nes:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

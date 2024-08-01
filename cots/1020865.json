@@ -1,0 +1,10 @@
+{
+    "id": 1020865,
+    "name": "allegro",
+    "version": "4.9.6",
+    "created_at": "2023-02-09T15:05:54",
+    "updated_at": "2023-02-17T18:13:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liballeg:allegro:4.9.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

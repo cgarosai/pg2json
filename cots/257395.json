@@ -1,0 +1,10 @@
+{
+    "id": 257395,
+    "name": "libtiff",
+    "version": "4.0.9",
+    "created_at": "2019-06-09T17:10:43",
+    "updated_at": "2019-06-09T17:10:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libtiff:libtiff:4.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

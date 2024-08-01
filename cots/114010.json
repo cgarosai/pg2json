@@ -1,0 +1,10 @@
+{
+    "id": 114010,
+    "name": "population_health",
+    "version": "-",
+    "created_at": "2017-01-10T15:28:50",
+    "updated_at": "2021-05-28T13:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclinicalworks:population_health:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

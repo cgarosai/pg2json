@@ -1,0 +1,10 @@
+{
+    "id": 181782,
+    "name": "virtualization_host",
+    "version": "4.0",
+    "created_at": "2018-11-14T14:55:48",
+    "updated_at": "2018-11-14T14:55:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:virtualization_host:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

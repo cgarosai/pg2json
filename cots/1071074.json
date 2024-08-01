@@ -1,0 +1,10 @@
+{
+    "id": 1071074,
+    "name": "opentsdb",
+    "version": "2.4.1",
+    "created_at": "2023-05-09T16:10:15",
+    "updated_at": "2023-05-24T12:42:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opentsdb:opentsdb:2.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

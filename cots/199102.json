@@ -1,0 +1,10 @@
+{
+    "id": 199102,
+    "name": "libdaemon",
+    "version": "0.12",
+    "created_at": "2019-01-02T16:55:03",
+    "updated_at": "2019-01-02T16:55:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libdaemon_project:libdaemon:0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

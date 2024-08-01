@@ -1,0 +1,10 @@
+{
+    "id": 496445,
+    "name": "whoopsie",
+    "version": "-",
+    "created_at": "2020-02-12T18:19:44",
+    "updated_at": "2020-02-12T18:19:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whoopsie_project:whoopsie:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

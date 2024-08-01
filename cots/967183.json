@@ -1,0 +1,10 @@
+{
+    "id": 967183,
+    "name": "gecko_bootloader",
+    "version": "-",
+    "created_at": "2022-11-03T12:19:40",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:silabs:gecko_bootloader:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

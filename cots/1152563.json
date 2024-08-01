@@ -1,0 +1,10 @@
+{
+    "id": 1152563,
+    "name": "connect_matomo",
+    "version": "1.0.6",
+    "created_at": "2023-09-22T09:35:17",
+    "updated_at": "2023-09-22T09:35:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:braekling:connect_matomo:1.0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

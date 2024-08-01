@@ -1,0 +1,10 @@
+{
+    "id": 935873,
+    "name": "stop_spam_comments",
+    "version": "0.2.1.2",
+    "created_at": "2022-08-31T15:19:53",
+    "updated_at": "2022-11-07T19:28:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stop_spam_comments_project:stop_spam_comments:0.2.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

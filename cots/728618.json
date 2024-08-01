@@ -1,0 +1,10 @@
+{
+    "id": 728618,
+    "name": "smartthings_firmware",
+    "version": "-",
+    "created_at": "2021-06-15T11:07:27",
+    "updated_at": "2021-06-28T15:32:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:smartthings_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 558971,
+    "name": "openelec",
+    "version": "0.90.5",
+    "created_at": "2020-06-09T15:45:47",
+    "updated_at": "2020-06-09T15:45:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:openelec:openelec:0.90.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

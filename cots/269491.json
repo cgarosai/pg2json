@@ -1,0 +1,10 @@
+{
+    "id": 269491,
+    "name": "count_per_day",
+    "version": "2.15",
+    "created_at": "2019-06-17T12:14:09",
+    "updated_at": "2019-06-17T12:14:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:count_per_day_project:count_per_day:2.15:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

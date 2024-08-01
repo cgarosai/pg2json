@@ -1,0 +1,10 @@
+{
+    "id": 568542,
+    "name": "journal",
+    "version": "3.0.9",
+    "created_at": "2020-07-06T12:01:22",
+    "updated_at": "2020-07-06T12:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:journal-theme:journal:3.0.9:*:*:*:*:opencart:*:*",
+    "to_analyse": false
+}

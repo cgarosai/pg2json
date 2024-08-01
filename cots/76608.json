@@ -1,0 +1,10 @@
+{
+    "id": 76608,
+    "name": "nss-pam-ldapd",
+    "version": "0.6.9",
+    "created_at": "2013-03-06T13:27:27",
+    "updated_at": "2013-03-07T17:52:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arthurdejong:nss-pam-ldapd:0.6.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 234484,
+    "name": "enterprise_manager_base_platform",
+    "version": "13.2.0",
+    "created_at": "2019-05-16T14:03:18",
+    "updated_at": "2019-05-16T14:03:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_manager_base_platform:13.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

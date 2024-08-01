@@ -1,0 +1,10 @@
+{
+    "id": 646382,
+    "name": "emc_powerstore",
+    "version": "-",
+    "created_at": "2021-01-07T17:21:46",
+    "updated_at": "2021-01-07T17:21:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dell:emc_powerstore:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

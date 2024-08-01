@@ -1,0 +1,10 @@
+{
+    "id": 1240554,
+    "name": "email_appliance",
+    "version": "4.5.3.4",
+    "created_at": "2024-02-02T21:20:37",
+    "updated_at": "2024-02-02T21:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:email_appliance:4.5.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

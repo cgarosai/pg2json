@@ -1,0 +1,10 @@
+{
+    "id": 518336,
+    "name": "load_balancer_adc_firmware",
+    "version": "6.3.0.005",
+    "created_at": "2020-03-18T16:40:18",
+    "updated_at": "2020-03-18T16:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:barracuda:load_balancer_adc_firmware:6.3.0.005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

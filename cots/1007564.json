@@ -1,0 +1,10 @@
+{
+    "id": 1007564,
+    "name": "deltav_distributed_control_system_sx_controller_firmware",
+    "version": "-",
+    "created_at": "2023-01-03T15:28:47",
+    "updated_at": "2023-01-05T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emerson:deltav_distributed_control_system_sx_controller_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

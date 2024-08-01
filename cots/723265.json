@@ -1,0 +1,10 @@
+{
+    "id": 723265,
+    "name": "internet_security",
+    "version": "-",
+    "created_at": "2021-06-25T10:10:45",
+    "updated_at": "2021-07-02T11:20:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitdefender:internet_security:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 630437,
+    "name": "flash_player",
+    "version": "32.0.0.387",
+    "created_at": "2020-12-22T14:19:16",
+    "updated_at": "2020-12-22T14:19:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:flash_player:32.0.0.387:*:*:*:*:internet_explorer_11:*:*",
+    "to_analyse": false
+}

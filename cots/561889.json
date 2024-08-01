@@ -1,0 +1,10 @@
+{
+    "id": 561889,
+    "name": "upload_to_pgyer",
+    "version": "1.26",
+    "created_at": "2020-07-14T14:10:14",
+    "updated_at": "2020-07-14T14:10:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:upload_to_pgyer:1.26:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

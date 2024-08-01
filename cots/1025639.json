@@ -1,0 +1,10 @@
+{
+    "id": 1025639,
+    "name": "github_pull_request_coverage_status",
+    "version": "1.0.2",
+    "created_at": "2023-02-01T18:56:50",
+    "updated_at": "2023-02-02T13:37:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:github_pull_request_coverage_status:1.0.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

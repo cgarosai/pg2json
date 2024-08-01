@@ -1,0 +1,10 @@
+{
+    "id": 103861,
+    "name": "big-ip_edge_gateway",
+    "version": "10.2.3",
+    "created_at": "2016-01-25T14:37:00",
+    "updated_at": "2016-01-25T14:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_edge_gateway:10.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

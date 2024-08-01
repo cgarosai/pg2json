@@ -1,0 +1,10 @@
+{
+    "id": 1026670,
+    "name": "web_interface",
+    "version": "5.18.2",
+    "created_at": "2023-02-06T13:48:17",
+    "updated_at": "2023-02-08T14:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pi-hole:web_interface:5.18.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

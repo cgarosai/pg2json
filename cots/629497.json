@@ -1,0 +1,10 @@
+{
+    "id": 629497,
+    "name": "salt-netapi-client",
+    "version": "0.17.0-3.3.2",
+    "created_at": "2020-12-04T18:00:14",
+    "updated_at": "2020-12-04T18:00:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:salt-netapi-client:0.17.0-3.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

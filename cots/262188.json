@@ -1,0 +1,10 @@
+{
+    "id": 262188,
+    "name": "registry",
+    "version": "1.0.12",
+    "created_at": "2019-06-18T13:49:49",
+    "updated_at": "2019-06-18T13:49:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:silverstripe:registry:1.0.12:*:*:*:*:silverstripe:*:*",
+    "to_analyse": false
+}

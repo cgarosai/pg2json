@@ -1,0 +1,10 @@
+{
+    "id": 812631,
+    "name": "cognos_analytics",
+    "version": "11.1.7",
+    "created_at": "2021-12-06T15:24:11",
+    "updated_at": "2021-12-09T20:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack4:*:*:*:*:*:*",
+    "to_analyse": false
+}

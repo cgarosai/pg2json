@@ -1,0 +1,10 @@
+{
+    "id": 122826,
+    "name": "microsoft.aspnetcore.mvc.viewfeatures",
+    "version": "1.1.0",
+    "created_at": "2017-08-08T16:11:55",
+    "updated_at": "2017-08-08T16:11:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc.viewfeatures:1.1.0:*:*:*:*:asp.net:*:*",
+    "to_analyse": false
+}

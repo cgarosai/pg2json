@@ -1,0 +1,10 @@
+{
+    "id": 630467,
+    "name": "compute_node-x440_firmware",
+    "version": "cge128a",
+    "created_at": "2020-12-22T14:30:02",
+    "updated_at": "2020-12-22T14:30:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:compute_node-x440_firmware:cge128a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

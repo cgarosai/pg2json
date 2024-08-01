@@ -1,0 +1,10 @@
+{
+    "id": 455663,
+    "name": "service_provider",
+    "version": "3.1.0",
+    "created_at": "2019-12-05T19:02:35",
+    "updated_at": "2019-12-05T19:02:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shibboleth:service_provider:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

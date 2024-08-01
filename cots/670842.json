@@ -1,0 +1,10 @@
+{
+    "id": 670842,
+    "name": "spark",
+    "version": "2.9.10.356",
+    "created_at": "2021-03-19T16:28:21",
+    "updated_at": "2021-03-23T14:19:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:readdle:spark:2.9.10.356:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

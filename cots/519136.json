@@ -1,0 +1,10 @@
+{
+    "id": 519136,
+    "name": "optical_line_terminal_1150",
+    "version": "fp29.2_015873",
+    "created_at": "2020-03-23T10:31:01",
+    "updated_at": "2021-08-17T12:48:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:tellabs:optical_line_terminal_1150:fp29.2_015873:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

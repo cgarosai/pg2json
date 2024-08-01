@@ -1,0 +1,10 @@
+{
+    "id": 519189,
+    "name": "workstation",
+    "version": "15.5.2",
+    "created_at": "2020-03-23T11:35:23",
+    "updated_at": "2020-03-23T11:35:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workstation:15.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

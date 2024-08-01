@@ -1,0 +1,10 @@
+{
+    "id": 1110464,
+    "name": "weather_station",
+    "version": "3.4.4",
+    "created_at": "2023-07-12T15:04:27",
+    "updated_at": "2023-07-14T16:36:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:weather_station_project:weather_station:3.4.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

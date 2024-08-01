@@ -1,0 +1,10 @@
+{
+    "id": 908239,
+    "name": "opencti",
+    "version": "2.1.4",
+    "created_at": "2022-07-11T10:50:52",
+    "updated_at": "2022-07-11T11:08:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citeum:opencti:2.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

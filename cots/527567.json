@@ -1,0 +1,10 @@
+{
+    "id": 527567,
+    "name": "cloud_foundry_deployment_concourse_tasks",
+    "version": "2.2",
+    "created_at": "2020-04-01T18:00:49",
+    "updated_at": "2020-04-01T18:00:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_deployment_concourse_tasks:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

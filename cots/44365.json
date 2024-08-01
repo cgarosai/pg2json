@@ -1,0 +1,10 @@
+{
+    "id": 44365,
+    "name": "privawall_antivirus",
+    "version": "5.6",
+    "created_at": "2012-03-28T15:42:28",
+    "updated_at": "2012-04-18T19:53:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:privawall:privawall_antivirus:5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

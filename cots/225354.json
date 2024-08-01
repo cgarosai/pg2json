@@ -1,0 +1,10 @@
+{
+    "id": 225354,
+    "name": "aqua_security_scanner",
+    "version": "-",
+    "created_at": "2019-04-05T16:42:56",
+    "updated_at": "2019-04-05T16:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:aqua_security_scanner:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

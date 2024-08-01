@@ -1,0 +1,10 @@
+{
+    "id": 1147385,
+    "name": "ntsc-crt",
+    "version": "2.1.2",
+    "created_at": "2023-08-23T11:48:46",
+    "updated_at": "2023-08-25T05:40:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ntsc-crt_project:ntsc-crt:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

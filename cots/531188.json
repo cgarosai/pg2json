@@ -1,0 +1,10 @@
+{
+    "id": 531188,
+    "name": "\\",
+    "version": "lite_project",
+    "created_at": "2020-04-28T14:00:35",
+    "updated_at": "2020-04-28T14:00:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:soap\\:\\:lite_project:soap\\:\\:lite:0.43:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

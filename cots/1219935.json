@@ -1,0 +1,10 @@
+{
+    "id": 1219935,
+    "name": "quiche",
+    "version": "0.17.2",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:quiche:0.17.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

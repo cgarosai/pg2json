@@ -1,0 +1,10 @@
+{
+    "id": 892608,
+    "name": "discourse-chat",
+    "version": "0.3",
+    "created_at": "2022-06-27T11:56:37",
+    "updated_at": "2022-06-29T09:15:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:discourse:discourse-chat:0.3:*:*:*:*:discourse:*:*",
+    "to_analyse": false
+}

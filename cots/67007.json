@@ -1,0 +1,10 @@
+{
+    "id": 67007,
+    "name": "node_limitnumber",
+    "version": "6.x-2.0",
+    "created_at": "2012-08-15T19:39:13",
+    "updated_at": "2012-08-20T15:07:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node_limit_number_project:node_limitnumber:6.x-2.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

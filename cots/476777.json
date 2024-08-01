@@ -1,0 +1,10 @@
+{
+    "id": 476777,
+    "name": "pentium_j4205_firmware",
+    "version": "26.20.100.6859",
+    "created_at": "2020-01-13T13:15:10",
+    "updated_at": "2020-01-13T13:15:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:pentium_j4205_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

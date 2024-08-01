@@ -1,0 +1,10 @@
+{
+    "id": 1246083,
+    "name": "radeon_rx_5300xt",
+    "version": "-",
+    "created_at": "2024-01-26T14:31:40",
+    "updated_at": "2024-01-26T14:31:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:radeon_rx_5300xt:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

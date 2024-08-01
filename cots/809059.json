@@ -1,0 +1,10 @@
+{
+    "id": 809059,
+    "name": "lpar2rrd",
+    "version": "7.30",
+    "created_at": "2021-11-09T19:21:45",
+    "updated_at": "2021-11-10T01:40:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xorux:lpar2rrd:7.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

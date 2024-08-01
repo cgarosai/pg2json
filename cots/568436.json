@@ -1,0 +1,10 @@
+{
+    "id": 568436,
+    "name": "slack",
+    "version": "2.12",
+    "created_at": "2020-07-06T10:47:24",
+    "updated_at": "2020-07-06T10:47:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:slack:2.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

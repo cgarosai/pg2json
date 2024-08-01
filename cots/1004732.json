@@ -1,0 +1,10 @@
+{
+    "id": 1004732,
+    "name": "theme-cesnet",
+    "version": "2.0.0",
+    "created_at": "2023-01-11T15:55:02",
+    "updated_at": "2023-01-11T18:17:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cesnet:theme-cesnet:2.0.0:rc20:*:*:*:*:*:*",
+    "to_analyse": false
+}

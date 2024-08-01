@@ -1,0 +1,10 @@
+{
+    "id": 171563,
+    "name": "windriver",
+    "version": "8.0.1",
+    "created_at": "2018-10-15T14:56:01",
+    "updated_at": "2018-10-15T14:56:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jungo:windriver:8.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

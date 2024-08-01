@@ -1,0 +1,10 @@
+{
+    "id": 1230760,
+    "name": "sicam_a8000_cp-8050_firmware",
+    "version": "04.60",
+    "created_at": "2024-01-12T17:21:00",
+    "updated_at": "2024-01-12T17:21:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sicam_a8000_cp-8050_firmware:04.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

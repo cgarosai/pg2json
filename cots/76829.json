@@ -1,0 +1,10 @@
+{
+    "id": 76829,
+    "name": "aeolus_conductor",
+    "version": "-",
+    "created_at": "2013-03-18T19:13:29",
+    "updated_at": "2013-03-20T12:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:aeolus_conductor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

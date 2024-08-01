@@ -1,0 +1,10 @@
+{
+    "id": 1160079,
+    "name": "evasa_provider_virtual_appliance",
+    "version": "9.2.4.15",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:evasa_provider_virtual_appliance:9.2.4.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

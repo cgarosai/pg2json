@@ -1,0 +1,10 @@
+{
+    "id": 122867,
+    "name": "nx-os_for_nexus_5500_platform_switches",
+    "version": "base",
+    "created_at": "2017-08-10T15:20:42",
+    "updated_at": "2021-03-30T14:47:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:nx-os_for_nexus_5500_platform_switches:base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

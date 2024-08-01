@@ -1,0 +1,10 @@
+{
+    "id": 111412,
+    "name": "libstorage",
+    "version": "-",
+    "created_at": "2016-09-27T14:31:10",
+    "updated_at": "2021-06-15T17:08:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:libstorage:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

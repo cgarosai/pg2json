@@ -1,0 +1,10 @@
+{
+    "id": 799535,
+    "name": "hyperion_essbase",
+    "version": "11.1.2.4",
+    "created_at": "2021-10-22T13:30:44",
+    "updated_at": "2021-11-08T13:48:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:hyperion_essbase:11.1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

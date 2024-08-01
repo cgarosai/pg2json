@@ -1,0 +1,10 @@
+{
+    "id": 108056,
+    "name": "firewall_security_manager",
+    "version": "6.6.5",
+    "created_at": "2015-03-25T13:40:20",
+    "updated_at": "2015-03-25T16:34:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:firewall_security_manager:6.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

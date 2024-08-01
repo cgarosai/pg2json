@@ -1,0 +1,10 @@
+{
+    "id": 746269,
+    "name": "ectouch",
+    "version": "3.0",
+    "created_at": "2021-07-19T13:43:13",
+    "updated_at": "2021-07-19T17:55:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ectouch:ectouch:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 601162,
+    "name": "sg500-52_firmware",
+    "version": "2.5.5.47",
+    "created_at": "2020-10-08T13:28:43",
+    "updated_at": "2020-10-08T13:28:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg500-52_firmware:2.5.5.47:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

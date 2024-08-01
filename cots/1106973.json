@@ -1,0 +1,10 @@
+{
+    "id": 1106973,
+    "name": "wp-copyprotect",
+    "version": "2.1.0",
+    "created_at": "2023-06-21T12:21:21",
+    "updated_at": "2023-06-21T14:29:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-copyprotect_project:wp-copyprotect:2.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

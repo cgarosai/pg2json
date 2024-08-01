@@ -1,0 +1,10 @@
+{
+    "id": 145513,
+    "name": "xeon",
+    "version": "x5667",
+    "created_at": "2018-02-07T11:28:15",
+    "updated_at": "2020-04-27T18:29:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon:x5667:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

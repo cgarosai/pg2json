@@ -1,0 +1,10 @@
+{
+    "id": 371355,
+    "name": "fsk-server",
+    "version": "0.2.0",
+    "created_at": "2019-09-20T16:29:01",
+    "updated_at": "2019-09-20T16:29:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fsk-server_project:fsk-server:0.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

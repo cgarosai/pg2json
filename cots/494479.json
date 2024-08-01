@@ -1,0 +1,10 @@
+{
+    "id": 494479,
+    "name": "apt-cacher-ng",
+    "version": "0.8.6",
+    "created_at": "2020-02-27T13:52:03",
+    "updated_at": "2020-02-27T13:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apt-cacher-ng_project:apt-cacher-ng:0.8.6:pre1:*:*:*:*:*:*",
+    "to_analyse": false
+}

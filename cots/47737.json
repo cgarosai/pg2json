@@ -1,0 +1,10 @@
+{
+    "id": 47737,
+    "name": "data_protector",
+    "version": "6.10",
+    "created_at": "2011-08-02T11:09:09",
+    "updated_at": "2012-11-01T01:02:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:data_protector:6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

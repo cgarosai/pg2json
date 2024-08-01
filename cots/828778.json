@@ -1,0 +1,10 @@
+{
+    "id": 828778,
+    "name": "stackstorm",
+    "version": "3.5.0",
+    "created_at": "2021-12-17T17:15:08",
+    "updated_at": "2021-12-17T17:18:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stackstorm:stackstorm:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

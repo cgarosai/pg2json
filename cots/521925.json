@@ -1,0 +1,10 @@
+{
+    "id": 521925,
+    "name": "clamscan",
+    "version": "0.8.4",
+    "created_at": "2020-04-07T16:01:39",
+    "updated_at": "2020-04-07T16:01:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clamscan_project:clamscan:0.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

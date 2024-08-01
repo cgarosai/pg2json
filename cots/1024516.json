@@ -1,0 +1,10 @@
+{
+    "id": 1024516,
+    "name": "inventory_management_system",
+    "version": "-",
+    "created_at": "2023-02-15T18:05:16",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inventory_management_system_project:inventory_management_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

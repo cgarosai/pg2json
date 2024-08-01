@@ -1,0 +1,10 @@
+{
+    "id": 219067,
+    "name": "simotion_p320-4e_firmware",
+    "version": "17.0x.14",
+    "created_at": "2019-03-19T12:20:35",
+    "updated_at": "2021-05-26T15:27:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simotion_p320-4e_firmware:17.0x.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

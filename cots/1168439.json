@@ -1,0 +1,10 @@
+{
+    "id": 1168439,
+    "name": "ton-masterserver",
+    "version": "-",
+    "created_at": "2023-09-28T09:09:50",
+    "updated_at": "2023-09-28T09:09:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ton-masterserver_project:ton-masterserver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

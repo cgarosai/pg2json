@@ -1,0 +1,10 @@
+{
+    "id": 461329,
+    "name": "node-df",
+    "version": "0.1.4",
+    "created_at": "2020-01-02T14:56:33",
+    "updated_at": "2020-01-02T14:56:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-df_project:node-df:0.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

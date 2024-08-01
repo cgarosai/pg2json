@@ -1,0 +1,10 @@
+{
+    "id": 50980,
+    "name": "data_server_client",
+    "version": "9.5.500.784",
+    "created_at": "2012-06-21T17:06:30",
+    "updated_at": "2012-06-21T17:06:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:data_server_client:9.5.500.784:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

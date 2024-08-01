@@ -1,0 +1,10 @@
+{
+    "id": 838634,
+    "name": "planning_analytics_workspace",
+    "version": "2.0",
+    "created_at": "2022-01-20T12:53:42",
+    "updated_at": "2022-02-02T17:07:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:planning_analytics_workspace:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

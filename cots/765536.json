@@ -1,0 +1,10 @@
+{
+    "id": 765536,
+    "name": "webaccess\\/scada",
+    "version": "9.0",
+    "created_at": "2021-08-17T09:56:39",
+    "updated_at": "2021-08-19T11:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:advantech:webaccess\\/scada:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

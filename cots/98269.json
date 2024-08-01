@@ -1,0 +1,10 @@
+{
+    "id": 98269,
+    "name": "boinc",
+    "version": "7.0.80",
+    "created_at": "2014-06-03T11:01:40",
+    "updated_at": "2014-07-08T16:53:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rom_walton:boinc:7.0.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 630424,
+    "name": "unified_endpoint_manager",
+    "version": "12.12.1a",
+    "created_at": "2020-12-22T14:01:53",
+    "updated_at": "2020-12-22T14:01:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blackberry:unified_endpoint_manager:12.12.1a:quick_fix1:*:*:*:*:*:*",
+    "to_analyse": false
+}

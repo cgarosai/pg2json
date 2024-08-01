@@ -1,0 +1,10 @@
+{
+    "id": 857774,
+    "name": "atomix",
+    "version": "3.0.0",
+    "created_at": "2022-03-04T17:50:03",
+    "updated_at": "2022-03-04T22:02:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atomix:atomix:3.0.0:rc6:*:*:*:*:*:*",
+    "to_analyse": false
+}

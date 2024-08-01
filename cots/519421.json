@@ -1,0 +1,10 @@
+{
+    "id": 519421,
+    "name": "xeon_platinum_8260m",
+    "version": "-",
+    "created_at": "2020-03-23T13:42:15",
+    "updated_at": "2020-03-23T13:42:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_platinum_8260m:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

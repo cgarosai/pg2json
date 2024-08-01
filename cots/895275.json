@@ -1,0 +1,10 @@
+{
+    "id": 895275,
+    "name": "google-it",
+    "version": "1.5.4",
+    "created_at": "2022-06-08T12:32:20",
+    "updated_at": "2022-06-08T14:15:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google-it_project:google-it:1.5.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 495228,
+    "name": "wp_super_cache",
+    "version": "1.5.8",
+    "created_at": "2020-02-10T18:23:31",
+    "updated_at": "2020-02-10T18:23:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:wp_super_cache:1.5.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

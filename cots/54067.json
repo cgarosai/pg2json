@@ -1,0 +1,10 @@
+{
+    "id": 54067,
+    "name": "sql_anywhere",
+    "version": "11.1.2506",
+    "created_at": "2012-07-10T01:21:41",
+    "updated_at": "2012-07-10T01:21:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:sql_anywhere:11.1.2506:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

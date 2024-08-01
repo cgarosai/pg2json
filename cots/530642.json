@@ -1,0 +1,10 @@
+{
+    "id": 530642,
+    "name": "r6700_firmware",
+    "version": "1.1.0.42",
+    "created_at": "2020-04-28T11:35:03",
+    "updated_at": "2020-04-28T11:35:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6700_firmware:1.1.0.42:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

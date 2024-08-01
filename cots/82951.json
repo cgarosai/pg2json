@@ -1,0 +1,10 @@
+{
+    "id": 82951,
+    "name": "suricata",
+    "version": "1.4",
+    "created_at": "2014-03-13T12:48:23",
+    "updated_at": "2014-03-13T12:50:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openinfosecfoundation:suricata:1.4:beta_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

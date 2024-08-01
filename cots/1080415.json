@@ -1,0 +1,10 @@
+{
+    "id": 1080415,
+    "name": "wifi_hd_wireless_disk_drive",
+    "version": "11",
+    "created_at": "2023-05-25T13:39:46",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:savysoda:wifi_hd_wireless_disk_drive:11:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

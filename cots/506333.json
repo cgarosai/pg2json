@@ -1,0 +1,10 @@
+{
+    "id": 506333,
+    "name": "endpoint_protection",
+    "version": "-",
+    "created_at": "2020-03-02T17:57:13",
+    "updated_at": "2021-08-17T11:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:endpoint_protection:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

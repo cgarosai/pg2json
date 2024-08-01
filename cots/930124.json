@@ -1,0 +1,10 @@
+{
+    "id": 930124,
+    "name": "oxauth",
+    "version": "3.1.4",
+    "created_at": "2022-09-09T09:53:56",
+    "updated_at": "2022-09-13T10:14:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gluu:oxauth:3.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

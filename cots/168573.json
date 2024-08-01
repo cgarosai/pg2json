@@ -1,0 +1,10 @@
+{
+    "id": 168573,
+    "name": "bfgminer",
+    "version": "5.5.0",
+    "created_at": "2018-07-17T23:43:57",
+    "updated_at": "2021-03-23T17:22:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bfgminer:bfgminer:5.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

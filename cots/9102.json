@@ -1,0 +1,10 @@
+{
+    "id": 9102,
+    "name": "vpn_3000_concentrator",
+    "version": "2.5.2.f",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-12-28T16:38:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:vpn_3000_concentrator:2.5.2.f:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

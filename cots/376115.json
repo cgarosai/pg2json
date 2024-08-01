@@ -1,0 +1,10 @@
+{
+    "id": 376115,
+    "name": "lms",
+    "version": "010800",
+    "created_at": "2019-09-18T14:45:59",
+    "updated_at": "2019-09-18T14:45:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lms:lms:010800:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

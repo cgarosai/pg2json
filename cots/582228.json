@@ -1,0 +1,10 @@
+{
+    "id": 582228,
+    "name": "launcher_os",
+    "version": "13146",
+    "created_at": "2020-08-27T15:08:40",
+    "updated_at": "2020-08-27T15:08:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:robotemi:launcher_os:13146:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

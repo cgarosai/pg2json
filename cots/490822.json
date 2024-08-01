@@ -1,0 +1,10 @@
+{
+    "id": 490822,
+    "name": "ar510_firmware",
+    "version": "v200r006c17",
+    "created_at": "2020-02-21T21:19:01",
+    "updated_at": "2020-02-21T21:19:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar510_firmware:v200r006c17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

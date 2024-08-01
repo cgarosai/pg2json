@@ -1,0 +1,10 @@
+{
+    "id": 110158,
+    "name": "banking_platform",
+    "version": "2.3.0",
+    "created_at": "2016-08-18T12:46:28",
+    "updated_at": "2021-03-18T14:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:banking_platform:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

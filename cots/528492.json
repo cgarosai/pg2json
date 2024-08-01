@@ -1,0 +1,10 @@
+{
+    "id": 528492,
+    "name": "tesla",
+    "version": "-",
+    "created_at": "2020-04-02T14:07:17",
+    "updated_at": "2020-04-02T14:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:tesla:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 371801,
+    "name": "steroids",
+    "version": "0.10.11",
+    "created_at": "2019-09-20T17:59:52",
+    "updated_at": "2019-09-20T17:59:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appgyver:steroids:0.10.11:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

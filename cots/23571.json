@@ -1,0 +1,10 @@
+{
+    "id": 23571,
+    "name": "supportdesk",
+    "version": "3.0",
+    "created_at": "2010-05-11T11:08:24",
+    "updated_at": "2010-08-09T20:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:supportpro:supportdesk:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

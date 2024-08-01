@@ -1,0 +1,10 @@
+{
+    "id": 101430,
+    "name": "rubygems",
+    "version": "2.2.4",
+    "created_at": "2015-08-26T11:18:50",
+    "updated_at": "2015-08-27T15:57:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubygems:rubygems:2.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

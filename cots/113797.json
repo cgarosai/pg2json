@@ -1,0 +1,10 @@
+{
+    "id": 113797,
+    "name": "swiftmailer",
+    "version": "5.4.4",
+    "created_at": "2016-12-30T20:12:00",
+    "updated_at": "2021-08-06T11:46:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swiftmailer:swiftmailer:5.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

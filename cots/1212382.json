@@ -1,0 +1,10 @@
+{
+    "id": 1212382,
+    "name": "bazarr",
+    "version": "1.0.5",
+    "created_at": "2023-12-19T15:18:19",
+    "updated_at": "2023-12-19T15:18:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bazarr:bazarr:1.0.5:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

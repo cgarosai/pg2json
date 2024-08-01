@@ -1,0 +1,10 @@
+{
+    "id": 1012791,
+    "name": "cerebrate",
+    "version": "1.7",
+    "created_at": "2023-01-24T18:58:04",
+    "updated_at": "2023-01-24T19:04:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cerebrate-project:cerebrate:1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1268510,
+    "name": "router_manager",
+    "version": "1.2.3-8017",
+    "created_at": "2024-04-01T15:33:54",
+    "updated_at": "2024-04-01T15:33:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synology:router_manager:1.2.3-8017:update3:*:*:*:*:*:*",
+    "to_analyse": false
+}

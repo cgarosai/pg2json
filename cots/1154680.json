@@ -1,0 +1,10 @@
+{
+    "id": 1154680,
+    "name": "knx_ip_router",
+    "version": "-",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:gira:knx_ip_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

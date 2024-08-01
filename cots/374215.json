@@ -1,0 +1,10 @@
+{
+    "id": 374215,
+    "name": "randomatic",
+    "version": "1.0.0",
+    "created_at": "2019-09-23T12:10:05",
+    "updated_at": "2019-09-23T12:10:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:randomatic_project:randomatic:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

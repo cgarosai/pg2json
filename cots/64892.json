@@ -1,0 +1,10 @@
+{
+    "id": 64892,
+    "name": "chrome_os",
+    "version": "0.9.130.14",
+    "created_at": "2013-01-21T17:27:12",
+    "updated_at": "2013-01-22T14:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:chrome_os:0.9.130.14:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

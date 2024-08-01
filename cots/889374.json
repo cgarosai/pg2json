@@ -1,0 +1,10 @@
+{
+    "id": 889374,
+    "name": "quarkus",
+    "version": "2.2.5",
+    "created_at": "2022-05-27T12:38:19",
+    "updated_at": "2022-10-24T11:43:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quarkus:quarkus:2.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

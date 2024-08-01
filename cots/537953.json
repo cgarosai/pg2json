@@ -1,0 +1,10 @@
+{
+    "id": 537953,
+    "name": "dm200_firmware",
+    "version": "1.0.0.58",
+    "created_at": "2020-04-21T16:30:09",
+    "updated_at": "2020-04-21T16:30:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:dm200_firmware:1.0.0.58:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

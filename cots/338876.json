@@ -1,0 +1,10 @@
+{
+    "id": 338876,
+    "name": "codefresh_integration",
+    "version": "1.8",
+    "created_at": "2019-08-13T10:43:53",
+    "updated_at": "2019-08-13T10:43:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:codefresh_integration:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

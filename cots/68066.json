@@ -1,0 +1,10 @@
+{
+    "id": 68066,
+    "name": "linkchecker",
+    "version": "6.x-2.3",
+    "created_at": "2012-08-29T11:34:21",
+    "updated_at": "2012-08-31T16:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yaml-fuer-drupal:linkchecker:6.x-2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

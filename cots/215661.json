@@ -1,0 +1,10 @@
+{
+    "id": 215661,
+    "name": "endpoint_privilege_manager",
+    "version": "10.7",
+    "created_at": "2019-03-11T11:25:33",
+    "updated_at": "2019-03-11T11:25:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyberark:endpoint_privilege_manager:10.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

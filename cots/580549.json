@@ -1,0 +1,10 @@
+{
+    "id": 580549,
+    "name": "selfserv_atm",
+    "version": "-",
+    "created_at": "2020-08-24T12:25:43",
+    "updated_at": "2021-07-07T17:45:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ncr:selfserv_atm:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

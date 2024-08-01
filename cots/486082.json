@@ -1,0 +1,10 @@
+{
+    "id": 486082,
+    "name": "delayed_job_web",
+    "version": "1.0.0",
+    "created_at": "2020-01-30T14:16:40",
+    "updated_at": "2020-01-30T14:16:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:delayed_job_web_project:delayed_job_web:1.0.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

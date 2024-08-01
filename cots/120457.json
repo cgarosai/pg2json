@@ -1,0 +1,10 @@
+{
+    "id": 120457,
+    "name": "business_nas_firmware",
+    "version": "2013.60311",
+    "created_at": "2017-06-14T13:19:11",
+    "updated_at": "2021-05-27T12:05:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:seagate:business_nas_firmware:2013.60311:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

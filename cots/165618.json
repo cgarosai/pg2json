@@ -1,0 +1,10 @@
+{
+    "id": 165618,
+    "name": "airmail",
+    "version": "-",
+    "created_at": "2018-06-25T11:32:33",
+    "updated_at": "2021-05-26T13:31:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bloop:airmail:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 96343,
+    "name": "subversion-plugin",
+    "version": "1.50",
+    "created_at": "2014-05-09T12:13:48",
+    "updated_at": "2014-05-13T11:08:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins-ci:subversion-plugin:1.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

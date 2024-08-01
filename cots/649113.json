@@ -1,0 +1,10 @@
+{
+    "id": 649113,
+    "name": "rv042_dual_wan_vpn",
+    "version": "4.2.3.10",
+    "created_at": "2021-01-14T18:34:25",
+    "updated_at": "2021-01-14T18:34:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv042_dual_wan_vpn:4.2.3.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

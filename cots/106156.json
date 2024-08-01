@@ -1,0 +1,10 @@
+{
+    "id": 106156,
+    "name": "meraki_ms",
+    "version": "-",
+    "created_at": "2014-12-24T14:11:54",
+    "updated_at": "2015-03-25T17:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:meraki_ms:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 269043,
+    "name": "jboss_core_services",
+    "version": "1.0",
+    "created_at": "2019-06-17T09:05:24",
+    "updated_at": "2019-06-17T09:05:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_core_services:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

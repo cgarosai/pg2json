@@ -1,0 +1,10 @@
+{
+    "id": 522342,
+    "name": "js-bson",
+    "version": "1.1.2",
+    "created_at": "2020-04-07T17:24:29",
+    "updated_at": "2020-04-07T17:24:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:js-bson:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

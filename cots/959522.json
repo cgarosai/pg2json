@@ -1,0 +1,10 @@
+{
+    "id": 959522,
+    "name": "magento",
+    "version": "2.4.4",
+    "created_at": "2022-10-21T15:51:00",
+    "updated_at": "2022-10-21T19:03:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magento:magento:2.4.4:-:*:*:open_source:*:*:*",
+    "to_analyse": false
+}

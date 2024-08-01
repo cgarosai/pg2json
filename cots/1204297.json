@@ -1,0 +1,10 @@
+{
+    "id": 1204297,
+    "name": "ryzen_5_4600h_firmware",
+    "version": "renoirpi-fp6_1.0.0.9",
+    "created_at": "2023-12-07T16:55:46",
+    "updated_at": "2023-12-07T16:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_5_4600h_firmware:renoirpi-fp6_1.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

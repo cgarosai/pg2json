@@ -1,0 +1,10 @@
+{
+    "id": 764020,
+    "name": "whisker",
+    "version": "0.2",
+    "created_at": "2021-09-02T12:45:37",
+    "updated_at": "2021-09-02T16:46:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:whisker:0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

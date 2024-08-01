@@ -1,0 +1,10 @@
+{
+    "id": 94564,
+    "name": "power_iq",
+    "version": "4.1.0",
+    "created_at": "2014-11-28T12:50:23",
+    "updated_at": "2015-02-23T21:54:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:raritan:power_iq:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

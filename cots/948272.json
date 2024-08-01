@@ -1,0 +1,10 @@
+{
+    "id": 948272,
+    "name": "ig20_firmware",
+    "version": "-",
+    "created_at": "2022-09-27T13:54:12",
+    "updated_at": "2023-03-04T01:54:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:iegeek:ig20_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 220406,
+    "name": "i5-5350u_firmware",
+    "version": "mybdwi5v.86a",
+    "created_at": "2019-04-18T12:57:20",
+    "updated_at": "2021-05-25T19:28:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:i5-5350u_firmware:mybdwi5v.86a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

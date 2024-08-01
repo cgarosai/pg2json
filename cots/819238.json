@@ -1,0 +1,10 @@
+{
+    "id": 819238,
+    "name": "synapse",
+    "version": "1.48.0",
+    "created_at": "2021-11-29T13:25:21",
+    "updated_at": "2021-11-29T17:21:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:synapse:1.48.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

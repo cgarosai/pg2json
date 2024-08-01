@@ -1,0 +1,10 @@
+{
+    "id": 238061,
+    "name": "bodhi",
+    "version": "0.6.10",
+    "created_at": "2019-05-06T11:25:21",
+    "updated_at": "2019-05-06T11:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:bodhi:0.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

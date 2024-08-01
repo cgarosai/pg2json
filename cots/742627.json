@@ -1,0 +1,10 @@
+{
+    "id": 742627,
+    "name": "msgpack",
+    "version": "1.0.3",
+    "created_at": "2021-07-27T11:17:34",
+    "updated_at": "2021-07-27T14:24:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:msgpack:msgpack:1.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

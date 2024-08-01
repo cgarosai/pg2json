@@ -1,0 +1,10 @@
+{
+    "id": 478767,
+    "name": "fortios_ips_engine",
+    "version": "4.00036",
+    "created_at": "2020-01-14T18:54:44",
+    "updated_at": "2020-01-14T18:54:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortios_ips_engine:4.00036:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

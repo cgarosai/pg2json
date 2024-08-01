@@ -1,0 +1,10 @@
+{
+    "id": 1111176,
+    "name": "database_collation_fix",
+    "version": "1.2.7",
+    "created_at": "2023-07-14T11:20:40",
+    "updated_at": "2023-07-14T11:45:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:database_collation_fix_project:database_collation_fix:1.2.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

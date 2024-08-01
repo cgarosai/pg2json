@@ -1,0 +1,10 @@
+{
+    "id": 1204195,
+    "name": "manageengine_netflow_analyzer",
+    "version": "12.6",
+    "created_at": "2023-12-07T16:54:40",
+    "updated_at": "2023-12-07T16:54:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_netflow_analyzer:12.6:build126288:*:*:*:*:*:*",
+    "to_analyse": false
+}

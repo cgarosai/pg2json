@@ -1,0 +1,10 @@
+{
+    "id": 6664,
+    "name": "java_virtual_machine",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:14:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:java_virtual_machine:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

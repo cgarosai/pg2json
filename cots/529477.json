@@ -1,0 +1,10 @@
+{
+    "id": 529477,
+    "name": "thinkpad_usb-c_dock_firmware",
+    "version": "3.7.2",
+    "created_at": "2020-04-03T13:26:38",
+    "updated_at": "2020-04-03T13:26:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_usb-c_dock_firmware:3.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

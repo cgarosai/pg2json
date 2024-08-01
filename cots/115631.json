@@ -1,0 +1,10 @@
+{
+    "id": 115631,
+    "name": "rv082_dual_wan_vpn_router",
+    "version": "-",
+    "created_at": "2016-02-24T16:12:18",
+    "updated_at": "2016-02-24T16:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:rv082_dual_wan_vpn_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

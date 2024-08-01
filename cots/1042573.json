@@ -1,0 +1,10 @@
+{
+    "id": 1042573,
+    "name": "waap_gateway",
+    "version": "-",
+    "created_at": "2023-03-14T14:36:55",
+    "updated_at": "2023-08-18T17:17:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubikasec:waap_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

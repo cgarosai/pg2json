@@ -1,0 +1,10 @@
+{
+    "id": 690263,
+    "name": "runc",
+    "version": "1.0.0",
+    "created_at": "2021-04-23T15:22:08",
+    "updated_at": "2021-05-21T13:06:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:runc:1.0.0:rc91:*:*:*:*:*:*",
+    "to_analyse": false
+}

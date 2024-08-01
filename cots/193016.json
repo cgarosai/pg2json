@@ -1,0 +1,10 @@
+{
+    "id": 193016,
+    "name": "libcurl",
+    "version": "7.61.0",
+    "created_at": "2019-01-15T16:27:45",
+    "updated_at": "2019-01-15T16:27:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haxx:libcurl:7.61.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

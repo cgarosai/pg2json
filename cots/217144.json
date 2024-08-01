@@ -1,0 +1,10 @@
+{
+    "id": 217144,
+    "name": "memu",
+    "version": "6.1.0",
+    "created_at": "2019-03-13T19:41:49",
+    "updated_at": "2019-03-13T19:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microvirt:memu:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

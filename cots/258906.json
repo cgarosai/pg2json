@@ -1,0 +1,10 @@
+{
+    "id": 258906,
+    "name": "ds116_firmware",
+    "version": "6.2.1-23824-6",
+    "created_at": "2019-06-10T15:19:33",
+    "updated_at": "2019-06-10T15:19:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synology:ds116_firmware:6.2.1-23824-6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

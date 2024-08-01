@@ -1,0 +1,10 @@
+{
+    "id": 890282,
+    "name": "router",
+    "version": "7.22",
+    "created_at": "2022-06-21T13:23:55",
+    "updated_at": "2022-06-29T13:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:router:7.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

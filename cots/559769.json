@@ -1,0 +1,10 @@
+{
+    "id": 559769,
+    "name": "winmail_server",
+    "version": "6.2",
+    "created_at": "2020-06-11T13:05:20",
+    "updated_at": "2020-06-11T13:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magicwinmail:winmail_server:6.2:build0620:*:*:*:*:*:*",
+    "to_analyse": false
+}

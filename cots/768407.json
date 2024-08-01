@@ -1,0 +1,10 @@
+{
+    "id": 768407,
+    "name": "smart_email_alerts",
+    "version": "-",
+    "created_at": "2021-08-23T11:07:37",
+    "updated_at": "2021-08-23T11:14:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:followistic:smart_email_alerts:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

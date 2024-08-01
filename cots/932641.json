@@ -1,0 +1,10 @@
+{
+    "id": 932641,
+    "name": "m301-g_firmware",
+    "version": "2.20",
+    "created_at": "2022-09-15T11:56:21",
+    "updated_at": "2022-09-20T12:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:proscend:m301-g_firmware:2.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

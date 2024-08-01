@@ -1,0 +1,10 @@
+{
+    "id": 57062,
+    "name": "financial_services_software",
+    "version": "11.2.0",
+    "created_at": "2012-05-04T00:54:14",
+    "updated_at": "2012-05-30T18:51:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:financial_services_software:11.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

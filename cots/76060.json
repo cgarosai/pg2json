@@ -1,0 +1,10 @@
+{
+    "id": 76060,
+    "name": "san_volume_controller",
+    "version": "6.4",
+    "created_at": "2013-02-20T13:11:04",
+    "updated_at": "2014-03-31T14:32:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:san_volume_controller:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

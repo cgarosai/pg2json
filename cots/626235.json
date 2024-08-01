@@ -1,0 +1,10 @@
+{
+    "id": 626235,
+    "name": "eventon",
+    "version": "2.2.26",
+    "created_at": "2020-12-01T11:36:09",
+    "updated_at": "2020-12-01T11:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:myeventon:eventon:2.2.26:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

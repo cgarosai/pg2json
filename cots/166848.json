@@ -1,0 +1,10 @@
+{
+    "id": 166848,
+    "name": "mysql",
+    "version": "0.9.6",
+    "created_at": "2018-06-29T16:05:26",
+    "updated_at": "2021-05-18T15:00:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysqljs:mysql:0.9.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

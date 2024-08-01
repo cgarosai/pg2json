@@ -1,0 +1,10 @@
+{
+    "id": 644366,
+    "name": "lame",
+    "version": "3.86",
+    "created_at": "2021-02-01T13:02:28",
+    "updated_at": "2021-02-01T13:02:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lame_project:lame:3.86:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

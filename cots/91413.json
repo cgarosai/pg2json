@@ -1,0 +1,10 @@
+{
+    "id": 91413,
+    "name": "serf",
+    "version": "1.1.0",
+    "created_at": "2014-08-20T13:00:08",
+    "updated_at": "2014-08-22T19:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serf_project:serf:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

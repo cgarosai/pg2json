@@ -1,0 +1,10 @@
+{
+    "id": 476132,
+    "name": "uftpd",
+    "version": "2.11",
+    "created_at": "2020-01-13T11:22:40",
+    "updated_at": "2020-01-13T11:22:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:troglobit:uftpd:2.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

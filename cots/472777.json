@@ -1,0 +1,10 @@
+{
+    "id": 472777,
+    "name": "ncsa_httpd",
+    "version": "0.3",
+    "created_at": "2020-01-23T16:29:04",
+    "updated_at": "2020-01-23T16:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncsa_httpd_project:ncsa_httpd:0.3:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

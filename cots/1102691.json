@@ -1,0 +1,10 @@
+{
+    "id": 1102691,
+    "name": "inspiron_5620_firmware",
+    "version": "1.14.1",
+    "created_at": "2023-06-30T15:04:04",
+    "updated_at": "2023-06-30T16:15:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_5620_firmware:1.14.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 341473,
+    "name": "splunk",
+    "version": "1.7.2",
+    "created_at": "2019-08-30T12:18:40",
+    "updated_at": "2019-08-30T12:18:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:splunk:1.7.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

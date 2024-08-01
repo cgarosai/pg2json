@@ -1,0 +1,10 @@
+{
+    "id": 89786,
+    "name": "global_retention_policy_and_schedule_management",
+    "version": "6.0.2",
+    "created_at": "2014-01-10T16:19:23",
+    "updated_at": "2014-08-01T18:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:global_retention_policy_and_schedule_management:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

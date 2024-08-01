@@ -1,0 +1,10 @@
+{
+    "id": 733367,
+    "name": "egit",
+    "version": "3.5.3",
+    "created_at": "2021-07-14T10:40:22",
+    "updated_at": "2021-07-14T11:55:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:egit:3.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

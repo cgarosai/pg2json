@@ -1,0 +1,10 @@
+{
+    "id": 788795,
+    "name": "mx_time_zone_clocks",
+    "version": "3.4",
+    "created_at": "2021-10-05T11:39:53",
+    "updated_at": "2021-10-21T14:43:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mx_time_zone_clocks_project:mx_time_zone_clocks:3.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

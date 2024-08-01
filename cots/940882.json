@@ -1,0 +1,10 @@
+{
+    "id": 940882,
+    "name": "goolytics",
+    "version": "1.0",
+    "created_at": "2022-10-03T14:24:28",
+    "updated_at": "2022-10-03T16:44:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goolytics_project:goolytics:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

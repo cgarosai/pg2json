@@ -1,0 +1,10 @@
+{
+    "id": 73122,
+    "name": "scald",
+    "version": "7.x-1.0",
+    "created_at": "2013-08-20T16:42:26",
+    "updated_at": "2013-08-21T15:07:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ows:scald:7.x-1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

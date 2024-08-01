@@ -1,0 +1,10 @@
+{
+    "id": 470703,
+    "name": "securesphere_web_application_firewall",
+    "version": "2010-08-12",
+    "created_at": "2020-01-16T18:12:54",
+    "updated_at": "2020-01-16T18:12:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:imperva:securesphere_web_application_firewall:2010-08-12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

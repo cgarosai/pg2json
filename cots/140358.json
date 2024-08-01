@@ -1,0 +1,10 @@
+{
+    "id": 140358,
+    "name": "bridge-utils",
+    "version": "1.2",
+    "created_at": "2018-04-19T10:13:00",
+    "updated_at": "2018-04-19T10:13:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:bridge-utils:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

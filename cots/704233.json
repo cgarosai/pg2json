@@ -1,0 +1,10 @@
+{
+    "id": 704233,
+    "name": "beam",
+    "version": "1.0.0",
+    "created_at": "2021-05-25T17:35:32",
+    "updated_at": "2021-05-25T17:54:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:beam:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

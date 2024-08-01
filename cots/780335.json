@@ -1,0 +1,10 @@
+{
+    "id": 780335,
+    "name": "user_registration",
+    "version": "1.1.0",
+    "created_at": "2021-10-06T14:06:56",
+    "updated_at": "2021-10-25T21:26:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpeverest:user_registration:1.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

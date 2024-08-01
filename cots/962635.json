@@ -1,0 +1,10 @@
+{
+    "id": 962635,
+    "name": "crowd",
+    "version": "5.0.3",
+    "created_at": "2022-11-18T15:37:46",
+    "updated_at": "2022-11-21T12:02:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:crowd:5.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

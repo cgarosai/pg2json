@@ -1,0 +1,10 @@
+{
+    "id": 427607,
+    "name": "push_notifications",
+    "version": "1.9.4",
+    "created_at": "2019-11-04T14:23:46",
+    "updated_at": "2019-11-04T14:23:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:push_notifications:1.9.4:*:*:*:*:phonegap:*:*",
+    "to_analyse": false
+}

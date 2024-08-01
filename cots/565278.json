@@ -1,0 +1,10 @@
+{
+    "id": 565278,
+    "name": "vibrante_linux",
+    "version": "2.0",
+    "created_at": "2020-06-25T11:44:20",
+    "updated_at": "2020-06-25T11:44:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:vibrante_linux:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

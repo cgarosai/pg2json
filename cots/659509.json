@@ -1,0 +1,10 @@
+{
+    "id": 659509,
+    "name": "owncloud",
+    "version": "10.6.0",
+    "created_at": "2021-02-10T17:00:29",
+    "updated_at": "2021-02-10T17:00:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owncloud:owncloud:10.6.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

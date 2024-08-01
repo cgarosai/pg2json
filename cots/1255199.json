@@ -1,0 +1,10 @@
+{
+    "id": 1255199,
+    "name": "snom_370_firmware",
+    "version": "6.5.20",
+    "created_at": "2024-02-07T20:02:50",
+    "updated_at": "2024-02-07T20:02:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:snom:snom_370_firmware:6.5.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 845840,
+    "name": "gt2103-pmbd_firmware",
+    "version": "01.39.000",
+    "created_at": "2022-02-03T19:54:21",
+    "updated_at": "2022-02-03T20:00:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:gt2103-pmbd_firmware:01.39.000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

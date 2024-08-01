@@ -1,0 +1,10 @@
+{
+    "id": 573173,
+    "name": "cloud_services_platform_2100_firmware",
+    "version": "2.0.0",
+    "created_at": "2020-08-11T13:01:15",
+    "updated_at": "2020-08-11T13:01:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:cloud_services_platform_2100_firmware:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

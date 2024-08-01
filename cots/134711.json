@@ -1,0 +1,10 @@
+{
+    "id": 134711,
+    "name": "minnowboard_3",
+    "version": "-",
+    "created_at": "2018-02-02T11:58:59",
+    "updated_at": "2021-05-10T13:45:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:minnowboard_3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

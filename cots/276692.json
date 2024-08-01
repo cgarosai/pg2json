@@ -1,0 +1,10 @@
+{
+    "id": 276692,
+    "name": "ossec",
+    "version": "3.1.0",
+    "created_at": "2019-06-24T12:16:24",
+    "updated_at": "2019-06-24T12:16:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ossec:ossec:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

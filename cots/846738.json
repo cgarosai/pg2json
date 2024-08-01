@@ -1,0 +1,10 @@
+{
+    "id": 846738,
+    "name": "deltav_workstation_firmware",
+    "version": "-",
+    "created_at": "2022-02-07T17:24:15",
+    "updated_at": "2022-02-07T17:27:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emerson:deltav_workstation_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

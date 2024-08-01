@@ -1,0 +1,10 @@
+{
+    "id": 1229935,
+    "name": "cybozu_remote_service",
+    "version": "4.1.2",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybozu:cybozu_remote_service:4.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

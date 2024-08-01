@@ -1,0 +1,10 @@
+{
+    "id": 84401,
+    "name": "spss_analytic_server",
+    "version": "1.0.1.0",
+    "created_at": "2014-04-11T17:15:12",
+    "updated_at": "2014-04-16T18:33:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:spss_analytic_server:1.0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

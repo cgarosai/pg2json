@@ -1,0 +1,10 @@
+{
+    "id": 909304,
+    "name": "driver_booster",
+    "version": "9",
+    "created_at": "2022-07-12T12:56:10",
+    "updated_at": "2022-08-22T13:19:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iobit:driver_booster:9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

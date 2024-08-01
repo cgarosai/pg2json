@@ -1,0 +1,10 @@
+{
+    "id": 1061632,
+    "name": "gc-enet-com_firmware",
+    "version": "-",
+    "created_at": "2023-04-19T13:11:12",
+    "updated_at": "2023-07-14T13:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:gc-enet-com_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

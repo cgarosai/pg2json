@@ -1,0 +1,10 @@
+{
+    "id": 999147,
+    "name": "node_whois",
+    "version": "-",
+    "created_at": "2022-12-21T15:16:36",
+    "updated_at": "2022-12-21T16:15:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:furqansofware:node_whois:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

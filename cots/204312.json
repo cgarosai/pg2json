@@ -1,0 +1,10 @@
+{
+    "id": 204312,
+    "name": "analyzer",
+    "version": "8.3",
+    "created_at": "2019-03-04T17:13:51",
+    "updated_at": "2021-05-04T15:44:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:analyzer:8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

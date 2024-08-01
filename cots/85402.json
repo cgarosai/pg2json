@@ -1,0 +1,10 @@
+{
+    "id": 85402,
+    "name": "rkit",
+    "version": "0.9",
+    "created_at": "2013-10-04T13:13:07",
+    "updated_at": "2013-10-04T13:18:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lennart_poettering:rkit:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

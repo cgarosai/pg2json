@@ -1,0 +1,10 @@
+{
+    "id": 1168768,
+    "name": "integration_camel_k",
+    "version": "1.10.2",
+    "created_at": "2023-09-28T09:09:50",
+    "updated_at": "2023-09-28T09:09:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:integration_camel_k:1.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

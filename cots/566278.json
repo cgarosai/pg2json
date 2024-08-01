@@ -1,0 +1,10 @@
+{
+    "id": 566278,
+    "name": "ssd_dc_p4511_firmware",
+    "version": "vcv10370",
+    "created_at": "2020-06-26T13:22:56",
+    "updated_at": "2020-06-26T13:22:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_dc_p4511_firmware:vcv10370:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

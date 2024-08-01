@@ -1,0 +1,10 @@
+{
+    "id": 863031,
+    "name": "nport_iaw5250a-12i\\/o_firmware",
+    "version": "2.2",
+    "created_at": "2022-04-11T11:59:22",
+    "updated_at": "2022-06-03T11:10:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_iaw5250a-12i\\/o_firmware:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 121070,
+    "name": "netflow_codec_plugin",
+    "version": "2.3.2",
+    "created_at": "2017-06-28T15:18:24",
+    "updated_at": "2021-06-01T12:12:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elasticsearch:netflow_codec_plugin:2.3.2:*:*:*:*:logstash:*:*",
+    "to_analyse": false
+}

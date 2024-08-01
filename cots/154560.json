@@ -1,0 +1,10 @@
+{
+    "id": 154560,
+    "name": "bios",
+    "version": "ayaplcel.86a",
+    "created_at": "2018-06-18T15:11:18",
+    "updated_at": "2021-05-03T17:35:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:bios:ayaplcel.86a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

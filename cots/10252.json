@@ -1,0 +1,10 @@
+{
+    "id": 10252,
+    "name": "word",
+    "version": "98",
+    "created_at": "2007-09-12T20:55:55",
+    "updated_at": "2008-04-11T19:13:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word:98:sr1:mac_os:*:*:*:*:*",
+    "to_analyse": false
+}

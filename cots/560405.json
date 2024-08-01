@@ -1,0 +1,10 @@
+{
+    "id": 560405,
+    "name": "nagvis",
+    "version": "1.8",
+    "created_at": "2020-07-09T12:15:35",
+    "updated_at": "2020-07-09T12:15:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagvis:nagvis:1.8:b7:*:*:*:*:*:*",
+    "to_analyse": false
+}

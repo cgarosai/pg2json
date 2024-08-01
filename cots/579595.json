@@ -1,0 +1,10 @@
+{
+    "id": 579595,
+    "name": "audacity",
+    "version": "2.3.3",
+    "created_at": "2020-08-03T14:17:43",
+    "updated_at": "2020-08-03T14:17:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:audacityteam:audacity:2.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

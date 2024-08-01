@@ -1,0 +1,10 @@
+{
+    "id": 377263,
+    "name": "gradle",
+    "version": "2.2",
+    "created_at": "2019-09-19T09:16:11",
+    "updated_at": "2019-09-19T09:16:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gradle:gradle:2.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1024914,
+    "name": "bill_of_materials_repository_server",
+    "version": "1.0.1",
+    "created_at": "2023-02-16T15:17:12",
+    "updated_at": "2023-02-16T15:19:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyclonedx:bill_of_materials_repository_server:1.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

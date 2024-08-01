@@ -1,0 +1,10 @@
+{
+    "id": 962929,
+    "name": "zulip_server",
+    "version": "5.0",
+    "created_at": "2022-11-20T13:38:53",
+    "updated_at": "2022-11-21T13:39:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zulip:zulip_server:5.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 79170,
+    "name": "sterling_secure_proxy",
+    "version": "3.4.0.0",
+    "created_at": "2013-05-10T11:11:58",
+    "updated_at": "2013-05-14T20:55:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sterling_secure_proxy:3.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

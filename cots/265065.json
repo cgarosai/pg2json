@@ -1,0 +1,10 @@
+{
+    "id": 265065,
+    "name": "netty",
+    "version": "3.9.5",
+    "created_at": "2019-06-13T09:38:52",
+    "updated_at": "2019-09-30T09:51:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netty_project:netty:3.9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

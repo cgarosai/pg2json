@@ -1,0 +1,10 @@
+{
+    "id": 518727,
+    "name": "newlib",
+    "version": "3.3.0",
+    "created_at": "2020-03-19T15:14:23",
+    "updated_at": "2020-03-19T15:14:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:newlib_project:newlib:3.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

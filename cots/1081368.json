@@ -1,0 +1,10 @@
+{
+    "id": 1081368,
+    "name": "rutx14_firmware",
+    "version": "-",
+    "created_at": "2023-05-26T14:18:08",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teltonika-networks:rutx14_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

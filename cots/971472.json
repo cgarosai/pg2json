@@ -1,0 +1,10 @@
+{
+    "id": 971472,
+    "name": "snyk_python_cli",
+    "version": "1.2.2",
+    "created_at": "2022-12-01T17:09:41",
+    "updated_at": "2022-12-01T17:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_python_cli:1.2.2:*:*:*:*:snyk:*:*",
+    "to_analyse": false
+}

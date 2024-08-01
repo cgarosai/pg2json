@@ -1,0 +1,10 @@
+{
+    "id": 1084404,
+    "name": "ess_rec",
+    "version": "1.4.0",
+    "created_at": "2023-06-01T15:27:13",
+    "updated_at": "2023-07-21T15:27:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:et-x:ess_rec:1.4.0:*:*:*:server:solaris:*:*",
+    "to_analyse": false
+}

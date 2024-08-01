@@ -1,0 +1,10 @@
+{
+    "id": 901129,
+    "name": "unsafe_accessor",
+    "version": "1.6.2",
+    "created_at": "2022-07-15T12:03:31",
+    "updated_at": "2022-07-15T14:45:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:1.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

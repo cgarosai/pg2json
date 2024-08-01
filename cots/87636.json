@@ -1,0 +1,10 @@
+{
+    "id": 87636,
+    "name": "fortianalyzer-2000b",
+    "version": "-",
+    "created_at": "2013-11-20T16:06:33",
+    "updated_at": "2013-11-20T16:10:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:fortinet:fortianalyzer-2000b:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

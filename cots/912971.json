@@ -1,0 +1,10 @@
+{
+    "id": 912971,
+    "name": "msnswitch_firmware",
+    "version": "mnt.2408",
+    "created_at": "2022-08-12T09:45:00",
+    "updated_at": "2023-02-27T18:19:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:megatech:msnswitch_firmware:mnt.2408:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

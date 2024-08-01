@@ -1,0 +1,10 @@
+{
+    "id": 928699,
+    "name": "dendrite",
+    "version": "0.1.0",
+    "created_at": "2022-08-23T16:12:58",
+    "updated_at": "2022-08-25T11:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:dendrite:0.1.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 129773,
+    "name": "moveit_dmz",
+    "version": "8.2",
+    "created_at": "2017-05-25T22:46:33",
+    "updated_at": "2021-06-11T13:40:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:moveit_dmz:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

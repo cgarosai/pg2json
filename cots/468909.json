@@ -1,0 +1,10 @@
+{
+    "id": 468909,
+    "name": "edeploy",
+    "version": "-",
+    "created_at": "2019-12-20T15:19:06",
+    "updated_at": "2019-12-20T15:19:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:edeploy:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 739973,
+    "name": "ip_camera",
+    "version": "-",
+    "created_at": "2021-07-09T13:36:19",
+    "updated_at": "2021-08-11T14:46:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:seasofsolutions:ip_camera:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

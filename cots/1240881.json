@@ -1,0 +1,10 @@
+{
+    "id": 1240881,
+    "name": "bigfix_bare_osd_metal_server_webui",
+    "version": "311.19",
+    "created_at": "2024-02-03T00:39:22",
+    "updated_at": "2024-02-03T00:39:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltechsw:bigfix_bare_osd_metal_server_webui:311.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

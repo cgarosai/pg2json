@@ -1,0 +1,10 @@
+{
+    "id": 920599,
+    "name": "h200",
+    "version": "-",
+    "created_at": "2022-08-25T19:13:26",
+    "updated_at": "2022-08-25T19:15:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:h3c:h200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

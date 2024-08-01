@@ -1,0 +1,10 @@
+{
+    "id": 370032,
+    "name": "ecns210_td_firmware",
+    "version": "v100r004c10spc400",
+    "created_at": "2019-09-19T15:01:26",
+    "updated_at": "2019-09-19T15:01:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ecns210_td_firmware:v100r004c10spc400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

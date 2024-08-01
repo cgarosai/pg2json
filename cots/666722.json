@@ -1,0 +1,10 @@
+{
+    "id": 666722,
+    "name": "digital_sentry",
+    "version": "7.18",
+    "created_at": "2021-02-23T19:32:39",
+    "updated_at": "2021-02-23T19:32:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pelco:digital_sentry:7.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

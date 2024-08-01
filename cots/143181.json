@@ -1,0 +1,10 @@
+{
+    "id": 143181,
+    "name": "minicms",
+    "version": "1.4",
+    "created_at": "2018-05-23T11:51:47",
+    "updated_at": "2018-10-23T13:18:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:minicms_project:minicms:1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

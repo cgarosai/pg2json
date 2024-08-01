@@ -1,0 +1,10 @@
+{
+    "id": 91037,
+    "name": "mailpoet_newsletters",
+    "version": "1.0",
+    "created_at": "2014-07-28T17:14:16",
+    "updated_at": "2014-08-04T13:03:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailpoet:mailpoet_newsletters:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

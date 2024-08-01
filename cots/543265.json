@@ -1,0 +1,10 @@
+{
+    "id": 543265,
+    "name": "fabric-attached_storage_8300_firmware",
+    "version": "13.1",
+    "created_at": "2020-05-21T05:09:35",
+    "updated_at": "2021-06-22T12:47:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:fabric-attached_storage_8300_firmware:13.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

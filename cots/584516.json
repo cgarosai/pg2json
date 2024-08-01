@@ -1,0 +1,10 @@
+{
+    "id": 584516,
+    "name": "gedi",
+    "version": "1.6.2",
+    "created_at": "2020-09-02T15:52:08",
+    "updated_at": "2020-09-02T15:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gedi_project:gedi:1.6.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 169901,
+    "name": "node-opensl",
+    "version": "1.0.2",
+    "created_at": "2018-07-26T11:08:03",
+    "updated_at": "2018-07-26T11:08:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-opensl_project:node-opensl:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

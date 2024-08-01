@@ -1,0 +1,10 @@
+{
+    "id": 774220,
+    "name": "path-parse",
+    "version": "1.0.7",
+    "created_at": "2021-09-24T12:14:54",
+    "updated_at": "2021-09-24T12:15:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:path-parse_project:path-parse:1.0.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

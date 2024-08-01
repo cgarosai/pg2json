@@ -1,0 +1,10 @@
+{
+    "id": 54092,
+    "name": "installation_manager",
+    "version": "7.1.75",
+    "created_at": "2012-07-10T01:21:53",
+    "updated_at": "2012-07-10T01:21:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:installation_manager:7.1.75:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 269456,
+    "name": "software_guard_extensions",
+    "version": "1.8",
+    "created_at": "2019-06-17T12:13:32",
+    "updated_at": "2021-06-02T12:45:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:software_guard_extensions:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

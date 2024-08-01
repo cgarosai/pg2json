@@ -1,0 +1,10 @@
+{
+    "id": 556580,
+    "name": "deno",
+    "version": "0.32.0",
+    "created_at": "2020-06-01T11:20:11",
+    "updated_at": "2020-06-01T11:20:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deno:deno:0.32.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

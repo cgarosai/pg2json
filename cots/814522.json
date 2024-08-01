@@ -1,0 +1,10 @@
+{
+    "id": 814522,
+    "name": "mpvpn_firmware",
+    "version": "10.1.2",
+    "created_at": "2021-12-10T16:13:07",
+    "updated_at": "2021-12-20T15:21:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fatpipeinc:mpvpn_firmware:10.1.2:r60p35:*:*:*:*:*:*",
+    "to_analyse": false
+}

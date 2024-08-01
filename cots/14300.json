@@ -1,0 +1,10 @@
+{
+    "id": 14300,
+    "name": "ray_server_software",
+    "version": "3.0",
+    "created_at": "2008-12-12T16:02:43",
+    "updated_at": "2008-12-12T16:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:ray_server_software:3.0:*:linux:*:*:*:*:*",
+    "to_analyse": false
+}

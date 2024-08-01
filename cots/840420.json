@@ -1,0 +1,10 @@
+{
+    "id": 840420,
+    "name": "spin",
+    "version": "6.5.2",
+    "created_at": "2022-02-10T13:17:15",
+    "updated_at": "2022-02-10T13:41:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spinroot:spin:6.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1215402,
+    "name": "hypercloud",
+    "version": "1.4.3",
+    "created_at": "2023-12-08T23:23:49",
+    "updated_at": "2023-12-08T23:23:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:softiron:hypercloud:1.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 398907,
+    "name": "pacemaker_command_line_interface",
+    "version": "0.9.100",
+    "created_at": "2019-10-01T09:33:09",
+    "updated_at": "2019-10-01T09:33:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:0.9.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 629849,
+    "name": "infinispan",
+    "version": "10.1.8",
+    "created_at": "2020-12-07T12:45:41",
+    "updated_at": "2020-12-07T12:45:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infinispan:infinispan:10.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

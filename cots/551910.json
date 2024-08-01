@@ -1,0 +1,10 @@
+{
+    "id": 551910,
+    "name": "karaf",
+    "version": "4.2.9",
+    "created_at": "2020-06-19T15:05:16",
+    "updated_at": "2020-06-19T15:05:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:karaf:4.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

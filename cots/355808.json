@@ -1,0 +1,10 @@
+{
+    "id": 355808,
+    "name": "fontforge",
+    "version": "20190801",
+    "created_at": "2019-09-04T10:35:19",
+    "updated_at": "2020-01-13T13:23:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fontforge_project:fontforge:20190801:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

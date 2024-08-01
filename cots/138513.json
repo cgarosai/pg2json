@@ -1,0 +1,10 @@
+{
+    "id": 138513,
+    "name": "arcserve_backup_2000",
+    "version": "r16.5",
+    "created_at": "2017-11-16T15:38:43",
+    "updated_at": "2021-05-18T11:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:arcserve_backup_2000:r16.5:*:windows:ja:*:*:*:*",
+    "to_analyse": false
+}

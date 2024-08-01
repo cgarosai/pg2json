@@ -1,0 +1,10 @@
+{
+    "id": 297809,
+    "name": "cloud_foundry_cf-release",
+    "version": "94",
+    "created_at": "2019-07-15T11:32:16",
+    "updated_at": "2019-07-15T11:32:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_cf-release:94:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

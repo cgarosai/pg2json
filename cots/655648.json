@@ -1,0 +1,10 @@
+{
+    "id": 655648,
+    "name": "opc_ua_tunneller",
+    "version": "-",
+    "created_at": "2021-02-03T12:02:46",
+    "updated_at": "2021-02-03T12:02:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:honeywell:opc_ua_tunneller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

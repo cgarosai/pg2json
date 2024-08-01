@@ -1,0 +1,10 @@
+{
+    "id": 507205,
+    "name": "logiq_p9_firmware",
+    "version": "-",
+    "created_at": "2020-03-03T17:18:53",
+    "updated_at": "2021-06-07T15:26:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:logiq_p9_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

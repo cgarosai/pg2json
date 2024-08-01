@@ -1,0 +1,10 @@
+{
+    "id": 379443,
+    "name": "directory_ldap_api",
+    "version": "1.0.2",
+    "created_at": "2019-09-19T13:08:38",
+    "updated_at": "2019-09-19T13:08:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:directory_ldap_api:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

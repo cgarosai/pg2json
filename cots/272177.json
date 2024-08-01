@@ -1,0 +1,10 @@
+{
+    "id": 272177,
+    "name": "epyc_7281",
+    "version": "-",
+    "created_at": "2019-06-28T15:49:19",
+    "updated_at": "2021-04-06T15:56:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:epyc_7281:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

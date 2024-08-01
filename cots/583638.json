@@ -1,0 +1,10 @@
+{
+    "id": 583638,
+    "name": "acrn",
+    "version": "1.6",
+    "created_at": "2020-09-01T15:09:02",
+    "updated_at": "2020-09-01T15:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linuxfoundation:acrn:1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

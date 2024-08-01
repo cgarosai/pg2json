@@ -1,0 +1,10 @@
+{
+    "id": 115441,
+    "name": "customer_interaction_history",
+    "version": "12.1.2",
+    "created_at": "2016-02-17T16:55:51",
+    "updated_at": "2016-02-17T16:55:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:customer_interaction_history:12.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

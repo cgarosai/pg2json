@@ -1,0 +1,10 @@
+{
+    "id": 633542,
+    "name": "telepresence_video_communication_server",
+    "version": "x12.6.3",
+    "created_at": "2021-01-04T15:28:19",
+    "updated_at": "2021-01-04T15:28:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_video_communication_server:x12.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 147737,
+    "name": "safenet_authentication_service_for_citrix_web_interface_agent",
+    "version": "-",
+    "created_at": "2018-03-14T18:01:44",
+    "updated_at": "2021-05-25T14:46:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gemalto:safenet_authentication_service_for_citrix_web_interface_agent:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

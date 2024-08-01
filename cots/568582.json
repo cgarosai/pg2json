@@ -1,0 +1,10 @@
+{
+    "id": 568582,
+    "name": "cloud_cnm_secumanager",
+    "version": "3.1.0",
+    "created_at": "2020-07-06T12:19:34",
+    "updated_at": "2020-07-06T12:19:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zyxel:cloud_cnm_secumanager:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

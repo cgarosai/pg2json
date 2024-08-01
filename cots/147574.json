@@ -1,0 +1,10 @@
+{
+    "id": 147574,
+    "name": "shockwave_player",
+    "version": "4.0",
+    "created_at": "2018-03-12T13:59:59",
+    "updated_at": "2021-03-23T15:06:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:shockwave_player:4.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

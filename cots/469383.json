@@ -1,0 +1,10 @@
+{
+    "id": 469383,
+    "name": "libupnp",
+    "version": "1.6.20",
+    "created_at": "2019-12-27T14:15:28",
+    "updated_at": "2019-12-27T14:15:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libupnp_project:libupnp:1.6.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

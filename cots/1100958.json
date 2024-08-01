@@ -1,0 +1,10 @@
+{
+    "id": 1100958,
+    "name": "cpci85_firmware",
+    "version": "v05",
+    "created_at": "2023-06-28T15:43:39",
+    "updated_at": "2023-09-01T01:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cpci85_firmware:v05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

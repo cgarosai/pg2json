@@ -1,0 +1,10 @@
+{
+    "id": 91685,
+    "name": "horizon",
+    "version": "juno-3",
+    "created_at": "2014-08-22T16:25:01",
+    "updated_at": "2014-08-22T16:29:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:horizon:juno-3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

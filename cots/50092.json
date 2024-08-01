@@ -1,0 +1,10 @@
+{
+    "id": 50092,
+    "name": "roundup",
+    "version": "0.2.8",
+    "created_at": "2012-05-31T16:36:53",
+    "updated_at": "2012-05-31T16:36:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:roundup-tracker:roundup:0.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 490412,
+    "name": "ar120_firmware",
+    "version": "v200r007c00",
+    "created_at": "2020-02-21T19:59:23",
+    "updated_at": "2020-02-21T19:59:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar120_firmware:v200r007c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

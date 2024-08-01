@@ -1,0 +1,10 @@
+{
+    "id": 530102,
+    "name": "xeon_bronze_3104_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:07:30",
+    "updated_at": "2020-04-27T18:07:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_bronze_3104_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

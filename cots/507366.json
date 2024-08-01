@@ -1,0 +1,10 @@
+{
+    "id": 507366,
+    "name": "kill-port-process",
+    "version": "1.0.0",
+    "created_at": "2020-03-03T17:51:05",
+    "updated_at": "2020-03-03T17:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kill-port-process_project:kill-port-process:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

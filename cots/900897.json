@@ -1,0 +1,10 @@
+{
+    "id": 900897,
+    "name": "livro_python",
+    "version": "2018-06-06",
+    "created_at": "2022-07-14T13:37:40",
+    "updated_at": "2022-10-25T15:04:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:livro_python_project:livro_python:2018-06-06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

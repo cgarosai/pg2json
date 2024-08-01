@@ -1,0 +1,10 @@
+{
+    "id": 910273,
+    "name": "get-npm-package-version",
+    "version": "1.0.3",
+    "created_at": "2022-08-05T13:10:18",
+    "updated_at": "2022-08-12T14:58:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:get-npm-package-version_project:get-npm-package-version:1.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1021078,
+    "name": "elitebook_820_g4_firmware",
+    "version": "1.41",
+    "created_at": "2023-02-10T11:24:27",
+    "updated_at": "2023-02-16T19:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:elitebook_820_g4_firmware:1.41:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

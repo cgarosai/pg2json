@@ -1,0 +1,10 @@
+{
+    "id": 909153,
+    "name": "quic-go",
+    "version": "0.15.8",
+    "created_at": "2022-07-12T11:42:00",
+    "updated_at": "2022-07-13T12:46:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quic-go_project:quic-go:0.15.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

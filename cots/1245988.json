@@ -1,0 +1,10 @@
+{
+    "id": 1245988,
+    "name": "pi_server",
+    "version": "2023",
+    "created_at": "2024-01-25T23:20:41",
+    "updated_at": "2024-01-25T23:20:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aveva:pi_server:2023:patch_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

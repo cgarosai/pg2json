@@ -1,0 +1,10 @@
+{
+    "id": 811027,
+    "name": "business_intelligence",
+    "version": "5.9.0.0.0",
+    "created_at": "2021-12-01T15:30:07",
+    "updated_at": "2021-12-02T21:36:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:business_intelligence:5.9.0.0.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

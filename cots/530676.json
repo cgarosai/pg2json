@@ -1,0 +1,10 @@
+{
+    "id": 530676,
+    "name": "eos",
+    "version": "4.21.9m",
+    "created_at": "2020-04-28T11:37:41",
+    "updated_at": "2020-04-28T11:37:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:eos:4.21.9m:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

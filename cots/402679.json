@@ -1,0 +1,10 @@
+{
+    "id": 402679,
+    "name": "piv_tool",
+    "version": "1.0.0",
+    "created_at": "2019-10-16T16:52:30",
+    "updated_at": "2019-10-16T16:52:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yubico:piv_tool:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

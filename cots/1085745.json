@@ -1,0 +1,10 @@
+{
+    "id": 1085745,
+    "name": "apache-airflow-providers-docker",
+    "version": "3.5.0",
+    "created_at": "2023-05-22T11:43:58",
+    "updated_at": "2023-05-22T12:30:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-docker:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

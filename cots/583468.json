@@ -1,0 +1,10 @@
+{
+    "id": 583468,
+    "name": "news",
+    "version": "0.84-1.0",
+    "created_at": "2020-09-01T14:50:51",
+    "updated_at": "2020-09-01T14:50:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teclib-edition:news:0.84-1.0:*:*:*:*:glpi:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 454101,
+    "name": "harbor_container_registry",
+    "version": "1.8.3",
+    "created_at": "2019-12-11T15:19:29",
+    "updated_at": "2019-12-11T15:19:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:harbor_container_registry:1.8.3:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51550,
+    "name": "dlp_agent",
+    "version": "2.2.200.11",
+    "created_at": "2012-06-21T17:08:23",
+    "updated_at": "2012-06-21T17:08:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:dlp_agent:2.2.200.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

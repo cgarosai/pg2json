@@ -1,0 +1,10 @@
+{
+    "id": 591323,
+    "name": "database_interface",
+    "version": "1.638",
+    "created_at": "2020-09-17T19:09:06",
+    "updated_at": "2020-09-17T19:09:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perl:database_interface:1.638:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

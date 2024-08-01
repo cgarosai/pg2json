@@ -1,0 +1,10 @@
+{
+    "id": 14415,
+    "name": "communication_manager",
+    "version": "3.1.2",
+    "created_at": "2008-12-24T18:15:35",
+    "updated_at": "2008-12-24T18:15:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:communication_manager:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

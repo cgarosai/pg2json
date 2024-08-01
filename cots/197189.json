@@ -1,0 +1,10 @@
+{
+    "id": 197189,
+    "name": "api_gateway",
+    "version": "-",
+    "created_at": "2018-12-11T18:24:48",
+    "updated_at": "2021-04-07T15:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:api_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

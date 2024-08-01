@@ -1,0 +1,10 @@
+{
+    "id": 565163,
+    "name": "sterling_connect\\",
+    "version": "direct",
+    "created_at": "2020-06-25T10:23:54",
+    "updated_at": "2020-06-25T10:23:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sterling_connect\\:direct:4.2.0.2:*:*:*:*:unix:*:*",
+    "to_analyse": false
+}

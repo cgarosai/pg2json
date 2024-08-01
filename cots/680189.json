@@ -1,0 +1,10 @@
+{
+    "id": 680189,
+    "name": "api_gateway",
+    "version": "8.2",
+    "created_at": "2021-04-07T12:04:47",
+    "updated_at": "2021-04-07T15:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:api_gateway:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

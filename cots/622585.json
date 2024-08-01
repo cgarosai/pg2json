@@ -1,0 +1,10 @@
+{
+    "id": 622585,
+    "name": "fast_cgi",
+    "version": "0.71_02",
+    "created_at": "2020-12-08T14:12:11",
+    "updated_at": "2020-12-08T14:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fast_cgi_project:fast_cgi:0.71_02:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

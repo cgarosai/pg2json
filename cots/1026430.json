@@ -1,0 +1,10 @@
+{
+    "id": 1026430,
+    "name": "i-librarian",
+    "version": "4.10",
+    "created_at": "2023-02-04T02:12:28",
+    "updated_at": "2023-06-05T16:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scilico:i-librarian:4.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

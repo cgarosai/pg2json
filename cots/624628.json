@@ -1,0 +1,10 @@
+{
+    "id": 624628,
+    "name": "next.js",
+    "version": "6.0.3",
+    "created_at": "2020-12-10T12:49:59",
+    "updated_at": "2020-12-10T12:49:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vercel:next.js:6.0.3:-:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

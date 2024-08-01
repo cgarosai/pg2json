@@ -1,0 +1,10 @@
+{
+    "id": 41713,
+    "name": "openssh",
+    "version": "5.2",
+    "created_at": "2012-01-30T15:02:36",
+    "updated_at": "2020-07-24T14:49:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openbsd:openssh:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

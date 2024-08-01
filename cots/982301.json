@@ -1,0 +1,10 @@
+{
+    "id": 982301,
+    "name": "sonar_gerrit",
+    "version": "377.v8f3808963dc5",
+    "created_at": "2022-12-13T10:28:40",
+    "updated_at": "2023-02-01T20:18:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:sonar_gerrit:377.v8f3808963dc5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

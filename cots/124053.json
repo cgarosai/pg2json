@@ -1,0 +1,10 @@
+{
+    "id": 124053,
+    "name": "ios",
+    "version": "12.2rc",
+    "created_at": "2017-08-28T14:30:21",
+    "updated_at": "2021-04-20T16:45:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ios:12.2rc:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 943158,
+    "name": "dependency_parser",
+    "version": "0.5.0.4",
+    "created_at": "2022-10-07T14:21:01",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pyup:dependency_parser:0.5.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

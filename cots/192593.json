@@ -1,0 +1,10 @@
+{
+    "id": 192593,
+    "name": "dpc2100_firmware",
+    "version": "2.0.2r1256-060303",
+    "created_at": "2019-01-11T13:15:04",
+    "updated_at": "2021-06-16T16:52:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:dpc2100_firmware:2.0.2r1256-060303:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

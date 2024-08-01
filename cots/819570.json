@@ -1,0 +1,10 @@
+{
+    "id": 819570,
+    "name": "password_manager",
+    "version": "9.0.2",
+    "created_at": "2021-11-29T17:02:03",
+    "updated_at": "2021-12-01T17:46:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_k:*:*:*:windows:*:*",
+    "to_analyse": false
+}

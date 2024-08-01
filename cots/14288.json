@@ -1,0 +1,10 @@
+{
+    "id": 14288,
+    "name": "control_center",
+    "version": "5.2",
+    "created_at": "2008-12-11T17:19:18",
+    "updated_at": "2008-12-11T17:19:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:control_center:5.2:sp5:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 111350,
+    "name": "ios",
+    "version": "15.6\\(2\\)sp",
+    "created_at": "2016-09-22T16:54:01",
+    "updated_at": "2016-09-22T16:54:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ios:15.6\\(2\\)sp:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

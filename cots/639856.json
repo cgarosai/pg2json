@@ -1,0 +1,10 @@
+{
+    "id": 639856,
+    "name": "msm8956_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:52:23",
+    "updated_at": "2020-12-21T12:52:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:msm8956_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

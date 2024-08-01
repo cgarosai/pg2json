@@ -1,0 +1,10 @@
+{
+    "id": 673957,
+    "name": "vpnmanager_console",
+    "version": "-",
+    "created_at": "2021-03-29T11:56:32",
+    "updated_at": "2021-03-29T12:00:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:vpnmanager_console:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1063336,
+    "name": "calibre-web",
+    "version": "0.6.19",
+    "created_at": "2023-04-21T12:09:12",
+    "updated_at": "2023-06-15T15:58:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

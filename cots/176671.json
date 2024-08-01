@@ -1,0 +1,10 @@
+{
+    "id": 176671,
+    "name": "libconfuse",
+    "version": "2.3",
+    "created_at": "2018-09-17T12:13:53",
+    "updated_at": "2018-09-17T12:13:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libconfuse_project:libconfuse:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

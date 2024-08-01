@@ -1,0 +1,10 @@
+{
+    "id": 501473,
+    "name": "routing_release",
+    "version": "0.197.0",
+    "created_at": "2020-03-06T20:42:24",
+    "updated_at": "2020-03-06T20:42:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:routing_release:0.197.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

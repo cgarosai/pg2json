@@ -1,0 +1,10 @@
+{
+    "id": 413500,
+    "name": "snoopy",
+    "version": "1.2.4",
+    "created_at": "2019-10-31T10:09:23",
+    "updated_at": "2019-10-31T10:09:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snoopy_project:snoopy:1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

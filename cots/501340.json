@@ -1,0 +1,10 @@
+{
+    "id": 501340,
+    "name": "optiplex_7470_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T19:00:16",
+    "updated_at": "2020-03-06T19:00:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_7470_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

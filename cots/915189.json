@@ -1,0 +1,10 @@
+{
+    "id": 915189,
+    "name": "grails",
+    "version": "3.3.12",
+    "created_at": "2022-07-26T12:33:10",
+    "updated_at": "2022-07-26T12:41:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grails:grails:3.3.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

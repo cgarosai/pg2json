@@ -1,0 +1,10 @@
+{
+    "id": 869255,
+    "name": "hci_baseboard_management_controller",
+    "version": "h410c",
+    "created_at": "2022-04-01T11:15:32",
+    "updated_at": "2023-11-09T12:59:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h410c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

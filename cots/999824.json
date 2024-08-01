@@ -1,0 +1,10 @@
+{
+    "id": 999824,
+    "name": "abacus-ext-cmdline",
+    "version": "-",
+    "created_at": "2022-12-22T16:24:54",
+    "updated_at": "2022-12-22T17:54:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:abacus-ext-cmdline_project:abacus-ext-cmdline:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

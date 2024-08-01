@@ -1,0 +1,10 @@
+{
+    "id": 527880,
+    "name": "pubsub\\+",
+    "version": "0.1.30",
+    "created_at": "2020-04-01T18:20:04",
+    "updated_at": "2020-04-01T18:20:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solace:pubsub\\+:0.1.30:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

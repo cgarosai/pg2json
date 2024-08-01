@@ -1,0 +1,10 @@
+{
+    "id": 899432,
+    "name": "change_uploaded_file_permissions",
+    "version": "4.0.0",
+    "created_at": "2022-06-16T11:13:03",
+    "updated_at": "2022-06-16T12:57:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:change_uploaded_file_permissions_project:change_uploaded_file_permissions:4.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

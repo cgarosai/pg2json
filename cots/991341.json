@@ -1,0 +1,10 @@
+{
+    "id": 991341,
+    "name": "azure_ad_pod_identity",
+    "version": "1.5.3",
+    "created_at": "2022-12-23T15:31:36",
+    "updated_at": "2022-12-28T17:17:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_ad_pod_identity:1.5.3:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

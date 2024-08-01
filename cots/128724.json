@@ -1,0 +1,10 @@
+{
+    "id": 128724,
+    "name": "c2_firmware",
+    "version": "0.9.1_4.2_v0032.0_build_160706",
+    "created_at": "2017-05-09T00:53:43",
+    "updated_at": "2021-05-28T10:14:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:c2_firmware:0.9.1_4.2_v0032.0_build_160706:rel.37961n:*:*:*:*:*:*",
+    "to_analyse": false
+}

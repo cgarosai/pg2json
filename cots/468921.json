@@ -1,0 +1,10 @@
+{
+    "id": 468921,
+    "name": "qpid-cpp",
+    "version": "1.37.0",
+    "created_at": "2019-12-20T16:02:04",
+    "updated_at": "2019-12-20T16:02:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid-cpp:1.37.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

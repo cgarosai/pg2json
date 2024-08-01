@@ -1,0 +1,10 @@
+{
+    "id": 320921,
+    "name": "github",
+    "version": "11.11.18",
+    "created_at": "2019-08-01T14:21:43",
+    "updated_at": "2019-08-01T14:21:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:github:github:11.11.18:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

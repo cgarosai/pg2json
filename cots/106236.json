@@ -1,0 +1,10 @@
+{
+    "id": 106236,
+    "name": "wp_limit_posts_automatically",
+    "version": "0.7",
+    "created_at": "2015-01-02T13:21:50",
+    "updated_at": "2015-01-17T14:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_limit_posts_automatically_project:wp_limit_posts_automatically:0.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

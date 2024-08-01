@@ -1,0 +1,10 @@
+{
+    "id": 531081,
+    "name": "xtrabackup",
+    "version": "2.4.14",
+    "created_at": "2020-04-28T13:35:11",
+    "updated_at": "2020-04-28T13:35:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:percona:xtrabackup:2.4.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

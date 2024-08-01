@@ -1,0 +1,10 @@
+{
+    "id": 57050,
+    "name": "sun_products_suite",
+    "version": "6.2",
+    "created_at": "2012-05-03T22:01:36",
+    "updated_at": "2013-02-11T13:31:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:sun_products_suite:6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

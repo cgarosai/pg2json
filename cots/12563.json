@@ -1,0 +1,10 @@
+{
+    "id": 12563,
+    "name": "sdk",
+    "version": "1.4.2_04",
+    "created_at": "2008-09-05T18:07:45",
+    "updated_at": "2009-06-02T12:22:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:sdk:1.4.2_04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

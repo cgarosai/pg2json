@@ -1,0 +1,10 @@
+{
+    "id": 682089,
+    "name": "phastpress",
+    "version": "1.82",
+    "created_at": "2021-04-08T15:56:50",
+    "updated_at": "2021-04-12T11:45:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kiboit:phastpress:1.82:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

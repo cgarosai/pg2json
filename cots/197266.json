@@ -1,0 +1,10 @@
+{
+    "id": 197266,
+    "name": "messaging_-_apache_kafka_distribution_-_schema_repository",
+    "version": "1.0.0",
+    "created_at": "2018-12-12T18:04:31",
+    "updated_at": "2021-05-17T12:58:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:messaging_-_apache_kafka_distribution_-_schema_repository:1.0.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

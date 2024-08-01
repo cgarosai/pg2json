@@ -1,0 +1,10 @@
+{
+    "id": 514427,
+    "name": "maven",
+    "version": "1.25.0",
+    "created_at": "2020-03-31T15:05:02",
+    "updated_at": "2020-03-31T15:05:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diffplug:maven:1.25.0:*:*:*:*:spotless:*:*",
+    "to_analyse": false
+}

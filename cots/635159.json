@@ -1,0 +1,10 @@
+{
+    "id": 635159,
+    "name": "secure_email",
+    "version": "-",
+    "created_at": "2020-12-10T17:15:31",
+    "updated_at": "2020-12-10T17:15:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:secure_email:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

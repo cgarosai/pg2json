@@ -1,0 +1,10 @@
+{
+    "id": 214568,
+    "name": "cockpit",
+    "version": "188",
+    "created_at": "2019-04-02T13:20:40",
+    "updated_at": "2019-04-02T13:20:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cockpit-project:cockpit:188:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

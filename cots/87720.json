@@ -1,0 +1,10 @@
+{
+    "id": 87720,
+    "name": "rsa_data_protection_manager_appliance",
+    "version": "3.2.3",
+    "created_at": "2013-11-25T12:55:01",
+    "updated_at": "2013-11-25T19:01:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:emc:rsa_data_protection_manager_appliance:3.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

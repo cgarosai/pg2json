@@ -1,0 +1,10 @@
+{
+    "id": 489540,
+    "name": "tensorflow",
+    "version": "1.15.2",
+    "created_at": "2020-02-04T12:17:03",
+    "updated_at": "2020-02-04T12:17:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:tensorflow:1.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

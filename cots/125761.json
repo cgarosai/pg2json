@@ -1,0 +1,10 @@
+{
+    "id": 125761,
+    "name": "roundcube_webmail",
+    "version": "1.2.0",
+    "created_at": "2017-03-14T13:12:58",
+    "updated_at": "2017-11-28T17:34:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:roundcube:roundcube_webmail:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

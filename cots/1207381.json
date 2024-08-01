@@ -1,0 +1,10 @@
+{
+    "id": 1207381,
+    "name": "appdynamics",
+    "version": "21.4.3",
+    "created_at": "2023-11-28T16:54:53",
+    "updated_at": "2023-11-28T16:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:appdynamics:21.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

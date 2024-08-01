@@ -1,0 +1,10 @@
+{
+    "id": 169349,
+    "name": "mf210_firmware",
+    "version": "-",
+    "created_at": "2018-07-23T10:58:55",
+    "updated_at": "2021-05-18T14:12:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:canon:mf210_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

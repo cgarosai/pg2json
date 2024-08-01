@@ -1,0 +1,10 @@
+{
+    "id": 588215,
+    "name": "xg_firewall_firmware",
+    "version": "18.0",
+    "created_at": "2020-08-19T19:07:43",
+    "updated_at": "2020-08-19T19:07:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sophos:xg_firewall_firmware:18.0:maintenance_release1:*:*:*:*:*:*",
+    "to_analyse": false
+}

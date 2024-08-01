@@ -1,0 +1,10 @@
+{
+    "id": 1230061,
+    "name": "msgpackr",
+    "version": "1.9.3",
+    "created_at": "2024-01-11T19:08:49",
+    "updated_at": "2024-01-11T19:08:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kriszyp:msgpackr:1.9.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

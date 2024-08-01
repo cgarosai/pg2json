@@ -1,0 +1,10 @@
+{
+    "id": 294076,
+    "name": "lxd",
+    "version": "0.7",
+    "created_at": "2019-07-18T12:22:09",
+    "updated_at": "2019-07-18T12:22:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxcontainers:lxd:0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

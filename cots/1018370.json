@@ -1,0 +1,10 @@
+{
+    "id": 1018370,
+    "name": "base-files",
+    "version": "10.1ubuntu2.2",
+    "created_at": "2023-01-18T19:56:15",
+    "updated_at": "2023-01-23T14:14:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:base-files_project:base-files:10.1ubuntu2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

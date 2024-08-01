@@ -1,0 +1,10 @@
+{
+    "id": 754491,
+    "name": "gateway",
+    "version": "13.0-82.42",
+    "created_at": "2021-08-13T10:51:10",
+    "updated_at": "2021-08-19T12:03:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:gateway:13.0-82.42:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

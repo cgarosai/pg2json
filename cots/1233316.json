@@ -1,0 +1,10 @@
+{
+    "id": 1233316,
+    "name": "smart_lock_advanced_firmware",
+    "version": "1.0",
+    "created_at": "2024-01-18T19:08:46",
+    "updated_at": "2024-01-18T19:08:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:flient:smart_lock_advanced_firmware:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

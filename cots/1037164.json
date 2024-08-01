@@ -1,0 +1,10 @@
+{
+    "id": 1037164,
+    "name": "z640_workstation",
+    "version": "-",
+    "created_at": "2023-02-17T18:07:37",
+    "updated_at": "2023-07-17T17:01:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:z640_workstation:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1023111,
+    "name": "invoiceplane",
+    "version": "1.6.0",
+    "created_at": "2023-02-13T19:35:32",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invoiceplane:invoiceplane:1.6.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

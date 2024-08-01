@@ -1,0 +1,10 @@
+{
+    "id": 14385,
+    "name": "ws_ftp",
+    "version": "3.14",
+    "created_at": "2008-12-22T15:52:16",
+    "updated_at": "2012-08-20T16:31:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:ws_ftp:3.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

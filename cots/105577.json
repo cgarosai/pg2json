@@ -1,0 +1,10 @@
+{
+    "id": 105577,
+    "name": "seil_plus_firmware",
+    "version": "2.06",
+    "created_at": "2014-12-08T19:56:34",
+    "updated_at": "2015-01-29T15:07:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:iij:seil_plus_firmware:2.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

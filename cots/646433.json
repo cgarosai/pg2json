@@ -1,0 +1,10 @@
+{
+    "id": 646433,
+    "name": "system_recovery",
+    "version": "18.0.3",
+    "created_at": "2021-01-08T14:03:46",
+    "updated_at": "2021-01-08T14:03:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:system_recovery:18.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

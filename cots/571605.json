@@ -1,0 +1,10 @@
+{
+    "id": 571605,
+    "name": "distributed_ruby",
+    "version": "1.8",
+    "created_at": "2020-08-06T15:26:29",
+    "updated_at": "2020-08-06T15:26:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:distributed_ruby_project:distributed_ruby:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

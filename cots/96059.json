@@ -1,0 +1,10 @@
+{
+    "id": 96059,
+    "name": "tc7200_firmware",
+    "version": "std6.01.12",
+    "created_at": "2014-05-05T13:20:24",
+    "updated_at": "2014-05-05T14:54:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:technicolor:tc7200_firmware:std6.01.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

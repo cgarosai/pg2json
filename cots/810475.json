@@ -1,0 +1,10 @@
+{
+    "id": 810475,
+    "name": "w-118_firmware",
+    "version": "11.0.0-36",
+    "created_at": "2021-11-30T18:00:32",
+    "updated_at": "2021-12-01T16:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:w-118_firmware:11.0.0-36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

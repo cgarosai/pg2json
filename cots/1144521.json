@@ -1,0 +1,10 @@
+{
+    "id": 1144521,
+    "name": "zem800_firmware",
+    "version": "6.60",
+    "created_at": "2023-09-07T12:22:00",
+    "updated_at": "2023-09-07T14:37:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zkteco:zem800_firmware:6.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

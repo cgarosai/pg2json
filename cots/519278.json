@@ -1,0 +1,10 @@
+{
+    "id": 519278,
+    "name": "xeon_e5-4650_v4",
+    "version": "-",
+    "created_at": "2020-03-23T13:40:36",
+    "updated_at": "2023-09-27T18:23:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5-4650_v4:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

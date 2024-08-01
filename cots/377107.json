@@ -1,0 +1,10 @@
+{
+    "id": 377107,
+    "name": "bird",
+    "version": "1.4.4",
+    "created_at": "2019-09-18T16:48:11",
+    "updated_at": "2019-09-18T16:48:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bird_project:bird:1.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

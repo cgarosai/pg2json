@@ -1,0 +1,10 @@
+{
+    "id": 541059,
+    "name": "nuttx",
+    "version": "7.25",
+    "created_at": "2020-05-18T12:29:42",
+    "updated_at": "2020-05-18T12:29:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:nuttx:7.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 226259,
+    "name": "chef_sinatra",
+    "version": "-",
+    "created_at": "2019-04-09T15:25:14",
+    "updated_at": "2019-04-09T15:25:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:chef_sinatra:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

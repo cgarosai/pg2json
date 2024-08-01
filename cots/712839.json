@@ -1,0 +1,10 @@
+{
+    "id": 712839,
+    "name": "hapi-auth-jwt2",
+    "version": "1.0.5",
+    "created_at": "2021-06-08T10:41:01",
+    "updated_at": "2021-06-08T10:42:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hapi-auth-jwt2_project:hapi-auth-jwt2:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

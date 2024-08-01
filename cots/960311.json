@@ -1,0 +1,10 @@
+{
+    "id": 960311,
+    "name": "activity_log",
+    "version": "-",
+    "created_at": "2022-11-14T17:00:28",
+    "updated_at": "2023-12-26T18:56:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:activity_log_project:activity_log:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

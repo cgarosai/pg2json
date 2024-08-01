@@ -1,0 +1,10 @@
+{
+    "id": 195266,
+    "name": "fcn-rtu_firmware",
+    "version": "r4.02",
+    "created_at": "2018-11-27T18:56:39",
+    "updated_at": "2021-03-22T16:53:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yokogawa:fcn-rtu_firmware:r4.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

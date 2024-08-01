@@ -1,0 +1,10 @@
+{
+    "id": 669156,
+    "name": "package_manager_configurations",
+    "version": "-",
+    "created_at": "2021-02-26T20:39:57",
+    "updated_at": "2021-08-17T16:02:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:package_manager_configurations:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

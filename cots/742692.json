@@ -1,0 +1,10 @@
+{
+    "id": 742692,
+    "name": "immunet",
+    "version": "6.0.4",
+    "created_at": "2021-07-27T11:49:30",
+    "updated_at": "2021-07-27T12:30:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:immunet:6.0.4:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

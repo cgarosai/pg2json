@@ -1,0 +1,10 @@
+{
+    "id": 443927,
+    "name": "horde_sessionhandler",
+    "version": "1.0.0",
+    "created_at": "2019-12-04T15:28:43",
+    "updated_at": "2019-12-04T15:28:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_sessionhandler:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

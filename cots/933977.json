@@ -1,0 +1,10 @@
+{
+    "id": 933977,
+    "name": "vuetify",
+    "version": "-",
+    "created_at": "2022-09-19T10:43:13",
+    "updated_at": "2022-09-19T11:05:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vuetifyjs:vuetify:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

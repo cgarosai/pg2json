@@ -1,0 +1,10 @@
+{
+    "id": 1185139,
+    "name": "linkerd",
+    "version": "19.6.3",
+    "created_at": "2023-10-23T15:16:07",
+    "updated_at": "2023-10-23T15:16:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linkerd:linkerd:19.6.3:*:*:*:edge:kubernetes:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 472746,
+    "name": "mapserver",
+    "version": "3.0.6",
+    "created_at": "2020-01-23T14:54:01",
+    "updated_at": "2020-01-23T14:54:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gatewaygeomatics:mapserver:3.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

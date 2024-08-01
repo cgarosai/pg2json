@@ -1,0 +1,10 @@
+{
+    "id": 682700,
+    "name": "core_ftp",
+    "version": "1.2",
+    "created_at": "2021-04-09T16:09:45",
+    "updated_at": "2021-05-24T12:45:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:coreftp:core_ftp:1.2:build_583:*:*:*:*:*:*",
+    "to_analyse": false
+}

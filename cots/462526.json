@@ -1,0 +1,10 @@
+{
+    "id": 462526,
+    "name": "ngfw_firmware",
+    "version": "v500r002c00spc100pwe",
+    "created_at": "2020-01-05T14:50:07",
+    "updated_at": "2020-01-05T14:50:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ngfw_firmware:v500r002c00spc100pwe:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

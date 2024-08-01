@@ -1,0 +1,10 @@
+{
+    "id": 1063592,
+    "name": "ox_app_suite",
+    "version": "7.10.6",
+    "created_at": "2023-04-24T11:47:54",
+    "updated_at": "2023-05-05T15:30:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev12:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1061967,
+    "name": "openfeature",
+    "version": "0.2.26",
+    "created_at": "2023-04-20T13:24:12",
+    "updated_at": "2023-04-27T14:31:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:openfeature:0.2.26:*:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

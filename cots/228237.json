@@ -1,0 +1,10 @@
+{
+    "id": 228237,
+    "name": "hockeyapp",
+    "version": "1.0.5",
+    "created_at": "2019-04-12T17:45:05",
+    "updated_at": "2019-04-12T17:45:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:hockeyapp:1.0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

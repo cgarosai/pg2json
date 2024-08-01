@@ -1,0 +1,10 @@
+{
+    "id": 115407,
+    "name": "solaris_cluster",
+    "version": "4.0",
+    "created_at": "2016-02-17T16:55:46",
+    "updated_at": "2016-02-17T16:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:solaris_cluster:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

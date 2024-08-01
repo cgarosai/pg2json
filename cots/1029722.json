@@ -1,0 +1,10 @@
+{
+    "id": 1029722,
+    "name": "precision_3560_firmware",
+    "version": "1.24.3",
+    "created_at": "2023-02-08T13:09:12",
+    "updated_at": "2023-02-08T14:42:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:precision_3560_firmware:1.24.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

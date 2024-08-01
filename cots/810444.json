@@ -1,0 +1,10 @@
+{
+    "id": 810444,
+    "name": "w-68_firmware",
+    "version": "-",
+    "created_at": "2021-11-30T17:55:52",
+    "updated_at": "2021-12-01T16:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:w-68_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

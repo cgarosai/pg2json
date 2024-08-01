@@ -1,0 +1,10 @@
+{
+    "id": 1099081,
+    "name": "conprosys_hmi_system",
+    "version": "3.5.2",
+    "created_at": "2023-06-07T11:38:12",
+    "updated_at": "2023-07-11T12:49:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contec:conprosys_hmi_system:3.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

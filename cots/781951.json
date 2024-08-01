@@ -1,0 +1,10 @@
+{
+    "id": 781951,
+    "name": "nomad",
+    "version": "0.7.3",
+    "created_at": "2021-10-08T14:23:15",
+    "updated_at": "2021-10-12T09:21:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:nomad:0.7.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

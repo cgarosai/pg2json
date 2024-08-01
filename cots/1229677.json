@@ -1,0 +1,10 @@
+{
+    "id": 1229677,
+    "name": "rely-rec_firmware",
+    "version": "23.1.0",
+    "created_at": "2023-12-29T14:31:15",
+    "updated_at": "2023-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:relyum:rely-rec_firmware:23.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

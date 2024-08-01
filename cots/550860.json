@@ -1,0 +1,10 @@
+{
+    "id": 550860,
+    "name": "email_security_appliance",
+    "version": "8.0.1-023",
+    "created_at": "2020-06-16T10:26:43",
+    "updated_at": "2020-06-16T10:26:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:email_security_appliance:8.0.1-023:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

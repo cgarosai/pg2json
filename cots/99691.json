@@ -1,0 +1,10 @@
+{
+    "id": 99691,
+    "name": "kdelibs",
+    "version": "4.11.5",
+    "created_at": "2014-07-02T15:56:39",
+    "updated_at": "2014-07-08T19:56:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kdelibs:4.11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

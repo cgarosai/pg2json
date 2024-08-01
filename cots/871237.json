@@ -1,0 +1,10 @@
+{
+    "id": 871237,
+    "name": "manager_server",
+    "version": "4.3",
+    "created_at": "2022-05-04T14:45:39",
+    "updated_at": "2022-05-05T16:52:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:manager_server:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

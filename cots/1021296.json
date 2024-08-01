@@ -1,0 +1,10 @@
+{
+    "id": 1021296,
+    "name": "elite_dragonfly_max_firmware",
+    "version": "01.10.00",
+    "created_at": "2023-02-10T11:50:11",
+    "updated_at": "2023-02-16T19:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:elite_dragonfly_max_firmware:01.10.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

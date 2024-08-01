@@ -1,0 +1,10 @@
+{
+    "id": 456004,
+    "name": "celeron_n3160_firmware",
+    "version": "-",
+    "created_at": "2019-12-06T12:05:28",
+    "updated_at": "2019-12-06T12:05:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:celeron_n3160_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

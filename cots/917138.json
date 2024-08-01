@@ -1,0 +1,10 @@
+{
+    "id": 917138,
+    "name": "django_rest_framework",
+    "version": "2.1.2",
+    "created_at": "2022-07-28T17:19:55",
+    "updated_at": "2022-07-28T17:22:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-rest-framework:django_rest_framework:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

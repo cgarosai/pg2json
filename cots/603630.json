@@ -1,0 +1,10 @@
+{
+    "id": 603630,
+    "name": "cx_6200f_firmware",
+    "version": "10.04.1000",
+    "created_at": "2020-10-16T16:00:57",
+    "updated_at": "2023-12-26T18:56:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

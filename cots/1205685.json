@@ -1,0 +1,10 @@
+{
+    "id": 1205685,
+    "name": "json_web_token",
+    "version": "3.0.0",
+    "created_at": "2023-11-27T12:13:33",
+    "updated_at": "2023-11-27T12:13:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joaquimserafim:json_web_token:3.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

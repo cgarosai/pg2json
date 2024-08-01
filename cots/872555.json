@@ -1,0 +1,10 @@
+{
+    "id": 872555,
+    "name": "sqlite3",
+    "version": "4.1.0",
+    "created_at": "2022-05-06T14:15:17",
+    "updated_at": "2022-05-06T15:26:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ghost:sqlite3:4.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

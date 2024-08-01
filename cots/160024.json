@@ -1,0 +1,10 @@
+{
+    "id": 160024,
+    "name": "sqlserver",
+    "version": "1.0.2",
+    "created_at": "2018-07-26T13:22:17",
+    "updated_at": "2018-07-26T13:22:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqlserver_project:sqlserver:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 295848,
+    "name": "custom_sitemap",
+    "version": "7.x-1.0",
+    "created_at": "2019-07-12T12:57:01",
+    "updated_at": "2019-07-12T12:57:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osscube:custom_sitemap:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 128542,
+    "name": "service_bus",
+    "version": "12.2.1.0.0",
+    "created_at": "2017-05-03T15:26:06",
+    "updated_at": "2017-05-03T15:26:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:service_bus:12.2.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

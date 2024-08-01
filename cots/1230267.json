@@ -1,0 +1,10 @@
+{
+    "id": 1230267,
+    "name": "secure_enterprise_client",
+    "version": "13.10",
+    "created_at": "2024-01-12T11:35:05",
+    "updated_at": "2024-01-12T11:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncp-e:secure_enterprise_client:13.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

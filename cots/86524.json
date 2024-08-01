@@ -1,0 +1,10 @@
+{
+    "id": 86524,
+    "name": "quassel_irc",
+    "version": "0.6.3",
+    "created_at": "2013-10-23T15:47:47",
+    "updated_at": "2013-10-29T13:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quassel-irc:quassel_irc:0.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

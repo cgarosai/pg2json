@@ -1,0 +1,10 @@
+{
+    "id": 144376,
+    "name": "juju",
+    "version": "2.0.0",
+    "created_at": "2018-05-24T12:09:00",
+    "updated_at": "2018-05-24T12:09:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:juju:2.0.0:beta7:*:*:*:*:*:*",
+    "to_analyse": false
+}

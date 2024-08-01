@@ -1,0 +1,10 @@
+{
+    "id": 62231,
+    "name": "secure_access_control_server",
+    "version": "5.0",
+    "created_at": "2012-11-08T13:31:17",
+    "updated_at": "2012-11-13T22:55:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_access_control_server:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

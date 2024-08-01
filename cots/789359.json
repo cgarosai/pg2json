@@ -1,0 +1,10 @@
+{
+    "id": 789359,
+    "name": "netiq_directory_and_resource_administrator",
+    "version": "9.2",
+    "created_at": "2021-10-05T15:02:30",
+    "updated_at": "2021-10-05T15:58:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:netiq_directory_and_resource_administrator:9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

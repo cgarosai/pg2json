@@ -1,0 +1,10 @@
+{
+    "id": 932487,
+    "name": "defender_for_endpoint",
+    "version": "-",
+    "created_at": "2022-09-14T23:44:48",
+    "updated_at": "2022-09-28T12:31:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

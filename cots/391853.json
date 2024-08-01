@@ -1,0 +1,10 @@
+{
+    "id": 391853,
+    "name": "ethernet_cash",
+    "version": "-",
+    "created_at": "2019-10-03T12:41:02",
+    "updated_at": "2019-10-03T12:41:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ethernet_cash_project:ethernet_cash:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

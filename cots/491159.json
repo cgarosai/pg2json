@@ -1,0 +1,10 @@
+{
+    "id": 491159,
+    "name": "mgate_5105-mb-eip_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T13:24:12",
+    "updated_at": "2020-02-24T13:24:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:mgate_5105-mb-eip_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

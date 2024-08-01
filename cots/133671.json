@@ -1,0 +1,10 @@
+{
+    "id": 133671,
+    "name": "mobile_application_platform",
+    "version": "4.0",
+    "created_at": "2018-01-18T15:31:39",
+    "updated_at": "2021-08-11T13:37:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:mobile_application_platform:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

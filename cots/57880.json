@@ -1,0 +1,10 @@
+{
+    "id": 57880,
+    "name": "openmanage_drac_tools",
+    "version": "6.4.0",
+    "created_at": "2012-05-08T11:53:04",
+    "updated_at": "2012-05-08T11:53:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:openmanage_drac_tools:6.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

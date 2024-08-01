@@ -1,0 +1,10 @@
+{
+    "id": 450484,
+    "name": "headless-browser-lite",
+    "version": "2014.9.20-12",
+    "created_at": "2019-12-09T17:53:02",
+    "updated_at": "2019-12-09T17:53:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:2014.9.20-12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

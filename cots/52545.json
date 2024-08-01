@@ -1,0 +1,10 @@
+{
+    "id": 52545,
+    "name": "wireshark",
+    "version": "1.6.8",
+    "created_at": "2012-07-02T15:31:05",
+    "updated_at": "2012-07-03T16:41:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wireshark:wireshark:1.6.8:*:*:*:*:*:itanium:*",
+    "to_analyse": false
+}

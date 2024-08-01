@@ -1,0 +1,10 @@
+{
+    "id": 726352,
+    "name": "actionpack_page-caching",
+    "version": "-",
+    "created_at": "2021-06-10T13:33:24",
+    "updated_at": "2022-10-03T15:18:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:actionpack_page-caching:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

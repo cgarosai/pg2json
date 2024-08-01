@@ -1,0 +1,10 @@
+{
+    "id": 27251,
+    "name": "filenet_content_manager",
+    "version": "4.5",
+    "created_at": "2009-06-08T15:08:48",
+    "updated_at": "2013-02-04T19:57:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:filenet_content_manager:4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

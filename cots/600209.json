@@ -1,0 +1,10 @@
+{
+    "id": 600209,
+    "name": "nacos",
+    "version": "0.7.0",
+    "created_at": "2020-10-07T16:49:02",
+    "updated_at": "2020-10-07T16:49:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alibaba:nacos:0.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

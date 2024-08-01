@@ -1,0 +1,10 @@
+{
+    "id": 565287,
+    "name": "pam-u2f",
+    "version": "1.0.5",
+    "created_at": "2020-06-25T11:46:37",
+    "updated_at": "2020-06-25T11:46:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yubico:pam-u2f:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

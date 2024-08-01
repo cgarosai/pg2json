@@ -1,0 +1,10 @@
+{
+    "id": 780498,
+    "name": "virtual_room_connector",
+    "version": "4.1.5432.20200425",
+    "created_at": "2021-10-06T14:45:44",
+    "updated_at": "2021-10-06T15:04:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:virtual_room_connector:4.1.5432.20200425:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

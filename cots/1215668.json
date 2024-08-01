@@ -1,0 +1,10 @@
+{
+    "id": 1215668,
+    "name": "quickassist_technology",
+    "version": "1.0.40-00004",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:quickassist_technology:1.0.40-00004:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

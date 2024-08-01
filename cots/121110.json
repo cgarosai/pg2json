@@ -1,0 +1,10 @@
+{
+    "id": 121110,
+    "name": "data_server_runtime_client",
+    "version": "-",
+    "created_at": "2017-06-30T13:11:44",
+    "updated_at": "2021-06-04T16:24:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:data_server_runtime_client:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1120236,
+    "name": "graalvm_for_jdk",
+    "version": "20.0.2",
+    "created_at": "2023-07-27T13:32:41",
+    "updated_at": "2023-07-28T18:16:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:graalvm_for_jdk:20.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

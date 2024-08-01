@@ -1,0 +1,10 @@
+{
+    "id": 145526,
+    "name": "xeon_bronze",
+    "version": "3106",
+    "created_at": "2018-02-07T11:28:24",
+    "updated_at": "2020-04-28T09:51:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_bronze:3106:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

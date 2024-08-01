@@ -1,0 +1,10 @@
+{
+    "id": 971526,
+    "name": "snyk_sbt_cli",
+    "version": "1.2.4",
+    "created_at": "2022-12-01T17:11:09",
+    "updated_at": "2022-12-01T17:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_sbt_cli:1.2.4:*:*:*:*:snyk:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 234353,
+    "name": "icon_500_firmware",
+    "version": "ls_rm3_3.7.0\\(2421\\)",
+    "created_at": "2019-05-16T11:09:12",
+    "updated_at": "2022-09-02T14:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lifesize:icon_500_firmware:ls_rm3_3.7.0\\(2421\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

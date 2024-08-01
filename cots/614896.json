@@ -1,0 +1,10 @@
+{
+    "id": 614896,
+    "name": "jupyter_server",
+    "version": "1.0.6",
+    "created_at": "2020-11-30T11:49:32",
+    "updated_at": "2020-11-30T11:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:jupyter_server:1.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

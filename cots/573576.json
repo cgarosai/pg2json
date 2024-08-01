@@ -1,0 +1,10 @@
+{
+    "id": 573576,
+    "name": "sg350-10_firmware",
+    "version": "2.5.5.47",
+    "created_at": "2020-08-11T14:22:26",
+    "updated_at": "2020-08-11T14:22:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg350-10_firmware:2.5.5.47:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 436835,
+    "name": "tuned",
+    "version": "0.2.8",
+    "created_at": "2019-11-13T11:22:47",
+    "updated_at": "2019-11-13T11:22:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:tuned:0.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

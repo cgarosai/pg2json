@@ -1,0 +1,10 @@
+{
+    "id": 453949,
+    "name": "seneca_hdn_firmware",
+    "version": "7.0.4.104",
+    "created_at": "2019-12-11T14:00:43",
+    "updated_at": "2019-12-11T14:00:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:trms:seneca_hdn_firmware:7.0.4.104:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

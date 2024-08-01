@@ -1,0 +1,10 @@
+{
+    "id": 255018,
+    "name": "pipeline_nodes_and_processes",
+    "version": "2.0",
+    "created_at": "2019-06-06T15:02:51",
+    "updated_at": "2019-06-06T15:02:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline_nodes_and_processes:2.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 113174,
+    "name": "expat",
+    "version": "2.1.1",
+    "created_at": "2016-12-19T16:48:42",
+    "updated_at": "2021-01-25T14:44:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libexpat:expat:2.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

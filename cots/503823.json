@@ -1,0 +1,10 @@
+{
+    "id": 503823,
+    "name": "proxychains-ng",
+    "version": "4.9",
+    "created_at": "2020-03-10T13:13:00",
+    "updated_at": "2020-03-10T13:13:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proxychains-ng_project:proxychains-ng:4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

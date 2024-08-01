@@ -1,0 +1,10 @@
+{
+    "id": 1263395,
+    "name": "event_tickets_with_ticket_scanner",
+    "version": "2.2.3",
+    "created_at": "2024-06-05T13:58:07",
+    "updated_at": "2024-06-05T13:58:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:2.2.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

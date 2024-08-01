@@ -1,0 +1,10 @@
+{
+    "id": 777932,
+    "name": "simplesamlphp_authentication",
+    "version": "0.7.0",
+    "created_at": "2021-09-13T15:30:41",
+    "updated_at": "2021-09-22T10:08:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simplesamlphp_authentication_project:simplesamlphp_authentication:0.7.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

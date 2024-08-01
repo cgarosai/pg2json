@@ -1,0 +1,10 @@
+{
+    "id": 509137,
+    "name": "remote",
+    "version": "phy",
+    "created_at": "2020-03-05T18:08:48",
+    "updated_at": "2020-03-05T18:08:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:remote:phy:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

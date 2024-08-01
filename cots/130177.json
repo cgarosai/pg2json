@@ -1,0 +1,10 @@
+{
+    "id": 130177,
+    "name": "james_server",
+    "version": "3.0.0",
+    "created_at": "2017-12-01T18:11:46",
+    "updated_at": "2017-12-01T18:11:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:james_server:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

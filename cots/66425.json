@@ -1,0 +1,10 @@
+{
+    "id": 66425,
+    "name": "arcsight_connector_appliance_firmware",
+    "version": "6.2.0.6244.0",
+    "created_at": "2012-08-08T16:58:41",
+    "updated_at": "2012-08-10T15:18:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:arcsight_connector_appliance_firmware:6.2.0.6244.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51127,
+    "name": "mdrwifi",
+    "version": "9.3.0",
+    "created_at": "2012-06-21T17:06:51",
+    "updated_at": "2012-06-21T17:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:mdrwifi:9.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

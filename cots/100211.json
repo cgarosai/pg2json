@@ -1,0 +1,10 @@
+{
+    "id": 100211,
+    "name": "prime_service_catalog",
+    "version": "9.4.1_vortex",
+    "created_at": "2015-06-17T10:16:15",
+    "updated_at": "2015-06-23T16:58:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_service_catalog:9.4.1_vortex:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

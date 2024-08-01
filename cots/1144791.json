@@ -1,0 +1,10 @@
+{
+    "id": 1144791,
+    "name": "apollo_router",
+    "version": "1.28.0",
+    "created_at": "2023-09-08T09:21:43",
+    "updated_at": "2023-09-09T01:46:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apollographql:apollo_router:1.28.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

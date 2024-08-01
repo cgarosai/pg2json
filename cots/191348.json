@@ -1,0 +1,10 @@
+{
+    "id": 191348,
+    "name": "360-indoor_camera_firmware",
+    "version": "6.52.4",
+    "created_at": "2019-01-08T18:03:48",
+    "updated_at": "2021-06-16T12:00:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:360-indoor_camera_firmware:6.52.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

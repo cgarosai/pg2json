@@ -1,0 +1,10 @@
+{
+    "id": 368219,
+    "name": "carspot",
+    "version": "2.0.4",
+    "created_at": "2019-09-12T10:54:38",
+    "updated_at": "2019-09-12T10:54:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:carspot_project:carspot:2.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

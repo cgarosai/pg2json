@@ -1,0 +1,10 @@
+{
+    "id": 644173,
+    "name": "cloudline_cl3100_gen10_server_firmware",
+    "version": "1.10.0.0",
+    "created_at": "2021-01-29T18:42:35",
+    "updated_at": "2021-08-18T12:08:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:cloudline_cl3100_gen10_server_firmware:1.10.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

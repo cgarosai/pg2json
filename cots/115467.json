@@ -1,0 +1,10 @@
+{
+    "id": 115467,
+    "name": "field_service",
+    "version": "12.1.2",
+    "created_at": "2016-02-17T16:55:55",
+    "updated_at": "2016-02-17T16:55:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:field_service:12.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

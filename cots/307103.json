@@ -1,0 +1,10 @@
+{
+    "id": 307103,
+    "name": "processor_diagnostic_tool",
+    "version": "4.1.2.34",
+    "created_at": "2019-07-19T13:33:28",
+    "updated_at": "2021-04-29T13:03:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:processor_diagnostic_tool:4.1.2.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

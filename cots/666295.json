@@ -1,0 +1,10 @@
+{
+    "id": 666295,
+    "name": "pwntools",
+    "version": "2.1.2",
+    "created_at": "2021-02-23T18:12:02",
+    "updated_at": "2021-02-23T18:12:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pwntools_project:pwntools:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

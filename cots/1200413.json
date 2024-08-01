@@ -1,0 +1,10 @@
+{
+    "id": 1200413,
+    "name": "enterprise_cloud_database",
+    "version": "-",
+    "created_at": "2023-12-01T14:29:36",
+    "updated_at": "2023-12-01T14:29:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ragic:enterprise_cloud_database:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

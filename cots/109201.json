@@ -1,0 +1,10 @@
+{
+    "id": 109201,
+    "name": "node_basket",
+    "version": "7.x-1.0",
+    "created_at": "2015-04-23T13:53:36",
+    "updated_at": "2015-05-20T13:10:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:insite:node_basket:7.x-1.0:rc2:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

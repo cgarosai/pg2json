@@ -1,0 +1,10 @@
+{
+    "id": 1229847,
+    "name": "led_strip",
+    "version": "-",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:govee:led_strip:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

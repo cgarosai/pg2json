@@ -1,0 +1,10 @@
+{
+    "id": 573082,
+    "name": "wifi_bulb_firmware",
+    "version": "-",
+    "created_at": "2020-08-11T12:22:52",
+    "updated_at": "2020-08-11T12:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mystrom:wifi_bulb_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

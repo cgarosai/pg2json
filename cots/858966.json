@@ -1,0 +1,10 @@
+{
+    "id": 858966,
+    "name": "wp_event_manager",
+    "version": "3.1.10",
+    "created_at": "2022-03-09T13:09:44",
+    "updated_at": "2022-03-11T21:15:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-eventmanager:wp_event_manager:3.1.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

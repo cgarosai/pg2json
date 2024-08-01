@@ -1,0 +1,10 @@
+{
+    "id": 194495,
+    "name": "wget",
+    "version": "1.16.3",
+    "created_at": "2019-01-29T13:58:54",
+    "updated_at": "2019-01-29T13:58:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:wget:1.16.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1166776,
+    "name": "xeon_e3-3600",
+    "version": "-",
+    "created_at": "2023-09-25T17:50:28",
+    "updated_at": "2023-09-25T17:50:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e3-3600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

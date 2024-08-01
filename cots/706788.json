@@ -1,0 +1,10 @@
+{
+    "id": 706788,
+    "name": "control_for_raspberry_pi_sl",
+    "version": "4.1.0.0",
+    "created_at": "2021-05-10T09:17:03",
+    "updated_at": "2021-05-17T11:11:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_raspberry_pi_sl:4.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

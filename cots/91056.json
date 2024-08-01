@@ -1,0 +1,10 @@
+{
+    "id": 91056,
+    "name": "f1000-e_vpn_firewall",
+    "version": "0235a26g",
+    "created_at": "2014-07-29T13:36:39",
+    "updated_at": "2014-07-29T15:34:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:h3c:f1000-e_vpn_firewall:0235a26g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

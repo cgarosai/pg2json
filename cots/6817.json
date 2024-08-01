@@ -1,0 +1,10 @@
+{
+    "id": 6817,
+    "name": "ip440_firewall_vpn_appliance",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:16:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nokia:ip440_firewall_vpn_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

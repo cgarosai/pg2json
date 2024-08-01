@@ -1,0 +1,10 @@
+{
+    "id": 405170,
+    "name": "mq",
+    "version": "9.0.0.4",
+    "created_at": "2019-10-08T09:53:44",
+    "updated_at": "2019-10-08T09:53:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:mq:9.0.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

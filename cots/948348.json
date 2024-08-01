@@ -1,0 +1,10 @@
+{
+    "id": 948348,
+    "name": "oauth_client_single_sign_on",
+    "version": "3.0.5",
+    "created_at": "2022-09-28T11:13:12",
+    "updated_at": "2022-09-29T12:41:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oauth_client_single_sign_on_project:oauth_client_single_sign_on:3.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 153001,
+    "name": "mail_server",
+    "version": "11.4.3",
+    "created_at": "2018-06-12T12:14:32",
+    "updated_at": "2018-06-12T12:14:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icewarp:mail_server:11.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

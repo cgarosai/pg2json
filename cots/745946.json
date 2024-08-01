@@ -1,0 +1,10 @@
+{
+    "id": 745946,
+    "name": "kallithea",
+    "version": "0.6.2",
+    "created_at": "2021-07-16T16:25:38",
+    "updated_at": "2021-07-16T19:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kallithea-scm:kallithea:0.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

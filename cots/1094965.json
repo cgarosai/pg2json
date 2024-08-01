@@ -1,0 +1,10 @@
+{
+    "id": 1094965,
+    "name": "snowflake_connector",
+    "version": "2.0.15",
+    "created_at": "2023-06-16T13:54:10",
+    "updated_at": "2023-06-16T20:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snowflake:snowflake_connector:2.0.15:*:*:*:*:.net:*:*",
+    "to_analyse": false
+}

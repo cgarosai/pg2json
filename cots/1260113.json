@@ -1,0 +1,10 @@
+{
+    "id": 1260113,
+    "name": "phpsysinfo",
+    "version": "3.4.3",
+    "created_at": "2024-04-23T09:44:13",
+    "updated_at": "2024-04-23T09:44:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpsysinfo:phpsysinfo:3.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

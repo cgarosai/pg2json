@@ -1,0 +1,10 @@
+{
+    "id": 1251800,
+    "name": "apm_server",
+    "version": "7.17.14",
+    "created_at": "2024-02-15T18:36:07",
+    "updated_at": "2024-02-15T18:36:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:apm_server:7.17.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

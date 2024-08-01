@@ -1,0 +1,10 @@
+{
+    "id": 730824,
+    "name": "vernemq",
+    "version": "0.15.2",
+    "created_at": "2021-07-12T11:07:09",
+    "updated_at": "2021-07-12T11:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octavolabs:vernemq:0.15.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 622963,
+    "name": "nethack",
+    "version": "3.4.2",
+    "created_at": "2020-12-08T21:02:15",
+    "updated_at": "2020-12-08T21:02:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nethack:nethack:3.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

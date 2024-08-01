@@ -1,0 +1,10 @@
+{
+    "id": 1169291,
+    "name": "survey_application_system",
+    "version": "1.0",
+    "created_at": "2023-09-28T13:11:06",
+    "updated_at": "2023-09-28T13:11:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:survey_application_system_project:survey_application_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

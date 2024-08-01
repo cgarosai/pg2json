@@ -1,0 +1,10 @@
+{
+    "id": 558030,
+    "name": "freenas",
+    "version": "9.1.0",
+    "created_at": "2020-06-04T14:50:51",
+    "updated_at": "2020-06-04T14:50:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freenas:freenas:9.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

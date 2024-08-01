@@ -1,0 +1,10 @@
+{
+    "id": 400694,
+    "name": "pinpoint_booking_system",
+    "version": "2.2.2",
+    "created_at": "2019-10-16T09:21:19",
+    "updated_at": "2019-10-16T09:21:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pinpoint:pinpoint_booking_system:2.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

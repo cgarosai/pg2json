@@ -1,0 +1,10 @@
+{
+    "id": 841652,
+    "name": "power_management_controller",
+    "version": "pmc_fw_lbg_b0-21ww02a",
+    "created_at": "2022-02-15T12:56:01",
+    "updated_at": "2022-02-25T18:54:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:power_management_controller:pmc_fw_lbg_b0-21ww02a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

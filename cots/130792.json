@@ -1,0 +1,10 @@
+{
+    "id": 130792,
+    "name": "zlib",
+    "version": "1.2.10",
+    "created_at": "2017-12-08T15:00:17",
+    "updated_at": "2022-06-22T14:40:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:zlib:1.2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

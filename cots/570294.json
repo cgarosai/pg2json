@@ -1,0 +1,10 @@
+{
+    "id": 570294,
+    "name": "series_0i-model_b_firmware",
+    "version": "-",
+    "created_at": "2020-08-05T12:21:40",
+    "updated_at": "2021-05-20T16:55:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fanuc:series_0i-model_b_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 912974,
+    "name": "authenticator",
+    "version": "-",
+    "created_at": "2022-08-12T10:00:35",
+    "updated_at": "2022-08-29T17:04:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:authenticator:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

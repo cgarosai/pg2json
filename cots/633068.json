@@ -1,0 +1,10 @@
+{
+    "id": 633068,
+    "name": "flattenizer",
+    "version": "1.0.4",
+    "created_at": "2021-01-04T12:36:09",
+    "updated_at": "2021-01-04T12:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flattenizer_project:flattenizer:1.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

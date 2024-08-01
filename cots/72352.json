@@ -1,0 +1,10 @@
+{
+    "id": 72352,
+    "name": "network_satellite",
+    "version": "3.7",
+    "created_at": "2013-07-31T23:34:09",
+    "updated_at": "2022-02-03T15:26:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:network_satellite:3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

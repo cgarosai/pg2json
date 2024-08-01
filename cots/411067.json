@@ -1,0 +1,10 @@
+{
+    "id": 411067,
+    "name": "tap",
+    "version": "2.2.2",
+    "created_at": "2019-10-28T15:40:53",
+    "updated_at": "2019-10-28T15:40:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:tap:2.2.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

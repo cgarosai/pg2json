@@ -1,0 +1,10 @@
+{
+    "id": 190222,
+    "name": "sqlite",
+    "version": "3.25.3",
+    "created_at": "2019-01-04T12:42:12",
+    "updated_at": "2019-01-04T12:42:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqlite:sqlite:3.25.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

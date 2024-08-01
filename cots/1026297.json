@@ -1,0 +1,10 @@
+{
+    "id": 1026297,
+    "name": "uptimed",
+    "version": "0.3.11",
+    "created_at": "2023-02-03T12:58:17",
+    "updated_at": "2023-02-08T04:42:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uptimed_project:uptimed:0.3.11:*:*:*:*:gentoo:*:*",
+    "to_analyse": false
+}

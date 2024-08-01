@@ -1,0 +1,10 @@
+{
+    "id": 349296,
+    "name": "edx-platform",
+    "version": "2017-01-18b",
+    "created_at": "2019-08-26T14:11:41",
+    "updated_at": "2020-01-07T17:19:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open.edx:edx-platform:2017-01-18b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

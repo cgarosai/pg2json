@@ -1,0 +1,10 @@
+{
+    "id": 911595,
+    "name": "muhttpd",
+    "version": "-",
+    "created_at": "2022-08-09T10:52:01",
+    "updated_at": "2022-11-07T16:29:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inglorion:muhttpd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

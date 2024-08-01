@@ -1,0 +1,10 @@
+{
+    "id": 116859,
+    "name": "policy_center_firmware",
+    "version": "v100r003c10",
+    "created_at": "2016-04-12T16:31:39",
+    "updated_at": "2021-08-20T13:03:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:policy_center_firmware:v100r003c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

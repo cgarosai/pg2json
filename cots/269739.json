@@ -1,0 +1,10 @@
+{
+    "id": 269739,
+    "name": "blynk-server",
+    "version": "0.38.2",
+    "created_at": "2019-06-17T13:35:30",
+    "updated_at": "2019-06-17T13:35:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blynk:blynk-server:0.38.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

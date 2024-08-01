@@ -1,0 +1,10 @@
+{
+    "id": 913766,
+    "name": "arvados",
+    "version": "0.1.20140529135802",
+    "created_at": "2022-08-15T16:59:15",
+    "updated_at": "2022-08-15T17:02:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arvados:arvados:0.1.20140529135802:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

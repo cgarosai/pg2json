@@ -1,0 +1,10 @@
+{
+    "id": 665401,
+    "name": "gerrit",
+    "version": "3.1.10",
+    "created_at": "2021-02-23T15:22:47",
+    "updated_at": "2021-03-08T12:33:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:gerrit:3.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

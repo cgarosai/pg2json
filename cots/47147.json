@@ -1,0 +1,10 @@
+{
+    "id": 47147,
+    "name": "jdk",
+    "version": "1.4.2_31",
+    "created_at": "2011-06-16T13:46:24",
+    "updated_at": "2012-02-14T23:11:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:jdk:1.4.2_31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

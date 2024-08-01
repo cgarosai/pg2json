@@ -1,0 +1,10 @@
+{
+    "id": 469418,
+    "name": "linux",
+    "version": "5",
+    "created_at": "2019-12-27T15:08:46",
+    "updated_at": "2019-12-27T15:08:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:linux:5:9:*:*:*:*:*:*",
+    "to_analyse": false
+}

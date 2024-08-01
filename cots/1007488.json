@@ -1,0 +1,10 @@
+{
+    "id": 1007488,
+    "name": "td220max_firmware",
+    "version": "1.2.6",
+    "created_at": "2023-01-03T14:25:15",
+    "updated_at": "2023-08-21T12:16:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:td220max_firmware:1.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

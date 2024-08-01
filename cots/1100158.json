@@ -1,0 +1,10 @@
+{
+    "id": 1100158,
+    "name": "fl_mguard_delta_tx\\/tx_firmware",
+    "version": "8.9.0",
+    "created_at": "2023-06-27T15:58:23",
+    "updated_at": "2023-06-28T12:30:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:fl_mguard_delta_tx\\/tx_firmware:8.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

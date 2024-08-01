@@ -1,0 +1,10 @@
+{
+    "id": 369248,
+    "name": "stegdetect",
+    "version": "0.6",
+    "created_at": "2019-09-13T14:47:48",
+    "updated_at": "2019-09-13T14:47:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guardianproject:stegdetect:0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

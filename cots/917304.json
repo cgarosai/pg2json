@@ -1,0 +1,10 @@
+{
+    "id": 917304,
+    "name": "manageengine_firewall_analyzer",
+    "version": "12.5",
+    "created_at": "2022-07-29T13:13:48",
+    "updated_at": "2022-07-29T13:20:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:12.5:build125376:*:*:*:*:*:*",
+    "to_analyse": false
+}

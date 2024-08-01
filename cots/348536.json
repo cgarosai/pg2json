@@ -1,0 +1,10 @@
+{
+    "id": 348536,
+    "name": "openfire",
+    "version": "3.6.2",
+    "created_at": "2019-08-26T09:14:16",
+    "updated_at": "2019-08-26T09:14:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:igniterealtime:openfire:3.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

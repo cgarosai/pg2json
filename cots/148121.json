@@ -1,0 +1,10 @@
+{
+    "id": 148121,
+    "name": "xstream",
+    "version": "0.6",
+    "created_at": "2018-03-26T16:34:35",
+    "updated_at": "2020-11-20T19:07:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xstream_project:xstream:0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

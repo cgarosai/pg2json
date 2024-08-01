@@ -1,0 +1,10 @@
+{
+    "id": 164071,
+    "name": "fortios",
+    "version": "6.0.2",
+    "created_at": "2018-08-23T16:02:04",
+    "updated_at": "2018-08-23T16:02:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fortios:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

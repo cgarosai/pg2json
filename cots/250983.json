@@ -1,0 +1,10 @@
+{
+    "id": 250983,
+    "name": "zsh",
+    "version": "4.3.11",
+    "created_at": "2019-06-11T13:51:11",
+    "updated_at": "2019-06-11T13:51:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zsh:zsh:4.3.11:dev-4:*:*:*:*:*:*",
+    "to_analyse": false
+}

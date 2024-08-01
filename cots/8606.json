@@ -1,0 +1,10 @@
+{
+    "id": 8606,
+    "name": "firewall-1",
+    "version": "r55w",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-14T18:19:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:firewall-1:r55w:hfa2:*:*:*:*:*:*",
+    "to_analyse": false
+}

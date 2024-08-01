@@ -1,0 +1,10 @@
+{
+    "id": 69231,
+    "name": "q67_express_chipset",
+    "version": "-",
+    "created_at": "2012-09-17T14:38:09",
+    "updated_at": "2012-09-18T12:09:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:q67_express_chipset:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

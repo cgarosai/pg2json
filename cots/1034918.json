@@ -1,0 +1,10 @@
+{
+    "id": 1034918,
+    "name": "ruh2_firmware",
+    "version": "-",
+    "created_at": "2023-03-06T17:52:33",
+    "updated_at": "2023-08-30T09:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:irz:ruh2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

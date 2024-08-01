@@ -1,0 +1,10 @@
+{
+    "id": 160054,
+    "name": "espruino",
+    "version": "1.64",
+    "created_at": "2018-07-26T14:55:52",
+    "updated_at": "2018-07-26T14:55:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:espruino:espruino:1.64:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

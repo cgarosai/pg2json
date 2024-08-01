@@ -1,0 +1,10 @@
+{
+    "id": 582950,
+    "name": "lms511_firmware",
+    "version": "2.30",
+    "created_at": "2020-09-01T09:05:42",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:lms511_firmware:2.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

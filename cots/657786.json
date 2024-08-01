@@ -1,0 +1,10 @@
+{
+    "id": 657786,
+    "name": "nessus_amazon_machine_image",
+    "version": "-",
+    "created_at": "2021-02-08T15:47:22",
+    "updated_at": "2021-06-30T16:26:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenable:nessus_amazon_machine_image:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

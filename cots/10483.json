@@ -1,0 +1,10 @@
+{
+    "id": 10483,
+    "name": "quicktime",
+    "version": "7.2",
+    "created_at": "2007-10-05T14:49:51",
+    "updated_at": "2011-01-12T13:35:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:quicktime:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

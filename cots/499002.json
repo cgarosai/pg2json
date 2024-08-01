@@ -1,0 +1,10 @@
+{
+    "id": 499002,
+    "name": "ucointoken",
+    "version": "-",
+    "created_at": "2020-02-20T15:09:46",
+    "updated_at": "2020-02-20T15:09:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ucointoken_project:ucointoken:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

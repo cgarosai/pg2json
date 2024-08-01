@@ -1,0 +1,10 @@
+{
+    "id": 29760,
+    "name": "sqltools",
+    "version": "1.4.2",
+    "created_at": "2009-11-25T17:35:34",
+    "updated_at": "2009-11-25T17:35:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sqltools:sqltools:1.4.2:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

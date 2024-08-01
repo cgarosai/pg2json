@@ -1,0 +1,10 @@
+{
+    "id": 591338,
+    "name": "airstation_whr-g54s_firmware",
+    "version": "1.43",
+    "created_at": "2020-09-18T12:04:42",
+    "updated_at": "2021-04-29T15:24:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:buffalo:airstation_whr-g54s_firmware:1.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

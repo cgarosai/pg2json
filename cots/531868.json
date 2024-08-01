@@ -1,0 +1,10 @@
+{
+    "id": 531868,
+    "name": "cloudflare-scrape",
+    "version": "1.9.4",
+    "created_at": "2020-04-29T11:50:38",
+    "updated_at": "2020-04-29T11:50:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare-scrape_project:cloudflare-scrape:1.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

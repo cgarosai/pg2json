@@ -1,0 +1,10 @@
+{
+    "id": 588298,
+    "name": "pega_platform",
+    "version": "6.3",
+    "created_at": "2020-08-20T10:35:31",
+    "updated_at": "2020-08-20T10:35:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pega:pega_platform:6.3:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

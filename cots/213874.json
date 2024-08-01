@@ -1,0 +1,10 @@
+{
+    "id": 213874,
+    "name": "prqa",
+    "version": "2.0.12",
+    "created_at": "2019-04-01T13:19:06",
+    "updated_at": "2019-04-01T13:19:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:prqa:2.0.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

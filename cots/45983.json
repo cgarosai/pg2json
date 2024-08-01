@@ -1,0 +1,10 @@
+{
+    "id": 45983,
+    "name": "as-100_firmware",
+    "version": "-",
+    "created_at": "2011-05-03T11:48:39",
+    "updated_at": "2011-05-03T11:48:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buffalotech:as-100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

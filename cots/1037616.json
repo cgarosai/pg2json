@@ -1,0 +1,10 @@
+{
+    "id": 1037616,
+    "name": "junit",
+    "version": "1153.v1c24f1a_d2553",
+    "created_at": "2023-02-21T19:41:50",
+    "updated_at": "2023-02-21T19:44:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:junit:1153.v1c24f1a_d2553:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

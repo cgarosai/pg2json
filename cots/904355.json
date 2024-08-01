@@ -1,0 +1,10 @@
+{
+    "id": 904355,
+    "name": "spectrum_server",
+    "version": "-",
+    "created_at": "2022-07-22T11:31:47",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:dw:spectrum_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

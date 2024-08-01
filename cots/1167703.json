@@ -1,0 +1,10 @@
+{
+    "id": 1167703,
+    "name": "twister_antivirus",
+    "version": "8.0",
+    "created_at": "2023-09-27T07:58:03",
+    "updated_at": "2023-09-27T07:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:filseclab:twister_antivirus:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

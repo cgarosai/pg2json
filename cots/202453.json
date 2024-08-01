@@ -1,0 +1,10 @@
+{
+    "id": 202453,
+    "name": "simatic_fieldpg_m5",
+    "version": "-",
+    "created_at": "2019-02-28T14:49:30",
+    "updated_at": "2021-05-14T16:25:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_fieldpg_m5:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

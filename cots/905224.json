@@ -1,0 +1,10 @@
+{
+    "id": 905224,
+    "name": "regexfn",
+    "version": "1.0.5",
+    "created_at": "2022-07-06T12:18:11",
+    "updated_at": "2022-07-06T12:52:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:regexfn_project:regexfn:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

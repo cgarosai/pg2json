@@ -1,0 +1,10 @@
+{
+    "id": 744331,
+    "name": "diesel",
+    "version": "0.10.0",
+    "created_at": "2021-07-29T11:07:20",
+    "updated_at": "2021-07-29T11:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diesel:diesel:0.10.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

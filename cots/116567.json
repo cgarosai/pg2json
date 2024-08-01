@@ -1,0 +1,10 @@
+{
+    "id": 116567,
+    "name": "single_sign-on",
+    "version": "r12.51",
+    "created_at": "2016-03-29T10:04:14",
+    "updated_at": "2021-04-09T16:55:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:single_sign-on:r12.51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

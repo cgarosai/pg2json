@@ -1,0 +1,10 @@
+{
+    "id": 765528,
+    "name": "cpu_1507d_tf_firmware",
+    "version": "-",
+    "created_at": "2021-08-17T09:17:40",
+    "updated_at": "2021-08-20T14:47:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:cpu_1507d_tf_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

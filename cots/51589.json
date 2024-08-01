@@ -1,0 +1,10 @@
+{
+    "id": 51589,
+    "name": "policy_auditor_agent",
+    "version": "mcafee_inc",
+    "created_at": "2012-06-21T17:08:35",
+    "updated_at": "2012-06-21T17:08:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:policy_auditor_agent:mcafee_inc:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

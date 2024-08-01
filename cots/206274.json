@@ -1,0 +1,10 @@
+{
+    "id": 206274,
+    "name": "integration_bus",
+    "version": "10.0.0.13",
+    "created_at": "2019-02-05T14:33:30",
+    "updated_at": "2021-03-11T19:01:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:integration_bus:10.0.0.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

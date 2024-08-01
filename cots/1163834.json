@@ -1,0 +1,10 @@
+{
+    "id": 1163834,
+    "name": "nport_5210-t_firmware",
+    "version": "2.12",
+    "created_at": "2023-10-05T14:35:02",
+    "updated_at": "2023-10-05T14:35:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_5210-t_firmware:2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

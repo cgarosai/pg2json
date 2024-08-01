@@ -1,0 +1,10 @@
+{
+    "id": 786844,
+    "name": "tinyobjloader",
+    "version": "2.0.0",
+    "created_at": "2021-09-30T15:17:24",
+    "updated_at": "2021-10-01T13:26:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tinyobjloader_project:tinyobjloader:2.0.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

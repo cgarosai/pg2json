@@ -1,0 +1,10 @@
+{
+    "id": 389466,
+    "name": "vlc_for_mobile",
+    "version": "3.2.0",
+    "created_at": "2019-09-25T12:40:51",
+    "updated_at": "2019-09-25T12:40:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:videolan:vlc_for_mobile:3.2.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

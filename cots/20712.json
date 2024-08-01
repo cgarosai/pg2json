@@ -1,0 +1,10 @@
+{
+    "id": 20712,
+    "name": "anti-virus_plus_firewall",
+    "version": "9.0",
+    "created_at": "2010-01-07T15:09:27",
+    "updated_at": "2010-01-07T15:09:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avg:anti-virus_plus_firewall:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

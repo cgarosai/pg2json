@@ -1,0 +1,10 @@
+{
+    "id": 308014,
+    "name": "wavpack",
+    "version": "4.70.0",
+    "created_at": "2019-07-20T16:35:02",
+    "updated_at": "2019-07-20T16:35:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wavpack:wavpack:4.70.0:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

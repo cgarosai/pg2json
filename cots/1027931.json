@@ -1,0 +1,10 @@
+{
+    "id": 1027931,
+    "name": "octopus_server",
+    "version": "2022.4.8319",
+    "created_at": "2023-02-07T10:44:58",
+    "updated_at": "2023-03-01T18:50:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:octopus:octopus_server:2022.4.8319:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

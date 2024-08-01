@@ -1,0 +1,10 @@
+{
+    "id": 590942,
+    "name": "1ge_router_wifi_onu_v2801rw_firmware",
+    "version": "1.9.1-181203",
+    "created_at": "2020-09-16T13:53:19",
+    "updated_at": "2020-09-16T13:53:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:gpononu:1ge_router_wifi_onu_v2801rw_firmware:1.9.1-181203:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

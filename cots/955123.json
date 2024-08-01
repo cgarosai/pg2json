@@ -1,0 +1,10 @@
+{
+    "id": 955123,
+    "name": "simatic_hmi_ktp900_basic_firmware",
+    "version": "17.0",
+    "created_at": "2022-10-14T11:26:41",
+    "updated_at": "2022-10-14T20:00:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_hmi_ktp900_basic_firmware:17.0:update3:*:*:*:*:*:*",
+    "to_analyse": false
+}

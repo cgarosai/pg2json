@@ -1,0 +1,10 @@
+{
+    "id": 1031697,
+    "name": "jira-integration-spi",
+    "version": "7.2.3",
+    "created_at": "2023-03-01T19:17:36",
+    "updated_at": "2023-03-01T19:26:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira-integration-spi:7.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

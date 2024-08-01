@@ -1,0 +1,10 @@
+{
+    "id": 54070,
+    "name": "sql_anywhere_studio",
+    "version": "9.0.2.2451",
+    "created_at": "2012-07-10T01:21:43",
+    "updated_at": "2012-07-10T01:21:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:sql_anywhere_studio:9.0.2.2451:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1197940,
+    "name": "csi_proxy",
+    "version": "1.1.2",
+    "created_at": "2023-11-13T11:29:00",
+    "updated_at": "2023-11-13T11:29:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:csi_proxy:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

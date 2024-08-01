@@ -1,0 +1,10 @@
+{
+    "id": 876733,
+    "name": "promoted_builds",
+    "version": "873.v6149db_d64130",
+    "created_at": "2022-04-19T13:53:44",
+    "updated_at": "2022-04-27T14:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:promoted_builds:873.v6149db_d64130:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

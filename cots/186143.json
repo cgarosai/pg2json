@@ -1,0 +1,10 @@
+{
+    "id": 186143,
+    "name": "owasp_modsecurity_core_rule_set",
+    "version": "3.1.0",
+    "created_at": "2018-10-24T11:47:23",
+    "updated_at": "2021-05-05T16:56:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:3.1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

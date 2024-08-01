@@ -1,0 +1,10 @@
+{
+    "id": 526396,
+    "name": "prtg_network_monitor",
+    "version": "20.1.55.1775",
+    "created_at": "2020-04-01T11:29:07",
+    "updated_at": "2020-04-01T11:29:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paessler:prtg_network_monitor:20.1.55.1775:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

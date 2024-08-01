@@ -1,0 +1,10 @@
+{
+    "id": 1265709,
+    "name": "alarms_assistant",
+    "version": "0.8.0",
+    "created_at": "2024-02-27T18:26:20",
+    "updated_at": "2024-02-27T18:26:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guard:alarms_assistant:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

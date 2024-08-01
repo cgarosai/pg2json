@@ -1,0 +1,10 @@
+{
+    "id": 443857,
+    "name": "horde_service_twitter",
+    "version": "2.1.5",
+    "created_at": "2019-12-04T15:13:00",
+    "updated_at": "2019-12-04T15:13:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_service_twitter:2.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

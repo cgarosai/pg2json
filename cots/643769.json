@@ -1,0 +1,10 @@
+{
+    "id": 643769,
+    "name": "simatic_s7-300_cpu_317f-2_pn_firmware",
+    "version": "-",
+    "created_at": "2021-01-29T13:31:07",
+    "updated_at": "2021-01-29T13:31:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-300_cpu_317f-2_pn_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 893792,
+    "name": "iperf3",
+    "version": "3.0",
+    "created_at": "2022-06-30T12:48:33",
+    "updated_at": "2022-06-30T12:52:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iperf3_project:iperf3:3.0:beta5:*:*:*:*:*:*",
+    "to_analyse": false
+}

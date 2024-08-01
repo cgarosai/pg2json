@@ -1,0 +1,10 @@
+{
+    "id": 519177,
+    "name": "horizon_client",
+    "version": "-",
+    "created_at": "2020-03-23T11:30:22",
+    "updated_at": "2020-03-23T11:30:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:horizon_client:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

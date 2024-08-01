@@ -1,0 +1,10 @@
+{
+    "id": 106309,
+    "name": "simple_visitor_stat",
+    "version": "-",
+    "created_at": "2015-01-05T22:35:33",
+    "updated_at": "2015-01-07T17:24:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_visitor_stat_project:simple_visitor_stat:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

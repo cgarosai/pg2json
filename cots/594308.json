@@ -1,0 +1,10 @@
+{
+    "id": 594308,
+    "name": "server_platform_services",
+    "version": "sps_e3_04.01.04.109.0",
+    "created_at": "2020-09-24T11:42:51",
+    "updated_at": "2020-09-24T11:42:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:server_platform_services:sps_e3_04.01.04.109.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

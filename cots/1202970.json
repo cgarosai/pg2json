@@ -1,0 +1,10 @@
+{
+    "id": 1202970,
+    "name": "enfold",
+    "version": "5.5",
+    "created_at": "2023-12-05T18:59:50",
+    "updated_at": "2023-12-05T18:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kriesi:enfold:5.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

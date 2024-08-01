@@ -1,0 +1,10 @@
+{
+    "id": 477692,
+    "name": "netiq_self_service_password_reset",
+    "version": "4.4",
+    "created_at": "2020-01-13T17:20:43",
+    "updated_at": "2020-01-13T17:20:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:netiq_self_service_password_reset:4.4:update_3:*:*:*:*:*:*",
+    "to_analyse": false
+}

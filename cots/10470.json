@@ -1,0 +1,10 @@
+{
+    "id": 10470,
+    "name": "desktop_management_suite",
+    "version": "11.2",
+    "created_at": "2007-10-02T11:32:28",
+    "updated_at": "2021-04-08T11:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:desktop_management_suite:11.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

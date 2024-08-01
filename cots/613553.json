@@ -1,0 +1,10 @@
+{
+    "id": 613553,
+    "name": "core_i8350k",
+    "version": "-",
+    "created_at": "2020-11-18T16:07:48",
+    "updated_at": "2021-05-10T13:24:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i8350k:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

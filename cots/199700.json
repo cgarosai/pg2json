@@ -1,0 +1,10 @@
+{
+    "id": 199700,
+    "name": "nettle",
+    "version": "3.0",
+    "created_at": "2019-01-03T15:22:57",
+    "updated_at": "2019-01-03T15:22:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nettle_project:nettle:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

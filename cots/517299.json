@@ -1,0 +1,10 @@
+{
+    "id": 517299,
+    "name": "azure_devops_server",
+    "version": "2019",
+    "created_at": "2020-03-16T19:26:04",
+    "updated_at": "2020-07-15T15:31:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:azure_devops_server:2019:1.1:*:*:*:*:*:*",
+    "to_analyse": false
+}

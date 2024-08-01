@@ -1,0 +1,10 @@
+{
+    "id": 385430,
+    "name": "consul",
+    "version": "0.14.0",
+    "created_at": "2019-09-23T16:00:41",
+    "updated_at": "2019-09-23T16:00:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:makandra:consul:0.14.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

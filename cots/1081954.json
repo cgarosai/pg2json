@@ -1,0 +1,10 @@
+{
+    "id": 1081954,
+    "name": "poweredge_m640_firmware",
+    "version": "2.18.1",
+    "created_at": "2023-05-26T17:53:24",
+    "updated_at": "2023-06-30T16:15:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:poweredge_m640_firmware:2.18.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

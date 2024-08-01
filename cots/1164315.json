@@ -1,0 +1,10 @@
+{
+    "id": 1164315,
+    "name": "open_virtual_network",
+    "version": "-",
+    "created_at": "2023-10-06T13:01:17",
+    "updated_at": "2023-10-06T13:01:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovn:open_virtual_network:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

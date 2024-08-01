@@ -1,0 +1,10 @@
+{
+    "id": 520863,
+    "name": "neo_server",
+    "version": "-",
+    "created_at": "2020-04-07T11:06:19",
+    "updated_at": "2020-04-07T11:06:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediola:neo_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

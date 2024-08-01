@@ -1,0 +1,10 @@
+{
+    "id": 777187,
+    "name": "sdx12_firmware",
+    "version": "-",
+    "created_at": "2021-09-10T14:25:48",
+    "updated_at": "2021-09-14T11:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sdx12_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

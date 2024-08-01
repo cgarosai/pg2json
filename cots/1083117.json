@@ -1,0 +1,10 @@
+{
+    "id": 1083117,
+    "name": "qcs_800xa_firmware",
+    "version": "1.0.0",
+    "created_at": "2023-05-31T09:12:59",
+    "updated_at": "2023-06-28T12:11:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:qcs_800xa_firmware:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

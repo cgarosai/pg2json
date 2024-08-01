@@ -1,0 +1,10 @@
+{
+    "id": 948431,
+    "name": "remote_desktop",
+    "version": "10.0.13.1174",
+    "created_at": "2022-09-28T13:01:56",
+    "updated_at": "2022-09-28T13:02:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:remote_desktop:10.0.13.1174:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

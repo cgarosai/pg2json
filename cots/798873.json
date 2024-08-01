@@ -1,0 +1,10 @@
+{
+    "id": 798873,
+    "name": "mobile_access_portal_agent",
+    "version": "r80.40",
+    "created_at": "2021-10-19T17:43:19",
+    "updated_at": "2021-10-19T17:44:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:mobile_access_portal_agent:r80.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

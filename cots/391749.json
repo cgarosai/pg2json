@@ -1,0 +1,10 @@
+{
+    "id": 391749,
+    "name": "loncoin",
+    "version": "-",
+    "created_at": "2019-10-03T10:42:40",
+    "updated_at": "2019-10-03T10:42:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:loncoin_project:loncoin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

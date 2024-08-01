@@ -1,0 +1,10 @@
+{
+    "id": 193432,
+    "name": "gfx3600",
+    "version": "-",
+    "created_at": "2019-01-18T15:57:09",
+    "updated_at": "2021-03-26T18:24:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:gfx3600:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 760970,
+    "name": "joplin",
+    "version": "1.0.223",
+    "created_at": "2021-08-26T13:44:05",
+    "updated_at": "2021-08-26T15:29:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joplin_project:joplin:1.0.223:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 620293,
+    "name": "easergy_t300_firmware",
+    "version": "2.7",
+    "created_at": "2020-12-07T18:26:40",
+    "updated_at": "2020-12-07T18:26:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:easergy_t300_firmware:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

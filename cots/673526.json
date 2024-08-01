@@ -1,0 +1,10 @@
+{
+    "id": 673526,
+    "name": "arcgis_runtime_toolkit",
+    "version": "10.2.8",
+    "created_at": "2021-03-24T18:27:39",
+    "updated_at": "2021-03-25T13:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcgis_runtime_toolkit:10.2.8:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

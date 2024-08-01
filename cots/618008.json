@@ -1,0 +1,10 @@
+{
+    "id": 618008,
+    "name": "sqlplus_script_runner",
+    "version": "1.0.2",
+    "created_at": "2020-11-05T18:34:41",
+    "updated_at": "2020-11-05T18:34:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:sqlplus_script_runner:1.0.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

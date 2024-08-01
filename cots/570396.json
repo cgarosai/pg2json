@@ -1,0 +1,10 @@
+{
+    "id": 570396,
+    "name": "bitcoin",
+    "version": "0.16.0",
+    "created_at": "2020-08-05T12:48:23",
+    "updated_at": "2020-08-05T12:48:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitcoin:bitcoin:0.16.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

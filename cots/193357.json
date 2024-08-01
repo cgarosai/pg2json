@@ -1,0 +1,10 @@
+{
+    "id": 193357,
+    "name": "jatp",
+    "version": "400",
+    "created_at": "2019-01-18T12:16:15",
+    "updated_at": "2021-03-26T18:24:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:jatp:400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 566803,
+    "name": "identity_services_engine_software",
+    "version": "2.4\\(0.223\\)",
+    "created_at": "2020-06-29T12:01:31",
+    "updated_at": "2020-06-29T12:01:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:identity_services_engine_software:2.4\\(0.223\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

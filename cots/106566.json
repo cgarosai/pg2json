@@ -1,0 +1,10 @@
+{
+    "id": 106566,
+    "name": "opensuse",
+    "version": "13.2",
+    "created_at": "2015-01-15T19:11:27",
+    "updated_at": "2018-01-25T16:15:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:novell:opensuse:13.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

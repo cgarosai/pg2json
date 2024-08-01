@@ -1,0 +1,10 @@
+{
+    "id": 508764,
+    "name": "libid3tag",
+    "version": "0.15.0b",
+    "created_at": "2020-03-05T12:16:09",
+    "updated_at": "2020-03-05T12:16:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libid3tag_project:libid3tag:0.15.0b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

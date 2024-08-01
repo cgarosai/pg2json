@@ -1,0 +1,10 @@
+{
+    "id": 71314,
+    "name": "h3c_router",
+    "version": "msr5040-dc-ovs-h3c",
+    "created_at": "2013-07-08T16:02:06",
+    "updated_at": "2013-07-12T15:50:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_router:msr5040-dc-ovs-h3c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1168145,
+    "name": "goanywhere_managed_file_transfer",
+    "version": "-",
+    "created_at": "2023-09-28T06:24:40",
+    "updated_at": "2023-09-28T06:24:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

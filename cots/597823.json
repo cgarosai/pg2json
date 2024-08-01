@@ -1,0 +1,10 @@
+{
+    "id": 597823,
+    "name": "scalyr_agent",
+    "version": "2.022",
+    "created_at": "2020-09-09T18:15:20",
+    "updated_at": "2020-09-09T18:15:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scalyr:scalyr_agent:2.022:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

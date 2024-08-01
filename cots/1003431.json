@@ -1,0 +1,10 @@
+{
+    "id": 1003431,
+    "name": "manageengine_pam360",
+    "version": "5.8",
+    "created_at": "2023-01-10T13:54:24",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_pam360:5.8:build5800:*:*:*:*:*:*",
+    "to_analyse": false
+}

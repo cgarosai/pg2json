@@ -1,0 +1,10 @@
+{
+    "id": 1216002,
+    "name": "wordpress_contact_forms",
+    "version": "1.6.0",
+    "created_at": "2023-12-09T14:13:59",
+    "updated_at": "2023-12-09T14:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cimatti:wordpress_contact_forms:1.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

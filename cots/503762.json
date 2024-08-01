@@ -1,0 +1,10 @@
+{
+    "id": 503762,
+    "name": "gemirro",
+    "version": "0.10.0",
+    "created_at": "2020-03-10T11:56:46",
+    "updated_at": "2020-03-10T11:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gemirro_project:gemirro:0.10.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

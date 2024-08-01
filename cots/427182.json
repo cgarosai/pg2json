@@ -1,0 +1,10 @@
+{
+    "id": 427182,
+    "name": "yunohost",
+    "version": "2.2.6",
+    "created_at": "2019-11-04T14:03:12",
+    "updated_at": "2019-11-04T14:03:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yunohost:yunohost:2.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 135282,
+    "name": "s7706_firmware",
+    "version": "v200r005",
+    "created_at": "2017-09-20T17:51:54",
+    "updated_at": "2017-09-20T17:51:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s7706_firmware:v200r005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

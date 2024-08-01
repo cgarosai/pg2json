@@ -1,0 +1,10 @@
+{
+    "id": 487021,
+    "name": "wemo_insight_switch",
+    "version": "-",
+    "created_at": "2020-01-31T16:27:52",
+    "updated_at": "2021-05-04T14:05:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:belkin:wemo_insight_switch:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

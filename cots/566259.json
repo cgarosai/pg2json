@@ -1,0 +1,10 @@
+{
+    "id": 566259,
+    "name": "multi-scheduler",
+    "version": "1.0.0",
+    "created_at": "2020-06-26T12:42:14",
+    "updated_at": "2020-06-26T12:42:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bdtask:multi-scheduler:1.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

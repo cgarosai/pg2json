@@ -1,0 +1,10 @@
+{
+    "id": 529085,
+    "name": "endpoint_sensor",
+    "version": "1.6",
+    "created_at": "2020-04-03T09:28:59",
+    "updated_at": "2021-08-09T11:23:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

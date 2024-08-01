@@ -1,0 +1,10 @@
+{
+    "id": 117883,
+    "name": "ath",
+    "version": "-",
+    "created_at": "2016-05-25T18:18:54",
+    "updated_at": "2021-05-20T16:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:ath:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

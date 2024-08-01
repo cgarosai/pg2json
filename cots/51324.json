@@ -1,0 +1,10 @@
+{
+    "id": 51324,
+    "name": "host_checker",
+    "version": "6.3",
+    "created_at": "2012-06-21T17:07:27",
+    "updated_at": "2012-06-21T17:07:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:host_checker:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

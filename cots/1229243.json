@@ -1,0 +1,10 @@
+{
+    "id": 1229243,
+    "name": "backup_migration",
+    "version": "1.4.0",
+    "created_at": "2023-12-29T09:10:56",
+    "updated_at": "2023-12-29T09:10:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:backupbliss:backup_migration:1.4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

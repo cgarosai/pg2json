@@ -1,0 +1,10 @@
+{
+    "id": 743951,
+    "name": "cygwin",
+    "version": "2.9.0",
+    "created_at": "2021-07-28T14:26:24",
+    "updated_at": "2021-07-28T15:39:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cygwin:cygwin:2.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

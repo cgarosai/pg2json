@@ -1,0 +1,10 @@
+{
+    "id": 18194,
+    "name": "jre",
+    "version": "1.4.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2012-02-15T00:08:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:jre:1.4.2:update2:*:*:*:*:*:*",
+    "to_analyse": false
+}

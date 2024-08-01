@@ -1,0 +1,10 @@
+{
+    "id": 224092,
+    "name": "advanced_outbound_telephony",
+    "version": "12.2.3",
+    "created_at": "2019-04-25T14:08:19",
+    "updated_at": "2019-04-25T14:08:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:advanced_outbound_telephony:12.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

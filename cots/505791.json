@@ -1,0 +1,10 @@
+{
+    "id": 505791,
+    "name": "end_point_security",
+    "version": "7.4",
+    "created_at": "2020-02-28T16:58:33",
+    "updated_at": "2020-02-28T16:58:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seqrite:end_point_security:7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

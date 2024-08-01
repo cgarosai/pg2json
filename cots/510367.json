@@ -1,0 +1,10 @@
+{
+    "id": 510367,
+    "name": "xeon_e3-1231_v3_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:00:49",
+    "updated_at": "2020-03-23T17:00:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1231_v3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

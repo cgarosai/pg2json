@@ -1,0 +1,10 @@
+{
+    "id": 66895,
+    "name": "net-snmp",
+    "version": "5.7.1",
+    "created_at": "2012-08-15T12:16:30",
+    "updated_at": "2013-12-16T16:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:net-snmp:net-snmp:5.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 58835,
+    "name": "proliant_ilo_management_controller_package",
+    "version": "3.3.0.0",
+    "created_at": "2012-05-14T21:31:42",
+    "updated_at": "2012-05-14T21:31:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:proliant_ilo_management_controller_package:3.3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

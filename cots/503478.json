@@ -1,0 +1,10 @@
+{
+    "id": 503478,
+    "name": "ldapauth-fork",
+    "version": "2.3.3",
+    "created_at": "2020-03-09T15:56:20",
+    "updated_at": "2020-03-09T15:56:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ldapauth-fork_project:ldapauth-fork:2.3.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

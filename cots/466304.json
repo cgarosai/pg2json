@@ -1,0 +1,10 @@
+{
+    "id": 466304,
+    "name": "trusted_execution_technology",
+    "version": "3.1.65",
+    "created_at": "2019-12-16T15:36:24",
+    "updated_at": "2019-12-16T15:36:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:trusted_execution_technology:3.1.65:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

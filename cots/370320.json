@@ -1,0 +1,10 @@
+{
+    "id": 370320,
+    "name": "jadedown",
+    "version": "0.0.3",
+    "created_at": "2019-09-19T16:14:06",
+    "updated_at": "2019-09-19T16:14:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jadedown_project:jadedown:0.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

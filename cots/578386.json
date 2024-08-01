@@ -1,0 +1,10 @@
+{
+    "id": 578386,
+    "name": "cognos_analytics",
+    "version": "11.0.7.0",
+    "created_at": "2020-07-31T13:24:26",
+    "updated_at": "2020-07-31T13:24:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_analytics:11.0.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

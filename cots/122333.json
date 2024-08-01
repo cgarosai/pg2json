@@ -1,0 +1,10 @@
+{
+    "id": 122333,
+    "name": "residential_gateway_firmware",
+    "version": "ddr2201v1-na-annexa-fcc-v00.00.03.28.3",
+    "created_at": "2017-07-27T14:27:21",
+    "updated_at": "2021-09-24T18:09:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:residential_gateway_firmware:ddr2201v1-na-annexa-fcc-v00.00.03.28.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

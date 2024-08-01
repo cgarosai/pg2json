@@ -1,0 +1,10 @@
+{
+    "id": 1044462,
+    "name": "fastly",
+    "version": "-",
+    "created_at": "2023-03-15T15:29:39",
+    "updated_at": "2023-06-06T11:54:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibexa:fastly:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

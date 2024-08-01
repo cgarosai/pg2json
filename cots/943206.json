@@ -1,0 +1,10 @@
+{
+    "id": 943206,
+    "name": "websphere_automation_for_ibm_cloud_pak_for_watson_aiops",
+    "version": "1.4.2",
+    "created_at": "2022-10-07T22:09:37",
+    "updated_at": "2022-11-18T16:27:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_automation_for_ibm_cloud_pak_for_watson_aiops:1.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

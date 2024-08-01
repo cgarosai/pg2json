@@ -1,0 +1,10 @@
+{
+    "id": 111418,
+    "name": "file_roller",
+    "version": "3.20.2",
+    "created_at": "2016-09-27T16:13:36",
+    "updated_at": "2021-04-12T14:09:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:file_roller_project:file_roller:3.20.2:*:*:*:*:gnome:*:*",
+    "to_analyse": false
+}

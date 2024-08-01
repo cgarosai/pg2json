@@ -1,0 +1,10 @@
+{
+    "id": 660124,
+    "name": "docker_dashboard",
+    "version": "2021-02-28",
+    "created_at": "2021-03-03T12:24:30",
+    "updated_at": "2021-05-28T12:17:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker_dashboard_project:docker_dashboard:2021-02-28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

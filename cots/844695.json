@@ -1,0 +1,10 @@
+{
+    "id": 844695,
+    "name": "m10-4_firmware",
+    "version": "xcp2410",
+    "created_at": "2022-02-23T14:40:38",
+    "updated_at": "2022-03-04T18:14:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:m10-4_firmware:xcp2410:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

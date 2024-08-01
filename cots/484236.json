@@ -1,0 +1,10 @@
+{
+    "id": 484236,
+    "name": "iec870ip",
+    "version": "-",
+    "created_at": "2020-02-10T14:33:26",
+    "updated_at": "2020-02-10T14:33:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:aveva:iec870ip:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 192818,
+    "name": "zte_zmax_champ",
+    "version": "-",
+    "created_at": "2019-01-15T13:16:41",
+    "updated_at": "2021-08-12T17:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:zteusa:zte_zmax_champ:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

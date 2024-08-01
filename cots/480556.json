@@ -1,0 +1,10 @@
+{
+    "id": 480556,
+    "name": "dulwich",
+    "version": "0.9.2",
+    "created_at": "2020-02-04T16:37:44",
+    "updated_at": "2020-02-04T16:37:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dulwich_project:dulwich:0.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

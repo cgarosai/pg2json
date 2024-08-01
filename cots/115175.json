@@ -1,0 +1,10 @@
+{
+    "id": 115175,
+    "name": "fuse",
+    "version": "2.9.3-14",
+    "created_at": "2016-02-01T00:13:54",
+    "updated_at": "2016-02-01T00:13:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:fuse:2.9.3-14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

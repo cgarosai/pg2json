@@ -1,0 +1,10 @@
+{
+    "id": 121048,
+    "name": "vipnet_coordinator",
+    "version": "4.3.1",
+    "created_at": "2017-06-28T11:40:33",
+    "updated_at": "2021-06-10T13:28:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infotecs:vipnet_coordinator:4.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

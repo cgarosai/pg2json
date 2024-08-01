@@ -1,0 +1,10 @@
+{
+    "id": 553098,
+    "name": "text",
+    "version": "0.3.3",
+    "created_at": "2020-06-22T16:40:18",
+    "updated_at": "2020-06-22T16:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:text:0.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

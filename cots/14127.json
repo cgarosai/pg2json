@@ -1,0 +1,10 @@
+{
+    "id": 14127,
+    "name": "iprint",
+    "version": "5.04",
+    "created_at": "2008-11-26T15:06:07",
+    "updated_at": "2010-08-30T23:27:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:iprint:5.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

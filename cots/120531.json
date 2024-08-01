@@ -1,0 +1,10 @@
+{
+    "id": 120531,
+    "name": "ar1220_firmware",
+    "version": "v200r005c00spc200",
+    "created_at": "2017-06-15T23:08:34",
+    "updated_at": "2021-06-21T15:14:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar1220_firmware:v200r005c00spc200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

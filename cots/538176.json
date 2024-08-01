@@ -1,0 +1,10 @@
+{
+    "id": 538176,
+    "name": "nss_compat_ossl",
+    "version": "-",
+    "created_at": "2020-04-22T14:17:05",
+    "updated_at": "2020-04-22T14:17:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nss_compat_ossl_project:nss_compat_ossl:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

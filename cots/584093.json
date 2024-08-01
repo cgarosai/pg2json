@@ -1,0 +1,10 @@
+{
+    "id": 584093,
+    "name": "object_relational_mapper",
+    "version": "2.6.2",
+    "created_at": "2020-09-02T11:54:11",
+    "updated_at": "2020-09-02T11:54:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:doctrine-project:object_relational_mapper:2.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

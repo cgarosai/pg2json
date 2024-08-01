@@ -1,0 +1,10 @@
+{
+    "id": 501379,
+    "name": "precision_5810_firmware",
+    "version": "a31",
+    "created_at": "2020-03-06T19:00:47",
+    "updated_at": "2020-03-06T19:00:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:precision_5810_firmware:a31:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

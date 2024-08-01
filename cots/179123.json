@@ -1,0 +1,10 @@
+{
+    "id": 179123,
+    "name": "epmp_1000_firmware",
+    "version": "3.5.1",
+    "created_at": "2018-10-04T16:09:40",
+    "updated_at": "2021-05-18T14:21:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cambiumnetworks:epmp_1000_firmware:3.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

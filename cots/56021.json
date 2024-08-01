@@ -1,0 +1,10 @@
+{
+    "id": 56021,
+    "name": "migration_portal",
+    "version": "1.0.4.0",
+    "created_at": "2012-04-24T21:22:01",
+    "updated_at": "2012-04-24T21:22:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:migration_portal:1.0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

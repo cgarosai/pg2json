@@ -1,0 +1,10 @@
+{
+    "id": 80179,
+    "name": "jabber",
+    "version": "9.0\\(.0\\)",
+    "created_at": "2014-01-17T15:11:36",
+    "updated_at": "2014-01-17T15:22:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:jabber:9.0\\(.0\\):-:-:*:-:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 600692,
+    "name": "sg250-50hp_firmware",
+    "version": "2.5.0.78",
+    "created_at": "2020-10-08T12:08:05",
+    "updated_at": "2020-10-08T12:08:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg250-50hp_firmware:2.5.0.78:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 128620,
+    "name": "wnc01wh_firmware",
+    "version": "1.0.0.9",
+    "created_at": "2017-05-05T16:54:02",
+    "updated_at": "2021-04-29T15:24:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:buffalo_inc:wnc01wh_firmware:1.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

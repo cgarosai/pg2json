@@ -1,0 +1,10 @@
+{
+    "id": 206024,
+    "name": "passenger",
+    "version": "4.0.0",
+    "created_at": "2019-02-04T17:14:44",
+    "updated_at": "2019-02-04T17:14:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phusion:passenger:4.0.0:rc4:*:*:-:*:*:*",
+    "to_analyse": false
+}

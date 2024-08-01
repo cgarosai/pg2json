@@ -1,0 +1,10 @@
+{
+    "id": 772505,
+    "name": "ari_adminer",
+    "version": "1.0",
+    "created_at": "2021-09-21T22:59:12",
+    "updated_at": "2021-09-25T11:37:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ari-soft:ari_adminer:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

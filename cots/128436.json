@@ -1,0 +1,10 @@
+{
+    "id": 128436,
+    "name": "firejail",
+    "version": "-",
+    "created_at": "2017-05-01T11:50:48",
+    "updated_at": "2017-05-01T11:50:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:firejail_project:firejail:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 549165,
+    "name": "csv2wpec-coupon",
+    "version": "1.1",
+    "created_at": "2020-05-12T12:49:38",
+    "updated_at": "2020-05-12T12:49:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:csv2wpec-coupon_project:csv2wpec-coupon:1.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

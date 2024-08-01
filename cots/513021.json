@@ -1,0 +1,10 @@
+{
+    "id": 513021,
+    "name": "service_manager_automation",
+    "version": "2019.05",
+    "created_at": "2020-03-30T12:00:20",
+    "updated_at": "2020-03-30T12:00:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:service_manager_automation:2019.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

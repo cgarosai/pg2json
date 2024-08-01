@@ -1,0 +1,10 @@
+{
+    "id": 819499,
+    "name": "terminattr",
+    "version": "-",
+    "created_at": "2021-11-29T15:33:17",
+    "updated_at": "2021-12-01T12:58:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arista:terminattr:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

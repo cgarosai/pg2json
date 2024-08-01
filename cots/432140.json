@@ -1,0 +1,10 @@
+{
+    "id": 432140,
+    "name": "apollo_4200_firmware",
+    "version": "2.20",
+    "created_at": "2019-11-20T12:51:37",
+    "updated_at": "2021-05-19T17:13:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:apollo_4200_firmware:2.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1029395,
+    "name": "thinkcentre_m8600t_firmware",
+    "version": "fwktc0a",
+    "created_at": "2023-02-08T12:17:31",
+    "updated_at": "2023-02-23T17:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkcentre_m8600t_firmware:fwktc0a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

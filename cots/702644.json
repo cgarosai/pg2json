@@ -1,0 +1,10 @@
+{
+    "id": 702644,
+    "name": "remote_cap\\/prx_firmware",
+    "version": "5.2.01",
+    "created_at": "2021-05-24T14:28:17",
+    "updated_at": "2021-06-29T12:16:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sitel-sa:remote_cap\\/prx_firmware:5.2.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

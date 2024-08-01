@@ -1,0 +1,10 @@
+{
+    "id": 1234912,
+    "name": "wazuh",
+    "version": "4.5.3",
+    "created_at": "2024-01-23T16:54:22",
+    "updated_at": "2024-01-23T16:54:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wazuh:wazuh:4.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

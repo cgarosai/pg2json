@@ -1,0 +1,10 @@
+{
+    "id": 90472,
+    "name": "internet_mail_program",
+    "version": "6.1.0",
+    "created_at": "2014-07-14T16:19:27",
+    "updated_at": "2014-07-16T19:29:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:internet_mail_program:6.1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

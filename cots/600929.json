@@ -1,0 +1,10 @@
+{
+    "id": 600929,
+    "name": "monitoring_and_debugging_dashboard",
+    "version": "2.0",
+    "created_at": "2020-10-08T13:03:24",
+    "updated_at": "2020-10-08T13:03:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perfsonar:monitoring_and_debugging_dashboard:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

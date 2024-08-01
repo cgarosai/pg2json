@@ -1,0 +1,10 @@
+{
+    "id": 474751,
+    "name": "remedy_action_request_system_server",
+    "version": "19.11",
+    "created_at": "2020-01-28T16:38:26",
+    "updated_at": "2020-01-28T16:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:remedy_action_request_system_server:19.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

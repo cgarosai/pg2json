@@ -1,0 +1,10 @@
+{
+    "id": 1283640,
+    "name": "similarity",
+    "version": "3.0",
+    "created_at": "2024-07-29T11:39:53",
+    "updated_at": "2024-07-29T11:39:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:davidjmiller:similarity:3.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 321592,
+    "name": "dependency-check",
+    "version": "3.1.2",
+    "created_at": "2019-08-01T14:48:18",
+    "updated_at": "2019-08-01T14:48:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owasp:dependency-check:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

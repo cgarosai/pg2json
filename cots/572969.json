@@ -1,0 +1,10 @@
+{
+    "id": 572969,
+    "name": "service_virtualization",
+    "version": "1.00",
+    "created_at": "2020-08-11T12:02:10",
+    "updated_at": "2020-08-11T12:02:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:service_virtualization:1.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

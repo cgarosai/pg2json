@@ -1,0 +1,10 @@
+{
+    "id": 1003516,
+    "name": "bonita-connector-webservice",
+    "version": "1.1.1",
+    "created_at": "2023-01-10T14:25:54",
+    "updated_at": "2023-01-10T14:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bonita-connector-webservice_project:bonita-connector-webservice:1.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

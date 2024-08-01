@@ -1,0 +1,10 @@
+{
+    "id": 1063167,
+    "name": "activity",
+    "version": "3.0.0",
+    "created_at": "2023-04-20T18:01:52",
+    "updated_at": "2023-05-03T20:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glpi-project:activity:3.0.0:*:*:*:*:glpi:*:*",
+    "to_analyse": false
+}

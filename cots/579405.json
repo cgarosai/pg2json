@@ -1,0 +1,10 @@
+{
+    "id": 579405,
+    "name": "typo3_forum",
+    "version": "1.1.0",
+    "created_at": "2020-08-03T12:51:56",
+    "updated_at": "2020-08-03T12:51:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mittwald:typo3_forum:1.1.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

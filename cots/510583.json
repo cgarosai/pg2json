@@ -1,0 +1,10 @@
+{
+    "id": 510583,
+    "name": "core_i5-5350h_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:34:09",
+    "updated_at": "2020-03-23T17:34:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i5-5350h_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

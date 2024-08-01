@@ -1,0 +1,10 @@
+{
+    "id": 733327,
+    "name": "quickjs",
+    "version": "-",
+    "created_at": "2021-07-14T10:28:05",
+    "updated_at": "2021-07-29T15:38:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quickjs_project:quickjs:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

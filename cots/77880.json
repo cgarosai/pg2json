@@ -1,0 +1,10 @@
+{
+    "id": 77880,
+    "name": "poppler",
+    "version": "0.10.2",
+    "created_at": "2013-04-12T12:24:33",
+    "updated_at": "2013-04-12T12:24:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:poppler:0.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

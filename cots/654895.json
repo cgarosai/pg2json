@@ -1,0 +1,10 @@
+{
+    "id": 654895,
+    "name": "myconnection_server",
+    "version": "11.0b",
+    "created_at": "2021-02-23T13:38:27",
+    "updated_at": "2021-02-23T13:38:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:visualware:myconnection_server:11.0b:build5363:*:*:*:*:*:*",
+    "to_analyse": false
+}

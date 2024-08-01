@@ -1,0 +1,10 @@
+{
+    "id": 1169753,
+    "name": "c250_firmware",
+    "version": "-",
+    "created_at": "2023-09-29T01:56:47",
+    "updated_at": "2023-09-29T01:56:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:c250_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

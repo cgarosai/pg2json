@@ -1,0 +1,10 @@
+{
+    "id": 677840,
+    "name": "argo_continuous_delivery",
+    "version": "1.8.0",
+    "created_at": "2021-03-16T16:45:01",
+    "updated_at": "2021-03-25T16:07:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.8.0:rc2:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 635208,
+    "name": "eggdrop_docker",
+    "version": "1.8.3",
+    "created_at": "2020-12-10T18:33:16",
+    "updated_at": "2020-12-10T18:33:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eggheads:eggdrop_docker:1.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

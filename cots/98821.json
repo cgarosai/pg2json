@@ -1,0 +1,10 @@
+{
+    "id": 98821,
+    "name": "lynis",
+    "version": "1.5.0",
+    "created_at": "2014-06-09T15:15:10",
+    "updated_at": "2014-06-09T15:25:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisofy:lynis:1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

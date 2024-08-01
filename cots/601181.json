@@ -1,0 +1,10 @@
+{
+    "id": 601181,
+    "name": "gorouter",
+    "version": "0.206.0",
+    "created_at": "2020-10-08T13:46:50",
+    "updated_at": "2020-10-08T13:46:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:gorouter:0.206.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

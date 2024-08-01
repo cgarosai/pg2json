@@ -1,0 +1,10 @@
+{
+    "id": 1056841,
+    "name": "meetings",
+    "version": "5.13.5",
+    "created_at": "2023-03-21T14:22:56",
+    "updated_at": "2023-07-06T13:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:meetings:5.13.5:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

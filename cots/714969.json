@@ -1,0 +1,10 @@
+{
+    "id": 714969,
+    "name": "spring_security",
+    "version": "5.3.4",
+    "created_at": "2021-06-08T16:11:30",
+    "updated_at": "2021-06-08T16:20:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_security:5.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

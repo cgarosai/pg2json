@@ -1,0 +1,10 @@
+{
+    "id": 663374,
+    "name": "application_service_level_management",
+    "version": "13.2.0.0",
+    "created_at": "2021-03-08T17:50:10",
+    "updated_at": "2021-05-03T10:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:application_service_level_management:13.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

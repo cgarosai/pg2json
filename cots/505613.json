@@ -1,0 +1,10 @@
+{
+    "id": 505613,
+    "name": "update_package_framework",
+    "version": "-",
+    "created_at": "2020-02-28T15:19:07",
+    "updated_at": "2020-02-28T15:19:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:update_package_framework:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

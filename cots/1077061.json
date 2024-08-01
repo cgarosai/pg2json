@@ -1,0 +1,10 @@
+{
+    "id": 1077061,
+    "name": "cuda_toolkit",
+    "version": "12.1.0",
+    "created_at": "2023-04-28T16:57:39",
+    "updated_at": "2023-07-08T01:31:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:cuda_toolkit:12.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

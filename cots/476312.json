@@ -1,0 +1,10 @@
+{
+    "id": 476312,
+    "name": "sonicos_sslvpn_nacagent",
+    "version": "3.5",
+    "created_at": "2020-01-13T12:22:47",
+    "updated_at": "2020-01-13T12:22:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:sonicos_sslvpn_nacagent:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

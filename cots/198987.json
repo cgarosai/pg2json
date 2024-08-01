@@ -1,0 +1,10 @@
+{
+    "id": 198987,
+    "name": "iw",
+    "version": "3.15",
+    "created_at": "2019-01-02T13:13:07",
+    "updated_at": "2019-01-02T13:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:iw:3.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

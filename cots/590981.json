@@ -1,0 +1,10 @@
+{
+    "id": 590981,
+    "name": "storable_configs",
+    "version": "1.0",
+    "created_at": "2020-09-16T14:38:51",
+    "updated_at": "2020-09-16T14:38:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:storable_configs:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

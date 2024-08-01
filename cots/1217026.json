@@ -1,0 +1,10 @@
+{
+    "id": 1217026,
+    "name": "qcs5430_firmware",
+    "version": "-",
+    "created_at": "2023-12-11T18:42:53",
+    "updated_at": "2023-12-11T18:42:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:qcs5430_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

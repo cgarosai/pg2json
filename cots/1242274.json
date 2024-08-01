@@ -1,0 +1,10 @@
+{
+    "id": 1242274,
+    "name": "kit",
+    "version": "1.0.0",
+    "created_at": "2024-02-05T14:59:11",
+    "updated_at": "2024-02-05T14:59:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:svelte:kit:1.0.0:next555:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 613993,
+    "name": "linux_enterprise_desktop",
+    "version": "10",
+    "created_at": "2020-11-20T16:50:12",
+    "updated_at": "2020-11-20T16:50:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_desktop:10:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

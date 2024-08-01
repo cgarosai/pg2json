@@ -1,0 +1,10 @@
+{
+    "id": 231572,
+    "name": "github_authentication",
+    "version": "0.22",
+    "created_at": "2019-05-09T17:17:04",
+    "updated_at": "2019-05-09T17:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:github_authentication:0.22:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

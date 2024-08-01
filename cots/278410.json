@@ -1,0 +1,10 @@
+{
+    "id": 278410,
+    "name": "snorby",
+    "version": "2.2.5",
+    "created_at": "2019-06-25T10:12:26",
+    "updated_at": "2019-06-25T10:12:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snorby_project:snorby:2.2.5:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

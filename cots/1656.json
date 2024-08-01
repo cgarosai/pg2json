@@ -1,0 +1,10 @@
+{
+    "id": 1656,
+    "name": "mit_kerberos",
+    "version": "4",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:04:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:mit_kerberos:4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

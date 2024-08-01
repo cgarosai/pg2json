@@ -1,0 +1,10 @@
+{
+    "id": 408535,
+    "name": "nix",
+    "version": "2.3",
+    "created_at": "2019-10-11T11:23:50",
+    "updated_at": "2019-10-11T11:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nixos:nix:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

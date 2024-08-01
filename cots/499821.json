@@ -1,0 +1,10 @@
+{
+    "id": 499821,
+    "name": "ar530_firmware",
+    "version": "v200r005c00spc100",
+    "created_at": "2020-02-21T18:47:28",
+    "updated_at": "2020-02-21T18:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar530_firmware:v200r005c00spc100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

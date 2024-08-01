@@ -1,0 +1,10 @@
+{
+    "id": 1238964,
+    "name": "reply-from",
+    "version": "4.18.0",
+    "created_at": "2024-01-10T16:18:23",
+    "updated_at": "2024-01-10T16:18:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastify:reply-from:4.18.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

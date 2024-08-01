@@ -1,0 +1,10 @@
+{
+    "id": 29619,
+    "name": "winmerge",
+    "version": "2.10.0",
+    "created_at": "2009-11-25T17:33:37",
+    "updated_at": "2009-11-25T17:33:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:winmerge:winmerge:2.10.0:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

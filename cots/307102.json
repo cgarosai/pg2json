@@ -1,0 +1,10 @@
+{
+    "id": 307102,
+    "name": "findit_network_probe",
+    "version": "1.1.4",
+    "created_at": "2019-07-19T13:28:55",
+    "updated_at": "2021-04-12T15:35:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:findit_network_probe:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 709717,
+    "name": "sinamics_sh150",
+    "version": "-",
+    "created_at": "2021-05-19T12:50:56",
+    "updated_at": "2021-06-22T14:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sinamics_sh150:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 642677,
+    "name": "retail_extract_transform_and_load",
+    "version": "13.2",
+    "created_at": "2021-01-27T14:27:46",
+    "updated_at": "2021-01-27T14:27:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_extract_transform_and_load:13.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

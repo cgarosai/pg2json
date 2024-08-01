@@ -1,0 +1,10 @@
+{
+    "id": 570263,
+    "name": "media_server",
+    "version": "1.0.10",
+    "created_at": "2020-08-05T12:08:59",
+    "updated_at": "2020-08-05T12:08:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:red5:media_server:1.0.10:milestone9:*:*:*:*:*:*",
+    "to_analyse": false
+}

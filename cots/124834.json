@@ -1,0 +1,10 @@
+{
+    "id": 124834,
+    "name": "hg110_firmware",
+    "version": "-",
+    "created_at": "2017-09-12T13:03:46",
+    "updated_at": "2021-07-01T17:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:hg110_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

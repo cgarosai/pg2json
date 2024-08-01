@@ -1,0 +1,10 @@
+{
+    "id": 1150480,
+    "name": "sysguard_3001_firmware",
+    "version": "3.2.20.0",
+    "created_at": "2023-09-19T13:20:24",
+    "updated_at": "2023-09-19T13:20:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:exagate:sysguard_3001_firmware:3.2.20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

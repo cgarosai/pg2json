@@ -1,0 +1,10 @@
+{
+    "id": 220958,
+    "name": "mapr",
+    "version": "5.2.2",
+    "created_at": "2019-04-19T15:40:59",
+    "updated_at": "2019-04-19T15:40:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mapr:mapr:5.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

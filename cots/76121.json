@@ -1,0 +1,10 @@
+{
+    "id": 76121,
+    "name": "atn",
+    "version": "v200r001c01",
+    "created_at": "2013-02-21T18:37:40",
+    "updated_at": "2013-07-12T15:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:atn:v200r001c01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

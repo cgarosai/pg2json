@@ -1,0 +1,10 @@
+{
+    "id": 1240549,
+    "name": "cody",
+    "version": "0.10.0",
+    "created_at": "2024-02-02T21:20:37",
+    "updated_at": "2024-02-02T21:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sourcegraph:cody:0.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1261587,
+    "name": "container-optimized_os",
+    "version": "-",
+    "created_at": "2024-04-30T14:20:44",
+    "updated_at": "2024-04-30T14:20:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:container-optimized_os:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

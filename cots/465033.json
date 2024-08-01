@@ -1,0 +1,10 @@
+{
+    "id": 465033,
+    "name": "rubocop",
+    "version": "0.68.0",
+    "created_at": "2019-12-12T13:23:04",
+    "updated_at": "2019-12-12T13:23:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubocop_project:rubocop:0.68.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

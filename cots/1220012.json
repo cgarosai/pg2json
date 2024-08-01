@@ -1,0 +1,10 @@
+{
+    "id": 1220012,
+    "name": "controller_7000_firmware",
+    "version": "9.00.231204b",
+    "created_at": "2023-12-29T17:13:53",
+    "updated_at": "2023-12-29T17:13:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:gallagher:controller_7000_firmware:9.00.231204b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

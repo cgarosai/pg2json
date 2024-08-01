@@ -1,0 +1,10 @@
+{
+    "id": 1073043,
+    "name": "m.static",
+    "version": "2.1.0",
+    "created_at": "2023-05-16T11:44:10",
+    "updated_at": "2023-05-22T11:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:m.static_project:m.static:2.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

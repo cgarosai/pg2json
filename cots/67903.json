@@ -1,0 +1,10 @@
+{
+    "id": 67903,
+    "name": "squidclamav",
+    "version": "5.2",
+    "created_at": "2012-08-27T13:19:41",
+    "updated_at": "2012-08-31T16:27:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:darold:squidclamav:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

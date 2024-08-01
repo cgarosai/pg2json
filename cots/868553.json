@@ -1,0 +1,10 @@
+{
+    "id": 868553,
+    "name": "horovod",
+    "version": "0.9.5",
+    "created_at": "2022-03-29T14:58:23",
+    "updated_at": "2022-03-29T15:00:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horovod:horovod:0.9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

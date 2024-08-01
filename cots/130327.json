@@ -1,0 +1,10 @@
+{
+    "id": 130327,
+    "name": "tofino_xenon_security_appliance_firmware",
+    "version": "3.1.0",
+    "created_at": "2017-12-05T14:34:20",
+    "updated_at": "2021-04-28T15:29:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belden:tofino_xenon_security_appliance_firmware:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

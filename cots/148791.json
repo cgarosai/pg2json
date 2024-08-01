@@ -1,0 +1,10 @@
+{
+    "id": 148791,
+    "name": "http_server",
+    "version": "2.2.29",
+    "created_at": "2018-04-10T13:00:44",
+    "updated_at": "2018-04-10T13:00:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:http_server:2.2.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

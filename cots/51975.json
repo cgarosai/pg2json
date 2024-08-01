@@ -1,0 +1,10 @@
+{
+    "id": 51975,
+    "name": "socat",
+    "version": "1.7.2.1",
+    "created_at": "2012-06-22T11:42:10",
+    "updated_at": "2012-06-29T12:45:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dest-unreach:socat:1.7.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

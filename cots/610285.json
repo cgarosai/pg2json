@@ -1,0 +1,10 @@
+{
+    "id": 610285,
+    "name": "consul",
+    "version": "1.7.6",
+    "created_at": "2020-11-17T13:49:39",
+    "updated_at": "2020-11-17T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:consul:1.7.6:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

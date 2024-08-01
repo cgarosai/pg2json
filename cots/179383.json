@@ -1,0 +1,10 @@
+{
+    "id": 179383,
+    "name": "mycarelink_24950_patient_monitor_firmware",
+    "version": "-",
+    "created_at": "2018-10-09T12:15:43",
+    "updated_at": "2021-06-24T11:31:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:medtronic:mycarelink_24950_patient_monitor_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

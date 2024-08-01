@@ -1,0 +1,10 @@
+{
+    "id": 592051,
+    "name": "perfecto",
+    "version": "1.12",
+    "created_at": "2020-09-21T15:17:10",
+    "updated_at": "2020-09-21T15:17:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:perfecto:1.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

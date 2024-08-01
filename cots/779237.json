@@ -1,0 +1,10 @@
+{
+    "id": 779237,
+    "name": "apr-util",
+    "version": "2.0.50",
+    "created_at": "2021-09-15T12:05:55",
+    "updated_at": "2021-09-15T12:07:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:apr-util:2.0.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 197678,
+    "name": "network_monitor",
+    "version": "18.1.36.3733",
+    "created_at": "2018-12-18T15:47:12",
+    "updated_at": "2021-06-29T11:51:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paessler:network_monitor:18.1.36.3733:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

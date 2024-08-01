@@ -1,0 +1,10 @@
+{
+    "id": 58014,
+    "name": ".net_framework",
+    "version": "3.0",
+    "created_at": "2012-05-09T13:11:45",
+    "updated_at": "2023-10-15T14:18:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:.net_framework:3.0:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

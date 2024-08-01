@@ -1,0 +1,10 @@
+{
+    "id": 466409,
+    "name": "secure_connection",
+    "version": "3.0",
+    "created_at": "2019-12-16T17:38:23",
+    "updated_at": "2021-06-02T11:58:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:secure_connection:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

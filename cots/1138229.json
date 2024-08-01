@@ -1,0 +1,10 @@
+{
+    "id": 1138229,
+    "name": "teams",
+    "version": "5.12.1",
+    "created_at": "2023-08-10T11:27:50",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:teams:5.12.1:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

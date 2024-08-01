@@ -1,0 +1,10 @@
+{
+    "id": 133213,
+    "name": "simatic_pn\\/pn_coupler",
+    "version": "-",
+    "created_at": "2018-01-11T14:10:56",
+    "updated_at": "2021-05-19T15:54:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_pn\\/pn_coupler:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

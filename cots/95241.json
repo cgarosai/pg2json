@@ -1,0 +1,10 @@
+{
+    "id": 95241,
+    "name": "rhapsody_design_manager",
+    "version": "4.0.6",
+    "created_at": "2014-04-22T11:47:33",
+    "updated_at": "2014-05-14T23:26:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:rhapsody_design_manager:4.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

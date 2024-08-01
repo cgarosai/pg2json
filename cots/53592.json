@@ -1,0 +1,10 @@
+{
+    "id": 53592,
+    "name": "video_capture_usb",
+    "version": "1.22.0",
+    "created_at": "2012-07-10T01:18:40",
+    "updated_at": "2012-07-10T01:18:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:roxio:video_capture_usb:1.22.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

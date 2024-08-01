@@ -1,0 +1,10 @@
+{
+    "id": 948901,
+    "name": "java_sdk",
+    "version": "5.0.16.13",
+    "created_at": "2022-09-29T11:58:54",
+    "updated_at": "2022-11-07T16:29:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:java_sdk:5.0.16.13:*:*:*:technology:*:*:*",
+    "to_analyse": false
+}

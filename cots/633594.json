@@ -1,0 +1,10 @@
+{
+    "id": 633594,
+    "name": "dex",
+    "version": "2.9.0",
+    "created_at": "2021-01-04T15:59:54",
+    "updated_at": "2021-01-04T15:59:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:dex:2.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

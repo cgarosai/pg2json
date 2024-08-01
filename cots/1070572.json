@@ -1,0 +1,10 @@
+{
+    "id": 1070572,
+    "name": "designjet_z6_firmware",
+    "version": "jgr6_09_22_51.2",
+    "created_at": "2023-05-08T14:20:11",
+    "updated_at": "2023-09-09T01:09:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:designjet_z6_firmware:jgr6_09_22_51.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

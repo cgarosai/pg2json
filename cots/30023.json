@@ -1,0 +1,10 @@
+{
+    "id": 30023,
+    "name": "pulse_cms",
+    "version": "1.18",
+    "created_at": "2010-12-14T20:40:30",
+    "updated_at": "2010-12-15T19:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsecms:pulse_cms:1.18:-:basic:*:*:*:*:*",
+    "to_analyse": false
+}

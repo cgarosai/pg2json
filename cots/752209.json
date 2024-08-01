@@ -1,0 +1,10 @@
+{
+    "id": 752209,
+    "name": "pl\\/java",
+    "version": "1.0.0",
+    "created_at": "2021-08-09T17:03:12",
+    "updated_at": "2021-08-10T16:02:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pl\\/java_project:pl\\/java:1.0.0:-:*:*:*:postgresql:*:*",
+    "to_analyse": false
+}

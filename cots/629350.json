@@ -1,0 +1,10 @@
+{
+    "id": 629350,
+    "name": "sd-wan_vmanage",
+    "version": "20.3",
+    "created_at": "2020-12-04T17:41:14",
+    "updated_at": "2023-10-16T14:35:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:sd-wan_vmanage:20.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

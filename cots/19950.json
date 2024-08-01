@@ -1,0 +1,10 @@
+{
+    "id": 19950,
+    "name": "power_manager_remote_agent",
+    "version": "4.0_build_10",
+    "created_at": "2007-09-05T19:37:53",
+    "updated_at": "2008-04-07T12:12:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:power_manager_remote_agent:4.0_build_10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

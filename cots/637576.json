@@ -1,0 +1,10 @@
+{
+    "id": 637576,
+    "name": "mout",
+    "version": "1.2.2",
+    "created_at": "2020-12-16T11:20:56",
+    "updated_at": "2020-12-16T11:20:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moutjs:mout:1.2.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

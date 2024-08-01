@@ -1,0 +1,10 @@
+{
+    "id": 261389,
+    "name": "restful",
+    "version": "7.x-2.8",
+    "created_at": "2019-06-18T10:21:22",
+    "updated_at": "2019-06-18T10:21:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drupal:restful:7.x-2.8:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

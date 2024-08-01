@@ -1,0 +1,10 @@
+{
+    "id": 70406,
+    "name": "android_smartphone",
+    "version": "wx04k",
+    "created_at": "2013-06-17T16:54:59",
+    "updated_at": "2013-06-24T12:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:willcom-inc:android_smartphone:wx04k:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

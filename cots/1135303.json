@@ -1,0 +1,10 @@
+{
+    "id": 1135303,
+    "name": "duplicate_post",
+    "version": "1.1.9",
+    "created_at": "2023-08-07T10:18:58",
+    "updated_at": "2023-08-07T14:27:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:copy-delete-posts:duplicate_post:1.1.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

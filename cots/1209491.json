@@ -1,0 +1,10 @@
+{
+    "id": 1209491,
+    "name": "campaign_monitor",
+    "version": "2.5.6",
+    "created_at": "2023-11-30T18:05:05",
+    "updated_at": "2023-11-30T18:05:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:campaignmonitor:campaign_monitor:2.5.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

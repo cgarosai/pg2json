@@ -1,0 +1,10 @@
+{
+    "id": 959323,
+    "name": "cross-fetch",
+    "version": "3.1.2",
+    "created_at": "2022-10-20T15:52:55",
+    "updated_at": "2023-01-24T20:36:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cross-fetch_project:cross-fetch:3.1.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

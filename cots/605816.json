@@ -1,0 +1,10 @@
+{
+    "id": 605816,
+    "name": "n3530_firmware",
+    "version": "-",
+    "created_at": "2020-09-30T17:36:27",
+    "updated_at": "2020-09-30T17:36:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:n3530_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 690331,
+    "name": "administrator",
+    "version": "-",
+    "created_at": "2021-04-23T16:15:59",
+    "updated_at": "2021-05-17T11:24:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:administrator:-:*:*:*:enterprise:silver_fabric:*:*",
+    "to_analyse": false
+}

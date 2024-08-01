@@ -1,0 +1,10 @@
+{
+    "id": 1253426,
+    "name": "scheduling_plugin",
+    "version": "2.0.4",
+    "created_at": "2024-02-16T14:07:00",
+    "updated_at": "2024-02-16T14:07:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:startbooking:scheduling_plugin:2.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

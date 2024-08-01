@@ -1,0 +1,10 @@
+{
+    "id": 447111,
+    "name": "net-ldap",
+    "version": "0.16.2",
+    "created_at": "2019-11-26T12:55:03",
+    "updated_at": "2019-11-26T12:55:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:net-ldap_project:net-ldap:0.16.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

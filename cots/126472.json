@@ -1,0 +1,10 @@
+{
+    "id": 126472,
+    "name": "anti-malware_scan_engine",
+    "version": "5700",
+    "created_at": "2017-03-31T20:16:27",
+    "updated_at": "2021-05-18T13:43:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:anti-malware_scan_engine:5700:*:*:*:*:aix:*:*",
+    "to_analyse": false
+}

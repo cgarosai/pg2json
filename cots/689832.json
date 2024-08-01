@@ -1,0 +1,10 @@
+{
+    "id": 689832,
+    "name": "access_gateway",
+    "version": "2020.4.4",
+    "created_at": "2021-04-06T15:01:07",
+    "updated_at": "2021-04-19T16:53:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:okta:access_gateway:2020.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

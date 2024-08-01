@@ -1,0 +1,10 @@
+{
+    "id": 763114,
+    "name": "mguard_firmware",
+    "version": "8.4.0",
+    "created_at": "2021-08-31T17:39:12",
+    "updated_at": "2021-09-23T16:21:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:mguard_firmware:8.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

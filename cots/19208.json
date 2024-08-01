@@ -1,0 +1,10 @@
+{
+    "id": 19208,
+    "name": "zonealarm",
+    "version": "2.4",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T18:18:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zonelabs:zonealarm:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

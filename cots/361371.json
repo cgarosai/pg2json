@@ -1,0 +1,10 @@
+{
+    "id": 361371,
+    "name": "kinetis_k8x_firmware",
+    "version": "-",
+    "created_at": "2019-09-16T15:23:44",
+    "updated_at": "2021-06-01T13:21:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nxp:kinetis_k8x_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

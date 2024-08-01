@@ -1,0 +1,10 @@
+{
+    "id": 54156,
+    "name": "veritas_backup_exec_for_windows_servers",
+    "version": "12.5.2213",
+    "created_at": "2012-07-10T01:22:23",
+    "updated_at": "2012-07-10T01:22:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_backup_exec_for_windows_servers:12.5.2213:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 934654,
+    "name": "truesight_server_automation",
+    "version": "22.2",
+    "created_at": "2022-09-19T18:59:29",
+    "updated_at": "2022-09-20T15:14:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:truesight_server_automation:22.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

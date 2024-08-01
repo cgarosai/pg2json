@@ -1,0 +1,10 @@
+{
+    "id": 952221,
+    "name": "pulp_ansible",
+    "version": "0.5.5",
+    "created_at": "2022-10-26T14:11:12",
+    "updated_at": "2022-10-26T14:24:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulpproject:pulp_ansible:0.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

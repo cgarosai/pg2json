@@ -1,0 +1,10 @@
+{
+    "id": 628478,
+    "name": "tmux",
+    "version": "2.9",
+    "created_at": "2020-12-02T19:54:50",
+    "updated_at": "2020-12-02T19:54:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tmux_project:tmux:2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 130354,
+    "name": "rx-v100_firmware",
+    "version": "03.29.17.09",
+    "created_at": "2017-12-06T02:27:30",
+    "updated_at": "2021-05-14T11:44:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sharp:rx-v100_firmware:03.29.17.09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

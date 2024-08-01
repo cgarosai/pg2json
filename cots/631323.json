@@ -1,0 +1,10 @@
+{
+    "id": 631323,
+    "name": "hue",
+    "version": "-",
+    "created_at": "2020-12-23T17:12:07",
+    "updated_at": "2020-12-23T17:12:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:philips:hue:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

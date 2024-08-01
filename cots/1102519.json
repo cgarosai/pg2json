@@ -1,0 +1,10 @@
+{
+    "id": 1102519,
+    "name": "kivicare",
+    "version": "3.3.0",
+    "created_at": "2023-06-30T13:06:04",
+    "updated_at": "2023-06-30T13:08:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iqonic:kivicare:3.3.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

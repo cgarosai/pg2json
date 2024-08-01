@@ -1,0 +1,10 @@
+{
+    "id": 535106,
+    "name": "ar_firmware",
+    "version": "v200r006",
+    "created_at": "2020-04-13T17:23:37",
+    "updated_at": "2020-04-13T17:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar_firmware:v200r006:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

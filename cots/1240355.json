@@ -1,0 +1,10 @@
+{
+    "id": 1240355,
+    "name": "wpspellcheck",
+    "version": "8.2.1",
+    "created_at": "2024-02-02T13:48:07",
+    "updated_at": "2024-02-02T13:48:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpspellcheck:wpspellcheck:8.2.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

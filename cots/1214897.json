@@ -1,0 +1,10 @@
+{
+    "id": 1214897,
+    "name": "tutanota",
+    "version": "3.105.9",
+    "created_at": "2023-12-20T17:37:24",
+    "updated_at": "2023-12-20T17:37:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tuta:tutanota:3.105.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

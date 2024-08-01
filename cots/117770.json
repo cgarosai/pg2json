@@ -1,0 +1,10 @@
+{
+    "id": 117770,
+    "name": "apple_tv",
+    "version": "9.2",
+    "created_at": "2016-05-20T13:46:56",
+    "updated_at": "2019-03-08T15:06:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:apple_tv:9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

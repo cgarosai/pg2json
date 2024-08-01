@@ -1,0 +1,10 @@
+{
+    "id": 963058,
+    "name": "watchtower",
+    "version": "3.5.67",
+    "created_at": "2022-11-21T12:57:30",
+    "updated_at": "2022-11-21T12:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:watchtowerhq:watchtower:3.5.67:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

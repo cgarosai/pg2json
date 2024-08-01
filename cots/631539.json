@@ -1,0 +1,10 @@
+{
+    "id": 631539,
+    "name": "solstice_firmware",
+    "version": "3.5",
+    "created_at": "2020-12-23T19:04:46",
+    "updated_at": "2020-12-23T19:04:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mersive:solstice_firmware:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 744468,
+    "name": "umatrix",
+    "version": "0.8.0.0",
+    "created_at": "2021-07-29T11:26:22",
+    "updated_at": "2021-07-29T14:54:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:umatrix_project:umatrix:0.8.0.0:alpha16:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 89982,
+    "name": "office_web_apps_server",
+    "version": "2013",
+    "created_at": "2014-01-15T20:07:07",
+    "updated_at": "2014-01-15T20:14:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_web_apps_server:2013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

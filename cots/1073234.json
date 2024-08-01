@@ -1,0 +1,10 @@
+{
+    "id": 1073234,
+    "name": "asset_suite",
+    "version": "9.5.3.2",
+    "created_at": "2023-05-16T16:51:27",
+    "updated_at": "2023-05-16T18:06:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachienergy:asset_suite:9.5.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

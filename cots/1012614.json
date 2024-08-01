@@ -1,0 +1,10 @@
+{
+    "id": 1012614,
+    "name": "deno",
+    "version": "1.28.3",
+    "created_at": "2023-01-24T14:52:00",
+    "updated_at": "2023-01-24T17:39:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deno:deno:1.28.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 909188,
+    "name": "custom_content_type_manager",
+    "version": "0.9.8.4",
+    "created_at": "2022-07-12T11:56:42",
+    "updated_at": "2022-07-13T12:46:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_content_type_manager_project:custom_content_type_manager:0.9.8.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

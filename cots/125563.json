@@ -1,0 +1,10 @@
+{
+    "id": 125563,
+    "name": "splunk",
+    "version": "6.3.8",
+    "created_at": "2017-03-08T17:28:09",
+    "updated_at": "2017-03-08T17:28:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splunk:splunk:6.3.8:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

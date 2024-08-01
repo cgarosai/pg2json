@@ -1,0 +1,10 @@
+{
+    "id": 87238,
+    "name": "windows_rt_8.1",
+    "version": "-",
+    "created_at": "2013-11-12T17:50:11",
+    "updated_at": "2013-11-12T18:37:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_rt_8.1:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

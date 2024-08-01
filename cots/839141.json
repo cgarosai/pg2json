@@ -1,0 +1,10 @@
+{
+    "id": 839141,
+    "name": "web_application_firewall",
+    "version": "-",
+    "created_at": "2022-01-21T15:37:00",
+    "updated_at": "2022-01-24T13:01:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:imperva:web_application_firewall:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

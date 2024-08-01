@@ -1,0 +1,10 @@
+{
+    "id": 837458,
+    "name": "geode",
+    "version": "1.13.5",
+    "created_at": "2022-01-16T03:16:54",
+    "updated_at": "2022-01-20T16:20:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:geode:1.13.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

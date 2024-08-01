@@ -1,0 +1,10 @@
+{
+    "id": 602160,
+    "name": "webex_room_70_firmware",
+    "version": "-",
+    "created_at": "2020-10-13T11:01:56",
+    "updated_at": "2020-10-13T11:01:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:webex_room_70_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

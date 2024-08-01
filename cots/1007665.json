@@ -1,0 +1,10 @@
+{
+    "id": 1007665,
+    "name": "nexentastor",
+    "version": "4.0.5",
+    "created_at": "2023-01-03T17:23:20",
+    "updated_at": "2023-06-12T11:44:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nexenta:nexentastor:4.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 119677,
+    "name": "mgate_mb3170_router",
+    "version": "-",
+    "created_at": "2016-07-19T16:09:18",
+    "updated_at": "2021-07-16T12:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:moxa:mgate_mb3170_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 528539,
+    "name": "yubikey_one_time_password_validation_server",
+    "version": "2.38",
+    "created_at": "2020-04-02T14:12:17",
+    "updated_at": "2020-04-02T14:12:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yubico:yubikey_one_time_password_validation_server:2.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

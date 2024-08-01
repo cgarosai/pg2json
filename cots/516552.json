@@ -1,0 +1,10 @@
+{
+    "id": 516552,
+    "name": "smartclient",
+    "version": "12.0",
+    "created_at": "2020-03-13T13:24:55",
+    "updated_at": "2020-03-13T13:24:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smartclient:smartclient:12.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

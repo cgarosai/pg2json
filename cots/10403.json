@@ -1,0 +1,10 @@
+{
+    "id": 10403,
+    "name": "isa_server",
+    "version": "2004",
+    "created_at": "2007-09-24T13:28:46",
+    "updated_at": "2008-04-07T12:27:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:isa_server:2004:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

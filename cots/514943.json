@@ -1,0 +1,10 @@
+{
+    "id": 514943,
+    "name": "otrs",
+    "version": "6.0.27",
+    "created_at": "2020-03-31T17:05:21",
+    "updated_at": "2020-03-31T17:05:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:otrs:6.0.27:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

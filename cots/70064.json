@@ -1,0 +1,10 @@
+{
+    "id": 70064,
+    "name": "authentication_manager",
+    "version": "8.0",
+    "created_at": "2013-06-10T11:20:24",
+    "updated_at": "2020-01-08T16:06:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsa:authentication_manager:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

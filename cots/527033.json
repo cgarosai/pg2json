@@ -1,0 +1,10 @@
+{
+    "id": 527033,
+    "name": "ssleay",
+    "version": "0.9",
+    "created_at": "2020-04-01T15:28:53",
+    "updated_at": "2020-04-01T15:28:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssleay:ssleay:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

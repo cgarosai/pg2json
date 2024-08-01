@@ -1,0 +1,10 @@
+{
+    "id": 1121564,
+    "name": "dapr",
+    "version": "0.8.0",
+    "created_at": "2023-07-31T14:15:16",
+    "updated_at": "2023-07-31T16:14:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:dapr:0.8.0:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

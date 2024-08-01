@@ -1,0 +1,10 @@
+{
+    "id": 681191,
+    "name": "resource_initialization_manager",
+    "version": "1.0",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T16:52:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:resource_initialization_manager:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 741472,
+    "name": "sshd",
+    "version": "0.4.0",
+    "created_at": "2021-07-26T13:10:11",
+    "updated_at": "2021-07-26T14:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:sshd:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

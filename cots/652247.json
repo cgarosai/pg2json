@@ -1,0 +1,10 @@
+{
+    "id": 652247,
+    "name": "sma_200",
+    "version": "-",
+    "created_at": "2021-02-17T16:52:52",
+    "updated_at": "2021-02-17T16:52:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:sma_200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

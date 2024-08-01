@@ -1,0 +1,10 @@
+{
+    "id": 766056,
+    "name": "wire_server",
+    "version": "2021-01-12",
+    "created_at": "2021-08-18T12:58:23",
+    "updated_at": "2021-08-18T20:41:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wire:wire_server:2021-01-12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

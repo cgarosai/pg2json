@@ -1,0 +1,10 @@
+{
+    "id": 404652,
+    "name": "catalyst_9100_firmware",
+    "version": "-",
+    "created_at": "2019-10-21T14:38:37",
+    "updated_at": "2021-06-16T16:17:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:catalyst_9100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

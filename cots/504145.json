@@ -1,0 +1,10 @@
+{
+    "id": 504145,
+    "name": "antitrack",
+    "version": "-",
+    "created_at": "2020-03-10T17:13:42",
+    "updated_at": "2021-03-23T17:33:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:antitrack:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

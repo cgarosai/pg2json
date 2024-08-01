@@ -1,0 +1,10 @@
+{
+    "id": 90669,
+    "name": "unified_communications_domain_manager",
+    "version": "8.1",
+    "created_at": "2014-07-18T13:22:08",
+    "updated_at": "2014-07-18T16:29:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unified_communications_domain_manager:8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

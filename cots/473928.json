@@ -1,0 +1,10 @@
+{
+    "id": 473928,
+    "name": "gallery",
+    "version": "1.0",
+    "created_at": "2020-01-27T13:19:51",
+    "updated_at": "2020-01-27T13:19:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gallery_project:gallery:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

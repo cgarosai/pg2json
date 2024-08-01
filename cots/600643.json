@@ -1,0 +1,10 @@
+{
+    "id": 600643,
+    "name": "sg500-28mpp_firmware",
+    "version": "1.4.11.02",
+    "created_at": "2020-10-08T12:01:46",
+    "updated_at": "2020-10-08T12:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg500-28mpp_firmware:1.4.11.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

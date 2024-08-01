@@ -1,0 +1,10 @@
+{
+    "id": 113007,
+    "name": "thinkpad_x250_broadwell",
+    "version": "-",
+    "created_at": "2016-12-06T18:23:43",
+    "updated_at": "2021-05-06T15:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lenovo:thinkpad_x250_broadwell:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

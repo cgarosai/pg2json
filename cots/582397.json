@@ -1,0 +1,10 @@
+{
+    "id": 582397,
+    "name": "usg_40_firmware",
+    "version": "-",
+    "created_at": "2020-08-31T10:25:21",
+    "updated_at": "2020-08-31T10:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:usg_40_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

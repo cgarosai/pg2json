@@ -1,0 +1,10 @@
+{
+    "id": 659234,
+    "name": "files_antivirus",
+    "version": "8.1.9",
+    "created_at": "2021-02-10T16:16:40",
+    "updated_at": "2021-02-10T16:16:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owncloud:files_antivirus:8.1.9:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

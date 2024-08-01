@@ -1,0 +1,10 @@
+{
+    "id": 52830,
+    "name": "intouch",
+    "version": "2012",
+    "created_at": "2012-07-05T13:25:12",
+    "updated_at": "2012-07-09T13:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invensys:intouch:2012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 75336,
+    "name": "12500_vpn_firewall_module",
+    "version": "jc635a",
+    "created_at": "2013-02-01T18:55:29",
+    "updated_at": "2014-07-29T15:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:12500_vpn_firewall_module:jc635a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

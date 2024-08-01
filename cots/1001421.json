@@ -1,0 +1,10 @@
+{
+    "id": 1001421,
+    "name": "cloud_gaming",
+    "version": "525.60.11",
+    "created_at": "2023-01-05T16:51:07",
+    "updated_at": "2023-02-24T14:28:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:cloud_gaming:525.60.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

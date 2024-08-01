@@ -1,0 +1,10 @@
+{
+    "id": 640842,
+    "name": "guacamole",
+    "version": "1.0.0",
+    "created_at": "2021-01-22T21:02:45",
+    "updated_at": "2021-01-22T21:02:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:guacamole:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

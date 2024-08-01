@@ -1,0 +1,10 @@
+{
+    "id": 755833,
+    "name": "express",
+    "version": "5.0.0",
+    "created_at": "2021-07-30T13:35:03",
+    "updated_at": "2021-07-30T15:36:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openjsf:express:5.0.0:alpha4:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

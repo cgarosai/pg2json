@@ -1,0 +1,10 @@
+{
+    "id": 371697,
+    "name": "nw-with-arm",
+    "version": "0.13.0",
+    "created_at": "2019-09-20T17:51:32",
+    "updated_at": "2019-09-20T17:51:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nw-with-arm_project:nw-with-arm:0.13.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

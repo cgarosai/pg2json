@@ -1,0 +1,10 @@
+{
+    "id": 98105,
+    "name": "ga_login",
+    "version": "6.x-1.0",
+    "created_at": "2014-05-30T11:34:12",
+    "updated_at": "2014-05-30T15:53:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google_authenticator_login_project:ga_login:6.x-1.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

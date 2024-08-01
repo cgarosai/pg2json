@@ -1,0 +1,10 @@
+{
+    "id": 901160,
+    "name": "scalance_x204-2ts_firmware",
+    "version": "5.2.6",
+    "created_at": "2022-07-15T12:42:08",
+    "updated_at": "2022-07-15T12:44:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_x204-2ts_firmware:5.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

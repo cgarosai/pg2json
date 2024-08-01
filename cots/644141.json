@@ -1,0 +1,10 @@
+{
+    "id": 644141,
+    "name": "9004-lte",
+    "version": "-",
+    "created_at": "2021-01-29T18:37:36",
+    "updated_at": "2021-01-29T18:37:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arubanetworks:9004-lte:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

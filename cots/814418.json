@@ -1,0 +1,10 @@
+{
+    "id": 814418,
+    "name": "media_server",
+    "version": "1.18.2.2029-36236cc4c",
+    "created_at": "2021-12-10T15:57:23",
+    "updated_at": "2021-12-10T15:58:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plex:media_server:1.18.2.2029-36236cc4c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

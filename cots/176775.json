@@ -1,0 +1,10 @@
+{
+    "id": 176775,
+    "name": "authoritative",
+    "version": "4.0.7",
+    "created_at": "2018-09-17T13:32:38",
+    "updated_at": "2018-09-17T13:32:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:powerdns:authoritative:4.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

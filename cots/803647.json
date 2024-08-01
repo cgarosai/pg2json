@@ -1,0 +1,10 @@
+{
+    "id": 803647,
+    "name": "epyc_7282_firmware",
+    "version": "-",
+    "created_at": "2021-11-18T13:48:02",
+    "updated_at": "2021-11-18T17:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7282_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

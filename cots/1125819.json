@@ -1,0 +1,10 @@
+{
+    "id": 1125819,
+    "name": "3dprint",
+    "version": "-",
+    "created_at": "2023-07-24T13:25:33",
+    "updated_at": "2023-07-24T16:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:3dprint_project:3dprint:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 93358,
+    "name": "firmware",
+    "version": "ch6640-3.5.11.7-nosh",
+    "created_at": "2014-11-06T17:53:43",
+    "updated_at": "2015-02-18T17:14:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:compal_broadband_networks:firmware:ch6640-3.5.11.7-nosh:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

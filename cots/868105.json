@@ -1,0 +1,10 @@
+{
+    "id": 868105,
+    "name": "f35",
+    "version": "-",
+    "created_at": "2022-03-28T11:58:09",
+    "updated_at": "2022-03-30T11:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lexar:f35:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

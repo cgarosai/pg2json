@@ -1,0 +1,10 @@
+{
+    "id": 722974,
+    "name": "cortex-a57",
+    "version": "-",
+    "created_at": "2021-06-24T15:35:38",
+    "updated_at": "2021-06-30T11:29:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arm:cortex-a57:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

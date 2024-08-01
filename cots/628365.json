@@ -1,0 +1,10 @@
+{
+    "id": 628365,
+    "name": "wiser_link_firmware",
+    "version": "1.5.0",
+    "created_at": "2020-12-02T17:43:55",
+    "updated_at": "2021-05-12T12:40:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:wiser_link_firmware:1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

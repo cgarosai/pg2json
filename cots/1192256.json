@@ -1,0 +1,10 @@
+{
+    "id": 1192256,
+    "name": "web_push_notifications",
+    "version": "3.6.0",
+    "created_at": "2023-11-17T18:13:12",
+    "updated_at": "2023-11-17T18:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webpushr:web_push_notifications:3.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

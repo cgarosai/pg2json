@@ -1,0 +1,10 @@
+{
+    "id": 820180,
+    "name": "welch_allyn_hscribe_holter_analysis_system_firmware",
+    "version": "5.01",
+    "created_at": "2021-12-21T13:21:29",
+    "updated_at": "2021-12-22T18:08:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:5.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

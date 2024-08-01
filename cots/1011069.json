@@ -1,0 +1,10 @@
+{
+    "id": 1011069,
+    "name": "subscribe2",
+    "version": "10.38",
+    "created_at": "2023-01-22T23:17:04",
+    "updated_at": "2023-01-22T23:20:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:subscribe2_project:subscribe2:10.38:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

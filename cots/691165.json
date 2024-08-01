@@ -1,0 +1,10 @@
+{
+    "id": 691165,
+    "name": "auth0.js",
+    "version": "2.12.0",
+    "created_at": "2021-04-28T14:50:28",
+    "updated_at": "2021-04-28T15:06:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:auth0.js:2.12.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

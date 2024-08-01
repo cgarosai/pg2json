@@ -1,0 +1,10 @@
+{
+    "id": 577966,
+    "name": "appserver",
+    "version": "1.1.0",
+    "created_at": "2020-07-30T12:51:08",
+    "updated_at": "2020-07-30T12:51:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appserver:appserver:1.1.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

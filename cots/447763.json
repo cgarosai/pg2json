@@ -1,0 +1,10 @@
+{
+    "id": 447763,
+    "name": "forticlient",
+    "version": "6.0.8",
+    "created_at": "2019-11-27T14:23:40",
+    "updated_at": "2020-05-11T15:38:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:forticlient:6.0.8:*:*:*:*:mac_os_x:*:*",
+    "to_analyse": false
+}

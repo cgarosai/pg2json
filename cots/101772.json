@@ -1,0 +1,10 @@
+{
+    "id": 101772,
+    "name": "secure_access_control_system",
+    "version": "5.7\\(0.15\\)",
+    "created_at": "2015-10-30T14:08:54",
+    "updated_at": "2015-11-23T18:21:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_access_control_system:5.7\\(0.15\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

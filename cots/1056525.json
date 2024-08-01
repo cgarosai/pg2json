@@ -1,0 +1,10 @@
+{
+    "id": 1056525,
+    "name": "opendoas",
+    "version": "6.8.2",
+    "created_at": "2023-03-20T16:44:14",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opendoas_project:opendoas:6.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

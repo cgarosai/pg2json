@@ -1,0 +1,10 @@
+{
+    "id": 1003036,
+    "name": "fossology",
+    "version": "-",
+    "created_at": "2023-01-09T17:01:41",
+    "updated_at": "2023-09-02T00:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:fossology:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

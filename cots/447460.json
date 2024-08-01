@@ -1,0 +1,10 @@
+{
+    "id": 447460,
+    "name": "sd600_firmware",
+    "version": "-",
+    "created_at": "2019-11-26T17:18:19",
+    "updated_at": "2019-11-26T17:18:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sd600_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

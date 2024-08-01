@@ -1,0 +1,10 @@
+{
+    "id": 1118681,
+    "name": "ninja_forms_google_sheet_connector",
+    "version": "1.2.7",
+    "created_at": "2023-07-11T12:30:17",
+    "updated_at": "2023-07-11T13:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gsheetconnector:ninja_forms_google_sheet_connector:1.2.7:*:*:*:free:wordpress:*:*",
+    "to_analyse": false
+}

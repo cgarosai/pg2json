@@ -1,0 +1,10 @@
+{
+    "id": 141940,
+    "name": "buddypress",
+    "version": "2.7.0",
+    "created_at": "2018-05-14T14:46:08",
+    "updated_at": "2021-03-30T13:04:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buddypress:buddypress:2.7.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

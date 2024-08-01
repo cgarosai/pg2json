@@ -1,0 +1,10 @@
+{
+    "id": 419406,
+    "name": "qtbase",
+    "version": "5.9.0",
+    "created_at": "2019-10-25T10:36:15",
+    "updated_at": "2019-10-25T10:36:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qt:qtbase:5.9.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

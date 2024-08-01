@@ -1,0 +1,10 @@
+{
+    "id": 836554,
+    "name": "bookstack",
+    "version": "21.11.3",
+    "created_at": "2022-01-13T11:35:21",
+    "updated_at": "2022-01-13T11:36:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bookstackapp:bookstack:21.11.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

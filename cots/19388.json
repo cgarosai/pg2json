@@ -1,0 +1,10 @@
+{
+    "id": 19388,
+    "name": "windows_2000",
+    "version": "-",
+    "created_at": "2007-08-28T16:18:31",
+    "updated_at": "2008-04-07T12:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_2000:-:gold:*:*:*:*:*:*",
+    "to_analyse": false
+}

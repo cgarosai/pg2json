@@ -1,0 +1,10 @@
+{
+    "id": 879794,
+    "name": "cve-services",
+    "version": "1.0.1",
+    "created_at": "2022-05-02T12:01:04",
+    "updated_at": "2022-08-18T09:29:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cve:cve-services:1.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

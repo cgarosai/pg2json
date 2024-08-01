@@ -1,0 +1,10 @@
+{
+    "id": 91060,
+    "name": "sr88_firewall_processing_module",
+    "version": "0231a88l",
+    "created_at": "2014-07-29T13:36:41",
+    "updated_at": "2014-07-29T15:34:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:h3c:sr88_firewall_processing_module:0231a88l:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

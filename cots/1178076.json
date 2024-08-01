@@ -1,0 +1,10 @@
+{
+    "id": 1178076,
+    "name": "surf_soho",
+    "version": "hw1",
+    "created_at": "2023-10-13T15:08:04",
+    "updated_at": "2023-10-13T15:08:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:peplink:surf_soho:hw1:6.3.5:*:*:*:*:*:*",
+    "to_analyse": false
+}

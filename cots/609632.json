@@ -1,0 +1,10 @@
+{
+    "id": 609632,
+    "name": "weblogic_server",
+    "version": "9.0",
+    "created_at": "2020-10-06T19:16:11",
+    "updated_at": "2020-10-06T19:16:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:weblogic_server:9.0:maintenance_pack3:*:*:*:sun:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 945718,
+    "name": "ns-nd_integration_performance_publisher",
+    "version": "4.8.0.129",
+    "created_at": "2022-09-22T08:59:05",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:ns-nd_integration_performance_publisher:4.8.0.129:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

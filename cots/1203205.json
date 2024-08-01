@@ -1,0 +1,10 @@
+{
+    "id": 1203205,
+    "name": "cosmos_server",
+    "version": "0.10.0",
+    "created_at": "2023-12-06T15:02:29",
+    "updated_at": "2023-12-06T15:02:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cosmos-cloud:cosmos_server:0.10.0:unstable15:*:*:*:*:*:*",
+    "to_analyse": false
+}

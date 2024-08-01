@@ -1,0 +1,10 @@
+{
+    "id": 90444,
+    "name": "wp-cross-rss",
+    "version": "1.7",
+    "created_at": "2014-07-14T15:36:32",
+    "updated_at": "2014-07-17T15:05:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cross-rss_plugin_project:wp-cross-rss:1.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

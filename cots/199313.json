@@ -1,0 +1,10 @@
+{
+    "id": 199313,
+    "name": "libnetfilter_conntrack",
+    "version": "1.0.0",
+    "created_at": "2019-01-02T18:06:17",
+    "updated_at": "2019-01-02T18:06:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netfilter:libnetfilter_conntrack:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

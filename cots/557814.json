@@ -1,0 +1,10 @@
+{
+    "id": 557814,
+    "name": "selenium",
+    "version": "2.53.0",
+    "created_at": "2020-06-03T15:54:02",
+    "updated_at": "2020-06-03T15:54:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:selenium:2.53.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

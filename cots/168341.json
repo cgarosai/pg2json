@@ -1,0 +1,10 @@
+{
+    "id": 168341,
+    "name": "serve",
+    "version": "8.2.0",
+    "created_at": "2018-07-17T15:08:37",
+    "updated_at": "2018-07-17T15:08:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zeit:serve:8.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

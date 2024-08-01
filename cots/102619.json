@@ -1,0 +1,10 @@
+{
+    "id": 102619,
+    "name": "ad_self_password_reset",
+    "version": "3.0.3.0",
+    "created_at": "2015-12-24T14:57:52",
+    "updated_at": "2015-12-24T14:57:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dovestones:ad_self_password_reset:3.0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

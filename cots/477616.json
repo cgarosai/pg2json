@@ -1,0 +1,10 @@
+{
+    "id": 477616,
+    "name": "radeon_550_firmware",
+    "version": "26.20.13001.29010",
+    "created_at": "2020-01-13T16:32:35",
+    "updated_at": "2020-01-13T16:32:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:radeon_550_firmware:26.20.13001.29010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

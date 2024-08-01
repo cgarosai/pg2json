@@ -1,0 +1,10 @@
+{
+    "id": 10616,
+    "name": "tramp",
+    "version": "2.1.10",
+    "created_at": "2007-10-12T08:31:23",
+    "updated_at": "2007-10-12T08:31:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:tramp:2.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

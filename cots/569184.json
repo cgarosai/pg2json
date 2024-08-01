@@ -1,0 +1,10 @@
+{
+    "id": 569184,
+    "name": "jira_software_data_center",
+    "version": "8.2.3",
+    "created_at": "2020-07-07T10:30:12",
+    "updated_at": "2022-03-30T11:14:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_software_data_center:8.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

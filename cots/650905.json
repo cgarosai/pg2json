@@ -1,0 +1,10 @@
+{
+    "id": 650905,
+    "name": "next-auth",
+    "version": "-",
+    "created_at": "2021-02-16T12:57:57",
+    "updated_at": "2021-02-16T12:57:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextauth.js:next-auth:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

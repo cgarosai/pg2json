@@ -1,0 +1,10 @@
+{
+    "id": 684820,
+    "name": "facebook",
+    "version": "2.0.2",
+    "created_at": "2021-04-14T14:18:43",
+    "updated_at": "2021-04-19T12:24:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:facebook:facebook:2.0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

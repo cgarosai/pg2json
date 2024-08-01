@@ -1,0 +1,10 @@
+{
+    "id": 40331,
+    "name": "event_monitoring_service",
+    "version": "a.04.20.31.07",
+    "created_at": "2011-12-19T18:59:03",
+    "updated_at": "2011-12-19T18:59:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:event_monitoring_service:a.04.20.31.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

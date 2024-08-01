@@ -1,0 +1,10 @@
+{
+    "id": 814617,
+    "name": "bookly",
+    "version": "18.3",
+    "created_at": "2021-12-13T13:42:26",
+    "updated_at": "2022-11-14T13:54:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bookly_project:bookly:18.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

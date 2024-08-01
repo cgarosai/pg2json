@@ -1,0 +1,10 @@
+{
+    "id": 82908,
+    "name": "udisks",
+    "version": "1.92.0",
+    "created_at": "2014-03-12T17:13:55",
+    "updated_at": "2014-03-25T17:33:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freedesktop:udisks:1.92.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

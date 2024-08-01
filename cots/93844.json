@@ -1,0 +1,10 @@
+{
+    "id": 93844,
+    "name": "happy",
+    "version": "2",
+    "created_at": "2014-11-10T15:19:48",
+    "updated_at": "2014-11-10T15:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:happycloud:happy:2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 260886,
+    "name": "pcs",
+    "version": "10.0.0",
+    "created_at": "2019-06-17T15:15:56",
+    "updated_at": "2019-06-17T15:15:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:pcs:10.0.0:alpha7:*:*:*:*:*:*",
+    "to_analyse": false
+}

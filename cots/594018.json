@@ -1,0 +1,10 @@
+{
+    "id": 594018,
+    "name": "sicam_sgu_firmware",
+    "version": "-",
+    "created_at": "2020-09-23T15:54:49",
+    "updated_at": "2020-09-23T15:54:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sicam_sgu_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

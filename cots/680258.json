@@ -1,0 +1,10 @@
+{
+    "id": 680258,
+    "name": "brightstor_enterprise_backup",
+    "version": "10.5",
+    "created_at": "2021-04-07T12:28:57",
+    "updated_at": "2021-04-07T16:19:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:brightstor_enterprise_backup:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

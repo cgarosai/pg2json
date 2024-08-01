@@ -1,0 +1,10 @@
+{
+    "id": 976592,
+    "name": "groovy",
+    "version": "442.v817e6d937d6c",
+    "created_at": "2022-11-23T15:09:23",
+    "updated_at": "2022-11-23T15:10:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:groovy:442.v817e6d937d6c:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

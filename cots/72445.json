@@ -1,0 +1,10 @@
+{
+    "id": 72445,
+    "name": "ive_os",
+    "version": "7.3r2",
+    "created_at": "2013-08-01T16:26:37",
+    "updated_at": "2014-03-03T19:14:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:ive_os:7.3r2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

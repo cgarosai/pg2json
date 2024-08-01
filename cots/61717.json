@@ -1,0 +1,10 @@
+{
+    "id": 61717,
+    "name": "cyrus_imap_server",
+    "version": "2.3.12",
+    "created_at": "2012-11-01T01:00:18",
+    "updated_at": "2012-11-01T01:00:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cmu:cyrus_imap_server:2.3.12:p2:*:*:*:*:*:*",
+    "to_analyse": false
+}

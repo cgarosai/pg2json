@@ -1,0 +1,10 @@
+{
+    "id": 258929,
+    "name": "ds213_firmware",
+    "version": "4.3-3827-5",
+    "created_at": "2019-06-10T15:19:39",
+    "updated_at": "2019-06-10T15:19:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synology:ds213_firmware:4.3-3827-5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 381195,
+    "name": "product-monitor",
+    "version": "1.8.25",
+    "created_at": "2019-09-25T16:05:10",
+    "updated_at": "2019-09-25T16:05:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:product-monitor_project:product-monitor:1.8.25:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

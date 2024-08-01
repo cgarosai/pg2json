@@ -1,0 +1,10 @@
+{
+    "id": 1053725,
+    "name": "openmeetings",
+    "version": "7.0.0",
+    "created_at": "2023-04-03T16:15:57",
+    "updated_at": "2023-04-06T11:26:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:openmeetings:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 892911,
+    "name": "hidden_parameter",
+    "version": "0.0.4",
+    "created_at": "2022-06-28T13:42:15",
+    "updated_at": "2022-07-05T15:08:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:hidden_parameter:0.0.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

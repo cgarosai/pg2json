@@ -1,0 +1,10 @@
+{
+    "id": 134374,
+    "name": "personal_cloud_firmware",
+    "version": "-",
+    "created_at": "2018-01-30T17:09:12",
+    "updated_at": "2021-05-27T12:05:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:seagate:personal_cloud_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

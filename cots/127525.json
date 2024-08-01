@@ -1,0 +1,10 @@
+{
+    "id": 127525,
+    "name": "horizon_wireless_radio_firmware",
+    "version": "1.01.03",
+    "created_at": "2017-04-12T16:51:20",
+    "updated_at": "2021-07-09T10:43:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dragonwavex:horizon_wireless_radio_firmware:1.01.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

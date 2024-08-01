@@ -1,0 +1,10 @@
+{
+    "id": 943785,
+    "name": "enable_media_replace",
+    "version": "2.5.2",
+    "created_at": "2022-10-11T15:28:58",
+    "updated_at": "2022-10-11T15:32:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shortpixel:enable_media_replace:2.5.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

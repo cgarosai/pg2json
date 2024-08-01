@@ -1,0 +1,10 @@
+{
+    "id": 1133541,
+    "name": "maven_artifact_choicelistprovider_\\(nexus\\)",
+    "version": "1.14",
+    "created_at": "2023-08-18T15:50:08",
+    "updated_at": "2023-09-05T17:43:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:maven_artifact_choicelistprovider_\\(nexus\\):1.14:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

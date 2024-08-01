@@ -1,0 +1,10 @@
+{
+    "id": 475490,
+    "name": "verynginx",
+    "version": "0.1",
+    "created_at": "2020-01-08T17:23:23",
+    "updated_at": "2020-01-08T17:23:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:verynginx_project:verynginx:0.1:beta2:*:*:*:nginx:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 672020,
+    "name": "symantec_identity_manager",
+    "version": "14.4",
+    "created_at": "2021-03-22T18:27:41",
+    "updated_at": "2021-03-29T09:01:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_identity_manager:14.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

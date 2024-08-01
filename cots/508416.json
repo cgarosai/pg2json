@@ -1,0 +1,10 @@
+{
+    "id": 508416,
+    "name": "ap9630_firmware",
+    "version": "6.7.2",
+    "created_at": "2020-03-04T16:12:09",
+    "updated_at": "2020-03-04T16:12:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:ap9630_firmware:6.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

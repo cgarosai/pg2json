@@ -1,0 +1,10 @@
+{
+    "id": 1229832,
+    "name": "farmacia",
+    "version": "1.0",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:farmacia_project:farmacia:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

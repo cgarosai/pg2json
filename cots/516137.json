@@ -1,0 +1,10 @@
+{
+    "id": 516137,
+    "name": "wing_ftp_server",
+    "version": "3.6.6",
+    "created_at": "2020-03-12T17:23:17",
+    "updated_at": "2020-03-12T17:23:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wftpserver:wing_ftp_server:3.6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

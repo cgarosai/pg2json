@@ -1,0 +1,10 @@
+{
+    "id": 400153,
+    "name": "sysdig",
+    "version": "0.26.2",
+    "created_at": "2019-10-15T14:08:56",
+    "updated_at": "2019-10-15T14:08:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysdig:sysdig:0.26.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

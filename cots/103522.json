@@ -1,0 +1,10 @@
+{
+    "id": 103522,
+    "name": "rename",
+    "version": "1.0",
+    "created_at": "2016-01-19T14:56:01",
+    "updated_at": "2016-01-19T14:56:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rename_project:rename:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 586261,
+    "name": "nvs",
+    "version": "390.138",
+    "created_at": "2020-08-17T11:04:37",
+    "updated_at": "2020-08-17T11:04:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:nvs:390.138:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

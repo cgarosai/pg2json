@@ -1,0 +1,10 @@
+{
+    "id": 198663,
+    "name": "gnupg",
+    "version": "0.1.1",
+    "created_at": "2018-12-31T17:36:53",
+    "updated_at": "2023-06-06T16:58:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnupg:gnupg:0.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

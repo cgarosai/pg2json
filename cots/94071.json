@@ -1,0 +1,10 @@
+{
+    "id": 94071,
+    "name": "ges_agri_connect",
+    "version": "0.1",
+    "created_at": "2014-11-10T15:22:08",
+    "updated_at": "2014-11-10T15:44:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:greenecosystem:ges_agri_connect:0.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

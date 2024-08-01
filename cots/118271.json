@@ -1,0 +1,10 @@
+{
+    "id": 118271,
+    "name": "multilink_firmware",
+    "version": "5.5.0",
+    "created_at": "2016-06-09T14:20:05",
+    "updated_at": "2021-06-08T11:58:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:multilink_firmware:5.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

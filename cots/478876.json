@@ -1,0 +1,10 @@
+{
+    "id": 478876,
+    "name": "blink_xt2_sync_module_firmware",
+    "version": "2.3.11",
+    "created_at": "2020-01-15T12:43:32",
+    "updated_at": "2020-01-15T12:43:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amazon:blink_xt2_sync_module_firmware:2.3.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

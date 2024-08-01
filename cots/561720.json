@@ -1,0 +1,10 @@
+{
+    "id": 561720,
+    "name": "sockjs",
+    "version": "0.2.0",
+    "created_at": "2020-07-14T12:49:04",
+    "updated_at": "2020-07-14T12:49:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sockjs_project:sockjs:0.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

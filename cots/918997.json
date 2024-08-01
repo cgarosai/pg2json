@@ -1,0 +1,10 @@
+{
+    "id": 918997,
+    "name": "varnish_cache_plus",
+    "version": "4.1.7",
+    "created_at": "2022-08-02T16:32:36",
+    "updated_at": "2022-08-02T16:51:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:varnish-software:varnish_cache_plus:4.1.7:r2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 584203,
+    "name": "zend-cache",
+    "version": "2.3.5",
+    "created_at": "2020-09-02T12:19:25",
+    "updated_at": "2020-09-02T12:19:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zend:zend-cache:2.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

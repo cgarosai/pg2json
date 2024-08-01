@@ -1,0 +1,10 @@
+{
+    "id": 1200851,
+    "name": "eds-g503_firmware",
+    "version": "5.2",
+    "created_at": "2023-12-01T21:41:12",
+    "updated_at": "2023-12-01T21:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:eds-g503_firmware:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

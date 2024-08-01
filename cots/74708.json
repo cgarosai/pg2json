@@ -1,0 +1,10 @@
+{
+    "id": 74708,
+    "name": "idrac6_firmware",
+    "version": "1.8",
+    "created_at": "2013-09-24T15:34:03",
+    "updated_at": "2013-09-25T16:42:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:idrac6_firmware:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

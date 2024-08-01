@@ -1,0 +1,10 @@
+{
+    "id": 1168872,
+    "name": "product_image_bulk_upload",
+    "version": "1.0.0",
+    "created_at": "2023-09-28T09:24:57",
+    "updated_at": "2023-09-28T09:24:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ec-cube:product_image_bulk_upload:1.0.0:*:*:*:*:ec-cube:*:*",
+    "to_analyse": false
+}

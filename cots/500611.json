@@ -1,0 +1,10 @@
+{
+    "id": 500611,
+    "name": "xclarity_integrator",
+    "version": "7.6.0",
+    "created_at": "2020-03-06T17:33:48",
+    "updated_at": "2020-03-06T17:33:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:xclarity_integrator:7.6.0:*:*:*:*:scvmm:*:*",
+    "to_analyse": false
+}

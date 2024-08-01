@@ -1,0 +1,10 @@
+{
+    "id": 482854,
+    "name": "yast2-security",
+    "version": "-",
+    "created_at": "2020-02-05T19:55:36",
+    "updated_at": "2020-02-05T19:55:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:yast2-security:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

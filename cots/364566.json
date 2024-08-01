@@ -1,0 +1,10 @@
+{
+    "id": 364566,
+    "name": "htslib",
+    "version": "0.2.0",
+    "created_at": "2019-09-18T10:57:03",
+    "updated_at": "2019-09-18T10:57:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:htslib:htslib:0.2.0:rc10:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1117350,
+    "name": "pacparser",
+    "version": "1.1.0",
+    "created_at": "2023-07-07T16:29:30",
+    "updated_at": "2023-07-07T17:26:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pacparser_project:pacparser:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

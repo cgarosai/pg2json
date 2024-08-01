@@ -1,0 +1,10 @@
+{
+    "id": 1205120,
+    "name": "nuc_watchdog_timer_utility",
+    "version": "2.0.21.0",
+    "created_at": "2023-11-25T03:35:20",
+    "updated_at": "2023-11-25T03:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:nuc_watchdog_timer_utility:2.0.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 172758,
+    "name": "sql_server",
+    "version": "2016",
+    "created_at": "2018-10-18T17:24:09",
+    "updated_at": "2021-07-09T13:07:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+    "to_analyse": false
+}

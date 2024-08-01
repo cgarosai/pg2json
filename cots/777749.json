@@ -1,0 +1,10 @@
+{
+    "id": 777749,
+    "name": "qca6330_firmware",
+    "version": "-",
+    "created_at": "2021-09-13T10:41:33",
+    "updated_at": "2021-09-14T11:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:qca6330_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1129140,
+    "name": "scala-collection-compat",
+    "version": "2.10.0",
+    "created_at": "2023-07-26T13:44:45",
+    "updated_at": "2023-07-26T13:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scala-lang:scala-collection-compat:2.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

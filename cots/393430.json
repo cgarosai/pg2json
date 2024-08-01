@@ -1,0 +1,10 @@
+{
+    "id": 393430,
+    "name": "people_profile",
+    "version": "6.0",
+    "created_at": "2019-10-04T12:08:50",
+    "updated_at": "2019-10-04T12:08:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:people_profile:6.0:*:*:*:*:fiori:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 220561,
+    "name": "simatic_rf186c_firmware",
+    "version": "-",
+    "created_at": "2019-04-18T15:30:33",
+    "updated_at": "2021-05-26T12:55:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_rf186c_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

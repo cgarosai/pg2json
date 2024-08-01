@@ -1,0 +1,10 @@
+{
+    "id": 648360,
+    "name": "ca_service_catalog",
+    "version": "17.3",
+    "created_at": "2021-01-12T17:43:22",
+    "updated_at": "2021-01-12T17:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_service_catalog:17.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

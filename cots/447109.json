@@ -1,0 +1,10 @@
+{
+    "id": 447109,
+    "name": "sonarqube_scanner",
+    "version": "2.9",
+    "created_at": "2019-11-26T12:52:39",
+    "updated_at": "2019-11-26T12:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonarsource:sonarqube_scanner:2.9:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

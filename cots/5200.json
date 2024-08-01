@@ -1,0 +1,10 @@
+{
+    "id": 5200,
+    "name": "iphone",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2022-08-09T11:46:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:apple:iphone:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

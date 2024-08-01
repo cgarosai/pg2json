@@ -1,0 +1,10 @@
+{
+    "id": 497378,
+    "name": "ap4000w_firmware",
+    "version": "tdc_v1.01.003",
+    "created_at": "2020-02-18T13:27:23",
+    "updated_at": "2021-08-16T13:58:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:askey:ap4000w_firmware:tdc_v1.01.003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

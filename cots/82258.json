@@ -1,0 +1,10 @@
+{
+    "id": 82258,
+    "name": "base_sas",
+    "version": "9.2",
+    "created_at": "2014-03-03T15:12:33",
+    "updated_at": "2014-03-03T15:15:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sas:base_sas:9.2:ts2m:*:*:*:*:*:*",
+    "to_analyse": false
+}

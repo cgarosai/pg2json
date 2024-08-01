@@ -1,0 +1,10 @@
+{
+    "id": 71240,
+    "name": "h3c_switch",
+    "version": "s3610-52p_ls-3610-52p-ovs",
+    "created_at": "2013-07-08T15:03:55",
+    "updated_at": "2013-07-12T15:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_switch:s3610-52p_ls-3610-52p-ovs:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

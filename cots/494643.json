@@ -1,0 +1,10 @@
+{
+    "id": 494643,
+    "name": "authconfig",
+    "version": "4.2.11",
+    "created_at": "2020-02-27T14:42:44",
+    "updated_at": "2020-02-27T14:42:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:authconfig_project:authconfig:4.2.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

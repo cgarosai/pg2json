@@ -1,0 +1,10 @@
+{
+    "id": 510117,
+    "name": "xeon_silver_4214y_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:33:26",
+    "updated_at": "2020-03-23T16:33:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_silver_4214y_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

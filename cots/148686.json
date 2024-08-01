@@ -1,0 +1,10 @@
+{
+    "id": 148686,
+    "name": "tivoli_workload_scheduler",
+    "version": "9.4.0",
+    "created_at": "2018-04-04T18:04:03",
+    "updated_at": "2021-06-07T16:20:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_workload_scheduler:9.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

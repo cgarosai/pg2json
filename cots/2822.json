@@ -1,0 +1,10 @@
+{
+    "id": 2822,
+    "name": "secure_web_server_for_tru64",
+    "version": "6.3.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:13:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:secure_web_server_for_tru64:6.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

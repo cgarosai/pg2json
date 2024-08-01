@@ -1,0 +1,10 @@
+{
+    "id": 645681,
+    "name": "array-queue",
+    "version": "0.2.0",
+    "created_at": "2021-01-07T12:02:47",
+    "updated_at": "2021-01-07T12:02:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:array-queue_project:array-queue:0.2.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

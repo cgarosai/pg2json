@@ -1,0 +1,10 @@
+{
+    "id": 475157,
+    "name": "advanced_package_tool",
+    "version": "0.7.12",
+    "created_at": "2020-01-08T14:10:55",
+    "updated_at": "2020-01-08T14:10:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:advanced_package_tool:0.7.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

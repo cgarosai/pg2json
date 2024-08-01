@@ -1,0 +1,10 @@
+{
+    "id": 810601,
+    "name": "news",
+    "version": "0.4.10",
+    "created_at": "2021-12-01T12:32:09",
+    "updated_at": "2021-12-01T17:46:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:news:0.4.10:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

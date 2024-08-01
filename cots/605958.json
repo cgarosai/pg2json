@@ -1,0 +1,10 @@
+{
+    "id": 605958,
+    "name": "kmail",
+    "version": "4.11.5",
+    "created_at": "2020-10-01T10:18:10",
+    "updated_at": "2020-10-01T10:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:kmail:4.11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

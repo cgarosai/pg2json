@@ -1,0 +1,10 @@
+{
+    "id": 1054051,
+    "name": "openimageio",
+    "version": "1.0.0",
+    "created_at": "2023-04-04T14:59:46",
+    "updated_at": "2023-04-04T17:10:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openimageio:openimageio:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

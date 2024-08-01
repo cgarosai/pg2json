@@ -1,0 +1,10 @@
+{
+    "id": 477397,
+    "name": "saml_single_sign_on",
+    "version": "2.5.5",
+    "created_at": "2020-01-13T15:23:32",
+    "updated_at": "2020-01-13T15:23:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:saml_single_sign_on:2.5.5:*:*:*:*:bamboo:*:*",
+    "to_analyse": false
+}

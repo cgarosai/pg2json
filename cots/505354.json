@@ -1,0 +1,10 @@
+{
+    "id": 505354,
+    "name": "n750_firmware",
+    "version": "1.10.16m",
+    "created_at": "2020-02-28T14:48:29",
+    "updated_at": "2020-02-28T14:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belkin:n750_firmware:1.10.16m:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

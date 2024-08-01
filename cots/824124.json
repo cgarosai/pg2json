@@ -1,0 +1,10 @@
+{
+    "id": 824124,
+    "name": "emc_powerprotect_data_protection_appliance",
+    "version": "2.7",
+    "created_at": "2022-01-05T17:05:53",
+    "updated_at": "2022-05-09T15:42:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_powerprotect_data_protection_appliance:2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

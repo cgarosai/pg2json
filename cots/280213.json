@@ -1,0 +1,10 @@
+{
+    "id": 280213,
+    "name": "bluemasters",
+    "version": "7.x-1.0",
+    "created_at": "2019-07-09T16:14:19",
+    "updated_at": "2019-07-09T16:14:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluemasters_project:bluemasters:7.x-1.0:alpha1:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

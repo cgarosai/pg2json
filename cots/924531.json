@@ -1,0 +1,10 @@
+{
+    "id": 924531,
+    "name": "symantec_privileged_access_management",
+    "version": "3.5.0.0",
+    "created_at": "2022-08-30T13:14:11",
+    "updated_at": "2022-09-01T16:24:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_privileged_access_management:3.5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

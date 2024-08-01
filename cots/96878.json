@@ -1,0 +1,10 @@
+{
+    "id": 96878,
+    "name": "project_server",
+    "version": "2010",
+    "created_at": "2014-05-14T15:00:16",
+    "updated_at": "2014-05-14T22:03:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:project_server:2010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

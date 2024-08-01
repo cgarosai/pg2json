@@ -1,0 +1,10 @@
+{
+    "id": 1113619,
+    "name": "restrictedpython",
+    "version": "-",
+    "created_at": "2023-07-19T13:19:38",
+    "updated_at": "2023-07-19T16:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zope:restrictedpython:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

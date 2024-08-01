@@ -1,0 +1,10 @@
+{
+    "id": 502288,
+    "name": "blog",
+    "version": "2017-09-12",
+    "created_at": "2020-03-09T12:38:01",
+    "updated_at": "2020-03-09T12:38:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blog_project:blog:2017-09-12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

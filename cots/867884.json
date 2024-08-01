@@ -1,0 +1,10 @@
+{
+    "id": 867884,
+    "name": "brocade_fabric_operating_system_firmware",
+    "version": "-",
+    "created_at": "2022-03-27T19:14:40",
+    "updated_at": "2022-04-21T14:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:brocade_fabric_operating_system_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

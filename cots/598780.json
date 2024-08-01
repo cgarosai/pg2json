@@ -1,0 +1,10 @@
+{
+    "id": 598780,
+    "name": "linux_enterprise_debuginfo",
+    "version": "10",
+    "created_at": "2020-09-11T12:57:19",
+    "updated_at": "2020-09-11T12:57:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:linux_enterprise_debuginfo:10:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

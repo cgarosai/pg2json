@@ -1,0 +1,10 @@
+{
+    "id": 641203,
+    "name": "emc_avamar_server",
+    "version": "19.3",
+    "created_at": "2021-01-25T15:09:19",
+    "updated_at": "2021-01-25T15:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_avamar_server:19.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

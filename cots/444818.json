@@ -1,0 +1,10 @@
+{
+    "id": 444818,
+    "name": "horde_lz4",
+    "version": "6.0.0",
+    "created_at": "2019-12-05T12:33:32",
+    "updated_at": "2019-12-05T12:33:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_lz4:6.0.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

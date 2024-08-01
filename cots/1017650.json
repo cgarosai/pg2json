@@ -1,0 +1,10 @@
+{
+    "id": 1017650,
+    "name": "openvswitch",
+    "version": "3.0.3",
+    "created_at": "2023-01-13T15:59:32",
+    "updated_at": "2023-01-17T16:41:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvswitch:openvswitch:3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

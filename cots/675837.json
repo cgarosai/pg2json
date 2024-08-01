@@ -1,0 +1,10 @@
+{
+    "id": 675837,
+    "name": "akka-http",
+    "version": "10.1.8",
+    "created_at": "2021-03-11T15:28:36",
+    "updated_at": "2021-03-15T16:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightbend:akka-http:10.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

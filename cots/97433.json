@@ -1,0 +1,10 @@
+{
+    "id": 97433,
+    "name": "sentinel_agent_manager",
+    "version": "-",
+    "created_at": "2014-05-20T17:37:45",
+    "updated_at": "2021-04-13T15:21:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netiq:sentinel_agent_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

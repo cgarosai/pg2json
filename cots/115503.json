@@ -1,0 +1,10 @@
+{
+    "id": 115503,
+    "name": "office",
+    "version": "10.3.0",
+    "created_at": "2016-02-22T18:54:12",
+    "updated_at": "2016-02-22T18:54:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybozu:office:10.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

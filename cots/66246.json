@@ -1,0 +1,10 @@
+{
+    "id": 66246,
+    "name": "php5-common",
+    "version": "5.3.3-7\\+squeeze4",
+    "created_at": "2012-08-08T12:16:54",
+    "updated_at": "2012-08-10T15:07:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:php5-common:5.3.3-7\\+squeeze4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

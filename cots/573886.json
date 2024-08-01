@@ -1,0 +1,10 @@
+{
+    "id": 573886,
+    "name": "aerospike_server",
+    "version": "4.8.0.3",
+    "created_at": "2020-08-11T15:37:48",
+    "updated_at": "2020-08-11T15:37:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aerospike:aerospike_server:4.8.0.3:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

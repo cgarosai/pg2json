@@ -1,0 +1,10 @@
+{
+    "id": 601168,
+    "name": "sg500x-48p_firmware",
+    "version": "2.5.5.47",
+    "created_at": "2020-10-08T13:28:45",
+    "updated_at": "2020-10-08T13:28:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg500x-48p_firmware:2.5.5.47:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 633976,
+    "name": "serde_cbor",
+    "version": "0.8.2",
+    "created_at": "2021-01-05T12:09:17",
+    "updated_at": "2021-01-05T12:09:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serde_cbor_project:serde_cbor:0.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

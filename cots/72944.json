@@ -1,0 +1,10 @@
+{
+    "id": 72944,
+    "name": "advanced_management_module_firmware",
+    "version": "3.64",
+    "created_at": "2013-08-16T15:32:20",
+    "updated_at": "2013-08-21T17:10:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:advanced_management_module_firmware:3.64:bbet64b:*:*:*:*:*:*",
+    "to_analyse": false
+}

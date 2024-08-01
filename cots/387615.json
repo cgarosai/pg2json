@@ -1,0 +1,10 @@
+{
+    "id": 387615,
+    "name": "electron-packager",
+    "version": "3.3.0",
+    "created_at": "2019-09-24T13:41:20",
+    "updated_at": "2019-09-24T13:41:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:electron-packager_project:electron-packager:3.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

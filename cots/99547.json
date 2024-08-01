@@ -1,0 +1,10 @@
+{
+    "id": 99547,
+    "name": "marketing_platform",
+    "version": "7.5.2.0",
+    "created_at": "2014-06-30T12:29:35",
+    "updated_at": "2014-07-15T17:59:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:marketing_platform:7.5.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

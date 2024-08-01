@@ -1,0 +1,10 @@
+{
+    "id": 119275,
+    "name": "documentum_taskspace",
+    "version": "6.7",
+    "created_at": "2016-06-23T12:16:37",
+    "updated_at": "2021-05-24T14:07:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:documentum_taskspace:6.7:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 648145,
+    "name": "fork",
+    "version": "5.3.1",
+    "created_at": "2021-01-12T16:41:04",
+    "updated_at": "2021-07-12T11:58:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fork-cms:fork:5.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

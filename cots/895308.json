@@ -1,0 +1,10 @@
+{
+    "id": 895308,
+    "name": "ssh.net",
+    "version": "2020.0.2",
+    "created_at": "2022-06-08T13:08:12",
+    "updated_at": "2022-06-08T14:15:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssh.net_project:ssh.net:2020.0.2:*:*:*:*:.net:*:*",
+    "to_analyse": false
+}

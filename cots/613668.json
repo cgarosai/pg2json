@@ -1,0 +1,10 @@
+{
+    "id": 613668,
+    "name": "introscope_enterprise_manager",
+    "version": "10.5",
+    "created_at": "2020-11-19T12:14:13",
+    "updated_at": "2020-11-19T12:14:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:introscope_enterprise_manager:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 656307,
+    "name": "minio",
+    "version": "2020-12-03t05-49-24z",
+    "created_at": "2021-02-03T16:42:50",
+    "updated_at": "2021-02-03T16:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:minio:minio:2020-12-03t05-49-24z:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 172151,
+    "name": "electron",
+    "version": "1.7.15",
+    "created_at": "2018-10-16T14:46:29",
+    "updated_at": "2018-10-16T14:46:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:electronjs:electron:1.7.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

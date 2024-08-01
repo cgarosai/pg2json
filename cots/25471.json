@@ -1,0 +1,10 @@
+{
+    "id": 25471,
+    "name": "piwik",
+    "version": "0.2.28",
+    "created_at": "2009-03-26T11:58:24",
+    "updated_at": "2019-11-21T12:29:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:piwik:piwik:0.2.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 614828,
+    "name": "cron-utils",
+    "version": "6.0.4",
+    "created_at": "2020-11-30T11:42:21",
+    "updated_at": "2020-11-30T11:42:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cron-utils_project:cron-utils:6.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

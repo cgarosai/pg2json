@@ -1,0 +1,10 @@
+{
+    "id": 96962,
+    "name": "drupalauth",
+    "version": "1.2.2",
+    "created_at": "2014-05-14T22:00:26",
+    "updated_at": "2014-05-14T22:01:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drupalauth_project:drupalauth:1.2.2:-:-:*:-:simplesamlphp:*:*",
+    "to_analyse": false
+}

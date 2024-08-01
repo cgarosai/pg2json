@@ -1,0 +1,10 @@
+{
+    "id": 111011,
+    "name": "protection_engine",
+    "version": "7.0.5",
+    "created_at": "2016-09-09T15:48:05",
+    "updated_at": "2016-09-09T15:48:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:protection_engine:7.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 515962,
+    "name": "dojo",
+    "version": "1.14.4",
+    "created_at": "2020-03-12T16:12:11",
+    "updated_at": "2020-03-12T16:12:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:dojo:1.14.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

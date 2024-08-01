@@ -1,0 +1,10 @@
+{
+    "id": 453432,
+    "name": "infosphere_data_replication_dashboard",
+    "version": "11.3.0",
+    "created_at": "2019-12-10T17:41:20",
+    "updated_at": "2019-12-10T17:41:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_data_replication_dashboard:11.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 833872,
+    "name": "software_update",
+    "version": "2.5.2",
+    "created_at": "2022-02-01T14:54:22",
+    "updated_at": "2022-04-19T11:17:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:software_update:2.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

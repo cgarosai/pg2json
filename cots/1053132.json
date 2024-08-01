@@ -1,0 +1,10 @@
+{
+    "id": 1053132,
+    "name": "final_user",
+    "version": "1.2.2",
+    "created_at": "2023-04-03T10:14:47",
+    "updated_at": "2023-04-03T15:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:e-plugins:final_user:1.2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

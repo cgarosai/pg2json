@@ -1,0 +1,10 @@
+{
+    "id": 586569,
+    "name": "centreon_tactical-overview_widget",
+    "version": "1.0.3",
+    "created_at": "2020-08-17T12:47:39",
+    "updated_at": "2020-08-17T12:47:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:centreon:centreon_tactical-overview_widget:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

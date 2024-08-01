@@ -1,0 +1,10 @@
+{
+    "id": 57665,
+    "name": "contributor_client",
+    "version": "8.4",
+    "created_at": "2012-05-08T11:51:56",
+    "updated_at": "2012-05-08T11:51:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cognos:contributor_client:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

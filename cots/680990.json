@@ -1,0 +1,10 @@
+{
+    "id": 680990,
+    "name": "investigation_tool",
+    "version": "1.0.0",
+    "created_at": "2021-04-08T11:32:56",
+    "updated_at": "2021-04-09T15:11:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:investigation_tool:1.0.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

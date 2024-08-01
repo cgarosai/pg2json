@@ -1,0 +1,10 @@
+{
+    "id": 917200,
+    "name": "simple_page_transition",
+    "version": "1.2",
+    "created_at": "2022-07-29T12:40:01",
+    "updated_at": "2022-08-01T14:36:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_page_transition_project:simple_page_transition:1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

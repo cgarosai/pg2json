@@ -1,0 +1,10 @@
+{
+    "id": 486206,
+    "name": "zechat",
+    "version": "1.5",
+    "created_at": "2020-01-30T14:56:35",
+    "updated_at": "2020-01-30T14:56:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zechat_project:zechat:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

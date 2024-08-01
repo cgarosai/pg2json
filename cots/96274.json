@@ -1,0 +1,10 @@
+{
+    "id": 96274,
+    "name": "ruby_on_rails",
+    "version": "4.1.1",
+    "created_at": "2014-05-07T12:47:46",
+    "updated_at": "2019-08-08T13:16:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

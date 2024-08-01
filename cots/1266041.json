@@ -1,0 +1,10 @@
+{
+    "id": 1266041,
+    "name": "sqlalchemyda",
+    "version": "0.2.0",
+    "created_at": "2024-02-29T16:09:10",
+    "updated_at": "2024-02-29T16:09:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zope:sqlalchemyda:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

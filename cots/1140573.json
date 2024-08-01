@@ -1,0 +1,10 @@
+{
+    "id": 1140573,
+    "name": "ric_message_router",
+    "version": "4.9.0",
+    "created_at": "2023-08-30T12:32:58",
+    "updated_at": "2023-08-31T14:00:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:o-ran-sc:ric_message_router:4.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

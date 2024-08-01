@@ -1,0 +1,10 @@
+{
+    "id": 1169492,
+    "name": "conemu",
+    "version": "220807",
+    "created_at": "2023-09-28T14:39:08",
+    "updated_at": "2023-10-03T13:18:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conemu_project:conemu:220807:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

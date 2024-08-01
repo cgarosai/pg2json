@@ -1,0 +1,10 @@
+{
+    "id": 1028558,
+    "name": "thinkpad_l490_firmware",
+    "version": "r0zet50w",
+    "created_at": "2023-02-07T16:28:20",
+    "updated_at": "2023-02-14T18:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_l490_firmware:r0zet50w:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 662140,
+    "name": "hugo",
+    "version": "0.20.6",
+    "created_at": "2021-03-04T16:19:52",
+    "updated_at": "2021-03-04T16:23:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gohugo:hugo:0.20.6:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

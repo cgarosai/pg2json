@@ -1,0 +1,10 @@
+{
+    "id": 989231,
+    "name": "windows_10_1709",
+    "version": "-",
+    "created_at": "2022-12-09T15:21:07",
+    "updated_at": "2023-10-15T15:02:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_10_1709:-:*:*:*:*:*:x86:*",
+    "to_analyse": false
+}

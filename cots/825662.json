@@ -1,0 +1,10 @@
+{
+    "id": 825662,
+    "name": "ceph_storage",
+    "version": "5.0",
+    "created_at": "2021-12-13T15:24:15",
+    "updated_at": "2022-01-04T14:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ceph_storage:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

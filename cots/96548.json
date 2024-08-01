@@ -1,0 +1,10 @@
+{
+    "id": 96548,
+    "name": "operational_decision_manager",
+    "version": "7.5",
+    "created_at": "2014-05-09T16:04:56",
+    "updated_at": "2014-05-14T22:34:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:operational_decision_manager:7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

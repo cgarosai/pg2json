@@ -1,0 +1,10 @@
+{
+    "id": 270566,
+    "name": "miniupnpd",
+    "version": "1.5",
+    "created_at": "2019-06-26T14:39:04",
+    "updated_at": "2019-06-26T14:39:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniupnp_project:miniupnpd:1.5:2011-06-23:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 103268,
+    "name": "values",
+    "version": "7.x-1.0",
+    "created_at": "2016-01-12T13:52:42",
+    "updated_at": "2016-01-12T13:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:values_project:values:7.x-1.0:rc1:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

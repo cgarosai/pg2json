@@ -1,0 +1,10 @@
+{
+    "id": 2441,
+    "name": "mini_search_appliance",
+    "version": "4.4.102.m.36",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:10:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:google:mini_search_appliance:4.4.102.m.36:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

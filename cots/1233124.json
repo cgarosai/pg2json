@@ -1,0 +1,10 @@
+{
+    "id": 1233124,
+    "name": "fortivoice",
+    "version": "6.4.5",
+    "created_at": "2024-01-18T14:48:03",
+    "updated_at": "2024-01-18T14:48:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortivoice:6.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

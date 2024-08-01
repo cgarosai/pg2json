@@ -1,0 +1,10 @@
+{
+    "id": 1182020,
+    "name": "cms",
+    "version": "3.3.8",
+    "created_at": "2023-10-31T14:25:34",
+    "updated_at": "2023-10-31T14:25:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juzaweb:cms:3.3.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

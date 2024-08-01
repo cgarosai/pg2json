@@ -1,0 +1,10 @@
+{
+    "id": 634318,
+    "name": "windows_live_mail",
+    "version": "-",
+    "created_at": "2021-01-06T13:39:37",
+    "updated_at": "2021-01-06T13:39:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_live_mail:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

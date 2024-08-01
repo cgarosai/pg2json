@@ -1,0 +1,10 @@
+{
+    "id": 90870,
+    "name": "xf86-video-intel",
+    "version": "2.99.911",
+    "created_at": "2014-07-25T13:23:23",
+    "updated_at": "2014-07-29T17:11:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x:xf86-video-intel:2.99.911:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

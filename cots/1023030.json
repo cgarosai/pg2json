@@ -1,0 +1,10 @@
+{
+    "id": 1023030,
+    "name": "wangguard",
+    "version": "1.8.0",
+    "created_at": "2023-02-13T17:00:22",
+    "updated_at": "2023-05-01T12:01:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wangguard_project:wangguard:1.8.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

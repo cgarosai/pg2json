@@ -1,0 +1,10 @@
+{
+    "id": 92738,
+    "name": "government_bookstore",
+    "version": "1.01",
+    "created_at": "2014-09-16T11:00:26",
+    "updated_at": "2014-12-05T14:35:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:govhk:government_bookstore:1.01:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

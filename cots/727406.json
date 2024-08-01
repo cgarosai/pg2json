@@ -1,0 +1,10 @@
+{
+    "id": 727406,
+    "name": "meshery",
+    "version": "0.5.0",
+    "created_at": "2021-06-11T11:34:14",
+    "updated_at": "2021-06-11T11:35:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:layer5:meshery:0.5.0:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

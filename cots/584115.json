@@ -1,0 +1,10 @@
+{
+    "id": 584115,
+    "name": "mongodb_object_document_mapper",
+    "version": "1.0.0",
+    "created_at": "2020-09-02T12:09:10",
+    "updated_at": "2020-09-02T12:09:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:doctrine-project:mongodb_object_document_mapper:1.0.0:beta7:*:*:*:*:*:*",
+    "to_analyse": false
+}

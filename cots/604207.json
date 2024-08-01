@@ -1,0 +1,10 @@
+{
+    "id": 604207,
+    "name": "nats.js",
+    "version": "2.0.0-209",
+    "created_at": "2020-10-20T14:59:12",
+    "updated_at": "2020-10-20T14:59:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:nats.js:2.0.0-209:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 651478,
+    "name": "bot",
+    "version": "2021-02-08",
+    "created_at": "2021-02-16T17:55:01",
+    "updated_at": "2021-08-17T13:48:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:probot:bot:2021-02-08:*:*:*:*:discord:*:*",
+    "to_analyse": false
+}

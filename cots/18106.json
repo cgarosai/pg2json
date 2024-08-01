@@ -1,0 +1,10 @@
+{
+    "id": 18106,
+    "name": "ssh2",
+    "version": "2.0.7",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T18:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssh:ssh2:2.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

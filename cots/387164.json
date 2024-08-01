@@ -1,0 +1,10 @@
+{
+    "id": 387164,
+    "name": "f2e-server",
+    "version": "2.5.3",
+    "created_at": "2019-09-24T12:39:05",
+    "updated_at": "2019-09-24T12:39:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f2e-server_project:f2e-server:2.5.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 110115,
+    "name": "tivoli_storage_flashcopy_manager_for_sql_server",
+    "version": "3.2.1.5",
+    "created_at": "2016-08-11T18:59:22",
+    "updated_at": "2021-05-27T14:35:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_flashcopy_manager_for_sql_server:3.2.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

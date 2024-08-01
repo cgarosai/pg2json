@@ -1,0 +1,10 @@
+{
+    "id": 486426,
+    "name": "undertow",
+    "version": "2.0.24",
+    "created_at": "2020-01-30T18:37:03",
+    "updated_at": "2020-01-30T18:37:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:undertow:2.0.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

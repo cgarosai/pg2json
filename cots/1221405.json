@@ -1,0 +1,10 @@
+{
+    "id": 1221405,
+    "name": "aws_software_development_kit",
+    "version": "2.7.3",
+    "created_at": "2024-01-03T17:22:01",
+    "updated_at": "2024-01-03T17:22:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_software_development_kit:2.7.3:-:*:*:*:php:*:*",
+    "to_analyse": false
+}

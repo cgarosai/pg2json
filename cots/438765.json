@@ -1,0 +1,10 @@
+{
+    "id": 438765,
+    "name": "chef",
+    "version": "15.4.64",
+    "created_at": "2019-11-18T13:19:21",
+    "updated_at": "2019-11-18T13:19:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chef:chef:15.4.64:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

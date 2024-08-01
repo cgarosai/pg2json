@@ -1,0 +1,10 @@
+{
+    "id": 277569,
+    "name": "java_buildpack",
+    "version": "3.9",
+    "created_at": "2019-06-24T16:42:46",
+    "updated_at": "2019-06-24T16:42:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:java_buildpack:3.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

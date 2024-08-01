@@ -1,0 +1,10 @@
+{
+    "id": 74823,
+    "name": "jgroup",
+    "version": "3.0.8",
+    "created_at": "2013-09-30T14:52:48",
+    "updated_at": "2013-10-02T16:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jgroups:jgroup:3.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

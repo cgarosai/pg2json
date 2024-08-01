@@ -1,0 +1,10 @@
+{
+    "id": 1242734,
+    "name": "goreleaser",
+    "version": "1.6.2",
+    "created_at": "2024-02-05T17:38:41",
+    "updated_at": "2024-02-05T17:38:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goreleaser:goreleaser:1.6.2:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

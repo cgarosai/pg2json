@@ -1,0 +1,10 @@
+{
+    "id": 38003,
+    "name": "teamspeak2",
+    "version": "2.0.32.60",
+    "created_at": "2010-10-21T17:57:21",
+    "updated_at": "2010-10-21T19:04:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teamspeak:teamspeak2:2.0.32.60:-:client:*:*:*:*:*",
+    "to_analyse": false
+}

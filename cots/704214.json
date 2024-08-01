@@ -1,0 +1,10 @@
+{
+    "id": 704214,
+    "name": "nessus_network_monitor",
+    "version": "5.11.0",
+    "created_at": "2021-05-25T16:08:34",
+    "updated_at": "2021-08-19T10:07:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tenable:nessus_network_monitor:5.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

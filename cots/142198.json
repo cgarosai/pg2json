@@ -1,0 +1,10 @@
+{
+    "id": 142198,
+    "name": "kaazing_gateway",
+    "version": "5.0.3",
+    "created_at": "2018-05-16T16:57:57",
+    "updated_at": "2021-04-19T15:49:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaazing:kaazing_gateway:5.0.3:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

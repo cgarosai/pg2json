@@ -1,0 +1,10 @@
+{
+    "id": 128267,
+    "name": "endpoint_protection_for_small_business",
+    "version": "-",
+    "created_at": "2017-04-25T16:53:00",
+    "updated_at": "2022-04-21T14:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:endpoint_protection_for_small_business:-:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

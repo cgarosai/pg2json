@@ -1,0 +1,10 @@
+{
+    "id": 57362,
+    "name": "network_discovery_gateway",
+    "version": "2.0.41.0",
+    "created_at": "2012-05-08T11:50:40",
+    "updated_at": "2021-04-09T16:51:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:network_discovery_gateway:2.0.41.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

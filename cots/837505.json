@@ -1,0 +1,10 @@
+{
+    "id": 837505,
+    "name": "pam-config",
+    "version": "-",
+    "created_at": "2022-01-18T12:41:11",
+    "updated_at": "2022-01-18T12:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:pam-config:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

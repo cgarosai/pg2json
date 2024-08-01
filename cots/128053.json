@@ -1,0 +1,10 @@
+{
+    "id": 128053,
+    "name": "financial_transaction_manager",
+    "version": "3.0.0.15",
+    "created_at": "2017-04-24T22:49:42",
+    "updated_at": "2017-04-24T22:49:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.15:*:*:*:*:check_services:*:*",
+    "to_analyse": false
+}

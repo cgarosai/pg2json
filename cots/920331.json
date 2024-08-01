@@ -1,0 +1,10 @@
+{
+    "id": 920331,
+    "name": "teleport",
+    "version": "4.2.8",
+    "created_at": "2022-08-25T13:11:35",
+    "updated_at": "2022-08-25T13:41:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goteleport:teleport:4.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

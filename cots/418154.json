@@ -1,0 +1,10 @@
+{
+    "id": 418154,
+    "name": "libvirt_slaves",
+    "version": "1.5",
+    "created_at": "2019-10-24T10:09:45",
+    "updated_at": "2019-10-24T10:09:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:libvirt_slaves:1.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

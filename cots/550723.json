@@ -1,0 +1,10 @@
+{
+    "id": 550723,
+    "name": "node-wixtoolset",
+    "version": "1.0.0",
+    "created_at": "2020-06-15T16:34:29",
+    "updated_at": "2020-06-15T16:34:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-wixtoolset_project:node-wixtoolset:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

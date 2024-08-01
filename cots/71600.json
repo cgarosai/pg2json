@@ -1,0 +1,10 @@
+{
+    "id": 71600,
+    "name": "nano-10_plc",
+    "version": "-",
+    "created_at": "2013-07-11T14:14:42",
+    "updated_at": "2013-07-12T16:25:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:triplc:nano-10_plc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

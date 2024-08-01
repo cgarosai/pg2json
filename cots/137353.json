@@ -1,0 +1,10 @@
+{
+    "id": 137353,
+    "name": "gridgain",
+    "version": "8.0.0",
+    "created_at": "2017-10-25T17:34:20",
+    "updated_at": "2017-10-25T17:34:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gridgain:gridgain:8.0.0:ea4:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 965741,
+    "name": "unicorn_engine",
+    "version": "2.0.0",
+    "created_at": "2022-10-31T16:40:31",
+    "updated_at": "2022-10-31T16:41:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unicorn-engine:unicorn_engine:2.0.0:rc7:*:*:*:*:*:*",
+    "to_analyse": false
+}

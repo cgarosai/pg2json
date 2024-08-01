@@ -1,0 +1,10 @@
+{
+    "id": 103791,
+    "name": "glibc",
+    "version": "2.22",
+    "created_at": "2016-01-22T16:15:07",
+    "updated_at": "2023-12-06T12:11:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:glibc:2.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

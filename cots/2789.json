@@ -1,0 +1,10 @@
+{
+    "id": 2789,
+    "name": "storageworks_san_switch",
+    "version": "2.4.10",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:storageworks_san_switch:2.4.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

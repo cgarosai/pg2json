@@ -1,0 +1,10 @@
+{
+    "id": 889894,
+    "name": "signage_rebooter_rpc-m4hsi_firmware",
+    "version": "1.00a",
+    "created_at": "2022-06-01T11:42:55",
+    "updated_at": "2022-06-01T13:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:meikyo:signage_rebooter_rpc-m4hsi_firmware:1.00a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 406229,
+    "name": "kube-state-metrics",
+    "version": "1.8.0",
+    "created_at": "2019-10-08T17:12:42",
+    "updated_at": "2019-10-08T17:12:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:kube-state-metrics:1.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

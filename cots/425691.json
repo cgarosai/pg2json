@@ -1,0 +1,10 @@
+{
+    "id": 425691,
+    "name": "gpon_firmware",
+    "version": "-",
+    "created_at": "2019-11-01T11:51:57",
+    "updated_at": "2019-11-01T11:51:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hinet:gpon_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

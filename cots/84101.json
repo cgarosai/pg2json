@@ -1,0 +1,10 @@
+{
+    "id": 84101,
+    "name": "postfix_admin",
+    "version": "2.3",
+    "created_at": "2014-04-03T12:11:26",
+    "updated_at": "2014-04-10T16:41:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postfix_admin_project:postfix_admin:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

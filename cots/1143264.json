@@ -1,0 +1,10 @@
+{
+    "id": 1143264,
+    "name": "agent",
+    "version": "c23.05",
+    "created_at": "2023-09-05T14:35:43",
+    "updated_at": "2023-09-05T17:22:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acronis:agent:c23.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

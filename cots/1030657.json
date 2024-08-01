@@ -1,0 +1,10 @@
+{
+    "id": 1030657,
+    "name": "mpi_library",
+    "version": "-",
+    "created_at": "2023-02-28T15:03:15",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:mpi_library:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

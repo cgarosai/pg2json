@@ -1,0 +1,10 @@
+{
+    "id": 659771,
+    "name": "async-h1",
+    "version": "2.2.0",
+    "created_at": "2021-02-10T18:52:12",
+    "updated_at": "2021-02-10T18:52:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:async-h1:2.2.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 86062,
+    "name": "torque_resource_manager",
+    "version": "4.2.2",
+    "created_at": "2013-10-15T13:21:50",
+    "updated_at": "2013-10-15T17:38:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adaptivecomputing:torque_resource_manager:4.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

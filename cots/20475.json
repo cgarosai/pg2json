@@ -1,0 +1,10 @@
+{
+    "id": 20475,
+    "name": "tftp_server",
+    "version": "1.05",
+    "created_at": "2010-01-07T15:08:22",
+    "updated_at": "2010-01-07T15:08:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:3com:tftp_server:1.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

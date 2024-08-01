@@ -1,0 +1,10 @@
+{
+    "id": 833858,
+    "name": "evw2_firmware",
+    "version": "3.4.0.2",
+    "created_at": "2022-02-01T14:27:17",
+    "updated_at": "2022-09-14T15:05:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:evw2_firmware:3.4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

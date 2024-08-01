@@ -1,0 +1,10 @@
+{
+    "id": 271752,
+    "name": "zywall_vpn300",
+    "version": "-",
+    "created_at": "2019-06-28T12:44:12",
+    "updated_at": "2021-04-29T15:43:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:zyxel:zywall_vpn300:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

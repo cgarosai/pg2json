@@ -1,0 +1,10 @@
+{
+    "id": 381739,
+    "name": "macaca-chromedriver",
+    "version": "1.0.35",
+    "created_at": "2019-09-25T16:47:38",
+    "updated_at": "2019-09-25T16:47:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:macacajs:macaca-chromedriver:1.0.35:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

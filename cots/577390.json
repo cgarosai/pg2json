@@ -1,0 +1,10 @@
+{
+    "id": 577390,
+    "name": "uvicorn",
+    "version": "0.8.0",
+    "created_at": "2020-07-28T13:34:04",
+    "updated_at": "2020-07-28T13:34:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:encode:uvicorn:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 651442,
+    "name": "network_performance_monitor",
+    "version": "2020.2",
+    "created_at": "2021-02-16T14:55:03",
+    "updated_at": "2021-08-09T13:41:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:network_performance_monitor:2020.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

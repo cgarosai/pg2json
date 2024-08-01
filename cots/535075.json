@@ -1,0 +1,10 @@
+{
+    "id": 535075,
+    "name": "mate_s_firmware",
+    "version": "-",
+    "created_at": "2020-04-13T17:09:41",
+    "updated_at": "2020-04-13T17:09:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mate_s_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

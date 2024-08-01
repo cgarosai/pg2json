@@ -1,0 +1,10 @@
+{
+    "id": 684155,
+    "name": "rv340w_firmware",
+    "version": "1.0.3.21",
+    "created_at": "2021-04-13T11:52:46",
+    "updated_at": "2021-04-23T12:29:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv340w_firmware:1.0.3.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

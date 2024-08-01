@@ -1,0 +1,10 @@
+{
+    "id": 902821,
+    "name": "flyteadmin",
+    "version": "-",
+    "created_at": "2022-07-19T13:09:20",
+    "updated_at": "2022-07-19T15:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flyte:flyteadmin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 522932,
+    "name": "microk8s",
+    "version": "1.15.3",
+    "created_at": "2020-04-09T17:49:43",
+    "updated_at": "2020-04-09T17:49:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:microk8s:1.15.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 587860,
+    "name": "dashlane",
+    "version": "5.15.2",
+    "created_at": "2020-08-19T14:01:51",
+    "updated_at": "2020-08-19T14:01:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dashlane:dashlane:5.15.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

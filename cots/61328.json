@@ -1,0 +1,10 @@
+{
+    "id": 61328,
+    "name": "serverconductor\\/deploymentmanager",
+    "version": "06-00",
+    "created_at": "2012-10-26T12:11:53",
+    "updated_at": "2012-10-26T16:20:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:serverconductor\\/deploymentmanager:06-00:-:-:ja:*:*:*:*",
+    "to_analyse": false
+}

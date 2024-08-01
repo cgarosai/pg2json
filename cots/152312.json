@@ -1,0 +1,10 @@
+{
+    "id": 152312,
+    "name": "ansible_tower",
+    "version": "1.4.0",
+    "created_at": "2018-06-07T13:18:03",
+    "updated_at": "2018-06-07T13:18:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible_tower:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

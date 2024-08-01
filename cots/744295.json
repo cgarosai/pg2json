@@ -1,0 +1,10 @@
+{
+    "id": 744295,
+    "name": "alienvault_ossim",
+    "version": "5.0",
+    "created_at": "2021-07-29T11:01:31",
+    "updated_at": "2021-08-19T11:44:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:att:alienvault_ossim:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

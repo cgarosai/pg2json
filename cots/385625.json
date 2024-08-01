@@ -1,0 +1,10 @@
+{
+    "id": 385625,
+    "name": "merge-deep",
+    "version": "0.1.4",
+    "created_at": "2019-09-23T16:18:16",
+    "updated_at": "2019-09-23T16:18:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:merge-deep_project:merge-deep:0.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

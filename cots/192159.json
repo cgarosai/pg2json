@@ -1,0 +1,10 @@
+{
+    "id": 192159,
+    "name": "slf4j-log4j12",
+    "version": "1.5.5",
+    "created_at": "2019-01-10T15:03:18",
+    "updated_at": "2019-01-10T15:03:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slf4j:slf4j-log4j12:1.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

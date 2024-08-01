@@ -1,0 +1,10 @@
+{
+    "id": 171481,
+    "name": "bittorrent_client",
+    "version": "4.8.1.0",
+    "created_at": "2018-10-15T13:15:12",
+    "updated_at": "2018-10-15T13:15:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vuze:bittorrent_client:4.8.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

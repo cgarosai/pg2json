@@ -1,0 +1,10 @@
+{
+    "id": 350045,
+    "name": "alfresco",
+    "version": "6.0",
+    "created_at": "2019-09-06T12:37:08",
+    "updated_at": "2019-09-06T12:37:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alfresco:alfresco:6.0:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

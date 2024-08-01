@@ -1,0 +1,10 @@
+{
+    "id": 65920,
+    "name": "vsphere_profile-driven_storage",
+    "version": "5.0.0.16964",
+    "created_at": "2012-08-01T19:33:47",
+    "updated_at": "2012-08-01T19:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vsphere_profile-driven_storage:5.0.0.16964:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

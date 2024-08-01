@@ -1,0 +1,10 @@
+{
+    "id": 912935,
+    "name": "workload_scheduler",
+    "version": "9.5",
+    "created_at": "2022-08-11T13:41:10",
+    "updated_at": "2022-08-11T13:43:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:workload_scheduler:9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

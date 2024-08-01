@@ -1,0 +1,10 @@
+{
+    "id": 512627,
+    "name": "coldfusion",
+    "version": "2016",
+    "created_at": "2020-03-27T16:07:33",
+    "updated_at": "2020-09-04T12:09:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:coldfusion:2016:update_12:*:*:*:*:*:*",
+    "to_analyse": false
+}

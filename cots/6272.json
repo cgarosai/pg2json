@@ -1,0 +1,10 @@
+{
+    "id": 6272,
+    "name": "enterprise_collaboration",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T13:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hummingbird:enterprise_collaboration:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

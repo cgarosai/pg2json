@@ -1,0 +1,10 @@
+{
+    "id": 1079258,
+    "name": "ctms",
+    "version": "7.0_1227",
+    "created_at": "2023-05-05T11:58:07",
+    "updated_at": "2023-05-06T12:08:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun.net:ctms:7.0_1227:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

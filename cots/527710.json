@@ -1,0 +1,10 @@
+{
+    "id": 527710,
+    "name": "conjur_service_broker",
+    "version": "-",
+    "created_at": "2020-04-01T18:18:46",
+    "updated_at": "2020-04-01T18:18:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyberark:conjur_service_broker:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

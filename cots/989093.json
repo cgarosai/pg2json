@@ -1,0 +1,10 @@
+{
+    "id": 989093,
+    "name": "dwr-pg_firmware",
+    "version": "-",
+    "created_at": "2022-12-09T14:14:46",
+    "updated_at": "2022-12-09T15:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:buffalo:dwr-pg_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

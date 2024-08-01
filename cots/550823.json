@@ -1,0 +1,10 @@
+{
+    "id": 550823,
+    "name": "minify",
+    "version": "2.7.6",
+    "created_at": "2020-06-15T18:44:59",
+    "updated_at": "2020-06-15T18:44:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastvelocity:minify:2.7.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

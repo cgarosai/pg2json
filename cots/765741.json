@@ -1,0 +1,10 @@
+{
+    "id": 765741,
+    "name": "analytics",
+    "version": "-",
+    "created_at": "2021-08-18T09:38:50",
+    "updated_at": "2021-09-22T17:48:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:analytics:-:*:*:*:on-prem:*:*:*",
+    "to_analyse": false
+}

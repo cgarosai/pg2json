@@ -1,0 +1,10 @@
+{
+    "id": 554157,
+    "name": "ios_xr",
+    "version": "7.0.11",
+    "created_at": "2020-06-23T16:04:09",
+    "updated_at": "2020-06-23T16:04:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ios_xr:7.0.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

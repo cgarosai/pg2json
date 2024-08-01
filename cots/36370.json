@@ -1,0 +1,10 @@
+{
+    "id": 36370,
+    "name": "zope-ldapuserfolder",
+    "version": "2.9",
+    "created_at": "2010-08-30T23:27:45",
+    "updated_at": "2010-08-30T23:27:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jens_vagelpohl:zope-ldapuserfolder:2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

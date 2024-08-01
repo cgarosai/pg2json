@@ -1,0 +1,10 @@
+{
+    "id": 164276,
+    "name": "tigervnc",
+    "version": "-",
+    "created_at": "2018-08-29T16:45:32",
+    "updated_at": "2018-08-29T16:45:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tigervnc:tigervnc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

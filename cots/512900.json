@@ -1,0 +1,10 @@
+{
+    "id": 512900,
+    "name": "air_5750_firmware",
+    "version": "1.0.0.18",
+    "created_at": "2020-03-27T20:13:09",
+    "updated_at": "2020-03-27T20:13:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:airties:air_5750_firmware:1.0.0.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

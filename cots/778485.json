@@ -1,0 +1,10 @@
+{
+    "id": 778485,
+    "name": "custom_website_data",
+    "version": "2.2",
+    "created_at": "2021-09-14T14:04:41",
+    "updated_at": "2021-09-18T23:27:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_website_data_project:custom_website_data:2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

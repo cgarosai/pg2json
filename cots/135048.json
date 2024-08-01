@@ -1,0 +1,10 @@
+{
+    "id": 135048,
+    "name": "mu553s_firmware",
+    "version": "mu553s-v1.14",
+    "created_at": "2017-09-19T13:54:57",
+    "updated_at": "2021-04-28T12:06:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axesstel:mu553s_firmware:mu553s-v1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

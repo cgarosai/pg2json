@@ -1,0 +1,10 @@
+{
+    "id": 864189,
+    "name": "metasys_application_and_data_server",
+    "version": "11.0.2",
+    "created_at": "2022-04-13T14:38:22",
+    "updated_at": "2022-04-14T10:47:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:johnsoncontrols:metasys_application_and_data_server:11.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 163495,
+    "name": "firewall_analyzer",
+    "version": "-",
+    "created_at": "2018-08-17T15:05:10",
+    "updated_at": "2021-08-09T13:58:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:firewall_analyzer:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

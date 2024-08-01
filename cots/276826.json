@@ -1,0 +1,10 @@
+{
+    "id": 276826,
+    "name": "cloudera_manager",
+    "version": "5.8.4",
+    "created_at": "2019-06-24T14:15:47",
+    "updated_at": "2019-06-24T14:15:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

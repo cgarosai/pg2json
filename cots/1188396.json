@@ -1,0 +1,10 @@
+{
+    "id": 1188396,
+    "name": "n300_firmware",
+    "version": "53.0.1.6",
+    "created_at": "2023-10-26T13:09:51",
+    "updated_at": "2023-10-26T13:09:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenda:n300_firmware:53.0.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

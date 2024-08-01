@@ -1,0 +1,10 @@
+{
+    "id": 176200,
+    "name": "core_2_duo",
+    "version": "sp9300",
+    "created_at": "2018-09-11T16:55:47",
+    "updated_at": "2021-04-30T11:32:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_2_duo:sp9300:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

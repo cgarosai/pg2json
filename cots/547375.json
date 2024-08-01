@@ -1,0 +1,10 @@
+{
+    "id": 547375,
+    "name": "apparmor",
+    "version": "-",
+    "created_at": "2020-05-08T16:09:19",
+    "updated_at": "2020-05-08T16:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:apparmor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

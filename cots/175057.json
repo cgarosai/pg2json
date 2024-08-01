@@ -1,0 +1,10 @@
+{
+    "id": 175057,
+    "name": "qemu",
+    "version": "3.0.0",
+    "created_at": "2018-09-06T11:47:08",
+    "updated_at": "2018-09-06T11:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qemu:qemu:3.0.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

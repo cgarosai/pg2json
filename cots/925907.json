@@ -1,0 +1,10 @@
+{
+    "id": 925907,
+    "name": "aws-sdk-java",
+    "version": "1.11.777",
+    "created_at": "2022-08-17T14:30:35",
+    "updated_at": "2022-08-20T01:57:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws-sdk-java:1.11.777:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

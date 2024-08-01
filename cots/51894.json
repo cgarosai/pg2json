@@ -1,0 +1,10 @@
+{
+    "id": 51894,
+    "name": "install_application",
+    "version": "2.0.14.0",
+    "created_at": "2012-06-21T17:10:28",
+    "updated_at": "2012-06-21T17:10:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:install_application:2.0.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

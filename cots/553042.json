@@ -1,0 +1,10 @@
+{
+    "id": 553042,
+    "name": "ios_xe",
+    "version": "16.12.2",
+    "created_at": "2020-06-22T14:07:13",
+    "updated_at": "2020-06-22T14:07:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ios_xe:16.12.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

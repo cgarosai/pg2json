@@ -1,0 +1,10 @@
+{
+    "id": 498562,
+    "name": "nomad",
+    "version": "0.1.2",
+    "created_at": "2020-02-19T20:34:47",
+    "updated_at": "2020-02-19T20:34:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:nomad:0.1.2:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

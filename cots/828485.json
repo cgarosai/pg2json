@@ -1,0 +1,10 @@
+{
+    "id": 828485,
+    "name": "jboss_web_server",
+    "version": "3.0",
+    "created_at": "2021-12-16T19:56:41",
+    "updated_at": "2022-01-04T14:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_web_server:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 181312,
+    "name": "arris_tg2492lg-na_firmware",
+    "version": "061213",
+    "created_at": "2018-11-13T17:49:45",
+    "updated_at": "2021-07-02T10:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:commscope:arris_tg2492lg-na_firmware:061213:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

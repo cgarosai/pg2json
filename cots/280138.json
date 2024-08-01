@@ -1,0 +1,10 @@
+{
+    "id": 280138,
+    "name": "zeromq",
+    "version": "3.2.4",
+    "created_at": "2019-07-09T15:31:18",
+    "updated_at": "2019-07-09T15:31:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zeromq:zeromq:3.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

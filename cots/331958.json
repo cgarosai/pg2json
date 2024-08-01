@@ -1,0 +1,10 @@
+{
+    "id": 331958,
+    "name": "wechat",
+    "version": "6.7.3",
+    "created_at": "2019-08-15T15:55:10",
+    "updated_at": "2019-08-15T15:55:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tencent:wechat:6.7.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

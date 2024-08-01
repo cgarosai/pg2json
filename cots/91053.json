@@ -1,0 +1,10 @@
+{
+    "id": 91053,
+    "name": "s1000-e_vpn_firewall_appliance",
+    "version": "jd272a",
+    "created_at": "2014-07-29T13:31:52",
+    "updated_at": "2014-07-29T15:34:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:s1000-e_vpn_firewall_appliance:jd272a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

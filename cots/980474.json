@@ -1,0 +1,10 @@
+{
+    "id": 980474,
+    "name": "go-merkledag",
+    "version": "0.3.0",
+    "created_at": "2022-12-12T15:48:18",
+    "updated_at": "2022-12-12T16:33:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protocol:go-merkledag:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

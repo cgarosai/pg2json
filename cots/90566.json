@@ -1,0 +1,10 @@
+{
+    "id": 90566,
+    "name": "storevirtual_vsa",
+    "version": "-",
+    "created_at": "2014-07-16T12:29:20",
+    "updated_at": "2014-07-16T19:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:storevirtual_vsa:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

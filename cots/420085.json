@@ -1,0 +1,10 @@
+{
+    "id": 420085,
+    "name": "phpunit",
+    "version": "7.2.7",
+    "created_at": "2019-11-05T11:05:12",
+    "updated_at": "2020-01-08T13:02:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phpunit_project:phpunit:7.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

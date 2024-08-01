@@ -1,0 +1,10 @@
+{
+    "id": 1177696,
+    "name": "soft_serve",
+    "version": "0.4.3",
+    "created_at": "2023-10-13T09:08:22",
+    "updated_at": "2023-10-13T09:08:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:charm:soft_serve:0.4.3:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 870925,
+    "name": "freerdp",
+    "version": "2.3.0",
+    "created_at": "2022-05-03T15:04:23",
+    "updated_at": "2022-05-06T12:57:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freerdp:freerdp:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

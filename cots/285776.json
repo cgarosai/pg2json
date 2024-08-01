@@ -1,0 +1,10 @@
+{
+    "id": 285776,
+    "name": "bundler",
+    "version": "1.9.6",
+    "created_at": "2019-07-02T12:52:50",
+    "updated_at": "2019-07-02T12:52:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bundler:bundler:1.9.6:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 547287,
+    "name": "curlrequest",
+    "version": "0.5.4",
+    "created_at": "2020-05-08T14:16:04",
+    "updated_at": "2020-05-08T14:16:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:curlrequest_project:curlrequest:0.5.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

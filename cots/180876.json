@@ -1,0 +1,10 @@
+{
+    "id": 180876,
+    "name": "mod_perl",
+    "version": "2.0.0",
+    "created_at": "2018-11-08T16:13:04",
+    "updated_at": "2021-06-14T09:49:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:mod_perl:2.0.0:rc4:*:*:*:apache_http_server:*:*",
+    "to_analyse": false
+}

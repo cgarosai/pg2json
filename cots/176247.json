@@ -1,0 +1,10 @@
+{
+    "id": 176247,
+    "name": "core_solo",
+    "version": "t1350",
+    "created_at": "2018-09-11T16:55:47",
+    "updated_at": "2021-04-30T13:31:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_solo:t1350:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

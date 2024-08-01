@@ -1,0 +1,10 @@
+{
+    "id": 272331,
+    "name": "pacemaker",
+    "version": "1.1.12",
+    "created_at": "2019-06-28T16:42:50",
+    "updated_at": "2019-06-28T16:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusterlabs:pacemaker:1.1.12:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

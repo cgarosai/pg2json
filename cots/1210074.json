@@ -1,0 +1,10 @@
+{
+    "id": 1210074,
+    "name": "cloud_insights_storage_workload_security_agent",
+    "version": "-",
+    "created_at": "2023-12-16T02:42:31",
+    "updated_at": "2023-12-16T02:42:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:cloud_insights_storage_workload_security_agent:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

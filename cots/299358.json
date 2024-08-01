@@ -1,0 +1,10 @@
+{
+    "id": 299358,
+    "name": "manageengine_password_manager_pro",
+    "version": "8.5",
+    "created_at": "2019-07-15T15:20:40",
+    "updated_at": "2019-07-15T15:20:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:8.5:build8503:*:*:managed_service_providers:*:*:*",
+    "to_analyse": false
+}

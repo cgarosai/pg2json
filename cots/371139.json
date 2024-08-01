@@ -1,0 +1,10 @@
+{
+    "id": 371139,
+    "name": "frames-compiler",
+    "version": "-",
+    "created_at": "2019-09-20T15:01:32",
+    "updated_at": "2019-09-20T15:01:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frames-compiler_project:frames-compiler:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

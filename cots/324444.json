@@ -1,0 +1,10 @@
+{
+    "id": 324444,
+    "name": "apm-agent-ruby",
+    "version": "0.5.0",
+    "created_at": "2019-08-05T14:49:05",
+    "updated_at": "2019-08-05T14:49:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:apm-agent-ruby:0.5.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

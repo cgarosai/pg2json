@@ -1,0 +1,10 @@
+{
+    "id": 204427,
+    "name": "orion_platform",
+    "version": "2018.4",
+    "created_at": "2019-03-05T11:37:21",
+    "updated_at": "2019-03-05T11:37:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:orion_platform:2018.4:hotfix1:*:*:*:*:*:*",
+    "to_analyse": false
+}

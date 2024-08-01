@@ -1,0 +1,10 @@
+{
+    "id": 1232050,
+    "name": "kantega_saml_sso_oidc_kerberos_single_sign-on",
+    "version": "4.14.9",
+    "created_at": "2024-01-16T18:35:01",
+    "updated_at": "2024-01-16T18:35:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:4.14.9:*:*:*:*:jira:*:*",
+    "to_analyse": false
+}

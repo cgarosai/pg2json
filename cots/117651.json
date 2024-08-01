@@ -1,0 +1,10 @@
+{
+    "id": 117651,
+    "name": "nexus_player",
+    "version": "-",
+    "created_at": "2016-05-09T15:12:39",
+    "updated_at": "2021-08-04T14:24:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:google:nexus_player:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

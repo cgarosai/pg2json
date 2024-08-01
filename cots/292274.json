@@ -1,0 +1,10 @@
+{
+    "id": 292274,
+    "name": "http-file-server",
+    "version": "0.2.3",
+    "created_at": "2019-07-17T12:17:15",
+    "updated_at": "2019-07-17T12:17:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http-file-server_project:http-file-server:0.2.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

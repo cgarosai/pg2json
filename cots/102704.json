@@ -1,0 +1,10 @@
+{
+    "id": 102704,
+    "name": "wrt300n-dd_firmware",
+    "version": "1.0.26",
+    "created_at": "2015-12-31T15:07:43",
+    "updated_at": "2015-12-31T15:07:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:readynet_solutions:wrt300n-dd_firmware:1.0.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

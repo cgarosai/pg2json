@@ -1,0 +1,10 @@
+{
+    "id": 1188789,
+    "name": "tauri",
+    "version": "2.0.0",
+    "created_at": "2023-10-26T15:51:31",
+    "updated_at": "2023-10-26T15:51:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tauri:tauri:2.0.0:alpha9:*:*:*:*:*:*",
+    "to_analyse": false
+}

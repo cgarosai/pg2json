@@ -1,0 +1,10 @@
+{
+    "id": 230664,
+    "name": "master_ip_camera01",
+    "version": "-",
+    "created_at": "2019-05-08T15:59:17",
+    "updated_at": "2021-04-28T13:55:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:barni:master_ip_camera01:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

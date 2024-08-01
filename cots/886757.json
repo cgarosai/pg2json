@@ -1,0 +1,10 @@
+{
+    "id": 886757,
+    "name": "usg_flex_700_firmware",
+    "version": "5.00",
+    "created_at": "2022-05-18T14:10:36",
+    "updated_at": "2022-05-20T16:23:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:usg_flex_700_firmware:5.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

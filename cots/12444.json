@@ -1,0 +1,10 @@
+{
+    "id": 12444,
+    "name": "intrusion_prevention_system",
+    "version": "5.1",
+    "created_at": "2008-09-05T18:06:24",
+    "updated_at": "2012-05-30T18:46:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:intrusion_prevention_system:5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

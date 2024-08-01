@@ -1,0 +1,10 @@
+{
+    "id": 299221,
+    "name": "p9_firmware",
+    "version": "eva-l29",
+    "created_at": "2019-07-15T14:47:48",
+    "updated_at": "2019-07-15T14:47:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p9_firmware:eva-l29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

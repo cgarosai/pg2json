@@ -1,0 +1,10 @@
+{
+    "id": 515974,
+    "name": "simple_lossless_audio",
+    "version": "0.1.2",
+    "created_at": "2020-03-12T16:28:40",
+    "updated_at": "2020-03-12T16:28:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simple_lossless_audio_project:simple_lossless_audio:0.1.2:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

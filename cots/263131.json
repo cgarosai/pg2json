@@ -1,0 +1,10 @@
+{
+    "id": 263131,
+    "name": "weather_microserver",
+    "version": "-",
+    "created_at": "2019-06-18T15:36:41",
+    "updated_at": "2021-05-07T14:17:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:columbiaweather:weather_microserver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

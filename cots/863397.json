@@ -1,0 +1,10 @@
+{
+    "id": 863397,
+    "name": "dompdf",
+    "version": "1.0.2",
+    "created_at": "2022-04-12T09:31:40",
+    "updated_at": "2022-04-13T12:39:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dompdf_project:dompdf:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

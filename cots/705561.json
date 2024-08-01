@@ -1,0 +1,10 @@
+{
+    "id": 705561,
+    "name": "control_rte",
+    "version": "3.5.17.0",
+    "created_at": "2021-05-06T14:28:01",
+    "updated_at": "2021-05-17T11:27:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_rte:3.5.17.0:*:*:*:*:beckhoff_cx:*:*",
+    "to_analyse": false
+}

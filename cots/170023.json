@@ -1,0 +1,10 @@
+{
+    "id": 170023,
+    "name": "talk",
+    "version": "3.99.11",
+    "created_at": "2018-10-10T15:50:52",
+    "updated_at": "2018-10-10T15:50:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:talk:3.99.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

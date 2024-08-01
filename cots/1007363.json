@@ -1,0 +1,10 @@
+{
+    "id": 1007363,
+    "name": "flat",
+    "version": "6.0.0",
+    "created_at": "2022-12-30T18:03:27",
+    "updated_at": "2022-12-30T19:49:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flat_project:flat:6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 45237,
+    "name": "peoplesoft_enterprise",
+    "version": "9.1",
+    "created_at": "2011-04-20T15:43:12",
+    "updated_at": "2011-05-25T22:15:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:peoplesoft_enterprise:9.1:bundle4:*:*:*:*:*:*",
+    "to_analyse": false
+}

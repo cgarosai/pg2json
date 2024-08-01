@@ -1,0 +1,10 @@
+{
+    "id": 432131,
+    "name": "apollo_4200",
+    "version": "gen10",
+    "created_at": "2019-11-20T12:50:37",
+    "updated_at": "2021-05-05T11:52:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:apollo_4200:gen10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

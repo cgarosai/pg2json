@@ -1,0 +1,10 @@
+{
+    "id": 256259,
+    "name": "mpg123",
+    "version": "1.14.0",
+    "created_at": "2019-06-07T15:12:02",
+    "updated_at": "2019-06-07T15:12:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mpg123:mpg123:1.14.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

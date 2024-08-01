@@ -1,0 +1,10 @@
+{
+    "id": 1262082,
+    "name": "action_rf_1200_firmware",
+    "version": "1.2.2",
+    "created_at": "2024-05-15T10:48:12",
+    "updated_at": "2024-05-15T10:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intelbras:action_rf_1200_firmware:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

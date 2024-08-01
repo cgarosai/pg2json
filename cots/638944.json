@@ -1,0 +1,10 @@
+{
+    "id": 638944,
+    "name": "tranzware_payment_gateway",
+    "version": "3.1.12.3.2",
+    "created_at": "2020-12-18T13:04:40",
+    "updated_at": "2020-12-18T13:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tranzware_payment_gateway_project:tranzware_payment_gateway:3.1.12.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

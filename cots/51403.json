@@ -1,0 +1,10 @@
+{
+    "id": 51403,
+    "name": "audio_echo_cancellation_component",
+    "version": "10.0.1439",
+    "created_at": "2012-06-21T17:07:45",
+    "updated_at": "2012-06-21T17:07:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logitech:audio_echo_cancellation_component:10.0.1439:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

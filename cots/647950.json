@@ -1,0 +1,10 @@
+{
+    "id": 647950,
+    "name": "docs",
+    "version": "-",
+    "created_at": "2021-01-12T15:26:55",
+    "updated_at": "2021-01-12T15:26:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:docs:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

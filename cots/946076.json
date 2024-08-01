@@ -1,0 +1,10 @@
+{
+    "id": 946076,
+    "name": "windows_defender_for_endpoint",
+    "version": "-",
+    "created_at": "2022-09-22T15:29:33",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_defender_for_endpoint:-:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

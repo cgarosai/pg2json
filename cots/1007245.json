@@ -1,0 +1,10 @@
+{
+    "id": 1007245,
+    "name": "httpster",
+    "version": "-",
+    "created_at": "2022-12-30T14:20:39",
+    "updated_at": "2022-12-30T19:49:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:httpster_project:httpster:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 32011,
+    "name": "business_availability_center",
+    "version": "8.05",
+    "created_at": "2011-01-25T15:01:55",
+    "updated_at": "2012-09-10T21:34:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:business_availability_center:8.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

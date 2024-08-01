@@ -1,0 +1,10 @@
+{
+    "id": 908034,
+    "name": "myadmin",
+    "version": "1.0",
+    "created_at": "2022-07-08T11:27:21",
+    "updated_at": "2022-07-08T14:57:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:myadmin_project:myadmin:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

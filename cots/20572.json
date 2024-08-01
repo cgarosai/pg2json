@@ -1,0 +1,10 @@
+{
+    "id": 20572,
+    "name": "player",
+    "version": "6.3",
+    "created_at": "2010-01-07T15:08:46",
+    "updated_at": "2010-01-07T15:08:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:divx:player:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

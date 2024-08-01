@@ -1,0 +1,10 @@
+{
+    "id": 62629,
+    "name": "jboss_enterprise_application_platform",
+    "version": "4.3.0",
+    "created_at": "2012-11-26T15:26:27",
+    "updated_at": "2013-07-24T12:15:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_enterprise_application_platform:4.3.0:cp10:*:*:*:*:*:*",
+    "to_analyse": false
+}

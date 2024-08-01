@@ -1,0 +1,10 @@
+{
+    "id": 53663,
+    "name": "seagate_manager_installer",
+    "version": "2.1.600",
+    "created_at": "2012-07-10T01:19:02",
+    "updated_at": "2012-07-10T01:19:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:seagate:seagate_manager_installer:2.1.600:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

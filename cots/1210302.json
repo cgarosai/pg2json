@@ -1,0 +1,10 @@
+{
+    "id": 1210302,
+    "name": "backup_\\&_replication",
+    "version": "12.0.0.1420",
+    "created_at": "2023-12-16T03:01:59",
+    "updated_at": "2024-05-09T16:37:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veeam:backup_\\&_replication:12.0.0.1420:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

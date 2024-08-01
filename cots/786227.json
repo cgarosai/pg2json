@@ -1,0 +1,10 @@
+{
+    "id": 786227,
+    "name": "pingaccess",
+    "version": "5.2.2",
+    "created_at": "2021-09-29T15:09:11",
+    "updated_at": "2021-09-29T15:19:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pingidentity:pingaccess:5.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

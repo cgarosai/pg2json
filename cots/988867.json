@@ -1,0 +1,10 @@
+{
+    "id": 988867,
+    "name": "libp2p",
+    "version": "0.30.12",
+    "created_at": "2022-12-09T13:18:52",
+    "updated_at": "2022-12-12T12:19:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protocol:libp2p:0.30.12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

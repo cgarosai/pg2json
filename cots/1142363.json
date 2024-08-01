@@ -1,0 +1,10 @@
+{
+    "id": 1142363,
+    "name": "libp2p",
+    "version": "0.27.3",
+    "created_at": "2023-09-01T09:19:04",
+    "updated_at": "2023-09-02T00:32:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protocol:libp2p:0.27.3:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 754581,
+    "name": "marmoset_viewer",
+    "version": "1.9",
+    "created_at": "2021-08-13T14:46:30",
+    "updated_at": "2021-08-13T17:40:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marmoset:marmoset_viewer:1.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 577780,
+    "name": "rollup-plugin-dev-server",
+    "version": "0.4.3",
+    "created_at": "2020-07-29T15:36:03",
+    "updated_at": "2020-07-29T15:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rollup-plugin-dev-server_project:rollup-plugin-dev-server:0.4.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

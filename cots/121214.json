@@ -1,0 +1,10 @@
+{
+    "id": 121214,
+    "name": "network_camera_fd8164_firmware",
+    "version": "fd8164-_vvtk-0200b",
+    "created_at": "2017-07-04T11:03:54",
+    "updated_at": "2021-07-01T15:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vivotek:network_camera_fd8164_firmware:fd8164-_vvtk-0200b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

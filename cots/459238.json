@@ -1,0 +1,10 @@
+{
+    "id": 459238,
+    "name": "resiliency_platform",
+    "version": "2.1",
+    "created_at": "2019-12-09T14:40:50",
+    "updated_at": "2019-12-09T14:40:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:resiliency_platform:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

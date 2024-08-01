@@ -1,0 +1,10 @@
+{
+    "id": 841876,
+    "name": "management_engine_bios_extension",
+    "version": "15.0.0.0004",
+    "created_at": "2022-02-15T14:33:11",
+    "updated_at": "2022-02-25T18:54:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:management_engine_bios_extension:15.0.0.0004:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

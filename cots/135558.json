@@ -1,0 +1,10 @@
+{
+    "id": 135558,
+    "name": "astaro_security_gateway",
+    "version": "-",
+    "created_at": "2017-09-27T00:26:59",
+    "updated_at": "2021-08-10T14:09:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sophos:astaro_security_gateway:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

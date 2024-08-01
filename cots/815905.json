@@ -1,0 +1,10 @@
+{
+    "id": 815905,
+    "name": "ethernet_controller_x710-am2",
+    "version": "-",
+    "created_at": "2021-11-22T15:32:02",
+    "updated_at": "2021-11-22T23:31:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ethernet_controller_x710-am2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

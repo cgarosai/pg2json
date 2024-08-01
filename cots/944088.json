@@ -1,0 +1,10 @@
+{
+    "id": 944088,
+    "name": "storsimple_8010_firmware",
+    "version": "-",
+    "created_at": "2022-10-12T12:42:00",
+    "updated_at": "2022-11-01T12:36:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:storsimple_8010_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 315571,
+    "name": "urbackup_server",
+    "version": "1.4.13",
+    "created_at": "2019-07-25T14:44:43",
+    "updated_at": "2019-07-25T14:44:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:urbackup:urbackup_server:1.4.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

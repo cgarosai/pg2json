@@ -1,0 +1,10 @@
+{
+    "id": 786191,
+    "name": "toodee",
+    "version": "-",
+    "created_at": "2021-09-29T15:08:24",
+    "updated_at": "2021-09-29T15:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:toodee_project:toodee:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

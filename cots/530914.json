@@ -1,0 +1,10 @@
+{
+    "id": 530914,
+    "name": "r6400_firmware",
+    "version": "1.0.2.44",
+    "created_at": "2020-04-28T12:50:14",
+    "updated_at": "2020-04-28T12:50:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6400_firmware:1.0.2.44:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

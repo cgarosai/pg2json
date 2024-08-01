@@ -1,0 +1,10 @@
+{
+    "id": 821047,
+    "name": "miui",
+    "version": "-",
+    "created_at": "2021-12-27T18:42:22",
+    "updated_at": "2022-10-04T10:57:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mi:miui:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

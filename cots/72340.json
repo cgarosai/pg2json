@@ -1,0 +1,10 @@
+{
+    "id": 72340,
+    "name": "client",
+    "version": "4.91",
+    "created_at": "2013-07-31T19:51:15",
+    "updated_at": "2013-07-31T23:36:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:client:4.91:sp5:*:*:*:*:*:*",
+    "to_analyse": false
+}

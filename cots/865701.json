@@ -1,0 +1,10 @@
+{
+    "id": 865701,
+    "name": "libseccomp",
+    "version": "2.5.3",
+    "created_at": "2022-03-22T16:18:50",
+    "updated_at": "2022-03-22T16:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libseccomp_project:libseccomp:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

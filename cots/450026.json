@@ -1,0 +1,10 @@
+{
+    "id": 450026,
+    "name": "safe_browsing",
+    "version": "17.0.326",
+    "created_at": "2019-12-09T16:53:26",
+    "updated_at": "2019-12-09T16:53:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bullguard:safe_browsing:17.0.326:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

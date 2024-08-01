@@ -1,0 +1,10 @@
+{
+    "id": 579713,
+    "name": "nc200_firmware",
+    "version": "2.1.11",
+    "created_at": "2020-08-03T15:51:29",
+    "updated_at": "2020-08-03T15:51:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:nc200_firmware:2.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

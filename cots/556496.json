@@ -1,0 +1,10 @@
+{
+    "id": 556496,
+    "name": "glib-networking",
+    "version": "2.63.90",
+    "created_at": "2020-05-29T17:22:04",
+    "updated_at": "2020-05-29T17:22:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:glib-networking:2.63.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

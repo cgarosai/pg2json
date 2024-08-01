@@ -1,0 +1,10 @@
+{
+    "id": 350044,
+    "name": "exim",
+    "version": "4.92.2",
+    "created_at": "2019-09-06T12:32:09",
+    "updated_at": "2019-09-06T12:32:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exim:exim:4.92.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

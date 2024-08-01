@@ -1,0 +1,10 @@
+{
+    "id": 1241745,
+    "name": "red_hat_dependency_analytics",
+    "version": "0.7.1",
+    "created_at": "2024-02-03T02:15:39",
+    "updated_at": "2024-02-03T02:15:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:red_hat_dependency_analytics:0.7.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 617999,
+    "name": "mercurial",
+    "version": "2.11",
+    "created_at": "2020-11-05T18:25:17",
+    "updated_at": "2020-11-05T18:25:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mercurial:2.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

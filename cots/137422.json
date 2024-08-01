@@ -1,0 +1,10 @@
+{
+    "id": 137422,
+    "name": "srp520-u_firmware",
+    "version": "1.2.6",
+    "created_at": "2017-10-26T12:35:19",
+    "updated_at": "2021-04-26T15:09:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:srp520-u_firmware:1.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

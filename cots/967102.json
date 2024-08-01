@@ -1,0 +1,10 @@
+{
+    "id": 967102,
+    "name": "sim4000_firmware",
+    "version": "-",
+    "created_at": "2022-11-03T11:34:51",
+    "updated_at": "2022-11-03T17:57:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:sim4000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

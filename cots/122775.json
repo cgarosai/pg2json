@@ -1,0 +1,10 @@
+{
+    "id": 122775,
+    "name": "microsoft.aspnetcore.mvc.dataannotations",
+    "version": "1.0.2",
+    "created_at": "2017-08-08T16:11:51",
+    "updated_at": "2017-08-08T16:11:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc.dataannotations:1.0.2:*:*:*:*:asp.net:*:*",
+    "to_analyse": false
+}

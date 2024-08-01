@@ -1,0 +1,10 @@
+{
+    "id": 402499,
+    "name": "gnome-keyring",
+    "version": "0.4.6",
+    "created_at": "2019-10-16T16:46:46",
+    "updated_at": "2019-10-16T16:46:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gnome-keyring:0.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 664803,
+    "name": "snapmanager",
+    "version": "-",
+    "created_at": "2021-03-09T14:13:07",
+    "updated_at": "2021-05-06T13:37:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:snapmanager:-:-:*:*:*:sap:*:*",
+    "to_analyse": false
+}

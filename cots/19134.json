@@ -1,0 +1,10 @@
+{
+    "id": 19134,
+    "name": "xinetd",
+    "version": "2.3.5",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2012-06-29T12:49:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xinetd:xinetd:2.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

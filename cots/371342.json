@@ -1,0 +1,10 @@
+{
+    "id": 371342,
+    "name": "mystem",
+    "version": "0.0.2",
+    "created_at": "2019-09-20T16:27:26",
+    "updated_at": "2019-09-20T16:27:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mystem_project:mystem:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 765947,
+    "name": "tar",
+    "version": "0.1.9",
+    "created_at": "2021-08-18T12:30:42",
+    "updated_at": "2021-08-18T12:34:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tar_project:tar:0.1.9:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

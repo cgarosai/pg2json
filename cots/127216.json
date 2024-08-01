@@ -1,0 +1,10 @@
+{
+    "id": 127216,
+    "name": "alertwerks_servsensor_contact_eme113a-60-r2",
+    "version": "-",
+    "created_at": "2017-04-07T17:24:59",
+    "updated_at": "2021-05-04T14:51:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:blackbox:alertwerks_servsensor_contact_eme113a-60-r2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

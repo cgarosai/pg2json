@@ -1,0 +1,10 @@
+{
+    "id": 304583,
+    "name": "mqtt.js",
+    "version": "2.15.3",
+    "created_at": "2019-07-25T12:46:29",
+    "updated_at": "2019-07-25T12:46:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mqtt.js_project:mqtt.js:2.15.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

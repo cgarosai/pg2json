@@ -1,0 +1,10 @@
+{
+    "id": 1060000,
+    "name": "element_backup",
+    "version": "-",
+    "created_at": "2023-03-27T11:57:55",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:varta:element_backup:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

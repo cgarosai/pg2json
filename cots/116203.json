@@ -1,0 +1,10 @@
+{
+    "id": 116203,
+    "name": "certified_asterisk",
+    "version": "13.1.0",
+    "created_at": "2016-03-16T13:08:57",
+    "updated_at": "2016-03-16T13:08:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digium:certified_asterisk:13.1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

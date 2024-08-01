@@ -1,0 +1,10 @@
+{
+    "id": 69289,
+    "name": "vpn_client",
+    "version": "5.0.02.0090",
+    "created_at": "2012-09-17T16:18:08",
+    "updated_at": "2012-09-18T12:11:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:vpn_client:5.0.02.0090:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

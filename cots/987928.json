@@ -1,0 +1,10 @@
+{
+    "id": 987928,
+    "name": "nimbus",
+    "version": "10.5.0",
+    "created_at": "2022-12-08T15:17:46",
+    "updated_at": "2022-12-09T17:15:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:nimbus:10.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

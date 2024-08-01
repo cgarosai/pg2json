@@ -1,0 +1,10 @@
+{
+    "id": 526454,
+    "name": "nextcloud",
+    "version": "1.6.0",
+    "created_at": "2020-04-01T11:46:07",
+    "updated_at": "2020-04-01T11:46:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:nextcloud:1.6.0:beta1:*:*:*:macos:*:*",
+    "to_analyse": false
+}

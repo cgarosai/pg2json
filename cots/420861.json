@@ -1,0 +1,10 @@
+{
+    "id": 420861,
+    "name": "scipy",
+    "version": "0.3.2",
+    "created_at": "2019-11-05T16:30:59",
+    "updated_at": "2019-11-05T16:30:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scipy:scipy:0.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

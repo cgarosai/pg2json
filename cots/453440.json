@@ -1,0 +1,10 @@
+{
+    "id": 453440,
+    "name": "app_suite",
+    "version": "7.6.0",
+    "created_at": "2019-12-10T17:46:48",
+    "updated_at": "2019-12-10T17:46:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-xchange:app_suite:7.6.0:rev7:*:*:*:*:*:*",
+    "to_analyse": false
+}

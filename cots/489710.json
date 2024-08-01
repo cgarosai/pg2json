@@ -1,0 +1,10 @@
+{
+    "id": 489710,
+    "name": "icommktconnector",
+    "version": "1.1.0",
+    "created_at": "2020-02-04T13:52:34",
+    "updated_at": "2020-02-04T13:52:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webimpacto:icommktconnector:1.1.0:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

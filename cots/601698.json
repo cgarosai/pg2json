@@ -1,0 +1,10 @@
+{
+    "id": 601698,
+    "name": "r7450_firmware",
+    "version": "1.2.0.62",
+    "created_at": "2020-10-09T13:57:39",
+    "updated_at": "2020-10-09T13:57:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7450_firmware:1.2.0.62:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

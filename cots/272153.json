@@ -1,0 +1,10 @@
+{
+    "id": 272153,
+    "name": "qpid_broker-j",
+    "version": "7.0.0",
+    "created_at": "2019-06-28T15:36:32",
+    "updated_at": "2019-06-28T15:36:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid_broker-j:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

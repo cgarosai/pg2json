@@ -1,0 +1,10 @@
+{
+    "id": 147103,
+    "name": "carrier_routing_system",
+    "version": "5.3.0.rout",
+    "created_at": "2018-03-01T00:05:31",
+    "updated_at": "2021-04-12T11:58:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:carrier_routing_system:5.3.0.rout:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

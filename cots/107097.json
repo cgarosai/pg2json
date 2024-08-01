@@ -1,0 +1,10 @@
+{
+    "id": 107097,
+    "name": "hvg_video_gateway_firmware",
+    "version": "2.2.26a100",
+    "created_at": "2015-02-04T14:20:21",
+    "updated_at": "2015-06-17T14:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:servision:hvg_video_gateway_firmware:2.2.26a100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

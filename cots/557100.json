@@ -1,0 +1,10 @@
+{
+    "id": 557100,
+    "name": "laravelcms",
+    "version": "-",
+    "created_at": "2020-06-01T16:27:28",
+    "updated_at": "2020-06-01T16:27:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravelcms_project:laravelcms:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

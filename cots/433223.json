@@ -1,0 +1,10 @@
+{
+    "id": 433223,
+    "name": "aura_system_platform_firmware",
+    "version": "6.3",
+    "created_at": "2019-11-20T18:19:42",
+    "updated_at": "2021-05-18T15:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:avaya:aura_system_platform_firmware:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 50733,
+    "name": "mguard_pci",
+    "version": "hw-102050",
+    "created_at": "2012-06-20T11:29:52",
+    "updated_at": "2012-06-29T12:54:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:innominate:mguard_pci:hw-102050:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

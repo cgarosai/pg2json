@@ -1,0 +1,10 @@
+{
+    "id": 71289,
+    "name": "h3c_router",
+    "version": "msr_20-15_iw",
+    "created_at": "2013-07-08T16:02:01",
+    "updated_at": "2013-07-12T15:50:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_router:msr_20-15_iw:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

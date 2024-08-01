@@ -1,0 +1,10 @@
+{
+    "id": 264514,
+    "name": "endoscope_camera",
+    "version": "-",
+    "created_at": "2019-06-19T15:21:27",
+    "updated_at": "2021-06-14T16:03:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ishekar:endoscope_camera:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

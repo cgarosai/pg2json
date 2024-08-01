@@ -1,0 +1,10 @@
+{
+    "id": 512001,
+    "name": "optane_dc_persistent_memory_module_management",
+    "version": "1.0.0.3461",
+    "created_at": "2020-03-26T14:08:23",
+    "updated_at": "2020-03-26T14:08:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:optane_dc_persistent_memory_module_management:1.0.0.3461:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

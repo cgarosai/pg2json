@@ -1,0 +1,10 @@
+{
+    "id": 698227,
+    "name": "platform_server",
+    "version": "11.8.1",
+    "created_at": "2021-04-19T15:01:14",
+    "updated_at": "2021-04-20T14:31:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:outsystems:platform_server:11.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

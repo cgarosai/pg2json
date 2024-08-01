@@ -1,0 +1,10 @@
+{
+    "id": 1120307,
+    "name": "dimensions_cm",
+    "version": "0.7.11",
+    "created_at": "2023-07-28T11:52:01",
+    "updated_at": "2023-07-28T18:14:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:dimensions_cm:0.7.11:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

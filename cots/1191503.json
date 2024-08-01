@@ -1,0 +1,10 @@
+{
+    "id": 1191503,
+    "name": "gitsign",
+    "version": "0.1.0",
+    "created_at": "2023-11-16T16:41:43",
+    "updated_at": "2023-11-16T16:41:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sigstore:gitsign:0.1.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 721894,
+    "name": "brand_verification_tool",
+    "version": "11.0.0.1225",
+    "created_at": "2021-06-23T12:34:53",
+    "updated_at": "2021-07-02T13:27:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:brand_verification_tool:11.0.0.1225:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

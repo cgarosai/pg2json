@@ -1,0 +1,10 @@
+{
+    "id": 955160,
+    "name": "mockery",
+    "version": "2.1.0",
+    "created_at": "2022-10-14T11:28:53",
+    "updated_at": "2022-10-14T12:36:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mockery_project:mockery:2.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

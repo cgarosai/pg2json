@@ -1,0 +1,10 @@
+{
+    "id": 330656,
+    "name": "wp_database_backup",
+    "version": "3.9.2",
+    "created_at": "2019-08-14T17:36:23",
+    "updated_at": "2019-08-14T17:36:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpseeds:wp_database_backup:3.9.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 193509,
+    "name": "solidfire_element_os_management_node",
+    "version": "-",
+    "created_at": "2019-01-22T14:35:46",
+    "updated_at": "2021-07-02T16:27:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:solidfire_element_os_management_node:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

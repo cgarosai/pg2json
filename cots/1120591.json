@@ -1,0 +1,10 @@
+{
+    "id": 1120591,
+    "name": "python",
+    "version": "3.10.12",
+    "created_at": "2023-07-29T10:57:14",
+    "updated_at": "2023-07-29T11:03:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:python:3.10.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

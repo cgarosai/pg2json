@@ -1,0 +1,10 @@
+{
+    "id": 1017316,
+    "name": "mautic_integration_for_woocommerce",
+    "version": "-",
+    "created_at": "2023-01-12T17:27:15",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpswings:mautic_integration_for_woocommerce:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

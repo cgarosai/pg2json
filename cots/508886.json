@@ -1,0 +1,10 @@
+{
+    "id": 508886,
+    "name": "zammad",
+    "version": "3.0.0",
+    "created_at": "2020-03-05T15:21:06",
+    "updated_at": "2020-03-05T15:21:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zammad:zammad:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

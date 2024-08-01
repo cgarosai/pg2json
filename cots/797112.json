@@ -1,0 +1,10 @@
+{
+    "id": 797112,
+    "name": "crawlerdetect",
+    "version": "1.1.0",
+    "created_at": "2021-10-18T09:20:42",
+    "updated_at": "2021-10-18T09:22:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crawlerdetect_project:crawlerdetect:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

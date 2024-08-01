@@ -1,0 +1,10 @@
+{
+    "id": 539987,
+    "name": "proliant_bl460c_gen9_server_blade_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:06:13",
+    "updated_at": "2020-04-27T18:06:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_bl460c_gen9_server_blade_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

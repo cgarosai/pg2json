@@ -1,0 +1,10 @@
+{
+    "id": 748471,
+    "name": "micronaut",
+    "version": "2.0.0",
+    "created_at": "2021-07-21T13:54:19",
+    "updated_at": "2021-07-21T17:26:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:objectcomputing:micronaut:2.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51338,
+    "name": "secure_application_manager",
+    "version": "6.3.0.14715",
+    "created_at": "2012-06-21T17:07:30",
+    "updated_at": "2012-06-21T17:07:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:secure_application_manager:6.3.0.14715:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

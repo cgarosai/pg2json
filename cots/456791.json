@@ -1,0 +1,10 @@
+{
+    "id": 456791,
+    "name": "communications_policy_management",
+    "version": "12.5.0",
+    "created_at": "2019-12-06T17:35:12",
+    "updated_at": "2019-12-06T17:35:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:communications_policy_management:12.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

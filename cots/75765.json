@@ -1,0 +1,10 @@
+{
+    "id": 75765,
+    "name": "pa-risc",
+    "version": "-",
+    "created_at": "2013-02-11T19:14:26",
+    "updated_at": "2013-02-11T19:14:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:pa-risc:-:-:x86:*:*:*:*:*",
+    "to_analyse": false
+}

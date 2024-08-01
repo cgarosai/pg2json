@@ -1,0 +1,10 @@
+{
+    "id": 263674,
+    "name": "identity_server",
+    "version": "3.2.3",
+    "created_at": "2019-06-18T17:36:32",
+    "updated_at": "2019-06-18T17:36:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wso2:identity_server:3.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

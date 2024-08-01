@@ -1,0 +1,10 @@
+{
+    "id": 52018,
+    "name": "essex",
+    "version": "2012.1",
+    "created_at": "2012-06-22T12:43:39",
+    "updated_at": "2012-08-24T17:57:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:essex:2012.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

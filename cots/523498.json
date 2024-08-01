@@ -1,0 +1,10 @@
+{
+    "id": 523498,
+    "name": "notifier_webserver",
+    "version": "4.30",
+    "created_at": "2020-04-10T13:35:46",
+    "updated_at": "2020-04-10T13:35:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:honeywell:notifier_webserver:4.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

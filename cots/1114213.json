@@ -1,0 +1,10 @@
+{
+    "id": 1114213,
+    "name": "lana_email_logger",
+    "version": "-",
+    "created_at": "2023-07-19T14:38:14",
+    "updated_at": "2023-07-19T15:25:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lanacodes:lana_email_logger:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

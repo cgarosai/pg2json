@@ -1,0 +1,10 @@
+{
+    "id": 510549,
+    "name": "core_i3-7100h_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:33:51",
+    "updated_at": "2020-03-23T17:33:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i3-7100h_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

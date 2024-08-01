@@ -1,0 +1,10 @@
+{
+    "id": 524286,
+    "name": "http_request",
+    "version": "0.2",
+    "created_at": "2020-04-13T11:04:35",
+    "updated_at": "2020-04-13T11:04:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:http_request_project:http_request:0.2:*:*:*:*:cordova:*:*",
+    "to_analyse": false
+}

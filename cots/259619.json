@@ -1,0 +1,10 @@
+{
+    "id": 259619,
+    "name": "bcm4335c0_firmware",
+    "version": "2012-12-11",
+    "created_at": "2019-06-11T09:27:19",
+    "updated_at": "2021-04-09T16:06:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:bcm4335c0_firmware:2012-12-11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

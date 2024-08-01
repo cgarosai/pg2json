@@ -1,0 +1,10 @@
+{
+    "id": 140169,
+    "name": "libgcrypt",
+    "version": "0.1.0",
+    "created_at": "2018-04-18T14:09:13",
+    "updated_at": "2018-04-18T14:09:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnupg:libgcrypt:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

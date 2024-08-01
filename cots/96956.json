@@ -1,0 +1,10 @@
+{
+    "id": 96956,
+    "name": "cobbler",
+    "version": "2.4.4",
+    "created_at": "2014-05-14T21:30:12",
+    "updated_at": "2014-05-14T21:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cobblerd:cobbler:2.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

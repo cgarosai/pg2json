@@ -1,0 +1,10 @@
+{
+    "id": 597459,
+    "name": "yast2-printer",
+    "version": "4.0.2",
+    "created_at": "2020-09-09T13:04:00",
+    "updated_at": "2020-09-09T13:04:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensuse:yast2-printer:4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

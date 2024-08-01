@@ -1,0 +1,10 @@
+{
+    "id": 642372,
+    "name": "node-red-dashboard",
+    "version": "2.18.0",
+    "created_at": "2021-01-27T12:12:29",
+    "updated_at": "2021-01-27T12:12:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodered:node-red-dashboard:2.18.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

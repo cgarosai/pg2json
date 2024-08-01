@@ -1,0 +1,10 @@
+{
+    "id": 1054687,
+    "name": "mindsdb",
+    "version": "2.7.2",
+    "created_at": "2023-04-05T12:22:40",
+    "updated_at": "2023-04-05T14:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mindsdb:mindsdb:2.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

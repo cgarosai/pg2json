@@ -1,0 +1,10 @@
+{
+    "id": 642679,
+    "name": "retail_integration_bus",
+    "version": "14.1.0",
+    "created_at": "2021-01-27T14:27:46",
+    "updated_at": "2021-01-27T14:27:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:retail_integration_bus:14.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

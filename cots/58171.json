@@ -1,0 +1,10 @@
+{
+    "id": 58171,
+    "name": "open_ports_scanner",
+    "version": "2.4",
+    "created_at": "2012-05-14T21:29:04",
+    "updated_at": "2012-05-14T21:29:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:filesland:open_ports_scanner:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

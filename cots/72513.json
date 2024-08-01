@@ -1,0 +1,10 @@
+{
+    "id": 72513,
+    "name": "setuptools",
+    "version": "0.6.44",
+    "created_at": "2013-08-06T02:44:56",
+    "updated_at": "2013-08-09T15:06:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:setuptools:0.6.44:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 244656,
+    "name": "drive_encryption",
+    "version": "7.2.5",
+    "created_at": "2019-06-06T13:02:20",
+    "updated_at": "2019-06-06T13:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:drive_encryption:7.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

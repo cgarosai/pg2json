@@ -1,0 +1,10 @@
+{
+    "id": 107312,
+    "name": "universal_configuration_management_database",
+    "version": "10.11",
+    "created_at": "2015-02-17T16:21:33",
+    "updated_at": "2015-02-17T21:25:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:universal_configuration_management_database:10.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

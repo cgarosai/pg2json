@@ -1,0 +1,10 @@
+{
+    "id": 655119,
+    "name": "gfwx",
+    "version": "-",
+    "created_at": "2021-02-01T21:02:15",
+    "updated_at": "2021-02-01T21:02:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:devolutions:gfwx:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

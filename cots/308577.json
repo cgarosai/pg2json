@@ -1,0 +1,10 @@
+{
+    "id": 308577,
+    "name": "wp_security_audit_log",
+    "version": "3.1.5",
+    "created_at": "2019-07-22T10:39:59",
+    "updated_at": "2019-07-22T10:39:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpsecurityauditlog:wp_security_audit_log:3.1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

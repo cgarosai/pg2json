@@ -1,0 +1,10 @@
+{
+    "id": 863097,
+    "name": "blackhole_for_bad_bots",
+    "version": "1.5",
+    "created_at": "2022-04-11T13:57:43",
+    "updated_at": "2022-04-12T15:29:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plugin-planet:blackhole_for_bad_bots:1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

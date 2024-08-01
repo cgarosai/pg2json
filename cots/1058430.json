@@ -1,0 +1,10 @@
+{
+    "id": 1058430,
+    "name": "wp_htpasswd",
+    "version": "-",
+    "created_at": "2023-03-22T23:11:43",
+    "updated_at": "2023-03-27T13:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_htpasswd_project:wp_htpasswd:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

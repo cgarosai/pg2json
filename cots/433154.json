@@ -1,0 +1,10 @@
+{
+    "id": 433154,
+    "name": "aura_application_server_5300",
+    "version": "3.0",
+    "created_at": "2019-11-20T18:16:11",
+    "updated_at": "2021-03-24T14:41:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:aura_application_server_5300:3.0:sp5:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 270937,
+    "name": "notary",
+    "version": "0.3",
+    "created_at": "2019-06-27T11:28:26",
+    "updated_at": "2019-06-27T11:28:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:notary:0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

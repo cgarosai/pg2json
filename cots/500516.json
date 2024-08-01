@@ -1,0 +1,10 @@
+{
+    "id": 500516,
+    "name": "gear_s3_firmware",
+    "version": "re2",
+    "created_at": "2020-03-06T17:05:06",
+    "updated_at": "2020-03-06T17:05:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:gear_s3_firmware:re2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1026331,
+    "name": "k2_firmware",
+    "version": "22.6.534.263",
+    "created_at": "2023-02-03T13:44:12",
+    "updated_at": "2023-08-30T10:55:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phicomm:k2_firmware:22.6.534.263:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

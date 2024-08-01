@@ -1,0 +1,10 @@
+{
+    "id": 107540,
+    "name": "gpon_2520_firmware",
+    "version": "r4.0.2.566b",
+    "created_at": "2015-02-24T14:30:07",
+    "updated_at": "2015-05-18T12:30:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zhone_technologies:gpon_2520_firmware:r4.0.2.566b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

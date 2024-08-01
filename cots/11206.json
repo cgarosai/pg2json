@@ -1,0 +1,10 @@
+{
+    "id": 11206,
+    "name": "toolbar",
+    "version": "5",
+    "created_at": "2007-12-28T13:26:42",
+    "updated_at": "2008-04-14T18:20:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:toolbar:5:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

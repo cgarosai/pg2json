@@ -1,0 +1,10 @@
+{
+    "id": 648556,
+    "name": "hypervisor_introspection",
+    "version": "1.132.0",
+    "created_at": "2021-01-13T14:20:35",
+    "updated_at": "2021-01-13T14:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitdefender:hypervisor_introspection:1.132.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 497046,
+    "name": "harvest_scm",
+    "version": "0.2.3",
+    "created_at": "2020-02-14T13:11:26",
+    "updated_at": "2020-02-14T13:11:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:harvest_scm:0.2.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

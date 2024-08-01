@@ -1,0 +1,10 @@
+{
+    "id": 160821,
+    "name": "hibernate_validator",
+    "version": "5.3.0",
+    "created_at": "2018-08-01T14:12:57",
+    "updated_at": "2018-08-01T14:12:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:hibernate_validator:5.3.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

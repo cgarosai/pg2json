@@ -1,0 +1,10 @@
+{
+    "id": 1022061,
+    "name": "sphere_firmware",
+    "version": "-",
+    "created_at": "2023-02-10T14:15:51",
+    "updated_at": "2023-02-25T02:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teradek:sphere_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

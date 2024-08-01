@@ -1,0 +1,10 @@
+{
+    "id": 557547,
+    "name": "heimdal",
+    "version": "2.2.190",
+    "created_at": "2020-06-02T18:06:28",
+    "updated_at": "2020-06-02T18:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heimdalsecurity:heimdal:2.2.190:*:*:*:pro:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 49109,
+    "name": "ldns",
+    "version": "1.6.4",
+    "created_at": "2011-11-07T19:17:42",
+    "updated_at": "2011-11-09T19:45:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nlnetlabs:ldns:1.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

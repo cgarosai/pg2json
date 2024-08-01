@@ -1,0 +1,10 @@
+{
+    "id": 1136724,
+    "name": "cypress_image_snapshot",
+    "version": "5.0.4",
+    "created_at": "2023-08-08T15:02:28",
+    "updated_at": "2023-08-09T15:14:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simonsmith:cypress_image_snapshot:5.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 766293,
+    "name": "cbr40_firmware",
+    "version": "2.5.0.14",
+    "created_at": "2021-08-19T09:35:39",
+    "updated_at": "2021-08-19T12:53:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:cbr40_firmware:2.5.0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

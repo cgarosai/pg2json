@@ -1,0 +1,10 @@
+{
+    "id": 639804,
+    "name": "msm8209_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:46:12",
+    "updated_at": "2020-12-21T12:46:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:msm8209_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

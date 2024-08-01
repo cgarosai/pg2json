@@ -1,0 +1,10 @@
+{
+    "id": 822933,
+    "name": "lbr20_firmware",
+    "version": "2.6.3.50",
+    "created_at": "2022-01-04T15:26:07",
+    "updated_at": "2022-01-04T15:29:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:lbr20_firmware:2.6.3.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

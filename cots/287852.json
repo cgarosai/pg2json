@@ -1,0 +1,10 @@
+{
+    "id": 287852,
+    "name": "fstream",
+    "version": "0.1.9",
+    "created_at": "2019-07-03T15:09:56",
+    "updated_at": "2019-07-03T15:09:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:npmjs:fstream:0.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

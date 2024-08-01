@@ -1,0 +1,10 @@
+{
+    "id": 556504,
+    "name": "fusionsphere_openstack",
+    "version": "v100r006c00spc102\\(nfv\\)",
+    "created_at": "2020-05-29T17:46:51",
+    "updated_at": "2020-05-29T17:46:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:fusionsphere_openstack:v100r006c00spc102\\(nfv\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

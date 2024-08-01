@@ -1,0 +1,10 @@
+{
+    "id": 53658,
+    "name": "secure_copy",
+    "version": "3.0",
+    "created_at": "2012-07-10T01:19:01",
+    "updated_at": "2012-07-10T01:19:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scriptlogic:secure_copy:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

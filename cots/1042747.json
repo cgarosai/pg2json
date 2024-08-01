@@ -1,0 +1,10 @@
+{
+    "id": 1042747,
+    "name": "supervisor",
+    "version": "213",
+    "created_at": "2023-03-14T14:45:37",
+    "updated_at": "2023-03-14T15:00:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:home-assistant:supervisor:213:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

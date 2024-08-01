@@ -1,0 +1,10 @@
+{
+    "id": 538370,
+    "name": "msa_2052_firmware",
+    "version": "-",
+    "created_at": "2020-04-23T09:23:35",
+    "updated_at": "2021-08-16T14:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:msa_2052_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

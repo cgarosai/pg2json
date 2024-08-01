@@ -1,0 +1,10 @@
+{
+    "id": 60434,
+    "name": "ftp_server",
+    "version": "5.0.0.6",
+    "created_at": "2012-10-05T15:03:33",
+    "updated_at": "2012-10-05T16:26:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cerberusftp:ftp_server:5.0.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

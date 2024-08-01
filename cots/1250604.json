@@ -1,0 +1,10 @@
+{
+    "id": 1250604,
+    "name": "ip",
+    "version": "1.1.5",
+    "created_at": "2024-02-14T16:23:11",
+    "updated_at": "2024-02-14T16:23:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedorindutny:ip:1.1.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

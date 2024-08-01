@@ -1,0 +1,10 @@
+{
+    "id": 912565,
+    "name": "cockpit",
+    "version": "2.0.1",
+    "created_at": "2022-08-10T13:05:59",
+    "updated_at": "2022-08-10T19:50:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:agentejo:cockpit:2.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

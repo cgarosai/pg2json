@@ -1,0 +1,10 @@
+{
+    "id": 593862,
+    "name": "namecoin_core",
+    "version": "0.13.0",
+    "created_at": "2020-09-23T14:01:09",
+    "updated_at": "2020-09-23T14:01:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:namecoin:namecoin_core:0.13.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

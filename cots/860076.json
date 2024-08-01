@@ -1,0 +1,10 @@
+{
+    "id": 860076,
+    "name": "instant-messaging",
+    "version": "1.44",
+    "created_at": "2022-04-04T14:12:41",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:instant-messaging:1.44:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

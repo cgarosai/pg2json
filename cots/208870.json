@@ -1,0 +1,10 @@
+{
+    "id": 208870,
+    "name": "hydra",
+    "version": "0.7.13",
+    "created_at": "2019-02-20T14:18:42",
+    "updated_at": "2019-02-20T14:18:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ory:hydra:0.7.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

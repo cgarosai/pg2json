@@ -1,0 +1,10 @@
+{
+    "id": 836011,
+    "name": "qcs8155_firmware",
+    "version": "-",
+    "created_at": "2022-01-11T23:19:03",
+    "updated_at": "2022-01-11T23:23:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:qcs8155_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

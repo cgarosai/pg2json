@@ -1,0 +1,10 @@
+{
+    "id": 296020,
+    "name": "jquery_update",
+    "version": "7.x-3.x",
+    "created_at": "2019-07-12T14:32:18",
+    "updated_at": "2019-07-12T14:32:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jquery_update_project:jquery_update:7.x-3.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

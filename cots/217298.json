@@ -1,0 +1,10 @@
+{
+    "id": 217298,
+    "name": "reporter",
+    "version": "10.2",
+    "created_at": "2019-03-15T18:01:40",
+    "updated_at": "2019-03-15T18:01:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:reporter:10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

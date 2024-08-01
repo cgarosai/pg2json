@@ -1,0 +1,10 @@
+{
+    "id": 709107,
+    "name": "iot_server",
+    "version": "3.2.0",
+    "created_at": "2021-05-17T17:08:34",
+    "updated_at": "2021-05-17T17:12:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wso2:iot_server:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

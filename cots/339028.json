@@ -1,0 +1,10 @@
+{
+    "id": 339028,
+    "name": "e8_firmware",
+    "version": "-",
+    "created_at": "2019-08-13T13:05:24",
+    "updated_at": "2021-04-15T13:09:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:jura:e8_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

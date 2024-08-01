@@ -1,0 +1,10 @@
+{
+    "id": 7102,
+    "name": "stronghold",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:17:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:stronghold:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

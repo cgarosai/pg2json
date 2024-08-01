@@ -1,0 +1,10 @@
+{
+    "id": 567779,
+    "name": "load_balancer_adc",
+    "version": "6.4.0.005",
+    "created_at": "2020-07-01T10:02:46",
+    "updated_at": "2020-07-01T10:02:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:barracuda:load_balancer_adc:6.4.0.005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

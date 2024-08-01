@@ -1,0 +1,10 @@
+{
+    "id": 814413,
+    "name": "endpoint_manager_cloud_services_appliance",
+    "version": "4.5",
+    "created_at": "2021-12-10T15:38:45",
+    "updated_at": "2021-12-17T18:02:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:endpoint_manager_cloud_services_appliance:4.5:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 657978,
+    "name": "gitlog",
+    "version": "4.0.0",
+    "created_at": "2021-02-08T17:32:42",
+    "updated_at": "2021-02-08T17:32:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitlog_project:gitlog:4.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

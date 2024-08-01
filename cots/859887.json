@@ -1,0 +1,10 @@
+{
+    "id": 859887,
+    "name": "infoscale_operations_manager",
+    "version": "7.3.0.100",
+    "created_at": "2022-03-09T15:47:09",
+    "updated_at": "2022-03-13T02:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:infoscale_operations_manager:7.3.0.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

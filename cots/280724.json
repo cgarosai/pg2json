@@ -1,0 +1,10 @@
+{
+    "id": 280724,
+    "name": "3par_service_processor",
+    "version": "-",
+    "created_at": "2019-07-10T11:30:46",
+    "updated_at": "2021-05-05T11:52:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3par_service_processor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

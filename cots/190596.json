@@ -1,0 +1,10 @@
+{
+    "id": 190596,
+    "name": "web_services_virtual_private_cloud",
+    "version": "-",
+    "created_at": "2019-01-07T17:40:57",
+    "updated_at": "2021-05-10T13:58:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:web_services_virtual_private_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

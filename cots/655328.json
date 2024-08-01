@@ -1,0 +1,10 @@
+{
+    "id": 655328,
+    "name": "cdr",
+    "version": "0.2.3",
+    "created_at": "2021-02-02T14:40:52",
+    "updated_at": "2021-02-02T14:40:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cdr_project:cdr:0.2.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

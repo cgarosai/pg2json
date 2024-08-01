@@ -1,0 +1,10 @@
+{
+    "id": 936108,
+    "name": "pinniped",
+    "version": "0.5.0",
+    "created_at": "2022-09-01T11:06:20",
+    "updated_at": "2022-09-01T16:24:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:pinniped:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

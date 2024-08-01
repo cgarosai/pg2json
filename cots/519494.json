@@ -1,0 +1,10 @@
+{
+    "id": 519494,
+    "name": "xeon_x7350",
+    "version": "-",
+    "created_at": "2020-03-23T13:43:16",
+    "updated_at": "2020-03-23T13:43:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_x7350:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

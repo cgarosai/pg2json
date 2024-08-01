@@ -1,0 +1,10 @@
+{
+    "id": 424635,
+    "name": "openframe-glslviewer",
+    "version": "0.2.4",
+    "created_at": "2019-11-08T18:12:59",
+    "updated_at": "2019-11-08T18:12:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openframe-glslviewer_project:openframe-glslviewer:0.2.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

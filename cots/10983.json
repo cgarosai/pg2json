@@ -1,0 +1,10 @@
+{
+    "id": 10983,
+    "name": "tivoli_netcool_security_manager",
+    "version": "-",
+    "created_at": "2007-12-04T17:49:07",
+    "updated_at": "2007-12-04T17:49:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_netcool_security_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

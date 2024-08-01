@@ -1,0 +1,10 @@
+{
+    "id": 649787,
+    "name": "communications_diameter_signaling_route",
+    "version": "8.3",
+    "created_at": "2021-01-19T16:39:29",
+    "updated_at": "2021-01-19T16:39:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

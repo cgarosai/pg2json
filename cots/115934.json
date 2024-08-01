@@ -1,0 +1,10 @@
+{
+    "id": 115934,
+    "name": "signage_station",
+    "version": "2.0",
+    "created_at": "2016-03-08T17:39:47",
+    "updated_at": "2016-03-08T17:39:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qnap:signage_station:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

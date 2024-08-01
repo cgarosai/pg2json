@@ -1,0 +1,10 @@
+{
+    "id": 763057,
+    "name": "audit_to_database",
+    "version": "0.5",
+    "created_at": "2021-08-31T16:01:53",
+    "updated_at": "2021-08-31T16:40:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:audit_to_database:0.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

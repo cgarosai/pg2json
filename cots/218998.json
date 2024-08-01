@@ -1,0 +1,10 @@
+{
+    "id": 218998,
+    "name": "ruggedcom_ape",
+    "version": "-",
+    "created_at": "2019-03-19T12:16:18",
+    "updated_at": "2021-05-12T14:25:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:ruggedcom_ape:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 569815,
+    "name": "presto",
+    "version": "332",
+    "created_at": "2020-07-07T18:34:50",
+    "updated_at": "2020-07-07T18:34:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prestosql:presto:332:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

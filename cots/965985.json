@@ -1,0 +1,10 @@
+{
+    "id": 965985,
+    "name": "unicycle",
+    "version": "0.4.2",
+    "created_at": "2022-11-01T11:29:54",
+    "updated_at": "2022-11-01T11:31:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unicycle_project:unicycle:0.4.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100322,
+    "name": "watchdog_aggregator",
+    "version": "-",
+    "created_at": "2015-06-22T16:51:21",
+    "updated_at": "2015-06-23T12:09:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:watchdog_aggregator_project:watchdog_aggregator:-:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

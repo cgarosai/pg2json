@@ -1,0 +1,10 @@
+{
+    "id": 70701,
+    "name": "fonecta_verify",
+    "version": "7.x-1.2",
+    "created_at": "2013-06-28T11:53:34",
+    "updated_at": "2013-07-12T15:47:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:soprano:fonecta_verify:7.x-1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

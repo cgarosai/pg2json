@@ -1,0 +1,10 @@
+{
+    "id": 338979,
+    "name": "build_pipeline",
+    "version": "1.5.6",
+    "created_at": "2019-08-13T12:24:37",
+    "updated_at": "2019-08-13T12:24:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:build_pipeline:1.5.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

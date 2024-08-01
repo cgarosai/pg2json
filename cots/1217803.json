@@ -1,0 +1,10 @@
+{
+    "id": 1217803,
+    "name": "senec_storage_box_firmware",
+    "version": "2023-06-19",
+    "created_at": "2023-12-12T16:54:25",
+    "updated_at": "2023-12-12T16:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:enbw:senec_storage_box_firmware:2023-06-19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

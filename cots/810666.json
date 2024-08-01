@@ -1,0 +1,10 @@
+{
+    "id": 810666,
+    "name": "jhl7440_firmware",
+    "version": "1.41.1054.0",
+    "created_at": "2021-12-01T12:50:42",
+    "updated_at": "2021-12-01T17:46:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:jhl7440_firmware:1.41.1054.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

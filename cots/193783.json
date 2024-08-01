@@ -1,0 +1,10 @@
+{
+    "id": 193783,
+    "name": "amp_threat_grid_appliance",
+    "version": "2.4.2",
+    "created_at": "2019-01-25T11:36:06",
+    "updated_at": "2021-04-08T15:36:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:amp_threat_grid_appliance:2.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

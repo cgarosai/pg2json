@@ -1,0 +1,10 @@
+{
+    "id": 391229,
+    "name": "mailcow\\",
+    "version": "_dockerized",
+    "created_at": "2019-10-02T12:39:12",
+    "updated_at": "2019-10-02T12:39:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailcow:mailcow\\:_dockerized:0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

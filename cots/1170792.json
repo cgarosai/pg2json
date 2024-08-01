@@ -1,0 +1,10 @@
+{
+    "id": 1170792,
+    "name": "forgot_password",
+    "version": "3.7.3",
+    "created_at": "2023-10-17T12:47:05",
+    "updated_at": "2023-10-17T12:47:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mendix:forgot_password:3.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

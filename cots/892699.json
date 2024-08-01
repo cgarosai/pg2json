@@ -1,0 +1,10 @@
+{
+    "id": 892699,
+    "name": "glpi_inventory",
+    "version": "1.0.2",
+    "created_at": "2022-06-27T15:03:23",
+    "updated_at": "2022-06-27T16:02:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glpi-project:glpi_inventory:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

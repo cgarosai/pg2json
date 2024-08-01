@@ -1,0 +1,10 @@
+{
+    "id": 121117,
+    "name": "enterprise_virtualization_server",
+    "version": "-",
+    "created_at": "2017-06-30T15:56:29",
+    "updated_at": "2021-08-09T16:24:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:enterprise_virtualization_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

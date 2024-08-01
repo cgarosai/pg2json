@@ -1,0 +1,10 @@
+{
+    "id": 401204,
+    "name": "contacts",
+    "version": "2.1.7",
+    "created_at": "2019-10-16T11:54:26",
+    "updated_at": "2019-10-16T11:54:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:contacts:2.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

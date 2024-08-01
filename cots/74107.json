@@ -1,0 +1,10 @@
+{
+    "id": 74107,
+    "name": "sharepoint_foundation",
+    "version": "2013",
+    "created_at": "2013-09-11T13:01:42",
+    "updated_at": "2013-09-11T13:04:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_foundation:2013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

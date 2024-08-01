@@ -1,0 +1,10 @@
+{
+    "id": 939564,
+    "name": "wp-users-exporter",
+    "version": "-",
+    "created_at": "2022-09-08T15:09:07",
+    "updated_at": "2022-09-12T12:02:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-users-exporter_project:wp-users-exporter:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

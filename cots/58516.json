@@ -1,0 +1,10 @@
+{
+    "id": 58516,
+    "name": "fax_cda",
+    "version": "71.0.215.0",
+    "created_at": "2012-05-14T21:30:12",
+    "updated_at": "2012-05-14T21:30:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:fax_cda:71.0.215.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

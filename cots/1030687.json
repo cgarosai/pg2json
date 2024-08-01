@@ -1,0 +1,10 @@
+{
+    "id": 1030687,
+    "name": "openmp",
+    "version": "-",
+    "created_at": "2023-02-28T15:37:43",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:openmp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

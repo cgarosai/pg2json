@@ -1,0 +1,10 @@
+{
+    "id": 1145422,
+    "name": "latitude_3120_firmware",
+    "version": "1.19.0",
+    "created_at": "2023-08-22T15:07:21",
+    "updated_at": "2023-08-25T05:27:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:latitude_3120_firmware:1.19.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

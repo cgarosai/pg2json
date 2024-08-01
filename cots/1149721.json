@@ -1,0 +1,10 @@
+{
+    "id": 1149721,
+    "name": "wifi_pocket_firmware",
+    "version": "-",
+    "created_at": "2023-08-28T12:59:57",
+    "updated_at": "2023-08-29T12:53:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rakuten:wifi_pocket_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

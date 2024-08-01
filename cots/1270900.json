@@ -1,0 +1,10 @@
+{
+    "id": 1270900,
+    "name": "wp_2fa",
+    "version": "-",
+    "created_at": "2024-07-08T13:15:51",
+    "updated_at": "2024-07-08T13:15:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:melapress:wp_2fa:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 7306,
+    "name": "suse_linux_firewall_live-cd",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T14:56:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:suse_linux_firewall_live-cd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

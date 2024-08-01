@@ -1,0 +1,10 @@
+{
+    "id": 1235601,
+    "name": "aspera_console",
+    "version": "3.4.2",
+    "created_at": "2024-01-04T19:27:44",
+    "updated_at": "2024-01-04T19:27:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_2:*:*:*:*:*:*",
+    "to_analyse": false
+}

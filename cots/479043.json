@@ -1,0 +1,10 @@
+{
+    "id": 479043,
+    "name": "xeon_4112_firmware",
+    "version": "-",
+    "created_at": "2020-01-15T13:42:06",
+    "updated_at": "2020-01-15T13:42:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_4112_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1154475,
+    "name": "wide",
+    "version": "-",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wide_project:wide:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

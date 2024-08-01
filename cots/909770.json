@@ -1,0 +1,10 @@
+{
+    "id": 909770,
+    "name": "controller_6000_firmware",
+    "version": "8.50.220303a",
+    "created_at": "2022-07-13T13:17:12",
+    "updated_at": "2022-07-13T14:12:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50.220303a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

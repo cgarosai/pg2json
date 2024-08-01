@@ -1,0 +1,10 @@
+{
+    "id": 83264,
+    "name": "spmode_mail_android",
+    "version": "5900",
+    "created_at": "2014-03-20T15:23:56",
+    "updated_at": "2014-03-20T15:31:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nttdocomo:spmode_mail_android:5900:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

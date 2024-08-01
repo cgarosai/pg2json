@@ -1,0 +1,10 @@
+{
+    "id": 462822,
+    "name": "postman-smtp",
+    "version": "2017-10-04",
+    "created_at": "2020-01-06T14:25:53",
+    "updated_at": "2020-01-06T14:25:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postman-smtp_project:postman-smtp:2017-10-04:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

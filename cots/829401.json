@@ -1,0 +1,10 @@
+{
+    "id": 829401,
+    "name": "mongodb",
+    "version": "4.0.24",
+    "created_at": "2021-12-20T13:47:36",
+    "updated_at": "2021-12-20T14:46:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:mongodb:4.0.24:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 649260,
+    "name": "simatic_cp_1543sp-1_firmware",
+    "version": "1.0.15",
+    "created_at": "2021-01-14T18:46:10",
+    "updated_at": "2021-01-14T18:46:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_cp_1543sp-1_firmware:1.0.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

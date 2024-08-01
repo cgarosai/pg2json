@@ -1,0 +1,10 @@
+{
+    "id": 83201,
+    "name": "couchdb",
+    "version": "1.1.0",
+    "created_at": "2014-03-19T12:17:30",
+    "updated_at": "2014-03-19T12:22:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:couchdb:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

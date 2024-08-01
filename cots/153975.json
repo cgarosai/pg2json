@@ -1,0 +1,10 @@
+{
+    "id": 153975,
+    "name": "j2ee_engine_server_core",
+    "version": "7.30",
+    "created_at": "2018-06-14T13:38:28",
+    "updated_at": "2021-05-10T13:17:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:j2ee_engine_server_core:7.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

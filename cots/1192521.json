@@ -1,0 +1,10 @@
+{
+    "id": 1192521,
+    "name": "yop_poll",
+    "version": "6.5.28",
+    "created_at": "2023-11-20T13:10:47",
+    "updated_at": "2023-11-20T13:10:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yop-poll:yop_poll:6.5.28:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

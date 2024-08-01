@@ -1,0 +1,10 @@
+{
+    "id": 656484,
+    "name": "delete_account",
+    "version": "1.4",
+    "created_at": "2021-02-04T13:35:56",
+    "updated_at": "2021-02-04T13:35:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:delete_account_project:delete_account:1.4:*:*:*:*:mybb:*:*",
+    "to_analyse": false
+}

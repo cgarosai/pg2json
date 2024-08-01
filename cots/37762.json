@@ -1,0 +1,10 @@
+{
+    "id": 37762,
+    "name": "windows_media_player",
+    "version": "12",
+    "created_at": "2010-10-14T12:35:21",
+    "updated_at": "2013-07-12T16:27:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_media_player:12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

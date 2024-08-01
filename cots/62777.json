@@ -1,0 +1,10 @@
+{
+    "id": 62777,
+    "name": "libwww-perl",
+    "version": "5.08",
+    "created_at": "2012-11-29T02:47:44",
+    "updated_at": "2012-11-29T02:47:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gisle_aas:libwww-perl:5.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 252856,
+    "name": "mupdf",
+    "version": "1.15.0",
+    "created_at": "2019-06-12T09:53:51",
+    "updated_at": "2019-06-12T09:53:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artifex:mupdf:1.15.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

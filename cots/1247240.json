@@ -1,0 +1,10 @@
+{
+    "id": 1247240,
+    "name": "radeon_pro_w6400_firmware",
+    "version": "-",
+    "created_at": "2024-01-27T01:46:40",
+    "updated_at": "2024-01-27T01:46:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:radeon_pro_w6400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

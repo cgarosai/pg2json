@@ -1,0 +1,10 @@
+{
+    "id": 233359,
+    "name": "libreoffice",
+    "version": "6.2.3",
+    "created_at": "2019-05-13T11:46:12",
+    "updated_at": "2019-05-13T11:46:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libreoffice:libreoffice:6.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 673509,
+    "name": "firebase_admin_software_development_kit",
+    "version": "5.13.0",
+    "created_at": "2021-03-24T18:09:55",
+    "updated_at": "2021-03-24T18:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:firebase_admin_software_development_kit_project:firebase_admin_software_development_kit:5.13.0:*:*:*:*:php:*:*",
+    "to_analyse": false
+}

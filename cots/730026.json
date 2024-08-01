@@ -1,0 +1,10 @@
+{
+    "id": 730026,
+    "name": "appspider",
+    "version": "1.0.7",
+    "created_at": "2021-07-09T15:44:07",
+    "updated_at": "2021-07-09T15:59:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:appspider:1.0.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

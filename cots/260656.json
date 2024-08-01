@@ -1,0 +1,10 @@
+{
+    "id": 260656,
+    "name": "colorbox",
+    "version": "7.x-2.0",
+    "created_at": "2019-06-17T14:41:53",
+    "updated_at": "2019-06-17T14:41:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:colorbox_project:colorbox:7.x-2.0:beta4:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

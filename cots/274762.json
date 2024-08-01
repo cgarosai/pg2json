@@ -1,0 +1,10 @@
+{
+    "id": 274762,
+    "name": "osclass",
+    "version": "3.2",
+    "created_at": "2019-07-01T16:11:02",
+    "updated_at": "2019-07-01T16:11:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osclass:osclass:3.2:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

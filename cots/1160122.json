@@ -1,0 +1,10 @@
+{
+    "id": 1160122,
+    "name": "ot-235_firmware",
+    "version": "mh-46360-2.0.3-r5-gp",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:greenpacket:ot-235_firmware:mh-46360-2.0.3-r5-gp:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

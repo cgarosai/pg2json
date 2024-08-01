@@ -1,0 +1,10 @@
+{
+    "id": 301265,
+    "name": "adsense-click-fraud-monitoring",
+    "version": "2.0.5",
+    "created_at": "2019-07-23T12:10:18",
+    "updated_at": "2019-07-23T12:10:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clickfraud-monitoring:adsense-click-fraud-monitoring:2.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

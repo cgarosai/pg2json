@@ -1,0 +1,10 @@
+{
+    "id": 556619,
+    "name": "nc450_firmware",
+    "version": "2020-02-09",
+    "created_at": "2020-06-01T12:19:27",
+    "updated_at": "2021-05-28T11:35:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:nc450_firmware:2020-02-09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

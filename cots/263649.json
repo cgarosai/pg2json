@@ -1,0 +1,10 @@
+{
+    "id": 263649,
+    "name": "zend_framework",
+    "version": "2.4.0",
+    "created_at": "2019-06-18T17:17:22",
+    "updated_at": "2019-06-18T17:17:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zend:zend_framework:2.4.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

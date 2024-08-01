@@ -1,0 +1,10 @@
+{
+    "id": 124829,
+    "name": "thinkpad_usb_3.0_ethernet_adapter",
+    "version": "-",
+    "created_at": "2017-09-12T12:44:09",
+    "updated_at": "2021-05-06T15:00:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lenovo:thinkpad_usb_3.0_ethernet_adapter:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

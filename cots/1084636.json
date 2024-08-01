@@ -1,0 +1,10 @@
+{
+    "id": 1084636,
+    "name": "email_security_gateway_600_firmware",
+    "version": "-",
+    "created_at": "2023-06-01T16:00:29",
+    "updated_at": "2023-06-29T12:56:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:barracuda:email_security_gateway_600_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 406119,
+    "name": "portus",
+    "version": "2.0.2",
+    "created_at": "2019-10-08T15:41:30",
+    "updated_at": "2019-10-08T15:41:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:portus:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 635186,
+    "name": "business_warehouse",
+    "version": "731",
+    "created_at": "2020-12-10T18:25:10",
+    "updated_at": "2020-12-10T18:25:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:business_warehouse:731:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

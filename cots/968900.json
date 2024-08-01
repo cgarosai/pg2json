@@ -1,0 +1,10 @@
+{
+    "id": 968900,
+    "name": "netweaver_application_server_abap",
+    "version": "789",
+    "created_at": "2022-11-09T13:45:43",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_application_server_abap:789:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

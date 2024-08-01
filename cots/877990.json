@@ -1,0 +1,10 @@
+{
+    "id": 877990,
+    "name": "geowebcache",
+    "version": "1.0",
+    "created_at": "2022-04-22T15:56:53",
+    "updated_at": "2022-04-25T11:59:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geoserver:geowebcache:1.0:beta0:*:*:*:*:*:*",
+    "to_analyse": false
+}

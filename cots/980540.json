@@ -1,0 +1,10 @@
+{
+    "id": 980540,
+    "name": "secustation_firmware",
+    "version": "2.5.5.3116-s50-sma-b20190723a",
+    "created_at": "2022-12-12T16:06:12",
+    "updated_at": "2022-12-15T19:22:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:secu:secustation_firmware:2.5.5.3116-s50-sma-b20190723a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

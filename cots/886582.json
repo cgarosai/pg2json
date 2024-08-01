@@ -1,0 +1,10 @@
+{
+    "id": 886582,
+    "name": "2540_firmware",
+    "version": "16.05.0",
+    "created_at": "2022-05-18T10:32:27",
+    "updated_at": "2022-05-18T14:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:2540_firmware:16.05.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

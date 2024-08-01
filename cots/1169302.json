@@ -1,0 +1,10 @@
+{
+    "id": 1169302,
+    "name": "server",
+    "version": "5.2.0.10225",
+    "created_at": "2023-09-28T13:23:12",
+    "updated_at": "2023-09-28T13:23:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trueconf:server:5.2.0.10225:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

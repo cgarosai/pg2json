@@ -1,0 +1,10 @@
+{
+    "id": 655109,
+    "name": "eventio",
+    "version": "-",
+    "created_at": "2021-02-01T19:11:42",
+    "updated_at": "2021-02-01T19:11:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:petabi:eventio:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

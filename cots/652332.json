@@ -1,0 +1,10 @@
+{
+    "id": 652332,
+    "name": "ethernet_controller_i210_firmware",
+    "version": "-",
+    "created_at": "2021-02-18T11:12:10",
+    "updated_at": "2021-04-30T14:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_controller_i210_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

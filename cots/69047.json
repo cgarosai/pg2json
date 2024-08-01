@@ -1,0 +1,10 @@
+{
+    "id": 69047,
+    "name": "gnu_gatekeeper",
+    "version": "2.2.7",
+    "created_at": "2012-09-11T16:59:59",
+    "updated_at": "2012-09-21T18:23:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnugk:gnu_gatekeeper:2.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 863405,
+    "name": "lvskihp_firmware",
+    "version": "-",
+    "created_at": "2022-04-12T09:36:21",
+    "updated_at": "2022-10-05T13:09:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:verizon:lvskihp_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

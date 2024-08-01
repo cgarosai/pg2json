@@ -1,0 +1,10 @@
+{
+    "id": 953991,
+    "name": "twisted",
+    "version": "22.8.0",
+    "created_at": "2022-10-28T12:53:32",
+    "updated_at": "2022-11-08T12:20:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:twistedmatrix:twisted:22.8.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

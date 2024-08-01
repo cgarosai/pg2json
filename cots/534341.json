@@ -1,0 +1,10 @@
+{
+    "id": 534341,
+    "name": "msm8953_firmware",
+    "version": "-",
+    "created_at": "2020-05-04T15:04:44",
+    "updated_at": "2020-05-04T15:04:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:msm8953_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

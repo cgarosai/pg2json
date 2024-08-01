@@ -1,0 +1,10 @@
+{
+    "id": 447769,
+    "name": "container_image_scanner",
+    "version": "1.0.3",
+    "created_at": "2019-11-27T14:28:30",
+    "updated_at": "2019-11-27T14:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anchore:container_image_scanner:1.0.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

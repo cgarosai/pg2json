@@ -1,0 +1,10 @@
+{
+    "id": 1104342,
+    "name": "openedge_explorer",
+    "version": "12.7",
+    "created_at": "2023-07-05T08:36:51",
+    "updated_at": "2023-07-06T13:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:openedge_explorer:12.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

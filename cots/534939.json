@@ -1,0 +1,10 @@
+{
+    "id": 534939,
+    "name": "z-cron",
+    "version": "5.6",
+    "created_at": "2020-05-04T17:19:17",
+    "updated_at": "2020-05-04T17:19:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:z-cron:z-cron:5.6:build_04:*:*:*:*:*:*",
+    "to_analyse": false
+}

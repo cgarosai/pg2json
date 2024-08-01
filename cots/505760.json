@@ -1,0 +1,10 @@
+{
+    "id": 505760,
+    "name": "sailor_600_vsat_ku_firmware",
+    "version": "170_224521",
+    "created_at": "2020-02-28T16:58:00",
+    "updated_at": "2020-02-28T16:58:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cobham:sailor_600_vsat_ku_firmware:170_224521:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

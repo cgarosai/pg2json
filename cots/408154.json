@@ -1,0 +1,10 @@
+{
+    "id": 408154,
+    "name": "knex",
+    "version": "0.1.1",
+    "created_at": "2019-10-10T15:26:50",
+    "updated_at": "2019-10-10T15:26:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:knexjs:knex:0.1.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

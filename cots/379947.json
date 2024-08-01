@@ -1,0 +1,10 @@
+{
+    "id": 379947,
+    "name": "s12700_firmware",
+    "version": "v200r010sph002",
+    "created_at": "2019-09-19T14:51:49",
+    "updated_at": "2019-09-19T14:51:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s12700_firmware:v200r010sph002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

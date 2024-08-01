@@ -1,0 +1,10 @@
+{
+    "id": 798225,
+    "name": "powershell",
+    "version": "7.1",
+    "created_at": "2021-10-19T16:04:20",
+    "updated_at": "2021-10-20T16:21:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:powershell:7.1:preview4:*:*:*:*:*:*",
+    "to_analyse": false
+}

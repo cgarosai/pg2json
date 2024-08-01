@@ -1,0 +1,10 @@
+{
+    "id": 334534,
+    "name": "opencms",
+    "version": "10.5",
+    "created_at": "2019-08-20T13:23:50",
+    "updated_at": "2019-08-20T13:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alkacon:opencms:10.5:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

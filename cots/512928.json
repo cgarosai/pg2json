@@ -1,0 +1,10 @@
+{
+    "id": 512928,
+    "name": "ad_helper_firmware",
+    "version": "5.8.5.10317",
+    "created_at": "2020-03-30T10:52:12",
+    "updated_at": "2020-03-30T10:52:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:watchguard:ad_helper_firmware:5.8.5.10317:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

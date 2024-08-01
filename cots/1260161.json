@@ -1,0 +1,10 @@
+{
+    "id": 1260161,
+    "name": "cfingerd",
+    "version": "1.1.1",
+    "created_at": "2024-04-23T12:22:53",
+    "updated_at": "2024-04-23T12:22:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infodrom:cfingerd:1.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 758623,
+    "name": "emc_unisphere",
+    "version": "8.2",
+    "created_at": "2021-08-05T12:43:46",
+    "updated_at": "2021-08-05T12:45:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_unisphere:8.2:*:*:*:*:vmax:*:*",
+    "to_analyse": false
+}

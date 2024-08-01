@@ -1,0 +1,10 @@
+{
+    "id": 911838,
+    "name": "charm_firmware",
+    "version": "1.2.3",
+    "created_at": "2022-08-09T12:05:17",
+    "updated_at": "2022-08-09T12:57:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:charm_firmware:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

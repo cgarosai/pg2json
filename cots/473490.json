@@ -1,0 +1,10 @@
+{
+    "id": 473490,
+    "name": "mcollective",
+    "version": "1.2.0",
+    "created_at": "2020-01-27T12:27:18",
+    "updated_at": "2020-01-27T12:27:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:mcollective:1.2.0:*:*:*:*:puppet:*:*",
+    "to_analyse": false
+}

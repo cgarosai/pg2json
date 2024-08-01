@@ -1,0 +1,10 @@
+{
+    "id": 221071,
+    "name": "gitlab",
+    "version": "1.5.12",
+    "created_at": "2019-04-22T09:44:32",
+    "updated_at": "2019-04-22T09:44:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gitlab:1.5.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

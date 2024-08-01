@@ -1,0 +1,10 @@
+{
+    "id": 1115194,
+    "name": "i-doit",
+    "version": "21",
+    "created_at": "2023-07-05T14:16:23",
+    "updated_at": "2023-07-05T14:48:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:i-doit:i-doit:21:*:*:*:open:*:*:*",
+    "to_analyse": false
+}

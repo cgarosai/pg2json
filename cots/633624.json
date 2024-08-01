@@ -1,0 +1,10 @@
+{
+    "id": 633624,
+    "name": "archer_a7_firmware",
+    "version": "200721",
+    "created_at": "2021-01-04T16:33:54",
+    "updated_at": "2021-01-04T16:33:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:archer_a7_firmware:200721:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

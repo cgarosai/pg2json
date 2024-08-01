@@ -1,0 +1,10 @@
+{
+    "id": 731377,
+    "name": "icedtea-web",
+    "version": "3.0.0",
+    "created_at": "2021-07-12T15:51:54",
+    "updated_at": "2021-07-12T18:04:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icedtea-web_project:icedtea-web:3.0.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

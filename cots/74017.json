@@ -1,0 +1,10 @@
+{
+    "id": 74017,
+    "name": "soliddb",
+    "version": "6.3.34",
+    "created_at": "2013-09-09T15:22:21",
+    "updated_at": "2013-09-10T11:43:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:soliddb:6.3.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

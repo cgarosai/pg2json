@@ -1,0 +1,10 @@
+{
+    "id": 603137,
+    "name": "mybatis",
+    "version": "3.5.5",
+    "created_at": "2020-10-14T14:12:15",
+    "updated_at": "2020-10-14T14:12:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mybatis:mybatis:3.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

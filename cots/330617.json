@@ -1,0 +1,10 @@
+{
+    "id": 330617,
+    "name": "carbon_black",
+    "version": "5.1.1.60603",
+    "created_at": "2019-08-14T17:11:38",
+    "updated_at": "2019-08-14T17:11:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:carbonblack:carbon_black:5.1.1.60603:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

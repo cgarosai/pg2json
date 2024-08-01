@@ -1,0 +1,10 @@
+{
+    "id": 979149,
+    "name": "talk",
+    "version": "14.1.0",
+    "created_at": "2022-11-29T14:11:54",
+    "updated_at": "2022-12-21T17:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:talk:14.1.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

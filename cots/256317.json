@@ -1,0 +1,10 @@
+{
+    "id": 256317,
+    "name": "bubblewrap",
+    "version": "0.3.0",
+    "created_at": "2019-06-07T15:23:15",
+    "updated_at": "2019-06-07T15:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:projectatomic:bubblewrap:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

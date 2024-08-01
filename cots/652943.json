@@ -1,0 +1,10 @@
+{
+    "id": 652943,
+    "name": "active_iq_unified_manager",
+    "version": "7.3",
+    "created_at": "2021-02-18T17:53:51",
+    "updated_at": "2021-02-18T17:53:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

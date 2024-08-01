@@ -1,0 +1,10 @@
+{
+    "id": 137845,
+    "name": "spin-kickstarts",
+    "version": "-",
+    "created_at": "2017-11-07T17:58:17",
+    "updated_at": "2021-06-01T13:50:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:spin-kickstarts:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

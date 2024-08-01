@@ -1,0 +1,10 @@
+{
+    "id": 359896,
+    "name": "dspace",
+    "version": "4.5",
+    "created_at": "2019-09-05T15:51:44",
+    "updated_at": "2019-09-05T15:51:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duraspace:dspace:4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

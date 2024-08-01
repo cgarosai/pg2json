@@ -1,0 +1,10 @@
+{
+    "id": 886308,
+    "name": "eventsource",
+    "version": "0.2.2",
+    "created_at": "2022-05-17T16:11:09",
+    "updated_at": "2022-05-17T19:17:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eventsource:eventsource:0.2.2:*:*:*:node.js:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 219023,
+    "name": "sinema_remote_connect",
+    "version": "-",
+    "created_at": "2019-03-19T12:16:18",
+    "updated_at": "2021-05-22T22:50:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sinema_remote_connect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

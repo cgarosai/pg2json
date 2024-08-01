@@ -1,0 +1,10 @@
+{
+    "id": 1169103,
+    "name": "expense_tracker",
+    "version": "1.0",
+    "created_at": "2023-09-28T11:37:44",
+    "updated_at": "2023-09-30T01:15:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:expense_tracker_project:expense_tracker:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

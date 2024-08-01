@@ -1,0 +1,10 @@
+{
+    "id": 2494,
+    "name": "imp",
+    "version": "3.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2011-06-30T13:00:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:imp:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

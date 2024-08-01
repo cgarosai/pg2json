@@ -1,0 +1,10 @@
+{
+    "id": 894780,
+    "name": "rails_html_sanitizers",
+    "version": "1.0.4",
+    "created_at": "2022-07-05T13:38:53",
+    "updated_at": "2023-12-28T15:46:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.0.4:*:*:*:*:rails:*:*",
+    "to_analyse": false
+}

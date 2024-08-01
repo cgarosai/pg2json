@@ -1,0 +1,10 @@
+{
+    "id": 368310,
+    "name": "ipfire",
+    "version": "2.15",
+    "created_at": "2019-09-12T11:41:45",
+    "updated_at": "2019-09-12T11:41:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipfire:ipfire:2.15:76_rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

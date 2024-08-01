@@ -1,0 +1,10 @@
+{
+    "id": 1021914,
+    "name": "memcached",
+    "version": "1.6.10",
+    "created_at": "2023-02-10T13:07:05",
+    "updated_at": "2023-02-10T14:24:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:memcached:memcached:1.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

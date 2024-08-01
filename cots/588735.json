@@ -1,0 +1,10 @@
+{
+    "id": 588735,
+    "name": "ip8160_firmware",
+    "version": "0113a",
+    "created_at": "2020-08-20T13:10:24",
+    "updated_at": "2020-08-20T13:10:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vivotek:ip8160_firmware:0113a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1262034,
+    "name": "heat_pumps",
+    "version": "-",
+    "created_at": "2024-05-15T10:00:53",
+    "updated_at": "2024-05-15T10:00:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:alpha-innotec:heat_pumps:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

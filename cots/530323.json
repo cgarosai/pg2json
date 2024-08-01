@@ -1,0 +1,10 @@
+{
+    "id": 530323,
+    "name": "xeon_e5502",
+    "version": "-",
+    "created_at": "2020-04-28T09:38:18",
+    "updated_at": "2020-04-28T09:38:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5502:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

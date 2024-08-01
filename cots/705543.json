@@ -1,0 +1,10 @@
+{
+    "id": 705543,
+    "name": "mixme",
+    "version": "0.5.0",
+    "created_at": "2021-05-06T12:42:15",
+    "updated_at": "2021-05-11T11:20:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adaltas:mixme:0.5.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

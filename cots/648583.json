@@ -1,0 +1,10 @@
+{
+    "id": 648583,
+    "name": "desktop_and_laptop_option",
+    "version": "9.5",
+    "created_at": "2021-01-13T14:46:24",
+    "updated_at": "2021-01-13T14:46:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:desktop_and_laptop_option:9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

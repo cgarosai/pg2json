@@ -1,0 +1,10 @@
+{
+    "id": 95462,
+    "name": "clang",
+    "version": "3.5",
+    "created_at": "2014-04-24T14:51:25",
+    "updated_at": "2014-04-24T21:14:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:llvm:clang:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1233150,
+    "name": ".net_framework",
+    "version": "4.8.04690.01",
+    "created_at": "2024-01-18T15:30:54",
+    "updated_at": "2024-01-18T15:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:.net_framework:4.8.04690.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 274878,
+    "name": "asyncos",
+    "version": "7.1.5",
+    "created_at": "2019-07-02T10:09:26",
+    "updated_at": "2019-07-02T10:09:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asyncos:7.1.5:hot_patch5:*:*:*:*:*:*",
+    "to_analyse": false
+}

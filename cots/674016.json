@@ -1,0 +1,10 @@
+{
+    "id": 674016,
+    "name": "mule",
+    "version": "3.9.4",
+    "created_at": "2021-03-29T14:51:13",
+    "updated_at": "2021-04-14T13:22:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:salesforce:mule:3.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

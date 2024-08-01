@@ -1,0 +1,10 @@
+{
+    "id": 704325,
+    "name": "bc-csharp",
+    "version": "1.8.7",
+    "created_at": "2021-05-26T09:10:13",
+    "updated_at": "2021-05-26T13:48:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bouncycastle:bc-csharp:1.8.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

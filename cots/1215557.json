@@ -1,0 +1,10 @@
+{
+    "id": 1215557,
+    "name": "sip-t19p-e2_firmware",
+    "version": "53.84.0.15",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yealink:sip-t19p-e2_firmware:53.84.0.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

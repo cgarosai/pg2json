@@ -1,0 +1,10 @@
+{
+    "id": 112571,
+    "name": "ccis1425_firmware",
+    "version": "-",
+    "created_at": "2016-11-23T15:15:05",
+    "updated_at": "2016-11-23T15:15:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:ccis1425_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

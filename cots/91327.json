@@ -1,0 +1,10 @@
+{
+    "id": 91327,
+    "name": "global_console_manager_32_firmware",
+    "version": "1.20.0.22575",
+    "created_at": "2014-08-18T15:27:46",
+    "updated_at": "2014-08-22T18:03:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:global_console_manager_32_firmware:1.20.0.22575:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

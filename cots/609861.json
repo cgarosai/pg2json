@@ -1,0 +1,10 @@
+{
+    "id": 609861,
+    "name": "sm-2556_firmware",
+    "version": "dnpi00",
+    "created_at": "2020-10-07T11:02:38",
+    "updated_at": "2020-10-07T11:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sm-2556_firmware:dnpi00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

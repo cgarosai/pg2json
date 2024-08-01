@@ -1,0 +1,10 @@
+{
+    "id": 497876,
+    "name": "wordpress_poll",
+    "version": "35.2",
+    "created_at": "2020-02-19T13:56:30",
+    "updated_at": "2020-02-19T13:56:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cardozatechnologies:wordpress_poll:35.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

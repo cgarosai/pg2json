@@ -1,0 +1,10 @@
+{
+    "id": 768093,
+    "name": "389_directory_server",
+    "version": "1.4.4.15",
+    "created_at": "2021-08-20T16:27:24",
+    "updated_at": "2021-09-22T15:40:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:389_directory_server:1.4.4.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

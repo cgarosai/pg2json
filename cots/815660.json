@@ -1,0 +1,10 @@
+{
+    "id": 815660,
+    "name": "ethernet_diagnostic_driver",
+    "version": "1.4.0.10",
+    "created_at": "2021-11-22T11:06:27",
+    "updated_at": "2021-11-30T20:00:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:ethernet_diagnostic_driver:1.4.0.10:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

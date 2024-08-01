@@ -1,0 +1,10 @@
+{
+    "id": 707320,
+    "name": "infinispan-server-runtime",
+    "version": "10.1.2",
+    "created_at": "2021-05-11T14:18:50",
+    "updated_at": "2021-05-11T14:28:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:infinispan:infinispan-server-runtime:10.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

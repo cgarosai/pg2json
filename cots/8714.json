@@ -1,0 +1,10 @@
+{
+    "id": 8714,
+    "name": "asa_5500",
+    "version": "7.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:asa_5500:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

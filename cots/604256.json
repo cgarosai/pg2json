@@ -1,0 +1,10 @@
+{
+    "id": 604256,
+    "name": "fineract",
+    "version": "0.6.0",
+    "created_at": "2020-10-21T09:50:26",
+    "updated_at": "2020-10-21T09:50:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:fineract:0.6.0:incubating:*:*:*:*:*:*",
+    "to_analyse": false
+}

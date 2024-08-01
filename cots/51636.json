@@ -1,0 +1,10 @@
+{
+    "id": 51636,
+    "name": "server",
+    "version": "5.1.99",
+    "created_at": "2012-06-21T17:08:49",
+    "updated_at": "2012-06-21T17:08:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:server:5.1.99:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

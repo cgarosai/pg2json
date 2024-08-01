@@ -1,0 +1,10 @@
+{
+    "id": 747124,
+    "name": "web-stat",
+    "version": "1.0.6",
+    "created_at": "2021-07-20T13:52:06",
+    "updated_at": "2021-07-20T13:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:web-stat_project:web-stat:1.0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

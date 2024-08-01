@@ -1,0 +1,10 @@
+{
+    "id": 116178,
+    "name": "simotion_scout",
+    "version": "4.3",
+    "created_at": "2016-03-15T16:00:17",
+    "updated_at": "2016-03-15T16:00:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simotion_scout:4.3:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

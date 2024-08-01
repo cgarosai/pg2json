@@ -1,0 +1,10 @@
+{
+    "id": 640240,
+    "name": "aws_s3_crypto_sdk",
+    "version": "2",
+    "created_at": "2021-01-21T14:02:46",
+    "updated_at": "2021-01-21T14:02:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_s3_crypto_sdk:2:*:*:*:*:golang:*:*",
+    "to_analyse": false
+}

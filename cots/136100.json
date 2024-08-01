@@ -1,0 +1,10 @@
+{
+    "id": 136100,
+    "name": "mcp-firmware",
+    "version": "43.185",
+    "created_at": "2017-10-10T16:38:15",
+    "updated_at": "2021-05-13T14:45:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:unisys:mcp-firmware:43.185:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

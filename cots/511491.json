@@ -1,0 +1,10 @@
+{
+    "id": 511491,
+    "name": "celeron_g550",
+    "version": "-",
+    "created_at": "2020-03-26T12:37:15",
+    "updated_at": "2020-03-26T12:37:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:celeron_g550:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

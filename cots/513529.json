@@ -1,0 +1,10 @@
+{
+    "id": 513529,
+    "name": "azure_container_service",
+    "version": "1.1.0",
+    "created_at": "2020-03-30T17:59:09",
+    "updated_at": "2020-03-30T17:59:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:azure_container_service:1.1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

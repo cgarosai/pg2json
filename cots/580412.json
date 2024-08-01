@@ -1,0 +1,10 @@
+{
+    "id": 580412,
+    "name": "enmasse",
+    "version": "0.27.0",
+    "created_at": "2020-08-22T15:13:18",
+    "updated_at": "2020-08-22T15:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:enmasse:0.27.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 213384,
+    "name": "libzmq",
+    "version": "4.2.4",
+    "created_at": "2019-03-29T16:37:28",
+    "updated_at": "2019-03-29T16:37:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zeromq:libzmq:4.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

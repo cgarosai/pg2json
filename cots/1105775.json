@@ -1,0 +1,10 @@
+{
+    "id": 1105775,
+    "name": "floating_cart",
+    "version": "-",
+    "created_at": "2023-06-20T21:45:12",
+    "updated_at": "2023-06-21T15:05:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xforwoocommerce:floating_cart:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

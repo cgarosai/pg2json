@@ -1,0 +1,10 @@
+{
+    "id": 707126,
+    "name": "vsmart_controller",
+    "version": "-",
+    "created_at": "2021-05-10T19:20:33",
+    "updated_at": "2021-10-01T12:27:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:vsmart_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

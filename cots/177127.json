@@ -1,0 +1,10 @@
+{
+    "id": 177127,
+    "name": "sixnet-managed_industrial_switches_firmware",
+    "version": "2.9",
+    "created_at": "2018-09-18T12:50:00",
+    "updated_at": "2021-05-24T14:01:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redlion:sixnet-managed_industrial_switches_firmware:2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

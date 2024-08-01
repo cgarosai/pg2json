@@ -1,0 +1,10 @@
+{
+    "id": 207005,
+    "name": "isg-800w_firmware",
+    "version": "1.1-r2.1_trunk-20180914",
+    "created_at": "2019-02-06T16:06:44",
+    "updated_at": "2021-05-27T16:11:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:systrome:isg-800w_firmware:1.1-r2.1_trunk-20180914:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 935876,
+    "name": "morgan-json",
+    "version": "1.1.0",
+    "created_at": "2022-08-31T15:21:21",
+    "updated_at": "2022-09-01T13:49:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:morgan-json_project:morgan-json:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

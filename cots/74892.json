@@ -1,0 +1,10 @@
+{
+    "id": 74892,
+    "name": "pyopenssl",
+    "version": "0.10",
+    "created_at": "2013-10-01T13:09:22",
+    "updated_at": "2013-10-01T13:15:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jean-paul_calderone:pyopenssl:0.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

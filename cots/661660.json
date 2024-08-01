@@ -1,0 +1,10 @@
+{
+    "id": 661660,
+    "name": "zonote",
+    "version": "0.3.2",
+    "created_at": "2021-03-03T23:47:28",
+    "updated_at": "2021-03-03T23:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:electronjs:zonote:0.3.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

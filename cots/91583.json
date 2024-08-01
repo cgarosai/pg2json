@@ -1,0 +1,10 @@
+{
+    "id": 91583,
+    "name": "powervc",
+    "version": "1.2.0.0",
+    "created_at": "2014-08-20T16:55:14",
+    "updated_at": "2014-08-22T19:44:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:powervc:1.2.0.0:*:*:*:standard:*:*:*",
+    "to_analyse": false
+}

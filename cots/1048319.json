@@ -1,0 +1,10 @@
+{
+    "id": 1048319,
+    "name": "directory_server",
+    "version": "11.6",
+    "created_at": "2023-03-08T11:05:04",
+    "updated_at": "2023-07-17T11:53:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:directory_server:11.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

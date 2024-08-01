@@ -1,0 +1,10 @@
+{
+    "id": 374200,
+    "name": "html-pdf",
+    "version": "1.2.0",
+    "created_at": "2019-09-23T12:08:32",
+    "updated_at": "2019-09-23T12:08:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:html-pdf_project:html-pdf:1.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

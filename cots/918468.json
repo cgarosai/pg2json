@@ -1,0 +1,10 @@
+{
+    "id": 918468,
+    "name": "rpmsign-plugin",
+    "version": "0.5.0",
+    "created_at": "2022-08-02T10:26:20",
+    "updated_at": "2022-08-02T12:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:rpmsign-plugin:0.5.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

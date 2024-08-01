@@ -1,0 +1,10 @@
+{
+    "id": 736091,
+    "name": "selenium_html_report",
+    "version": "0.92",
+    "created_at": "2021-07-01T11:18:51",
+    "updated_at": "2021-07-01T11:59:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:selenium_html_report:0.92:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

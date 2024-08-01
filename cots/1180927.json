@@ -1,0 +1,10 @@
+{
+    "id": 1180927,
+    "name": "auto_login_new_user_after_registration",
+    "version": "1.6.1",
+    "created_at": "2023-10-30T12:17:13",
+    "updated_at": "2023-10-30T12:17:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auto_login_new_user_after_registration_project:auto_login_new_user_after_registration:1.6.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

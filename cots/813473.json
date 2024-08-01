@@ -1,0 +1,10 @@
+{
+    "id": 813473,
+    "name": "fas500f_firmware",
+    "version": "-",
+    "created_at": "2021-12-08T15:37:13",
+    "updated_at": "2021-12-14T17:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:fas500f_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

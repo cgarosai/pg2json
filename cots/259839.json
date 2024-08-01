@@ -1,0 +1,10 @@
+{
+    "id": 259839,
+    "name": "laravel",
+    "version": "4.2.9",
+    "created_at": "2019-06-11T10:04:06",
+    "updated_at": "2019-06-11T10:04:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravel:laravel:4.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

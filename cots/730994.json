@@ -1,0 +1,10 @@
+{
+    "id": 730994,
+    "name": "google_captcha",
+    "version": "1.52",
+    "created_at": "2021-07-12T12:41:16",
+    "updated_at": "2021-07-12T13:15:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestwebsoft:google_captcha:1.52:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

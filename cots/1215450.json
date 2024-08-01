@@ -1,0 +1,10 @@
+{
+    "id": 1215450,
+    "name": "newtest",
+    "version": "8.5r0",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ip-label:newtest:8.5r0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

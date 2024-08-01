@@ -1,0 +1,10 @@
+{
+    "id": 763117,
+    "name": "blue-admin",
+    "version": "21.06.01",
+    "created_at": "2021-08-31T22:37:14",
+    "updated_at": "2021-09-01T09:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blue-admin_project:blue-admin:21.06.01:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

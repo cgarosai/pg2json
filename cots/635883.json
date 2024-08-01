@@ -1,0 +1,10 @@
+{
+    "id": 635883,
+    "name": "archer_c9_firmware",
+    "version": "180125",
+    "created_at": "2020-12-11T15:03:04",
+    "updated_at": "2020-12-11T15:03:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:archer_c9_firmware:180125:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1115351,
+    "name": "aws_cloud_development_kit",
+    "version": "1.186.0",
+    "created_at": "2023-07-06T11:08:46",
+    "updated_at": "2023-07-06T11:34:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_cloud_development_kit:1.186.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

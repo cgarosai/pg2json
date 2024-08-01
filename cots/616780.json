@@ -1,0 +1,10 @@
+{
+    "id": 616780,
+    "name": "virtual_diskstation_manager",
+    "version": "-",
+    "created_at": "2020-10-30T17:03:10",
+    "updated_at": "2020-10-30T17:03:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:virtual_diskstation_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

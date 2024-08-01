@@ -1,0 +1,10 @@
+{
+    "id": 1156207,
+    "name": "snappy",
+    "version": "0.1.1",
+    "created_at": "2023-09-12T14:09:48",
+    "updated_at": "2023-09-12T14:09:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:knplabs:snappy:0.1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

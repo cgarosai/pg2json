@@ -1,0 +1,10 @@
+{
+    "id": 1041512,
+    "name": "help_desk",
+    "version": "1.0.1",
+    "created_at": "2023-03-11T12:51:55",
+    "updated_at": "2023-04-07T21:42:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wyomind:help_desk:1.0.1:*:*:*:*:magento_2:*:*",
+    "to_analyse": false
+}

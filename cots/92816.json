@@ -1,0 +1,10 @@
+{
+    "id": 92816,
+    "name": "ca_dmv",
+    "version": "2.0",
+    "created_at": "2014-09-21T21:40:31",
+    "updated_at": "2014-12-14T14:44:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dmv.ca.gov:ca_dmv:2.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

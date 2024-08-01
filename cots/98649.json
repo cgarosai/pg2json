@@ -1,0 +1,10 @@
+{
+    "id": 98649,
+    "name": "storage",
+    "version": "2.1",
+    "created_at": "2014-06-06T12:20:43",
+    "updated_at": "2014-06-09T16:11:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:storage:2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

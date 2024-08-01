@@ -1,0 +1,10 @@
+{
+    "id": 590369,
+    "name": "broker_control_center",
+    "version": "4.3.2",
+    "created_at": "2020-09-15T14:29:52",
+    "updated_at": "2020-09-15T14:29:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hivemq:broker_control_center:4.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

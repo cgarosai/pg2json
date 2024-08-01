@@ -1,0 +1,10 @@
+{
+    "id": 870031,
+    "name": "r530_firmware",
+    "version": "2.14.0",
+    "created_at": "2022-05-02T15:26:28",
+    "updated_at": "2022-05-09T15:42:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:r530_firmware:2.14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

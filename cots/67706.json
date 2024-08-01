@@ -1,0 +1,10 @@
+{
+    "id": 67706,
+    "name": "safeguard_enterprise_device_encryption",
+    "version": "5.40.0",
+    "created_at": "2012-08-24T14:22:10",
+    "updated_at": "2012-08-24T18:00:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:safeguard_enterprise_device_encryption:5.40.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

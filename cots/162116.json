@@ -1,0 +1,10 @@
+{
+    "id": 162116,
+    "name": "vbsecurity",
+    "version": "3.3.0",
+    "created_at": "2018-08-09T17:02:10",
+    "updated_at": "2021-05-28T12:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dragonbyte-tech:vbsecurity:3.3.0:*:*:*:*:vbulletin3:*:*",
+    "to_analyse": false
+}

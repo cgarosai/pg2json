@@ -1,0 +1,10 @@
+{
+    "id": 797069,
+    "name": "mquery",
+    "version": "1.4.0",
+    "created_at": "2021-10-15T16:12:00",
+    "updated_at": "2021-10-15T16:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mquery_project:mquery:1.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

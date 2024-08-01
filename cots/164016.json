@@ -1,0 +1,10 @@
+{
+    "id": 164016,
+    "name": "idrac8",
+    "version": "2.60.60.60",
+    "created_at": "2018-08-22T15:49:41",
+    "updated_at": "2021-05-17T15:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:idrac8:2.60.60.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 842256,
+    "name": "wocu_monitoring",
+    "version": "0.43",
+    "created_at": "2022-02-16T00:25:00",
+    "updated_at": "2022-02-17T18:12:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wocu-monitoring:wocu_monitoring:0.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

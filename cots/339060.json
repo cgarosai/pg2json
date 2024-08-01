@@ -1,0 +1,10 @@
+{
+    "id": 339060,
+    "name": "sp1_firmware",
+    "version": "3.4.1.160407110",
+    "created_at": "2019-08-13T13:34:44",
+    "updated_at": "2021-07-02T10:35:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:annke:sp1_firmware:3.4.1.160407110:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

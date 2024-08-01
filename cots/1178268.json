@@ -1,0 +1,10 @@
+{
+    "id": 1178268,
+    "name": "mailmunch",
+    "version": "3.0.5",
+    "created_at": "2023-10-13T16:50:07",
+    "updated_at": "2023-10-13T16:50:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mailmunch:mailmunch:3.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

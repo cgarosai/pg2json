@@ -1,0 +1,10 @@
+{
+    "id": 1155844,
+    "name": "terraform",
+    "version": "1.0.8",
+    "created_at": "2023-09-12T12:06:45",
+    "updated_at": "2023-09-12T12:06:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:terraform:1.0.8:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

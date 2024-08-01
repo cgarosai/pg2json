@@ -1,0 +1,10 @@
+{
+    "id": 1215836,
+    "name": "wp-spamfree_anti-spam",
+    "version": "2.1.1.4",
+    "created_at": "2023-12-09T03:57:34",
+    "updated_at": "2023-12-09T03:57:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-spamfree_anti-spam_project:wp-spamfree_anti-spam:2.1.1.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

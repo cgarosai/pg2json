@@ -1,0 +1,10 @@
+{
+    "id": 124153,
+    "name": "softlogix_5800_controller_firmware",
+    "version": "18.00",
+    "created_at": "2017-08-28T15:18:07",
+    "updated_at": "2017-08-28T15:18:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:softlogix_5800_controller_firmware:18.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 523424,
+    "name": "oauth2_proxy",
+    "version": "3.2.0",
+    "created_at": "2020-04-10T12:29:18",
+    "updated_at": "2020-04-10T12:29:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oauth2_proxy_project:oauth2_proxy:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

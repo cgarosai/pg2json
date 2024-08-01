@@ -1,0 +1,10 @@
+{
+    "id": 878032,
+    "name": "catalyst_9500h",
+    "version": "-",
+    "created_at": "2022-04-25T11:50:23",
+    "updated_at": "2022-10-02T19:00:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_9500h:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

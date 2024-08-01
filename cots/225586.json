@@ -1,0 +1,10 @@
+{
+    "id": 225586,
+    "name": "youtrack-plugin",
+    "version": "0.6.5",
+    "created_at": "2019-04-08T12:10:27",
+    "updated_at": "2019-04-08T12:10:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:youtrack-plugin:0.6.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

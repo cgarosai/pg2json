@@ -1,0 +1,10 @@
+{
+    "id": 571750,
+    "name": "blackbox_exporter",
+    "version": "0.3.0",
+    "created_at": "2020-08-10T13:53:26",
+    "updated_at": "2020-08-10T13:53:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prometheus:blackbox_exporter:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1155256,
+    "name": "isarflow",
+    "version": "5.18",
+    "created_at": "2023-09-11T11:51:31",
+    "updated_at": "2023-09-11T12:34:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isarnet:isarflow:5.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

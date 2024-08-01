@@ -1,0 +1,10 @@
+{
+    "id": 198938,
+    "name": "ip-stationweb",
+    "version": "-",
+    "created_at": "2019-01-02T11:09:40",
+    "updated_at": "2021-08-12T15:48:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:zenitel:ip-stationweb:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

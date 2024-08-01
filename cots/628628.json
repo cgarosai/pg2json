@@ -1,0 +1,10 @@
+{
+    "id": 628628,
+    "name": "cognos_controller",
+    "version": "10.4.2",
+    "created_at": "2020-12-03T13:38:43",
+    "updated_at": "2020-12-03T13:38:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_controller:10.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

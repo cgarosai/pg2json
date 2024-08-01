@@ -1,0 +1,10 @@
+{
+    "id": 238417,
+    "name": "550x_series_stackable_managed_switches_firmware",
+    "version": "2.5.0.78",
+    "created_at": "2019-05-06T14:23:37",
+    "updated_at": "2021-04-16T16:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:550x_series_stackable_managed_switches_firmware:2.5.0.78:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

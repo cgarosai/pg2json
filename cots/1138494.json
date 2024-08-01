@@ -1,0 +1,10 @@
+{
+    "id": 1138494,
+    "name": "nest",
+    "version": "6.6.3",
+    "created_at": "2023-08-10T14:01:49",
+    "updated_at": "2023-08-10T14:09:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nestjs:nest:6.6.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 600595,
+    "name": "sf200-48_firmware",
+    "version": "1.4.11.02",
+    "created_at": "2020-10-08T12:01:39",
+    "updated_at": "2020-10-08T12:01:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sf200-48_firmware:1.4.11.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

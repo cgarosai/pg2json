@@ -1,0 +1,10 @@
+{
+    "id": 1255061,
+    "name": "cbs250-48p-4x_firmware",
+    "version": "3.4",
+    "created_at": "2024-02-07T18:07:27",
+    "updated_at": "2024-02-07T18:07:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:cbs250-48p-4x_firmware:3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

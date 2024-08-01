@@ -1,0 +1,10 @@
+{
+    "id": 101421,
+    "name": "gnutls",
+    "version": "3.4.3",
+    "created_at": "2015-08-25T16:18:29",
+    "updated_at": "2015-08-28T17:23:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gnutls:3.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

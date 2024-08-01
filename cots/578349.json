@@ -1,0 +1,10 @@
+{
+    "id": 578349,
+    "name": "ingress-nginx",
+    "version": "0.27.0",
+    "created_at": "2020-07-30T17:32:34",
+    "updated_at": "2020-07-30T17:32:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:ingress-nginx:0.27.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

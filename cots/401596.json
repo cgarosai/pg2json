@@ -1,0 +1,10 @@
+{
+    "id": 401596,
+    "name": "kaltura_server",
+    "version": "14.19.0",
+    "created_at": "2019-10-16T13:14:00",
+    "updated_at": "2019-10-16T13:14:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaltura:kaltura_server:14.19.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

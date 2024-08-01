@@ -1,0 +1,10 @@
+{
+    "id": 58586,
+    "name": "insight_diagnostics",
+    "version": "7.9.0",
+    "created_at": "2012-05-14T21:30:30",
+    "updated_at": "2012-05-14T21:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:insight_diagnostics:7.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

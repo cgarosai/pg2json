@@ -1,0 +1,10 @@
+{
+    "id": 68929,
+    "name": "garbage_collector",
+    "version": "7.0",
+    "created_at": "2012-09-11T16:02:06",
+    "updated_at": "2012-09-21T17:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:boehm-demers-weiser:garbage_collector:7.0:alpha9:*:*:*:*:*:*",
+    "to_analyse": false
+}

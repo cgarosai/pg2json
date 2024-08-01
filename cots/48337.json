@@ -1,0 +1,10 @@
+{
+    "id": 48337,
+    "name": "groove_server",
+    "version": "2010",
+    "created_at": "2011-09-15T11:24:52",
+    "updated_at": "2013-04-12T12:19:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:groove_server:2010:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 198917,
+    "name": "secure_configuration_manager",
+    "version": "5.7.0.390",
+    "created_at": "2018-12-31T19:59:15",
+    "updated_at": "2021-04-13T15:01:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:secure_configuration_manager:5.7.0.390:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

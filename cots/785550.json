@@ -1,0 +1,10 @@
+{
+    "id": 785550,
+    "name": "display_users",
+    "version": "-",
+    "created_at": "2021-09-28T14:21:44",
+    "updated_at": "2021-09-28T15:30:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:display_users_project:display_users:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

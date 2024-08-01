@@ -1,0 +1,10 @@
+{
+    "id": 530143,
+    "name": "xeon_platinum_8158_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:08:06",
+    "updated_at": "2020-04-27T18:08:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_platinum_8158_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

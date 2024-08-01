@@ -1,0 +1,10 @@
+{
+    "id": 102617,
+    "name": "moscad_ip_gateway_firmware",
+    "version": "-",
+    "created_at": "2015-12-23T19:40:13",
+    "updated_at": "2015-12-23T19:40:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:motorola:moscad_ip_gateway_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

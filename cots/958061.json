@@ -1,0 +1,10 @@
+{
+    "id": 958061,
+    "name": "supybot-fedora",
+    "version": "0.5.0",
+    "created_at": "2022-10-20T11:04:19",
+    "updated_at": "2022-10-20T13:03:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:supybot-fedora:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

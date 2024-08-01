@@ -1,0 +1,10 @@
+{
+    "id": 234230,
+    "name": "gapm-7100_firmware",
+    "version": "-",
+    "created_at": "2019-05-15T09:43:42",
+    "updated_at": "2021-06-10T15:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mercury:gapm-7100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

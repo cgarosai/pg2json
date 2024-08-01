@@ -1,0 +1,10 @@
+{
+    "id": 14039,
+    "name": "iss_realsecure_network",
+    "version": "7.0",
+    "created_at": "2008-11-25T18:12:58",
+    "updated_at": "2008-11-25T18:12:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:iss_realsecure_network:7.0:xpu_20.3:*:*:*:*:*:*",
+    "to_analyse": false
+}

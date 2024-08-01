@@ -1,0 +1,10 @@
+{
+    "id": 1089001,
+    "name": "wp_go_maps",
+    "version": "5.09",
+    "created_at": "2023-05-23T18:00:12",
+    "updated_at": "2023-05-23T18:30:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codecabin:wp_go_maps:5.09:*:*:*:basic:wordpress:*:*",
+    "to_analyse": false
+}

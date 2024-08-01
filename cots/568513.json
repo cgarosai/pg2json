@@ -1,0 +1,10 @@
+{
+    "id": 568513,
+    "name": "zap_pipeline",
+    "version": "1.7",
+    "created_at": "2020-07-06T11:02:32",
+    "updated_at": "2020-07-06T11:02:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:zap_pipeline:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 500527,
+    "name": "sdk",
+    "version": "7.1.0.0",
+    "created_at": "2020-03-06T17:18:37",
+    "updated_at": "2020-03-06T17:18:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:sdk:7.1.0.0:*:*:*:java_technology:*:*:*",
+    "to_analyse": false
+}

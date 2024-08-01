@@ -1,0 +1,10 @@
+{
+    "id": 684608,
+    "name": "swiper",
+    "version": "2.6.0",
+    "created_at": "2021-04-14T13:43:23",
+    "updated_at": "2021-04-21T16:02:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swiperjs:swiper:2.6.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

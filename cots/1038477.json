@@ -1,0 +1,10 @@
+{
+    "id": 1038477,
+    "name": "node.js",
+    "version": "18.0.0",
+    "created_at": "2023-02-23T19:41:14",
+    "updated_at": "2024-03-07T20:24:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodejs:node.js:18.0.0:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1186085,
+    "name": "openshift_container_platform",
+    "version": "4.13",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_container_platform:4.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

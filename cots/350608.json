@@ -1,0 +1,10 @@
+{
+    "id": 350608,
+    "name": "angular-jwt",
+    "version": "0.0.8",
+    "created_at": "2019-09-06T15:33:35",
+    "updated_at": "2019-09-06T15:33:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:angular-jwt:0.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

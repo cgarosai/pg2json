@@ -1,0 +1,10 @@
+{
+    "id": 915331,
+    "name": "powervm_hypervisor",
+    "version": "fw950.40",
+    "created_at": "2022-07-26T14:24:59",
+    "updated_at": "2022-07-27T14:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:powervm_hypervisor:fw950.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

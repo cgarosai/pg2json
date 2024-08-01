@@ -1,0 +1,10 @@
+{
+    "id": 773071,
+    "name": "security_secret_server",
+    "version": "11.0",
+    "created_at": "2021-09-23T11:53:02",
+    "updated_at": "2021-09-23T15:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_secret_server:11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

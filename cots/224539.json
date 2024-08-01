@@ -1,0 +1,10 @@
+{
+    "id": 224539,
+    "name": "messenger",
+    "version": "4.5.0",
+    "created_at": "2019-04-26T16:26:26",
+    "updated_at": "2022-04-07T15:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:signal:messenger:4.5.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

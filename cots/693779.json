@@ -1,0 +1,10 @@
+{
+    "id": 693779,
+    "name": "airwave",
+    "version": "8.2.8.0",
+    "created_at": "2021-05-04T11:31:32",
+    "updated_at": "2021-05-04T11:32:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arubanetworks:airwave:8.2.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

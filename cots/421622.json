@@ -1,0 +1,10 @@
+{
+    "id": 421622,
+    "name": "fluentd",
+    "version": "0.14.7",
+    "created_at": "2019-11-05T18:49:20",
+    "updated_at": "2019-11-05T18:49:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fluentd:fluentd:0.14.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

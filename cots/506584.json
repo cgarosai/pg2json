@@ -1,0 +1,10 @@
+{
+    "id": 506584,
+    "name": "check_mk",
+    "version": "1.1.9",
+    "created_at": "2020-03-03T13:31:46",
+    "updated_at": "2020-03-03T13:31:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:check_mk_project:check_mk:1.1.9:i3:*:*:*:*:*:*",
+    "to_analyse": false
+}

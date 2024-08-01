@@ -1,0 +1,10 @@
+{
+    "id": 497775,
+    "name": "converged_security_management_engine_firmware",
+    "version": "13.0.20",
+    "created_at": "2020-02-19T13:16:32",
+    "updated_at": "2021-05-04T08:51:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:converged_security_management_engine_firmware:13.0.20:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

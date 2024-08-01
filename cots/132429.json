@@ -1,0 +1,10 @@
+{
+    "id": 132429,
+    "name": "camera_firmware",
+    "version": "a1d-500-v6.11.31-ac",
+    "created_at": "2017-12-29T19:04:36",
+    "updated_at": "2021-06-15T12:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:acti:camera_firmware:a1d-500-v6.11.31-ac:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

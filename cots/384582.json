@@ -1,0 +1,10 @@
+{
+    "id": 384582,
+    "name": "call_remote_job",
+    "version": "1.0.12",
+    "created_at": "2019-09-26T15:11:41",
+    "updated_at": "2019-09-26T15:11:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:call_remote_job:1.0.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

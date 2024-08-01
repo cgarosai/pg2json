@@ -1,0 +1,10 @@
+{
+    "id": 32841,
+    "name": "macbook_pro",
+    "version": "mb134xx\\/a",
+    "created_at": "2011-02-22T15:45:35",
+    "updated_at": "2011-02-22T15:45:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:apple:macbook_pro:mb134xx\\/a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1061563,
+    "name": "reb500_firmware",
+    "version": "8.2.0.5",
+    "created_at": "2023-04-19T12:10:14",
+    "updated_at": "2023-04-19T13:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hitachienergy:reb500_firmware:8.2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

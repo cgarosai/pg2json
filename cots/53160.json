@@ -1,0 +1,10 @@
+{
+    "id": 53160,
+    "name": "driver_installer",
+    "version": "2.3.0.797",
+    "created_at": "2012-07-10T01:17:07",
+    "updated_at": "2012-07-10T01:17:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:option:driver_installer:2.3.0.797:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

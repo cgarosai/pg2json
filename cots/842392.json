@@ -1,0 +1,10 @@
+{
+    "id": 842392,
+    "name": "assimp",
+    "version": "v4.0.0",
+    "created_at": "2022-02-16T13:34:08",
+    "updated_at": "2022-09-09T13:16:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:assimp:assimp:v4.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

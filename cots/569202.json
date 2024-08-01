@@ -1,0 +1,10 @@
+{
+    "id": 569202,
+    "name": "udfclient",
+    "version": "0.2",
+    "created_at": "2020-07-07T10:48:14",
+    "updated_at": "2020-07-07T10:48:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:13thmonkey:udfclient:0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

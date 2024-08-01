@@ -1,0 +1,10 @@
+{
+    "id": 662268,
+    "name": "avahi",
+    "version": "0.8",
+    "created_at": "2021-03-04T16:21:21",
+    "updated_at": "2021-03-08T14:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avahi:avahi:0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

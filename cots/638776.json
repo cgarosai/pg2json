@@ -1,0 +1,10 @@
+{
+    "id": 638776,
+    "name": "platform_manager",
+    "version": "7.4.9",
+    "created_at": "2020-12-17T18:03:26",
+    "updated_at": "2020-12-17T18:03:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logrhythm:platform_manager:7.4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

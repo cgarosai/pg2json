@@ -1,0 +1,10 @@
+{
+    "id": 1023097,
+    "name": "wax650s_firmware",
+    "version": "6.45\\(abrm.0\\)c0",
+    "created_at": "2023-02-13T19:08:17",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:wax650s_firmware:6.45\\(abrm.0\\)c0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 316436,
+    "name": "job_manager",
+    "version": "0.6.5",
+    "created_at": "2019-07-26T09:57:30",
+    "updated_at": "2019-07-26T09:57:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-jobmanager:job_manager:0.6.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

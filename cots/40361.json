@@ -1,0 +1,10 @@
+{
+    "id": 40361,
+    "name": "winlog_lite",
+    "version": "2.06.86",
+    "created_at": "2011-12-22T14:46:18",
+    "updated_at": "2012-01-05T18:29:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sielcosistemi:winlog_lite:2.06.86:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

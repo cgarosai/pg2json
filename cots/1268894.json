@@ -1,0 +1,10 @@
+{
+    "id": 1268894,
+    "name": "websphere_application_server",
+    "version": "24.0.0.3",
+    "created_at": "2024-04-09T10:08:26",
+    "updated_at": "2024-04-09T10:08:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server:24.0.0.3:*:*:*:liberty:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 53266,
+    "name": "securityexpressions",
+    "version": "3.2",
+    "created_at": "2012-07-10T01:17:24",
+    "updated_at": "2012-07-10T01:17:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pedestal:securityexpressions:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

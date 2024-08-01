@@ -1,0 +1,10 @@
+{
+    "id": 1193237,
+    "name": "meetings",
+    "version": "5.15.10",
+    "created_at": "2023-11-21T19:14:55",
+    "updated_at": "2023-11-21T19:14:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:meetings:5.15.10:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

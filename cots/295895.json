@@ -1,0 +1,10 @@
+{
+    "id": 295895,
+    "name": "port_allocator",
+    "version": "1.8",
+    "created_at": "2019-07-12T13:32:56",
+    "updated_at": "2019-07-12T13:32:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:port_allocator:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

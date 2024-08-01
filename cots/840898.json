@@ -1,0 +1,10 @@
+{
+    "id": 840898,
+    "name": "power_meter_9410",
+    "version": "-",
+    "created_at": "2022-02-10T17:45:06",
+    "updated_at": "2022-02-11T21:40:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:power_meter_9410:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

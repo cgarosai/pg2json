@@ -1,0 +1,10 @@
+{
+    "id": 125993,
+    "name": "simatic_logon",
+    "version": "1.5",
+    "created_at": "2017-03-17T13:15:55",
+    "updated_at": "2017-03-17T13:15:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_logon:1.5:sp3_update_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

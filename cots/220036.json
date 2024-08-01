@@ -1,0 +1,10 @@
+{
+    "id": 220036,
+    "name": "iprint",
+    "version": "6.6.3",
+    "created_at": "2019-04-16T17:34:43",
+    "updated_at": "2019-04-16T17:34:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:epson:iprint:6.6.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

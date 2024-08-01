@@ -1,0 +1,10 @@
+{
+    "id": 987348,
+    "name": "stcg4000300_firmware",
+    "version": "-",
+    "created_at": "2022-12-07T17:37:28",
+    "updated_at": "2022-12-07T18:36:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:seagate:stcg4000300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 187834,
+    "name": "linux_kernel",
+    "version": "2.1.94",
+    "created_at": "2018-10-29T17:06:00",
+    "updated_at": "2018-10-29T17:06:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:2.1.94:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

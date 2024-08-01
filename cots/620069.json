@@ -1,0 +1,10 @@
+{
+    "id": 620069,
+    "name": "hyperguard_web_application_firewall",
+    "version": "2.5.5-11635",
+    "created_at": "2020-12-07T15:17:18",
+    "updated_at": "2020-12-07T15:17:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hyperguard_web_application_firewall_project:hyperguard_web_application_firewall:2.5.5-11635:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 619249,
+    "name": "os_controller",
+    "version": "11.60.3",
+    "created_at": "2020-11-12T20:13:32",
+    "updated_at": "2020-11-12T20:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:os_controller:11.60.3:r1:*:*:*:*:*:*",
+    "to_analyse": false
+}

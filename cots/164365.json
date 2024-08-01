@@ -1,0 +1,10 @@
+{
+    "id": 164365,
+    "name": "license_manager",
+    "version": "3.2.5",
+    "created_at": "2018-08-30T15:54:50",
+    "updated_at": "2018-08-30T15:54:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:license_manager:3.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

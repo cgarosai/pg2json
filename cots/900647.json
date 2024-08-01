@@ -1,0 +1,10 @@
+{
+    "id": 900647,
+    "name": "cache_images",
+    "version": "3.2",
+    "created_at": "2022-07-14T11:26:20",
+    "updated_at": "2022-07-14T12:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cache_images_project:cache_images:3.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 811833,
+    "name": "banking_liquidity_management",
+    "version": "14.5",
+    "created_at": "2021-12-02T18:03:21",
+    "updated_at": "2021-12-03T18:39:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:banking_liquidity_management:14.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

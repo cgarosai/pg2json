@@ -1,0 +1,10 @@
+{
+    "id": 823036,
+    "name": "derive-com-impl",
+    "version": "0.1.0",
+    "created_at": "2022-01-04T17:01:39",
+    "updated_at": "2022-01-10T15:11:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:derive-com-impl_project:derive-com-impl:0.1.0:alpha3:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 69236,
+    "name": "mobile_intel_qs67_chipset",
+    "version": "_express-",
+    "created_at": "2012-09-17T14:38:09",
+    "updated_at": "2012-09-18T12:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:mobile_intel_qs67_chipset:_express-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

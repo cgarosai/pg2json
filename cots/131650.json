@@ -1,0 +1,10 @@
+{
+    "id": 131650,
+    "name": "modem",
+    "version": "-",
+    "created_at": "2017-12-19T14:14:39",
+    "updated_at": "2021-08-10T15:23:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:vivo:modem:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

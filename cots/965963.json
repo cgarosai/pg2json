@@ -1,0 +1,10 @@
+{
+    "id": 965963,
+    "name": "nano_arena",
+    "version": "0.5.1",
+    "created_at": "2022-11-01T11:23:11",
+    "updated_at": "2022-11-01T11:24:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nano_arena_project:nano_arena:0.5.1:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

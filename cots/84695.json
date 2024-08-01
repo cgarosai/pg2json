@@ -1,0 +1,10 @@
+{
+    "id": 84695,
+    "name": "python-keystoneclient",
+    "version": "0.3.0",
+    "created_at": "2014-04-16T10:29:26",
+    "updated_at": "2014-04-18T11:35:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:python-keystoneclient:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

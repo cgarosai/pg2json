@@ -1,0 +1,10 @@
+{
+    "id": 166868,
+    "name": "icar_2_wi-fi_obd2_firmware",
+    "version": "-",
+    "created_at": "2018-07-03T16:12:24",
+    "updated_at": "2021-07-01T14:12:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vgate:icar_2_wi-fi_obd2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

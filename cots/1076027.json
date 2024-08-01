@@ -1,0 +1,10 @@
+{
+    "id": 1076027,
+    "name": "spring_boot",
+    "version": "3.0.5",
+    "created_at": "2023-04-27T14:45:24",
+    "updated_at": "2023-07-07T17:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_boot:3.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

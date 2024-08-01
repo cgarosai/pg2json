@@ -1,0 +1,10 @@
+{
+    "id": 115603,
+    "name": "500_series_switch_firmware",
+    "version": "1.2.0.92",
+    "created_at": "2016-02-24T15:04:12",
+    "updated_at": "2016-02-24T15:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:500_series_switch_firmware:1.2.0.92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

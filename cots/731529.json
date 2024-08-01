@@ -1,0 +1,10 @@
+{
+    "id": 731529,
+    "name": "http_server",
+    "version": "10.0.4",
+    "created_at": "2021-07-12T17:19:53",
+    "updated_at": "2021-07-13T11:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:akka:http_server:10.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

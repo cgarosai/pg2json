@@ -1,0 +1,10 @@
+{
+    "id": 270012,
+    "name": "wp_limit_login_attempts",
+    "version": "4.9",
+    "created_at": "2019-06-26T10:27:59",
+    "updated_at": "2019-06-26T10:27:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ciphercoin:wp_limit_login_attempts:4.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

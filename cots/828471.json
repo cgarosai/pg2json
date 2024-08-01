@@ -1,0 +1,10 @@
+{
+    "id": 828471,
+    "name": "fog_director",
+    "version": "-",
+    "created_at": "2021-12-16T18:46:12",
+    "updated_at": "2021-12-21T23:59:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:fog_director:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

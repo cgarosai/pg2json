@@ -1,0 +1,10 @@
+{
+    "id": 1163135,
+    "name": "infrastructure_analytics_advisor",
+    "version": "2.0.0-00",
+    "created_at": "2023-10-04T20:55:01",
+    "updated_at": "2023-10-04T20:55:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:infrastructure_analytics_advisor:2.0.0-00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

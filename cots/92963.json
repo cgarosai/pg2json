@@ -1,0 +1,10 @@
+{
+    "id": 92963,
+    "name": "news",
+    "version": "3.2.0",
+    "created_at": "2014-10-06T14:19:36",
+    "updated_at": "2014-12-14T15:06:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:news_project:news:3.2.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

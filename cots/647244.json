@@ -1,0 +1,10 @@
+{
+    "id": 647244,
+    "name": "asa_5580_firmware",
+    "version": "96.4\\(0.42\\)",
+    "created_at": "2021-01-11T14:52:39",
+    "updated_at": "2021-01-11T14:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asa_5580_firmware:96.4\\(0.42\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

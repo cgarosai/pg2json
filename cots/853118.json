@@ -1,0 +1,10 @@
+{
+    "id": 853118,
+    "name": "proteus",
+    "version": "5.0.0",
+    "created_at": "2022-03-16T12:57:40",
+    "updated_at": "2022-03-17T18:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tryton:proteus:5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1261473,
+    "name": "hyphenator",
+    "version": "5.1.5",
+    "created_at": "2024-04-29T15:24:59",
+    "updated_at": "2024-04-29T15:24:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:benedictb\\/maciejgryniuk:hyphenator:5.1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

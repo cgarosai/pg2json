@@ -1,0 +1,10 @@
+{
+    "id": 49201,
+    "name": "slackware_linux",
+    "version": "12.1",
+    "created_at": "2011-11-08T17:21:32",
+    "updated_at": "2011-11-08T17:21:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:slackware:slackware_linux:12.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

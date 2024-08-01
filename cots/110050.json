@@ -1,0 +1,10 @@
+{
+    "id": 110050,
+    "name": "ultraslim_dongle",
+    "version": "-",
+    "created_at": "2016-08-04T20:53:31",
+    "updated_at": "2021-05-06T15:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lenovo:ultraslim_dongle:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

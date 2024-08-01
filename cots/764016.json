@@ -1,0 +1,10 @@
+{
+    "id": 764016,
+    "name": "primavera_gateway",
+    "version": "19.12.10",
+    "created_at": "2021-09-02T12:07:43",
+    "updated_at": "2021-09-03T17:18:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:primavera_gateway:19.12.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1071923,
+    "name": "disqus_conditional_load",
+    "version": "11.0.6",
+    "created_at": "2023-05-11T13:42:50",
+    "updated_at": "2023-05-11T15:22:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:disqus_conditional_load_project:disqus_conditional_load:11.0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

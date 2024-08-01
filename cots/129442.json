@@ -1,0 +1,10 @@
+{
+    "id": 129442,
+    "name": "softnet_profinet_io_firmware",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-06-29T11:39:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:softnet_profinet_io_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

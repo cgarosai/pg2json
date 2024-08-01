@@ -1,0 +1,10 @@
+{
+    "id": 899683,
+    "name": "nsa_2400",
+    "version": "-",
+    "created_at": "2022-06-16T13:09:45",
+    "updated_at": "2022-06-16T13:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sonicwall:nsa_2400:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

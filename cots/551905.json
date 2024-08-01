@@ -1,0 +1,10 @@
+{
+    "id": 551905,
+    "name": "gateway",
+    "version": "4.7.1-0",
+    "created_at": "2020-06-19T14:59:12",
+    "updated_at": "2020-06-19T14:59:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ciphermail:gateway:4.7.1-0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

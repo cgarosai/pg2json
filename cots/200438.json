@@ -1,0 +1,10 @@
+{
+    "id": 200438,
+    "name": "storage_automation_store",
+    "version": "-",
+    "created_at": "2019-02-26T13:04:59",
+    "updated_at": "2021-07-02T16:27:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:storage_automation_store:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

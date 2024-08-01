@@ -1,0 +1,10 @@
+{
+    "id": 519834,
+    "name": "xeon_e3-1280_v6",
+    "version": "-",
+    "created_at": "2020-03-23T15:22:52",
+    "updated_at": "2020-03-23T15:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e3-1280_v6:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

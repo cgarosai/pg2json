@@ -1,0 +1,10 @@
+{
+    "id": 619206,
+    "name": "edge",
+    "version": "85.0.564.63",
+    "created_at": "2020-11-12T17:36:30",
+    "updated_at": "2020-11-12T17:36:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:edge:85.0.564.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

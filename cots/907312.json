@@ -1,0 +1,10 @@
+{
+    "id": 907312,
+    "name": "weave_gitops",
+    "version": "0.2.2",
+    "created_at": "2022-07-07T17:51:02",
+    "updated_at": "2022-07-08T09:00:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:weave:weave_gitops:0.2.2:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

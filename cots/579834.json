@@ -1,0 +1,10 @@
+{
+    "id": 579834,
+    "name": "control_win",
+    "version": "3.5.16.0",
+    "created_at": "2020-08-04T09:53:47",
+    "updated_at": "2020-08-04T09:53:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_win:3.5.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

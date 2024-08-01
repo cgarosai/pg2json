@@ -1,0 +1,10 @@
+{
+    "id": 602435,
+    "name": "iphone_os",
+    "version": "14.0",
+    "created_at": "2020-10-14T09:36:29",
+    "updated_at": "2020-10-14T09:36:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:iphone_os:14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

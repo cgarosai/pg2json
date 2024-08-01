@@ -1,0 +1,10 @@
+{
+    "id": 509642,
+    "name": "srx5400_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T14:20:59",
+    "updated_at": "2020-03-06T14:20:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:srx5400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

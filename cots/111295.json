@@ -1,0 +1,10 @@
+{
+    "id": 111295,
+    "name": "rsa_adaptive_authentication_on-premise",
+    "version": "7.2",
+    "created_at": "2016-09-21T13:35:32",
+    "updated_at": "2021-05-24T15:13:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_adaptive_authentication_on-premise:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

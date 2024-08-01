@@ -1,0 +1,10 @@
+{
+    "id": 868220,
+    "name": "webos",
+    "version": "-",
+    "created_at": "2022-03-28T13:51:18",
+    "updated_at": "2022-09-28T18:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lg:webos:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

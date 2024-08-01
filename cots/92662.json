@@ -1,0 +1,10 @@
+{
+    "id": 92662,
+    "name": "lumonet_php_include",
+    "version": "1.2.0",
+    "created_at": "2014-09-11T14:31:48",
+    "updated_at": "2014-12-10T15:44:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lumonet_php_include_project:lumonet_php_include:1.2.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

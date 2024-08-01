@@ -1,0 +1,10 @@
+{
+    "id": 1160177,
+    "name": "magic_r300-2100m_firmware",
+    "version": "r300-2100mv100r004",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:h3c:magic_r300-2100m_firmware:r300-2100mv100r004:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 527820,
+    "name": "metric_registrar_release",
+    "version": "1.2",
+    "created_at": "2020-04-01T18:19:32",
+    "updated_at": "2020-04-01T18:19:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:metric_registrar_release:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

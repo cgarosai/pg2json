@@ -1,0 +1,10 @@
+{
+    "id": 490567,
+    "name": "dp300_firmware",
+    "version": "v500r002c00spc400",
+    "created_at": "2020-02-21T20:01:03",
+    "updated_at": "2020-02-21T20:01:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:dp300_firmware:v500r002c00spc400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

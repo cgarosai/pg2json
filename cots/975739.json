@@ -1,0 +1,10 @@
+{
+    "id": 975739,
+    "name": "rqm",
+    "version": "2.6",
+    "created_at": "2022-11-23T00:11:50",
+    "updated_at": "2022-11-23T00:12:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:rqm:2.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

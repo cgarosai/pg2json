@@ -1,0 +1,10 @@
+{
+    "id": 843502,
+    "name": "ecdsa-python",
+    "version": "0.1.2",
+    "created_at": "2022-02-17T14:20:32",
+    "updated_at": "2022-02-25T15:26:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:starkbank:ecdsa-python:0.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 655889,
+    "name": "sg550x-24mpp_firmware",
+    "version": "2.5.0.92",
+    "created_at": "2021-02-03T13:14:17",
+    "updated_at": "2021-04-23T17:02:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg550x-24mpp_firmware:2.5.0.92:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

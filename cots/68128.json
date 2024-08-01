@@ -1,0 +1,10 @@
+{
+    "id": 68128,
+    "name": "finder",
+    "version": "6.x-1.0",
+    "created_at": "2012-08-29T11:36:20",
+    "updated_at": "2012-09-21T18:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:danielb:finder:6.x-1.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

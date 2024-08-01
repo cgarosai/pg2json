@@ -1,0 +1,10 @@
+{
+    "id": 920166,
+    "name": "ethernet_controller_x540",
+    "version": "-",
+    "created_at": "2022-08-25T11:32:20",
+    "updated_at": "2022-08-25T12:41:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ethernet_controller_x540:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

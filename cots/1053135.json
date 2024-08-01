@@ -1,0 +1,10 @@
+{
+    "id": 1053135,
+    "name": "fitness_trainer",
+    "version": "-",
+    "created_at": "2023-04-03T10:14:55",
+    "updated_at": "2023-04-03T15:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:e-plugins:fitness_trainer:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

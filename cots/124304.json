@@ -1,0 +1,10 @@
+{
+    "id": 124304,
+    "name": "thinkserver_td340_firmware",
+    "version": "a3tsb5a",
+    "created_at": "2017-08-28T15:40:31",
+    "updated_at": "2021-05-05T10:53:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkserver_td340_firmware:a3tsb5a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

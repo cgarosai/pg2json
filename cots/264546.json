@@ -1,0 +1,10 @@
+{
+    "id": 264546,
+    "name": "web_links",
+    "version": "5.x-1.6",
+    "created_at": "2019-06-19T15:33:50",
+    "updated_at": "2019-06-19T15:33:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:web_links_project:web_links:5.x-1.6:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

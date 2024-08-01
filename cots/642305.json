@@ -1,0 +1,10 @@
+{
+    "id": 642305,
+    "name": "vert.x-web",
+    "version": "4.0.0",
+    "created_at": "2021-01-26T16:25:19",
+    "updated_at": "2021-01-26T16:25:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:vert.x-web:4.0.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

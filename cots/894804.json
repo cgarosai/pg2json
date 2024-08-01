@@ -1,0 +1,10 @@
+{
+    "id": 894804,
+    "name": "split-html-to-chars",
+    "version": "1.0.0",
+    "created_at": "2022-07-05T14:08:20",
+    "updated_at": "2022-07-06T11:33:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:split-html-to-chars_project:split-html-to-chars:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

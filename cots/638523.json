@@ -1,0 +1,10 @@
+{
+    "id": 638523,
+    "name": "chronograf_docker_image",
+    "version": "1.7.6",
+    "created_at": "2020-12-17T16:02:19",
+    "updated_at": "2021-02-25T10:50:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:influxdata:chronograf_docker_image:1.7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

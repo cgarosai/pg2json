@@ -1,0 +1,10 @@
+{
+    "id": 70383,
+    "name": "android_smartphone",
+    "version": "003p",
+    "created_at": "2013-06-17T16:36:27",
+    "updated_at": "2013-06-24T12:17:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:softbank:android_smartphone:003p:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

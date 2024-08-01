@@ -1,0 +1,10 @@
+{
+    "id": 675972,
+    "name": "squid",
+    "version": "5.0.5",
+    "created_at": "2021-03-11T17:23:04",
+    "updated_at": "2021-04-21T16:04:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squid-cache:squid:5.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

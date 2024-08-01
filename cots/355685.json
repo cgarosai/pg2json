@@ -1,0 +1,10 @@
+{
+    "id": 355685,
+    "name": "google_forms",
+    "version": "0.41",
+    "created_at": "2019-09-04T10:28:00",
+    "updated_at": "2019-09-04T10:28:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google_forms_project:google_forms:0.41:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

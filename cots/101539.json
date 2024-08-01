@@ -1,0 +1,10 @@
+{
+    "id": 101539,
+    "name": "quiz",
+    "version": "-",
+    "created_at": "2015-09-02T09:55:29",
+    "updated_at": "2015-09-03T13:36:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quiz_project:quiz:-:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

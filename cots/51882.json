@@ -1,0 +1,10 @@
+{
+    "id": 51882,
+    "name": "control_panel",
+    "version": "276.28",
+    "created_at": "2012-06-21T17:10:22",
+    "updated_at": "2012-06-21T17:10:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:control_panel:276.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

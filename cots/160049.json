@@ -1,0 +1,10 @@
+{
+    "id": 160049,
+    "name": "mysqljs",
+    "version": "1.0.2",
+    "created_at": "2018-07-26T14:36:51",
+    "updated_at": "2018-07-26T14:36:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysqljs_project:mysqljs:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

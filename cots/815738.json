@@ -1,0 +1,10 @@
+{
+    "id": 815738,
+    "name": "ssd_dc_p4511_m.2_firmware",
+    "version": "vdv10384",
+    "created_at": "2021-11-22T13:15:57",
+    "updated_at": "2021-11-22T16:25:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_dc_p4511_m.2_firmware:vdv10384:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

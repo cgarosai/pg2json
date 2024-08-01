@@ -1,0 +1,10 @@
+{
+    "id": 65551,
+    "name": ".net_data_provider",
+    "version": "13.10.0.0",
+    "created_at": "2012-08-01T19:32:38",
+    "updated_at": "2012-08-01T19:32:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradata:.net_data_provider:13.10.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

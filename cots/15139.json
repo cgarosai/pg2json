@@ -1,0 +1,10 @@
+{
+    "id": 15139,
+    "name": "directx",
+    "version": "7.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-15T20:39:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:directx:7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

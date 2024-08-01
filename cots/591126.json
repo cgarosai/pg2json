@@ -1,0 +1,10 @@
+{
+    "id": 591126,
+    "name": "openshift_application_runtimes",
+    "version": "-",
+    "created_at": "2020-09-17T11:42:49",
+    "updated_at": "2021-09-18T11:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_application_runtimes:-:*:*:*:text-only:*:*:*",
+    "to_analyse": false
+}

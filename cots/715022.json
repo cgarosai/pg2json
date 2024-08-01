@@ -1,0 +1,10 @@
+{
+    "id": 715022,
+    "name": "fido_u2f_firmware",
+    "version": "-",
+    "created_at": "2021-05-27T10:06:57",
+    "updated_at": "2021-05-27T12:54:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nitrokey:fido_u2f_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

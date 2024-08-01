@@ -1,0 +1,10 @@
+{
+    "id": 58618,
+    "name": "insight_management_wbem_providers",
+    "version": "2.6.0.0",
+    "created_at": "2012-05-14T21:30:39",
+    "updated_at": "2012-05-14T21:30:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:insight_management_wbem_providers:2.6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

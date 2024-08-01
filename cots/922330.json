@@ -1,0 +1,10 @@
+{
+    "id": 922330,
+    "name": "jboss_core_services_httpd",
+    "version": "2.4.37",
+    "created_at": "2022-08-30T11:27:42",
+    "updated_at": "2022-09-01T17:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_core_services_httpd:2.4.37:sp6:*:*:*:*:*:*",
+    "to_analyse": false
+}

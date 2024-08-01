@@ -1,0 +1,10 @@
+{
+    "id": 1168303,
+    "name": "google_search",
+    "version": "-",
+    "created_at": "2023-09-28T09:03:45",
+    "updated_at": "2023-09-28T09:03:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:google_search:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

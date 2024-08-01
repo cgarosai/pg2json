@@ -1,0 +1,10 @@
+{
+    "id": 528178,
+    "name": "custom_searchable_data_entry_system",
+    "version": "1.4.1",
+    "created_at": "2020-04-02T10:38:39",
+    "updated_at": "2020-04-02T10:38:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:custom_searchable_data_entry_system_project:custom_searchable_data_entry_system:1.4.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

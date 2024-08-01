@@ -1,0 +1,10 @@
+{
+    "id": 112729,
+    "name": "tririga_application_platform",
+    "version": "10.5",
+    "created_at": "2016-12-05T13:41:59",
+    "updated_at": "2016-12-05T13:41:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tririga_application_platform:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 507834,
+    "name": "inncom_inncontrol_firmware",
+    "version": "-",
+    "created_at": "2020-03-04T12:51:30",
+    "updated_at": "2020-03-04T12:51:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:honeywell:inncom_inncontrol_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

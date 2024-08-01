@@ -1,0 +1,10 @@
+{
+    "id": 852213,
+    "name": "occlum",
+    "version": "0.22.0",
+    "created_at": "2022-03-14T16:46:35",
+    "updated_at": "2022-03-16T13:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:occlum_project:occlum:0.22.0:*:*:*:*:software_guard_extensions:*:*",
+    "to_analyse": false
+}

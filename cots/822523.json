@@ -1,0 +1,10 @@
+{
+    "id": 822523,
+    "name": "mac_os_x",
+    "version": "10.11.6",
+    "created_at": "2022-01-03T15:48:38",
+    "updated_at": "2022-01-12T18:10:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:mac_os_x:10.11.6:security_update_2017-002:*:*:*:*:*:*",
+    "to_analyse": false
+}

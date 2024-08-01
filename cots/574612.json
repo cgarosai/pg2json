@@ -1,0 +1,10 @@
+{
+    "id": 574612,
+    "name": "graphics_agent",
+    "version": "2.15.0",
+    "created_at": "2020-08-12T11:03:27",
+    "updated_at": "2021-05-04T14:05:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:graphics_agent:2.15.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

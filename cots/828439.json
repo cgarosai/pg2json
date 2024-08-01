@@ -1,0 +1,10 @@
+{
+    "id": 828439,
+    "name": "energyip",
+    "version": "8.5",
+    "created_at": "2021-12-16T18:46:12",
+    "updated_at": "2021-12-16T19:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:energyip:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

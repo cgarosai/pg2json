@@ -1,0 +1,10 @@
+{
+    "id": 920151,
+    "name": "ethernet_controller_x710_firmware",
+    "version": "-",
+    "created_at": "2022-08-25T10:54:11",
+    "updated_at": "2022-08-25T12:41:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_controller_x710_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

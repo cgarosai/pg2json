@@ -1,0 +1,10 @@
+{
+    "id": 1014100,
+    "name": "t301s_firmware",
+    "version": "10.5.1.0.199",
+    "created_at": "2023-01-27T16:17:55",
+    "updated_at": "2023-01-31T14:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ruckuswireless:t301s_firmware:10.5.1.0.199:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

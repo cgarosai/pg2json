@@ -1,0 +1,10 @@
+{
+    "id": 112398,
+    "name": "endpoint_protection_plus",
+    "version": "8.0.1609",
+    "created_at": "2016-11-17T11:42:26",
+    "updated_at": "2016-11-17T11:42:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:endpoint_protection_plus:8.0.1609:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

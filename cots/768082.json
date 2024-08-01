@@ -1,0 +1,10 @@
+{
+    "id": 768082,
+    "name": "ckeditor",
+    "version": "4.15.0",
+    "created_at": "2021-08-20T15:40:34",
+    "updated_at": "2021-08-23T09:20:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ckeditor:ckeditor:4.15.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

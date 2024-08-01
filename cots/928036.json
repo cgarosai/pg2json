@@ -1,0 +1,10 @@
+{
+    "id": 928036,
+    "name": "mapgis_igserver",
+    "version": "10.5.6.11",
+    "created_at": "2022-08-22T14:02:57",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mapgis:mapgis_igserver:10.5.6.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

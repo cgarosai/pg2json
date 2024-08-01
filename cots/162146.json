@@ -1,0 +1,10 @@
+{
+    "id": 162146,
+    "name": "firepower_9000",
+    "version": "-",
+    "created_at": "2018-08-10T13:09:24",
+    "updated_at": "2021-04-28T11:29:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_9000:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

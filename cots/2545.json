@@ -1,0 +1,10 @@
+{
+    "id": 2545,
+    "name": "cluster_object_manager",
+    "version": "b.03.00.00",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:cluster_object_manager:b.03.00.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

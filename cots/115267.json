@@ -1,0 +1,10 @@
+{
+    "id": 115267,
+    "name": "bamboo",
+    "version": "5.4.2",
+    "created_at": "2016-02-17T12:30:37",
+    "updated_at": "2016-02-17T12:30:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:bamboo:5.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

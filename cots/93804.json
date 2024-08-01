@@ -1,0 +1,10 @@
+{
+    "id": 93804,
+    "name": "cure_viewer",
+    "version": "1.03",
+    "created_at": "2014-11-10T15:19:34",
+    "updated_at": "2014-11-10T15:54:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:curecos:cure_viewer:1.03:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

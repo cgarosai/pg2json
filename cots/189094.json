@@ -1,0 +1,10 @@
+{
+    "id": 189094,
+    "name": "subscription-manager",
+    "version": "0.96.4",
+    "created_at": "2018-11-01T12:27:07",
+    "updated_at": "2018-11-01T12:27:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:subscription-manager:0.96.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

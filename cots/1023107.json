@@ -1,0 +1,10 @@
+{
+    "id": 1023107,
+    "name": "online_chart",
+    "version": "0.9",
+    "created_at": "2023-02-13T19:18:29",
+    "updated_at": "2023-02-16T20:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openseamap:online_chart:0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

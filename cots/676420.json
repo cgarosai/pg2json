@@ -1,0 +1,10 @@
+{
+    "id": 676420,
+    "name": "azure_spring_cloud",
+    "version": "-",
+    "created_at": "2021-03-12T23:46:08",
+    "updated_at": "2021-06-15T16:56:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_spring_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

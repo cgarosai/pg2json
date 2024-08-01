@@ -1,0 +1,10 @@
+{
+    "id": 67870,
+    "name": "anyconnect_secure_mobility_client",
+    "version": "2.4.5004",
+    "created_at": "2012-08-24T17:56:00",
+    "updated_at": "2012-08-24T17:56:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:2.4.5004:*:*:*:*:symbian_os:*:*",
+    "to_analyse": false
+}

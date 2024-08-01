@@ -1,0 +1,10 @@
+{
+    "id": 557534,
+    "name": "engine",
+    "version": "19.03.4",
+    "created_at": "2020-06-02T17:20:42",
+    "updated_at": "2020-06-02T17:20:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:engine:19.03.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

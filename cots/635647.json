@@ -1,0 +1,10 @@
+{
+    "id": 635647,
+    "name": "visual_studio_code",
+    "version": "1.1.0",
+    "created_at": "2020-12-11T14:16:04",
+    "updated_at": "2020-12-11T14:16:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:visual_studio_code:1.1.0:*:*:*:*:tslint:*:*",
+    "to_analyse": false
+}

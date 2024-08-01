@@ -1,0 +1,10 @@
+{
+    "id": 936058,
+    "name": "smallrye_health",
+    "version": "2.2.0",
+    "created_at": "2022-08-31T15:47:16",
+    "updated_at": "2022-09-01T17:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:smallrye_health:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 512137,
+    "name": "yargs-parser",
+    "version": "2.1.0",
+    "created_at": "2020-03-26T16:04:07",
+    "updated_at": "2020-03-26T16:04:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yargs:yargs-parser:2.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

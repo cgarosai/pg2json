@@ -1,0 +1,10 @@
+{
+    "id": 594079,
+    "name": "typeorm",
+    "version": "0.2.25",
+    "created_at": "2020-09-23T15:55:24",
+    "updated_at": "2020-09-23T15:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typeorm:typeorm:0.2.25:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

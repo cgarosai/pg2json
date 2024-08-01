@@ -1,0 +1,10 @@
+{
+    "id": 535991,
+    "name": "storage_for_public_cloud",
+    "version": "2.0",
+    "created_at": "2020-04-14T13:15:22",
+    "updated_at": "2021-09-18T11:51:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:storage_for_public_cloud:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

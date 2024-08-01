@@ -1,0 +1,10 @@
+{
+    "id": 1086541,
+    "name": "subscribers",
+    "version": "-",
+    "created_at": "2023-05-22T14:44:30",
+    "updated_at": "2023-05-22T16:09:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hellobar:subscribers:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

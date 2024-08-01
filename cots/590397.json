@@ -1,0 +1,10 @@
+{
+    "id": 590397,
+    "name": "cocoon",
+    "version": "2.1.11",
+    "created_at": "2020-09-15T16:17:23",
+    "updated_at": "2020-09-15T16:17:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cocoon:2.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 88878,
+    "name": "content_manager_ondemand_for_multiplatforms",
+    "version": "8.5",
+    "created_at": "2013-12-18T03:06:14",
+    "updated_at": "2014-06-30T15:16:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:content_manager_ondemand_for_multiplatforms:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

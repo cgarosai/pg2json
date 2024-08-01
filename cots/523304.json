@@ -1,0 +1,10 @@
+{
+    "id": 523304,
+    "name": "appscan",
+    "version": "10.0.0",
+    "created_at": "2020-04-09T19:51:36",
+    "updated_at": "2020-04-09T19:51:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:appscan:10.0.0:*:*:*:standard:*:*:*",
+    "to_analyse": false
+}

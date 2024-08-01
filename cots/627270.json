@@ -1,0 +1,10 @@
+{
+    "id": 627270,
+    "name": "r64mtcpu",
+    "version": "-",
+    "created_at": "2020-12-02T11:30:51",
+    "updated_at": "2021-05-11T13:47:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mitsubishielectric:r64mtcpu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

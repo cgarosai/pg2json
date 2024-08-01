@@ -1,0 +1,10 @@
+{
+    "id": 15211,
+    "name": "ie",
+    "version": "6.0.2800",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2021-07-23T13:02:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:ie:6.0.2800:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

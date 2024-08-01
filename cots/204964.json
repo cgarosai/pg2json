@@ -1,0 +1,10 @@
+{
+    "id": 204964,
+    "name": "smart_telecontrol_unit_tcg",
+    "version": "-",
+    "created_at": "2019-03-07T14:15:02",
+    "updated_at": "2021-06-25T12:56:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:psigridconnect:smart_telecontrol_unit_tcg:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

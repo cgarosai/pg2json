@@ -1,0 +1,10 @@
+{
+    "id": 554646,
+    "name": "cloudview_nms",
+    "version": "1.03",
+    "created_at": "2020-06-24T13:04:15",
+    "updated_at": "2020-06-24T13:04:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudviewnms:cloudview_nms:1.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

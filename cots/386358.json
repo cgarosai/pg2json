@@ -1,0 +1,10 @@
+{
+    "id": 386358,
+    "name": "exist",
+    "version": "4.4.0",
+    "created_at": "2019-09-24T11:11:15",
+    "updated_at": "2019-09-24T11:11:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exist-db:exist:4.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

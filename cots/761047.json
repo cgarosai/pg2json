@@ -1,0 +1,10 @@
+{
+    "id": 761047,
+    "name": "nb1601_firmware",
+    "version": "-",
+    "created_at": "2021-08-26T14:46:40",
+    "updated_at": "2021-08-26T17:07:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netmodule:nb1601_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

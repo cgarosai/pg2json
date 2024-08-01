@@ -1,0 +1,10 @@
+{
+    "id": 490369,
+    "name": "ar110-s_firmware",
+    "version": "v200r007c00spc900",
+    "created_at": "2020-02-21T19:59:03",
+    "updated_at": "2020-02-21T19:59:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar110-s_firmware:v200r007c00spc900:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

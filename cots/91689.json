@@ -1,0 +1,10 @@
+{
+    "id": 91689,
+    "name": "wp_content_source_control",
+    "version": "3.0.0",
+    "created_at": "2014-08-25T15:37:26",
+    "updated_at": "2014-08-28T00:21:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_content_source_control_project:wp_content_source_control:3.0.0:-:-:-:-:wordpress:*:*",
+    "to_analyse": false
+}

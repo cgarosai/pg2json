@@ -1,0 +1,10 @@
+{
+    "id": 680873,
+    "name": "jh_404_logger",
+    "version": "-",
+    "created_at": "2021-04-08T10:54:39",
+    "updated_at": "2021-04-15T14:43:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jh_404_logger_project:jh_404_logger:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

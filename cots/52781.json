@@ -1,0 +1,10 @@
+{
+    "id": 52781,
+    "name": "dtach",
+    "version": "0.8",
+    "created_at": "2012-07-04T11:21:10",
+    "updated_at": "2012-07-04T12:17:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:dtach:0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

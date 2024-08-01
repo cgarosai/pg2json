@@ -1,0 +1,10 @@
+{
+    "id": 682572,
+    "name": "directus",
+    "version": "8.8.2",
+    "created_at": "2021-04-09T12:24:03",
+    "updated_at": "2021-06-04T17:04:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rangerstudio:directus:8.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

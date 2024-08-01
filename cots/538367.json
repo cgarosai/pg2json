@@ -1,0 +1,10 @@
+{
+    "id": 538367,
+    "name": "msa_2042_firmware",
+    "version": "gl225p001",
+    "created_at": "2020-04-23T09:23:33",
+    "updated_at": "2021-08-16T14:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:msa_2042_firmware:gl225p001:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

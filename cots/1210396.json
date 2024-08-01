@@ -1,0 +1,10 @@
+{
+    "id": 1210396,
+    "name": "sub-iot-stack",
+    "version": "0.5.0",
+    "created_at": "2023-12-16T03:05:58",
+    "updated_at": "2023-12-16T03:05:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sub-iot-stack_project:sub-iot-stack:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

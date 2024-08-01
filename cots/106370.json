@@ -1,0 +1,10 @@
+{
+    "id": 106370,
+    "name": "chromium",
+    "version": "11.0.696.64",
+    "created_at": "2015-01-06T18:31:16",
+    "updated_at": "2015-04-13T13:24:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chromium:chromium:11.0.696.64:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

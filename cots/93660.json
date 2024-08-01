@@ -1,0 +1,10 @@
+{
+    "id": 93660,
+    "name": "express",
+    "version": "2.5.3",
+    "created_at": "2014-11-10T15:18:07",
+    "updated_at": "2014-11-10T15:57:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:express:express:2.5.3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

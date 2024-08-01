@@ -1,0 +1,10 @@
+{
+    "id": 118010,
+    "name": "siprotec_compact_model",
+    "version": "-",
+    "created_at": "2016-05-31T18:00:12",
+    "updated_at": "2021-05-19T16:41:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:siprotec_compact_model:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

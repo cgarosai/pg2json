@@ -1,0 +1,10 @@
+{
+    "id": 1210270,
+    "name": "endpoint_security",
+    "version": "35.31.22",
+    "created_at": "2023-12-16T03:01:59",
+    "updated_at": "2023-12-16T03:01:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trellix:endpoint_security:35.31.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

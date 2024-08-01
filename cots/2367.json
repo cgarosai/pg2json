@@ -1,0 +1,10 @@
+{
+    "id": 2367,
+    "name": "tar",
+    "version": "1.14",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:tar:1.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

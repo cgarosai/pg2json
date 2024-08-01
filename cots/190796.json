@@ -1,0 +1,10 @@
+{
+    "id": 190796,
+    "name": "ap-300_series_access_points",
+    "version": "-",
+    "created_at": "2019-01-08T15:00:32",
+    "updated_at": "2021-04-13T14:39:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arubanetworks:ap-300_series_access_points:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

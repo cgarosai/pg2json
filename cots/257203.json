@@ -1,0 +1,10 @@
+{
+    "id": 257203,
+    "name": "sanitize-html",
+    "version": "0.1.0",
+    "created_at": "2019-06-09T15:29:14",
+    "updated_at": "2019-06-09T15:29:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:punkave:sanitize-html:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

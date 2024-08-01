@@ -1,0 +1,10 @@
+{
+    "id": 84163,
+    "name": "echo_life",
+    "version": "hg8247",
+    "created_at": "2014-04-07T12:27:09",
+    "updated_at": "2014-04-10T16:35:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:echo_life:hg8247:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

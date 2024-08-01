@@ -1,0 +1,10 @@
+{
+    "id": 478573,
+    "name": "ganglia-web",
+    "version": "3.5.12",
+    "created_at": "2020-01-14T18:13:18",
+    "updated_at": "2020-01-14T18:13:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ganglia:ganglia-web:3.5.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

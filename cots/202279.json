@@ -1,0 +1,10 @@
+{
+    "id": 202279,
+    "name": "webex_teams",
+    "version": "-",
+    "created_at": "2019-02-27T18:09:05",
+    "updated_at": "2019-02-27T18:09:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex_teams:-:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

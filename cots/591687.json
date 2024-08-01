@@ -1,0 +1,10 @@
+{
+    "id": 591687,
+    "name": "cryptsetup",
+    "version": "2.2.0",
+    "created_at": "2020-09-21T09:44:34",
+    "updated_at": "2020-09-21T09:44:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cryptsetup_project:cryptsetup:2.2.0:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

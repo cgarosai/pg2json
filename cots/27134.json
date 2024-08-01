@@ -1,0 +1,10 @@
+{
+    "id": 27134,
+    "name": "pidgin",
+    "version": "2.5.3",
+    "created_at": "2009-05-26T14:29:15",
+    "updated_at": "2012-02-10T18:25:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pidgin:pidgin:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 930341,
+    "name": "aruba_virtual_intranet_access",
+    "version": "4.0.3",
+    "created_at": "2022-09-09T12:19:46",
+    "updated_at": "2022-09-14T14:00:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:aruba_virtual_intranet_access:4.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

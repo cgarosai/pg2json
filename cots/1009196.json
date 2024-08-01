@@ -1,0 +1,10 @@
+{
+    "id": 1009196,
+    "name": "open_media_player",
+    "version": "0.95",
+    "created_at": "2023-01-04T14:11:43",
+    "updated_at": "2023-01-04T19:03:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open:open_media_player:0.95:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

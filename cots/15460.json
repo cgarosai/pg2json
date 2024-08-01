@@ -1,0 +1,10 @@
+{
+    "id": 15460,
+    "name": "monotone",
+    "version": "0.25",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2010-10-29T15:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:monotone:monotone:0.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 672921,
+    "name": "avast_pro_antivirus",
+    "version": "-",
+    "created_at": "2021-03-24T13:08:41",
+    "updated_at": "2021-04-09T11:18:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:avast_pro_antivirus:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

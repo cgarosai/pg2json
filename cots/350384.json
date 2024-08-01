@@ -1,0 +1,10 @@
+{
+    "id": 350384,
+    "name": "ldapsdk",
+    "version": "3.0.0",
+    "created_at": "2019-09-06T14:51:09",
+    "updated_at": "2019-09-06T14:51:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pingidentity:ldapsdk:3.0.0:*:*:*:*:java:*:*",
+    "to_analyse": false
+}

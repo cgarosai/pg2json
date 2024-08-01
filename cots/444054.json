@@ -1,0 +1,10 @@
+{
+    "id": 444054,
+    "name": "horde_sql",
+    "version": "1.0.0",
+    "created_at": "2019-12-04T15:58:37",
+    "updated_at": "2019-12-04T15:58:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_sql:1.0.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

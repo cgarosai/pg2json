@@ -1,0 +1,10 @@
+{
+    "id": 53935,
+    "name": "ipmitool",
+    "version": "1.8.9",
+    "created_at": "2012-07-10T01:20:40",
+    "updated_at": "2012-07-10T01:20:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:ipmitool:1.8.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

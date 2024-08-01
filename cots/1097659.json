@@ -1,0 +1,10 @@
+{
+    "id": 1097659,
+    "name": "action_launcher",
+    "version": "50.5",
+    "created_at": "2023-06-06T09:04:38",
+    "updated_at": "2023-08-29T11:02:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:actionlauncher:action_launcher:50.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

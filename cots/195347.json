@@ -1,0 +1,10 @@
+{
+    "id": 195347,
+    "name": "server_board_s2600st_firmware",
+    "version": "00.01.0009",
+    "created_at": "2018-11-28T15:00:19",
+    "updated_at": "2021-05-04T12:57:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:server_board_s2600st_firmware:00.01.0009:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 17433,
+    "name": "rhmask",
+    "version": "1.0-9",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:49:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:rhmask:1.0-9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

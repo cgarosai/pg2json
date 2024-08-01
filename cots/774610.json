@@ -1,0 +1,10 @@
+{
+    "id": 774610,
+    "name": "networkmanager",
+    "version": "0.4",
+    "created_at": "2021-09-27T13:04:56",
+    "updated_at": "2021-09-27T13:43:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:networkmanager:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

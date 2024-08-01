@@ -1,0 +1,10 @@
+{
+    "id": 498823,
+    "name": "junos",
+    "version": "18.1x75",
+    "created_at": "2020-02-20T13:41:35",
+    "updated_at": "2020-02-20T13:41:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:junos:18.1x75:d10:*:*:*:*:*:*",
+    "to_analyse": false
+}

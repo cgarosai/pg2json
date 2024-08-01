@@ -1,0 +1,10 @@
+{
+    "id": 555734,
+    "name": "elastic_services_controller",
+    "version": "4.4.0.82",
+    "created_at": "2020-05-28T16:47:47",
+    "updated_at": "2020-05-28T16:47:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:elastic_services_controller:4.4.0.82:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

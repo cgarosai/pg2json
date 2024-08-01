@@ -1,0 +1,10 @@
+{
+    "id": 1171037,
+    "name": "naxsi",
+    "version": "0.51-2",
+    "created_at": "2023-10-17T14:48:47",
+    "updated_at": "2023-10-17T14:48:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wargio:naxsi:0.51-2:*:*:*:*:nginx:*:*",
+    "to_analyse": false
+}

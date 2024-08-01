@@ -1,0 +1,10 @@
+{
+    "id": 743128,
+    "name": "compile-sass",
+    "version": "0.0.5",
+    "created_at": "2021-07-27T14:45:08",
+    "updated_at": "2021-07-27T15:30:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:compile-sass_project:compile-sass:0.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

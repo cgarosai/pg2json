@@ -1,0 +1,10 @@
+{
+    "id": 54765,
+    "name": "accountsservice",
+    "version": "0.6.15",
+    "created_at": "2012-07-23T16:51:32",
+    "updated_at": "2012-08-21T21:59:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ray_stode:accountsservice:0.6.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

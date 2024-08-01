@@ -1,0 +1,10 @@
+{
+    "id": 132143,
+    "name": "check_mk",
+    "version": "1.2.8",
+    "created_at": "2017-12-29T14:31:15",
+    "updated_at": "2017-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:check_mk_project:check_mk:1.2.8:b8:*:*:*:*:*:*",
+    "to_analyse": false
+}

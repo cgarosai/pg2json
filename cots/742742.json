@@ -1,0 +1,10 @@
+{
+    "id": 742742,
+    "name": "pcoip_client",
+    "version": "21.07.0",
+    "created_at": "2021-07-27T12:14:25",
+    "updated_at": "2021-09-18T10:33:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_client:21.07.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

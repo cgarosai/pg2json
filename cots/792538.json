@@ -1,0 +1,10 @@
+{
+    "id": 792538,
+    "name": "uglifyjs",
+    "version": "2.3.4",
+    "created_at": "2021-10-28T12:30:59",
+    "updated_at": "2021-10-28T13:04:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uglifyjs_project:uglifyjs:2.3.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

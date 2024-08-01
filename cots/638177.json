@@ -1,0 +1,10 @@
+{
+    "id": 638177,
+    "name": "connect\\",
+    "version": "direct",
+    "created_at": "2020-12-16T20:53:12",
+    "updated_at": "2021-06-04T15:41:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:connect\\:direct:4.3.0:*:*:*:*:unix:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 475282,
+    "name": "uagate_si_firmware",
+    "version": "1.60.01",
+    "created_at": "2020-01-08T15:38:12",
+    "updated_at": "2020-01-08T15:38:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:softing:uagate_si_firmware:1.60.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

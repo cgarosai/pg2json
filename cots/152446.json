@@ -1,0 +1,10 @@
+{
+    "id": 152446,
+    "name": "emc_vnx2_firmware",
+    "version": "8.1.9.217",
+    "created_at": "2018-06-08T14:48:11",
+    "updated_at": "2021-05-28T13:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_vnx2_firmware:8.1.9.217:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

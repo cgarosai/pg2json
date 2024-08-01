@@ -1,0 +1,10 @@
+{
+    "id": 390022,
+    "name": "appium-chromedriver",
+    "version": "2.0.2",
+    "created_at": "2019-10-01T13:56:23",
+    "updated_at": "2019-10-01T13:56:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appium:appium-chromedriver:2.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

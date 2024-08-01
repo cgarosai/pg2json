@@ -1,0 +1,10 @@
+{
+    "id": 534512,
+    "name": "sourcegraph",
+    "version": "3.9.0",
+    "created_at": "2020-05-04T15:16:36",
+    "updated_at": "2020-05-04T15:16:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sourcegraph:sourcegraph:3.9.0:rc.2:*:*:*:*:*:*",
+    "to_analyse": false
+}

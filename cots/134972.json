@@ -1,0 +1,10 @@
+{
+    "id": 134972,
+    "name": "celeron_n",
+    "version": "n2940",
+    "created_at": "2018-02-07T11:24:22",
+    "updated_at": "2023-09-25T16:36:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:celeron_n:n2940:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

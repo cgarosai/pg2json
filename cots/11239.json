@@ -1,0 +1,10 @@
+{
+    "id": 11239,
+    "name": "golive",
+    "version": "9",
+    "created_at": "2007-12-31T21:25:57",
+    "updated_at": "2009-03-05T16:16:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:golive:9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 90765,
+    "name": "xenserver",
+    "version": "6.2.0",
+    "created_at": "2014-07-23T12:00:56",
+    "updated_at": "2014-07-23T15:19:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xenserver:6.2.0:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

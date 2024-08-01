@@ -1,0 +1,10 @@
+{
+    "id": 513080,
+    "name": "system_update",
+    "version": "5.06.0043",
+    "created_at": "2020-03-30T14:23:38",
+    "updated_at": "2020-03-30T14:23:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:system_update:5.06.0043:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

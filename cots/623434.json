@@ -1,0 +1,10 @@
+{
+    "id": 623434,
+    "name": "ac1750_firmware",
+    "version": "201030",
+    "created_at": "2020-12-09T15:54:43",
+    "updated_at": "2020-12-09T15:54:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:ac1750_firmware:201030:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

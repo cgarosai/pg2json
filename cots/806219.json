@@ -1,0 +1,10 @@
+{
+    "id": 806219,
+    "name": "catalyst_pon_switch_cgp-ont-4pvc",
+    "version": "-",
+    "created_at": "2021-11-05T11:53:34",
+    "updated_at": "2021-11-05T12:33:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_pon_switch_cgp-ont-4pvc:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

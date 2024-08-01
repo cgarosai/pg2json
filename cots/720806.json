@@ -1,0 +1,10 @@
+{
+    "id": 720806,
+    "name": "poweredge_t640_firmware",
+    "version": "2.11.2",
+    "created_at": "2021-06-22T10:14:29",
+    "updated_at": "2021-06-23T11:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:poweredge_t640_firmware:2.11.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

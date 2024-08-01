@@ -1,0 +1,10 @@
+{
+    "id": 590606,
+    "name": "net-ping-external",
+    "version": "0.02",
+    "created_at": "2020-09-16T09:16:14",
+    "updated_at": "2020-09-16T09:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:net-ping-external_project:net-ping-external:0.02:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

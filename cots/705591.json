@@ -1,0 +1,10 @@
+{
+    "id": 705591,
+    "name": "cumulative-distribution-function",
+    "version": "-",
+    "created_at": "2021-05-06T15:06:39",
+    "updated_at": "2021-05-07T10:52:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cumulative-distribution-function_project:cumulative-distribution-function:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

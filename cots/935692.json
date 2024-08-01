@@ -1,0 +1,10 @@
+{
+    "id": 935692,
+    "name": "exotel",
+    "version": "0.1.0",
+    "created_at": "2022-08-31T11:47:44",
+    "updated_at": "2022-09-01T13:49:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exotel_project:exotel:0.1.0:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

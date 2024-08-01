@@ -1,0 +1,10 @@
+{
+    "id": 195048,
+    "name": "my_cloud",
+    "version": "-",
+    "created_at": "2018-11-27T13:38:07",
+    "updated_at": "2020-02-24T14:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wdc:my_cloud:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

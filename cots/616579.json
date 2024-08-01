@@ -1,0 +1,10 @@
+{
+    "id": 616579,
+    "name": "ws7100-10_firmware",
+    "version": "10.0.5.21",
+    "created_at": "2020-10-30T12:26:46",
+    "updated_at": "2020-10-30T12:26:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ws7100-10_firmware:10.0.5.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

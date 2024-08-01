@@ -1,0 +1,10 @@
+{
+    "id": 182691,
+    "name": "configurator",
+    "version": "11i",
+    "created_at": "2018-11-20T17:11:47",
+    "updated_at": "2018-11-20T17:11:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:configurator:11i:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

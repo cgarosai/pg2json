@@ -1,0 +1,10 @@
+{
+    "id": 192813,
+    "name": "mxq_tv_box",
+    "version": "-",
+    "created_at": "2019-01-15T12:34:41",
+    "updated_at": "2021-08-13T11:36:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mxq_project:mxq_tv_box:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

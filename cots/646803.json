@@ -1,0 +1,10 @@
+{
+    "id": 646803,
+    "name": "ak5xx_firmware",
+    "version": "-",
+    "created_at": "2021-01-09T02:23:52",
+    "updated_at": "2021-06-15T14:28:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amino:ak5xx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

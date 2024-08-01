@@ -1,0 +1,10 @@
+{
+    "id": 228652,
+    "name": "amazon_sns_build_notifier",
+    "version": "1.13",
+    "created_at": "2019-04-15T12:16:17",
+    "updated_at": "2019-04-15T12:16:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:amazon_sns_build_notifier:1.13:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1186044,
+    "name": "maintenance_switch",
+    "version": "-",
+    "created_at": "2023-10-25T03:34:46",
+    "updated_at": "2023-10-25T03:34:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fugu:maintenance_switch:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

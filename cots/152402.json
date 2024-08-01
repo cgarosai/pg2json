@@ -1,0 +1,10 @@
+{
+    "id": 152402,
+    "name": "emc_vnx1_operating_environment",
+    "version": "05.32.000.5.225",
+    "created_at": "2018-06-07T18:06:19",
+    "updated_at": "2021-05-17T15:01:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_vnx1_operating_environment:05.32.000.5.225:*:*:*:*:block:*:*",
+    "to_analyse": false
+}

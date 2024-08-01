@@ -1,0 +1,10 @@
+{
+    "id": 902141,
+    "name": "spacelogic_c-bus_home_controller",
+    "version": "-",
+    "created_at": "2022-07-18T17:08:34",
+    "updated_at": "2022-08-03T12:55:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:schneider-electric:spacelogic_c-bus_home_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

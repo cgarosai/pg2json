@@ -1,0 +1,10 @@
+{
+    "id": 339027,
+    "name": "ipswitch_ws_ftp_server_with_ssh",
+    "version": "6.1.0",
+    "created_at": "2019-08-13T12:39:15",
+    "updated_at": "2019-08-13T12:39:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:ipswitch_ws_ftp_server_with_ssh:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

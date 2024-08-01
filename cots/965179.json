@@ -1,0 +1,10 @@
+{
+    "id": 965179,
+    "name": "meraki_mx68cw_firmware",
+    "version": "17.0.0",
+    "created_at": "2022-10-31T13:08:29",
+    "updated_at": "2022-10-31T13:17:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:meraki_mx68cw_firmware:17.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

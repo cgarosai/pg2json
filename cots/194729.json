@@ -1,0 +1,10 @@
+{
+    "id": 194729,
+    "name": "thunderbird",
+    "version": "50.0",
+    "created_at": "2019-01-29T17:31:05",
+    "updated_at": "2019-01-29T17:31:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:thunderbird:50.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

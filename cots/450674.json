@@ -1,0 +1,10 @@
+{
+    "id": 450674,
+    "name": "node-bsdiff-android",
+    "version": "0.1.4",
+    "created_at": "2019-12-09T18:16:51",
+    "updated_at": "2019-12-09T18:16:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-bsdiff-android_project:node-bsdiff-android:0.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

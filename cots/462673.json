@@ -1,0 +1,10 @@
+{
+    "id": 462673,
+    "name": "static_http_server",
+    "version": "1.0",
+    "created_at": "2020-01-06T11:59:08",
+    "updated_at": "2020-01-06T11:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:static_http_server_project:static_http_server:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 605672,
+    "name": "puppet_agent",
+    "version": "2.2.3",
+    "created_at": "2020-09-30T10:26:20",
+    "updated_at": "2020-09-30T10:26:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:puppet_agent:2.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

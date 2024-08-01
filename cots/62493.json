@@ -1,0 +1,10 @@
+{
+    "id": 62493,
+    "name": "knftpd",
+    "version": "1.0.0",
+    "created_at": "2012-11-19T16:39:51",
+    "updated_at": "2012-11-26T15:41:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elif_keir:knftpd:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

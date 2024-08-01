@@ -1,0 +1,10 @@
+{
+    "id": 798845,
+    "name": "wp_cookie_choice",
+    "version": "-",
+    "created_at": "2021-10-19T17:17:13",
+    "updated_at": "2021-10-26T10:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_cookie_choice_project:wp_cookie_choice:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

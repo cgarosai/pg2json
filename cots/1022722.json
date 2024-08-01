@@ -1,0 +1,10 @@
+{
+    "id": 1022722,
+    "name": "matomo",
+    "version": "2.2.0",
+    "created_at": "2023-02-13T10:58:05",
+    "updated_at": "2023-02-24T14:28:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediawiki:matomo:2.2.0:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

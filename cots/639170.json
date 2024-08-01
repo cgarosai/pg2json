@@ -1,0 +1,10 @@
+{
+    "id": 639170,
+    "name": "wordpress_\\+_azure_ad_\\/_microsoft_office_365",
+    "version": "7.2",
+    "created_at": "2020-12-18T16:54:16",
+    "updated_at": "2020-12-18T16:54:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpo365:wordpress_\\+_azure_ad_\\/_microsoft_office_365:7.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

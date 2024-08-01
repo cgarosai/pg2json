@@ -1,0 +1,10 @@
+{
+    "id": 706870,
+    "name": "amazon_simple_storage_service",
+    "version": "-",
+    "created_at": "2021-05-10T13:48:06",
+    "updated_at": "2021-05-10T13:58:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:amazon_simple_storage_service:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

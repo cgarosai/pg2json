@@ -1,0 +1,10 @@
+{
+    "id": 912186,
+    "name": "pagebar",
+    "version": "-",
+    "created_at": "2022-08-09T16:22:37",
+    "updated_at": "2022-08-12T15:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pagebar_project:pagebar:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

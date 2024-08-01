@@ -1,0 +1,10 @@
+{
+    "id": 830379,
+    "name": "ipython",
+    "version": "8.0.0",
+    "created_at": "2022-01-25T15:54:50",
+    "updated_at": "2022-01-25T16:26:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipython:ipython:8.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 107748,
+    "name": "gpu_driver_r304",
+    "version": "309.07",
+    "created_at": "2015-03-09T12:49:02",
+    "updated_at": "2015-03-25T17:40:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver_r304:309.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

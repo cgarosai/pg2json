@@ -1,0 +1,10 @@
+{
+    "id": 1166340,
+    "name": "manage_application",
+    "version": "8.5.0",
+    "created_at": "2023-09-25T15:49:30",
+    "updated_at": "2023-09-25T15:49:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:manage_application:8.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

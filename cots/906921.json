@@ -1,0 +1,10 @@
+{
+    "id": 906921,
+    "name": "podium_proxy",
+    "version": "4.2.63",
+    "created_at": "2022-07-07T12:12:47",
+    "updated_at": "2022-07-07T12:16:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:finn:podium_proxy:4.2.63:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

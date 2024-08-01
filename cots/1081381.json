@@ -1,0 +1,10 @@
+{
+    "id": 1081381,
+    "name": "rutx08_firmware",
+    "version": "00.07.00",
+    "created_at": "2023-05-26T14:18:45",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teltonika-networks:rutx08_firmware:00.07.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

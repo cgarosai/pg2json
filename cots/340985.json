@@ -1,0 +1,10 @@
+{
+    "id": 340985,
+    "name": "akismet",
+    "version": "2.2.5",
+    "created_at": "2019-08-29T15:08:15",
+    "updated_at": "2019-08-29T15:08:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:akismet:2.2.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

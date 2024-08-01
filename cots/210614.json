@@ -1,0 +1,10 @@
+{
+    "id": 210614,
+    "name": "flatpak",
+    "version": "0.8.8",
+    "created_at": "2019-03-20T13:49:17",
+    "updated_at": "2019-03-20T13:49:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flatpak:flatpak:0.8.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

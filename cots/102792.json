@@ -1,0 +1,10 @@
+{
+    "id": 102792,
+    "name": "storeonce_backup_system_software",
+    "version": "3.13.0",
+    "created_at": "2016-01-05T16:55:30",
+    "updated_at": "2016-01-05T16:55:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:storeonce_backup_system_software:3.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

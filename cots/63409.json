@@ -1,0 +1,10 @@
+{
+    "id": 63409,
+    "name": "hyperion_production_reporting_server",
+    "version": "11.1.2.2",
+    "created_at": "2012-12-21T14:10:42",
+    "updated_at": "2012-12-24T14:34:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:hyperion_production_reporting_server:11.1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

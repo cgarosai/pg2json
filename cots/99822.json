@@ -1,0 +1,10 @@
+{
+    "id": 99822,
+    "name": "verification_code_for_comments",
+    "version": "2.1.0",
+    "created_at": "2014-07-03T14:23:43",
+    "updated_at": "2014-07-10T14:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:verification_code_for_comments_project:verification_code_for_comments:2.1.0:-:-:*:-:wordpress:*:*",
+    "to_analyse": false
+}

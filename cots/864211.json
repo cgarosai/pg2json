@@ -1,0 +1,10 @@
+{
+    "id": 864211,
+    "name": "zlog",
+    "version": "1.2.0",
+    "created_at": "2022-04-13T14:48:01",
+    "updated_at": "2022-04-14T10:47:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zlog_project:zlog:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

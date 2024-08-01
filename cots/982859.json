@@ -1,0 +1,10 @@
+{
+    "id": 982859,
+    "name": "stopbadbots",
+    "version": "6.81",
+    "created_at": "2022-12-13T13:20:16",
+    "updated_at": "2022-12-13T13:24:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stopbadbots_project:stopbadbots:6.81:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 140299,
+    "name": "xerces-c\\+\\+",
+    "version": "3.2.0",
+    "created_at": "2018-04-19T09:47:12",
+    "updated_at": "2023-02-05T20:10:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:xerces-c\\+\\+:3.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

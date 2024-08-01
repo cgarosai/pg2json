@@ -1,0 +1,10 @@
+{
+    "id": 941836,
+    "name": "netweaver_application_server_abap",
+    "version": "krnl64uc_7.22",
+    "created_at": "2022-10-05T11:56:00",
+    "updated_at": "2022-10-06T13:20:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_application_server_abap:krnl64uc_7.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 594290,
+    "name": "melsec_iq-r16cpu_firmware",
+    "version": "39",
+    "created_at": "2020-09-24T11:14:39",
+    "updated_at": "2020-09-24T11:14:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:melsec_iq-r16cpu_firmware:39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

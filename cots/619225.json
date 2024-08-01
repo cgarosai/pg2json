@@ -1,0 +1,10 @@
+{
+    "id": 619225,
+    "name": "mod_authnz_external",
+    "version": "3.2.6",
+    "created_at": "2020-11-12T17:53:15",
+    "updated_at": "2020-11-12T17:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mod_authnz_external_project:mod_authnz_external:3.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

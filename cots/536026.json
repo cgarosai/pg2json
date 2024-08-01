@@ -1,0 +1,10 @@
+{
+    "id": 536026,
+    "name": "bitbucket",
+    "version": "6.7.3",
+    "created_at": "2020-04-14T13:24:16",
+    "updated_at": "2020-04-14T13:24:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:bitbucket:6.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

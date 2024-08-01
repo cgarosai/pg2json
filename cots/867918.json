@@ -1,0 +1,10 @@
+{
+    "id": 867918,
+    "name": "jira_data_center",
+    "version": "8.20.3",
+    "created_at": "2022-03-28T11:28:34",
+    "updated_at": "2022-03-30T11:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_data_center:8.20.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

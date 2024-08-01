@@ -1,0 +1,10 @@
+{
+    "id": 236751,
+    "name": "network_security_services",
+    "version": "3.39",
+    "created_at": "2019-05-01T14:47:12",
+    "updated_at": "2019-05-01T14:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:network_security_services:3.39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

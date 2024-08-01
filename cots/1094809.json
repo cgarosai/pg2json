@@ -1,0 +1,10 @@
+{
+    "id": 1094809,
+    "name": "txseries_for_multiplatform",
+    "version": "8.2",
+    "created_at": "2023-06-16T12:12:33",
+    "updated_at": "2023-07-07T11:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:txseries_for_multiplatform:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

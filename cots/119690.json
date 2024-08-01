@@ -1,0 +1,10 @@
+{
+    "id": 119690,
+    "name": "suse_package_hub_for_suse_linux_enterprise",
+    "version": "12",
+    "created_at": "2016-07-20T12:36:39",
+    "updated_at": "2016-07-20T12:36:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:suse_package_hub_for_suse_linux_enterprise:12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

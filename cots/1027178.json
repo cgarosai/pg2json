@@ -1,0 +1,10 @@
+{
+    "id": 1027178,
+    "name": "pgpool-ii",
+    "version": "4.4.2",
+    "created_at": "2023-02-06T16:22:04",
+    "updated_at": "2023-02-08T04:42:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pgpool:pgpool-ii:4.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

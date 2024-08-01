@@ -1,0 +1,10 @@
+{
+    "id": 1021297,
+    "name": "elite_folio_2-in-1_firmware",
+    "version": "not_impacted",
+    "created_at": "2023-02-10T11:50:11",
+    "updated_at": "2023-02-16T19:44:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:elite_folio_2-in-1_firmware:not_impacted:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

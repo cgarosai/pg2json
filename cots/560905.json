@@ -1,0 +1,10 @@
+{
+    "id": 560905,
+    "name": "securetrack",
+    "version": "18.1",
+    "created_at": "2020-07-13T08:10:11",
+    "updated_at": "2020-07-13T08:10:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tufin:securetrack:18.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

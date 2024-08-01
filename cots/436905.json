@@ -1,0 +1,10 @@
+{
+    "id": 436905,
+    "name": "svg_sanitizer",
+    "version": "0.13.0",
+    "created_at": "2019-11-13T11:26:24",
+    "updated_at": "2019-11-25T17:56:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:svg_sanitizer_project:svg_sanitizer:0.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

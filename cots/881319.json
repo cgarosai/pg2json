@@ -1,0 +1,10 @@
+{
+    "id": 881319,
+    "name": "content_mask",
+    "version": "1.8.0.6",
+    "created_at": "2022-06-06T10:38:04",
+    "updated_at": "2022-06-06T11:27:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:content_mask_project:content_mask:1.8.0.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

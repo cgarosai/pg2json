@@ -1,0 +1,10 @@
+{
+    "id": 325555,
+    "name": "client",
+    "version": "4.0.21521.0116",
+    "created_at": "2019-07-31T11:05:49",
+    "updated_at": "2020-04-07T17:47:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:client:4.0.21521.0116:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

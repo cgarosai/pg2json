@@ -1,0 +1,10 @@
+{
+    "id": 121281,
+    "name": "bm2022_firmware",
+    "version": "-",
+    "created_at": "2017-07-06T12:32:41",
+    "updated_at": "2021-06-21T15:14:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:bm2022_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1058443,
+    "name": "igss_data_server",
+    "version": "16.0.0.23040",
+    "created_at": "2023-03-22T23:55:19",
+    "updated_at": "2023-07-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:igss_data_server:16.0.0.23040:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

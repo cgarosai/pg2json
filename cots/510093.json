@@ -1,0 +1,10 @@
+{
+    "id": 510093,
+    "name": "xeon_lv_5138_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:33:07",
+    "updated_at": "2020-03-23T16:33:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_lv_5138_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

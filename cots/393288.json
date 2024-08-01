@@ -1,0 +1,10 @@
+{
+    "id": 393288,
+    "name": "rider",
+    "version": "-",
+    "created_at": "2019-10-04T11:15:02",
+    "updated_at": "2019-10-04T11:15:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jetbrains:rider:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

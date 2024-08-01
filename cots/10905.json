@@ -1,0 +1,10 @@
+{
+    "id": 10905,
+    "name": "tivoli_service_desk",
+    "version": "-",
+    "created_at": "2007-11-15T03:16:14",
+    "updated_at": "2007-11-15T03:16:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_service_desk:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

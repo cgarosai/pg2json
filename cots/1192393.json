@@ -1,0 +1,10 @@
+{
+    "id": 1192393,
+    "name": "hawk",
+    "version": "6.2.3",
+    "created_at": "2023-11-18T02:01:35",
+    "updated_at": "2023-11-18T02:01:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:hawk:6.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

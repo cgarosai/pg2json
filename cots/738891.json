@@ -1,0 +1,10 @@
+{
+    "id": 738891,
+    "name": "mono",
+    "version": "6.10.0.79",
+    "created_at": "2021-07-07T17:10:36",
+    "updated_at": "2021-07-07T17:48:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:mono:6.10.0.79:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

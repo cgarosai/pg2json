@@ -1,0 +1,10 @@
+{
+    "id": 176483,
+    "name": "runtime_agent",
+    "version": "5.10.0",
+    "created_at": "2018-09-14T12:48:07",
+    "updated_at": "2021-05-17T13:20:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:runtime_agent:5.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

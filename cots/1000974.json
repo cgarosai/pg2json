@@ -1,0 +1,10 @@
+{
+    "id": 1000974,
+    "name": "hazelcast",
+    "version": "4.0.0",
+    "created_at": "2023-01-05T14:26:03",
+    "updated_at": "2023-01-06T14:12:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hazelcast:hazelcast:4.0.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

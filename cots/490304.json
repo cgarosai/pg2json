@@ -1,0 +1,10 @@
+{
+    "id": 490304,
+    "name": "ipsilon",
+    "version": "0.1.0",
+    "created_at": "2020-02-21T19:29:50",
+    "updated_at": "2020-02-21T19:29:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipsilon-project:ipsilon:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

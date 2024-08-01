@@ -1,0 +1,10 @@
+{
+    "id": 942972,
+    "name": "loramac-node",
+    "version": "4.4.6",
+    "created_at": "2022-10-07T14:03:41",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:semtech:loramac-node:4.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

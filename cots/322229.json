@@ -1,0 +1,10 @@
+{
+    "id": 322229,
+    "name": "hostr",
+    "version": "2.1.2",
+    "created_at": "2019-08-01T15:54:27",
+    "updated_at": "2019-08-01T15:54:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hostr_project:hostr:2.1.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

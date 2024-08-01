@@ -1,0 +1,10 @@
+{
+    "id": 551252,
+    "name": "k3_firmware",
+    "version": "-",
+    "created_at": "2020-06-16T16:56:13",
+    "updated_at": "2020-06-16T16:56:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:k3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

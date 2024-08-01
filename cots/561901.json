@@ -1,0 +1,10 @@
+{
+    "id": 561901,
+    "name": "gearman",
+    "version": "0.0.6",
+    "created_at": "2020-07-14T14:12:52",
+    "updated_at": "2020-07-14T14:12:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gearman:0.0.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

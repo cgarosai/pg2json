@@ -1,0 +1,10 @@
+{
+    "id": 207888,
+    "name": "gnutls",
+    "version": "3.5.15",
+    "created_at": "2019-02-12T18:24:29",
+    "updated_at": "2019-02-12T18:24:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gnutls:3.5.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

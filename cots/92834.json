@@ -1,0 +1,10 @@
+{
+    "id": 92834,
+    "name": "kmart",
+    "version": "\\@7f0c00ef",
+    "created_at": "2014-09-22T22:35:46",
+    "updated_at": "2014-12-14T14:50:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kmart:kmart:\\@7f0c00ef:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 943816,
+    "name": "django-mfa2",
+    "version": "1.9",
+    "created_at": "2022-10-11T15:36:11",
+    "updated_at": "2022-10-13T14:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-mfa2_project:django-mfa2:1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

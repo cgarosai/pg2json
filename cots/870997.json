@@ -1,0 +1,10 @@
+{
+    "id": 870997,
+    "name": "go-getter",
+    "version": "1.4.2",
+    "created_at": "2022-05-03T16:07:34",
+    "updated_at": "2022-05-04T23:11:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:go-getter:1.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

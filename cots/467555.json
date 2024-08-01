@@ -1,0 +1,10 @@
+{
+    "id": 467555,
+    "name": "safer-eval",
+    "version": "1.2.0",
+    "created_at": "2019-12-18T11:39:24",
+    "updated_at": "2019-12-18T11:39:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:safer-eval_project:safer-eval:1.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1200801,
+    "name": "cb6231_firmware",
+    "version": "m2.1.6.05",
+    "created_at": "2023-12-01T17:30:58",
+    "updated_at": "2023-12-01T17:30:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zavio:cb6231_firmware:m2.1.6.05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

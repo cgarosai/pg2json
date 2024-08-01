@@ -1,0 +1,10 @@
+{
+    "id": 1016446,
+    "name": "zoom",
+    "version": "-",
+    "created_at": "2023-01-12T15:42:53",
+    "updated_at": "2023-07-06T13:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:zoom:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

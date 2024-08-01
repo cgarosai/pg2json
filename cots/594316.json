@@ -1,0 +1,10 @@
+{
+    "id": 594316,
+    "name": "magento",
+    "version": "2.2.11",
+    "created_at": "2020-09-24T12:06:54",
+    "updated_at": "2020-09-24T12:06:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magento:magento:2.2.11:*:*:*:commerce:*:*:*",
+    "to_analyse": false
+}

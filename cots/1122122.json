@@ -1,0 +1,10 @@
+{
+    "id": 1122122,
+    "name": "pandoc",
+    "version": "3.1.6",
+    "created_at": "2023-08-01T13:19:49",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pandoc:pandoc:3.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

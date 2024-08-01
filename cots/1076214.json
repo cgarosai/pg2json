@@ -1,0 +1,10 @@
+{
+    "id": 1076214,
+    "name": "windows_sysmon",
+    "version": "13.02",
+    "created_at": "2023-04-27T16:43:50",
+    "updated_at": "2023-04-27T16:45:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_sysmon:13.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

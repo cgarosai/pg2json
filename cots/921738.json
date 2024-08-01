@@ -1,0 +1,10 @@
+{
+    "id": 921738,
+    "name": "anjuta",
+    "version": "3.8.3",
+    "created_at": "2022-08-29T13:01:13",
+    "updated_at": "2022-08-29T13:04:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:anjuta:3.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

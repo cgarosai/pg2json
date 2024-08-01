@@ -1,0 +1,10 @@
+{
+    "id": 581053,
+    "name": "opensis",
+    "version": "7.3",
+    "created_at": "2020-08-25T09:33:26",
+    "updated_at": "2020-09-03T10:05:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opensis:opensis:7.3:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

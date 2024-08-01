@@ -1,0 +1,10 @@
+{
+    "id": 961054,
+    "name": "opensearch_notifications",
+    "version": "2.0.1.0",
+    "created_at": "2022-11-15T15:54:41",
+    "updated_at": "2022-11-15T16:34:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:opensearch_notifications:2.0.1.0:*:*:*:*:docker:*:*",
+    "to_analyse": false
+}

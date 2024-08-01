@@ -1,0 +1,10 @@
+{
+    "id": 114209,
+    "name": "webnms_framework",
+    "version": "5.2",
+    "created_at": "2017-01-24T17:25:29",
+    "updated_at": "2021-08-05T15:11:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:webnms_framework:5.2:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

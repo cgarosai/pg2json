@@ -1,0 +1,10 @@
+{
+    "id": 744581,
+    "name": "minecraft",
+    "version": "1.15",
+    "created_at": "2021-07-29T12:14:11",
+    "updated_at": "2021-08-17T21:34:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:minecraft:minecraft:1.15:*:*:*:java:*:*:*",
+    "to_analyse": false
+}

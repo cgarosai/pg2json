@@ -1,0 +1,10 @@
+{
+    "id": 564545,
+    "name": "cortex-a57_firmware",
+    "version": "-",
+    "created_at": "2020-07-23T14:38:57",
+    "updated_at": "2020-07-23T14:38:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arm:cortex-a57_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

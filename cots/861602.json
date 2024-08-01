@@ -1,0 +1,10 @@
+{
+    "id": 861602,
+    "name": "private_messenger",
+    "version": "1.8.4",
+    "created_at": "2022-04-07T14:58:11",
+    "updated_at": "2022-04-07T15:50:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:signal:private_messenger:1.8.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 8189,
+    "name": "4602sw_ip_phone",
+    "version": "r2.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T11:41:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:avaya:4602sw_ip_phone:r2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

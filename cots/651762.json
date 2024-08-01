@@ -1,0 +1,10 @@
+{
+    "id": 651762,
+    "name": "profinet_io_device",
+    "version": "-",
+    "created_at": "2021-02-17T13:44:46",
+    "updated_at": "2021-07-08T14:12:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hilscher:profinet_io_device:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

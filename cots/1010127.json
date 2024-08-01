@@ -1,0 +1,10 @@
+{
+    "id": 1010127,
+    "name": "gpg4win",
+    "version": "4.1.0",
+    "created_at": "2023-01-18T23:51:23",
+    "updated_at": "2023-02-23T18:17:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpg4win:gpg4win:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57710,
+    "name": "file_system_idataagent",
+    "version": "9.0.0",
+    "created_at": "2012-05-08T11:52:08",
+    "updated_at": "2012-05-08T11:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commvault:file_system_idataagent:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

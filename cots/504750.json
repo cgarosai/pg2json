@@ -1,0 +1,10 @@
+{
+    "id": 504750,
+    "name": "p4",
+    "version": "1.8.4",
+    "created_at": "2020-03-11T14:02:18",
+    "updated_at": "2020-03-11T14:02:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:p4:1.8.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

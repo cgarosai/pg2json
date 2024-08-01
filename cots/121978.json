@@ -1,0 +1,10 @@
+{
+    "id": 121978,
+    "name": "anti-virus_for_linux_server",
+    "version": "8.0.3.297",
+    "created_at": "2017-07-24T14:38:25",
+    "updated_at": "2021-06-14T12:43:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:anti-virus_for_linux_server:8.0.3.297:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

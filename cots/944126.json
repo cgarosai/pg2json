@@ -1,0 +1,10 @@
+{
+    "id": 944126,
+    "name": "jupyter",
+    "version": "2022.9.110",
+    "created_at": "2022-10-12T14:09:26",
+    "updated_at": "2022-10-13T13:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:jupyter:2022.9.110:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

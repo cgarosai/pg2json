@@ -1,0 +1,10 @@
+{
+    "id": 626562,
+    "name": "kamailio",
+    "version": "5.2.5",
+    "created_at": "2020-12-01T12:39:43",
+    "updated_at": "2020-12-01T12:39:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kamailio:kamailio:5.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

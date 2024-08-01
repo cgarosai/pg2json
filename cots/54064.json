@@ -1,0 +1,10 @@
+{
+    "id": 54064,
+    "name": "powerbuilder_virtual_machine",
+    "version": "11.5.1.4922",
+    "created_at": "2012-07-10T01:21:40",
+    "updated_at": "2012-07-10T01:21:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:powerbuilder_virtual_machine:11.5.1.4922:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 707561,
+    "name": "flow",
+    "version": "7.0.0",
+    "created_at": "2021-05-12T11:56:24",
+    "updated_at": "2021-05-12T12:12:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vaadin:flow:7.0.0:alpha7:*:*:*:*:*:*",
+    "to_analyse": false
+}

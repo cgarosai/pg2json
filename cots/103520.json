@@ -1,0 +1,10 @@
+{
+    "id": 103520,
+    "name": "nghttp2",
+    "version": "1.5.0",
+    "created_at": "2016-01-19T14:38:12",
+    "updated_at": "2016-01-19T14:38:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nghttp2:nghttp2:1.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

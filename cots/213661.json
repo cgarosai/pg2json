@@ -1,0 +1,10 @@
+{
+    "id": 213661,
+    "name": "localhost-now",
+    "version": "1.0.2",
+    "created_at": "2019-04-01T11:49:32",
+    "updated_at": "2019-04-01T11:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:localhost-now_project:localhost-now:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

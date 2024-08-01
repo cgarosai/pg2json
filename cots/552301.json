@@ -1,0 +1,10 @@
+{
+    "id": 552301,
+    "name": "tomee",
+    "version": "7.0.0",
+    "created_at": "2020-06-22T10:02:16",
+    "updated_at": "2020-06-22T10:02:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:tomee:7.0.0:m2:*:*:*:*:*:*",
+    "to_analyse": false
+}

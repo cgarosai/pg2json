@@ -1,0 +1,10 @@
+{
+    "id": 1270472,
+    "name": "lnd-6032r_firmware",
+    "version": "1.41.13",
+    "created_at": "2024-07-02T15:46:13",
+    "updated_at": "2024-07-02T15:46:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hanwhavision:lnd-6032r_firmware:1.41.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

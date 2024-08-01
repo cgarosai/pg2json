@@ -1,0 +1,10 @@
+{
+    "id": 270896,
+    "name": "telepresence_ce",
+    "version": "8.3.7",
+    "created_at": "2019-06-27T09:57:36",
+    "updated_at": "2021-02-24T19:55:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_ce:8.3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

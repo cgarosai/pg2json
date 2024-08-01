@@ -1,0 +1,10 @@
+{
+    "id": 511359,
+    "name": "celeron_b840",
+    "version": "-",
+    "created_at": "2020-03-26T12:31:20",
+    "updated_at": "2020-03-26T12:31:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:celeron_b840:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

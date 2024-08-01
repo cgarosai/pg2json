@@ -1,0 +1,10 @@
+{
+    "id": 741060,
+    "name": "ansi_up",
+    "version": "2.0.0",
+    "created_at": "2021-07-23T16:46:42",
+    "updated_at": "2021-07-23T16:54:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ansi_up_project:ansi_up:2.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

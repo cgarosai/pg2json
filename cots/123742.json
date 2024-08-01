@@ -1,0 +1,10 @@
+{
+    "id": 123742,
+    "name": "small_business_rv340_firmware",
+    "version": "1.0.1.9",
+    "created_at": "2017-08-24T14:57:05",
+    "updated_at": "2021-04-26T09:30:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:small_business_rv340_firmware:1.0.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

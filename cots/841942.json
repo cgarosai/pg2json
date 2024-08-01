@@ -1,0 +1,10 @@
+{
+    "id": 841942,
+    "name": "kernelflinger",
+    "version": "-",
+    "created_at": "2022-02-15T15:37:19",
+    "updated_at": "2022-02-25T18:54:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:kernelflinger:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 66641,
+    "name": "breakingpoint_storm_appliance",
+    "version": "-",
+    "created_at": "2012-08-13T13:10:30",
+    "updated_at": "2012-08-20T15:26:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:breakingpointsystems:breakingpoint_storm_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

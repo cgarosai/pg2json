@@ -1,0 +1,10 @@
+{
+    "id": 51732,
+    "name": "system_manager",
+    "version": "1.0",
+    "created_at": "2012-06-21T17:09:23",
+    "updated_at": "2012-06-21T17:09:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:system_manager:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

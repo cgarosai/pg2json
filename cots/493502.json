@@ -1,0 +1,10 @@
+{
+    "id": 493502,
+    "name": "sip-dect",
+    "version": "-",
+    "created_at": "2020-02-26T15:30:22",
+    "updated_at": "2020-02-26T15:30:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mitel:sip-dect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

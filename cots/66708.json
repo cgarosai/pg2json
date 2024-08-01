@@ -1,0 +1,10 @@
+{
+    "id": 66708,
+    "name": "libjpeg-turbo",
+    "version": "1.2.0",
+    "created_at": "2012-08-14T15:28:56",
+    "updated_at": "2012-08-31T16:21:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:d.r.commander:libjpeg-turbo:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

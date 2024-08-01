@@ -1,0 +1,10 @@
+{
+    "id": 100270,
+    "name": "xcloner",
+    "version": "3.1.2",
+    "created_at": "2015-06-18T12:42:29",
+    "updated_at": "2015-06-23T17:01:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xcloner:xcloner:3.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

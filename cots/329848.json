@@ -1,0 +1,10 @@
+{
+    "id": 329848,
+    "name": "cmake",
+    "version": "0.0.2",
+    "created_at": "2019-08-01T12:48:28",
+    "updated_at": "2019-08-01T12:48:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cmake_project:cmake:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

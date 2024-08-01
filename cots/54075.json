@@ -1,0 +1,10 @@
+{
+    "id": 54075,
+    "name": "antivirus",
+    "version": "10.1.9100.9",
+    "created_at": "2012-07-10T01:21:45",
+    "updated_at": "2012-07-10T01:21:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:antivirus:10.1.9100.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 829738,
+    "name": "paging_server",
+    "version": "12.5\\(2\\)",
+    "created_at": "2021-12-20T17:13:50",
+    "updated_at": "2022-04-25T13:18:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:paging_server:12.5\\(2\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

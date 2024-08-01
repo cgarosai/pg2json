@@ -1,0 +1,10 @@
+{
+    "id": 591901,
+    "name": "validating_string_parameter",
+    "version": "2.5",
+    "created_at": "2020-09-21T12:28:41",
+    "updated_at": "2020-09-21T12:28:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:validating_string_parameter:2.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

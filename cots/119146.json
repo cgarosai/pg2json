@@ -1,0 +1,10 @@
+{
+    "id": 119146,
+    "name": "wcr-300_firmware",
+    "version": "1.86",
+    "created_at": "2016-06-20T16:34:26",
+    "updated_at": "2021-04-29T15:24:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:buffalo:wcr-300_firmware:1.86:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

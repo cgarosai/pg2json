@@ -1,0 +1,10 @@
+{
+    "id": 164691,
+    "name": "xeon_e",
+    "version": "2176g",
+    "created_at": "2018-09-05T10:53:27",
+    "updated_at": "2020-04-28T09:52:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e:2176g:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

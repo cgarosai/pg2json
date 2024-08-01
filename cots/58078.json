@@ -1,0 +1,10 @@
+{
+    "id": 58078,
+    "name": "navisphere_service_taskbar",
+    "version": "29.2.0.62",
+    "created_at": "2012-05-14T21:28:51",
+    "updated_at": "2012-05-14T21:28:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:navisphere_service_taskbar:29.2.0.62:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

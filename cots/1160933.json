@@ -1,0 +1,10 @@
+{
+    "id": 1160933,
+    "name": "analytics",
+    "version": "2.5.0.4-r7",
+    "created_at": "2023-09-29T17:00:49",
+    "updated_at": "2023-09-29T17:00:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:analytics:2.5.0.4-r7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

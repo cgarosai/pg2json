@@ -1,0 +1,10 @@
+{
+    "id": 967756,
+    "name": "job_generator",
+    "version": "1.10",
+    "created_at": "2022-11-05T00:29:14",
+    "updated_at": "2022-11-05T00:30:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:job_generator:1.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

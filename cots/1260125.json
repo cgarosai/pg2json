@@ -1,0 +1,10 @@
+{
+    "id": 1260125,
+    "name": "misp",
+    "version": "2.4.167",
+    "created_at": "2024-04-23T09:56:54",
+    "updated_at": "2024-04-23T09:56:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:misp-project:misp:2.4.167:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

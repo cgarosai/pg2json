@@ -1,0 +1,10 @@
+{
+    "id": 83016,
+    "name": "insight_control_server_deployment",
+    "version": "-",
+    "created_at": "2014-03-14T16:16:20",
+    "updated_at": "2014-03-14T17:14:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:insight_control_server_deployment:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

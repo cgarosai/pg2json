@@ -1,0 +1,10 @@
+{
+    "id": 102048,
+    "name": "webex_meetings",
+    "version": "8.0_base",
+    "created_at": "2015-12-07T18:34:18",
+    "updated_at": "2015-12-07T18:34:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex_meetings:8.0_base:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

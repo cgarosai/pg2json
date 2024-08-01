@@ -1,0 +1,10 @@
+{
+    "id": 629348,
+    "name": "stratix_10_fpga_firmware",
+    "version": "-",
+    "created_at": "2020-12-04T17:40:32",
+    "updated_at": "2020-12-04T17:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:stratix_10_fpga_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

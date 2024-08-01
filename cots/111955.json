@@ -1,0 +1,10 @@
+{
+    "id": 111955,
+    "name": "rumba_ftp",
+    "version": "4.4",
+    "created_at": "2016-10-28T16:07:20",
+    "updated_at": "2021-04-13T14:58:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:rumba_ftp:4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

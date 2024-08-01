@@ -1,0 +1,10 @@
+{
+    "id": 203775,
+    "name": "misp",
+    "version": "2.3.17",
+    "created_at": "2019-03-04T13:27:12",
+    "updated_at": "2019-03-04T13:27:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:misp:misp:2.3.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

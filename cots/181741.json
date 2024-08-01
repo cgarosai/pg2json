@@ -1,0 +1,10 @@
+{
+    "id": 181741,
+    "name": "guava",
+    "version": "15.0",
+    "created_at": "2018-11-14T14:38:06",
+    "updated_at": "2018-11-14T14:38:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:guava:15.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

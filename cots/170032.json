@@ -1,0 +1,10 @@
+{
+    "id": 170032,
+    "name": "vert.x",
+    "version": "3.1.0",
+    "created_at": "2018-10-10T16:04:40",
+    "updated_at": "2018-10-10T16:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:vert.x:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

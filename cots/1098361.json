@@ -1,0 +1,10 @@
+{
+    "id": 1098361,
+    "name": "nfpm",
+    "version": "2.19.0",
+    "created_at": "2023-06-06T14:48:10",
+    "updated_at": "2023-06-07T16:17:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goreleaser:nfpm:2.19.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

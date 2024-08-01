@@ -1,0 +1,10 @@
+{
+    "id": 146105,
+    "name": "i350_firmware",
+    "version": "-",
+    "created_at": "2018-02-13T17:11:16",
+    "updated_at": "2021-05-25T19:28:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:i350_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

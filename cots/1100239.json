@@ -1,0 +1,10 @@
+{
+    "id": 1100239,
+    "name": "sds1104x-e_firmware",
+    "version": "-",
+    "created_at": "2023-06-28T10:14:33",
+    "updated_at": "2023-07-24T17:46:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siglent:sds1104x-e_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 752704,
+    "name": "gs1900-48_firmware",
+    "version": "2.70",
+    "created_at": "2021-08-10T16:10:03",
+    "updated_at": "2021-09-24T12:52:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:gs1900-48_firmware:2.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

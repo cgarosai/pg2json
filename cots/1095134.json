@@ -1,0 +1,10 @@
+{
+    "id": 1095134,
+    "name": "cookbook",
+    "version": "0.9.7",
+    "created_at": "2023-06-02T11:59:54",
+    "updated_at": "2023-06-12T11:44:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:cookbook:0.9.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

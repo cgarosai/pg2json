@@ -1,0 +1,10 @@
+{
+    "id": 58469,
+    "name": "destinations",
+    "version": "130.0.0.0",
+    "created_at": "2012-05-14T21:30:01",
+    "updated_at": "2012-05-14T21:30:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:destinations:130.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

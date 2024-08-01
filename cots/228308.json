@@ -1,0 +1,10 @@
+{
+    "id": 228308,
+    "name": "anti-malware",
+    "version": "2018.3",
+    "created_at": "2019-04-15T10:10:48",
+    "updated_at": "2019-04-15T10:10:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emsisoft:anti-malware:2018.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

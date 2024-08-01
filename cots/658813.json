@@ -1,0 +1,10 @@
+{
+    "id": 658813,
+    "name": "linux_enterprise_workstation_extension",
+    "version": "12",
+    "created_at": "2021-02-10T12:36:24",
+    "updated_at": "2021-02-10T12:36:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_workstation_extension:12:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

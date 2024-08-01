@@ -1,0 +1,10 @@
+{
+    "id": 641604,
+    "name": "greensock_animation_platform",
+    "version": "1.19.0",
+    "created_at": "2021-01-25T17:25:02",
+    "updated_at": "2021-01-25T17:25:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:greensock:greensock_animation_platform:1.19.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

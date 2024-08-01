@@ -1,0 +1,10 @@
+{
+    "id": 501339,
+    "name": "optiplex_7460_firmware",
+    "version": "1.7.3",
+    "created_at": "2020-03-06T19:00:15",
+    "updated_at": "2020-03-06T19:00:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_7460_firmware:1.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

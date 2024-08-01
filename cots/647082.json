@@ -1,0 +1,10 @@
+{
+    "id": 647082,
+    "name": "mdbook",
+    "version": "0.2.2",
+    "created_at": "2021-01-11T14:41:20",
+    "updated_at": "2021-01-11T14:41:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:mdbook:0.2.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

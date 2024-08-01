@@ -1,0 +1,10 @@
+{
+    "id": 752689,
+    "name": "async-coap",
+    "version": "2020-12-08",
+    "created_at": "2021-08-10T15:38:48",
+    "updated_at": "2021-09-25T11:39:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:async-coap_project:async-coap:2020-12-08:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

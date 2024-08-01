@@ -1,0 +1,10 @@
+{
+    "id": 51107,
+    "name": "powercenter_connect",
+    "version": "7.1.2",
+    "created_at": "2012-06-21T17:06:48",
+    "updated_at": "2012-06-21T17:06:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:informatica:powercenter_connect:7.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

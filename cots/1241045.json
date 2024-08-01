@@ -1,0 +1,10 @@
+{
+    "id": 1241045,
+    "name": "dependency-check",
+    "version": "9.0.4",
+    "created_at": "2024-02-03T00:39:22",
+    "updated_at": "2024-02-03T00:39:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owasp:dependency-check:9.0.4:*:*:*:*:maven:*:*",
+    "to_analyse": false
+}

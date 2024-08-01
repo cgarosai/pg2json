@@ -1,0 +1,10 @@
+{
+    "id": 373158,
+    "name": "flintcms",
+    "version": "1.0.0",
+    "created_at": "2019-09-23T11:22:46",
+    "updated_at": "2019-09-23T11:22:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flintcms:flintcms:1.0.0:beta:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

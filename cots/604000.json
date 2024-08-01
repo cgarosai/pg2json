@@ -1,0 +1,10 @@
+{
+    "id": 604000,
+    "name": "firepower_8260",
+    "version": "-",
+    "created_at": "2020-10-20T13:32:10",
+    "updated_at": "2020-10-20T13:32:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:firepower_8260:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 428678,
+    "name": "smokeping",
+    "version": "2.6.7",
+    "created_at": "2019-11-04T16:45:13",
+    "updated_at": "2019-11-04T16:45:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smokeping:smokeping:2.6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

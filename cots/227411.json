@@ -1,0 +1,10 @@
+{
+    "id": 227411,
+    "name": "securityserver_cse",
+    "version": "-",
+    "created_at": "2019-04-11T10:00:38",
+    "updated_at": "2021-06-16T13:50:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:utimaco:securityserver_cse:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

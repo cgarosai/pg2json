@@ -1,0 +1,10 @@
+{
+    "id": 23523,
+    "name": "transmission",
+    "version": "0.80",
+    "created_at": "2010-05-10T16:00:57",
+    "updated_at": "2012-08-20T16:06:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:transmissionbt:transmission:0.80:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 193789,
+    "name": "amp_threat_grid_cloud",
+    "version": "3.5.68",
+    "created_at": "2019-01-25T11:37:37",
+    "updated_at": "2021-05-25T11:33:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:amp_threat_grid_cloud:3.5.68:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1217870,
+    "name": "mock.js",
+    "version": "0.1.8",
+    "created_at": "2023-12-12T16:54:25",
+    "updated_at": "2023-12-12T16:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mockjs:mock.js:0.1.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 85693,
+    "name": "freeflow_print_server",
+    "version": "8.0",
+    "created_at": "2013-10-09T12:35:07",
+    "updated_at": "2013-10-09T12:36:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xerox:freeflow_print_server:8.0:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

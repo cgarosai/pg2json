@@ -1,0 +1,10 @@
+{
+    "id": 199031,
+    "name": "c1000a_firmware",
+    "version": "cac004-31.30l.95",
+    "created_at": "2019-01-02T14:07:09",
+    "updated_at": "2021-05-26T16:40:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:actiontec:c1000a_firmware:cac004-31.30l.95:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

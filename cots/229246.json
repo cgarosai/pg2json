@@ -1,0 +1,10 @@
+{
+    "id": 229246,
+    "name": "confluence_publisher",
+    "version": "1.7",
+    "created_at": "2019-04-15T15:49:53",
+    "updated_at": "2019-04-15T15:49:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:confluence_publisher:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

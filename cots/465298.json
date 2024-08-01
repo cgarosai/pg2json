@@ -1,0 +1,10 @@
+{
+    "id": 465298,
+    "name": "pcoweb_firmware",
+    "version": "a1.5.3",
+    "created_at": "2019-12-12T17:46:07",
+    "updated_at": "2019-12-12T17:46:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:carel:pcoweb_firmware:a1.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

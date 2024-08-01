@@ -1,0 +1,10 @@
+{
+    "id": 1197932,
+    "name": "cryptoes",
+    "version": "1.0.2",
+    "created_at": "2023-11-12T13:40:50",
+    "updated_at": "2023-11-12T13:40:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:entronad:cryptoes:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

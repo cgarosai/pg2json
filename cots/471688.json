@@ -1,0 +1,10 @@
+{
+    "id": 471688,
+    "name": "acclaim",
+    "version": "-",
+    "created_at": "2020-01-21T19:25:05",
+    "updated_at": "2020-01-21T19:25:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:youracclaim:acclaim:-:*:*:*:*:moodle:*:*",
+    "to_analyse": false
+}

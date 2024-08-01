@@ -1,0 +1,10 @@
+{
+    "id": 655123,
+    "name": "im",
+    "version": "-",
+    "created_at": "2021-02-01T21:09:15",
+    "updated_at": "2021-02-01T21:09:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:im_project:im:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

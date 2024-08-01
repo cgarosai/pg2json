@@ -1,0 +1,10 @@
+{
+    "id": 121083,
+    "name": "epmp_2000_firmware",
+    "version": "-",
+    "created_at": "2017-06-29T14:44:31",
+    "updated_at": "2022-04-18T19:48:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cambiumnetworks:epmp_2000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

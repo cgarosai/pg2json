@@ -1,0 +1,10 @@
+{
+    "id": 285967,
+    "name": "opencv",
+    "version": "3.0.0",
+    "created_at": "2019-07-02T13:10:53",
+    "updated_at": "2019-07-02T13:10:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opencv:opencv:3.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

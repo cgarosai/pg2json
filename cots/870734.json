@@ -1,0 +1,10 @@
+{
+    "id": 870734,
+    "name": "git-php",
+    "version": "3.12.0",
+    "created_at": "2022-05-03T12:08:40",
+    "updated_at": "2022-05-03T15:53:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:git-php_project:git-php:3.12.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

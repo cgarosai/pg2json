@@ -1,0 +1,10 @@
+{
+    "id": 526880,
+    "name": "sentinel",
+    "version": "0.14.2",
+    "created_at": "2020-04-01T14:13:46",
+    "updated_at": "2020-04-01T14:13:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:sentinel:0.14.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

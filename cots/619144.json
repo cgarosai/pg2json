@@ -1,0 +1,10 @@
+{
+    "id": 619144,
+    "name": "network_server",
+    "version": "3.9.0",
+    "created_at": "2020-11-12T15:17:17",
+    "updated_at": "2020-11-12T15:17:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chirpstack:network_server:3.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

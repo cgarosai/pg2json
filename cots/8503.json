@@ -1,0 +1,10 @@
+{
+    "id": 8503,
+    "name": "software_control-m_agent",
+    "version": "6.1.03",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-03-25T17:13:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:software_control-m_agent:6.1.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

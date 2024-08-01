@@ -1,0 +1,10 @@
+{
+    "id": 535477,
+    "name": "e250_firmware",
+    "version": "le.pm.p121",
+    "created_at": "2020-04-14T12:15:13",
+    "updated_at": "2020-04-14T12:15:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:e250_firmware:le.pm.p121:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

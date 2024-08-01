@@ -1,0 +1,10 @@
+{
+    "id": 96938,
+    "name": "rxvt-unicode",
+    "version": "9.10",
+    "created_at": "2014-05-14T21:04:46",
+    "updated_at": "2014-05-14T21:13:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marc_lehmann:rxvt-unicode:9.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

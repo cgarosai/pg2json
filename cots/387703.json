@@ -1,0 +1,10 @@
+{
+    "id": 387703,
+    "name": "containerized_data_importer",
+    "version": "0.4.0",
+    "created_at": "2019-09-24T13:47:04",
+    "updated_at": "2019-09-24T13:47:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubevirt:containerized_data_importer:0.4.0:alpha0:*:*:*:*:*:*",
+    "to_analyse": false
+}

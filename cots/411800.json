@@ -1,0 +1,10 @@
+{
+    "id": 411800,
+    "name": "server",
+    "version": "1.7.3",
+    "created_at": "2019-10-29T11:47:41",
+    "updated_at": "2019-10-29T11:47:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tomedo:server:1.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

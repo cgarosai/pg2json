@@ -1,0 +1,10 @@
+{
+    "id": 1200695,
+    "name": "ray",
+    "version": "1.12.1",
+    "created_at": "2023-12-01T16:25:48",
+    "updated_at": "2023-12-01T16:25:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anyscale:ray:1.12.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

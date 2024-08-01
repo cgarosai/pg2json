@@ -1,0 +1,10 @@
+{
+    "id": 626363,
+    "name": "server",
+    "version": "2019.2.12",
+    "created_at": "2020-12-01T11:45:14",
+    "updated_at": "2020-12-01T11:53:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tableau:server:2019.2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

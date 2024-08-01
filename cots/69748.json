@@ -1,0 +1,10 @@
+{
+    "id": 69748,
+    "name": "support",
+    "version": "6.x-1.0",
+    "created_at": "2012-09-20T17:46:27",
+    "updated_at": "2012-09-21T18:04:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tag1consulting:support:6.x-1.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

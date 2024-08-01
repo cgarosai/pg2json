@@ -1,0 +1,10 @@
+{
+    "id": 280098,
+    "name": "modal_frame_api",
+    "version": "7.x-1.0",
+    "created_at": "2019-07-09T15:23:19",
+    "updated_at": "2019-07-09T15:23:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modal_frame_api_project:modal_frame_api:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

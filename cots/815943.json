@@ -1,0 +1,10 @@
+{
+    "id": 815943,
+    "name": "distribution_of_openvino_toolkit",
+    "version": "2021.4",
+    "created_at": "2021-11-22T16:25:13",
+    "updated_at": "2021-12-13T18:29:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:distribution_of_openvino_toolkit:2021.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

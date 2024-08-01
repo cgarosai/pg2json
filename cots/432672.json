@@ -1,0 +1,10 @@
+{
+    "id": 432672,
+    "name": "netscaler_sd-wan",
+    "version": "7.4.6",
+    "created_at": "2019-11-20T15:38:33",
+    "updated_at": "2019-11-20T15:38:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:netscaler_sd-wan:7.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

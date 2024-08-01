@@ -1,0 +1,10 @@
+{
+    "id": 652743,
+    "name": "aruba_3800_firmware",
+    "version": "ka.16.04.0022",
+    "created_at": "2021-02-18T17:32:23",
+    "updated_at": "2021-02-18T17:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:aruba_3800_firmware:ka.16.04.0022:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

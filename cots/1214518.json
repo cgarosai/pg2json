@@ -1,0 +1,10 @@
+{
+    "id": 1214518,
+    "name": "certified_asterisk",
+    "version": "18.9",
+    "created_at": "2023-12-20T12:26:22",
+    "updated_at": "2023-12-20T12:26:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sangoma:certified_asterisk:18.9:cert4:*:*:*:*:*:*",
+    "to_analyse": false
+}

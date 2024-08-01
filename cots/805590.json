@@ -1,0 +1,10 @@
+{
+    "id": 805590,
+    "name": "blackberry",
+    "version": "-",
+    "created_at": "2021-11-04T14:58:21",
+    "updated_at": "2021-11-16T14:46:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:blackberry:blackberry:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 591009,
+    "name": "rx8200_firmware",
+    "version": "5.13.3",
+    "created_at": "2020-09-16T14:54:37",
+    "updated_at": "2020-11-12T11:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ericsson:rx8200_firmware:5.13.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 403180,
+    "name": "express_invoice",
+    "version": "6.10",
+    "created_at": "2019-10-17T12:00:10",
+    "updated_at": "2019-10-17T12:00:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nchsoftware:express_invoice:6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

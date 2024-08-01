@@ -1,0 +1,10 @@
+{
+    "id": 57725,
+    "name": "diskeeper",
+    "version": "9.0.532",
+    "created_at": "2012-05-08T11:52:13",
+    "updated_at": "2012-05-08T11:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:condusiv:diskeeper:9.0.532:*:*:*:server_standard:*:*:*",
+    "to_analyse": false
+}

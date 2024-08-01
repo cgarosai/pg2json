@@ -1,0 +1,10 @@
+{
+    "id": 1047044,
+    "name": "fs2",
+    "version": "2.5.7",
+    "created_at": "2023-03-06T23:31:40",
+    "updated_at": "2023-03-07T15:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typelevel:fs2:2.5.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

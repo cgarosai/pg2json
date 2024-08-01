@@ -1,0 +1,10 @@
+{
+    "id": 582877,
+    "name": "compass_firmware",
+    "version": "-",
+    "created_at": "2020-08-31T19:37:55",
+    "updated_at": "2020-08-31T19:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:plum-mobile:compass_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

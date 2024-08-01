@@ -1,0 +1,10 @@
+{
+    "id": 126012,
+    "name": "prime_optical",
+    "version": "10.6\\(0.1\\)",
+    "created_at": "2017-03-21T14:53:53",
+    "updated_at": "2021-04-01T11:27:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_optical:10.6\\(0.1\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

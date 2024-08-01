@@ -1,0 +1,10 @@
+{
+    "id": 1024760,
+    "name": "opentelemetry-go",
+    "version": "-",
+    "created_at": "2023-02-16T14:23:23",
+    "updated_at": "2023-09-02T00:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:opentelemetry-go:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

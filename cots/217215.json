@@ -1,0 +1,10 @@
+{
+    "id": 217215,
+    "name": "nexus_9000_in_standalone",
+    "version": "-",
+    "created_at": "2019-03-14T17:13:52",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_9000_in_standalone:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

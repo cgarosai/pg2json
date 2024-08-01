@@ -1,0 +1,10 @@
+{
+    "id": 160043,
+    "name": "node-opencv",
+    "version": "1.0.2",
+    "created_at": "2018-07-26T14:32:52",
+    "updated_at": "2018-07-26T14:32:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-opencv_project:node-opencv:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

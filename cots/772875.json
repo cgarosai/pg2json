@@ -1,0 +1,10 @@
+{
+    "id": 772875,
+    "name": "wordpress_advanced_ticket_system",
+    "version": "1.0.31",
+    "created_at": "2021-09-22T16:30:15",
+    "updated_at": "2021-09-22T16:40:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ticket-system:wordpress_advanced_ticket_system:1.0.31:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

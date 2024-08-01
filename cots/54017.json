@@ -1,0 +1,10 @@
+{
+    "id": 54017,
+    "name": "jre",
+    "version": "6.0.110",
+    "created_at": "2012-07-10T01:21:17",
+    "updated_at": "2012-07-10T01:21:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:jre:6.0.110:update11:*:*:*:*:*:*",
+    "to_analyse": false
+}

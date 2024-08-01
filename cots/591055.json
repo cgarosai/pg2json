@@ -1,0 +1,10 @@
+{
+    "id": 591055,
+    "name": "serverprotect",
+    "version": "3.0",
+    "created_at": "2020-09-16T16:20:21",
+    "updated_at": "2020-09-16T16:20:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:serverprotect:3.0:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

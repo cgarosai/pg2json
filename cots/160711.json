@@ -1,0 +1,10 @@
+{
+    "id": 160711,
+    "name": "spring_data_rest",
+    "version": "3.0.6",
+    "created_at": "2018-08-01T11:53:28",
+    "updated_at": "2018-08-01T11:53:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_data_rest:3.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

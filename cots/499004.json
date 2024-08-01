@@ -1,0 +1,10 @@
+{
+    "id": 499004,
+    "name": "sumocoin",
+    "version": "-",
+    "created_at": "2020-02-20T15:18:28",
+    "updated_at": "2020-02-20T15:18:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sumocoin_project:sumocoin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

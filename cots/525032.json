@@ -1,0 +1,10 @@
+{
+    "id": 525032,
+    "name": "mongodb",
+    "version": "-",
+    "created_at": "2020-03-31T18:26:41",
+    "updated_at": "2020-03-31T18:26:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anynines:mongodb:-:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

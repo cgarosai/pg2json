@@ -1,0 +1,10 @@
+{
+    "id": 1088785,
+    "name": "greenplum_database",
+    "version": "6.7.1",
+    "created_at": "2023-05-23T16:52:25",
+    "updated_at": "2023-05-24T16:39:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:greenplum_database:6.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

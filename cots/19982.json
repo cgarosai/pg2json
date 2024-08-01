@@ -1,0 +1,10 @@
+{
+    "id": 19982,
+    "name": "debian-goodies",
+    "version": "0.33",
+    "created_at": "2007-09-11T11:56:31",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:debian-goodies:0.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

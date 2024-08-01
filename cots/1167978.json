@@ -1,0 +1,10 @@
+{
+    "id": 1167978,
+    "name": "apptainer",
+    "version": "1.2.2",
+    "created_at": "2023-09-27T13:06:38",
+    "updated_at": "2023-09-27T13:06:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lfprojects:apptainer:1.2.2:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

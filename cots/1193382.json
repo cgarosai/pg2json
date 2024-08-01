@@ -1,0 +1,10 @@
+{
+    "id": 1193382,
+    "name": "ncr\\/camera_firmware",
+    "version": "71.8.0.6-r5",
+    "created_at": "2023-11-22T16:07:21",
+    "updated_at": "2023-11-22T16:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:milesight:ncr\\/camera_firmware:71.8.0.6-r5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

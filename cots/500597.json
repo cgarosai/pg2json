@@ -1,0 +1,10 @@
+{
+    "id": 500597,
+    "name": "xeon_e3-1565l_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T17:26:27",
+    "updated_at": "2020-03-06T17:26:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1565l_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

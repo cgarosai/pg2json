@@ -1,0 +1,10 @@
+{
+    "id": 486421,
+    "name": "wrn_240_firmware",
+    "version": "2.0.0",
+    "created_at": "2020-01-30T18:17:46",
+    "updated_at": "2020-01-30T18:17:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intelbras:wrn_240_firmware:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

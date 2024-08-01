@@ -1,0 +1,10 @@
+{
+    "id": 1017355,
+    "name": "wp_custom_admin_interface",
+    "version": "7.29",
+    "created_at": "2023-01-12T17:49:43",
+    "updated_at": "2023-05-24T15:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_custom_admin_interface_project:wp_custom_admin_interface:7.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

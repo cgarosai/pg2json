@@ -1,0 +1,10 @@
+{
+    "id": 1124485,
+    "name": "security_center",
+    "version": "5.11.2.1",
+    "created_at": "2023-08-03T11:20:37",
+    "updated_at": "2023-08-03T11:22:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:genetec:security_center:5.11.2.1:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

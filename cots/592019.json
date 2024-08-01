@@ -1,0 +1,10 @@
+{
+    "id": 592019,
+    "name": "mobility_services_engine",
+    "version": "13.0.0",
+    "created_at": "2020-09-21T14:08:02",
+    "updated_at": "2020-09-21T14:08:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:mobility_services_engine:13.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

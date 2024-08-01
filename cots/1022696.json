@@ -1,0 +1,10 @@
+{
+    "id": 1022696,
+    "name": "gimmie",
+    "version": "-",
+    "created_at": "2023-02-10T18:25:45",
+    "updated_at": "2023-02-23T12:58:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gimmie_project:gimmie:-:*:*:*:*:vbulletin:*:*",
+    "to_analyse": false
+}

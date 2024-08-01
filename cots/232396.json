@@ -1,0 +1,10 @@
+{
+    "id": 232396,
+    "name": "git",
+    "version": "1.5.5",
+    "created_at": "2019-05-10T15:06:29",
+    "updated_at": "2019-05-10T15:06:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:git-scm:git:1.5.5:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 680290,
+    "name": "business_protection_suite",
+    "version": "r2",
+    "created_at": "2021-04-07T12:58:35",
+    "updated_at": "2021-04-07T16:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:business_protection_suite:r2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

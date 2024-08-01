@@ -1,0 +1,10 @@
+{
+    "id": 630900,
+    "name": "sl1100_firmware",
+    "version": "-",
+    "created_at": "2020-12-22T17:37:32",
+    "updated_at": "2020-12-22T17:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nec:sl1100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 879798,
+    "name": "virtualized_infrastructure_manager",
+    "version": "4.0.0",
+    "created_at": "2022-05-02T12:16:15",
+    "updated_at": "2022-05-13T13:33:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:virtualized_infrastructure_manager:4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

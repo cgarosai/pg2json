@@ -1,0 +1,10 @@
+{
+    "id": 977948,
+    "name": "immudb",
+    "version": "0.6.2",
+    "created_at": "2022-11-25T17:18:44",
+    "updated_at": "2022-11-27T12:21:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codenotary:immudb:0.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

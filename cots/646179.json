@@ -1,0 +1,10 @@
+{
+    "id": 646179,
+    "name": "gjson",
+    "version": "1.6.7",
+    "created_at": "2021-01-07T15:02:41",
+    "updated_at": "2021-01-07T15:02:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gjson_project:gjson:1.6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 70206,
+    "name": "libxxf86dga",
+    "version": "1.0.99.2",
+    "created_at": "2013-06-17T14:10:28",
+    "updated_at": "2013-06-24T12:12:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x:libxxf86dga:1.0.99.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

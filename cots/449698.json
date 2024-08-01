@@ -1,0 +1,10 @@
+{
+    "id": 449698,
+    "name": "xeon_e3-1286l_v3_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T16:29:49",
+    "updated_at": "2019-12-02T16:29:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e3-1286l_v3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1221072,
+    "name": "self_service_password",
+    "version": "1.4.2",
+    "created_at": "2024-01-02T18:52:59",
+    "updated_at": "2024-01-02T18:52:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ltb-project:self_service_password:1.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

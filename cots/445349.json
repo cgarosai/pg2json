@@ -1,0 +1,10 @@
+{
+    "id": 445349,
+    "name": "vsphere_esxi",
+    "version": "6.5",
+    "created_at": "2019-11-22T15:47:12",
+    "updated_at": "2019-11-22T16:57:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vsphere_esxi:6.5:esxi650-201810002:*:*:*:*:*:*",
+    "to_analyse": false
+}

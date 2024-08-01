@@ -1,0 +1,10 @@
+{
+    "id": 1112886,
+    "name": "disable_wordpress_update_notifications_and_auto-update_email_notifications",
+    "version": "2.2",
+    "created_at": "2023-07-18T11:49:48",
+    "updated_at": "2023-07-18T12:41:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:disable_wordpress_update_notifications_and_auto-update_email_notifications_project:disable_wordpress_update_notifications_and_auto-update_email_notifications:2.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

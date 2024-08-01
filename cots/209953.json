@@ -1,0 +1,10 @@
+{
+    "id": 209953,
+    "name": "libatomic_ops",
+    "version": "7.4.2",
+    "created_at": "2019-02-25T14:31:24",
+    "updated_at": "2019-02-25T14:31:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libatomic_ops_project:libatomic_ops:7.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 520854,
+    "name": "bcm6750",
+    "version": "-",
+    "created_at": "2020-04-07T10:24:40",
+    "updated_at": "2020-04-07T10:24:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:broadcom:bcm6750:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 151637,
+    "name": "tika",
+    "version": "1.15",
+    "created_at": "2018-05-30T12:03:06",
+    "updated_at": "2018-05-30T12:03:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:tika:1.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

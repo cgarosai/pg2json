@@ -1,0 +1,10 @@
+{
+    "id": 1086015,
+    "name": "ebook_store",
+    "version": "5.568",
+    "created_at": "2023-05-22T14:17:54",
+    "updated_at": "2023-05-22T14:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shopfiles:ebook_store:5.568:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

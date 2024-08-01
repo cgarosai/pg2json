@@ -1,0 +1,10 @@
+{
+    "id": 117164,
+    "name": "utps_firmware",
+    "version": "23.009.09.00.983",
+    "created_at": "2016-04-26T10:27:06",
+    "updated_at": "2016-04-26T10:27:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:huawei:utps_firmware:23.009.09.00.983:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

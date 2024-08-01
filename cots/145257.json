@@ -1,0 +1,10 @@
+{
+    "id": 145257,
+    "name": "core_i5",
+    "version": "6600k",
+    "created_at": "2018-02-07T11:26:09",
+    "updated_at": "2018-02-07T11:26:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:6600k:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

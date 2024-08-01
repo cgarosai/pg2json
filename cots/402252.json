@@ -1,0 +1,10 @@
+{
+    "id": 402252,
+    "name": "tidy",
+    "version": "5.7.28",
+    "created_at": "2019-10-16T15:47:32",
+    "updated_at": "2019-10-16T15:47:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:htacg:tidy:5.7.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

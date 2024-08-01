@@ -1,0 +1,10 @@
+{
+    "id": 115635,
+    "name": "rv325_dual_wan_gigabit_vpn_router",
+    "version": "-",
+    "created_at": "2016-02-24T16:12:19",
+    "updated_at": "2016-02-24T16:12:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:rv325_dual_wan_gigabit_vpn_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

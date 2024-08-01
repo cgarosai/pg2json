@@ -1,0 +1,10 @@
+{
+    "id": 577810,
+    "name": "vcm5010_firmware",
+    "version": "v100r002c50spc100",
+    "created_at": "2020-07-29T17:37:28",
+    "updated_at": "2020-07-29T17:37:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:vcm5010_firmware:v100r002c50spc100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

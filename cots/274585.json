@@ -1,0 +1,10 @@
+{
+    "id": 274585,
+    "name": "pb610_firmware",
+    "version": "1.91",
+    "created_at": "2019-07-01T15:32:59",
+    "updated_at": "2021-05-19T14:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:pb610_firmware:1.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

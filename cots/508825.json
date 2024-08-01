@@ -1,0 +1,10 @@
+{
+    "id": 508825,
+    "name": "smarthome_firmware",
+    "version": "2020",
+    "created_at": "2020-03-05T13:07:22",
+    "updated_at": "2021-06-28T13:25:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rubetek:smarthome_firmware:2020:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

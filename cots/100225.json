@@ -1,0 +1,10 @@
+{
+    "id": 100225,
+    "name": "libmimedir",
+    "version": "-",
+    "created_at": "2015-06-17T13:04:40",
+    "updated_at": "2015-06-22T15:53:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libmimedir_project:libmimedir:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

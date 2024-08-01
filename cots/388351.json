@@ -1,0 +1,10 @@
+{
+    "id": 388351,
+    "name": "embedza",
+    "version": "1.0.0",
+    "created_at": "2019-09-24T15:53:43",
+    "updated_at": "2019-09-24T15:53:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:embedza_project:embedza:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

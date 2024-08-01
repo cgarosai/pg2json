@@ -1,0 +1,10 @@
+{
+    "id": 123175,
+    "name": "fortimanager_400e",
+    "version": "-",
+    "created_at": "2017-08-17T20:04:37",
+    "updated_at": "2021-05-13T15:26:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:fortinet:fortimanager_400e:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

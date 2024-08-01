@@ -1,0 +1,10 @@
+{
+    "id": 581002,
+    "name": "libxvmc",
+    "version": "1.0.10",
+    "created_at": "2020-08-24T16:09:49",
+    "updated_at": "2020-08-24T16:09:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x.org:libxvmc:1.0.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

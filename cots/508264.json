@@ -1,0 +1,10 @@
+{
+    "id": 508264,
+    "name": "windows_small_business_server_2011",
+    "version": "-",
+    "created_at": "2020-03-04T14:39:16",
+    "updated_at": "2020-03-04T14:39:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_small_business_server_2011:-:*:*:*:essentials:*:x64:*",
+    "to_analyse": false
+}

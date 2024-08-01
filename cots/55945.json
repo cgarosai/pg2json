@@ -1,0 +1,10 @@
+{
+    "id": 55945,
+    "name": "client_task_server",
+    "version": "6.0.1524",
+    "created_at": "2012-04-24T21:21:43",
+    "updated_at": "2012-04-24T21:21:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:client_task_server:6.0.1524:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

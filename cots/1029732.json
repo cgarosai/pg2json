@@ -1,0 +1,10 @@
+{
+    "id": 1029732,
+    "name": "optiplex_7400_firmware",
+    "version": "1.1.15",
+    "created_at": "2023-02-08T13:10:11",
+    "updated_at": "2023-02-08T14:42:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_7400_firmware:1.1.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

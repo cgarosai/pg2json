@@ -1,0 +1,10 @@
+{
+    "id": 7591,
+    "name": "acrobat_reader",
+    "version": "6.0.5",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2009-03-05T16:16:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:acrobat_reader:6.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

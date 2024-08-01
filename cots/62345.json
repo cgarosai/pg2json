@@ -1,0 +1,10 @@
+{
+    "id": 62345,
+    "name": "fortigate-200b",
+    "version": "-",
+    "created_at": "2012-11-14T19:06:48",
+    "updated_at": "2012-11-21T16:16:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:fortinet:fortigate-200b:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

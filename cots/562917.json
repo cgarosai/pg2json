@@ -1,0 +1,10 @@
+{
+    "id": 562917,
+    "name": "linux_enterprise_server",
+    "version": "11",
+    "created_at": "2020-07-17T10:31:23",
+    "updated_at": "2020-07-17T10:31:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_server:11:sp1:*:*:ltss:*:*:*",
+    "to_analyse": false
+}

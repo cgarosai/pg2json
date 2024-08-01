@@ -1,0 +1,10 @@
+{
+    "id": 109777,
+    "name": "jackrabbit",
+    "version": "2.10.0",
+    "created_at": "2015-06-01T14:20:34",
+    "updated_at": "2015-06-12T15:23:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:jackrabbit:2.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

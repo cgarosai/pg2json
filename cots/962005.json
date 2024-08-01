@@ -1,0 +1,10 @@
+{
+    "id": 962005,
+    "name": "support",
+    "version": "22.02.28",
+    "created_at": "2022-11-16T18:39:22",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:support:22.02.28:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

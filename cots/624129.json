@@ -1,0 +1,10 @@
+{
+    "id": 624129,
+    "name": "ceph-ansible",
+    "version": "3.0.35",
+    "created_at": "2020-12-10T11:41:06",
+    "updated_at": "2020-12-10T11:41:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ceph:ceph-ansible:3.0.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

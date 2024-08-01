@@ -1,0 +1,10 @@
+{
+    "id": 10633,
+    "name": "select_identity",
+    "version": "4.1.9",
+    "created_at": "2007-10-12T12:20:12",
+    "updated_at": "2007-10-12T12:20:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:select_identity:4.1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 33088,
+    "name": "utorrent",
+    "version": "2.0.3",
+    "created_at": "2011-03-04T16:47:04",
+    "updated_at": "2011-03-04T16:47:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bittorrent:utorrent:2.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

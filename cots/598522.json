@@ -1,0 +1,10 @@
+{
+    "id": 598522,
+    "name": "proliant_bl660c_gen8_blade_server",
+    "version": "-",
+    "created_at": "2020-09-11T11:17:24",
+    "updated_at": "2020-09-11T11:17:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hpe:proliant_bl660c_gen8_blade_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

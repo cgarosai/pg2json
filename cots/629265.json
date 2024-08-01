@@ -1,0 +1,10 @@
+{
+    "id": 629265,
+    "name": "open_source",
+    "version": "18.0.0",
+    "created_at": "2020-12-04T16:59:01",
+    "updated_at": "2020-12-04T16:59:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:asterisk:open_source:18.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 214795,
+    "name": "symbiq_infusion_system_firmware",
+    "version": "3.13",
+    "created_at": "2019-04-03T13:28:51",
+    "updated_at": "2021-06-25T16:47:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:pifzer:symbiq_infusion_system_firmware:3.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 751984,
+    "name": "loki",
+    "version": "0.4.0",
+    "created_at": "2021-08-09T12:55:51",
+    "updated_at": "2021-08-10T17:09:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:grafana:loki:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

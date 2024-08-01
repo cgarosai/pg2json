@@ -1,0 +1,10 @@
+{
+    "id": 71380,
+    "name": "security_information_manager",
+    "version": "4.8.1",
+    "created_at": "2013-07-08T22:44:06",
+    "updated_at": "2013-07-12T15:48:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:security_information_manager:4.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

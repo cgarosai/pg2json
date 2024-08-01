@@ -1,0 +1,10 @@
+{
+    "id": 1065236,
+    "name": "performance_publisher",
+    "version": "8.05",
+    "created_at": "2023-04-06T09:48:31",
+    "updated_at": "2023-04-07T18:40:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:performance_publisher:8.05:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

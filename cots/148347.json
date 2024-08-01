@@ -1,0 +1,10 @@
+{
+    "id": 148347,
+    "name": "en100_ethernet_module_iec_104_firmware",
+    "version": "-",
+    "created_at": "2018-03-28T16:13:25",
+    "updated_at": "2021-05-25T11:01:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:en100_ethernet_module_iec_104_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

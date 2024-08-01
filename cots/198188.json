@@ -1,0 +1,10 @@
+{
+    "id": 198188,
+    "name": "modicom_premium_firmware",
+    "version": "-",
+    "created_at": "2018-12-27T17:26:35",
+    "updated_at": "2021-05-12T10:10:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:modicom_premium_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

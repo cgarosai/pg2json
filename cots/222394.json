@@ -1,0 +1,10 @@
+{
+    "id": 222394,
+    "name": "laserjet_enterprise_m605_firmware",
+    "version": "2309010_581410",
+    "created_at": "2019-04-23T14:22:45",
+    "updated_at": "2021-05-24T13:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:laserjet_enterprise_m605_firmware:2309010_581410:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

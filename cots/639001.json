@@ -1,0 +1,10 @@
+{
+    "id": 639001,
+    "name": "n540-acc-sys_firmware",
+    "version": "1.15",
+    "created_at": "2020-12-18T13:17:06",
+    "updated_at": "2020-12-18T13:17:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:n540-acc-sys_firmware:1.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 603328,
+    "name": "sympa",
+    "version": "6.2.26",
+    "created_at": "2020-10-15T09:51:44",
+    "updated_at": "2020-10-15T09:51:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sympa:sympa:6.2.26:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

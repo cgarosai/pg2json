@@ -1,0 +1,10 @@
+{
+    "id": 795091,
+    "name": "mkdocs",
+    "version": "1.0",
+    "created_at": "2021-10-13T15:13:20",
+    "updated_at": "2021-10-13T15:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mkdocs:mkdocs:1.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

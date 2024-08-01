@@ -1,0 +1,10 @@
+{
+    "id": 76856,
+    "name": "cxf",
+    "version": "2.6.6",
+    "created_at": "2013-03-19T13:27:14",
+    "updated_at": "2013-03-20T12:10:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cxf:2.6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

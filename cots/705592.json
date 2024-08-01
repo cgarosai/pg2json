@@ -1,0 +1,10 @@
+{
+    "id": 705592,
+    "name": "algorithmica",
+    "version": "2021-03-07",
+    "created_at": "2021-05-06T15:10:21",
+    "updated_at": "2021-05-26T11:31:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:algorithmica_project:algorithmica:2021-03-07:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

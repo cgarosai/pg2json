@@ -1,0 +1,10 @@
+{
+    "id": 655082,
+    "name": "async-h1",
+    "version": "1.0.0",
+    "created_at": "2021-02-01T18:21:17",
+    "updated_at": "2021-02-10T18:52:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:async-h1_project:async-h1:1.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

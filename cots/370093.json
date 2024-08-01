@@ -1,0 +1,10 @@
+{
+    "id": 370093,
+    "name": "cayenne",
+    "version": "4.0",
+    "created_at": "2019-09-19T15:21:22",
+    "updated_at": "2019-09-19T15:21:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cayenne:4.0:milestone4:*:*:*:*:*:*",
+    "to_analyse": false
+}

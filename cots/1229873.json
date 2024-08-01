@@ -1,0 +1,10 @@
+{
+    "id": 1229873,
+    "name": "uboot_secondary_program_loader",
+    "version": "2023.07",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nxp:uboot_secondary_program_loader:2023.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

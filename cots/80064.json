@@ -1,0 +1,10 @@
+{
+    "id": 80064,
+    "name": "clearscada",
+    "version": "2010",
+    "created_at": "2014-01-16T20:38:28",
+    "updated_at": "2018-12-31T13:23:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:clearscada:2010:r2:*:*:*:*:*:*",
+    "to_analyse": false
+}

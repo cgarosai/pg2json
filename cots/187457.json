@@ -1,0 +1,10 @@
+{
+    "id": 187457,
+    "name": "moby",
+    "version": "0.7.0",
+    "created_at": "2018-10-29T16:20:03",
+    "updated_at": "2018-10-29T16:20:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobyproject:moby:0.7.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

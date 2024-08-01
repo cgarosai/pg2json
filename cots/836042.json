@@ -1,0 +1,10 @@
+{
+    "id": 836042,
+    "name": "ws_scrcpy",
+    "version": "0.3.0",
+    "created_at": "2022-01-12T14:29:48",
+    "updated_at": "2022-01-12T18:05:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ws_scrcpy_project:ws_scrcpy:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

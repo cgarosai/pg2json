@@ -1,0 +1,10 @@
+{
+    "id": 673412,
+    "name": "hmp350_firmware",
+    "version": "-",
+    "created_at": "2021-03-24T17:53:29",
+    "updated_at": "2021-05-27T11:47:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:spinetix:hmp350_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

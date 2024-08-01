@@ -1,0 +1,10 @@
+{
+    "id": 184854,
+    "name": "spectrum_protect_for_virtual_environments",
+    "version": "8.1.0.0",
+    "created_at": "2018-11-26T16:49:53",
+    "updated_at": "2018-11-26T16:49:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:spectrum_protect_for_virtual_environments:8.1.0.0:*:*:*:*:hyper-v:*:*",
+    "to_analyse": false
+}

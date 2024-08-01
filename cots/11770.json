@@ -1,0 +1,10 @@
+{
+    "id": 11770,
+    "name": "windows-nt",
+    "version": "2003",
+    "created_at": "2008-04-15T20:38:40",
+    "updated_at": "2008-04-15T21:56:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows-nt:2003:sp2:itanium:*:*:*:*:*",
+    "to_analyse": false
+}

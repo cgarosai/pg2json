@@ -1,0 +1,10 @@
+{
+    "id": 396759,
+    "name": "violation_comments_to_gitlab",
+    "version": "2.3",
+    "created_at": "2019-09-30T09:23:58",
+    "updated_at": "2019-09-30T09:23:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:violation_comments_to_gitlab:2.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

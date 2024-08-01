@@ -1,0 +1,10 @@
+{
+    "id": 154447,
+    "name": "nagios_core",
+    "version": "4.3.2",
+    "created_at": "2018-06-18T08:41:32",
+    "updated_at": "2018-06-18T08:41:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagios:nagios_core:4.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

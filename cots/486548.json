@@ -1,0 +1,10 @@
+{
+    "id": 486548,
+    "name": "secure_headers",
+    "version": "3.6.5",
+    "created_at": "2020-01-30T18:41:15",
+    "updated_at": "2020-01-30T18:41:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:twitter:secure_headers:3.6.5:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

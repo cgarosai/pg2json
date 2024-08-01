@@ -1,0 +1,10 @@
+{
+    "id": 1030949,
+    "name": "oneapi_dpc\\+\\+\\/c\\+\\+_compiler_runtime",
+    "version": "2022.0",
+    "created_at": "2023-02-28T17:49:06",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler_runtime:2022.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

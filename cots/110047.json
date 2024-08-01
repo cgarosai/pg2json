@@ -1,0 +1,10 @@
+{
+    "id": 110047,
+    "name": "unifying_firmware",
+    "version": "012.005.00028",
+    "created_at": "2016-08-04T20:53:31",
+    "updated_at": "2021-06-23T16:27:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:logitech:unifying_firmware:012.005.00028:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

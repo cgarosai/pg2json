@@ -1,0 +1,10 @@
+{
+    "id": 805578,
+    "name": "snow_inventory_agent",
+    "version": "6.7.2",
+    "created_at": "2021-11-04T14:05:04",
+    "updated_at": "2021-12-03T17:21:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snowsoftware:snow_inventory_agent:6.7.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

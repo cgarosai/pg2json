@@ -1,0 +1,10 @@
+{
+    "id": 61519,
+    "name": "avamar",
+    "version": "6.1.100-333",
+    "created_at": "2012-10-31T11:58:54",
+    "updated_at": "2012-11-01T01:04:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:avamar:6.1.100-333:-:*:*:*:vmware:*:*",
+    "to_analyse": false
+}

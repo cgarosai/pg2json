@@ -1,0 +1,10 @@
+{
+    "id": 141205,
+    "name": "p9_firmware",
+    "version": "eva-l09c432b383",
+    "created_at": "2018-05-01T13:08:26",
+    "updated_at": "2018-05-01T13:08:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p9_firmware:eva-l09c432b383:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 976182,
+    "name": "autocomplete_parameter",
+    "version": "-",
+    "created_at": "2022-11-23T12:33:53",
+    "updated_at": "2022-11-23T12:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:autocomplete_parameter:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

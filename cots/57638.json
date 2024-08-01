@@ -1,0 +1,10 @@
+{
+    "id": 57638,
+    "name": "xenapp_group_policy_management_experience",
+    "version": "1.0.2.0",
+    "created_at": "2012-05-08T11:51:48",
+    "updated_at": "2012-05-08T11:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xenapp_group_policy_management_experience:1.0.2.0:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

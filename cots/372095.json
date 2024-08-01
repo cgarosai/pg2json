@@ -1,0 +1,10 @@
+{
+    "id": 372095,
+    "name": "wp-piwik",
+    "version": "1.0.2",
+    "created_at": "2019-09-21T14:06:55",
+    "updated_at": "2019-09-21T14:06:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-piwik_project:wp-piwik:1.0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

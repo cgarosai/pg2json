@@ -1,0 +1,10 @@
+{
+    "id": 106022,
+    "name": "piston",
+    "version": "0.2.2.0",
+    "created_at": "2014-12-18T13:11:43",
+    "updated_at": "2014-12-18T18:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:djangoproject:piston:0.2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

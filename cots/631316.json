@@ -1,0 +1,10 @@
+{
+    "id": 631316,
+    "name": "connect_wi-fi_bridge_firmware",
+    "version": "2.2.12",
+    "created_at": "2020-12-23T16:59:27",
+    "updated_at": "2020-12-23T16:59:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:august:connect_wi-fi_bridge_firmware:2.2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

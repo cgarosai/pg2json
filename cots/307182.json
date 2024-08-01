@@ -1,0 +1,10 @@
+{
+    "id": 307182,
+    "name": "toronto_firmware",
+    "version": "toronto-tl10c01b191",
+    "created_at": "2019-07-19T14:29:05",
+    "updated_at": "2019-07-19T14:29:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:toronto_firmware:toronto-tl10c01b191:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

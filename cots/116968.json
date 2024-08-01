@@ -1,0 +1,10 @@
+{
+    "id": 116968,
+    "name": "oracle_berkeley_db",
+    "version": "12.1.6.1.26",
+    "created_at": "2016-04-21T14:35:24",
+    "updated_at": "2016-04-21T14:35:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:oracle_berkeley_db:12.1.6.1.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 51061,
+    "name": "tivoli_omegamon_xe_for_messaging_on_z\\/os",
+    "version": "601",
+    "created_at": "2012-06-21T17:06:41",
+    "updated_at": "2012-06-21T17:06:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_omegamon_xe_for_messaging_on_z\\/os:601:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

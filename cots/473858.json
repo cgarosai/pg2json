@@ -1,0 +1,10 @@
+{
+    "id": 473858,
+    "name": "sanitize-html",
+    "version": "1.0.3",
+    "created_at": "2020-01-27T12:59:04",
+    "updated_at": "2020-01-27T12:59:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apostrophecms:sanitize-html:1.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

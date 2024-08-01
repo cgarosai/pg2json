@@ -1,0 +1,10 @@
+{
+    "id": 1279720,
+    "name": "pix-vpn-accel",
+    "version": "-",
+    "created_at": "2024-07-02T10:52:03",
+    "updated_at": "2024-07-02T10:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:pix-vpn-accel:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

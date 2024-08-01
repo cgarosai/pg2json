@@ -1,0 +1,10 @@
+{
+    "id": 558444,
+    "name": "cni_network_plugins",
+    "version": "0.3.0",
+    "created_at": "2020-06-05T13:44:13",
+    "updated_at": "2023-03-14T14:35:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cncf:cni_network_plugins:0.3.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

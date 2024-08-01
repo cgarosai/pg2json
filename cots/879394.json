@@ -1,0 +1,10 @@
+{
+    "id": 879394,
+    "name": "qcp200w_firmware",
+    "version": "-",
+    "created_at": "2022-04-27T16:10:35",
+    "updated_at": "2022-10-11T16:30:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 26957,
+    "name": "mod_perl",
+    "version": "0.93",
+    "created_at": "2009-05-12T16:26:55",
+    "updated_at": "2009-05-12T16:26:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:mod_perl:0.93:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

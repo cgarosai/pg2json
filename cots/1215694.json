@@ -1,0 +1,10 @@
+{
+    "id": 1215694,
+    "name": "wp_fastest_cache",
+    "version": "1.2.0",
+    "created_at": "2023-12-08T23:36:38",
+    "updated_at": "2023-12-08T23:36:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpfastestcache:wp_fastest_cache:1.2.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

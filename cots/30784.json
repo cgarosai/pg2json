@@ -1,0 +1,10 @@
+{
+    "id": 30784,
+    "name": "pix_firewall_software",
+    "version": "4.1\\(6b\\)",
+    "created_at": "2010-12-28T16:31:02",
+    "updated_at": "2010-12-28T16:31:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:pix_firewall_software:4.1\\(6b\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

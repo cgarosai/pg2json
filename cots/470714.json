@@ -1,0 +1,10 @@
+{
+    "id": 470714,
+    "name": "access_control",
+    "version": "16.7",
+    "created_at": "2020-01-16T18:18:45",
+    "updated_at": "2020-01-16T18:18:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:access_control:16.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 744682,
+    "name": "emq_x_broker",
+    "version": "4.3",
+    "created_at": "2021-07-29T14:01:45",
+    "updated_at": "2021-07-29T16:00:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emqx:emq_x_broker:4.3:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

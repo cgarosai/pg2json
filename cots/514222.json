@@ -1,0 +1,10 @@
+{
+    "id": 514222,
+    "name": "dvr-16cif_firmware",
+    "version": "-",
+    "created_at": "2020-03-31T14:23:50",
+    "updated_at": "2020-03-31T14:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:swann:dvr-16cif_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

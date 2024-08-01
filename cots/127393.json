@@ -1,0 +1,10 @@
+{
+    "id": 127393,
+    "name": "horizon",
+    "version": "10.0.0",
+    "created_at": "2017-04-10T23:58:28",
+    "updated_at": "2021-04-20T11:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:horizon:10.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

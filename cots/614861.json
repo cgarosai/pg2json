@@ -1,0 +1,10 @@
+{
+    "id": 614861,
+    "name": "domino",
+    "version": "11.0.0",
+    "created_at": "2020-11-30T11:46:58",
+    "updated_at": "2021-04-19T12:38:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:domino:11.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

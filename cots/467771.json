@@ -1,0 +1,10 @@
+{
+    "id": 467771,
+    "name": "dietlibc",
+    "version": "0.34",
+    "created_at": "2019-12-18T14:07:12",
+    "updated_at": "2019-12-18T14:07:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dietlibc_project:dietlibc:0.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

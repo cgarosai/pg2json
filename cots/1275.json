@@ -1,0 +1,10 @@
+{
+    "id": 1275,
+    "name": "tru64",
+    "version": "5.1a_pk3_bl3",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:compaq:tru64:5.1a_pk3_bl3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

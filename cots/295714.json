@@ -1,0 +1,10 @@
+{
+    "id": 295714,
+    "name": "display_suite",
+    "version": "6.x-2.x",
+    "created_at": "2019-07-12T12:40:16",
+    "updated_at": "2019-07-12T12:40:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:display_suite_project:display_suite:6.x-2.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

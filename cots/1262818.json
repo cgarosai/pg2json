@@ -1,0 +1,10 @@
+{
+    "id": 1262818,
+    "name": "drone_scanner",
+    "version": "1.5.2",
+    "created_at": "2024-06-04T15:15:49",
+    "updated_at": "2024-06-04T15:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dronetag:drone_scanner:1.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

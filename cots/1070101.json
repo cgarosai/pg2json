@@ -1,0 +1,10 @@
+{
+    "id": 1070101,
+    "name": "wpmobile.app",
+    "version": "10.17",
+    "created_at": "2023-05-08T12:08:45",
+    "updated_at": "2023-05-11T15:37:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpmobile.app_project:wpmobile.app:10.17:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

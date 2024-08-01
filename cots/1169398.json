@@ -1,0 +1,10 @@
+{
+    "id": 1169398,
+    "name": "midgard_gpu_kernel_driver",
+    "version": "r29p0",
+    "created_at": "2023-09-28T14:37:58",
+    "updated_at": "2023-09-28T14:37:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1161584,
+    "name": "secrets-store-csi-driver",
+    "version": "0.1.0",
+    "created_at": "2023-10-02T15:41:32",
+    "updated_at": "2023-10-02T15:41:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:secrets-store-csi-driver:0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

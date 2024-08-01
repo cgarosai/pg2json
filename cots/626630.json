@@ -1,0 +1,10 @@
+{
+    "id": 626630,
+    "name": "pritunl-client-electron",
+    "version": "1.0.1303.3",
+    "created_at": "2020-12-01T12:52:28",
+    "updated_at": "2020-12-01T12:52:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pritunl:pritunl-client-electron:1.0.1303.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

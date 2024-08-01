@@ -1,0 +1,10 @@
+{
+    "id": 81852,
+    "name": "qualysguardsuite",
+    "version": "7.13",
+    "created_at": "2014-02-20T18:44:32",
+    "updated_at": "2014-02-20T18:46:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qualys:qualysguardsuite:7.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

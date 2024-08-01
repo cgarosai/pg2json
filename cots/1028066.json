@@ -1,0 +1,10 @@
+{
+    "id": 1028066,
+    "name": "saml_sp_single_sign_on",
+    "version": "20.0.0",
+    "created_at": "2023-02-07T15:08:34",
+    "updated_at": "2023-03-03T14:28:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniorange:saml_sp_single_sign_on:20.0.0:*:*:*:multisite:wordpress:*:*",
+    "to_analyse": false
+}

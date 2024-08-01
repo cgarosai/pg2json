@@ -1,0 +1,10 @@
+{
+    "id": 49200,
+    "name": "conky",
+    "version": "1.1",
+    "created_at": "2011-11-07T20:23:44",
+    "updated_at": "2011-11-09T19:46:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conky:conky:1.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

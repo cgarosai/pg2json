@@ -1,0 +1,10 @@
+{
+    "id": 564621,
+    "name": "adobe_reader",
+    "version": "20.0.1",
+    "created_at": "2020-07-23T15:33:22",
+    "updated_at": "2020-07-23T15:33:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:adobe_reader:20.0.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

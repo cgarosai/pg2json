@@ -1,0 +1,10 @@
+{
+    "id": 641138,
+    "name": "rdbms_sharding",
+    "version": "19c",
+    "created_at": "2021-01-25T14:41:59",
+    "updated_at": "2021-01-25T14:41:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:rdbms_sharding:19c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

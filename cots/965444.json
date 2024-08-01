@@ -1,0 +1,10 @@
+{
+    "id": 965444,
+    "name": "wp_total_hacks",
+    "version": "4.7.2",
+    "created_at": "2022-10-31T16:11:27",
+    "updated_at": "2022-11-10T17:23:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_total_hacks_project:wp_total_hacks:4.7.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

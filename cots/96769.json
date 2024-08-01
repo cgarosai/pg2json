@@ -1,0 +1,10 @@
+{
+    "id": 96769,
+    "name": "web_applications",
+    "version": "2010",
+    "created_at": "2014-05-14T09:55:37",
+    "updated_at": "2014-05-14T22:29:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:web_applications:2010:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

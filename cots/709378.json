@@ -1,0 +1,10 @@
+{
+    "id": 709378,
+    "name": "mysql",
+    "version": "2.3.2",
+    "created_at": "2021-05-18T15:15:01",
+    "updated_at": "2021-05-18T15:20:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysqljs:mysql:2.3.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

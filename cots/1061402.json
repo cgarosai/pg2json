@@ -1,0 +1,10 @@
+{
+    "id": 1061402,
+    "name": "spring_framework",
+    "version": "6.0.8",
+    "created_at": "2023-04-19T09:57:08",
+    "updated_at": "2023-07-07T17:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_framework:6.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

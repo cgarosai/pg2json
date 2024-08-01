@@ -1,0 +1,10 @@
+{
+    "id": 776056,
+    "name": "objection",
+    "version": "1.0.0",
+    "created_at": "2021-09-08T15:11:28",
+    "updated_at": "2021-09-08T15:12:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:objection_project:objection:1.0.0:rc13:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

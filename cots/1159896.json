@@ -1,0 +1,10 @@
+{
+    "id": 1159896,
+    "name": "json-c",
+    "version": "0.15-20200726",
+    "created_at": "2023-09-16T11:05:58",
+    "updated_at": "2023-09-16T11:09:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:json-c_project:json-c:0.15-20200726:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

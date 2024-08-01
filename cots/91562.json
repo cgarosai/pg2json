@@ -1,0 +1,10 @@
+{
+    "id": 91562,
+    "name": "records_client",
+    "version": "6.7",
+    "created_at": "2014-08-20T16:20:51",
+    "updated_at": "2014-08-27T23:42:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:records_client:6.7:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

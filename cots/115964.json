@@ -1,0 +1,10 @@
+{
+    "id": 115964,
+    "name": "financial_transaction_manager",
+    "version": "3.0.0.10",
+    "created_at": "2016-03-09T16:32:53",
+    "updated_at": "2016-03-09T16:32:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:financial_transaction_manager:3.0.0.10:*:*:*:*:cps_services:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 229857,
+    "name": "groovy_postbuild",
+    "version": "2.4.2",
+    "created_at": "2019-04-16T13:26:48",
+    "updated_at": "2019-04-16T13:26:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:groovy_postbuild:2.4.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

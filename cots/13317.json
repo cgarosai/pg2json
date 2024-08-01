@@ -1,0 +1,10 @@
+{
+    "id": 13317,
+    "name": "cups",
+    "version": "1.2.3",
+    "created_at": "2008-10-10T13:44:59",
+    "updated_at": "2012-11-26T15:39:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:cups:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

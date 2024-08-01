@@ -1,0 +1,10 @@
+{
+    "id": 1007103,
+    "name": "hedgehog",
+    "version": "-",
+    "created_at": "2022-12-30T11:43:51",
+    "updated_at": "2022-12-30T19:49:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dns-stats:hedgehog:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

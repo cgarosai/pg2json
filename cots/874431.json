@@ -1,0 +1,10 @@
+{
+    "id": 874431,
+    "name": "contao",
+    "version": "4.13.2",
+    "created_at": "2022-05-13T09:14:24",
+    "updated_at": "2022-05-13T09:17:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contao:contao:4.13.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

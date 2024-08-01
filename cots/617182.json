@@ -1,0 +1,10 @@
+{
+    "id": 617182,
+    "name": "webcit",
+    "version": "926",
+    "created_at": "2020-11-02T17:19:52",
+    "updated_at": "2020-11-02T17:19:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citadel:webcit:926:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

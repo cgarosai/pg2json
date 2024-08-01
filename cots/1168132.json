@@ -1,0 +1,10 @@
+{
+    "id": 1168132,
+    "name": "quickassist_technology",
+    "version": "-",
+    "created_at": "2023-09-27T19:14:22",
+    "updated_at": "2023-09-27T19:14:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:quickassist_technology:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

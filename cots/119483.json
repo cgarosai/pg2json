@@ -1,0 +1,10 @@
+{
+    "id": 119483,
+    "name": "chromium",
+    "version": "40.0.2214.110",
+    "created_at": "2016-06-30T15:15:13",
+    "updated_at": "2021-05-27T11:46:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chromium:chromium:40.0.2214.110:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

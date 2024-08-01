@@ -1,0 +1,10 @@
+{
+    "id": 71238,
+    "name": "h3c_switch",
+    "version": "s3610-28p_ls-3610-28p-ovs",
+    "created_at": "2013-07-08T15:03:55",
+    "updated_at": "2013-07-12T15:51:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_switch:s3610-28p_ls-3610-28p-ovs:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

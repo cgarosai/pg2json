@@ -1,0 +1,10 @@
+{
+    "id": 1113313,
+    "name": "decidim",
+    "version": "-",
+    "created_at": "2023-07-18T13:08:25",
+    "updated_at": "2023-07-18T13:12:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:decidim:decidim:-:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

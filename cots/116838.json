@@ -1,0 +1,10 @@
+{
+    "id": 116838,
+    "name": "mate_s_firmware",
+    "version": "crr-cl00",
+    "created_at": "2016-04-08T13:28:10",
+    "updated_at": "2021-06-21T12:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mate_s_firmware:crr-cl00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

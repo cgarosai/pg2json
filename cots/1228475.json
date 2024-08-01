@@ -1,0 +1,10 @@
+{
+    "id": 1228475,
+    "name": "experience_manager",
+    "version": "2023.7.0",
+    "created_at": "2023-12-27T13:00:43",
+    "updated_at": "2023-12-27T13:00:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:experience_manager:2023.7.0:*:*:*:aem_cloud_service:*:*:*",
+    "to_analyse": false
+}

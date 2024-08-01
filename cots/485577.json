@@ -1,0 +1,10 @@
+{
+    "id": 485577,
+    "name": "simplenews",
+    "version": "6.x-2.0",
+    "created_at": "2020-01-29T18:00:14",
+    "updated_at": "2020-01-29T18:00:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:md-systems:simplenews:6.x-2.0:alpha1:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

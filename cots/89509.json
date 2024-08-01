@@ -1,0 +1,10 @@
+{
+    "id": 89509,
+    "name": "will_paginate",
+    "version": "3.0.5",
+    "created_at": "2014-01-02T14:33:52",
+    "updated_at": "2014-01-02T14:38:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mislav_marohnic:will_paginate:3.0.5:-:-:*:-:ruby:*:*",
+    "to_analyse": false
+}

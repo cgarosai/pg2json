@@ -1,0 +1,10 @@
+{
+    "id": 427706,
+    "name": "vault",
+    "version": "0.10.3",
+    "created_at": "2019-11-04T14:37:32",
+    "updated_at": "2019-11-04T14:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:vault:0.10.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

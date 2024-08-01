@@ -1,0 +1,10 @@
+{
+    "id": 352712,
+    "name": "mapproxy",
+    "version": "1.10.0",
+    "created_at": "2019-09-09T16:51:20",
+    "updated_at": "2019-09-09T16:51:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:omniscale:mapproxy:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

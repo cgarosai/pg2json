@@ -1,0 +1,10 @@
+{
+    "id": 870079,
+    "name": "mina",
+    "version": "2.0.13",
+    "created_at": "2022-05-02T16:12:37",
+    "updated_at": "2022-05-16T01:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:mina:2.0.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

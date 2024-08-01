@@ -1,0 +1,10 @@
+{
+    "id": 12501,
+    "name": "resin",
+    "version": "3.0.4",
+    "created_at": "2008-09-05T18:07:12",
+    "updated_at": "2012-08-23T00:38:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:caucho:resin:3.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

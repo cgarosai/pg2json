@@ -1,0 +1,10 @@
+{
+    "id": 727459,
+    "name": "roon_server",
+    "version": "-",
+    "created_at": "2021-06-11T12:46:31",
+    "updated_at": "2021-07-01T12:19:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:roonlabs:roon_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

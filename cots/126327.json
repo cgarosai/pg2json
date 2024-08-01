@@ -1,0 +1,10 @@
+{
+    "id": 126327,
+    "name": "glance",
+    "version": "mitaka",
+    "created_at": "2017-03-30T13:39:59",
+    "updated_at": "2021-04-20T11:44:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:glance:mitaka:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

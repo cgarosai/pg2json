@@ -1,0 +1,10 @@
+{
+    "id": 513819,
+    "name": "core_i3",
+    "version": "8100b",
+    "created_at": "2020-03-31T13:17:18",
+    "updated_at": "2023-09-25T18:35:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i3:8100b:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

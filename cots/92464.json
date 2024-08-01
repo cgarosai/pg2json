@@ -1,0 +1,10 @@
+{
+    "id": 92464,
+    "name": "emftp",
+    "version": "-",
+    "created_at": "2014-09-08T15:32:39",
+    "updated_at": "2014-12-03T16:06:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emurasoft:emftp:-:*:*:*:professional:*:*:*",
+    "to_analyse": false
+}

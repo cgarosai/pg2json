@@ -1,0 +1,10 @@
+{
+    "id": 613981,
+    "name": "csp",
+    "version": "-",
+    "created_at": "2020-11-19T20:12:00",
+    "updated_at": "2020-11-19T20:12:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cryptopro:csp:-:*:*:*:*:*:x86:*",
+    "to_analyse": false
+}

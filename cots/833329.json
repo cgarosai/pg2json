@@ -1,0 +1,10 @@
+{
+    "id": 833329,
+    "name": "fontconfig",
+    "version": "2.1.91",
+    "created_at": "2022-01-31T16:11:16",
+    "updated_at": "2022-01-31T16:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fontconfig_project:fontconfig:2.1.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

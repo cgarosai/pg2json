@@ -1,0 +1,10 @@
+{
+    "id": 285624,
+    "name": "lodash",
+    "version": "4.16.4",
+    "created_at": "2019-07-02T12:34:20",
+    "updated_at": "2019-07-02T12:34:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lodash:lodash:4.16.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

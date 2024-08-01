@@ -1,0 +1,10 @@
+{
+    "id": 110922,
+    "name": "tryton",
+    "version": "1.6.2",
+    "created_at": "2016-09-08T17:06:47",
+    "updated_at": "2016-09-08T17:06:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tryton:tryton:1.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

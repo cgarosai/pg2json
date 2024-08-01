@@ -1,0 +1,10 @@
+{
+    "id": 645395,
+    "name": "hyper",
+    "version": "0.13.9",
+    "created_at": "2021-01-06T17:32:00",
+    "updated_at": "2021-01-06T17:32:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hyper:hyper:0.13.9:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 98942,
+    "name": "unified_access_control_software",
+    "version": "5.0",
+    "created_at": "2014-06-16T11:20:01",
+    "updated_at": "2014-06-20T00:02:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:unified_access_control_software:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

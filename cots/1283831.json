@@ -1,0 +1,10 @@
+{
+    "id": 1283831,
+    "name": "prisma_cloud",
+    "version": "32.02",
+    "created_at": "2024-07-29T15:49:20",
+    "updated_at": "2024-07-29T15:49:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.02:*:*:*:compute:*:*:*",
+    "to_analyse": false
+}

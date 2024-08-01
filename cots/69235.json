@@ -1,0 +1,10 @@
+{
+    "id": 69235,
+    "name": "mobile_intel_qm67_chipset",
+    "version": "-",
+    "created_at": "2012-09-17T14:38:09",
+    "updated_at": "2012-09-18T12:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:mobile_intel_qm67_chipset:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 126037,
+    "name": "security_scan_plus",
+    "version": "3.11.469",
+    "created_at": "2017-03-21T17:53:24",
+    "updated_at": "2021-05-18T14:43:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:security_scan_plus:3.11.469:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 261110,
+    "name": "frontaccounting",
+    "version": "2.4",
+    "created_at": "2019-06-17T16:34:35",
+    "updated_at": "2019-06-17T16:34:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frontaccounting:frontaccounting:2.4:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

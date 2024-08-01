@@ -1,0 +1,10 @@
+{
+    "id": 253700,
+    "name": "linux_enterprise_real_time_extension",
+    "version": "10",
+    "created_at": "2019-06-12T13:36:50",
+    "updated_at": "2019-06-12T13:36:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_real_time_extension:10:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

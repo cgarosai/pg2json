@@ -1,0 +1,10 @@
+{
+    "id": 1272927,
+    "name": "virtualbox",
+    "version": "-",
+    "created_at": "2024-07-16T10:17:20",
+    "updated_at": "2024-07-16T10:17:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:virtualbox:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

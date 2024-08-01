@@ -1,0 +1,10 @@
+{
+    "id": 955154,
+    "name": "siplus_hmi_ktp1200_basic_firmware",
+    "version": "17.0",
+    "created_at": "2022-10-14T11:26:41",
+    "updated_at": "2022-10-14T20:00:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:siplus_hmi_ktp1200_basic_firmware:17.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

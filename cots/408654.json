@@ -1,0 +1,10 @@
+{
+    "id": 408654,
+    "name": "unbound",
+    "version": "1.5.2",
+    "created_at": "2019-10-11T16:13:07",
+    "updated_at": "2019-10-11T16:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nlnetlabs:unbound:1.5.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

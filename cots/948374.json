@@ -1,0 +1,10 @@
+{
+    "id": 948374,
+    "name": "qt",
+    "version": "6.2.2",
+    "created_at": "2022-09-28T11:45:15",
+    "updated_at": "2022-09-28T11:48:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qt:qt:6.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

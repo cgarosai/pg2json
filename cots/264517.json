@@ -1,0 +1,10 @@
+{
+    "id": 264517,
+    "name": "nios",
+    "version": "6.8",
+    "created_at": "2019-06-19T15:32:56",
+    "updated_at": "2019-06-19T15:32:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:infoblox:nios:6.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

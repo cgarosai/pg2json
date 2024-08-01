@@ -1,0 +1,10 @@
+{
+    "id": 1026342,
+    "name": "bind",
+    "version": "9.18.10",
+    "created_at": "2023-02-03T14:07:58",
+    "updated_at": "2023-02-28T16:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isc:bind:9.18.10:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

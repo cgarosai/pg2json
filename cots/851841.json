@@ -1,0 +1,10 @@
+{
+    "id": 851841,
+    "name": "climatix_pol909_firmware",
+    "version": "11.36",
+    "created_at": "2022-03-11T15:17:29",
+    "updated_at": "2022-03-15T14:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:climatix_pol909_firmware:11.36:*:*:*:advanced_web_module:*:*:*",
+    "to_analyse": false
+}

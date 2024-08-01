@@ -1,0 +1,10 @@
+{
+    "id": 127705,
+    "name": "ssl_visibility_appliance_sv800",
+    "version": "-",
+    "created_at": "2017-04-17T11:43:38",
+    "updated_at": "2021-05-19T11:25:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bluecoat:ssl_visibility_appliance_sv800:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

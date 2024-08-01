@@ -1,0 +1,10 @@
+{
+    "id": 448199,
+    "name": "package_hub",
+    "version": "-",
+    "created_at": "2019-11-27T18:32:32",
+    "updated_at": "2019-11-27T18:32:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:package_hub:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 363454,
+    "name": "mycroft-core",
+    "version": "18.2.5",
+    "created_at": "2019-09-17T14:12:41",
+    "updated_at": "2019-09-17T14:12:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mycroft:mycroft-core:18.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

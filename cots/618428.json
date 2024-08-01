@@ -1,0 +1,10 @@
+{
+    "id": 618428,
+    "name": "librepo",
+    "version": "1.10.4",
+    "created_at": "2020-11-09T13:27:53",
+    "updated_at": "2020-11-09T13:27:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:librepo:1.10.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

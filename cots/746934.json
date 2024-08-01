@@ -1,0 +1,10 @@
+{
+    "id": 746934,
+    "name": "horizon",
+    "version": "-",
+    "created_at": "2021-07-20T11:09:15",
+    "updated_at": "2021-07-20T11:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:horizon:-:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

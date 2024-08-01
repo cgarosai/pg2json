@@ -1,0 +1,10 @@
+{
+    "id": 40262,
+    "name": "fisheye",
+    "version": "2.3.0",
+    "created_at": "2011-12-15T16:13:05",
+    "updated_at": "2012-05-30T18:58:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:fisheye:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

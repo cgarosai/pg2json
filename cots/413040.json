@@ -1,0 +1,10 @@
+{
+    "id": 413040,
+    "name": "pfc200_firmware",
+    "version": "750-8102\\/025-000",
+    "created_at": "2019-10-30T13:34:03",
+    "updated_at": "2019-10-30T13:34:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:pfc200_firmware:750-8102\\/025-000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

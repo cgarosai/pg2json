@@ -1,0 +1,10 @@
+{
+    "id": 589966,
+    "name": "em_client",
+    "version": "6.0.19861.0",
+    "created_at": "2020-08-21T15:06:57",
+    "updated_at": "2020-08-21T15:06:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emclient:em_client:6.0.19861.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

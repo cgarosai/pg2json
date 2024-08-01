@@ -1,0 +1,10 @@
+{
+    "id": 107354,
+    "name": "smartphone_passbook",
+    "version": "1.00",
+    "created_at": "2015-02-18T16:18:52",
+    "updated_at": "2015-02-18T16:21:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:okb.co.jp:smartphone_passbook:1.00:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

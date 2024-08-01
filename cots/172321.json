@@ -1,0 +1,10 @@
+{
+    "id": 172321,
+    "name": "rsync",
+    "version": "3.0.5",
+    "created_at": "2018-10-16T15:21:04",
+    "updated_at": "2020-04-28T15:17:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samba:rsync:3.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

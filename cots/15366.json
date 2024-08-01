@@ -1,0 +1,10 @@
+{
+    "id": 15366,
+    "name": "sharepoint_portal_server",
+    "version": "2003",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:27:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_portal_server:2003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

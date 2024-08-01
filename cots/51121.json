@@ -1,0 +1,10 @@
+{
+    "id": 51121,
+    "name": "mcore",
+    "version": "9.3.0",
+    "created_at": "2012-06-21T17:06:50",
+    "updated_at": "2012-06-21T17:06:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:mcore:9.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

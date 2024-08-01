@@ -1,0 +1,10 @@
+{
+    "id": 892585,
+    "name": "rtl8156_firmware",
+    "version": "8.49",
+    "created_at": "2022-06-27T11:50:13",
+    "updated_at": "2022-06-29T13:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:realtek:rtl8156_firmware:8.49:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

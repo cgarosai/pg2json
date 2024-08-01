@@ -1,0 +1,10 @@
+{
+    "id": 126004,
+    "name": "prime_service_catalog",
+    "version": "11.1_base",
+    "created_at": "2017-03-20T16:41:22",
+    "updated_at": "2021-04-22T16:18:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_service_catalog:11.1_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

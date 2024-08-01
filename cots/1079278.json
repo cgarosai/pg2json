@@ -1,0 +1,10 @@
+{
+    "id": 1079278,
+    "name": "build_action",
+    "version": "2.1.7",
+    "created_at": "2023-05-05T12:13:10",
+    "updated_at": "2023-05-10T12:08:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gradle:build_action:2.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 17644,
+    "name": "sambar_server",
+    "version": "6.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-14T18:21:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sambar:sambar_server:6.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

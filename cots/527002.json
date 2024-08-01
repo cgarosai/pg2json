@@ -1,0 +1,10 @@
+{
+    "id": 527002,
+    "name": "control_panel",
+    "version": "1.0.3",
+    "created_at": "2020-04-01T14:53:37",
+    "updated_at": "2020-04-01T14:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hestiacp:control_panel:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

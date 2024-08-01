@@ -1,0 +1,10 @@
+{
+    "id": 865651,
+    "name": "acl",
+    "version": "2.2.49",
+    "created_at": "2022-03-22T16:00:26",
+    "updated_at": "2022-03-22T16:54:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acl_project:acl:2.2.49:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

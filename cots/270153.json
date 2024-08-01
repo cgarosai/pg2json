@@ -1,0 +1,10 @@
+{
+    "id": 270153,
+    "name": "autopsy",
+    "version": "4.2.0",
+    "created_at": "2019-06-26T12:25:21",
+    "updated_at": "2019-06-26T12:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sleuthkit:autopsy:4.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

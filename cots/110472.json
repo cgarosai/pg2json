@@ -1,0 +1,10 @@
+{
+    "id": 110472,
+    "name": "epc3928_firmware",
+    "version": "-",
+    "created_at": "2016-08-25T11:59:03",
+    "updated_at": "2016-08-25T11:59:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:epc3928_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

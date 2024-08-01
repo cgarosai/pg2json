@@ -1,0 +1,10 @@
+{
+    "id": 103620,
+    "name": "prosody",
+    "version": "0.9.7",
+    "created_at": "2016-01-19T19:18:53",
+    "updated_at": "2016-01-19T19:18:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prosody:prosody:0.9.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 86349,
+    "name": "watchguard_system_manager",
+    "version": "-",
+    "created_at": "2013-10-21T13:15:52",
+    "updated_at": "2013-10-30T14:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:watchguard:watchguard_system_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 108522,
+    "name": "netscaler",
+    "version": "10.5",
+    "created_at": "2015-04-03T14:09:11",
+    "updated_at": "2015-04-06T12:36:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:netscaler:10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

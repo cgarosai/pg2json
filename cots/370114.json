@@ -1,0 +1,10 @@
+{
+    "id": 370114,
+    "name": "s7700_firmware",
+    "version": "v200r011c10",
+    "created_at": "2019-09-19T15:26:47",
+    "updated_at": "2019-09-19T15:26:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s7700_firmware:v200r011c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

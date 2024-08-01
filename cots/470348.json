@@ -1,0 +1,10 @@
+{
+    "id": 470348,
+    "name": "sinamics_gl150",
+    "version": "-",
+    "created_at": "2020-01-16T12:43:49",
+    "updated_at": "2020-01-16T12:43:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sinamics_gl150:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

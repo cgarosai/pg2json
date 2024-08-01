@@ -1,0 +1,10 @@
+{
+    "id": 30463,
+    "name": "network_assistant",
+    "version": "4.0",
+    "created_at": "2010-12-28T16:28:21",
+    "updated_at": "2010-12-28T16:28:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:network_assistant:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

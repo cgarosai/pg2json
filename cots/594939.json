@@ -1,0 +1,10 @@
+{
+    "id": 594939,
+    "name": "nano_s_firmware",
+    "version": "-",
+    "created_at": "2020-09-25T18:41:47",
+    "updated_at": "2020-09-25T18:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ledger:nano_s_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

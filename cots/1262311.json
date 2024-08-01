@@ -1,0 +1,10 @@
+{
+    "id": 1262311,
+    "name": "dm5500_firmware",
+    "version": "5.15.0.0",
+    "created_at": "2024-05-22T15:42:53",
+    "updated_at": "2024-05-22T15:42:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:dm5500_firmware:5.15.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

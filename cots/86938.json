@@ -1,0 +1,10 @@
+{
+    "id": 86938,
+    "name": "dvr",
+    "version": "td-2308ss-b",
+    "created_at": "2013-11-04T18:52:01",
+    "updated_at": "2013-11-12T16:29:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:tvt:dvr:td-2308ss-b:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

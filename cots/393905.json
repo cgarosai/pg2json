@@ -1,0 +1,10 @@
+{
+    "id": 393905,
+    "name": "jupyterhub",
+    "version": "0.7.1",
+    "created_at": "2019-10-04T14:54:21",
+    "updated_at": "2019-10-04T14:54:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jupyter:jupyterhub:0.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

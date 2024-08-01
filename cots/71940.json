@@ -1,0 +1,10 @@
+{
+    "id": 71940,
+    "name": "java",
+    "version": "5.0.16.2",
+    "created_at": "2013-07-23T13:23:02",
+    "updated_at": "2013-07-24T12:16:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:java:5.0.16.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

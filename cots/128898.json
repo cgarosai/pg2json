@@ -1,0 +1,10 @@
+{
+    "id": 128898,
+    "name": "cloud_foundry",
+    "version": "238.0",
+    "created_at": "2017-05-11T12:28:12",
+    "updated_at": "2021-05-28T09:03:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry:238.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

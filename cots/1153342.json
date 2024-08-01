@@ -1,0 +1,10 @@
+{
+    "id": 1153342,
+    "name": "ryzen_3_3700u_firmware",
+    "version": "comboam4pi_1.0.0.9",
+    "created_at": "2023-09-22T16:08:11",
+    "updated_at": "2023-09-22T16:08:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_3_3700u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

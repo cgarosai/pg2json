@@ -1,0 +1,10 @@
+{
+    "id": 886841,
+    "name": "epyc_7232p_firmware",
+    "version": "romepi-sp3_1.0.0.d",
+    "created_at": "2022-05-18T15:43:39",
+    "updated_at": "2022-05-19T10:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7232p_firmware:romepi-sp3_1.0.0.d:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

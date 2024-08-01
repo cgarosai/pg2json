@@ -1,0 +1,10 @@
+{
+    "id": 474397,
+    "name": "router_manager",
+    "version": "1.2",
+    "created_at": "2020-01-27T18:43:59",
+    "updated_at": "2021-08-16T13:35:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:router_manager:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

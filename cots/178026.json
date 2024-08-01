@@ -1,0 +1,10 @@
+{
+    "id": 178026,
+    "name": "profinet_io_firmware",
+    "version": "-",
+    "created_at": "2018-09-25T15:07:45",
+    "updated_at": "2021-05-25T12:22:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:profinet_io_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

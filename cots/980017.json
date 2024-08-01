@@ -1,0 +1,10 @@
+{
+    "id": 980017,
+    "name": "product_information_management",
+    "version": "3.0.64",
+    "created_at": "2022-12-12T13:47:43",
+    "updated_at": "2022-12-12T14:02:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:akeneo:product_information_management:3.0.64:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

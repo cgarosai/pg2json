@@ -1,0 +1,10 @@
+{
+    "id": 1192457,
+    "name": "backup_exec",
+    "version": "9.0.4019",
+    "created_at": "2023-11-18T03:52:10",
+    "updated_at": "2023-11-18T03:52:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:backup_exec:9.0.4019:*:*:*:*:netware:*:*",
+    "to_analyse": false
+}

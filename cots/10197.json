@@ -1,0 +1,10 @@
+{
+    "id": 10197,
+    "name": "powerpoint",
+    "version": "2000",
+    "created_at": "2007-09-12T20:55:10",
+    "updated_at": "2008-04-15T20:38:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:powerpoint:2000:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

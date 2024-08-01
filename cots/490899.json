@@ -1,0 +1,10 @@
+{
+    "id": 490899,
+    "name": "s6300_firmware",
+    "version": "v200r003c10",
+    "created_at": "2020-02-21T21:28:09",
+    "updated_at": "2020-02-21T21:28:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s6300_firmware:v200r003c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

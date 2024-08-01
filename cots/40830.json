@@ -1,0 +1,10 @@
+{
+    "id": 40830,
+    "name": "celery",
+    "version": "2.4.5",
+    "created_at": "2012-01-05T18:29:47",
+    "updated_at": "2012-01-05T18:29:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:celeryproject:celery:2.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

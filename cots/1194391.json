@@ -1,0 +1,10 @@
+{
+    "id": 1194391,
+    "name": "qlik_sense",
+    "version": "november_2021",
+    "created_at": "2023-11-24T16:02:21",
+    "updated_at": "2023-11-24T16:02:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qlik:qlik_sense:november_2021:patch_15:*:*:enterprise:windows:*:*",
+    "to_analyse": false
+}

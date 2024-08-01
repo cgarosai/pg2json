@@ -1,0 +1,10 @@
+{
+    "id": 1195896,
+    "name": "firepower_management_center",
+    "version": "7.1.0.3",
+    "created_at": "2023-11-06T17:45:13",
+    "updated_at": "2023-11-06T17:45:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:firepower_management_center:7.1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

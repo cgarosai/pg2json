@@ -1,0 +1,10 @@
+{
+    "id": 163519,
+    "name": "gaugetech_nexus_firmware",
+    "version": "-",
+    "created_at": "2018-08-20T13:34:29",
+    "updated_at": "2021-06-21T11:51:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:electroind:gaugetech_nexus_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

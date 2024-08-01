@@ -1,0 +1,10 @@
+{
+    "id": 677361,
+    "name": "grav_cms",
+    "version": "1.7.0",
+    "created_at": "2021-03-16T13:17:23",
+    "updated_at": "2021-03-19T10:54:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getgrav:grav_cms:1.7.0:rc16:*:*:*:*:*:*",
+    "to_analyse": false
+}

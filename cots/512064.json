@@ -1,0 +1,10 @@
+{
+    "id": 512064,
+    "name": "mobilefrontend",
+    "version": "1.32.0",
+    "created_at": "2020-03-26T14:59:15",
+    "updated_at": "2020-03-26T14:59:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediawiki:mobilefrontend:1.32.0:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

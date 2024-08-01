@@ -1,0 +1,10 @@
+{
+    "id": 77864,
+    "name": "asr_1023_router",
+    "version": "-",
+    "created_at": "2013-04-11T12:58:59",
+    "updated_at": "2013-04-12T12:18:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:asr_1023_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

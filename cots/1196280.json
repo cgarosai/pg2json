@@ -1,0 +1,10 @@
+{
+    "id": 1196280,
+    "name": "edr-810-2gsfp-t_firmware",
+    "version": "5.12.28",
+    "created_at": "2023-11-07T16:16:58",
+    "updated_at": "2023-11-07T16:16:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:edr-810-2gsfp-t_firmware:5.12.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

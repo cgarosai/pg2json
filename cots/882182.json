@@ -1,0 +1,10 @@
+{
+    "id": 882182,
+    "name": "lodestar",
+    "version": "0.34.4",
+    "created_at": "2022-06-06T13:36:59",
+    "updated_at": "2022-07-07T17:22:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chainsafe:lodestar:0.34.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

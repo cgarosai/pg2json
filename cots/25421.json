@@ -1,0 +1,10 @@
+{
+    "id": 25421,
+    "name": "ejabberd",
+    "version": "2.0.2",
+    "created_at": "2009-03-18T14:34:31",
+    "updated_at": "2011-06-30T13:06:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:process-one:ejabberd:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

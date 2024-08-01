@@ -1,0 +1,10 @@
+{
+    "id": 579073,
+    "name": "gdk-pixbuf",
+    "version": "2.19.7",
+    "created_at": "2020-08-03T11:44:38",
+    "updated_at": "2020-08-03T11:44:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gdk-pixbuf:2.19.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

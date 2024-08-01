@@ -1,0 +1,10 @@
+{
+    "id": 920013,
+    "name": "webclient_dc2",
+    "version": "13.0.2.9",
+    "created_at": "2022-08-24T15:09:29",
+    "updated_at": "2022-11-18T16:27:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icewarp:webclient_dc2:13.0.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

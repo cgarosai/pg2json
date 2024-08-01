@@ -1,0 +1,10 @@
+{
+    "id": 698838,
+    "name": "django_debug_toolbar",
+    "version": "1.2.2",
+    "created_at": "2021-04-20T15:36:57",
+    "updated_at": "2021-04-21T17:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jazzband:django_debug_toolbar:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

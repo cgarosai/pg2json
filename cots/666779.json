@@ -1,0 +1,10 @@
+{
+    "id": 666779,
+    "name": "local_service_management_system",
+    "version": "13.4",
+    "created_at": "2021-02-24T14:01:35",
+    "updated_at": "2021-02-24T15:34:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:local_service_management_system:13.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

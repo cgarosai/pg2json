@@ -1,0 +1,10 @@
+{
+    "id": 91523,
+    "name": "disqus_comment_system",
+    "version": "2.71",
+    "created_at": "2014-08-20T15:14:42",
+    "updated_at": "2014-08-27T23:18:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:disqus:disqus_comment_system:2.71:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

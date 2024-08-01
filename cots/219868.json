@@ -1,0 +1,10 @@
+{
+    "id": 219868,
+    "name": "kanboard",
+    "version": "1.5.7",
+    "created_at": "2019-03-19T15:50:56",
+    "updated_at": "2019-03-19T15:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:kanboard:1.5.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

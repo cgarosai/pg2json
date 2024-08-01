@@ -1,0 +1,10 @@
+{
+    "id": 1043427,
+    "name": "superdome_flex_server_firmware",
+    "version": "3.65.8",
+    "created_at": "2023-03-15T10:27:42",
+    "updated_at": "2023-09-02T00:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:superdome_flex_server_firmware:3.65.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

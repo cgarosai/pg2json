@@ -1,0 +1,10 @@
+{
+    "id": 706825,
+    "name": "load_balancing",
+    "version": "-",
+    "created_at": "2021-05-10T12:15:34",
+    "updated_at": "2021-05-10T13:44:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:load_balancing:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

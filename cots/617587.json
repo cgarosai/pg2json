@@ -1,0 +1,10 @@
+{
+    "id": 617587,
+    "name": "dgx-1",
+    "version": "-",
+    "created_at": "2020-11-03T21:34:48",
+    "updated_at": "2020-11-03T21:34:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:dgx-1:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

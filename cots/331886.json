@@ -1,0 +1,10 @@
+{
+    "id": 331886,
+    "name": "prometheus",
+    "version": "2.10.0",
+    "created_at": "2019-08-15T15:22:02",
+    "updated_at": "2019-08-15T15:22:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prometheus:prometheus:2.10.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 393830,
+    "name": "advanced_threat_defense",
+    "version": "4.6",
+    "created_at": "2019-10-04T14:25:47",
+    "updated_at": "2019-10-04T14:25:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:advanced_threat_defense:4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

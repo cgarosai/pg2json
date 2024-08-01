@@ -1,0 +1,10 @@
+{
+    "id": 527916,
+    "name": "seeker_iast_service_broker",
+    "version": "1.2.14",
+    "created_at": "2020-04-01T18:20:26",
+    "updated_at": "2020-04-01T18:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synopsys:seeker_iast_service_broker:1.2.14:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

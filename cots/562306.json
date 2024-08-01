@@ -1,0 +1,10 @@
+{
+    "id": 562306,
+    "name": "password_manager",
+    "version": "5.2.6.8",
+    "created_at": "2020-07-15T13:25:12",
+    "updated_at": "2020-07-15T13:25:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:password_manager:5.2.6.8:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 653393,
+    "name": "vsftpd",
+    "version": "1.1.0",
+    "created_at": "2021-02-19T18:06:59",
+    "updated_at": "2021-02-19T18:06:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vsftpd_project:vsftpd:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

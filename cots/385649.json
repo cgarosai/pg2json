@@ -1,0 +1,10 @@
+{
+    "id": 385649,
+    "name": "jquey",
+    "version": "1.0.0",
+    "created_at": "2019-09-23T16:32:16",
+    "updated_at": "2019-09-23T16:32:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jquey_project:jquey:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

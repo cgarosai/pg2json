@@ -1,0 +1,10 @@
+{
+    "id": 878080,
+    "name": "selenium_grid",
+    "version": "3.0.0",
+    "created_at": "2022-04-25T12:22:47",
+    "updated_at": "2022-04-26T09:20:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:selenium:selenium_grid:3.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1215479,
+    "name": "system_usage_report",
+    "version": "-",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:system_usage_report:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

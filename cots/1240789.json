@@ -1,0 +1,10 @@
+{
+    "id": 1240789,
+    "name": "cvs",
+    "version": "-",
+    "created_at": "2024-02-03T00:39:22",
+    "updated_at": "2024-02-03T00:39:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:distrotech:cvs:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

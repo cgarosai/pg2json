@@ -1,0 +1,10 @@
+{
+    "id": 855124,
+    "name": "netmaker",
+    "version": "0.10.0",
+    "created_at": "2022-02-24T17:45:56",
+    "updated_at": "2022-03-11T14:57:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gravitl:netmaker:0.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

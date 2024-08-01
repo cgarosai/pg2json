@@ -1,0 +1,10 @@
+{
+    "id": 798892,
+    "name": "enterprise_linux_server_tus",
+    "version": "8.4",
+    "created_at": "2021-10-20T10:58:23",
+    "updated_at": "2021-12-10T17:37:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_tus:8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 127144,
+    "name": "cognos_analytics",
+    "version": "11.0.2.0",
+    "created_at": "2017-04-07T10:27:30",
+    "updated_at": "2019-09-30T13:39:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_analytics:11.0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

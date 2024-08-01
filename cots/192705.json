@@ -1,0 +1,10 @@
+{
+    "id": 192705,
+    "name": "rv220w_firmware",
+    "version": "-",
+    "created_at": "2019-01-14T13:43:59",
+    "updated_at": "2021-04-23T11:52:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv220w_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

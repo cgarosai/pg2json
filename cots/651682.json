@@ -1,0 +1,10 @@
+{
+    "id": 651682,
+    "name": "uap-core",
+    "version": "0.8.0",
+    "created_at": "2021-02-17T12:32:43",
+    "updated_at": "2021-02-17T12:32:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uap-core_project:uap-core:0.8.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

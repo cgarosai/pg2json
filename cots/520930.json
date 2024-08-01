@@ -1,0 +1,10 @@
+{
+    "id": 520930,
+    "name": "gatling",
+    "version": "1.0.1",
+    "created_at": "2020-04-07T12:56:42",
+    "updated_at": "2020-04-07T12:56:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gatling:1.0.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 477511,
+    "name": "s7-200_smart_firmware",
+    "version": "-",
+    "created_at": "2020-01-13T15:52:19",
+    "updated_at": "2020-01-13T15:52:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:s7-200_smart_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

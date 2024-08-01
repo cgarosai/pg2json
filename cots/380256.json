@@ -1,0 +1,10 @@
+{
+    "id": 380256,
+    "name": "datachannel-client",
+    "version": "1.0.0",
+    "created_at": "2019-09-25T13:48:05",
+    "updated_at": "2019-09-25T13:48:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:datachannel-client_project:datachannel-client:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

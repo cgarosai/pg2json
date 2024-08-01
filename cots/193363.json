@@ -1,0 +1,10 @@
+{
+    "id": 193363,
+    "name": "advanced_threat_prevention_firmware",
+    "version": "5.0.4",
+    "created_at": "2019-01-18T12:17:06",
+    "updated_at": "2021-04-15T13:05:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:advanced_threat_prevention_firmware:5.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

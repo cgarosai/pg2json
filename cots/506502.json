@@ -1,0 +1,10 @@
+{
+    "id": 506502,
+    "name": "libmtp",
+    "version": "1.1.11",
+    "created_at": "2020-03-03T11:40:12",
+    "updated_at": "2020-03-03T11:40:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libmtp_project:libmtp:1.1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

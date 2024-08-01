@@ -1,0 +1,10 @@
+{
+    "id": 882209,
+    "name": "totp-rs",
+    "version": "1.1.0",
+    "created_at": "2022-06-06T13:51:01",
+    "updated_at": "2022-07-21T23:21:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:totp-rs_project:totp-rs:1.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

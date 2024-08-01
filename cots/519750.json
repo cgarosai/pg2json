@@ -1,0 +1,10 @@
+{
+    "id": 519750,
+    "name": "xeon_7120n",
+    "version": "-",
+    "created_at": "2020-03-23T15:21:33",
+    "updated_at": "2020-03-23T15:21:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_7120n:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 180395,
+    "name": "swoole",
+    "version": "1.7.22",
+    "created_at": "2018-11-08T13:54:35",
+    "updated_at": "2018-11-08T13:54:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:swoole:swoole:1.7.22:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

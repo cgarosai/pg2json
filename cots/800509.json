@@ -1,0 +1,10 @@
+{
+    "id": 800509,
+    "name": "sg350x-8pmd",
+    "version": "-",
+    "created_at": "2021-11-12T13:59:11",
+    "updated_at": "2021-11-12T14:28:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:sg350x-8pmd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

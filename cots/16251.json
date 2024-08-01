@@ -1,0 +1,10 @@
+{
+    "id": 16251,
+    "name": "linux_desktop",
+    "version": "9",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2009-09-18T15:45:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:novell:linux_desktop:9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 101844,
+    "name": "openafs",
+    "version": "1.6.9",
+    "created_at": "2015-11-09T14:35:45",
+    "updated_at": "2015-11-13T21:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openafs:openafs:1.6.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 715030,
+    "name": "fido2_firmware",
+    "version": "-",
+    "created_at": "2021-05-27T11:00:13",
+    "updated_at": "2021-05-27T12:54:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nitrokey:fido2_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

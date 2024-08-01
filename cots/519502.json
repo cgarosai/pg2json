@@ -1,0 +1,10 @@
+{
+    "id": 519502,
+    "name": "dogtagpki",
+    "version": "10.8.0",
+    "created_at": "2020-03-23T14:10:45",
+    "updated_at": "2021-05-06T12:37:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dogtagpki:dogtagpki:10.8.0:b2:*:*:*:*:*:*",
+    "to_analyse": false
+}

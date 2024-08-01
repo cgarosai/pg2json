@@ -1,0 +1,10 @@
+{
+    "id": 280809,
+    "name": "mdadm",
+    "version": "4.0",
+    "created_at": "2019-07-10T12:02:10",
+    "updated_at": "2019-07-10T12:02:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mdadm_project:mdadm:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

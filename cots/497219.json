@@ -1,0 +1,10 @@
+{
+    "id": 497219,
+    "name": "git_parameter",
+    "version": "0.6.0",
+    "created_at": "2020-02-14T15:37:20",
+    "updated_at": "2020-02-14T15:37:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:git_parameter:0.6.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

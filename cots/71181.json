@@ -1,0 +1,10 @@
+{
+    "id": 71181,
+    "name": "h3c_ethernet_switch",
+    "version": "s7506e",
+    "created_at": "2013-07-08T14:55:41",
+    "updated_at": "2013-07-12T15:50:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_ethernet_switch:s7506e:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

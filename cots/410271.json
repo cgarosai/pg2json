@@ -1,0 +1,10 @@
+{
+    "id": 410271,
+    "name": "nexus_iq_server",
+    "version": "1.38",
+    "created_at": "2019-10-28T11:26:27",
+    "updated_at": "2019-10-28T11:26:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonatype:nexus_iq_server:1.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

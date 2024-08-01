@@ -1,0 +1,10 @@
+{
+    "id": 648484,
+    "name": "sodiumoxide",
+    "version": "0.2.4",
+    "created_at": "2021-01-13T13:15:06",
+    "updated_at": "2021-01-13T13:15:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sodiumoxide_project:sodiumoxide:0.2.4:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

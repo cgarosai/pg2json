@@ -1,0 +1,10 @@
+{
+    "id": 231949,
+    "name": "qlik_sense",
+    "version": "february_2019",
+    "created_at": "2019-05-10T13:00:20",
+    "updated_at": "2021-04-14T13:42:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qlik:qlik_sense:february_2019:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

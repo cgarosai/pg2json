@@ -1,0 +1,10 @@
+{
+    "id": 659601,
+    "name": "may",
+    "version": "0.1.0",
+    "created_at": "2021-02-10T18:29:05",
+    "updated_at": "2021-02-10T18:29:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:may_project:may:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

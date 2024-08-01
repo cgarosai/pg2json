@@ -1,0 +1,10 @@
+{
+    "id": 361313,
+    "name": "libtirpc",
+    "version": "0.2.6",
+    "created_at": "2019-09-16T15:06:17",
+    "updated_at": "2019-09-16T15:15:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:libtirpc_project:libtirpc:0.2.6:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

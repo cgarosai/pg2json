@@ -1,0 +1,10 @@
+{
+    "id": 102714,
+    "name": "uptime_infrastructure_monitor",
+    "version": "7.6",
+    "created_at": "2015-12-31T19:41:19",
+    "updated_at": "2015-12-31T19:41:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:idera:uptime_infrastructure_monitor:7.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

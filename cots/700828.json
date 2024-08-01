@@ -1,0 +1,10 @@
+{
+    "id": 700828,
+    "name": "cakephp",
+    "version": "3.6.10",
+    "created_at": "2021-05-20T13:54:47",
+    "updated_at": "2021-05-20T14:06:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cakephp:cakephp:3.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

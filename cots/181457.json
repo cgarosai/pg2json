@@ -1,0 +1,10 @@
+{
+    "id": 181457,
+    "name": "elasticsearch",
+    "version": "2.4.6",
+    "created_at": "2018-11-13T18:19:11",
+    "updated_at": "2018-11-13T18:19:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:elasticsearch:2.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

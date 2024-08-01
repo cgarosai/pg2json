@@ -1,0 +1,10 @@
+{
+    "id": 783106,
+    "name": "exacqvision_server",
+    "version": "21.06.11.0",
+    "created_at": "2021-10-12T15:03:58",
+    "updated_at": "2021-10-22T18:19:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:johnsoncontrols:exacqvision_server:21.06.11.0:*:*:*:*:*:x86:*",
+    "to_analyse": false
+}

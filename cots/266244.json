@@ -1,0 +1,10 @@
+{
+    "id": 266244,
+    "name": "simplehttpserver",
+    "version": "0.0.4",
+    "created_at": "2019-06-14T10:53:01",
+    "updated_at": "2019-06-14T10:53:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:simplehttpserver_project:simplehttpserver:0.0.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

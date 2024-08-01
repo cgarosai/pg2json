@@ -1,0 +1,10 @@
+{
+    "id": 551647,
+    "name": "mutt",
+    "version": "1.14.3",
+    "created_at": "2020-06-17T16:42:46",
+    "updated_at": "2020-06-17T16:42:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mutt:mutt:1.14.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

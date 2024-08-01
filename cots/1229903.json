@@ -1,0 +1,10 @@
+{
+    "id": 1229903,
+    "name": "open_suse",
+    "version": "10.2",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:open_suse:10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

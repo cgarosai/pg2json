@@ -1,0 +1,10 @@
+{
+    "id": 1214546,
+    "name": "fc_350_pci_eth_firmware",
+    "version": "-",
+    "created_at": "2023-12-20T12:30:13",
+    "updated_at": "2023-12-20T12:30:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:phoenixcontact:fc_350_pci_eth_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

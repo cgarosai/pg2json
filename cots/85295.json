@@ -1,0 +1,10 @@
+{
+    "id": 85295,
+    "name": "ose",
+    "version": "3.50",
+    "created_at": "2013-10-03T11:54:38",
+    "updated_at": "2013-10-03T12:07:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:enea:ose:3.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

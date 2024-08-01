@@ -1,0 +1,10 @@
+{
+    "id": 509952,
+    "name": "otrs_itsm",
+    "version": "6.0.23",
+    "created_at": "2020-03-06T14:57:33",
+    "updated_at": "2020-03-06T14:57:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:otrs:otrs_itsm:6.0.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

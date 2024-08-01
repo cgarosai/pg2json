@@ -1,0 +1,10 @@
+{
+    "id": 804792,
+    "name": "optical_character_recognition",
+    "version": "0.39",
+    "created_at": "2021-11-18T17:36:29",
+    "updated_at": "2021-11-18T18:00:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:0.39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 888297,
+    "name": "wp_youtube_live",
+    "version": "-",
+    "created_at": "2022-05-23T10:10:32",
+    "updated_at": "2022-07-11T10:28:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_youtube_live_project:wp_youtube_live:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

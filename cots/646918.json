@@ -1,0 +1,10 @@
+{
+    "id": 646918,
+    "name": "limit_login_attempts_reloaded",
+    "version": "2.17.0",
+    "created_at": "2021-01-11T12:00:56",
+    "updated_at": "2021-01-11T12:00:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:limitloginattempts:limit_login_attempts_reloaded:2.17.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

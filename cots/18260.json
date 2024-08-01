@@ -1,0 +1,10 @@
+{
+    "id": 18260,
+    "name": "java_system_web_proxy_server",
+    "version": "3.6",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:51:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:java_system_web_proxy_server:3.6:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

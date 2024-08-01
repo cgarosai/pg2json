@@ -1,0 +1,10 @@
+{
+    "id": 493467,
+    "name": "web_advisor",
+    "version": "8.0.0.34239",
+    "created_at": "2020-02-26T15:00:45",
+    "updated_at": "2020-02-26T15:00:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:web_advisor:8.0.0.34239:*:*:*:*:firefox:*:*",
+    "to_analyse": false
+}

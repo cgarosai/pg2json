@@ -1,0 +1,10 @@
+{
+    "id": 698904,
+    "name": "wildfly_elytron",
+    "version": "2.0.0",
+    "created_at": "2021-04-20T16:05:56",
+    "updated_at": "2021-05-19T12:22:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:wildfly_elytron:2.0.0:alpha7:*:*:*:*:*:*",
+    "to_analyse": false
+}

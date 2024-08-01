@@ -1,0 +1,10 @@
+{
+    "id": 193266,
+    "name": "linux_2",
+    "version": "20181126",
+    "created_at": "2019-01-17T16:32:08",
+    "updated_at": "2019-01-17T16:32:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amazon:linux_2:20181126:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

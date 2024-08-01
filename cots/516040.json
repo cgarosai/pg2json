@@ -1,0 +1,10 @@
+{
+    "id": 516040,
+    "name": "cobertura",
+    "version": "0_3",
+    "created_at": "2020-03-12T16:48:44",
+    "updated_at": "2020-03-12T16:48:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:cobertura:0_3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

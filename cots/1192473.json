@@ -1,0 +1,10 @@
+{
+    "id": 1192473,
+    "name": "redisgraph",
+    "version": "2.12.9",
+    "created_at": "2023-11-18T03:52:10",
+    "updated_at": "2023-11-18T03:52:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redislabs:redisgraph:2.12.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

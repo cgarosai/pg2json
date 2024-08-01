@@ -1,0 +1,10 @@
+{
+    "id": 1040723,
+    "name": "wpaudio_mp3_player",
+    "version": "2.0.2",
+    "created_at": "2023-03-09T17:59:28",
+    "updated_at": "2023-03-14T16:20:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpaudio_mp3_player_project:wpaudio_mp3_player:2.0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

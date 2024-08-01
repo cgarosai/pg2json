@@ -1,0 +1,10 @@
+{
+    "id": 324028,
+    "name": "passbolt_api",
+    "version": "1.0.14",
+    "created_at": "2019-08-05T09:48:53",
+    "updated_at": "2019-08-05T09:48:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:passbolt:passbolt_api:1.0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

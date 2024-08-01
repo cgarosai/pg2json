@@ -1,0 +1,10 @@
+{
+    "id": 85707,
+    "name": "network_audio_system",
+    "version": "1.9",
+    "created_at": "2013-10-09T16:28:15",
+    "updated_at": "2013-10-09T16:40:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:radscan:network_audio_system:1.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

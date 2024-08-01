@@ -1,0 +1,10 @@
+{
+    "id": 93958,
+    "name": "russian_federation_traffic_rules",
+    "version": "1.21",
+    "created_at": "2014-11-10T15:20:48",
+    "updated_at": "2014-11-10T15:52:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avto-russia:russian_federation_traffic_rules:1.21:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

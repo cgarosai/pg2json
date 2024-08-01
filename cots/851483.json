@@ -1,0 +1,10 @@
+{
+    "id": 851483,
+    "name": "defender_for_endpoint_edr_sensor",
+    "version": "-",
+    "created_at": "2022-03-10T14:59:15",
+    "updated_at": "2022-09-28T12:49:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

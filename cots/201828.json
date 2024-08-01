@@ -1,0 +1,10 @@
+{
+    "id": 201828,
+    "name": "rpcbind",
+    "version": "0.1.5",
+    "created_at": "2019-02-27T16:45:43",
+    "updated_at": "2019-02-27T16:45:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rpcbind_project:rpcbind:0.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

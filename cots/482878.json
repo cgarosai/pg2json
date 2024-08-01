@@ -1,0 +1,10 @@
+{
+    "id": 482878,
+    "name": "grape",
+    "version": "-",
+    "created_at": "2020-02-06T13:09:15",
+    "updated_at": "2020-02-06T13:09:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ruby-grape:grape:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

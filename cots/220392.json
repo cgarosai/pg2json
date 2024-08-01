@@ -1,0 +1,10 @@
+{
+    "id": 220392,
+    "name": "simatic_wincc_runtime_mobile",
+    "version": "-",
+    "created_at": "2019-04-18T12:34:31",
+    "updated_at": "2021-05-19T15:19:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_runtime_mobile:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

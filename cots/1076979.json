@@ -1,0 +1,10 @@
+{
+    "id": 1076979,
+    "name": "ktor",
+    "version": "2.2.4",
+    "created_at": "2023-04-28T15:55:19",
+    "updated_at": "2023-06-08T17:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jetbrains:ktor:2.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

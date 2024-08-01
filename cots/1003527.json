@@ -1,0 +1,10 @@
+{
+    "id": 1003527,
+    "name": "gpac",
+    "version": "2.1-dev-rev649-ga8f438d20",
+    "created_at": "2023-01-10T14:49:49",
+    "updated_at": "2023-07-11T12:51:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpac:gpac:2.1-dev-rev649-ga8f438d20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

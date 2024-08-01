@@ -1,0 +1,10 @@
+{
+    "id": 976176,
+    "name": "selection_tasks",
+    "version": "-",
+    "created_at": "2022-11-23T12:29:37",
+    "updated_at": "2022-11-23T12:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:selection_tasks:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

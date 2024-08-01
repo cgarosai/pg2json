@@ -1,0 +1,10 @@
+{
+    "id": 869382,
+    "name": "simatic_itp1000_firmware",
+    "version": "23.01.08",
+    "created_at": "2022-04-01T15:00:35",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_itp1000_firmware:23.01.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

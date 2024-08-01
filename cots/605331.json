@@ -1,0 +1,10 @@
+{
+    "id": 605331,
+    "name": "s2024_firmware",
+    "version": "-",
+    "created_at": "2020-09-29T13:19:02",
+    "updated_at": "2021-06-08T11:53:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:s2024_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

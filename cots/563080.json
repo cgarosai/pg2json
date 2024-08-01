@@ -1,0 +1,10 @@
+{
+    "id": 563080,
+    "name": "socket.io-file",
+    "version": "2.0.14",
+    "created_at": "2020-07-17T13:24:51",
+    "updated_at": "2020-07-17T13:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:socket.io-file_project:socket.io-file:2.0.14:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

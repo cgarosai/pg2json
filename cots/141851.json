@@ -1,0 +1,10 @@
+{
+    "id": 141851,
+    "name": "excel",
+    "version": "2016",
+    "created_at": "2018-05-14T13:11:01",
+    "updated_at": "2021-07-08T12:33:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:excel:2016:*:*:*:c2r:*:*:*",
+    "to_analyse": false
+}

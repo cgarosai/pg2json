@@ -1,0 +1,10 @@
+{
+    "id": 858289,
+    "name": "awesome_procedures",
+    "version": "4.3.0.0",
+    "created_at": "2022-03-07T17:31:42",
+    "updated_at": "2022-03-09T00:28:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:neo4j:awesome_procedures:4.3.0.0:*:*:*:*:neo4j:*:*",
+    "to_analyse": false
+}

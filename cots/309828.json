@@ -1,0 +1,10 @@
+{
+    "id": 309828,
+    "name": "python",
+    "version": "3.8.0",
+    "created_at": "2019-07-22T17:02:15",
+    "updated_at": "2023-12-08T15:56:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:python:3.8.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 58125,
+    "name": "twain",
+    "version": "5.71.0",
+    "created_at": "2012-05-14T21:28:57",
+    "updated_at": "2012-05-14T21:28:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:epson:twain:5.71.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

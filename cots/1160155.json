@@ -1,0 +1,10 @@
+{
+    "id": 1160155,
+    "name": "fastgate_vdsl2_dga4131fwb_firmware",
+    "version": "18.3.n.0482_fw_264_dga4131",
+    "created_at": "2023-09-29T09:33:57",
+    "updated_at": "2023-09-29T09:33:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fastweb:fastgate_vdsl2_dga4131fwb_firmware:18.3.n.0482_fw_264_dga4131:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

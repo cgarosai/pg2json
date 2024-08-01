@@ -1,0 +1,10 @@
+{
+    "id": 485461,
+    "name": "ucmdb_configuration_manager",
+    "version": "10.00",
+    "created_at": "2020-01-29T16:28:47",
+    "updated_at": "2020-01-29T16:28:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:ucmdb_configuration_manager:10.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

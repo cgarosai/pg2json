@@ -1,0 +1,10 @@
+{
+    "id": 778151,
+    "name": "lucene",
+    "version": "1.2",
+    "created_at": "2021-09-14T12:21:44",
+    "updated_at": "2021-09-14T12:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:lucene:1.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

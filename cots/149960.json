@@ -1,0 +1,10 @@
+{
+    "id": 149960,
+    "name": "phishwall_client",
+    "version": "5.1.26",
+    "created_at": "2018-04-16T16:33:38",
+    "updated_at": "2021-08-09T14:24:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:securebrain:phishwall_client:5.1.26:*:*:*:chrome:windows:*:*",
+    "to_analyse": false
+}

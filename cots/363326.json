@@ -1,0 +1,10 @@
+{
+    "id": 363326,
+    "name": "lftp",
+    "version": "4.8.2",
+    "created_at": "2019-09-17T14:06:23",
+    "updated_at": "2019-09-17T14:06:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lftp_project:lftp:4.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

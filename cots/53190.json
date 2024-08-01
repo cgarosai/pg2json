@@ -1,0 +1,10 @@
+{
+    "id": 53190,
+    "name": "mysql_workbench_ce",
+    "version": "5.2.35",
+    "created_at": "2012-07-10T01:17:12",
+    "updated_at": "2012-07-10T01:17:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:mysql_workbench_ce:5.2.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

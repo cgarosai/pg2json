@@ -1,0 +1,10 @@
+{
+    "id": 255911,
+    "name": "identityserver4",
+    "version": "1.0.2",
+    "created_at": "2019-06-07T12:45:01",
+    "updated_at": "2019-06-07T12:45:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:identityserver:identityserver4:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 661966,
+    "name": "video_surveillance_manager",
+    "version": "6.3",
+    "created_at": "2021-03-04T15:16:45",
+    "updated_at": "2021-03-08T15:03:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:video_surveillance_manager:6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 530006,
+    "name": "proliant_dl360_gen9_server_firmware",
+    "version": "2.76",
+    "created_at": "2020-04-27T18:06:24",
+    "updated_at": "2020-04-27T18:06:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_dl360_gen9_server_firmware:2.76:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

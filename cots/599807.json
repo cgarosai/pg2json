@@ -1,0 +1,10 @@
+{
+    "id": 599807,
+    "name": "maxdb_odbc_driver",
+    "version": "7.9.09.07",
+    "created_at": "2020-09-14T13:52:02",
+    "updated_at": "2020-09-14T13:52:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:maxdb_odbc_driver:7.9.09.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

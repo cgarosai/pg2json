@@ -1,0 +1,10 @@
+{
+    "id": 176547,
+    "name": "mojarra",
+    "version": "2.1.5-01",
+    "created_at": "2018-09-17T11:56:43",
+    "updated_at": "2018-09-17T11:56:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:mojarra:2.1.5-01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

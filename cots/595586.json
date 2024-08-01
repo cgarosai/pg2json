@@ -1,0 +1,10 @@
+{
+    "id": 595586,
+    "name": "localization_manager",
+    "version": "9.0.0",
+    "created_at": "2020-09-03T18:11:00",
+    "updated_at": "2020-09-03T18:11:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:localization_manager_project:localization_manager:9.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

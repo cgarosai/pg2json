@@ -1,0 +1,10 @@
+{
+    "id": 84890,
+    "name": "update-manager",
+    "version": "1\\",
+    "created_at": "2014-04-17T13:22:49",
+    "updated_at": "2014-04-24T17:31:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:update-manager:1\\:0.152.25.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

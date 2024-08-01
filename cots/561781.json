@@ -1,0 +1,10 @@
+{
+    "id": 561781,
+    "name": "modbus_slave",
+    "version": "3.1.5",
+    "created_at": "2020-07-14T13:37:48",
+    "updated_at": "2020-07-14T13:37:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modbustools:modbus_slave:3.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

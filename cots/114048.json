@@ -1,0 +1,10 @@
+{
+    "id": 114048,
+    "name": "ethernet_converged_network_adapter_x710-da2_x710da2blk",
+    "version": "-",
+    "created_at": "2017-01-10T18:57:23",
+    "updated_at": "2021-04-30T15:04:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:ethernet_converged_network_adapter_x710-da2_x710da2blk:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

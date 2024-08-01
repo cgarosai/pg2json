@@ -1,0 +1,10 @@
+{
+    "id": 1167109,
+    "name": "bluefield_2_lts_firmware",
+    "version": "24.35.3006",
+    "created_at": "2023-09-25T19:57:55",
+    "updated_at": "2023-09-25T19:57:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:bluefield_2_lts_firmware:24.35.3006:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

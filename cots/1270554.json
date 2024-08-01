@@ -1,0 +1,10 @@
+{
+    "id": 1270554,
+    "name": "visionos",
+    "version": "2.0",
+    "created_at": "2024-07-03T10:22:38",
+    "updated_at": "2024-07-03T10:22:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:visionos:2.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

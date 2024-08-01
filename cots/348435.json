@@ -1,0 +1,10 @@
+{
+    "id": 348435,
+    "name": "control_rte_sl",
+    "version": "3.5.16.0",
+    "created_at": "2019-08-25T17:48:01",
+    "updated_at": "2021-02-25T15:22:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_rte_sl:3.5.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

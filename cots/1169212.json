@@ -1,0 +1,10 @@
+{
+    "id": 1169212,
+    "name": "dashboard",
+    "version": "0.2.0",
+    "created_at": "2023-09-28T12:47:39",
+    "updated_at": "2023-09-28T12:47:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-falcon:dashboard:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

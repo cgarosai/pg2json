@@ -1,0 +1,10 @@
+{
+    "id": 802868,
+    "name": "rax50_firmware",
+    "version": "1.0.4.100",
+    "created_at": "2021-11-17T13:24:06",
+    "updated_at": "2021-11-17T13:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:rax50_firmware:1.0.4.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

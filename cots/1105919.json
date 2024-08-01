@@ -1,0 +1,10 @@
+{
+    "id": 1105919,
+    "name": "ops_manager_server",
+    "version": "5.0.4",
+    "created_at": "2023-06-20T22:56:57",
+    "updated_at": "2023-06-21T12:05:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:ops_manager_server:5.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 901401,
+    "name": "en100_ethernet_module_dnp3_ip_firmware",
+    "version": "-",
+    "created_at": "2022-07-18T11:07:50",
+    "updated_at": "2022-08-12T18:48:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:en100_ethernet_module_dnp3_ip_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

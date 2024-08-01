@@ -1,0 +1,10 @@
+{
+    "id": 6542,
+    "name": "rpc.yppasswdd",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:16:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux-nis:rpc.yppasswdd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

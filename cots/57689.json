@@ -1,0 +1,10 @@
+{
+    "id": 57689,
+    "name": "distributed_database_manager-odbc",
+    "version": "4.22.0",
+    "created_at": "2012-05-08T11:52:02",
+    "updated_at": "2012-05-08T11:52:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commdevices:distributed_database_manager-odbc:4.22.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

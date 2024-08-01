@@ -1,0 +1,10 @@
+{
+    "id": 843780,
+    "name": "conjur_secrets",
+    "version": "1.0.12",
+    "created_at": "2022-02-17T20:25:34",
+    "updated_at": "2022-02-17T20:26:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:conjur_secrets:1.0.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

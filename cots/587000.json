@@ -1,0 +1,10 @@
+{
+    "id": 587000,
+    "name": "sf250-24_firmware",
+    "version": "-",
+    "created_at": "2020-08-18T09:04:21",
+    "updated_at": "2021-04-23T13:23:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sf250-24_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

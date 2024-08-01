@@ -1,0 +1,10 @@
+{
+    "id": 457110,
+    "name": "cloud-init",
+    "version": "0.7.3",
+    "created_at": "2019-12-06T18:06:53",
+    "updated_at": "2019-12-06T18:06:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:cloud-init:0.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

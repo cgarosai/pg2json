@@ -1,0 +1,10 @@
+{
+    "id": 1144926,
+    "name": "patrol_agent",
+    "version": "23.3.00",
+    "created_at": "2023-09-08T13:46:38",
+    "updated_at": "2023-09-09T01:44:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:patrol_agent:23.3.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

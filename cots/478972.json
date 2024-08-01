@@ -1,0 +1,10 @@
+{
+    "id": 478972,
+    "name": "esp32-s0wd",
+    "version": "-",
+    "created_at": "2020-01-15T13:35:08",
+    "updated_at": "2020-01-15T13:35:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:espressif:esp32-s0wd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 498723,
+    "name": "field_wireless_device_opc_server",
+    "version": "r2.01.02",
+    "created_at": "2020-02-19T21:01:15",
+    "updated_at": "2020-02-19T21:01:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yokogawa:field_wireless_device_opc_server:r2.01.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 644120,
+    "name": "jmr1140_firmware",
+    "version": "amtel_jmr1140_r12.07",
+    "created_at": "2021-01-29T18:01:56",
+    "updated_at": "2021-01-29T18:01:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:jio:jmr1140_firmware:amtel_jmr1140_r12.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

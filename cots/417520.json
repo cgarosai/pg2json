@@ -1,0 +1,10 @@
+{
+    "id": 417520,
+    "name": "frostwire",
+    "version": "2.0.0",
+    "created_at": "2019-10-23T15:01:22",
+    "updated_at": "2019-10-23T15:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frostwire:frostwire:2.0.0:build477beta:*:*:*:android:*:*",
+    "to_analyse": false
+}

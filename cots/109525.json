@@ -1,0 +1,10 @@
+{
+    "id": 109525,
+    "name": "unified_customer_voice_portal",
+    "version": "10.5\\(1\\)",
+    "created_at": "2015-05-18T10:47:16",
+    "updated_at": "2015-05-19T16:54:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unified_customer_voice_portal:10.5\\(1\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

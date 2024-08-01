@@ -1,0 +1,10 @@
+{
+    "id": 735876,
+    "name": "enterprise_runtime_for_r",
+    "version": "1.5.0",
+    "created_at": "2021-06-30T17:13:36",
+    "updated_at": "2021-07-12T13:17:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:enterprise_runtime_for_r:1.5.0:*:*:*:server:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1253949,
+    "name": "mailjet",
+    "version": "3.4.19",
+    "created_at": "2024-02-16T15:26:06",
+    "updated_at": "2024-02-16T15:26:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sinch:mailjet:3.4.19:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

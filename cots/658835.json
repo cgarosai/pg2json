@@ -1,0 +1,10 @@
+{
+    "id": 658835,
+    "name": "simatic_process_control_system_neo",
+    "version": "3.0",
+    "created_at": "2021-02-10T13:19:39",
+    "updated_at": "2021-05-19T15:19:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_process_control_system_neo:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

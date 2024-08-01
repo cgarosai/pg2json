@@ -1,0 +1,10 @@
+{
+    "id": 816004,
+    "name": "app_service_configurable",
+    "version": "1.1.0",
+    "created_at": "2021-11-22T17:57:09",
+    "updated_at": "2021-11-30T19:55:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:edgexfoundry:app_service_configurable:1.1.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

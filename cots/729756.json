@@ -1,0 +1,10 @@
+{
+    "id": 729756,
+    "name": "mobile_sdk_certificate_provider",
+    "version": "-",
+    "created_at": "2021-06-16T14:08:32",
+    "updated_at": "2021-07-27T23:09:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:mobile_sdk_certificate_provider:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

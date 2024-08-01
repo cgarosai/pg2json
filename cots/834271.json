@@ -1,0 +1,10 @@
+{
+    "id": 834271,
+    "name": "touchpad_driver",
+    "version": "10.3201.101.215",
+    "created_at": "2022-02-02T13:54:36",
+    "updated_at": "2022-02-02T18:03:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alpsalpine:touchpad_driver:10.3201.101.215:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

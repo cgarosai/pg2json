@@ -1,0 +1,10 @@
+{
+    "id": 629354,
+    "name": "origin",
+    "version": "10.5.86",
+    "created_at": "2020-12-04T17:42:41",
+    "updated_at": "2020-12-04T17:42:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ea:origin:10.5.86:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

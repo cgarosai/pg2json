@@ -1,0 +1,10 @@
+{
+    "id": 268043,
+    "name": "hhvm",
+    "version": "3.5.0",
+    "created_at": "2019-06-15T16:46:01",
+    "updated_at": "2019-06-15T16:46:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:facebook:hhvm:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

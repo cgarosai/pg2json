@@ -1,0 +1,10 @@
+{
+    "id": 222486,
+    "name": "laserjet_managed_mfp_m630_firmware",
+    "version": "2309010_581400",
+    "created_at": "2019-04-23T14:23:50",
+    "updated_at": "2021-05-14T14:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:laserjet_managed_mfp_m630_firmware:2309010_581400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

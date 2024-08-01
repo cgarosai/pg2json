@@ -1,0 +1,10 @@
+{
+    "id": 1228488,
+    "name": "video_streaming_gateway",
+    "version": "8.1.2.2",
+    "created_at": "2023-12-27T13:07:09",
+    "updated_at": "2023-12-27T13:07:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:video_streaming_gateway:8.1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

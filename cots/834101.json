@@ -1,0 +1,10 @@
+{
+    "id": 834101,
+    "name": "network_security",
+    "version": "3.7.20",
+    "created_at": "2022-02-02T12:26:51",
+    "updated_at": "2022-02-02T14:29:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stormshield:network_security:3.7.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

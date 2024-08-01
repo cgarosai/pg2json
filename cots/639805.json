@@ -1,0 +1,10 @@
+{
+    "id": 639805,
+    "name": "msm8608_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T12:46:12",
+    "updated_at": "2020-12-21T12:46:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:msm8608_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

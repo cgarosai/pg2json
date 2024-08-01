@@ -1,0 +1,10 @@
+{
+    "id": 519875,
+    "name": "xeon_e5-2603_v3",
+    "version": "-",
+    "created_at": "2020-03-23T15:42:20",
+    "updated_at": "2020-03-23T15:42:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5-2603_v3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 659538,
+    "name": "calamine",
+    "version": "0.15.3",
+    "created_at": "2021-02-10T17:41:49",
+    "updated_at": "2021-02-10T17:41:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:calamine_project:calamine:0.15.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

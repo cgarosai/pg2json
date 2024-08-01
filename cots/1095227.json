@@ -1,0 +1,10 @@
+{
+    "id": 1095227,
+    "name": "parse_server_push_adapter",
+    "version": "2.0.3",
+    "created_at": "2023-06-02T14:12:09",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parseplatform:parse_server_push_adapter:2.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

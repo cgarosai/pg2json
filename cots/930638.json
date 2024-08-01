@@ -1,0 +1,10 @@
+{
+    "id": 930638,
+    "name": "snypr",
+    "version": "6.4",
+    "created_at": "2022-09-09T15:14:53",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:securonix:snypr:6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

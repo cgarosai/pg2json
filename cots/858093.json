@@ -1,0 +1,10 @@
+{
+    "id": 858093,
+    "name": "ssr-pages",
+    "version": "0.1.5",
+    "created_at": "2022-03-07T15:31:48",
+    "updated_at": "2022-03-07T18:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:finastra:ssr-pages:0.1.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

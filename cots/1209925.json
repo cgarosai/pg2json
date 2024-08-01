@@ -1,0 +1,10 @@
+{
+    "id": 1209925,
+    "name": "sequelize-typescript",
+    "version": "1.0.0",
+    "created_at": "2023-12-01T09:53:43",
+    "updated_at": "2023-12-01T09:53:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sequelize:sequelize-typescript:1.0.0:alpha9:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

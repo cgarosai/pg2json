@@ -1,0 +1,10 @@
+{
+    "id": 1169438,
+    "name": "device_registration_portal",
+    "version": "2.2",
+    "created_at": "2023-09-28T14:38:45",
+    "updated_at": "2023-09-28T14:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluecatnetworks:device_registration_portal:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

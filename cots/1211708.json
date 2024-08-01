@@ -1,0 +1,10 @@
+{
+    "id": 1211708,
+    "name": "sinamics_s210_firmware",
+    "version": "5.2",
+    "created_at": "2023-12-19T13:25:41",
+    "updated_at": "2023-12-19T13:25:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_s210_firmware:5.2:hotfix2:*:*:*:*:*:*",
+    "to_analyse": false
+}

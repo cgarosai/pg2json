@@ -1,0 +1,10 @@
+{
+    "id": 864450,
+    "name": "avalanche",
+    "version": "6.3.2",
+    "created_at": "2022-04-13T15:44:42",
+    "updated_at": "2022-12-01T18:43:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:avalanche:6.3.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

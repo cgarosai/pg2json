@@ -1,0 +1,10 @@
+{
+    "id": 462814,
+    "name": "knot_resolver",
+    "version": "4.3.0",
+    "created_at": "2020-01-06T13:05:38",
+    "updated_at": "2020-01-06T13:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nic:knot_resolver:4.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

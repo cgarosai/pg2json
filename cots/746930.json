@@ -1,0 +1,10 @@
+{
+    "id": 746930,
+    "name": "stashcat",
+    "version": "3.9.2",
+    "created_at": "2021-07-20T10:59:04",
+    "updated_at": "2021-07-20T11:00:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heinekingmedia:stashcat:3.9.2:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

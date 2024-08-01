@@ -1,0 +1,10 @@
+{
+    "id": 1223270,
+    "name": "clickhouse",
+    "version": "23.10.2.13",
+    "created_at": "2024-01-04T02:00:50",
+    "updated_at": "2024-01-04T02:00:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clickhouse:clickhouse:23.10.2.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

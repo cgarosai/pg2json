@@ -1,0 +1,10 @@
+{
+    "id": 1268060,
+    "name": "commons_compress",
+    "version": "1.22",
+    "created_at": "2024-03-20T18:37:41",
+    "updated_at": "2024-03-20T18:37:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:commons_compress:1.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

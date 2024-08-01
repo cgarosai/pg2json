@@ -1,0 +1,10 @@
+{
+    "id": 199019,
+    "name": "libcap-ng",
+    "version": "0.6.5",
+    "created_at": "2019-01-02T13:59:24",
+    "updated_at": "2019-01-02T13:59:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libcap-ng_project:libcap-ng:0.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 679903,
+    "name": "scanmail_for_ibm_domino",
+    "version": "5.8",
+    "created_at": "2021-03-18T17:21:12",
+    "updated_at": "2021-08-18T11:56:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:scanmail_for_ibm_domino:5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

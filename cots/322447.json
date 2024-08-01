@@ -1,0 +1,10 @@
+{
+    "id": 322447,
+    "name": "satellite",
+    "version": "5",
+    "created_at": "2019-08-01T16:54:52",
+    "updated_at": "2019-08-01T16:54:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:satellite:5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

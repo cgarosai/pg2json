@@ -1,0 +1,10 @@
+{
+    "id": 919858,
+    "name": "tera2_pcoip_zero_client_firmware",
+    "version": "22.04",
+    "created_at": "2022-08-04T16:04:37",
+    "updated_at": "2022-08-04T17:09:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teradici:tera2_pcoip_zero_client_firmware:22.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

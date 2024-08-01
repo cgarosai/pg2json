@@ -1,0 +1,10 @@
+{
+    "id": 180702,
+    "name": "t-router",
+    "version": "-",
+    "created_at": "2018-11-08T15:04:12",
+    "updated_at": "2021-08-13T12:56:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:softcase:t-router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

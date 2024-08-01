@@ -1,0 +1,10 @@
+{
+    "id": 1163860,
+    "name": "mali_gpu_kernel_driver",
+    "version": "r44p0",
+    "created_at": "2023-10-05T19:20:29",
+    "updated_at": "2023-10-05T19:20:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:mali_gpu_kernel_driver:r44p0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

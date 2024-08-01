@@ -1,0 +1,10 @@
+{
+    "id": 148090,
+    "name": "controlwave_micro",
+    "version": "-",
+    "created_at": "2018-03-26T13:26:27",
+    "updated_at": "2021-05-07T15:53:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:emerson:controlwave_micro:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

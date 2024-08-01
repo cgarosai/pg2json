@@ -1,0 +1,10 @@
+{
+    "id": 782294,
+    "name": "zulip",
+    "version": "2.0.4",
+    "created_at": "2021-10-12T10:55:11",
+    "updated_at": "2021-10-12T11:00:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zulip:zulip:2.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491458,
+    "name": "bcm4375_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T14:08:07",
+    "updated_at": "2020-02-24T14:08:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:bcm4375_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

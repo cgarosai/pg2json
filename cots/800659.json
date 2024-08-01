@@ -1,0 +1,10 @@
+{
+    "id": 800659,
+    "name": "hci_baseboard_management_controller",
+    "version": "-",
+    "created_at": "2021-11-12T16:07:47",
+    "updated_at": "2022-05-17T19:17:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:hci_baseboard_management_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1245341,
+    "name": "core_control",
+    "version": "1.2.1",
+    "created_at": "2024-01-24T12:33:33",
+    "updated_at": "2024-01-24T12:33:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dd32:core_control:1.2.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

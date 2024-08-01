@@ -1,0 +1,10 @@
+{
+    "id": 1167762,
+    "name": "aes-gcm",
+    "version": "0.10.2",
+    "created_at": "2023-09-27T08:05:02",
+    "updated_at": "2023-09-27T08:05:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aes-gcm_project:aes-gcm:0.10.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

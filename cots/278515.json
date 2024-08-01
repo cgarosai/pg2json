@@ -1,0 +1,10 @@
+{
+    "id": 278515,
+    "name": "facebook_connect",
+    "version": "1.4.52",
+    "created_at": "2019-06-25T11:50:32",
+    "updated_at": "2019-06-25T11:50:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextendweb:facebook_connect:1.4.52:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

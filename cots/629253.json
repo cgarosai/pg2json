@@ -1,0 +1,10 @@
+{
+    "id": 629253,
+    "name": "chaos_monkey",
+    "version": "0.3",
+    "created_at": "2020-12-04T16:04:15",
+    "updated_at": "2021-04-13T15:53:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netflix:chaos_monkey:0.3:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

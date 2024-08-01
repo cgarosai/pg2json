@@ -1,0 +1,10 @@
+{
+    "id": 57600,
+    "name": "receiver_inside",
+    "version": "3.0.0.56418",
+    "created_at": "2012-05-08T11:51:37",
+    "updated_at": "2012-05-08T11:51:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:receiver_inside:3.0.0.56418:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

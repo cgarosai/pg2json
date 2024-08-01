@@ -1,0 +1,10 @@
+{
+    "id": 387890,
+    "name": "co-cli-installer",
+    "version": "0.0.2",
+    "created_at": "2019-09-24T14:16:42",
+    "updated_at": "2019-09-24T14:16:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:co-cli-installer_project:co-cli-installer:0.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 686091,
+    "name": "patch_manager",
+    "version": "2.1.2",
+    "created_at": "2021-03-31T10:25:07",
+    "updated_at": "2021-05-03T12:39:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:patch_manager:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

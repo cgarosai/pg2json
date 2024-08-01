@@ -1,0 +1,10 @@
+{
+    "id": 271917,
+    "name": "qpid",
+    "version": "6.0.6",
+    "created_at": "2019-06-28T15:22:45",
+    "updated_at": "2019-06-28T15:22:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:qpid:6.0.6:*:*:*:*:java:*:*",
+    "to_analyse": false
+}

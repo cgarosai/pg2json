@@ -1,0 +1,10 @@
+{
+    "id": 514725,
+    "name": "bigfix_webui_software_distribution",
+    "version": "1",
+    "created_at": "2020-03-31T16:01:46",
+    "updated_at": "2020-03-31T16:01:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:bigfix_webui_software_distribution:1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

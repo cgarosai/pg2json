@@ -1,0 +1,10 @@
+{
+    "id": 128570,
+    "name": "sun_zfs_storage_appliance_kit_software",
+    "version": "2013",
+    "created_at": "2017-05-04T17:32:06",
+    "updated_at": "2021-07-08T20:16:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:sun_zfs_storage_appliance_kit_software:2013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

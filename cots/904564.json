@@ -1,0 +1,10 @@
+{
+    "id": 904564,
+    "name": "hudson",
+    "version": "-",
+    "created_at": "2022-07-22T14:37:39",
+    "updated_at": "2022-07-26T12:37:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:hudson:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

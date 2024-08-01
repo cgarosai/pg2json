@@ -1,0 +1,10 @@
+{
+    "id": 1154714,
+    "name": "broadworks_network_function_manager",
+    "version": "-",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:broadworks_network_function_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

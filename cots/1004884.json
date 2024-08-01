@@ -1,0 +1,10 @@
+{
+    "id": 1004884,
+    "name": "security_gateway",
+    "version": "r81",
+    "created_at": "2023-01-11T19:24:34",
+    "updated_at": "2023-03-03T13:27:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:checkpoint:security_gateway:r81:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

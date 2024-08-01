@@ -1,0 +1,10 @@
+{
+    "id": 733092,
+    "name": "xen_orchestra_server",
+    "version": "5.9.2",
+    "created_at": "2021-07-14T08:25:57",
+    "updated_at": "2021-07-14T10:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xen-orchestra:xen_orchestra_server:5.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

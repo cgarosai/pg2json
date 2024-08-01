@@ -1,0 +1,10 @@
+{
+    "id": 661877,
+    "name": "content_server",
+    "version": "20.3",
+    "created_at": "2021-03-04T14:06:06",
+    "updated_at": "2021-08-17T16:07:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opentext:content_server:20.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

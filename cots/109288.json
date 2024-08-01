@@ -1,0 +1,10 @@
+{
+    "id": 109288,
+    "name": "wpa_supplicant",
+    "version": "2.3",
+    "created_at": "2015-04-29T12:38:18",
+    "updated_at": "2015-04-30T14:39:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:w1.fi:wpa_supplicant:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

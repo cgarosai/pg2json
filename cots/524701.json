@@ -1,0 +1,10 @@
+{
+    "id": 524701,
+    "name": "r310_firmware",
+    "version": "104.0.0.0.1347",
+    "created_at": "2020-04-13T13:13:41",
+    "updated_at": "2020-04-13T13:13:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ruckuswireless:r310_firmware:104.0.0.0.1347:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

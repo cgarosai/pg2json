@@ -1,0 +1,10 @@
+{
+    "id": 490407,
+    "name": "ar1200_firmware",
+    "version": "v200r008c20spc700",
+    "created_at": "2020-02-21T19:59:21",
+    "updated_at": "2020-02-21T19:59:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar1200_firmware:v200r008c20spc700:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

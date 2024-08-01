@@ -1,0 +1,10 @@
+{
+    "id": 1080577,
+    "name": "kace_systems_deployment_appliance",
+    "version": "9.0.146",
+    "created_at": "2023-05-25T15:57:07",
+    "updated_at": "2023-06-06T13:23:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:kace_systems_deployment_appliance:9.0.146:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

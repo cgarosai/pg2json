@@ -1,0 +1,10 @@
+{
+    "id": 713562,
+    "name": "xnio",
+    "version": "3.3.0",
+    "created_at": "2021-06-08T11:36:18",
+    "updated_at": "2021-06-09T14:57:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:xnio:3.3.0:beta4:*:*:*:*:*:*",
+    "to_analyse": false
+}

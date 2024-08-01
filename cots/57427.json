@@ -1,0 +1,10 @@
+{
+    "id": 57427,
+    "name": "adaptive_security_device_manager_idm_launcher",
+    "version": "1.5.45",
+    "created_at": "2012-05-08T11:50:53",
+    "updated_at": "2012-05-08T11:50:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:adaptive_security_device_manager_idm_launcher:1.5.45:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

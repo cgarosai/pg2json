@@ -1,0 +1,10 @@
+{
+    "id": 53327,
+    "name": "software_update_wizard",
+    "version": "4.5",
+    "created_at": "2012-07-10T01:17:36",
+    "updated_at": "2012-07-10T01:17:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:powerprogrammer:software_update_wizard:4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

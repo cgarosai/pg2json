@@ -1,0 +1,10 @@
+{
+    "id": 1033331,
+    "name": "node-lmdb",
+    "version": "0.4.12",
+    "created_at": "2023-03-03T14:11:41",
+    "updated_at": "2023-03-03T15:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-lmdb_project:node-lmdb:0.4.12:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

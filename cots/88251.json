@@ -1,0 +1,10 @@
+{
+    "id": 88251,
+    "name": "sinamics_g110d",
+    "version": "-",
+    "created_at": "2013-12-09T15:40:21",
+    "updated_at": "2013-12-09T15:48:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sinamics_g110d:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

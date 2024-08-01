@@ -1,0 +1,10 @@
+{
+    "id": 130448,
+    "name": "bftpd",
+    "version": "3.8.0",
+    "created_at": "2017-12-06T18:15:03",
+    "updated_at": "2017-12-06T18:15:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bftpd_project:bftpd:3.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

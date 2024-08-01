@@ -1,0 +1,10 @@
+{
+    "id": 133180,
+    "name": "weblogic_server",
+    "version": "12.2.1.3.0",
+    "created_at": "2018-01-10T18:03:39",
+    "updated_at": "2018-01-10T18:03:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:weblogic_server:12.2.1.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

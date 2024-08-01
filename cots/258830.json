@@ -1,0 +1,10 @@
+{
+    "id": 258830,
+    "name": "ds107_firmware",
+    "version": "3.1-1613",
+    "created_at": "2019-06-10T15:19:16",
+    "updated_at": "2019-06-10T15:19:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:synology:ds107_firmware:3.1-1613:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

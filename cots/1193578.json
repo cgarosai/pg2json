@@ -1,0 +1,10 @@
+{
+    "id": 1193578,
+    "name": "epyc_9174f_firmware",
+    "version": "genoapi_1.0.0.4",
+    "created_at": "2023-11-22T16:07:21",
+    "updated_at": "2023-11-22T16:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_9174f_firmware:genoapi_1.0.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

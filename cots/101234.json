@@ -1,0 +1,10 @@
+{
+    "id": 101234,
+    "name": "content_construction_kit",
+    "version": "6.x-2.8",
+    "created_at": "2015-08-20T11:07:06",
+    "updated_at": "2015-08-21T23:35:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:content_construction_kit_project:content_construction_kit:6.x-2.8:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

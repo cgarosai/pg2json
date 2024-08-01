@@ -1,0 +1,10 @@
+{
+    "id": 89983,
+    "name": "dynamics_ax",
+    "version": "4.0",
+    "created_at": "2014-01-15T20:26:18",
+    "updated_at": "2014-01-15T20:29:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:dynamics_ax:4.0:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

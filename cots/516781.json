@@ -1,0 +1,10 @@
+{
+    "id": 516781,
+    "name": "boost",
+    "version": "1.72.0",
+    "created_at": "2020-03-16T13:40:46",
+    "updated_at": "2020-03-16T13:40:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:boost:boost:1.72.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

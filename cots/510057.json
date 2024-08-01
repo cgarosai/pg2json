@@ -1,0 +1,10 @@
+{
+    "id": 510057,
+    "name": "xeon_l3360_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T16:32:40",
+    "updated_at": "2020-03-23T16:32:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_l3360_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

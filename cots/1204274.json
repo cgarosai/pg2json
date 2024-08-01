@@ -1,0 +1,10 @@
+{
+    "id": 1204274,
+    "name": "ryzen_threadripper_3970x_firmware",
+    "version": "castlepeakpi-sp3r2_1.1.0.8",
+    "created_at": "2023-12-07T16:55:46",
+    "updated_at": "2023-12-07T16:55:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_threadripper_3970x_firmware:castlepeakpi-sp3r2_1.1.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

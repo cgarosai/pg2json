@@ -1,0 +1,10 @@
+{
+    "id": 1114646,
+    "name": "pulsar",
+    "version": "3.0.0",
+    "created_at": "2023-07-20T13:01:35",
+    "updated_at": "2023-07-20T15:48:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:pulsar:3.0.0:candidate_4:*:*:*:*:*:*",
+    "to_analyse": false
+}

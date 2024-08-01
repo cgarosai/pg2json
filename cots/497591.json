@@ -1,0 +1,10 @@
+{
+    "id": 497591,
+    "name": "ui-core",
+    "version": "0.5.0",
+    "created_at": "2020-02-18T18:31:13",
+    "updated_at": "2020-02-18T18:31:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matestack:ui-core:0.5.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 432134,
+    "name": "synergy_480",
+    "version": "gen10",
+    "created_at": "2019-11-20T12:50:37",
+    "updated_at": "2021-05-05T12:27:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:synergy_480:gen10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

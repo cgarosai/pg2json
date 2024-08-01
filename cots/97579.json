@@ -1,0 +1,10 @@
+{
+    "id": 97579,
+    "name": "zenoss",
+    "version": "4.2.5",
+    "created_at": "2014-05-21T20:06:05",
+    "updated_at": "2014-06-30T23:48:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zenoss:zenoss:4.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

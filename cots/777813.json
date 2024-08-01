@@ -1,0 +1,10 @@
+{
+    "id": 777813,
+    "name": "support_core",
+    "version": "2.74",
+    "created_at": "2021-09-13T11:58:59",
+    "updated_at": "2021-09-13T12:32:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:support_core:2.74:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

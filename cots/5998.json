@@ -1,0 +1,10 @@
+{
+    "id": 5998,
+    "name": "big-ip_local_traffic_manager",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2012-07-10T15:21:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_local_traffic_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

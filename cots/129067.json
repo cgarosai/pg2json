@@ -1,0 +1,10 @@
+{
+    "id": 129067,
+    "name": "data_domain",
+    "version": "5.5",
+    "created_at": "2017-05-16T19:15:56",
+    "updated_at": "2020-12-07T16:25:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emc:data_domain:5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 602174,
+    "name": "phantomjs-seo",
+    "version": "1.0.0",
+    "created_at": "2020-10-13T11:33:51",
+    "updated_at": "2020-10-13T11:33:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phantomjs-seo_project:phantomjs-seo:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

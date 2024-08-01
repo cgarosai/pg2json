@@ -1,0 +1,10 @@
+{
+    "id": 348393,
+    "name": "libvncserver",
+    "version": "0.9.12",
+    "created_at": "2019-08-23T16:24:41",
+    "updated_at": "2019-08-23T16:24:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libvnc_project:libvncserver:0.9.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

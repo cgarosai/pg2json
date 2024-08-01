@@ -1,0 +1,10 @@
+{
+    "id": 373561,
+    "name": "whereis",
+    "version": "0.4.1",
+    "created_at": "2019-09-23T11:54:10",
+    "updated_at": "2019-09-23T11:54:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:whereis_project:whereis:0.4.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

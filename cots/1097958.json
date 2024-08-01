@@ -1,0 +1,10 @@
+{
+    "id": 1097958,
+    "name": "blade_a3_lite_firmware",
+    "version": "m08",
+    "created_at": "2023-06-06T13:16:22",
+    "updated_at": "2023-06-28T16:21:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:blade_a3_lite_firmware:m08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

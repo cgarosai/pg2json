@@ -1,0 +1,10 @@
+{
+    "id": 539773,
+    "name": "translate_wordpress_with_gtranslate",
+    "version": "2.0.4",
+    "created_at": "2020-04-27T17:01:03",
+    "updated_at": "2020-04-27T17:01:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gtranslate:translate_wordpress_with_gtranslate:2.0.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

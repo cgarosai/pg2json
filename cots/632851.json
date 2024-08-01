@@ -1,0 +1,10 @@
+{
+    "id": 632851,
+    "name": "autobahn",
+    "version": "-",
+    "created_at": "2020-12-31T14:13:51",
+    "updated_at": "2020-12-31T14:13:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crossbar:autobahn:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

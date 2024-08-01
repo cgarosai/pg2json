@@ -1,0 +1,10 @@
+{
+    "id": 508934,
+    "name": "nvms-1000_firmware",
+    "version": "-",
+    "created_at": "2020-03-05T17:09:06",
+    "updated_at": "2020-03-05T17:09:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tvt:nvms-1000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1210295,
+    "name": "e850_firmware",
+    "version": "-",
+    "created_at": "2023-12-16T03:01:59",
+    "updated_at": "2023-12-16T03:01:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:landisgyr:e850_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

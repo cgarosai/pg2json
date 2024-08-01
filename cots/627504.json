@@ -1,0 +1,10 @@
+{
+    "id": 627504,
+    "name": "horizon",
+    "version": "7.10.2",
+    "created_at": "2020-12-02T14:25:29",
+    "updated_at": "2020-12-02T14:25:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:horizon:7.10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

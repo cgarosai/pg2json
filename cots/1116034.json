@@ -1,0 +1,10 @@
+{
+    "id": 1116034,
+    "name": "user_management",
+    "version": "2.15.24",
+    "created_at": "2023-07-06T12:20:32",
+    "updated_at": "2023-07-17T15:42:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:techtime:user_management:2.15.24:*:*:*:*:confluence:*:*",
+    "to_analyse": false
+}

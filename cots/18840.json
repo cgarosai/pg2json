@@ -1,0 +1,10 @@
+{
+    "id": 18840,
+    "name": "typsoft_ftp_server",
+    "version": "1.10",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2012-10-12T11:37:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typsoft:typsoft_ftp_server:1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

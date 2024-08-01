@@ -1,0 +1,10 @@
+{
+    "id": 528917,
+    "name": "plugin_publishing",
+    "version": "0.10.1",
+    "created_at": "2020-04-02T16:33:43",
+    "updated_at": "2020-04-02T16:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gradle:plugin_publishing:0.10.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

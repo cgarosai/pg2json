@@ -1,0 +1,10 @@
+{
+    "id": 616406,
+    "name": "sinamics_s150_firmware",
+    "version": "5.2",
+    "created_at": "2020-10-30T10:11:34",
+    "updated_at": "2020-10-30T10:11:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_s150_firmware:5.2:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

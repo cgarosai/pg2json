@@ -1,0 +1,10 @@
+{
+    "id": 1060452,
+    "name": "security_threat_response_manager",
+    "version": "7.5.0",
+    "created_at": "2023-04-17T12:44:09",
+    "updated_at": "2023-06-15T17:04:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:security_threat_response_manager:7.5.0:up4:*:*:*:*:*:*",
+    "to_analyse": false
+}

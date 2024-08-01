@@ -1,0 +1,10 @@
+{
+    "id": 92823,
+    "name": "sears",
+    "version": "6.2.8",
+    "created_at": "2014-09-21T22:50:56",
+    "updated_at": "2014-12-14T14:44:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sears:sears:6.2.8:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

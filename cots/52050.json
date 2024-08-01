@@ -1,0 +1,10 @@
+{
+    "id": 52050,
+    "name": "ds4200",
+    "version": "1814",
+    "created_at": "2012-06-22T15:57:08",
+    "updated_at": "2012-06-29T12:52:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:ds4200:1814:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

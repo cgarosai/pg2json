@@ -1,0 +1,10 @@
+{
+    "id": 637098,
+    "name": "symantec_messaging_gateway",
+    "version": "10.7.4",
+    "created_at": "2020-12-15T12:52:40",
+    "updated_at": "2020-12-15T12:52:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_messaging_gateway:10.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

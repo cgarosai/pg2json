@@ -1,0 +1,10 @@
+{
+    "id": 630120,
+    "name": "sd821_firmware",
+    "version": "-",
+    "created_at": "2020-12-21T16:58:57",
+    "updated_at": "2020-12-21T16:58:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sd821_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

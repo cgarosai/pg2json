@@ -1,0 +1,10 @@
+{
+    "id": 921039,
+    "name": "ansible_runner",
+    "version": "1.0.3",
+    "created_at": "2022-08-26T14:28:13",
+    "updated_at": "2022-08-26T18:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible_runner:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

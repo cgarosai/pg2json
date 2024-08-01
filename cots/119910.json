@@ -1,0 +1,10 @@
+{
+    "id": 119910,
+    "name": "standalone_pulse_installer_service",
+    "version": "7.4r9.3",
+    "created_at": "2016-08-04T13:33:28",
+    "updated_at": "2021-06-03T12:27:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:standalone_pulse_installer_service:7.4r9.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

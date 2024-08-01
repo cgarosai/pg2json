@@ -1,0 +1,10 @@
+{
+    "id": 894797,
+    "name": "scaffold-helper",
+    "version": "1.1.0",
+    "created_at": "2022-07-05T14:06:05",
+    "updated_at": "2022-07-06T11:33:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scaffold-helper_project:scaffold-helper:1.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

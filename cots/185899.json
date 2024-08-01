@@ -1,0 +1,10 @@
+{
+    "id": 185899,
+    "name": "ansible",
+    "version": "2.3.2.0-0.4.rc4",
+    "created_at": "2018-10-22T15:33:33",
+    "updated_at": "2018-10-22T15:33:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible:2.3.2.0-0.4.rc4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

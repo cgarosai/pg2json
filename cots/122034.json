@@ -1,0 +1,10 @@
+{
+    "id": 122034,
+    "name": "nfx250",
+    "version": "-",
+    "created_at": "2017-07-24T15:58:27",
+    "updated_at": "2021-06-21T12:01:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:nfx250:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

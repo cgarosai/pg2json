@@ -1,0 +1,10 @@
+{
+    "id": 57716,
+    "name": "srm_windows_file_system_agent",
+    "version": "9.0.0",
+    "created_at": "2012-05-08T11:52:10",
+    "updated_at": "2012-05-08T11:52:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commvault:srm_windows_file_system_agent:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

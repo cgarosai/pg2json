@@ -1,0 +1,10 @@
+{
+    "id": 968772,
+    "name": "biller_direct",
+    "version": "750",
+    "created_at": "2022-11-09T13:10:52",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:biller_direct:750:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

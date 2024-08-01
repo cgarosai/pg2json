@@ -1,0 +1,10 @@
+{
+    "id": 522463,
+    "name": "sg220-50_firmware",
+    "version": "1.1.0.14",
+    "created_at": "2020-04-07T17:44:01",
+    "updated_at": "2020-04-07T17:44:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg220-50_firmware:1.1.0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

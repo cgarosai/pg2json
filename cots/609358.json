@@ -1,0 +1,10 @@
+{
+    "id": 609358,
+    "name": "safetydance",
+    "version": "-",
+    "created_at": "2020-10-06T15:05:01",
+    "updated_at": "2020-10-06T15:05:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:safetydance_project:safetydance:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

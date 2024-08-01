@@ -1,0 +1,10 @@
+{
+    "id": 504430,
+    "name": "zh_yandexmap",
+    "version": "11.0.2.0",
+    "created_at": "2020-03-11T12:46:37",
+    "updated_at": "2020-03-11T12:46:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zh_yandexmap_project:zh_yandexmap:11.0.2.0:*:*:*:*:joomla\\!:*:*",
+    "to_analyse": false
+}

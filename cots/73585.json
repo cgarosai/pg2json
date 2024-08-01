@@ -1,0 +1,10 @@
+{
+    "id": 73585,
+    "name": "rsa_authentication_agent",
+    "version": "7.0.1",
+    "created_at": "2013-08-28T16:20:45",
+    "updated_at": "2013-08-29T11:15:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_authentication_agent:7.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

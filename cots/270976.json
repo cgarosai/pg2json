@@ -1,0 +1,10 @@
+{
+    "id": 270976,
+    "name": "eventbrite_tickets",
+    "version": "3.5",
+    "created_at": "2019-06-27T11:46:23",
+    "updated_at": "2019-06-27T11:46:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theeventscalendar:eventbrite_tickets:3.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

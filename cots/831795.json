@@ -1,0 +1,10 @@
+{
+    "id": 831795,
+    "name": "wp_extra_file_types",
+    "version": "-",
+    "created_at": "2022-01-27T01:38:44",
+    "updated_at": "2022-01-27T12:03:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_extra_file_types_project:wp_extra_file_types:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

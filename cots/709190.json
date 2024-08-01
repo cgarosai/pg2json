@@ -1,0 +1,10 @@
+{
+    "id": 709190,
+    "name": "rpm",
+    "version": "4.17.0",
+    "created_at": "2021-05-17T19:34:52",
+    "updated_at": "2021-05-19T14:23:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rpm:rpm:4.17.0:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

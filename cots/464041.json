@@ -1,0 +1,10 @@
+{
+    "id": 464041,
+    "name": "fortirecorder_firmware",
+    "version": "2.3.0",
+    "created_at": "2020-01-07T16:16:41",
+    "updated_at": "2020-01-07T16:16:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fortirecorder_firmware:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

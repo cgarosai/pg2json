@@ -1,0 +1,10 @@
+{
+    "id": 649214,
+    "name": "single_sign-on",
+    "version": "7.4",
+    "created_at": "2021-01-14T18:44:01",
+    "updated_at": "2021-01-14T18:44:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:single_sign-on:7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

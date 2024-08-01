@@ -1,0 +1,10 @@
+{
+    "id": 556621,
+    "name": "tapo_c200_firmware",
+    "version": "2020-02-09",
+    "created_at": "2020-06-01T12:19:28",
+    "updated_at": "2021-05-28T12:01:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:tapo_c200_firmware:2020-02-09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

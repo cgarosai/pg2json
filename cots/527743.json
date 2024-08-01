@@ -1,0 +1,10 @@
+{
+    "id": 527743,
+    "name": "service_broker",
+    "version": "1.2.3",
+    "created_at": "2020-04-01T18:18:57",
+    "updated_at": "2020-04-01T18:18:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dynatrace:service_broker:1.2.3:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

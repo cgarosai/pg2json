@@ -1,0 +1,10 @@
+{
+    "id": 491184,
+    "name": "syncserver_s200",
+    "version": "-",
+    "created_at": "2020-02-24T13:44:21",
+    "updated_at": "2020-02-24T13:44:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:microchip:syncserver_s200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

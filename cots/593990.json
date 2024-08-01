@@ -1,0 +1,10 @@
+{
+    "id": 593990,
+    "name": "nvs_firmware",
+    "version": "390.138",
+    "created_at": "2020-09-23T15:46:21",
+    "updated_at": "2020-09-23T15:46:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:nvs_firmware:390.138:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

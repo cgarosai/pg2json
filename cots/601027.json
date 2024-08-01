@@ -1,0 +1,10 @@
+{
+    "id": 601027,
+    "name": "big-ip_domain_name_system",
+    "version": "14.1.2.7",
+    "created_at": "2020-10-08T13:06:10",
+    "updated_at": "2020-10-08T13:06:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

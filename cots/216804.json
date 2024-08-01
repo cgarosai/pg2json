@@ -1,0 +1,10 @@
+{
+    "id": 216804,
+    "name": "nx-os",
+    "version": "12.3\\(0.97\\)",
+    "created_at": "2019-03-12T18:01:11",
+    "updated_at": "2021-04-13T13:46:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nx-os:12.3\\(0.97\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

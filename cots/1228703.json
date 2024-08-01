@@ -1,0 +1,10 @@
+{
+    "id": 1228703,
+    "name": "astro",
+    "version": "7.78.0",
+    "created_at": "2023-12-27T13:25:23",
+    "updated_at": "2023-12-27T13:25:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sentry:astro:7.78.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 92637,
+    "name": "flurry-analytics-android",
+    "version": "3.4.0",
+    "created_at": "2014-09-11T10:54:15",
+    "updated_at": "2014-11-09T10:58:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flurry:flurry-analytics-android:3.4.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

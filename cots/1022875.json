@@ -1,0 +1,10 @@
+{
+    "id": 1022875,
+    "name": "nova430e_firmware",
+    "version": "qrtb_2.12.7",
+    "created_at": "2023-02-13T13:22:07",
+    "updated_at": "2023-08-30T09:38:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:baicells:nova430e_firmware:qrtb_2.12.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

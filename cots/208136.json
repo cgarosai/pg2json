@@ -1,0 +1,10 @@
+{
+    "id": 208136,
+    "name": "winrar",
+    "version": "5.30",
+    "created_at": "2019-02-14T14:00:40",
+    "updated_at": "2019-02-14T14:00:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rarlab:winrar:5.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

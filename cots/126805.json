@@ -1,0 +1,10 @@
+{
+    "id": 126805,
+    "name": "db2_connect",
+    "version": "10.1.0.4",
+    "created_at": "2017-04-05T13:17:45",
+    "updated_at": "2017-04-05T13:17:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2_connect:10.1.0.4:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 202989,
+    "name": "jms_messaging",
+    "version": "1.0.37",
+    "created_at": "2019-03-01T15:19:02",
+    "updated_at": "2019-03-01T15:19:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jms_messaging:1.0.37:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

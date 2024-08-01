@@ -1,0 +1,10 @@
+{
+    "id": 632075,
+    "name": "dgx-2",
+    "version": "-",
+    "created_at": "2020-12-29T13:51:24",
+    "updated_at": "2020-12-29T13:51:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:nvidia:dgx-2:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

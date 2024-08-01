@@ -1,0 +1,10 @@
+{
+    "id": 642688,
+    "name": "sun_zfs_storage_appliance_kit",
+    "version": "8.7.18",
+    "created_at": "2021-01-27T14:36:10",
+    "updated_at": "2021-01-27T14:36:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:sun_zfs_storage_appliance_kit:8.7.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

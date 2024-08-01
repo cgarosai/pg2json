@@ -1,0 +1,10 @@
+{
+    "id": 473263,
+    "name": "htcondor",
+    "version": "7.9.0",
+    "created_at": "2020-01-27T11:52:01",
+    "updated_at": "2020-01-27T11:52:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wisc:htcondor:7.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

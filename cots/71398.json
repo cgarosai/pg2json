@@ -1,0 +1,10 @@
+{
+    "id": 71398,
+    "name": "remote_plug_in_executor",
+    "version": "2.12",
+    "created_at": "2013-07-10T11:20:35",
+    "updated_at": "2013-07-18T14:33:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nagios:remote_plug_in_executor:2.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

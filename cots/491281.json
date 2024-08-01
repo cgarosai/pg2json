@@ -1,0 +1,10 @@
+{
+    "id": 491281,
+    "name": "profinet_driver",
+    "version": "-",
+    "created_at": "2020-02-24T14:00:05",
+    "updated_at": "2020-02-24T14:00:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:profinet_driver:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

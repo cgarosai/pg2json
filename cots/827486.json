@@ -1,0 +1,10 @@
+{
+    "id": 827486,
+    "name": "\\",
+    "version": "checksums_project",
+    "created_at": "2021-12-15T15:16:05",
+    "updated_at": "2021-12-15T16:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cpan\\:\\:checksums_project:cpan\\:\\:checksums:2.14:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

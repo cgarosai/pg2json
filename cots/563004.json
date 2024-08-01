@@ -1,0 +1,10 @@
+{
+    "id": 563004,
+    "name": "p99_firmware",
+    "version": "2020-04-10",
+    "created_at": "2020-07-17T12:10:11",
+    "updated_at": "2020-07-17T12:10:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:panasonic:p99_firmware:2020-04-10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

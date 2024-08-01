@@ -1,0 +1,10 @@
+{
+    "id": 1262428,
+    "name": "linux_enterprise_high_availability_extension",
+    "version": "15",
+    "created_at": "2024-05-29T12:19:27",
+    "updated_at": "2024-05-29T12:19:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_high_availability_extension:15:sp4:*:*:*:*:*:*",
+    "to_analyse": false
+}

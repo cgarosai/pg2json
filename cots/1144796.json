@@ -1,0 +1,10 @@
+{
+    "id": 1144796,
+    "name": "lua-http",
+    "version": "0.3",
+    "created_at": "2023-09-08T11:48:23",
+    "updated_at": "2023-09-11T15:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:daurnimator:lua-http:0.3:*:*:*:*:lua:*:*",
+    "to_analyse": false
+}

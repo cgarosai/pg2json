@@ -1,0 +1,10 @@
+{
+    "id": 1143336,
+    "name": "mxsecurity",
+    "version": "1.1.0",
+    "created_at": "2023-09-05T16:04:48",
+    "updated_at": "2023-09-07T16:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moxa:mxsecurity:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

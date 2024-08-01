@@ -1,0 +1,10 @@
+{
+    "id": 582882,
+    "name": "rfh_firmware",
+    "version": "-",
+    "created_at": "2020-09-01T09:04:01",
+    "updated_at": "2021-05-07T14:58:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:rfh_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

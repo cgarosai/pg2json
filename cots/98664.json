@@ -1,0 +1,10 @@
+{
+    "id": 98664,
+    "name": "ct80_firmware",
+    "version": "1.4.64",
+    "created_at": "2014-06-06T14:17:02",
+    "updated_at": "2014-06-18T15:37:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:radiothermostat:ct80_firmware:1.4.64:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

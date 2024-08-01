@@ -1,0 +1,10 @@
+{
+    "id": 896660,
+    "name": "neos_cms",
+    "version": "7.2.0",
+    "created_at": "2022-06-10T23:14:39",
+    "updated_at": "2022-06-21T23:38:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:neos:neos_cms:7.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

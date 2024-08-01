@@ -1,0 +1,10 @@
+{
+    "id": 88655,
+    "name": "sthttpd",
+    "version": "2.26.2",
+    "created_at": "2013-12-16T14:35:00",
+    "updated_at": "2013-12-16T14:40:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open_source_development_team:sthttpd:2.26.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

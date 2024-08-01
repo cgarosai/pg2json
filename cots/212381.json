@@ -1,0 +1,10 @@
+{
+    "id": 212381,
+    "name": "gitea",
+    "version": "1.7.0",
+    "created_at": "2019-03-27T16:43:37",
+    "updated_at": "2019-03-27T16:43:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitea:gitea:1.7.0:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

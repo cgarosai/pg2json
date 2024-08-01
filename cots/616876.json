@@ -1,0 +1,10 @@
+{
+    "id": 616876,
+    "name": "diskstation_manager",
+    "version": "6.2.3-25426-2",
+    "created_at": "2020-11-02T11:36:59",
+    "updated_at": "2021-06-04T16:34:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:diskstation_manager:6.2.3-25426-2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

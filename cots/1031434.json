@@ -1,0 +1,10 @@
+{
+    "id": 1031434,
+    "name": "php-saml-sp",
+    "version": "1.0.0",
+    "created_at": "2023-03-01T10:52:13",
+    "updated_at": "2023-03-02T15:09:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php-saml-sp_project:php-saml-sp:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 921107,
+    "name": "windows_client",
+    "version": "25.0.0.676",
+    "created_at": "2022-08-26T16:02:06",
+    "updated_at": "2022-11-04T21:50:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:printerlogic:windows_client:25.0.0.676:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 428764,
+    "name": "sensu_core",
+    "version": "2.0.0",
+    "created_at": "2019-11-04T17:02:38",
+    "updated_at": "2019-11-04T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sensu:sensu_core:2.0.0:alpha6-1:*:*:*:*:*:*",
+    "to_analyse": false
+}

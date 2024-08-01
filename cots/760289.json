@@ -1,0 +1,10 @@
+{
+    "id": 760289,
+    "name": "name_directory",
+    "version": "1.13.2",
+    "created_at": "2021-08-25T16:28:58",
+    "updated_at": "2021-08-25T17:10:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:name_directory_project:name_directory:1.13.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

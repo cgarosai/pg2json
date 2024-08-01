@@ -1,0 +1,10 @@
+{
+    "id": 347633,
+    "name": "printer_firmware",
+    "version": "yk.021.057",
+    "created_at": "2019-08-22T15:15:32",
+    "updated_at": "2019-08-22T15:15:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:printer_firmware:yk.021.057:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

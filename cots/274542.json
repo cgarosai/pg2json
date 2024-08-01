@@ -1,0 +1,10 @@
+{
+    "id": 274542,
+    "name": "shim",
+    "version": "0.4",
+    "created_at": "2019-07-01T15:31:40",
+    "updated_at": "2019-07-01T15:31:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:shim:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

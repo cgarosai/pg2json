@@ -1,0 +1,10 @@
+{
+    "id": 81207,
+    "name": "flash_player",
+    "version": "12.0.0.41",
+    "created_at": "2014-02-05T16:10:23",
+    "updated_at": "2014-02-05T16:13:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:flash_player:12.0.0.41:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

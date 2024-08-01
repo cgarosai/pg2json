@@ -1,0 +1,10 @@
+{
+    "id": 665774,
+    "name": "nanohttpd",
+    "version": "2.1.0",
+    "created_at": "2021-02-23T17:15:26",
+    "updated_at": "2021-03-02T13:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nanohttpd:nanohttpd:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

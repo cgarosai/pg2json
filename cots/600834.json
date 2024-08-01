@@ -1,0 +1,10 @@
+{
+    "id": 600834,
+    "name": "sg300-52mp_firmware",
+    "version": "1.4.9.4",
+    "created_at": "2020-10-08T12:37:32",
+    "updated_at": "2020-10-08T12:37:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sg300-52mp_firmware:1.4.9.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 641264,
+    "name": "laravel",
+    "version": "6.17.0",
+    "created_at": "2021-01-25T15:19:27",
+    "updated_at": "2021-01-25T15:19:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:laravel:laravel:6.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 595480,
+    "name": "django",
+    "version": "2.2.14",
+    "created_at": "2020-09-03T16:50:56",
+    "updated_at": "2020-09-03T16:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:djangoproject:django:2.2.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

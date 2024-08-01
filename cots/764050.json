@@ -1,0 +1,10 @@
+{
+    "id": 764050,
+    "name": "git-parse",
+    "version": "1.0.5",
+    "created_at": "2021-09-02T14:59:55",
+    "updated_at": "2021-09-07T10:23:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wayfair:git-parse:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 409915,
+    "name": "cumulus_linux",
+    "version": "2.5.3",
+    "created_at": "2019-10-15T13:14:17",
+    "updated_at": "2019-10-15T13:14:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cumulusnetworks:cumulus_linux:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

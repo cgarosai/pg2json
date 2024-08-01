@@ -1,0 +1,10 @@
+{
+    "id": 348477,
+    "name": "riot",
+    "version": "2016.07",
+    "created_at": "2019-08-26T09:11:02",
+    "updated_at": "2019-11-01T12:27:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:riot-os:riot:2016.07:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

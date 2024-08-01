@@ -1,0 +1,10 @@
+{
+    "id": 745576,
+    "name": "open_enclave_software_development_kit",
+    "version": "0.11.0",
+    "created_at": "2021-07-16T11:07:44",
+    "updated_at": "2021-07-16T11:34:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:open_enclave_software_development_kit:0.11.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

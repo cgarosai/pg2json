@@ -1,0 +1,10 @@
+{
+    "id": 168602,
+    "name": "libsass",
+    "version": "3.4.4",
+    "created_at": "2018-07-18T11:48:57",
+    "updated_at": "2018-07-18T11:48:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sass-lang:libsass:3.4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

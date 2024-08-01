@@ -1,0 +1,10 @@
+{
+    "id": 657775,
+    "name": "librenms",
+    "version": "1.63",
+    "created_at": "2021-02-08T15:38:42",
+    "updated_at": "2021-02-08T15:38:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:librenms:librenms:1.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

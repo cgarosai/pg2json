@@ -1,0 +1,10 @@
+{
+    "id": 1050501,
+    "name": "control_for_wago_touch_panels_600_sl",
+    "version": "4.8.0.0",
+    "created_at": "2023-03-27T16:00:20",
+    "updated_at": "2023-06-21T14:32:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_wago_touch_panels_600_sl:4.8.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1053004,
+    "name": "openshift_assisted_installer",
+    "version": "2.13.7",
+    "created_at": "2023-03-31T17:37:09",
+    "updated_at": "2023-04-03T10:37:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_assisted_installer:2.13.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

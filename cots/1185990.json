@@ -1,0 +1,10 @@
+{
+    "id": 1185990,
+    "name": "wemo_smart_plug_wsp080_firmware",
+    "version": "1.2",
+    "created_at": "2023-10-25T03:24:59",
+    "updated_at": "2023-10-25T03:24:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belkin:wemo_smart_plug_wsp080_firmware:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

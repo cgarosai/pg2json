@@ -1,0 +1,10 @@
+{
+    "id": 1004709,
+    "name": "webpa",
+    "version": "3.3.0",
+    "created_at": "2023-01-11T15:49:37",
+    "updated_at": "2023-01-12T16:12:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lboro:webpa:3.3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

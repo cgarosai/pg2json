@@ -1,0 +1,10 @@
+{
+    "id": 1218148,
+    "name": "woocommerce",
+    "version": "8.1.0",
+    "created_at": "2023-12-12T20:22:32",
+    "updated_at": "2023-12-12T20:22:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:woocommerce:8.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 955883,
+    "name": "billing_system",
+    "version": "1.0",
+    "created_at": "2022-10-17T15:14:01",
+    "updated_at": "2022-10-25T14:04:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:billing_system_project:billing_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

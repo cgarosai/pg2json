@@ -1,0 +1,10 @@
+{
+    "id": 652308,
+    "name": "w1750d_firmware",
+    "version": "8.7.0.0",
+    "created_at": "2021-02-17T18:30:24",
+    "updated_at": "2021-05-26T15:57:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:w1750d_firmware:8.7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

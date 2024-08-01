@@ -1,0 +1,10 @@
+{
+    "id": 206591,
+    "name": "katello",
+    "version": "0.1.106-1",
+    "created_at": "2019-02-06T15:18:21",
+    "updated_at": "2019-02-06T15:18:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:theforeman:katello:0.1.106-1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

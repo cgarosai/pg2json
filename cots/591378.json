@@ -1,0 +1,10 @@
+{
+    "id": 591378,
+    "name": "data_center_network_manager",
+    "version": "10.3\\(1\\)s3",
+    "created_at": "2020-09-18T13:38:47",
+    "updated_at": "2020-09-18T13:38:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:data_center_network_manager:10.3\\(1\\)s3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

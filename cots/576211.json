@@ -1,0 +1,10 @@
+{
+    "id": 576211,
+    "name": "filezilla_client",
+    "version": "3.46.3",
+    "created_at": "2020-07-28T08:19:09",
+    "updated_at": "2020-07-28T08:19:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:filezilla-project:filezilla_client:3.46.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

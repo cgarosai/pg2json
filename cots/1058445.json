@@ -1,0 +1,10 @@
+{
+    "id": 1058445,
+    "name": "experience_manager",
+    "version": "-",
+    "created_at": "2023-03-23T09:42:39",
+    "updated_at": "2023-03-24T15:49:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:experience_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

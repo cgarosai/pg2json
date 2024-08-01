@@ -1,0 +1,10 @@
+{
+    "id": 195047,
+    "name": "aspnet-owin",
+    "version": "-",
+    "created_at": "2018-11-27T13:14:48",
+    "updated_at": "2018-11-27T13:14:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:aspnet-owin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

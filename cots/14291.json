@@ -1,0 +1,10 @@
+{
+    "id": 14291,
+    "name": "java_desktop_system",
+    "version": "2",
+    "created_at": "2008-12-12T15:13:44",
+    "updated_at": "2010-12-29T16:11:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sun:java_desktop_system:2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

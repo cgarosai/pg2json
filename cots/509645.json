@@ -1,0 +1,10 @@
+{
+    "id": 509645,
+    "name": "srx5800_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T14:21:00",
+    "updated_at": "2020-03-06T14:21:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:juniper:srx5800_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 411734,
+    "name": "secret_server",
+    "version": "10.7.000000",
+    "created_at": "2019-10-29T09:54:26",
+    "updated_at": "2019-10-29T09:54:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thycotic:secret_server:10.7.000000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

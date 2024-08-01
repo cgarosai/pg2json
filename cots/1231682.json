@@ -1,0 +1,10 @@
+{
+    "id": 1231682,
+    "name": "fonttools",
+    "version": "2.4",
+    "created_at": "2024-01-16T17:23:16",
+    "updated_at": "2024-01-16T17:23:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fonttools:fonttools:2.4:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

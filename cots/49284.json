@@ -1,0 +1,10 @@
+{
+    "id": 49284,
+    "name": "documentum_eroom",
+    "version": "7.3.0",
+    "created_at": "2011-11-10T15:19:38",
+    "updated_at": "2013-11-06T17:47:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:documentum_eroom:7.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

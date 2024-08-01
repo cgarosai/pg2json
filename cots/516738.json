@@ -1,0 +1,10 @@
+{
+    "id": 516738,
+    "name": "application_inspector",
+    "version": "1.0.23",
+    "created_at": "2020-03-16T13:08:38",
+    "updated_at": "2020-03-16T13:08:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:application_inspector:1.0.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

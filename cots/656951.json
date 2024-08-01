@@ -1,0 +1,10 @@
+{
+    "id": 656951,
+    "name": "consul_docker_image",
+    "version": "1.4.2",
+    "created_at": "2021-02-04T16:50:02",
+    "updated_at": "2021-02-04T16:50:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hashicorp:consul_docker_image:1.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

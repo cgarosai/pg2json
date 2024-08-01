@@ -1,0 +1,10 @@
+{
+    "id": 367530,
+    "name": "seneca",
+    "version": "0.5.15",
+    "created_at": "2019-09-11T16:09:56",
+    "updated_at": "2019-09-11T16:09:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:senecajs:seneca:0.5.15:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

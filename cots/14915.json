@@ -1,0 +1,10 @@
+{
+    "id": 14915,
+    "name": "graphicsmagick",
+    "version": "1.1.13",
+    "created_at": "2009-02-10T16:47:31",
+    "updated_at": "2012-08-10T15:19:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

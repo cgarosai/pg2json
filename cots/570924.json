@@ -1,0 +1,10 @@
+{
+    "id": 570924,
+    "name": "marscode",
+    "version": "1.0.1-0",
+    "created_at": "2020-08-06T11:45:26",
+    "updated_at": "2020-08-06T11:45:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:indo-mars:marscode:1.0.1-0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

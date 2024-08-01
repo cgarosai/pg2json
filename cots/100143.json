@@ -1,0 +1,10 @@
+{
+    "id": 100143,
+    "name": "node_template",
+    "version": "-",
+    "created_at": "2015-06-16T14:33:53",
+    "updated_at": "2015-06-23T17:01:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node_template_project:node_template:-:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

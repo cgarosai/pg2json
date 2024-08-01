@@ -1,0 +1,10 @@
+{
+    "id": 757286,
+    "name": "gitpod",
+    "version": "0.8.0",
+    "created_at": "2021-08-02T18:48:55",
+    "updated_at": "2021-08-05T16:50:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitpod:gitpod:0.8.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

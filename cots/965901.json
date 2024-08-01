@@ -1,0 +1,10 @@
+{
+    "id": 965901,
+    "name": "kekbit",
+    "version": "0.3.3",
+    "created_at": "2022-11-01T10:27:39",
+    "updated_at": "2022-11-01T10:29:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kekbit_project:kekbit:0.3.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

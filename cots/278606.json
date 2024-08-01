@@ -1,0 +1,10 @@
+{
+    "id": 278606,
+    "name": "language_switcher_dropdown",
+    "version": "8.x-2.0",
+    "created_at": "2019-06-25T12:44:51",
+    "updated_at": "2019-06-25T12:44:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:language_switcher_dropdown_project:language_switcher_dropdown:8.x-2.0:beta1:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

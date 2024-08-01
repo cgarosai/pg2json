@@ -1,0 +1,10 @@
+{
+    "id": 808148,
+    "name": "skylake",
+    "version": "-",
+    "created_at": "2021-11-09T16:32:35",
+    "updated_at": "2021-12-27T19:04:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:skylake:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

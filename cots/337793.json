@@ -1,0 +1,10 @@
+{
+    "id": 337793,
+    "name": "hana_database",
+    "version": "2.00",
+    "created_at": "2019-08-12T10:28:15",
+    "updated_at": "2019-08-12T10:28:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:hana_database:2.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

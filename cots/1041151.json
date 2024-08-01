@@ -1,0 +1,10 @@
+{
+    "id": 1041151,
+    "name": "fastly",
+    "version": "0.94",
+    "created_at": "2023-03-10T14:19:40",
+    "updated_at": "2023-03-14T11:23:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastly:fastly:0.94:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

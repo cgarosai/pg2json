@@ -1,0 +1,10 @@
+{
+    "id": 101042,
+    "name": "clutter",
+    "version": "1.16.0",
+    "created_at": "2015-08-12T15:22:02",
+    "updated_at": "2015-09-16T16:49:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clutter_project:clutter:1.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

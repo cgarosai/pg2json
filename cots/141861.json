@@ -1,0 +1,10 @@
+{
+    "id": 141861,
+    "name": "ubuntu_linux",
+    "version": "10.04.3",
+    "created_at": "2018-05-14T13:58:58",
+    "updated_at": "2018-05-14T13:58:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:canonical:ubuntu_linux:10.04.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

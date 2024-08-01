@@ -1,0 +1,10 @@
+{
+    "id": 705628,
+    "name": "cortex",
+    "version": "-",
+    "created_at": "2021-05-06T15:37:10",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:cortex:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

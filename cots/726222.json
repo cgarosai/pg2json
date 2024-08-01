@@ -1,0 +1,10 @@
+{
+    "id": 726222,
+    "name": "rtl8710c_firmware",
+    "version": "-",
+    "created_at": "2021-06-10T09:46:27",
+    "updated_at": "2021-06-28T11:24:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:realtek:rtl8710c_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

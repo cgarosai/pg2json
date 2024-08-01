@@ -1,0 +1,10 @@
+{
+    "id": 70708,
+    "name": "exposed_filter_data",
+    "version": "6.x-1.x",
+    "created_at": "2013-06-28T12:06:31",
+    "updated_at": "2013-07-12T15:47:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobile4social:exposed_filter_data:6.x-1.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

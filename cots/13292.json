@@ -1,0 +1,10 @@
+{
+    "id": 13292,
+    "name": "windows-nt",
+    "version": "vista",
+    "created_at": "2008-10-09T17:04:26",
+    "updated_at": "2011-08-18T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows-nt:vista:sp1:x64-home_premium:*:*:*:*:*",
+    "to_analyse": false
+}

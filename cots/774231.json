@@ -1,0 +1,10 @@
+{
+    "id": 774231,
+    "name": "user-activation-email",
+    "version": "1.2",
+    "created_at": "2021-09-24T12:31:54",
+    "updated_at": "2021-09-24T13:25:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user-activation-email_project:user-activation-email:1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

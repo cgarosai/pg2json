@@ -1,0 +1,10 @@
+{
+    "id": 1169435,
+    "name": "robots-txt-guard",
+    "version": "-",
+    "created_at": "2023-09-28T14:38:45",
+    "updated_at": "2023-09-28T14:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bridgeline:robots-txt-guard:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

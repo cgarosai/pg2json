@@ -1,0 +1,10 @@
+{
+    "id": 474427,
+    "name": "squid_analysis_report_generator",
+    "version": "2.3.8",
+    "created_at": "2020-01-28T12:07:45",
+    "updated_at": "2020-01-28T12:07:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:squid_analysis_report_generator_project:squid_analysis_report_generator:2.3.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

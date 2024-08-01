@@ -1,0 +1,10 @@
+{
+    "id": 505665,
+    "name": "critical_system_protection",
+    "version": "5.2.6",
+    "created_at": "2020-02-28T15:36:21",
+    "updated_at": "2021-08-04T16:55:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:critical_system_protection:5.2.6:mp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

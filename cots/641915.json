@@ -1,0 +1,10 @@
+{
+    "id": 641915,
+    "name": "freetype",
+    "version": "2.4.12",
+    "created_at": "2021-01-26T11:41:29",
+    "updated_at": "2021-01-26T11:41:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freetype:freetype:2.4.12:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

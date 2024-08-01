@@ -1,0 +1,10 @@
+{
+    "id": 129387,
+    "name": "simatic_wincc_flexible_2008",
+    "version": "-",
+    "created_at": "2017-05-22T23:27:46",
+    "updated_at": "2021-06-15T19:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_flexible_2008:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

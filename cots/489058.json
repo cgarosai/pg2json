@@ -1,0 +1,10 @@
+{
+    "id": 489058,
+    "name": "opencast",
+    "version": "6.7",
+    "created_at": "2020-02-03T16:26:13",
+    "updated_at": "2020-02-03T16:26:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apereo:opencast:6.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

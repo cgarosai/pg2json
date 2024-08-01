@@ -1,0 +1,10 @@
+{
+    "id": 1001543,
+    "name": "furnace",
+    "version": "dev119",
+    "created_at": "2023-01-06T13:33:00",
+    "updated_at": "2023-01-06T19:18:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tildearrow:furnace:dev119:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

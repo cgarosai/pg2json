@@ -1,0 +1,10 @@
+{
+    "id": 1071054,
+    "name": "pods",
+    "version": "2.9.10",
+    "created_at": "2023-05-09T14:38:27",
+    "updated_at": "2023-05-10T12:22:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:podsfoundation:pods:2.9.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

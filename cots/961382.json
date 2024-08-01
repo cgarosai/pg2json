@@ -1,0 +1,10 @@
+{
+    "id": 961382,
+    "name": "associated_files",
+    "version": "-",
+    "created_at": "2022-11-16T11:25:59",
+    "updated_at": "2022-11-16T14:47:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:associated_files:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

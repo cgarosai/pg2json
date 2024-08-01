@@ -1,0 +1,10 @@
+{
+    "id": 731659,
+    "name": "wms",
+    "version": "1.0",
+    "created_at": "2021-07-13T09:44:05",
+    "updated_at": "2021-08-18T20:41:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wms_project:wms:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

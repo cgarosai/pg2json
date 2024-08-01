@@ -1,0 +1,10 @@
+{
+    "id": 677041,
+    "name": "magento",
+    "version": "1.6.0.0",
+    "created_at": "2021-03-15T17:32:22",
+    "updated_at": "2021-03-15T17:35:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openmage:magento:1.6.0.0:beta1:*:*:lts:*:*:*",
+    "to_analyse": false
+}

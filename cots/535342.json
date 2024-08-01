@@ -1,0 +1,10 @@
+{
+    "id": 535342,
+    "name": "intune_endpoint_protection",
+    "version": "-",
+    "created_at": "2020-04-14T10:19:57",
+    "updated_at": "2020-04-14T10:19:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:intune_endpoint_protection:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57543,
+    "name": "hmr_test_pack",
+    "version": "2.0.0.0",
+    "created_at": "2012-05-08T11:51:23",
+    "updated_at": "2012-05-08T11:51:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:hmr_test_pack:2.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

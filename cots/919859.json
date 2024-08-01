@@ -1,0 +1,10 @@
+{
+    "id": 919859,
+    "name": "tera2_pcoip_zero_client",
+    "version": "-",
+    "created_at": "2022-08-04T16:04:37",
+    "updated_at": "2022-08-04T17:09:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:teradici:tera2_pcoip_zero_client:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

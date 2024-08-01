@@ -1,0 +1,10 @@
+{
+    "id": 71442,
+    "name": "jboss_enterprise_web_server",
+    "version": "1.0.2",
+    "created_at": "2013-07-10T12:50:58",
+    "updated_at": "2013-07-18T14:33:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_enterprise_web_server:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

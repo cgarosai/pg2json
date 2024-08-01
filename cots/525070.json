@@ -1,0 +1,10 @@
+{
+    "id": 525070,
+    "name": "redis",
+    "version": "0.11.0",
+    "created_at": "2020-03-31T18:26:48",
+    "updated_at": "2020-03-31T18:26:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:anynines:redis:0.11.0:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

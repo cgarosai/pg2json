@@ -1,0 +1,10 @@
+{
+    "id": 151532,
+    "name": "jasperreports_server",
+    "version": "6.3.0",
+    "created_at": "2018-05-25T19:33:08",
+    "updated_at": "2021-04-23T13:10:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:jasperreports_server:6.3.0:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

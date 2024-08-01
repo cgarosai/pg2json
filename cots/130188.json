@@ -1,0 +1,10 @@
+{
+    "id": 130188,
+    "name": "restler",
+    "version": "1.0.0",
+    "created_at": "2017-12-01T21:24:53",
+    "updated_at": "2021-04-21T16:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:luracast:restler:1.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 527786,
+    "name": "service_broker",
+    "version": "1.12.64",
+    "created_at": "2020-04-01T18:19:15",
+    "updated_at": "2020-04-01T18:19:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

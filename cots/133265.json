@@ -1,0 +1,10 @@
+{
+    "id": 133265,
+    "name": "antivirus",
+    "version": "15.1.0306",
+    "created_at": "2018-01-11T16:22:49",
+    "updated_at": "2021-03-29T13:23:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:k7computing:antivirus:15.1.0306:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

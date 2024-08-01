@@ -1,0 +1,10 @@
+{
+    "id": 286194,
+    "name": "nmap",
+    "version": "7.70",
+    "created_at": "2019-07-02T16:17:45",
+    "updated_at": "2019-07-02T16:17:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nmap:nmap:7.70:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

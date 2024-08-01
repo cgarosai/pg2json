@@ -1,0 +1,10 @@
+{
+    "id": 1215628,
+    "name": "astra_trident_autosupport",
+    "version": "-",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:astra_trident_autosupport:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

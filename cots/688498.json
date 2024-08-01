@@ -1,0 +1,10 @@
+{
+    "id": 688498,
+    "name": "slice-deque",
+    "version": "2021-02-19",
+    "created_at": "2021-04-02T10:13:48",
+    "updated_at": "2021-07-30T12:07:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slice-deque_project:slice-deque:2021-02-19:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 510614,
+    "name": "core_i5-8400b_firmware",
+    "version": "-",
+    "created_at": "2020-03-23T17:34:27",
+    "updated_at": "2020-03-23T17:34:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i5-8400b_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

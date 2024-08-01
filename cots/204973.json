@@ -1,0 +1,10 @@
+{
+    "id": 204973,
+    "name": "telecontrol_gateway_vm_firmware",
+    "version": "5.1.20",
+    "created_at": "2019-03-07T14:15:47",
+    "updated_at": "2021-06-25T12:56:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:psigridconnect:telecontrol_gateway_vm_firmware:5.1.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

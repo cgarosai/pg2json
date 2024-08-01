@@ -1,0 +1,10 @@
+{
+    "id": 530412,
+    "name": "d7000_firmware",
+    "version": "1.0.0.51",
+    "created_at": "2020-04-28T09:46:30",
+    "updated_at": "2020-04-28T09:46:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:d7000_firmware:1.0.0.51:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

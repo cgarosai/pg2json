@@ -1,0 +1,10 @@
+{
+    "id": 114147,
+    "name": "netbsd",
+    "version": "7.0",
+    "created_at": "2017-01-20T17:59:41",
+    "updated_at": "2021-06-24T16:53:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netbsd:netbsd:7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

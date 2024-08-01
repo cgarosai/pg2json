@@ -1,0 +1,10 @@
+{
+    "id": 711232,
+    "name": "linux_kernel",
+    "version": "4.18.0-193.el8",
+    "created_at": "2021-06-04T09:54:18",
+    "updated_at": "2021-06-23T16:37:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:4.18.0-193.el8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

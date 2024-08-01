@@ -1,0 +1,10 @@
+{
+    "id": 862588,
+    "name": "security_cloud",
+    "version": "12.03.2022",
+    "created_at": "2022-04-08T13:52:47",
+    "updated_at": "2022-04-29T11:23:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:security_cloud:12.03.2022:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

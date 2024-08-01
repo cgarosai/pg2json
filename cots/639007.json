@@ -1,0 +1,10 @@
+{
+    "id": 639007,
+    "name": "nc55-rp_firmware",
+    "version": "9.30",
+    "created_at": "2020-12-18T13:17:07",
+    "updated_at": "2020-12-18T13:17:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:nc55-rp_firmware:9.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

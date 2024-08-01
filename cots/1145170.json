@@ -1,0 +1,10 @@
+{
+    "id": 1145170,
+    "name": "precision_7540_firmware",
+    "version": "1.27.0",
+    "created_at": "2023-08-22T14:17:57",
+    "updated_at": "2023-08-25T05:27:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:precision_7540_firmware:1.27.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

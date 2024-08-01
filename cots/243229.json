@@ -1,0 +1,10 @@
+{
+    "id": 243229,
+    "name": "cf-release",
+    "version": "147",
+    "created_at": "2019-06-05T13:04:53",
+    "updated_at": "2019-06-05T13:04:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:cf-release:147:hotfixes2:*:*:*:*:*:*",
+    "to_analyse": false
+}

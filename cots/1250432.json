@@ -1,0 +1,10 @@
+{
+    "id": 1250432,
+    "name": "ckeditor",
+    "version": "4.23.0",
+    "created_at": "2024-02-14T16:22:43",
+    "updated_at": "2024-02-14T16:22:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ckeditor:ckeditor:4.23.0:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

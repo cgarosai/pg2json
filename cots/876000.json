@@ -1,0 +1,10 @@
+{
+    "id": 876000,
+    "name": "system_platform",
+    "version": "2020",
+    "created_at": "2022-04-18T11:42:31",
+    "updated_at": "2022-04-26T09:10:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aveva:system_platform:2020:r2s:*:*:*:*:*:*",
+    "to_analyse": false
+}

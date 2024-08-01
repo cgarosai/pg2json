@@ -1,0 +1,10 @@
+{
+    "id": 163150,
+    "name": "wine",
+    "version": "0.4.0",
+    "created_at": "2018-08-16T13:27:03",
+    "updated_at": "2018-08-16T13:27:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:winehq:wine:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

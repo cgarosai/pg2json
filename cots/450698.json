@@ -1,0 +1,10 @@
+{
+    "id": 450698,
+    "name": "arrayfire-js",
+    "version": "0.17.3",
+    "created_at": "2019-12-09T18:19:26",
+    "updated_at": "2019-12-09T18:19:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arrayfire-js_project:arrayfire-js:0.17.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

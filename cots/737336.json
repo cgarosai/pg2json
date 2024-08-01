@@ -1,0 +1,10 @@
+{
+    "id": 737336,
+    "name": "local_manageability_service",
+    "version": "2052.1.0.0",
+    "created_at": "2021-07-02T13:24:14",
+    "updated_at": "2021-07-02T13:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:local_manageability_service:2052.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

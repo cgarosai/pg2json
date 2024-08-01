@@ -1,0 +1,10 @@
+{
+    "id": 894272,
+    "name": "validate_color",
+    "version": "1.0.5",
+    "created_at": "2022-07-01T11:27:41",
+    "updated_at": "2022-07-01T11:38:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:validate_color_project:validate_color:1.0.5:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

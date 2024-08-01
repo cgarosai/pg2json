@@ -1,0 +1,10 @@
+{
+    "id": 19962,
+    "name": "storageworks_secure_path_windows",
+    "version": "4.0c",
+    "created_at": "2007-09-05T20:54:56",
+    "updated_at": "2008-04-15T20:21:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:storageworks_secure_path_windows:4.0c:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

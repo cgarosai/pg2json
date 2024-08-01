@@ -1,0 +1,10 @@
+{
+    "id": 454173,
+    "name": "active_system_console",
+    "version": "8.0",
+    "created_at": "2019-12-11T16:52:12",
+    "updated_at": "2019-12-11T16:52:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:active_system_console:8.0:build24:*:*:*:*:*:*",
+    "to_analyse": false
+}

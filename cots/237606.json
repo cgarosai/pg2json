@@ -1,0 +1,10 @@
+{
+    "id": 237606,
+    "name": "uaa_release",
+    "version": "45.6",
+    "created_at": "2019-05-03T17:07:44",
+    "updated_at": "2019-05-03T17:07:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:uaa_release:45.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

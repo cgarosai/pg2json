@@ -1,0 +1,10 @@
+{
+    "id": 194447,
+    "name": "sysstat",
+    "version": "11.6.4",
+    "created_at": "2019-01-29T13:23:32",
+    "updated_at": "2019-01-29T13:23:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysstat_project:sysstat:11.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

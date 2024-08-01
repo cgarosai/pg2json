@@ -1,0 +1,10 @@
+{
+    "id": 519160,
+    "name": "brain_cube",
+    "version": "2",
+    "created_at": "2020-03-23T10:51:11",
+    "updated_at": "2021-06-17T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hom.ee:brain_cube:2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

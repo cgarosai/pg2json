@@ -1,0 +1,10 @@
+{
+    "id": 65025,
+    "name": "infusion_ce\\/fe\\/scada",
+    "version": "2.5",
+    "created_at": "2012-07-26T18:05:11",
+    "updated_at": "2012-07-30T13:52:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invensys:infusion_ce\\/fe\\/scada:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

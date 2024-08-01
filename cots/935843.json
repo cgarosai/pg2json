@@ -1,0 +1,10 @@
+{
+    "id": 935843,
+    "name": "mds_9710_firmware",
+    "version": "-",
+    "created_at": "2022-08-31T13:24:43",
+    "updated_at": "2022-09-20T18:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:mds_9710_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 44220,
+    "name": "powervault_ml6000_firmware",
+    "version": "585g.gs003",
+    "created_at": "2012-03-22T16:18:10",
+    "updated_at": "2012-03-22T18:02:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:powervault_ml6000_firmware:585g.gs003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

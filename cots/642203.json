@@ -1,0 +1,10 @@
+{
+    "id": 642203,
+    "name": "gin",
+    "version": "-",
+    "created_at": "2021-01-26T15:48:58",
+    "updated_at": "2021-01-26T15:48:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gin-gonic:gin:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

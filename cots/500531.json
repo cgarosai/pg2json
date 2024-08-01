@@ -1,0 +1,10 @@
+{
+    "id": 500531,
+    "name": "websphere_application_server",
+    "version": "8.5",
+    "created_at": "2020-03-06T17:18:37",
+    "updated_at": "2020-03-06T17:18:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 963760,
+    "name": "idaville",
+    "version": "-",
+    "created_at": "2022-11-21T15:31:07",
+    "updated_at": "2022-11-21T16:31:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:idaville:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

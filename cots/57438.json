@@ -1,0 +1,10 @@
+{
+    "id": 57438,
+    "name": "backup_and_restore_system",
+    "version": "4.0.14000",
+    "created_at": "2012-05-08T11:50:56",
+    "updated_at": "2012-05-08T11:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:backup_and_restore_system:4.0.14000:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

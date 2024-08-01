@@ -1,0 +1,10 @@
+{
+    "id": 248651,
+    "name": "strong_authentication",
+    "version": "8.2",
+    "created_at": "2019-05-29T12:22:41",
+    "updated_at": "2021-05-18T11:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:strong_authentication:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1047554,
+    "name": "libheif",
+    "version": "1.15.0",
+    "created_at": "2023-03-07T14:33:14",
+    "updated_at": "2023-03-21T15:31:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:struktur:libheif:1.15.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

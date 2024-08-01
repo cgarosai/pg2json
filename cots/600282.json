@@ -1,0 +1,10 @@
+{
+    "id": 600282,
+    "name": "libnbd",
+    "version": "0.1.7",
+    "created_at": "2020-10-07T17:38:47",
+    "updated_at": "2020-10-07T17:38:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:libnbd:0.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

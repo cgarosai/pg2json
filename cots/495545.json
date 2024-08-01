@@ -1,0 +1,10 @@
+{
+    "id": 495545,
+    "name": "edgeswitch_firmware",
+    "version": "1.7.3",
+    "created_at": "2020-02-11T16:48:06",
+    "updated_at": "2020-02-11T16:48:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:edgeswitch_firmware:1.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

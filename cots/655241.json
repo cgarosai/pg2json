@@ -1,0 +1,10 @@
+{
+    "id": 655241,
+    "name": "cygnus_network_security",
+    "version": "-",
+    "created_at": "2021-02-02T13:37:26",
+    "updated_at": "2021-05-27T15:03:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cygnus_network_security_project:cygnus_network_security:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 32000,
+    "name": "e64",
+    "version": "-",
+    "created_at": "2011-01-25T14:30:18",
+    "updated_at": "2011-01-25T14:30:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:e64:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

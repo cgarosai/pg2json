@@ -1,0 +1,10 @@
+{
+    "id": 634020,
+    "name": "nsg_firmware",
+    "version": "1.33",
+    "created_at": "2021-01-05T12:41:58",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:nsg_firmware:1.33:patch1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 576097,
+    "name": "safe",
+    "version": "17.7",
+    "created_at": "2020-07-27T15:34:20",
+    "updated_at": "2020-07-27T15:34:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:safe:17.7:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

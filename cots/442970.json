@@ -1,0 +1,10 @@
+{
+    "id": 442970,
+    "name": "power_5_firmware",
+    "version": "-",
+    "created_at": "2019-12-04T12:00:23",
+    "updated_at": "2022-02-10T14:17:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:legaoo:power_5_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

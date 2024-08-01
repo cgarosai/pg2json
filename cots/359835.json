@@ -1,0 +1,10 @@
+{
+    "id": 359835,
+    "name": "barebox",
+    "version": "2019.04.0",
+    "created_at": "2019-09-05T15:49:56",
+    "updated_at": "2019-09-05T15:49:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pengutronix:barebox:2019.04.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

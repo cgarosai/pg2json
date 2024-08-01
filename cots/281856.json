@@ -1,0 +1,10 @@
+{
+    "id": 281856,
+    "name": "puppet_dashboard",
+    "version": "1.2.22",
+    "created_at": "2019-07-11T09:37:29",
+    "updated_at": "2019-07-11T09:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:puppet_dashboard:1.2.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 438276,
+    "name": "diagnostics_agent",
+    "version": "7.2",
+    "created_at": "2019-11-18T11:15:12",
+    "updated_at": "2019-11-18T11:15:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:diagnostics_agent:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

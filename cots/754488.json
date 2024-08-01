@@ -1,0 +1,10 @@
+{
+    "id": 754488,
+    "name": "application_delivery_management",
+    "version": "12.1-62.25",
+    "created_at": "2021-08-13T10:51:10",
+    "updated_at": "2021-08-19T12:03:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:application_delivery_management:12.1-62.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

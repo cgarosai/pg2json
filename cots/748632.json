@@ -1,0 +1,10 @@
+{
+    "id": 748632,
+    "name": "esp32_firmware",
+    "version": "-",
+    "created_at": "2021-07-21T14:58:45",
+    "updated_at": "2021-09-23T17:45:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:espressif:esp32_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

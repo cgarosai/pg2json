@@ -1,0 +1,10 @@
+{
+    "id": 509139,
+    "name": "fxos",
+    "version": "2.2.2.54",
+    "created_at": "2020-03-05T18:11:07",
+    "updated_at": "2023-04-20T13:12:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:fxos:2.2.2.54:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

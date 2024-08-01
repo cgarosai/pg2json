@@ -1,0 +1,10 @@
+{
+    "id": 700924,
+    "name": "photo_gallery",
+    "version": "-",
+    "created_at": "2021-05-20T14:10:05",
+    "updated_at": "2021-05-20T16:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:10web:photo_gallery:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

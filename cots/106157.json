@@ -1,0 +1,10 @@
+{
+    "id": 106157,
+    "name": "meraki_mr_firmware",
+    "version": "2014-09-24",
+    "created_at": "2014-12-24T14:11:54",
+    "updated_at": "2015-03-25T17:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:meraki_mr_firmware:2014-09-24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

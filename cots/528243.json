@@ -1,0 +1,10 @@
+{
+    "id": 528243,
+    "name": "apq8076_firmware",
+    "version": "-",
+    "created_at": "2020-04-02T11:54:20",
+    "updated_at": "2020-04-02T11:54:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:apq8076_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

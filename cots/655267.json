@@ -1,0 +1,10 @@
+{
+    "id": 655267,
+    "name": "async-git",
+    "version": "1.13.2",
+    "created_at": "2021-02-02T13:44:29",
+    "updated_at": "2021-02-02T13:44:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:async-git_project:async-git:1.13.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

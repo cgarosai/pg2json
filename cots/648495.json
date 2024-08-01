@@ -1,0 +1,10 @@
+{
+    "id": 648495,
+    "name": "skype",
+    "version": "-",
+    "created_at": "2021-01-13T13:42:01",
+    "updated_at": "2021-01-13T13:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:skype:-:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

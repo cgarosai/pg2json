@@ -1,0 +1,10 @@
+{
+    "id": 618041,
+    "name": "azure_key_vault",
+    "version": "1.9",
+    "created_at": "2020-11-05T18:34:47",
+    "updated_at": "2020-11-05T18:34:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:azure_key_vault:1.9:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

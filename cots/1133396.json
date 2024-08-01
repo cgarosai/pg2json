@@ -1,0 +1,10 @@
+{
+    "id": 1133396,
+    "name": "netbackup_snapshot_manager",
+    "version": "10.2.0.1",
+    "created_at": "2023-08-18T13:07:39",
+    "updated_at": "2023-08-18T15:11:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:netbackup_snapshot_manager:10.2.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

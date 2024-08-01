@@ -1,0 +1,10 @@
+{
+    "id": 761884,
+    "name": "cortex-35p_firmware",
+    "version": "r0",
+    "created_at": "2021-08-26T15:52:10",
+    "updated_at": "2021-09-22T10:56:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arm:cortex-35p_firmware:r0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

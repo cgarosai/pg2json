@@ -1,0 +1,10 @@
+{
+    "id": 111814,
+    "name": "word_automation_services",
+    "version": "-",
+    "created_at": "2016-10-14T15:41:37",
+    "updated_at": "2021-08-05T14:10:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:word_automation_services:-:*:*:*:*:sharepoint:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 755208,
+    "name": "rxvt-unicode",
+    "version": "4.9",
+    "created_at": "2021-07-29T16:18:47",
+    "updated_at": "2021-07-30T14:35:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rxvt-unicode_project:rxvt-unicode:4.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

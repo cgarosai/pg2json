@@ -1,0 +1,10 @@
+{
+    "id": 268371,
+    "name": "expressionengine",
+    "version": "2.4.0",
+    "created_at": "2019-06-15T17:55:13",
+    "updated_at": "2020-07-06T17:45:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ellislab:expressionengine:2.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

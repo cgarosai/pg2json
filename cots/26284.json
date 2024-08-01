@@ -1,0 +1,10 @@
+{
+    "id": 26284,
+    "name": "webkit",
+    "version": "522",
+    "created_at": "2009-04-24T17:04:19",
+    "updated_at": "2009-04-24T17:04:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:webkit:522:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

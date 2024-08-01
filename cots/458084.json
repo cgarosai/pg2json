@@ -1,0 +1,10 @@
+{
+    "id": 458084,
+    "name": "scala",
+    "version": "2.11.4",
+    "created_at": "2019-12-09T12:39:00",
+    "updated_at": "2019-12-09T12:39:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scala-lang:scala:2.11.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

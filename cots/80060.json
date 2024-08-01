@@ -1,0 +1,10 @@
+{
+    "id": 80060,
+    "name": "edge2",
+    "version": "lh330",
+    "created_at": "2014-01-16T19:52:53",
+    "updated_at": "2014-04-24T17:23:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:lorextechnology:edge2:lh330:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

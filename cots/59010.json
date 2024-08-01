@@ -1,0 +1,10 @@
+{
+    "id": 59010,
+    "name": "status",
+    "version": "110.0.180.0",
+    "created_at": "2012-05-14T21:32:40",
+    "updated_at": "2012-05-14T21:32:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:status:110.0.180.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

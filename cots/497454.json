@@ -1,0 +1,10 @@
+{
+    "id": 497454,
+    "name": "antivir_webgate_suite",
+    "version": "8.2.12.58",
+    "created_at": "2020-02-18T15:11:05",
+    "updated_at": "2021-05-06T11:19:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avira:antivir_webgate_suite:8.2.12.58:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

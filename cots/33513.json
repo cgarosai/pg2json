@@ -1,0 +1,10 @@
+{
+    "id": 33513,
+    "name": "quagga",
+    "version": "0.99.10",
+    "created_at": "2011-03-30T15:17:06",
+    "updated_at": "2011-03-30T18:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quagga:quagga:0.99.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

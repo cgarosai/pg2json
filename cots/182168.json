@@ -1,0 +1,10 @@
+{
+    "id": 182168,
+    "name": "kaspersky_anti-virus",
+    "version": "3.5.132.2",
+    "created_at": "2018-11-19T11:27:44",
+    "updated_at": "2018-11-19T11:27:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kaspersky:kaspersky_anti-virus:3.5.132.2:*:*:*:*:sendmail:*:*",
+    "to_analyse": false
+}

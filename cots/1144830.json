@@ -1,0 +1,10 @@
+{
+    "id": 1144830,
+    "name": "imaging",
+    "version": "1.1.0",
+    "created_at": "2023-09-08T12:44:28",
+    "updated_at": "2023-09-09T00:39:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:disintegration:imaging:1.1.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

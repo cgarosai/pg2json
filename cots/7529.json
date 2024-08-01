@@ -1,0 +1,10 @@
+{
+    "id": 7529,
+    "name": "activeperl",
+    "version": "5.6.1.630",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:activestate:activeperl:5.6.1.630:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

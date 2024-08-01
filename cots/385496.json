@@ -1,0 +1,10 @@
+{
+    "id": 385496,
+    "name": "fresh",
+    "version": "0.5.2",
+    "created_at": "2019-09-23T16:05:38",
+    "updated_at": "2019-09-23T16:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fresh_project:fresh:0.5.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

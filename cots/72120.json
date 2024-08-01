@@ -1,0 +1,10 @@
+{
+    "id": 72120,
+    "name": "sawmill",
+    "version": "8.5",
+    "created_at": "2013-07-30T13:24:32",
+    "updated_at": "2013-07-31T23:31:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sawmill:sawmill:8.5:b3:*:*:*:*:*:*",
+    "to_analyse": false
+}

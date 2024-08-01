@@ -1,0 +1,10 @@
+{
+    "id": 986055,
+    "name": "db2u",
+    "version": "4.0",
+    "created_at": "2022-12-06T15:47:48",
+    "updated_at": "2022-12-15T15:40:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2u:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

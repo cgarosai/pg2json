@@ -1,0 +1,10 @@
+{
+    "id": 1186083,
+    "name": "openstack_platform",
+    "version": "13.0",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openstack_platform:13.0:*:*:*:els:*:*:*",
+    "to_analyse": false
+}

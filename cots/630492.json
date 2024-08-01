@@ -1,0 +1,10 @@
+{
+    "id": 630492,
+    "name": "duo_authentication_for_windows_logon_and_rdp",
+    "version": "1.1.4",
+    "created_at": "2020-12-22T14:36:10",
+    "updated_at": "2020-12-22T14:36:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:duo_authentication_for_windows_logon_and_rdp:1.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 47684,
+    "name": "apt",
+    "version": "0.8.14",
+    "created_at": "2011-07-27T12:08:32",
+    "updated_at": "2020-01-08T14:12:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:apt:0.8.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

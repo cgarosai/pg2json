@@ -1,0 +1,10 @@
+{
+    "id": 1148496,
+    "name": "binaryen",
+    "version": "1.37.0",
+    "created_at": "2023-08-25T11:20:11",
+    "updated_at": "2023-08-25T11:34:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webassembly:binaryen:1.37.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

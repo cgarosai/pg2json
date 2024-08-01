@@ -1,0 +1,10 @@
+{
+    "id": 581405,
+    "name": "installed_base",
+    "version": "12.2.4",
+    "created_at": "2020-08-25T12:55:45",
+    "updated_at": "2020-08-25T12:55:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:installed_base:12.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

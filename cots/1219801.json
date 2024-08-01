@@ -1,0 +1,10 @@
+{
+    "id": 1219801,
+    "name": "syrus_4g_iot_telematics_gateway_firmware",
+    "version": "apex-23.43.2",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:digitalcomtech:syrus_4g_iot_telematics_gateway_firmware:apex-23.43.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

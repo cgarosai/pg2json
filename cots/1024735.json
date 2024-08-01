@@ -1,0 +1,10 @@
+{
+    "id": 1024735,
+    "name": "cvat",
+    "version": "0.5.0",
+    "created_at": "2023-02-16T14:22:55",
+    "updated_at": "2023-02-16T15:20:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cvat:cvat:0.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

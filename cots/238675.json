@@ -1,0 +1,10 @@
+{
+    "id": 238675,
+    "name": "windows_8",
+    "version": "-",
+    "created_at": "2019-05-07T12:19:59",
+    "updated_at": "2019-05-07T12:19:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_8:-:*:*:*:pro:*:x64:*",
+    "to_analyse": false
+}

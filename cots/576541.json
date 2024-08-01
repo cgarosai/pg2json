@@ -1,0 +1,10 @@
+{
+    "id": 576541,
+    "name": "thinkpad_25_firmware",
+    "version": "5.2.3540.26",
+    "created_at": "2020-07-28T09:26:20",
+    "updated_at": "2021-05-05T12:09:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkpad_25_firmware:5.2.3540.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

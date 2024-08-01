@@ -1,0 +1,10 @@
+{
+    "id": 864020,
+    "name": "aerocms",
+    "version": "0.0.1",
+    "created_at": "2022-04-12T22:56:01",
+    "updated_at": "2022-05-16T01:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aerocms_project:aerocms:0.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

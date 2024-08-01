@@ -1,0 +1,10 @@
+{
+    "id": 583948,
+    "name": "common",
+    "version": "2.7.2",
+    "created_at": "2020-09-02T11:17:30",
+    "updated_at": "2020-09-02T11:17:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:doctrine-project:common:2.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

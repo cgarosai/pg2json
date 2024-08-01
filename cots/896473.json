@@ -1,0 +1,10 @@
+{
+    "id": 896473,
+    "name": "magnetom_numaris_x_firmware",
+    "version": "va12m",
+    "created_at": "2022-06-10T15:34:29",
+    "updated_at": "2022-06-10T17:39:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:magnetom_numaris_x_firmware:va12m:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

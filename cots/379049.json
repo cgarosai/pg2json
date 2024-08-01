@@ -1,0 +1,10 @@
+{
+    "id": 379049,
+    "name": "datapower_gateway",
+    "version": "2018.4.1.2",
+    "created_at": "2019-09-19T12:30:43",
+    "updated_at": "2019-09-19T12:30:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 829333,
+    "name": "janus",
+    "version": "0.11.6",
+    "created_at": "2021-12-17T19:40:53",
+    "updated_at": "2021-12-17T19:41:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:meetecho:janus:0.11.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

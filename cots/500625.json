@@ -1,0 +1,10 @@
+{
+    "id": 500625,
+    "name": "exaplog",
+    "version": "-",
+    "created_at": "2020-03-06T17:41:32",
+    "updated_at": "2020-03-06T17:41:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yokogawa:exaplog:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

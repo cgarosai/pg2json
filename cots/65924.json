@@ -1,0 +1,10 @@
+{
+    "id": 65924,
+    "name": "workstation",
+    "version": "8.0.1.27038",
+    "created_at": "2012-08-01T19:33:48",
+    "updated_at": "2012-08-01T19:33:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:workstation:8.0.1.27038:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

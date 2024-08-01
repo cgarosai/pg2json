@@ -1,0 +1,10 @@
+{
+    "id": 1228496,
+    "name": "project_assistant",
+    "version": "2.3",
+    "created_at": "2023-12-27T13:07:09",
+    "updated_at": "2023-12-27T13:07:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:project_assistant:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

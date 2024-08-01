@@ -1,0 +1,10 @@
+{
+    "id": 363067,
+    "name": "restforce",
+    "version": "0.0.6",
+    "created_at": "2019-09-17T13:59:38",
+    "updated_at": "2019-09-17T13:59:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:restforce:restforce:0.0.6:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

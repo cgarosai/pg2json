@@ -1,0 +1,10 @@
+{
+    "id": 1215873,
+    "name": "global_management_system",
+    "version": "9.3.2",
+    "created_at": "2023-12-09T03:57:34",
+    "updated_at": "2023-12-09T03:57:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:global_management_system:9.3.2:sp1:*:*:windows:*:*:*",
+    "to_analyse": false
+}

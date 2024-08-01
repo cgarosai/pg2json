@@ -1,0 +1,10 @@
+{
+    "id": 475938,
+    "name": "postie",
+    "version": "1.5.14",
+    "created_at": "2020-01-10T15:54:02",
+    "updated_at": "2020-01-10T15:54:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:postieplugin:postie:1.5.14:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 639693,
+    "name": "thingsboard",
+    "version": "2.3",
+    "created_at": "2020-12-18T20:15:48",
+    "updated_at": "2020-12-18T20:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thingsboard:thingsboard:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 289440,
+    "name": "calamares",
+    "version": "3.2",
+    "created_at": "2019-07-08T14:31:39",
+    "updated_at": "2019-07-08T14:31:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:calamares:calamares:3.2:rc5:*:*:*:*:*:*",
+    "to_analyse": false
+}

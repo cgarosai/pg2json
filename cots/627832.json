@@ -1,0 +1,10 @@
+{
+    "id": 627832,
+    "name": "osm-static-maps",
+    "version": "3.4.0",
+    "created_at": "2020-12-02T16:11:00",
+    "updated_at": "2020-12-02T16:11:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osm-static-maps_project:osm-static-maps:3.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 391314,
+    "name": "hana_xs",
+    "version": "2.00",
+    "created_at": "2019-10-02T13:19:42",
+    "updated_at": "2019-10-02T13:19:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:hana_xs:2.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

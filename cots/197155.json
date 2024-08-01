@@ -1,0 +1,10 @@
+{
+    "id": 197155,
+    "name": "meraki_mr_25_firmware",
+    "version": "25.11",
+    "created_at": "2018-12-11T14:44:28",
+    "updated_at": "2021-04-21T16:30:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:meraki_mr_25_firmware:25.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

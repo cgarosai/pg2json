@@ -1,0 +1,10 @@
+{
+    "id": 7439,
+    "name": "platform_sa",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:18:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:windriver:platform_sa:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

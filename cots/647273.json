@@ -1,0 +1,10 @@
+{
+    "id": 647273,
+    "name": "portable_phpmyadmin",
+    "version": "-",
+    "created_at": "2021-01-11T15:09:53",
+    "updated_at": "2021-01-11T15:09:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:portable_phpmyadmin_project:portable_phpmyadmin:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

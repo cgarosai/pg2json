@@ -1,0 +1,10 @@
+{
+    "id": 934550,
+    "name": "tesla",
+    "version": "4.23",
+    "created_at": "2022-09-19T14:08:57",
+    "updated_at": "2022-10-05T12:00:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tesla:tesla:4.23:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

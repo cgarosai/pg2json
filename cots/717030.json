@@ -1,0 +1,10 @@
+{
+    "id": 717030,
+    "name": "matrix-react-sdk",
+    "version": "3.22.0",
+    "created_at": "2021-05-28T14:52:01",
+    "updated_at": "2021-05-28T14:53:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix-react-sdk_project:matrix-react-sdk:3.22.0:-:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

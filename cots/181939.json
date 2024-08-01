@@ -1,0 +1,10 @@
+{
+    "id": 181939,
+    "name": "json-patch",
+    "version": "-",
+    "created_at": "2018-11-14T19:15:14",
+    "updated_at": "2023-02-07T15:41:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:json-patch_project:json-patch:-:*:*:*:*:*:*:go",
+    "to_analyse": false
+}

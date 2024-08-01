@@ -1,0 +1,10 @@
+{
+    "id": 10101,
+    "name": "biztalk_server",
+    "version": "2004",
+    "created_at": "2007-09-12T20:53:48",
+    "updated_at": "2008-04-15T21:33:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:biztalk_server:2004:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 85199,
+    "name": "ngircd",
+    "version": "20.0",
+    "created_at": "2013-10-02T15:08:03",
+    "updated_at": "2013-10-02T15:12:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:barton:ngircd:20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

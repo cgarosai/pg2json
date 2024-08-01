@@ -1,0 +1,10 @@
+{
+    "id": 490863,
+    "name": "s1700_firmware",
+    "version": "v100r006c00",
+    "created_at": "2020-02-21T21:28:01",
+    "updated_at": "2020-02-21T21:28:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s1700_firmware:v100r006c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

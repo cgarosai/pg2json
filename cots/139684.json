@@ -1,0 +1,10 @@
+{
+    "id": 139684,
+    "name": "lan_disk_connect",
+    "version": "-",
+    "created_at": "2017-11-28T19:27:23",
+    "updated_at": "2021-05-04T14:37:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:iodata:lan_disk_connect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

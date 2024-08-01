@@ -1,0 +1,10 @@
+{
+    "id": 830642,
+    "name": "lens",
+    "version": "4.0.0",
+    "created_at": "2022-01-25T17:37:12",
+    "updated_at": "2022-01-25T17:45:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mirantis:lens:4.0.0:alpha5:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 671379,
+    "name": "redcloth",
+    "version": "4.2.2",
+    "created_at": "2021-03-19T18:36:24",
+    "updated_at": "2021-03-22T15:06:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:promptworks:redcloth:4.2.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 130796,
+    "name": "fulltext_server",
+    "version": "6.11",
+    "created_at": "2017-12-08T15:25:14",
+    "updated_at": "2021-05-28T12:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docuware:fulltext_server:6.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

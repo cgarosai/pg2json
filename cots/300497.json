@@ -1,0 +1,10 @@
+{
+    "id": 300497,
+    "name": "imageinject",
+    "version": "0.52",
+    "created_at": "2019-07-23T10:26:18",
+    "updated_at": "2019-07-23T10:26:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpscoop:imageinject:0.52:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

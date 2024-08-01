@@ -1,0 +1,10 @@
+{
+    "id": 930199,
+    "name": "geonetwork",
+    "version": "3.12.4",
+    "created_at": "2022-09-09T11:24:28",
+    "updated_at": "2022-09-09T14:17:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osgeo:geonetwork:3.12.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

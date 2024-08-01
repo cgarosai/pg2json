@@ -1,0 +1,10 @@
+{
+    "id": 1134080,
+    "name": "epyc_9384x_firmware",
+    "version": "genoapi_1.0.0.9",
+    "created_at": "2023-08-21T13:43:14",
+    "updated_at": "2023-08-21T16:35:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_9384x_firmware:genoapi_1.0.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

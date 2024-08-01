@@ -1,0 +1,10 @@
+{
+    "id": 883384,
+    "name": "gateway_plug-in",
+    "version": "21.9.1.2",
+    "created_at": "2022-06-07T12:33:38",
+    "updated_at": "2022-10-28T11:54:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:gateway_plug-in:21.9.1.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

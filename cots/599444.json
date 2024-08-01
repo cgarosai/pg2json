@@ -1,0 +1,10 @@
+{
+    "id": 599444,
+    "name": "netease_mail_master",
+    "version": "4.14.1.1004",
+    "created_at": "2020-09-11T18:52:34",
+    "updated_at": "2020-09-11T18:52:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:163:netease_mail_master:4.14.1.1004:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

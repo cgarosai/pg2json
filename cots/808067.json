@@ -1,0 +1,10 @@
+{
+    "id": 808067,
+    "name": "support_board",
+    "version": "-",
+    "created_at": "2021-11-09T16:06:36",
+    "updated_at": "2021-11-12T14:33:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schiocco:support_board:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

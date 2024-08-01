@@ -1,0 +1,10 @@
+{
+    "id": 936528,
+    "name": "manageengine_oputils",
+    "version": "12.6",
+    "created_at": "2022-09-01T13:20:06",
+    "updated_at": "2022-09-22T17:30:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_oputils:12.6:build126119:*:*:*:*:*:*",
+    "to_analyse": false
+}

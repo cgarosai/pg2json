@@ -1,0 +1,10 @@
+{
+    "id": 98981,
+    "name": "interscan_web_security_suite",
+    "version": "2.5",
+    "created_at": "2014-06-16T16:31:55",
+    "updated_at": "2014-06-16T16:32:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 465598,
+    "name": "epm_agent",
+    "version": "10.2.26",
+    "created_at": "2019-12-13T14:30:39",
+    "updated_at": "2019-12-13T14:30:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eracent:epm_agent:10.2.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

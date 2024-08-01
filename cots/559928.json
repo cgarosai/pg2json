@@ -1,0 +1,10 @@
+{
+    "id": 559928,
+    "name": "graphql-playground-middleware-hapi",
+    "version": "1.6.10",
+    "created_at": "2020-06-11T13:47:45",
+    "updated_at": "2020-06-11T13:47:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prisma:graphql-playground-middleware-hapi:1.6.10:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

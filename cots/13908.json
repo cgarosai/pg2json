@@ -1,0 +1,10 @@
+{
+    "id": 13908,
+    "name": "office_communications_server",
+    "version": "-",
+    "created_at": "2008-11-20T19:56:17",
+    "updated_at": "2008-11-20T19:56:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_communications_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

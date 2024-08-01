@@ -1,0 +1,10 @@
+{
+    "id": 49726,
+    "name": "active_cms",
+    "version": "1.2",
+    "created_at": "2011-11-29T14:17:47",
+    "updated_at": "2011-12-19T19:04:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:activedev:active_cms:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

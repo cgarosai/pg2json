@@ -1,0 +1,10 @@
+{
+    "id": 527011,
+    "name": "surface_hub",
+    "version": "-",
+    "created_at": "2020-04-01T15:21:34",
+    "updated_at": "2020-04-01T15:21:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:microsoft:surface_hub:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

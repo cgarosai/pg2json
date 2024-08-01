@@ -1,0 +1,10 @@
+{
+    "id": 434323,
+    "name": "emacs",
+    "version": "17.48",
+    "created_at": "2019-11-21T16:21:24",
+    "updated_at": "2019-11-21T16:21:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:emacs:17.48:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

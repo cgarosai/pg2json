@@ -1,0 +1,10 @@
+{
+    "id": 756691,
+    "name": "secure_external_authentication_server",
+    "version": "6.0.2",
+    "created_at": "2021-07-30T23:06:34",
+    "updated_at": "2022-04-06T18:07:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:secure_external_authentication_server:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

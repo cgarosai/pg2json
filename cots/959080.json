@@ -1,0 +1,10 @@
+{
+    "id": 959080,
+    "name": "job_import",
+    "version": "3.5",
+    "created_at": "2022-10-20T15:07:31",
+    "updated_at": "2022-10-20T16:13:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:job_import:3.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

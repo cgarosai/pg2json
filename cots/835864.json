@@ -1,0 +1,10 @@
+{
+    "id": 835864,
+    "name": "wolfmqtt",
+    "version": "1.2",
+    "created_at": "2022-01-11T16:46:50",
+    "updated_at": "2022-02-07T18:04:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wolfssl:wolfmqtt:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

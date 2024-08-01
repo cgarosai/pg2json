@@ -1,0 +1,10 @@
+{
+    "id": 216864,
+    "name": "appdynamics",
+    "version": "1.0.12",
+    "created_at": "2019-03-12T18:10:59",
+    "updated_at": "2019-03-12T18:10:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:appdynamics:1.0.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

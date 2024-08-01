@@ -1,0 +1,10 @@
+{
+    "id": 467454,
+    "name": "wrn_150_firmware",
+    "version": "1.0.18",
+    "created_at": "2019-12-17T17:40:20",
+    "updated_at": "2019-12-17T17:40:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intelbras:wrn_150_firmware:1.0.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 447190,
+    "name": "accurev",
+    "version": "0.7.12",
+    "created_at": "2019-11-26T13:27:10",
+    "updated_at": "2019-11-26T13:27:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:accurev:0.7.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

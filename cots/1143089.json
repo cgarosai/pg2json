@@ -1,0 +1,10 @@
+{
+    "id": 1143089,
+    "name": "service_router_linux",
+    "version": "-",
+    "created_at": "2023-09-05T12:40:11",
+    "updated_at": "2023-09-07T16:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nokia:service_router_linux:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

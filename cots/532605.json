@@ -1,0 +1,10 @@
+{
+    "id": 532605,
+    "name": "faye",
+    "version": "1.0.0",
+    "created_at": "2020-05-01T14:25:25",
+    "updated_at": "2020-05-01T14:25:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:faye_project:faye:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

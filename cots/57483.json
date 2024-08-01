@@ -1,0 +1,10 @@
+{
+    "id": 57483,
+    "name": "voice_log_translator",
+    "version": "2.5.14",
+    "created_at": "2012-05-08T11:51:09",
+    "updated_at": "2012-05-08T11:51:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:voice_log_translator:2.5.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

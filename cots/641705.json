@@ -1,0 +1,10 @@
+{
+    "id": 641705,
+    "name": "gluster-block",
+    "version": "0.5.1",
+    "created_at": "2021-01-25T17:41:13",
+    "updated_at": "2021-01-25T17:41:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:gluster-block:0.5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

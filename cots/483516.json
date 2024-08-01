@@ -1,0 +1,10 @@
+{
+    "id": 483516,
+    "name": "ironport_web_security_appliance",
+    "version": "-",
+    "created_at": "2020-02-07T17:05:40",
+    "updated_at": "2020-02-07T17:05:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ironport_web_security_appliance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 403445,
+    "name": "diactoros",
+    "version": "1.8.2",
+    "created_at": "2019-10-17T13:16:41",
+    "updated_at": "2019-10-17T13:16:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zend:diactoros:1.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

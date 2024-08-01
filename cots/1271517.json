@@ -1,0 +1,10 @@
+{
+    "id": 1271517,
+    "name": "nomad_server_on_domino",
+    "version": "1.0.10",
+    "created_at": "2024-07-08T15:05:19",
+    "updated_at": "2024-07-08T15:05:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:nomad_server_on_domino:1.0.10:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

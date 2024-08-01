@@ -1,0 +1,10 @@
+{
+    "id": 483463,
+    "name": "tizen",
+    "version": "-",
+    "created_at": "2020-02-07T15:02:49",
+    "updated_at": "2020-02-07T15:02:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:tizen:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

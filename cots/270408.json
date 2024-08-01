@@ -1,0 +1,10 @@
+{
+    "id": 270408,
+    "name": "open-xchange_push_certificates",
+    "version": "7.8.3",
+    "created_at": "2019-06-26T13:05:24",
+    "updated_at": "2019-06-26T13:05:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-xchange:open-xchange_push_certificates:7.8.3:revision7:*:*:*:ox_drive:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 198615,
+    "name": "gdb",
+    "version": "7.7.1",
+    "created_at": "2018-12-31T16:53:00",
+    "updated_at": "2018-12-31T16:53:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gdb:7.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

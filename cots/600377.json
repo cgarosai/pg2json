@@ -1,0 +1,10 @@
+{
+    "id": 600377,
+    "name": "encs_5412-w_firmware",
+    "version": "6.4\\(3d\\)",
+    "created_at": "2020-10-08T09:17:34",
+    "updated_at": "2020-10-08T09:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:encs_5412-w_firmware:6.4\\(3d\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

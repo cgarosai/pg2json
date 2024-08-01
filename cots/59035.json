@@ -1,0 +1,10 @@
+{
+    "id": 59035,
+    "name": "storageworks_red_hat_enterprise_linux_3.0_host_agent_files",
+    "version": "2.22.0",
+    "created_at": "2012-05-14T21:32:49",
+    "updated_at": "2012-05-14T21:32:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:storageworks_red_hat_enterprise_linux_3.0_host_agent_files:2.22.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

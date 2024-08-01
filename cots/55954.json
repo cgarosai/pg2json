@@ -1,0 +1,10 @@
+{
+    "id": 55954,
+    "name": "connector_for_veritas_configuration_manager",
+    "version": "6.0.1039",
+    "created_at": "2012-04-24T21:21:45",
+    "updated_at": "2012-04-24T21:21:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:connector_for_veritas_configuration_manager:6.0.1039:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

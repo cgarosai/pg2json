@@ -1,0 +1,10 @@
+{
+    "id": 999031,
+    "name": "wp_stripe_checkout",
+    "version": "1.2.2.13",
+    "created_at": "2022-12-21T13:58:07",
+    "updated_at": "2022-12-21T17:05:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:noorsplugin:wp_stripe_checkout:1.2.2.13:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

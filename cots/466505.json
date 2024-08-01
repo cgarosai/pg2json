@@ -1,0 +1,10 @@
+{
+    "id": 466505,
+    "name": "iproute2",
+    "version": "4.17.0",
+    "created_at": "2019-12-16T18:40:15",
+    "updated_at": "2019-12-16T18:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iproute2_project:iproute2:4.17.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

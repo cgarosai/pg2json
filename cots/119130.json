@@ -1,0 +1,10 @@
+{
+    "id": 119130,
+    "name": "ios_receiver",
+    "version": "6.1.5",
+    "created_at": "2016-06-17T15:19:17",
+    "updated_at": "2021-05-13T12:28:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:ios_receiver:6.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 449669,
+    "name": "xeon_e-2276ml_firmware",
+    "version": "-",
+    "created_at": "2019-12-02T16:29:31",
+    "updated_at": "2019-12-02T16:29:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_e-2276ml_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

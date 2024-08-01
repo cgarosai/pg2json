@@ -1,0 +1,10 @@
+{
+    "id": 580187,
+    "name": "nis-utils",
+    "version": "-",
+    "created_at": "2020-08-21T16:30:41",
+    "updated_at": "2020-08-21T16:30:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nis-utils_project:nis-utils:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

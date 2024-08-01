@@ -1,0 +1,10 @@
+{
+    "id": 536778,
+    "name": "big-ip_websafe",
+    "version": "11.5.4.4",
+    "created_at": "2020-04-14T15:42:57",
+    "updated_at": "2021-05-14T14:05:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_websafe:11.5.4.4:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

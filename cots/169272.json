@@ -1,0 +1,10 @@
+{
+    "id": 169272,
+    "name": "micrologix_1400_b_firmware",
+    "version": "21.003",
+    "created_at": "2018-07-18T17:34:33",
+    "updated_at": "2021-05-24T16:19:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:micrologix_1400_b_firmware:21.003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

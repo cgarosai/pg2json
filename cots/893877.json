@@ -1,0 +1,10 @@
+{
+    "id": 893877,
+    "name": "http_server",
+    "version": "1.2.0",
+    "created_at": "2022-06-30T13:18:03",
+    "updated_at": "2022-06-30T13:18:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:http_server:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 663158,
+    "name": "time_in_status",
+    "version": "4.11.0",
+    "created_at": "2021-03-08T15:31:57",
+    "updated_at": "2021-04-23T15:11:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:obss:time_in_status:4.11.0:*:*:*:*:jira:*:*",
+    "to_analyse": false
+}

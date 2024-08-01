@@ -1,0 +1,10 @@
+{
+    "id": 107052,
+    "name": "proxyclient",
+    "version": "3.3.3.2",
+    "created_at": "2015-02-03T15:00:25",
+    "updated_at": "2015-04-28T15:27:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluecoat:proxyclient:3.3.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

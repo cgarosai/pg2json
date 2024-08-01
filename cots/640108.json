@@ -1,0 +1,10 @@
+{
+    "id": 640108,
+    "name": "reset_password",
+    "version": "1.2.0",
+    "created_at": "2021-01-20T12:59:14",
+    "updated_at": "2021-01-20T12:59:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flexsolution:reset_password:1.2.0:rc1:*:*:*:alfresco:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 75661,
+    "name": "polarssl",
+    "version": "1.2.4",
+    "created_at": "2013-02-11T14:34:21",
+    "updated_at": "2013-03-07T17:51:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:polarssl:polarssl:1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

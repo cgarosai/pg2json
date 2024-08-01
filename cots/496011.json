@@ -1,0 +1,10 @@
+{
+    "id": 496011,
+    "name": "fireware_xtm",
+    "version": "11.8.3",
+    "created_at": "2020-02-11T21:08:18",
+    "updated_at": "2020-02-11T21:08:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:watchguard:fireware_xtm:11.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

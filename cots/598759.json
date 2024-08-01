@@ -1,0 +1,10 @@
+{
+    "id": 598759,
+    "name": "pi_connector",
+    "version": "1.0.0.54",
+    "created_at": "2020-09-11T12:40:07",
+    "updated_at": "2020-09-11T12:40:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osisoft:pi_connector:1.0.0.54:*:*:*:*:ping:*:*",
+    "to_analyse": false
+}

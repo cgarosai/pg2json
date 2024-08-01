@@ -1,0 +1,10 @@
+{
+    "id": 54082,
+    "name": "deployment_solution_wise_packager",
+    "version": "6.10.443",
+    "created_at": "2012-07-10T01:21:48",
+    "updated_at": "2012-07-10T01:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:deployment_solution_wise_packager:6.10.443:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

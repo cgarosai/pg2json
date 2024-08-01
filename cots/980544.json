@@ -1,0 +1,10 @@
+{
+    "id": 980544,
+    "name": "traefik",
+    "version": "3.0.0",
+    "created_at": "2022-12-12T16:06:19",
+    "updated_at": "2022-12-12T16:51:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:traefik:traefik:3.0.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

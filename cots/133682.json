@@ -1,0 +1,10 @@
+{
+    "id": 133682,
+    "name": "vrealize_operations_for_horizon",
+    "version": "6.5",
+    "created_at": "2018-01-18T19:55:23",
+    "updated_at": "2021-04-01T18:19:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vrealize_operations_for_horizon:6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

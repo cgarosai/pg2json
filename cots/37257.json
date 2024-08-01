@@ -1,0 +1,10 @@
+{
+    "id": 37257,
+    "name": "subversion",
+    "version": "1.2.2",
+    "created_at": "2010-10-05T21:02:24",
+    "updated_at": "2010-10-05T21:02:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:subversion:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

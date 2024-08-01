@@ -1,0 +1,10 @@
+{
+    "id": 666952,
+    "name": "brave",
+    "version": "1.20.17",
+    "created_at": "2021-02-24T15:36:44",
+    "updated_at": "2021-02-25T16:55:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:brave:brave:1.20.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

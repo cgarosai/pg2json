@@ -1,0 +1,10 @@
+{
+    "id": 93648,
+    "name": "modsim_connected",
+    "version": "2",
+    "created_at": "2014-11-10T15:18:02",
+    "updated_at": "2014-11-10T15:57:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:concursive:modsim_connected:2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

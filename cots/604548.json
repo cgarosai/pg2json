@@ -1,0 +1,10 @@
+{
+    "id": 604548,
+    "name": "linksys_wrt_160nl_firmware",
+    "version": "1.0.04",
+    "created_at": "2020-10-26T13:41:08",
+    "updated_at": "2021-06-16T11:20:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:belkin:linksys_wrt_160nl_firmware:1.0.04:build_2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 636179,
+    "name": "resilient_security_orchestration_automation_and_response",
+    "version": "38.2",
+    "created_at": "2020-12-14T14:04:26",
+    "updated_at": "2020-12-14T14:04:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:resilient_security_orchestration_automation_and_response:38.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

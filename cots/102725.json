@@ -1,0 +1,10 @@
+{
+    "id": 102725,
+    "name": "rtu_gms",
+    "version": "-",
+    "created_at": "2015-12-31T19:49:59",
+    "updated_at": "2015-12-31T19:49:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:pacom:rtu_gms:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 688662,
+    "name": "isolated-vm",
+    "version": "0.1.6",
+    "created_at": "2021-04-02T13:49:04",
+    "updated_at": "2021-04-02T14:44:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isolated-vm_project:isolated-vm:0.1.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

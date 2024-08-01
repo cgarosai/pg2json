@@ -1,0 +1,10 @@
+{
+    "id": 314816,
+    "name": "kadnode",
+    "version": "1.0.0",
+    "created_at": "2019-07-30T15:59:18",
+    "updated_at": "2019-07-30T15:59:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kadnode_project:kadnode:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 338207,
+    "name": "ecstatic",
+    "version": "1.0.0",
+    "created_at": "2019-08-12T15:29:49",
+    "updated_at": "2019-08-12T15:29:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ecstatic_project:ecstatic:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

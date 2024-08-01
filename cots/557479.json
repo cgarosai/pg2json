@@ -1,0 +1,10 @@
+{
+    "id": 557479,
+    "name": "recording_station",
+    "version": "-",
+    "created_at": "2020-06-02T14:54:51",
+    "updated_at": "2020-06-02T14:54:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bosch:recording_station:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

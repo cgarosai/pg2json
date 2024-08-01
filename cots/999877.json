@@ -1,0 +1,10 @@
+{
+    "id": 999877,
+    "name": "dap-2360_firmware",
+    "version": "2.10rc050",
+    "created_at": "2022-12-22T17:23:53",
+    "updated_at": "2022-12-28T15:08:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dlink:dap-2360_firmware:2.10rc050:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

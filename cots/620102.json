@@ -1,0 +1,10 @@
+{
+    "id": 620102,
+    "name": "emc_data_domain_os",
+    "version": "5.7.1.0",
+    "created_at": "2020-12-07T16:25:04",
+    "updated_at": "2020-12-07T16:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:emc_data_domain_os:5.7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

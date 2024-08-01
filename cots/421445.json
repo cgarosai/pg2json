@@ -1,0 +1,10 @@
+{
+    "id": 421445,
+    "name": "gnome-shell",
+    "version": "3.25.90",
+    "created_at": "2019-11-05T18:36:03",
+    "updated_at": "2019-11-05T18:36:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:gnome-shell:3.25.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

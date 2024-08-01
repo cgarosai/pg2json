@@ -1,0 +1,10 @@
+{
+    "id": 478988,
+    "name": "xeon_4114",
+    "version": "-",
+    "created_at": "2020-01-15T13:41:47",
+    "updated_at": "2020-01-15T13:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_4114:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

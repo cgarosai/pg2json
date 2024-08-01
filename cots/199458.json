@@ -1,0 +1,10 @@
+{
+    "id": 199458,
+    "name": "sysfsutils",
+    "version": "1.2.0",
+    "created_at": "2019-01-03T13:23:40",
+    "updated_at": "2019-01-03T13:23:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sysfsutils_project:sysfsutils:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

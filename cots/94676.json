@@ -1,0 +1,10 @@
+{
+    "id": 94676,
+    "name": "td5130_router_firmware",
+    "version": "2.05.c29gv",
+    "created_at": "2014-12-05T18:59:33",
+    "updated_at": "2015-03-09T16:55:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:technicolor:td5130_router_firmware:2.05.c29gv:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

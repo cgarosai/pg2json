@@ -1,0 +1,10 @@
+{
+    "id": 93870,
+    "name": "human_factor",
+    "version": "3.01",
+    "created_at": "2014-11-10T15:20:19",
+    "updated_at": "2014-11-10T15:51:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:magzter:human_factor:3.01:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

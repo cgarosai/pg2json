@@ -1,0 +1,10 @@
+{
+    "id": 594244,
+    "name": "s800i_firmware",
+    "version": "1.2.0",
+    "created_at": "2020-09-24T10:45:13",
+    "updated_at": "2020-09-24T10:45:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:digium:s800i_firmware:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

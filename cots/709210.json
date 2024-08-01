@@ -1,0 +1,10 @@
+{
+    "id": 709210,
+    "name": "malware_remover",
+    "version": "4.6.0.2",
+    "created_at": "2021-05-18T09:22:37",
+    "updated_at": "2021-05-28T15:50:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qnap:malware_remover:4.6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

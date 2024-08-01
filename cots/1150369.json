@@ -1,0 +1,10 @@
+{
+    "id": 1150369,
+    "name": "3957-ved_firmware",
+    "version": "8.53.0",
+    "created_at": "2023-09-18T16:51:21",
+    "updated_at": "2023-09-18T16:51:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:3957-ved_firmware:8.53.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

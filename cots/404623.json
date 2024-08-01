@@ -1,0 +1,10 @@
+{
+    "id": 404623,
+    "name": "aironet_1560_firmware",
+    "version": "8.8.125.0",
+    "created_at": "2019-10-21T14:29:42",
+    "updated_at": "2021-04-16T17:30:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_1560_firmware:8.8.125.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

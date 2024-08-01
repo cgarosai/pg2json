@@ -1,0 +1,10 @@
+{
+    "id": 71197,
+    "name": "h3c_ethernet_switch",
+    "version": "s5600-26c",
+    "created_at": "2013-07-08T14:55:43",
+    "updated_at": "2013-07-12T15:50:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_ethernet_switch:s5600-26c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 541687,
+    "name": "librsync",
+    "version": "0.4.0",
+    "created_at": "2020-05-19T13:05:01",
+    "updated_at": "2020-05-19T13:05:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:librsync_project:librsync:0.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

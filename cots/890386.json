@@ -1,0 +1,10 @@
+{
+    "id": 890386,
+    "name": "jivochat",
+    "version": "1.0",
+    "created_at": "2022-06-21T14:33:54",
+    "updated_at": "2022-06-21T17:20:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jivochat:jivochat:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

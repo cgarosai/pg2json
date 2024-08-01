@@ -1,0 +1,10 @@
+{
+    "id": 100096,
+    "name": "bhr-4grv2_firmware",
+    "version": "1.04",
+    "created_at": "2015-06-15T12:54:01",
+    "updated_at": "2016-04-01T15:09:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:buffalotech:bhr-4grv2_firmware:1.04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

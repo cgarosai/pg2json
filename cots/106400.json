@@ -1,0 +1,10 @@
+{
+    "id": 106400,
+    "name": "easy_social",
+    "version": "7.x-2.3",
+    "created_at": "2015-01-07T12:43:01",
+    "updated_at": "2015-01-07T16:29:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:easy_social_project:easy_social:7.x-2.3:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

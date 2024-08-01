@@ -1,0 +1,10 @@
+{
+    "id": 962503,
+    "name": "diffie-hellman_key_exchange",
+    "version": "-",
+    "created_at": "2022-11-18T14:39:34",
+    "updated_at": "2022-11-18T15:52:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diffie-hellman_key_exchange_project:diffie-hellman_key_exchange:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

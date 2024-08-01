@@ -1,0 +1,10 @@
+{
+    "id": 12080,
+    "name": "openview_network_node_manager",
+    "version": "7.53",
+    "created_at": "2008-09-05T18:02:58",
+    "updated_at": "2009-01-05T16:38:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:openview_network_node_manager:7.53:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

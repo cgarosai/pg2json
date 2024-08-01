@@ -1,0 +1,10 @@
+{
+    "id": 14612,
+    "name": "downloads_module",
+    "version": "8.0",
+    "created_at": "2009-01-28T14:50:30",
+    "updated_at": "2009-01-28T14:50:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:php-nuke:downloads_module:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

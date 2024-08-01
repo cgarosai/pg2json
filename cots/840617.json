@@ -1,0 +1,10 @@
+{
+    "id": 840617,
+    "name": "teams",
+    "version": "-",
+    "created_at": "2022-02-10T15:17:31",
+    "updated_at": "2022-10-28T13:47:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:teams:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

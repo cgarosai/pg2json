@@ -1,0 +1,10 @@
+{
+    "id": 503671,
+    "name": "taskcenter_recent",
+    "version": "1.0.0",
+    "created_at": "2020-03-10T11:15:49",
+    "updated_at": "2020-03-10T11:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taskcenter_recent_project:taskcenter_recent:1.0.0:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

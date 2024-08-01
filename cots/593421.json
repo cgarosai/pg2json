@@ -1,0 +1,10 @@
+{
+    "id": 593421,
+    "name": "asa_5500_firmware",
+    "version": "8.2",
+    "created_at": "2020-09-23T11:59:30",
+    "updated_at": "2020-09-23T11:59:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asa_5500_firmware:8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

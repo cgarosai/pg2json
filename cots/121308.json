@@ -1,0 +1,10 @@
+{
+    "id": 121308,
+    "name": "osci_transport_library",
+    "version": "1.6",
+    "created_at": "2017-07-06T14:30:11",
+    "updated_at": "2021-08-10T11:39:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xoev:osci_transport_library:1.6:*:*:*:.net:*:*:*",
+    "to_analyse": false
+}

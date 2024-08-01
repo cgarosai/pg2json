@@ -1,0 +1,10 @@
+{
+    "id": 413547,
+    "name": "checkuser",
+    "version": "1.29",
+    "created_at": "2019-10-31T11:25:23",
+    "updated_at": "2019-10-31T11:25:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediawiki:checkuser:1.29:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1018260,
+    "name": "dgx_a100_firmware",
+    "version": "00.19.07",
+    "created_at": "2023-01-18T13:45:05",
+    "updated_at": "2023-01-20T14:16:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:dgx_a100_firmware:00.19.07:*:*:*:bmc:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 14079,
+    "name": "iss_realsecure_server_sensor",
+    "version": "7.0",
+    "created_at": "2008-11-25T18:13:03",
+    "updated_at": "2008-11-25T18:13:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:iss_realsecure_server_sensor:7.0:xpu_22.10:*:*:*:*:*:*",
+    "to_analyse": false
+}

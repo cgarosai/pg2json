@@ -1,0 +1,10 @@
+{
+    "id": 1111028,
+    "name": "video_contest_wordpress",
+    "version": "-",
+    "created_at": "2023-07-13T16:22:21",
+    "updated_at": "2023-08-21T11:30:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:video_contest_wordpress_project:video_contest_wordpress:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

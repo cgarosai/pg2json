@@ -1,0 +1,10 @@
+{
+    "id": 244412,
+    "name": "kace_systems_management_appliance_firmware",
+    "version": "9.0",
+    "created_at": "2019-06-05T16:40:31",
+    "updated_at": "2021-04-13T17:46:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:quest:kace_systems_management_appliance_firmware:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

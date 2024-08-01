@@ -1,0 +1,10 @@
+{
+    "id": 623438,
+    "name": "catalyst_3650",
+    "version": "-",
+    "created_at": "2020-12-09T15:59:55",
+    "updated_at": "2020-12-09T15:59:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_3650:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

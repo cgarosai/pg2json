@@ -1,0 +1,10 @@
+{
+    "id": 3260,
+    "name": "tivoli_firewall_toolbox",
+    "version": "1.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_firewall_toolbox:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

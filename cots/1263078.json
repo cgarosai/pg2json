@@ -1,0 +1,10 @@
+{
+    "id": 1263078,
+    "name": "cyrus_imap",
+    "version": "3.2.10",
+    "created_at": "2024-06-05T12:09:49",
+    "updated_at": "2024-06-05T12:09:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyrusimap:cyrus_imap:3.2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

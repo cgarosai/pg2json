@@ -1,0 +1,10 @@
+{
+    "id": 71114,
+    "name": "3com_router",
+    "version": "jg005a",
+    "created_at": "2013-07-08T13:41:48",
+    "updated_at": "2013-07-12T15:50:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3com_router:jg005a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

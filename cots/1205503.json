@@ -1,0 +1,10 @@
+{
+    "id": 1205503,
+    "name": "polyeco500_firmware",
+    "version": "1.7.0",
+    "created_at": "2023-11-27T00:12:41",
+    "updated_at": "2023-11-27T00:12:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sielco:polyeco500_firmware:1.7.0:*:*:*:cpu:*:*:*",
+    "to_analyse": false
+}

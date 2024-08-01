@@ -1,0 +1,10 @@
+{
+    "id": 94495,
+    "name": "secure_passwords_hashes",
+    "version": "6.x-2.0",
+    "created_at": "2014-11-24T17:27:00",
+    "updated_at": "2015-02-11T15:32:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:secure_password_hashes_project:secure_passwords_hashes:6.x-2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

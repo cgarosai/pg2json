@@ -1,0 +1,10 @@
+{
+    "id": 69526,
+    "name": "data",
+    "version": "6.x-1.x",
+    "created_at": "2012-09-19T13:24:33",
+    "updated_at": "2012-09-21T18:17:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alex_barth:data:6.x-1.x:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

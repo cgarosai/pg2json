@@ -1,0 +1,10 @@
+{
+    "id": 8130,
+    "name": "remote_desktop",
+    "version": "3.0",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2013-10-24T22:24:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:remote_desktop:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1020082,
+    "name": "big-ip_domain_name_system",
+    "version": "15.1.8.1",
+    "created_at": "2023-02-08T17:00:48",
+    "updated_at": "2023-02-16T15:12:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

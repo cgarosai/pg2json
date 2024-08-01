@@ -1,0 +1,10 @@
+{
+    "id": 373000,
+    "name": "beego",
+    "version": "1.11.0",
+    "created_at": "2019-09-23T10:47:25",
+    "updated_at": "2019-09-23T10:47:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beego:beego:1.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

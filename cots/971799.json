@@ -1,0 +1,10 @@
+{
+    "id": 971799,
+    "name": "quarkus-http",
+    "version": "5.0.0",
+    "created_at": "2022-12-02T11:44:07",
+    "updated_at": "2022-12-02T11:45:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quarkus:quarkus-http:5.0.0:alpha3:*:*:*:*:*:*",
+    "to_analyse": false
+}

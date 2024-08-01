@@ -1,0 +1,10 @@
+{
+    "id": 131931,
+    "name": "businessobjects",
+    "version": "4.20",
+    "created_at": "2017-12-21T17:59:55",
+    "updated_at": "2021-07-26T16:45:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:businessobjects:4.20:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

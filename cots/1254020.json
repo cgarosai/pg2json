@@ -1,0 +1,10 @@
+{
+    "id": 1254020,
+    "name": "bifrost_gpu_kernel_driver",
+    "version": "r45p0",
+    "created_at": "2024-02-16T17:13:11",
+    "updated_at": "2024-02-16T17:13:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r45p0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1249278,
+    "name": "lemmy",
+    "version": "0.14.5",
+    "created_at": "2024-02-01T13:03:12",
+    "updated_at": "2024-02-01T13:03:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:join-lemmy:lemmy:0.14.5:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

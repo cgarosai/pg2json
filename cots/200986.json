@@ -1,0 +1,10 @@
+{
+    "id": 200986,
+    "name": "big-ip_wan_optimization_manager",
+    "version": "14.1.0",
+    "created_at": "2019-02-27T13:11:51",
+    "updated_at": "2019-02-27T13:11:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_wan_optimization_manager:14.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

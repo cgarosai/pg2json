@@ -1,0 +1,10 @@
+{
+    "id": 530644,
+    "name": "r7000_firmware",
+    "version": "1.0.9.10",
+    "created_at": "2020-04-28T11:35:40",
+    "updated_at": "2020-04-28T11:35:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7000_firmware:1.0.9.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

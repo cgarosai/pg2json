@@ -1,0 +1,10 @@
+{
+    "id": 77530,
+    "name": "sentinel_log_manager",
+    "version": "1.1.0.2",
+    "created_at": "2013-03-29T15:56:33",
+    "updated_at": "2013-04-09T19:30:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:sentinel_log_manager:1.1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 400932,
+    "name": "rar",
+    "version": "5.50",
+    "created_at": "2019-10-16T10:53:46",
+    "updated_at": "2019-10-16T10:53:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rarlab:rar:5.50:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

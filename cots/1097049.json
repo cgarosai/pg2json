@@ -1,0 +1,10 @@
+{
+    "id": 1097049,
+    "name": "lima",
+    "version": "-",
+    "created_at": "2023-06-05T15:54:57",
+    "updated_at": "2023-09-02T00:47:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:lima:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

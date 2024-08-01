@@ -1,0 +1,10 @@
+{
+    "id": 1025346,
+    "name": "puppet-facter",
+    "version": "-",
+    "created_at": "2023-02-01T12:01:44",
+    "updated_at": "2023-09-09T01:45:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:helecloud:puppet-facter:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

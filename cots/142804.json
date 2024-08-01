@@ -1,0 +1,10 @@
+{
+    "id": 142804,
+    "name": "watchdog_console",
+    "version": "3.2.2",
+    "created_at": "2018-05-17T12:58:42",
+    "updated_at": "2021-03-26T12:47:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vertiv:watchdog_console:3.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 274150,
+    "name": "wp_google_maps",
+    "version": "7.21.23",
+    "created_at": "2019-07-01T13:48:03",
+    "updated_at": "2023-05-23T18:46:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpgmaps:wp_google_maps:7.21.23:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

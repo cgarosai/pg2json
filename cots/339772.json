@@ -1,0 +1,10 @@
+{
+    "id": 339772,
+    "name": "gunicorn",
+    "version": "17.5",
+    "created_at": "2019-08-13T17:00:32",
+    "updated_at": "2019-08-13T17:00:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gunicorn:gunicorn:17.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

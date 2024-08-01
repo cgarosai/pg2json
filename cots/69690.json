@@ -1,0 +1,10 @@
+{
+    "id": 69690,
+    "name": "password_policy",
+    "version": "7.x-1.0",
+    "created_at": "2012-09-20T16:09:58",
+    "updated_at": "2012-09-21T18:15:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:erikwebb:password_policy:7.x-1.0:beta3:*:*:*:*:*:*",
+    "to_analyse": false
+}

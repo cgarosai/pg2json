@@ -1,0 +1,10 @@
+{
+    "id": 117274,
+    "name": "aireos",
+    "version": "4.1_base",
+    "created_at": "2016-04-28T15:26:27",
+    "updated_at": "2016-04-28T15:26:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aireos:4.1_base:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

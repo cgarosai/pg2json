@@ -1,0 +1,10 @@
+{
+    "id": 693822,
+    "name": "big-ip_aam",
+    "version": "15.1.2",
+    "created_at": "2021-05-04T11:38:44",
+    "updated_at": "2021-09-23T13:58:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_aam:15.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

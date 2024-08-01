@@ -1,0 +1,10 @@
+{
+    "id": 373608,
+    "name": "node-macaddress",
+    "version": "0.1.0",
+    "created_at": "2019-09-23T11:59:08",
+    "updated_at": "2019-09-23T11:59:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-macaddress_project:node-macaddress:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

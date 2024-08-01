@@ -1,0 +1,10 @@
+{
+    "id": 873146,
+    "name": "rancher",
+    "version": "2.5.10",
+    "created_at": "2022-05-09T10:23:55",
+    "updated_at": "2022-05-09T15:42:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:suse:rancher:2.5.10:rc7:*:*:*:*:*:*",
+    "to_analyse": false
+}

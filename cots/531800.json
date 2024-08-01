@@ -1,0 +1,10 @@
+{
+    "id": 531800,
+    "name": "ex6150_firmware",
+    "version": "1.0.0.38",
+    "created_at": "2020-04-29T11:09:47",
+    "updated_at": "2020-04-29T11:09:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:ex6150_firmware:1.0.0.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

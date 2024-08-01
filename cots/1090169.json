@@ -1,0 +1,10 @@
+{
+    "id": 1090169,
+    "name": "vite",
+    "version": "3.1.0",
+    "created_at": "2023-06-08T23:08:59",
+    "updated_at": "2023-06-09T11:56:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vitejs:vite:3.1.0:beta1:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

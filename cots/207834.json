@@ -1,0 +1,10 @@
+{
+    "id": 207834,
+    "name": "ipset",
+    "version": "6.38",
+    "created_at": "2019-02-12T18:10:20",
+    "updated_at": "2019-02-12T18:10:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netfilter:ipset:6.38:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

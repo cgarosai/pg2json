@@ -1,0 +1,10 @@
+{
+    "id": 97366,
+    "name": "openvas_manager",
+    "version": "4.0",
+    "created_at": "2014-05-19T16:59:24",
+    "updated_at": "2014-07-01T01:24:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvas:openvas_manager:4.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

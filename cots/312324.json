@@ -1,0 +1,10 @@
+{
+    "id": 312324,
+    "name": "discourse",
+    "version": "0.9.9.6",
+    "created_at": "2019-07-30T10:01:14",
+    "updated_at": "2023-01-10T15:55:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:discourse:discourse:0.9.9.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

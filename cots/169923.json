@@ -1,0 +1,10 @@
+{
+    "id": 169923,
+    "name": "nodecaffe",
+    "version": "1.0.2",
+    "created_at": "2018-07-26T11:24:20",
+    "updated_at": "2018-07-26T11:24:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodecaffe_project:nodecaffe:1.0.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

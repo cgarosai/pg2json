@@ -1,0 +1,10 @@
+{
+    "id": 1103753,
+    "name": "cyber_security",
+    "version": "7.3.0",
+    "created_at": "2023-07-03T12:54:45",
+    "updated_at": "2023-08-29T10:47:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eset:cyber_security:7.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

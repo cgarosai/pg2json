@@ -1,0 +1,10 @@
+{
+    "id": 540323,
+    "name": "enterprise_linux",
+    "version": "8.0",
+    "created_at": "2020-05-14T12:30:04",
+    "updated_at": "2020-05-14T12:30:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:advanced_virtualization:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 932298,
+    "name": "matrix_irc_bridge",
+    "version": "0.35.0",
+    "created_at": "2022-09-14T15:42:23",
+    "updated_at": "2022-09-15T11:43:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:matrix_irc_bridge:0.35.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

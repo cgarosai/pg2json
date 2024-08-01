@@ -1,0 +1,10 @@
+{
+    "id": 1230766,
+    "name": "lt_replication_server",
+    "version": "s4core_107",
+    "created_at": "2024-01-12T17:28:39",
+    "updated_at": "2024-01-12T17:28:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:lt_replication_server:s4core_107:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

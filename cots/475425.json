@@ -1,0 +1,10 @@
+{
+    "id": 475425,
+    "name": "wp_maintenance",
+    "version": "5.0.5",
+    "created_at": "2020-01-08T17:14:51",
+    "updated_at": "2020-01-08T17:14:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_maintenance_project:wp_maintenance:5.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

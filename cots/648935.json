@@ -1,0 +1,10 @@
+{
+    "id": 648935,
+    "name": "netextender",
+    "version": "10.2.300",
+    "created_at": "2021-01-13T18:26:11",
+    "updated_at": "2021-01-13T18:26:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonicwall:netextender:10.2.300:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

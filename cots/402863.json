@@ -1,0 +1,10 @@
+{
+    "id": 402863,
+    "name": "checkmk",
+    "version": "1.2.8",
+    "created_at": "2019-10-17T09:58:13",
+    "updated_at": "2024-07-23T17:37:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tribe29:checkmk:1.2.8:p25:*:*:*:*:*:*",
+    "to_analyse": false
+}

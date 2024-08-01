@@ -1,0 +1,10 @@
+{
+    "id": 800645,
+    "name": "elixir_ecdsa",
+    "version": "1.0.0",
+    "created_at": "2021-11-12T14:58:09",
+    "updated_at": "2021-12-03T17:34:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:starkbank:elixir_ecdsa:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

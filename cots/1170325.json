@@ -1,0 +1,10 @@
+{
+    "id": 1170325,
+    "name": "scrutinizer",
+    "version": "19.2.2",
+    "created_at": "2023-10-16T14:50:17",
+    "updated_at": "2023-10-16T14:50:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plixer:scrutinizer:19.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

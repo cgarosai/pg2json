@@ -1,0 +1,10 @@
+{
+    "id": 999156,
+    "name": "sftpserver",
+    "version": "0.2.1",
+    "created_at": "2022-12-21T15:32:11",
+    "updated_at": "2022-12-30T16:53:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:greenend:sftpserver:0.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

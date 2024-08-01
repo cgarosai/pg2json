@@ -1,0 +1,10 @@
+{
+    "id": 1168981,
+    "name": "spectrum_protect",
+    "version": "10.1.13",
+    "created_at": "2023-09-28T09:24:57",
+    "updated_at": "2023-09-28T09:24:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:spectrum_protect:10.1.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

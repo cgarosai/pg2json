@@ -1,0 +1,10 @@
+{
+    "id": 115685,
+    "name": "spark",
+    "version": "2015-07-04",
+    "created_at": "2016-02-29T14:49:06",
+    "updated_at": "2016-03-02T18:34:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:spark:2015-07-04:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

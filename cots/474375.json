@@ -1,0 +1,10 @@
+{
+    "id": 474375,
+    "name": "qt",
+    "version": "5.14",
+    "created_at": "2020-01-27T17:29:23",
+    "updated_at": "2020-01-27T17:29:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qt:qt:5.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

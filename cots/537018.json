@@ -1,0 +1,10 @@
+{
+    "id": 537018,
+    "name": "2540_firmware",
+    "version": "16.08.0",
+    "created_at": "2020-04-15T10:40:39",
+    "updated_at": "2020-04-15T10:40:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:2540_firmware:16.08.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

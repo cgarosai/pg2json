@@ -1,0 +1,10 @@
+{
+    "id": 166883,
+    "name": "antminer_d3",
+    "version": "-",
+    "created_at": "2018-07-06T11:33:24",
+    "updated_at": "2021-04-28T16:54:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bitmain:antminer_d3:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

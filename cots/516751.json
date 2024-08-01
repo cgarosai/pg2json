@@ -1,0 +1,10 @@
+{
+    "id": 516751,
+    "name": "dot",
+    "version": "0.2.0",
+    "created_at": "2020-03-16T13:21:05",
+    "updated_at": "2020-03-16T13:21:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dot_project:dot:0.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

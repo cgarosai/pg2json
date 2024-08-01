@@ -1,0 +1,10 @@
+{
+    "id": 719071,
+    "name": "java_driver",
+    "version": "3.4.2",
+    "created_at": "2021-06-02T13:58:26",
+    "updated_at": "2021-06-02T14:07:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:java_driver:3.4.2:*:*:*:*:mongodb:*:*",
+    "to_analyse": false
+}

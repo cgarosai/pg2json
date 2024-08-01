@@ -1,0 +1,10 @@
+{
+    "id": 1161520,
+    "name": "simple_cloudfare_turnstile",
+    "version": "1.17.2",
+    "created_at": "2023-10-02T15:13:40",
+    "updated_at": "2023-10-02T15:13:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:replywp:simple_cloudfare_turnstile:1.17.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

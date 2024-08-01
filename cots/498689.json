@@ -1,0 +1,10 @@
+{
+    "id": 498689,
+    "name": "stardom_opc_server",
+    "version": "r3.40",
+    "created_at": "2020-02-19T20:56:41",
+    "updated_at": "2020-02-19T20:56:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yokogawa:stardom_opc_server:r3.40:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

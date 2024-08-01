@@ -1,0 +1,10 @@
+{
+    "id": 858864,
+    "name": "viewcomponent",
+    "version": "2.37.0",
+    "created_at": "2022-03-08T16:17:38",
+    "updated_at": "2022-03-08T19:57:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:github:viewcomponent:2.37.0:*:*:*:*:ruby_on_rails:*:*",
+    "to_analyse": false
+}

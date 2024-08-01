@@ -1,0 +1,10 @@
+{
+    "id": 178619,
+    "name": "js-bson",
+    "version": "2.0.3",
+    "created_at": "2018-10-02T10:45:50",
+    "updated_at": "2018-10-02T10:45:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:js-bson:2.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

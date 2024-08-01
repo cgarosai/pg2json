@@ -1,0 +1,10 @@
+{
+    "id": 1158745,
+    "name": "cppcheck",
+    "version": "1.49",
+    "created_at": "2023-09-15T13:01:37",
+    "updated_at": "2023-09-15T13:01:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cppchecksolutions:cppcheck:1.49:*:*:*:open-source:*:*:*",
+    "to_analyse": false
+}

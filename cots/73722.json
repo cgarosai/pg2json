@@ -1,0 +1,10 @@
+{
+    "id": 73722,
+    "name": "palo_alto_networks_panos",
+    "version": "4.0.3",
+    "created_at": "2013-09-03T13:48:12",
+    "updated_at": "2014-06-24T16:25:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:altaware:palo_alto_networks_panos:4.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

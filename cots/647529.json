@@ -1,0 +1,10 @@
+{
+    "id": 647529,
+    "name": "infiniband_hfi1_driver",
+    "version": "5.10",
+    "created_at": "2021-01-12T03:10:35",
+    "updated_at": "2021-04-01T15:13:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linux:infiniband_hfi1_driver:5.10:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

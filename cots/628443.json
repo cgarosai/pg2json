@@ -1,0 +1,10 @@
+{
+    "id": 628443,
+    "name": "libappimage",
+    "version": "0.1.10",
+    "created_at": "2020-12-02T19:53:43",
+    "updated_at": "2020-12-02T19:53:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:appimage:libappimage:0.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 920017,
+    "name": "xeon_platinum_9220_firmware",
+    "version": "-",
+    "created_at": "2022-08-24T16:15:10",
+    "updated_at": "2022-08-25T12:41:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_platinum_9220_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

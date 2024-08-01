@@ -1,0 +1,10 @@
+{
+    "id": 405354,
+    "name": "api_bearer_auth",
+    "version": "2018-12-26",
+    "created_at": "2019-10-08T11:32:17",
+    "updated_at": "2019-10-08T11:32:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:api_bearer_auth_project:api_bearer_auth:2018-12-26:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

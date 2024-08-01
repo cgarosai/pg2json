@@ -1,0 +1,10 @@
+{
+    "id": 623518,
+    "name": "qradar_pulse",
+    "version": "1.0.0",
+    "created_at": "2020-12-09T16:48:51",
+    "updated_at": "2020-12-09T16:48:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:qradar_pulse:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

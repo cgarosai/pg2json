@@ -1,0 +1,10 @@
+{
+    "id": 12951,
+    "name": "internet_information_server",
+    "version": "3.0",
+    "created_at": "2008-09-10T15:43:57",
+    "updated_at": "2008-09-10T15:43:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:internet_information_server:3.0:unknown:unknown:zh:*:*:*:*",
+    "to_analyse": false
+}

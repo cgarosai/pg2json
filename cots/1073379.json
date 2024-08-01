@@ -1,0 +1,10 @@
+{
+    "id": 1073379,
+    "name": "next_engine_integration",
+    "version": "-",
+    "created_at": "2023-05-17T10:57:08",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:next-engine:next_engine_integration:-:*:*:*:*:ec-cube:*:*",
+    "to_analyse": false
+}

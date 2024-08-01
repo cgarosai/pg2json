@@ -1,0 +1,10 @@
+{
+    "id": 501358,
+    "name": "precision_3530_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T19:00:30",
+    "updated_at": "2020-03-06T19:00:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:precision_3530_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

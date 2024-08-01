@@ -1,0 +1,10 @@
+{
+    "id": 193537,
+    "name": "drupal",
+    "version": "8.4.8",
+    "created_at": "2019-01-22T15:46:30",
+    "updated_at": "2019-01-22T15:46:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drupal:drupal:8.4.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 691737,
+    "name": "reach_server",
+    "version": "3.20",
+    "created_at": "2021-04-29T11:58:18",
+    "updated_at": "2021-04-29T12:00:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:goverlan:reach_server:3.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

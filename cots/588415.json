@@ -1,0 +1,10 @@
+{
+    "id": 588415,
+    "name": "encfs",
+    "version": "1.4.0",
+    "created_at": "2020-08-20T11:55:49",
+    "updated_at": "2020-08-20T11:55:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:encfs_project:encfs:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

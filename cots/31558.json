@@ -1,0 +1,10 @@
+{
+    "id": 31558,
+    "name": "weblogic_portal",
+    "version": "9.2",
+    "created_at": "2011-01-18T18:38:13",
+    "updated_at": "2011-01-18T18:38:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:weblogic_portal:9.2:ga:*:*:*:*:*:*",
+    "to_analyse": false
+}

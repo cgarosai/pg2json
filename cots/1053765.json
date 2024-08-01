@@ -1,0 +1,10 @@
+{
+    "id": 1053765,
+    "name": "r8000_firmware",
+    "version": "1.0.4.84",
+    "created_at": "2023-04-04T11:48:32",
+    "updated_at": "2023-05-11T16:04:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r8000_firmware:1.0.4.84:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

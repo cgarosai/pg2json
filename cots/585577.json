@@ -1,0 +1,10 @@
+{
+    "id": 585577,
+    "name": "s2600kpf_firmware",
+    "version": "-",
+    "created_at": "2020-08-14T10:29:31",
+    "updated_at": "2021-05-04T16:35:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:s2600kpf_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

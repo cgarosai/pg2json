@@ -1,0 +1,10 @@
+{
+    "id": 46272,
+    "name": "cgi\\",
+    "version": "irc",
+    "created_at": "2011-05-12T12:26:31",
+    "updated_at": "2011-06-30T13:01:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cgiirc:cgi\\:irc:0.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

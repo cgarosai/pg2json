@@ -1,0 +1,10 @@
+{
+    "id": 462635,
+    "name": "svn5800-c_firmware",
+    "version": "v500r005c20",
+    "created_at": "2020-01-05T14:50:39",
+    "updated_at": "2020-01-05T14:50:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:svn5800-c_firmware:v500r005c20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

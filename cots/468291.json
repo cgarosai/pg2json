@@ -1,0 +1,10 @@
+{
+    "id": 468291,
+    "name": "codeql",
+    "version": "1.0.0",
+    "created_at": "2019-12-19T14:25:45",
+    "updated_at": "2019-12-19T14:25:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:codeql:1.0.0:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 255887,
+    "name": "crs-1_16-slot_line_card_chassis",
+    "version": "-",
+    "created_at": "2019-06-07T12:44:36",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:crs-1_16-slot_line_card_chassis:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

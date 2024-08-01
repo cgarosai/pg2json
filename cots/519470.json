@@ -1,0 +1,10 @@
+{
+    "id": 519470,
+    "name": "xeon_w3550",
+    "version": "-",
+    "created_at": "2020-03-23T13:42:56",
+    "updated_at": "2020-03-23T13:42:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_w3550:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

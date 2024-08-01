@@ -1,0 +1,10 @@
+{
+    "id": 567877,
+    "name": "gvisor",
+    "version": "2018-08-23",
+    "created_at": "2020-07-01T14:09:14",
+    "updated_at": "2020-07-01T14:09:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:gvisor:2018-08-23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

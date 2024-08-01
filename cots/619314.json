@@ -1,0 +1,10 @@
+{
+    "id": 619314,
+    "name": "dynamics_365",
+    "version": "-",
+    "created_at": "2020-11-13T17:11:29",
+    "updated_at": "2020-11-13T17:11:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:dynamics_365:-:*:*:*:commerce:*:*:*",
+    "to_analyse": false
+}

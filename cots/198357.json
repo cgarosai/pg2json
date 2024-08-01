@@ -1,0 +1,10 @@
+{
+    "id": 198357,
+    "name": "collectd",
+    "version": "1.4.0",
+    "created_at": "2018-12-31T15:07:20",
+    "updated_at": "2018-12-31T15:07:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:collectd:collectd:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

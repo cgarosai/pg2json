@@ -1,0 +1,10 @@
+{
+    "id": 271356,
+    "name": "javamelody",
+    "version": "1.35.0",
+    "created_at": "2019-06-27T13:36:39",
+    "updated_at": "2019-06-27T13:36:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:javamelody_project:javamelody:1.35.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 528224,
+    "name": "cardgate_payments",
+    "version": "2.0.24",
+    "created_at": "2020-04-02T11:18:47",
+    "updated_at": "2020-04-02T11:18:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cardgate:cardgate_payments:2.0.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

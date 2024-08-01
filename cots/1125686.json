@@ -1,0 +1,10 @@
+{
+    "id": 1125686,
+    "name": "clevertap",
+    "version": "1.0.8",
+    "created_at": "2023-07-24T11:39:23",
+    "updated_at": "2023-07-24T11:44:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clevertap:clevertap:1.0.8:*:*:*:*:cordova:*:*",
+    "to_analyse": false
+}

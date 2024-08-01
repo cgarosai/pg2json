@@ -1,0 +1,10 @@
+{
+    "id": 277451,
+    "name": "geo_mashup",
+    "version": "0.2",
+    "created_at": "2019-06-24T16:19:40",
+    "updated_at": "2019-06-24T16:19:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geo_mashup_project:geo_mashup:0.2:beta:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

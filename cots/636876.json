@@ -1,0 +1,10 @@
+{
+    "id": 636876,
+    "name": "curl",
+    "version": "7.71.0",
+    "created_at": "2020-12-15T12:37:21",
+    "updated_at": "2020-12-15T12:37:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haxx:curl:7.71.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

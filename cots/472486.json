@@ -1,0 +1,10 @@
+{
+    "id": 472486,
+    "name": "cordova_inappbrowser",
+    "version": "3.0.0",
+    "created_at": "2020-01-22T18:49:42",
+    "updated_at": "2020-01-22T18:49:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:cordova_inappbrowser:3.0.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

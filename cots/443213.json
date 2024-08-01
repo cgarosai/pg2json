@@ -1,0 +1,10 @@
+{
+    "id": 443213,
+    "name": "horde_managesieve",
+    "version": "1.0.0",
+    "created_at": "2019-12-04T13:02:54",
+    "updated_at": "2019-12-04T13:02:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_managesieve:1.0.0:alpha1:*:*:*:*:*:*",
+    "to_analyse": false
+}

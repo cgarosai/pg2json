@@ -1,0 +1,10 @@
+{
+    "id": 1061176,
+    "name": "scalance_x201-3p_irt_firmware",
+    "version": "5.5.2",
+    "created_at": "2023-04-18T13:40:45",
+    "updated_at": "2023-09-01T01:37:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_x201-3p_irt_firmware:5.5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

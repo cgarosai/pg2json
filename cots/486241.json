@@ -1,0 +1,10 @@
+{
+    "id": 486241,
+    "name": "rails_admin",
+    "version": "0.4.2",
+    "created_at": "2020-01-30T15:12:49",
+    "updated_at": "2020-01-30T15:12:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rails_admin_project:rails_admin:0.4.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

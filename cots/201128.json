@@ -1,0 +1,10 @@
+{
+    "id": 201128,
+    "name": "bc",
+    "version": "1.06.95",
+    "created_at": "2019-02-27T14:24:34",
+    "updated_at": "2019-02-27T14:24:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:bc:1.06.95:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

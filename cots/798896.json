@@ -1,0 +1,10 @@
+{
+    "id": 798896,
+    "name": "ctpview",
+    "version": "7.0",
+    "created_at": "2021-10-20T11:30:39",
+    "updated_at": "2021-10-20T12:09:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:ctpview:7.0:r1:*:*:*:*:*:*",
+    "to_analyse": false
+}

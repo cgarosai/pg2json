@@ -1,0 +1,10 @@
+{
+    "id": 764217,
+    "name": "simatic_process_historian_opc_ua_server_firmware",
+    "version": "2019",
+    "created_at": "2021-09-03T10:06:47",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2019:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

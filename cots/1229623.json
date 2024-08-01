@@ -1,0 +1,10 @@
+{
+    "id": 1229623,
+    "name": "flightaware",
+    "version": "5.8.0",
+    "created_at": "2023-12-29T14:31:15",
+    "updated_at": "2023-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flightaware:flightaware:5.8.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

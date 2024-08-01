@@ -1,0 +1,10 @@
+{
+    "id": 517851,
+    "name": "scientific_linux",
+    "version": "6.10",
+    "created_at": "2020-03-18T13:10:36",
+    "updated_at": "2020-03-24T14:35:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fnl:scientific_linux:6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

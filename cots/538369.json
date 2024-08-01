@@ -1,0 +1,10 @@
+{
+    "id": 538369,
+    "name": "msa_2050_firmware",
+    "version": "vl270r001-01",
+    "created_at": "2020-04-23T09:23:34",
+    "updated_at": "2021-08-16T14:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:msa_2050_firmware:vl270r001-01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

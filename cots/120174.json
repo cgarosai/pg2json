@@ -1,0 +1,10 @@
+{
+    "id": 120174,
+    "name": "certified_asterisk",
+    "version": "13.13.0",
+    "created_at": "2017-06-08T13:57:38",
+    "updated_at": "2021-03-03T16:33:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:asterisk:certified_asterisk:13.13.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

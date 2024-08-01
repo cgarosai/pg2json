@@ -1,0 +1,10 @@
+{
+    "id": 520068,
+    "name": "compass-compile",
+    "version": "0.0.1",
+    "created_at": "2020-04-06T15:33:48",
+    "updated_at": "2020-04-06T15:33:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:compass-compile_project:compass-compile:0.0.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

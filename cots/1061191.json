@@ -1,0 +1,10 @@
+{
+    "id": 1061191,
+    "name": "azure_marketplace",
+    "version": "-",
+    "created_at": "2023-04-18T14:08:12",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_marketplace:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

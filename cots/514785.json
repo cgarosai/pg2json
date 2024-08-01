@@ -1,0 +1,10 @@
+{
+    "id": 514785,
+    "name": "system_x3850_x6_firmware",
+    "version": "a8e128c",
+    "created_at": "2020-03-31T16:16:08",
+    "updated_at": "2020-03-31T16:16:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:system_x3850_x6_firmware:a8e128c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

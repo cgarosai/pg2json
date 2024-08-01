@@ -1,0 +1,10 @@
+{
+    "id": 200626,
+    "name": "suremdm_nix_agent",
+    "version": "12.27",
+    "created_at": "2019-02-27T12:35:23",
+    "updated_at": "2019-02-27T12:35:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:42gears:suremdm_nix_agent:12.27:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

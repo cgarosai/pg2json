@@ -1,0 +1,10 @@
+{
+    "id": 53680,
+    "name": "pvcs_version_manager",
+    "version": "8.3",
+    "created_at": "2012-07-10T01:19:08",
+    "updated_at": "2012-07-10T01:19:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serena:pvcs_version_manager:8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

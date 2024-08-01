@@ -1,0 +1,10 @@
+{
+    "id": 65922,
+    "name": "vsphere_update_manager_client",
+    "version": "5.0.0.8039",
+    "created_at": "2012-08-01T19:33:48",
+    "updated_at": "2012-08-01T19:33:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vsphere_update_manager_client:5.0.0.8039:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

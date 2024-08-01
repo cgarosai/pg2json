@@ -1,0 +1,10 @@
+{
+    "id": 397475,
+    "name": "omnitauth-saml",
+    "version": "1.2.0",
+    "created_at": "2019-09-30T11:44:09",
+    "updated_at": "2019-09-30T11:44:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:omnitauth-saml_project:omnitauth-saml:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

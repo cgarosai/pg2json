@@ -1,0 +1,10 @@
+{
+    "id": 822413,
+    "name": "access_control",
+    "version": "v1200_750",
+    "created_at": "2022-01-03T13:48:06",
+    "updated_at": "2022-01-04T15:49:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:access_control:v1200_750:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

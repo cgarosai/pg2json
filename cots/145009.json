@@ -1,0 +1,10 @@
+{
+    "id": 145009,
+    "name": "core_i3",
+    "version": "2330m",
+    "created_at": "2018-02-07T11:24:33",
+    "updated_at": "2023-09-25T18:35:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i3:2330m:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 75804,
+    "name": "m1013_network_camera",
+    "version": "-",
+    "created_at": "2013-02-13T11:45:35",
+    "updated_at": "2013-02-19T14:54:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:axis:m1013_network_camera:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

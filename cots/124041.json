@@ -1,0 +1,10 @@
+{
+    "id": 124041,
+    "name": "directory_server",
+    "version": "-",
+    "created_at": "2017-08-28T12:32:12",
+    "updated_at": "2021-04-13T11:30:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:directory_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

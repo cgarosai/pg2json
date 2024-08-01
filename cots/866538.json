@@ -1,0 +1,10 @@
+{
+    "id": 866538,
+    "name": "runc-opencontainers",
+    "version": "1.0.0",
+    "created_at": "2022-03-24T12:54:41",
+    "updated_at": "2022-03-24T12:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elektrobit:runc-opencontainers:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 519745,
+    "name": "xeon_7040",
+    "version": "-",
+    "created_at": "2020-03-23T15:21:29",
+    "updated_at": "2020-03-23T15:21:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_7040:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

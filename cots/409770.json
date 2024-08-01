@@ -1,0 +1,10 @@
+{
+    "id": 409770,
+    "name": "informix_dynamic_server",
+    "version": "12.10",
+    "created_at": "2019-10-15T12:12:50",
+    "updated_at": "2019-10-15T12:12:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:informix_dynamic_server:12.10:fc7:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

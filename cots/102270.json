@@ -1,0 +1,10 @@
+{
+    "id": 102270,
+    "name": "firefox_esr",
+    "version": "38.0.5",
+    "created_at": "2015-12-16T14:36:12",
+    "updated_at": "2015-12-16T14:36:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox_esr:38.0.5:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 308950,
+    "name": "enterprise_message_service",
+    "version": "8.2.1",
+    "created_at": "2019-07-22T11:06:06",
+    "updated_at": "2019-07-22T11:06:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:enterprise_message_service:8.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100100,
+    "name": "blobee",
+    "version": "1.12",
+    "created_at": "2015-06-15T14:12:33",
+    "updated_at": "2015-06-15T14:14:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cgi_rescue:blobee:1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

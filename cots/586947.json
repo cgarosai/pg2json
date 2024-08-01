@@ -1,0 +1,10 @@
+{
+    "id": 586947,
+    "name": "spring_integration",
+    "version": "5.0.0",
+    "created_at": "2020-08-17T16:34:12",
+    "updated_at": "2020-08-17T16:34:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_integration:5.0.0:milestone3:*:*:*:*:*:*",
+    "to_analyse": false
+}

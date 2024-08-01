@@ -1,0 +1,10 @@
+{
+    "id": 1198816,
+    "name": "platform",
+    "version": "23.0",
+    "created_at": "2023-11-13T17:59:23",
+    "updated_at": "2023-11-13T17:59:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1e:platform:23.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

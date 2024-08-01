@@ -1,0 +1,10 @@
+{
+    "id": 922036,
+    "name": "is_my_json_valid",
+    "version": "2.17.2",
+    "created_at": "2022-08-29T15:16:15",
+    "updated_at": "2022-08-29T15:19:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:is_my_json_valid_project:is_my_json_valid:2.17.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

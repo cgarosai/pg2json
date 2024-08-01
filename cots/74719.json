@@ -1,0 +1,10 @@
+{
+    "id": 74719,
+    "name": "arcgis",
+    "version": "10.2",
+    "created_at": "2013-09-24T15:49:57",
+    "updated_at": "2013-09-25T16:41:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcgis:10.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

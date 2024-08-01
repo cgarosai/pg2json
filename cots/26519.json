@@ -1,0 +1,10 @@
+{
+    "id": 26519,
+    "name": "windows_server_2008",
+    "version": "-",
+    "created_at": "2009-04-30T15:26:43",
+    "updated_at": "2019-05-07T16:27:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_server_2008:-:gold:datacenter:*:*:*:*:*",
+    "to_analyse": false
+}

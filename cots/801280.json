@@ -1,0 +1,10 @@
+{
+    "id": 801280,
+    "name": "simatic_pcs7",
+    "version": "8.1",
+    "created_at": "2021-11-15T18:11:31",
+    "updated_at": "2021-12-03T15:38:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_pcs7:8.1:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

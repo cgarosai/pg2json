@@ -1,0 +1,10 @@
+{
+    "id": 806119,
+    "name": "internet_download_manager",
+    "version": "3.07",
+    "created_at": "2021-11-04T19:24:45",
+    "updated_at": "2021-11-23T22:54:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tonec:internet_download_manager:3.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

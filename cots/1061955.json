@@ -1,0 +1,10 @@
+{
+    "id": 1061955,
+    "name": "traefik",
+    "version": "2.9.10",
+    "created_at": "2023-04-20T13:15:27",
+    "updated_at": "2023-06-26T14:40:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:traefik:traefik:2.9.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

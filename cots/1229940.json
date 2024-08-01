@@ -1,0 +1,10 @@
+{
+    "id": 1229940,
+    "name": "netscaler_application_delivery_controller",
+    "version": "14.1-8.50",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:14.1-8.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

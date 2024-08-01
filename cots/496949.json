@@ -1,0 +1,10 @@
+{
+    "id": 496949,
+    "name": "digitalocean",
+    "version": "1.0",
+    "created_at": "2020-02-13T18:36:41",
+    "updated_at": "2020-02-13T18:36:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:digitalocean:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

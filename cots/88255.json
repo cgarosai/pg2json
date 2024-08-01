@@ -1,0 +1,10 @@
+{
+    "id": 88255,
+    "name": "sinamics_g120",
+    "version": "-",
+    "created_at": "2013-12-09T15:40:23",
+    "updated_at": "2013-12-09T15:48:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:sinamics_g120:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

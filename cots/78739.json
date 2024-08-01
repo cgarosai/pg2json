@@ -1,0 +1,10 @@
+{
+    "id": 78739,
+    "name": "curl",
+    "version": "7.10.5",
+    "created_at": "2013-04-30T14:36:00",
+    "updated_at": "2013-05-08T12:49:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haxx:curl:7.10.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

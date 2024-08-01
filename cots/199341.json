@@ -1,0 +1,10 @@
+{
+    "id": 199341,
+    "name": "libnfnetlink",
+    "version": "0.0.33",
+    "created_at": "2019-01-02T18:28:24",
+    "updated_at": "2019-01-02T18:28:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netfilter:libnfnetlink:0.0.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

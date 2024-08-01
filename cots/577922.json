@@ -1,0 +1,10 @@
+{
+    "id": 577922,
+    "name": "ledger",
+    "version": "3.1.2",
+    "created_at": "2020-07-30T11:59:52",
+    "updated_at": "2020-07-30T11:59:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ledger-cli:ledger:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

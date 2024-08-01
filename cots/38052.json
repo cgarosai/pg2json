@@ -1,0 +1,10 @@
+{
+    "id": 38052,
+    "name": "vips",
+    "version": "7.20.3",
+    "created_at": "2010-10-21T18:29:23",
+    "updated_at": "2011-02-18T18:41:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vips:vips:7.20.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

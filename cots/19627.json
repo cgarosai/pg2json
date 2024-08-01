@@ -1,0 +1,10 @@
+{
+    "id": 19627,
+    "name": "live_messenger",
+    "version": "9.0",
+    "created_at": "2007-08-28T19:32:03",
+    "updated_at": "2008-04-07T12:27:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:live_messenger:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

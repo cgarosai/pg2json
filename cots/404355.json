@@ -1,0 +1,10 @@
+{
+    "id": 404355,
+    "name": "direct_mail",
+    "version": "3.1.2",
+    "created_at": "2019-10-21T11:58:11",
+    "updated_at": "2019-10-21T11:58:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dkd:direct_mail:3.1.2:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

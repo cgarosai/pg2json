@@ -1,0 +1,10 @@
+{
+    "id": 527163,
+    "name": "cloud_foundry_log_cache_release",
+    "version": "2.1.4",
+    "created_at": "2020-04-01T16:10:20",
+    "updated_at": "2020-04-01T16:10:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_log_cache_release:2.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

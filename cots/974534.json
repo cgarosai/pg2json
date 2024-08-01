@@ -1,0 +1,10 @@
+{
+    "id": 974534,
+    "name": "windows_10_1511",
+    "version": "10.0.10586.1356",
+    "created_at": "2022-12-05T16:51:29",
+    "updated_at": "2022-12-05T16:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_10_1511:10.0.10586.1356:*:*:*:*:*:arm64:*",
+    "to_analyse": false
+}

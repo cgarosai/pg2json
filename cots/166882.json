@@ -1,0 +1,10 @@
+{
+    "id": 166882,
+    "name": "antminer_d3_firmware",
+    "version": "-",
+    "created_at": "2018-07-06T11:33:24",
+    "updated_at": "2021-04-28T16:54:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bitmain:antminer_d3_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

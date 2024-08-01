@@ -1,0 +1,10 @@
+{
+    "id": 385438,
+    "name": "slug",
+    "version": "0.2.1",
+    "created_at": "2019-09-23T16:02:07",
+    "updated_at": "2019-09-23T16:02:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:slug_project:slug:0.2.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

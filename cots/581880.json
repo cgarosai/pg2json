@@ -1,0 +1,10 @@
+{
+    "id": 581880,
+    "name": "trytond",
+    "version": "5.0.21",
+    "created_at": "2020-08-26T15:35:29",
+    "updated_at": "2020-08-26T15:35:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tryton:trytond:5.0.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

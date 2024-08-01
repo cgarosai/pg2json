@@ -1,0 +1,10 @@
+{
+    "id": 399563,
+    "name": "windows_agent",
+    "version": "2.2",
+    "created_at": "2019-10-01T12:47:48",
+    "updated_at": "2019-10-01T12:47:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:datto:windows_agent:2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

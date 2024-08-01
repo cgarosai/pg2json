@@ -1,0 +1,10 @@
+{
+    "id": 112478,
+    "name": "virtualized_packet",
+    "version": "20.0",
+    "created_at": "2016-11-21T18:52:54",
+    "updated_at": "2021-04-01T14:24:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:virtualized_packet:20.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

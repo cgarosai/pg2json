@@ -1,0 +1,10 @@
+{
+    "id": 57422,
+    "name": "instrument_manager",
+    "version": "5.57",
+    "created_at": "2012-05-08T11:50:52",
+    "updated_at": "2012-05-08T11:50:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:chickensys:instrument_manager:5.57:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

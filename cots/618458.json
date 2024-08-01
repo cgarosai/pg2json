@@ -1,0 +1,10 @@
+{
+    "id": 618458,
+    "name": "atlas",
+    "version": "2.1.0",
+    "created_at": "2020-11-09T16:03:29",
+    "updated_at": "2020-11-09T16:03:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:atlas:2.1.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

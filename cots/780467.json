@@ -1,0 +1,10 @@
+{
+    "id": 780467,
+    "name": "meeting_connector",
+    "version": "4.3.134251.1029",
+    "created_at": "2021-10-06T14:43:39",
+    "updated_at": "2021-10-06T15:04:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zoom:meeting_connector:4.3.134251.1029:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

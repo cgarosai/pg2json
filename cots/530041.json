@@ -1,0 +1,10 @@
+{
+    "id": 530041,
+    "name": "proliant_xl190r_gen10_server_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:06:45",
+    "updated_at": "2020-04-27T18:06:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_xl190r_gen10_server_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

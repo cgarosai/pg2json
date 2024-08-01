@@ -1,0 +1,10 @@
+{
+    "id": 582869,
+    "name": "gd32f103_firmware",
+    "version": "-",
+    "created_at": "2020-08-31T18:29:15",
+    "updated_at": "2021-08-17T12:14:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:gigadevice:gd32f103_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

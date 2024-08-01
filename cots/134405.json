@@ -1,0 +1,10 @@
+{
+    "id": 134405,
+    "name": "cve-30360_firmware",
+    "version": "3.1.1.21",
+    "created_at": "2018-01-30T17:31:58",
+    "updated_at": "2021-06-22T15:18:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hitrontech:cve-30360_firmware:3.1.1.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

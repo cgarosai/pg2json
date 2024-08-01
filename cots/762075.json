@@ -1,0 +1,10 @@
+{
+    "id": 762075,
+    "name": "storage_zones_controller",
+    "version": "-",
+    "created_at": "2021-08-27T10:51:41",
+    "updated_at": "2021-08-30T16:43:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:storage_zones_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

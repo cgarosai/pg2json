@@ -1,0 +1,10 @@
+{
+    "id": 25016,
+    "name": "z\\/os",
+    "version": "-",
+    "created_at": "2009-02-25T16:12:19",
+    "updated_at": "2011-01-25T14:30:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:z\\/os:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

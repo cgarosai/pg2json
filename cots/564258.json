@@ -1,0 +1,10 @@
+{
+    "id": 564258,
+    "name": "kramdown",
+    "version": "0.5.0",
+    "created_at": "2020-07-22T17:51:36",
+    "updated_at": "2020-07-22T17:51:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kramdown_project:kramdown:0.5.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 537063,
+    "name": "simatic_s7-410_cpu_firmware",
+    "version": "-",
+    "created_at": "2020-04-15T12:03:05",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-410_cpu_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

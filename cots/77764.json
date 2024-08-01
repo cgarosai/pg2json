@@ -1,0 +1,10 @@
+{
+    "id": 77764,
+    "name": "active_directory_services",
+    "version": "-",
+    "created_at": "2013-04-10T13:11:40",
+    "updated_at": "2013-04-12T12:18:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:active_directory_services:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

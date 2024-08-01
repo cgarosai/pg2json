@@ -1,0 +1,10 @@
+{
+    "id": 197163,
+    "name": "cloud_platform",
+    "version": "-",
+    "created_at": "2018-12-11T15:13:40",
+    "updated_at": "2018-12-11T15:13:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:cloud_platform:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

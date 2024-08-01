@@ -1,0 +1,10 @@
+{
+    "id": 58503,
+    "name": "enterprise",
+    "version": "50.0.227.0",
+    "created_at": "2012-05-14T21:30:09",
+    "updated_at": "2012-05-14T21:30:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:enterprise:50.0.227.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

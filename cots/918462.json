@@ -1,0 +1,10 @@
+{
+    "id": 918462,
+    "name": "compuware_ispw_operations",
+    "version": "1.0.6",
+    "created_at": "2022-08-02T09:13:21",
+    "updated_at": "2022-08-02T12:12:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:compuware_ispw_operations:1.0.6:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

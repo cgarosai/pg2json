@@ -1,0 +1,10 @@
+{
+    "id": 561256,
+    "name": "duckduckgo",
+    "version": "5.36.0",
+    "created_at": "2020-07-13T12:55:52",
+    "updated_at": "2020-07-13T12:55:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duckduckgo:duckduckgo:5.36.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

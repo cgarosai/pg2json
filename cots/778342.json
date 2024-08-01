@@ -1,0 +1,10 @@
+{
+    "id": 778342,
+    "name": "user_ldap",
+    "version": "0.15.0",
+    "created_at": "2021-09-14T13:10:37",
+    "updated_at": "2021-09-14T13:16:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:owncloud:user_ldap:0.15.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

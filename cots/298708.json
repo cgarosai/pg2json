@@ -1,0 +1,10 @@
+{
+    "id": 298708,
+    "name": "ffmpeg",
+    "version": "2.6",
+    "created_at": "2019-07-15T13:41:32",
+    "updated_at": "2019-07-15T13:41:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ffmpeg:ffmpeg:2.6:dev:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1278083,
+    "name": "solid_security",
+    "version": "5.6.0",
+    "created_at": "2024-06-25T14:53:10",
+    "updated_at": "2024-06-25T14:53:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solidwp:solid_security:5.6.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

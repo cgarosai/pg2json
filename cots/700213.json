@@ -1,0 +1,10 @@
+{
+    "id": 700213,
+    "name": "elasticsearch",
+    "version": "1.4.0",
+    "created_at": "2021-05-19T20:17:35",
+    "updated_at": "2021-05-19T20:18:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:elasticsearch:1.4.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

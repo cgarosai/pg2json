@@ -1,0 +1,10 @@
+{
+    "id": 1250266,
+    "name": "omniauth",
+    "version": "1.9.2",
+    "created_at": "2024-02-14T15:03:15",
+    "updated_at": "2024-02-14T15:03:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:omniauth:omniauth:1.9.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

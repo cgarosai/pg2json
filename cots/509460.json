@@ -1,0 +1,10 @@
+{
+    "id": 509460,
+    "name": "nas326_firmware",
+    "version": "-",
+    "created_at": "2020-03-05T19:09:30",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:nas326_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

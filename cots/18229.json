@@ -1,0 +1,10 @@
+{
+    "id": 18229,
+    "name": "java_system_directory_proxy_server",
+    "version": "5.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:51:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:java_system_directory_proxy_server:5.2:2003q4:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 432230,
+    "name": "xeon_5217",
+    "version": "-",
+    "created_at": "2019-11-20T13:03:43",
+    "updated_at": "2021-04-30T16:48:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_5217:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1200008,
+    "name": "broken_link_checker",
+    "version": "4.0",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:managewp:broken_link_checker:4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 537907,
+    "name": "r9000_firmware",
+    "version": "-",
+    "created_at": "2020-04-21T15:32:39",
+    "updated_at": "2020-04-21T15:32:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r9000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

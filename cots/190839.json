@@ -1,0 +1,10 @@
+{
+    "id": 190839,
+    "name": "dracut",
+    "version": "030",
+    "created_at": "2019-01-08T16:21:07",
+    "updated_at": "2019-01-08T16:21:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:dracut:030:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

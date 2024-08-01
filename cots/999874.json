@@ -1,0 +1,10 @@
+{
+    "id": 999874,
+    "name": "dap-2695_firmware",
+    "version": "1.20rc119",
+    "created_at": "2022-12-22T17:23:15",
+    "updated_at": "2022-12-28T15:08:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dlink:dap-2695_firmware:1.20rc119:beta31:*:*:*:*:*:*",
+    "to_analyse": false
+}

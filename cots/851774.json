@@ -1,0 +1,10 @@
+{
+    "id": 851774,
+    "name": "endpoint_security_tools",
+    "version": "7.2.2.92",
+    "created_at": "2022-03-11T13:34:31",
+    "updated_at": "2022-03-15T14:07:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitdefender:endpoint_security_tools:7.2.2.92:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

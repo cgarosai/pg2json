@@ -1,0 +1,10 @@
+{
+    "id": 31545,
+    "name": "sunos",
+    "version": "5.10",
+    "created_at": "2011-01-18T18:38:10",
+    "updated_at": "2011-01-18T18:38:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sun:sunos:5.10:-:sparc:*:*:*:*:*",
+    "to_analyse": false
+}

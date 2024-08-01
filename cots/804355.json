@@ -1,0 +1,10 @@
+{
+    "id": 804355,
+    "name": "client_invoicing_by_sprout_invoices",
+    "version": "6.2",
+    "created_at": "2021-11-18T16:27:19",
+    "updated_at": "2021-11-18T17:13:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webventures:client_invoicing_by_sprout_invoices:6.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

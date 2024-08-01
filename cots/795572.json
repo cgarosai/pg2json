@@ -1,0 +1,10 @@
+{
+    "id": 795572,
+    "name": "libreoffice",
+    "version": "7.0.2.2",
+    "created_at": "2021-10-14T10:52:07",
+    "updated_at": "2021-10-14T10:58:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libreoffice:libreoffice:7.0.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

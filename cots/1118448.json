@@ -1,0 +1,10 @@
+{
+    "id": 1118448,
+    "name": "mcr-va-10k",
+    "version": "-",
+    "created_at": "2023-07-10T15:36:17",
+    "updated_at": "2023-07-11T12:54:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arubanetworks:mcr-va-10k:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

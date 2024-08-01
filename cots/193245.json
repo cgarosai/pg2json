@@ -1,0 +1,10 @@
+{
+    "id": 193245,
+    "name": "big-ip_4000s",
+    "version": "-",
+    "created_at": "2019-01-17T15:43:23",
+    "updated_at": "2019-01-17T15:43:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:f5:big-ip_4000s:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

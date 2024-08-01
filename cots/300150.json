@@ -1,0 +1,10 @@
+{
+    "id": 300150,
+    "name": "contao",
+    "version": "3.5.23",
+    "created_at": "2019-07-23T09:45:40",
+    "updated_at": "2019-07-23T09:45:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:contao:contao:3.5.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

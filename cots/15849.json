@@ -1,0 +1,10 @@
+{
+    "id": 15849,
+    "name": "mysql",
+    "version": "4.0.17",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2019-10-07T14:42:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysql:mysql:4.0.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1232103,
+    "name": "wasmer",
+    "version": "3.0.0",
+    "created_at": "2024-01-16T18:37:05",
+    "updated_at": "2024-01-16T18:37:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wasmer:wasmer:3.0.0:rc3:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 267405,
+    "name": "blktrace",
+    "version": "1.2.0",
+    "created_at": "2019-06-14T14:59:41",
+    "updated_at": "2019-06-14T14:59:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:blktrace_project:blktrace:1.2.0:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

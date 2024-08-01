@@ -1,0 +1,10 @@
+{
+    "id": 809815,
+    "name": "redirect_404_error_page_to_homepage_or_custom_page_with_logs",
+    "version": "1.5.4",
+    "created_at": "2021-11-11T00:20:20",
+    "updated_at": "2021-11-11T00:36:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fullworks:redirect_404_error_page_to_homepage_or_custom_page_with_logs:1.5.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

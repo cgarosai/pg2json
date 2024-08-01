@@ -1,0 +1,10 @@
+{
+    "id": 151629,
+    "name": "accent_st_firmware",
+    "version": "f10.08.6c",
+    "created_at": "2018-05-30T11:15:43",
+    "updated_at": "2021-06-14T16:29:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abbott:accent_st_firmware:f10.08.6c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

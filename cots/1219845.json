@@ -1,0 +1,10 @@
+{
+    "id": 1219845,
+    "name": "mos",
+    "version": "0.13.0",
+    "created_at": "2023-12-16T02:29:20",
+    "updated_at": "2023-12-16T02:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arista:mos:0.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

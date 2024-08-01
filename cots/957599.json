@@ -1,0 +1,10 @@
+{
+    "id": 957599,
+    "name": "ungit",
+    "version": "1.4.48",
+    "created_at": "2022-10-19T17:19:08",
+    "updated_at": "2022-10-19T17:20:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ungit_project:ungit:1.4.48:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

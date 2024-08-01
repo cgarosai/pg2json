@@ -1,0 +1,10 @@
+{
+    "id": 145044,
+    "name": "core_i3",
+    "version": "4030u",
+    "created_at": "2018-02-07T11:24:45",
+    "updated_at": "2023-09-25T18:35:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i3:4030u:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

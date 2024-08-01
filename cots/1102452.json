@@ -1,0 +1,10 @@
+{
+    "id": 1102452,
+    "name": "client_connector",
+    "version": "1.9.7",
+    "created_at": "2023-06-30T12:45:56",
+    "updated_at": "2023-06-30T14:38:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zscaler:client_connector:1.9.7:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

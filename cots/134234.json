@@ -1,0 +1,10 @@
+{
+    "id": 134234,
+    "name": "leap",
+    "version": "42.0",
+    "created_at": "2018-01-25T11:51:09",
+    "updated_at": "2018-01-25T11:51:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:opensuse:leap:42.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

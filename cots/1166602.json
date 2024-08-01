@@ -1,0 +1,10 @@
+{
+    "id": 1166602,
+    "name": "endpoint_manager_mobile",
+    "version": "11.9.1.2",
+    "created_at": "2023-09-25T17:11:23",
+    "updated_at": "2023-09-25T17:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:endpoint_manager_mobile:11.9.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

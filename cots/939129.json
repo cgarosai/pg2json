@@ -1,0 +1,10 @@
+{
+    "id": 939129,
+    "name": "password_policy",
+    "version": "23.0.9",
+    "created_at": "2022-09-08T13:07:41",
+    "updated_at": "2022-09-10T00:28:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:password_policy:23.0.9:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

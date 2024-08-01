@@ -1,0 +1,10 @@
+{
+    "id": 164018,
+    "name": "idrac7",
+    "version": "2.52.52.52",
+    "created_at": "2018-08-22T15:50:09",
+    "updated_at": "2021-05-17T15:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:idrac7:2.52.52.52:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 709720,
+    "name": "sinamics_sm150i_firmware",
+    "version": "-",
+    "created_at": "2021-05-19T12:51:29",
+    "updated_at": "2021-05-26T13:38:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_sm150i_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

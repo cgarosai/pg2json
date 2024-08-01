@@ -1,0 +1,10 @@
+{
+    "id": 936657,
+    "name": "callrail_phone_call_tracking",
+    "version": "0.4.2",
+    "created_at": "2022-09-02T13:23:29",
+    "updated_at": "2022-09-03T01:16:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:callrail:callrail_phone_call_tracking:0.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

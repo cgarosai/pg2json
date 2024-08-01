@@ -1,0 +1,10 @@
+{
+    "id": 1277112,
+    "name": "pymongo",
+    "version": "0.5.1",
+    "created_at": "2024-06-17T10:47:41",
+    "updated_at": "2024-06-17T10:47:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mongodb:pymongo:0.5.1:prerelease:*:*:*:*:*:*",
+    "to_analyse": false
+}

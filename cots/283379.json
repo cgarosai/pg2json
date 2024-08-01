@@ -1,0 +1,10 @@
+{
+    "id": 283379,
+    "name": "hc10",
+    "version": "10.3.7",
+    "created_at": "2019-07-11T12:53:30",
+    "updated_at": "2019-07-11T12:53:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hostingcontroller:hc10:10.3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

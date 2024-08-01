@@ -1,0 +1,10 @@
+{
+    "id": 1011180,
+    "name": "liftkit_database_library",
+    "version": "2.9.0",
+    "created_at": "2023-01-23T12:47:35",
+    "updated_at": "2023-01-23T13:57:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liftkit_database_library_project:liftkit_database_library:2.9.0:alpha7:*:*:*:*:*:*",
+    "to_analyse": false
+}

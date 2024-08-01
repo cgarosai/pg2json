@@ -1,0 +1,10 @@
+{
+    "id": 369589,
+    "name": "bower",
+    "version": "-",
+    "created_at": "2019-09-16T09:41:59",
+    "updated_at": "2019-09-16T09:41:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bower:bower:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

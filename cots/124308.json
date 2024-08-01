@@ -1,0 +1,10 @@
+{
+    "id": 124308,
+    "name": "thinkserver_ts240_firmware",
+    "version": "fbktc3a",
+    "created_at": "2017-08-28T15:40:31",
+    "updated_at": "2021-05-05T10:53:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lenovo:thinkserver_ts240_firmware:fbktc3a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

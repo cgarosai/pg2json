@@ -1,0 +1,10 @@
+{
+    "id": 915913,
+    "name": "emc_data_protection_central",
+    "version": "19.7",
+    "created_at": "2022-07-27T14:21:23",
+    "updated_at": "2022-07-27T14:33:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_data_protection_central:19.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

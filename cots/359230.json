@@ -1,0 +1,10 @@
+{
+    "id": 359230,
+    "name": "rustls",
+    "version": "0.5.4",
+    "created_at": "2019-09-05T14:10:15",
+    "updated_at": "2019-09-05T14:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rustls_project:rustls:0.5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

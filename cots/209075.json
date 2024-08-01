@@ -1,0 +1,10 @@
+{
+    "id": 209075,
+    "name": "manageditsync",
+    "version": "2017",
+    "created_at": "2019-02-21T17:27:13",
+    "updated_at": "2021-05-27T14:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:connectwise:manageditsync:2017:*:*:*:*:kaseya_vsa:*:*",
+    "to_analyse": false
+}

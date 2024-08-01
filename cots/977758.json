@@ -1,0 +1,10 @@
+{
+    "id": 977758,
+    "name": "dalli",
+    "version": "2.7.7",
+    "created_at": "2022-11-25T14:37:34",
+    "updated_at": "2022-11-25T15:05:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dalli_project:dalli:2.7.7:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

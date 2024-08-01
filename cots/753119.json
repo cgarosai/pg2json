@@ -1,0 +1,10 @@
+{
+    "id": 753119,
+    "name": "bitcoin_wallet",
+    "version": "4.0.0",
+    "created_at": "2021-08-11T15:39:17",
+    "updated_at": "2021-08-11T21:17:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:electrum:bitcoin_wallet:4.0.0:b1:*:*:*:*:*:*",
+    "to_analyse": false
+}

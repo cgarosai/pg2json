@@ -1,0 +1,10 @@
+{
+    "id": 984816,
+    "name": "edge",
+    "version": "108.0.1462.42",
+    "created_at": "2022-12-15T18:55:44",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:edge:108.0.1462.42:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

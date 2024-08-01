@@ -1,0 +1,10 @@
+{
+    "id": 340205,
+    "name": "import_export_wordpress_users",
+    "version": "1.0.0",
+    "created_at": "2019-08-28T14:22:24",
+    "updated_at": "2019-08-28T14:22:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webtoffee:import_export_wordpress_users:1.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

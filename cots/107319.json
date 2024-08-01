@@ -1,0 +1,10 @@
+{
+    "id": 107319,
+    "name": "tivoli_endpoint_manager",
+    "version": "9.1.1117",
+    "created_at": "2015-02-17T17:45:29",
+    "updated_at": "2015-02-17T21:24:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_endpoint_manager:9.1.1117:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

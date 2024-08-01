@@ -1,0 +1,10 @@
+{
+    "id": 1216198,
+    "name": "cyr_to_lat",
+    "version": "3.7",
+    "created_at": "2023-12-10T19:14:12",
+    "updated_at": "2023-12-10T19:14:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyr_to_lat_project:cyr_to_lat:3.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

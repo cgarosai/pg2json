@@ -1,0 +1,10 @@
+{
+    "id": 300315,
+    "name": "media_from_ftp",
+    "version": "11.00",
+    "created_at": "2019-07-23T09:56:38",
+    "updated_at": "2019-07-23T09:56:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:media_from_ftp_project:media_from_ftp:11.00:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

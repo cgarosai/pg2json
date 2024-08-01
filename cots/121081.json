@@ -1,0 +1,10 @@
+{
+    "id": 121081,
+    "name": "epmp_elevate",
+    "version": "-",
+    "created_at": "2017-06-29T14:44:31",
+    "updated_at": "2021-05-04T16:52:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cambiumnetworks:epmp_elevate:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

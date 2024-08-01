@@ -1,0 +1,10 @@
+{
+    "id": 499894,
+    "name": "nip6300_firmware",
+    "version": "v500r001c20spc200",
+    "created_at": "2020-02-21T19:02:28",
+    "updated_at": "2020-02-21T19:02:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:nip6300_firmware:v500r001c20spc200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

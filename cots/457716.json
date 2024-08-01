@@ -1,0 +1,10 @@
+{
+    "id": 457716,
+    "name": "tableau_server",
+    "version": "10.4.11",
+    "created_at": "2019-12-08T17:07:38",
+    "updated_at": "2019-12-08T17:07:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tableau:tableau_server:10.4.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

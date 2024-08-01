@@ -1,0 +1,10 @@
+{
+    "id": 53878,
+    "name": "universal_forwarder",
+    "version": "4.2.3.105575",
+    "created_at": "2012-07-10T01:20:18",
+    "updated_at": "2012-07-10T01:20:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splunk:universal_forwarder:4.2.3.105575:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 499634,
+    "name": "promise-probe",
+    "version": "0.1.0",
+    "created_at": "2020-02-21T16:38:50",
+    "updated_at": "2020-02-21T16:38:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:promise-probe_project:promise-probe:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

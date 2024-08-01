@@ -1,0 +1,10 @@
+{
+    "id": 622979,
+    "name": "www-sql",
+    "version": "-",
+    "created_at": "2020-12-08T22:36:18",
+    "updated_at": "2020-12-08T22:36:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:www-sql_project:www-sql:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

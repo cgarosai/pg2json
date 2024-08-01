@@ -1,0 +1,10 @@
+{
+    "id": 1113564,
+    "name": "platform",
+    "version": "14.0.0",
+    "created_at": "2023-07-19T13:06:50",
+    "updated_at": "2023-07-19T13:24:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:orchid:platform:14.0.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

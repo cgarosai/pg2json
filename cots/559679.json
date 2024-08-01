@@ -1,0 +1,10 @@
+{
+    "id": 559679,
+    "name": "rtmpdump",
+    "version": "2.4",
+    "created_at": "2020-06-11T10:51:49",
+    "updated_at": "2020-06-11T10:51:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rtmpdump_project:rtmpdump:2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

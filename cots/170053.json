@@ -1,0 +1,10 @@
+{
+    "id": 170053,
+    "name": "nms",
+    "version": "30m",
+    "created_at": "2018-10-10T16:07:15",
+    "updated_at": "2021-06-21T14:43:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ericsson-lg:nms:30m:b.2ia:*:*:*:*:*:*",
+    "to_analyse": false
+}

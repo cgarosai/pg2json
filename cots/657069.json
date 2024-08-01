@@ -1,0 +1,10 @@
+{
+    "id": 657069,
+    "name": "antivirus",
+    "version": "11.0",
+    "created_at": "2021-02-05T11:39:12",
+    "updated_at": "2021-06-01T11:25:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:antivirus:11.0:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

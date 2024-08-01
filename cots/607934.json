@@ -1,0 +1,10 @@
+{
+    "id": 607934,
+    "name": "django_rest_framework",
+    "version": "2.2.6",
+    "created_at": "2020-10-05T16:36:09",
+    "updated_at": "2020-10-05T16:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:encode:django_rest_framework:2.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

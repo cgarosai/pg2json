@@ -1,0 +1,10 @@
+{
+    "id": 106546,
+    "name": "simatic_wincc_sm\\@rtclient",
+    "version": "1.0",
+    "created_at": "2015-01-14T16:23:57",
+    "updated_at": "2015-05-18T15:27:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_sm\\@rtclient:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

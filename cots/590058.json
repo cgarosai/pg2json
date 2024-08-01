@@ -1,0 +1,10 @@
+{
+    "id": 590058,
+    "name": "recall-products",
+    "version": "0.8",
+    "created_at": "2020-09-14T18:12:23",
+    "updated_at": "2020-09-14T18:12:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:recall-products_project:recall-products:0.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

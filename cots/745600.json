@@ -1,0 +1,10 @@
+{
+    "id": 745600,
+    "name": "true_image",
+    "version": "2021",
+    "created_at": "2021-07-16T11:47:34",
+    "updated_at": "2021-09-25T11:37:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acronis:true_image:2021:1:*:*:*:macos:*:*",
+    "to_analyse": false
+}

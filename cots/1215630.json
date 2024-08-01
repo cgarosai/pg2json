@@ -1,0 +1,10 @@
+{
+    "id": 1215630,
+    "name": "gpac",
+    "version": "2.3.0-dev",
+    "created_at": "2023-12-08T23:30:32",
+    "updated_at": "2023-12-08T23:30:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpac:gpac:2.3.0-dev:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 548996,
+    "name": "endpoint_protection",
+    "version": "12.1",
+    "created_at": "2020-05-11T17:20:21",
+    "updated_at": "2020-05-11T17:20:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_protection:12.1:ru4-mp1a:*:*:*:macos:*:*",
+    "to_analyse": false
+}

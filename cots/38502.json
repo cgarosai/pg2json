@@ -1,0 +1,10 @@
+{
+    "id": 38502,
+    "name": "ciscoworks_lan_management_solution",
+    "version": "2.6",
+    "created_at": "2010-11-01T12:12:44",
+    "updated_at": "2010-11-05T13:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:ciscoworks_lan_management_solution:2.6:update:*:*:*:*:*:*",
+    "to_analyse": false
+}

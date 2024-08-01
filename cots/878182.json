@@ -1,0 +1,10 @@
+{
+    "id": 878182,
+    "name": "yet_another_reverse_proxy",
+    "version": "1.1.0",
+    "created_at": "2022-04-25T13:14:36",
+    "updated_at": "2022-10-06T12:08:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:yet_another_reverse_proxy:1.1.0:rc1.22152.1:*:*:*:*:*:*",
+    "to_analyse": false
+}

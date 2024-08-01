@@ -1,0 +1,10 @@
+{
+    "id": 123759,
+    "name": "ssd_540s_series_m.2_firmware",
+    "version": "lsf036c",
+    "created_at": "2017-08-24T15:09:52",
+    "updated_at": "2021-05-04T12:18:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_540s_series_m.2_firmware:lsf036c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

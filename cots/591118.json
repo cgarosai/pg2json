@@ -1,0 +1,10 @@
+{
+    "id": 591118,
+    "name": "secflow-1v_firmware",
+    "version": "os-image_sf_0290_2.3.01.26",
+    "created_at": "2020-09-17T10:46:10",
+    "updated_at": "2021-06-28T11:24:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rad:secflow-1v_firmware:os-image_sf_0290_2.3.01.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

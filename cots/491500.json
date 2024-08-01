@@ -1,0 +1,10 @@
+{
+    "id": 491500,
+    "name": "linksys_wrt110_firmware",
+    "version": "-",
+    "created_at": "2020-02-24T14:50:13",
+    "updated_at": "2020-02-24T14:50:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:linksys_wrt110_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

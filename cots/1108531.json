@@ -1,0 +1,10 @@
+{
+    "id": 1108531,
+    "name": "spectralnet_narrowband_firmware",
+    "version": "-",
+    "created_at": "2023-06-26T11:49:24",
+    "updated_at": "2023-08-29T13:00:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:kratosdefense:spectralnet_narrowband_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 227912,
+    "name": "mabl",
+    "version": "-",
+    "created_at": "2019-04-11T16:52:30",
+    "updated_at": "2019-04-11T16:52:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:mabl:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

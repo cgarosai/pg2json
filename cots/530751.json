@@ -1,0 +1,10 @@
+{
+    "id": 530751,
+    "name": "r6080_firmware",
+    "version": "1.0.0.26",
+    "created_at": "2020-04-28T11:57:13",
+    "updated_at": "2020-04-28T11:57:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6080_firmware:1.0.0.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

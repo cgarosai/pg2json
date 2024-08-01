@@ -1,0 +1,10 @@
+{
+    "id": 94480,
+    "name": "webaccess",
+    "version": "7.2",
+    "created_at": "2014-11-24T13:09:54",
+    "updated_at": "2015-02-09T15:12:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:advantech:webaccess:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 125791,
+    "name": "interscan_messaging_security_virtual_appliance",
+    "version": "9.1-1600",
+    "created_at": "2017-03-14T17:44:08",
+    "updated_at": "2021-06-01T13:20:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1-1600:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

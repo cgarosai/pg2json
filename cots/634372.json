@@ -1,0 +1,10 @@
+{
+    "id": 634372,
+    "name": "nanorand",
+    "version": "0.0.0",
+    "created_at": "2021-01-06T14:14:52",
+    "updated_at": "2021-01-06T14:14:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nanorand_project:nanorand:0.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

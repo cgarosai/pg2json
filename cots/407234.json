@@ -1,0 +1,10 @@
+{
+    "id": 407234,
+    "name": "jumio_sdk",
+    "version": "2.14.0",
+    "created_at": "2019-10-09T14:36:10",
+    "updated_at": "2019-10-09T14:36:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jumio:jumio_sdk:2.14.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

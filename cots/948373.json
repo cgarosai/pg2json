@@ -1,0 +1,10 @@
+{
+    "id": 948373,
+    "name": "ldap_wp_login_\\/_active_directory_integration",
+    "version": "1.0.0",
+    "created_at": "2022-09-28T11:25:33",
+    "updated_at": "2022-10-24T10:52:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ldap_wp_login_\\/_active_directory_integration_project:ldap_wp_login_\\/_active_directory_integration:1.0.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

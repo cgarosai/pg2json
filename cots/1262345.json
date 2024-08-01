@@ -1,0 +1,10 @@
+{
+    "id": 1262345,
+    "name": "gnuserv",
+    "version": "3.12",
+    "created_at": "2024-05-28T13:57:11",
+    "updated_at": "2024-05-28T13:57:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:andynorman:gnuserv:3.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

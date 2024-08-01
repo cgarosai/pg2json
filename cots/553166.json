@@ -1,0 +1,10 @@
+{
+    "id": 553166,
+    "name": "redash",
+    "version": "1.0.2",
+    "created_at": "2020-06-22T18:04:01",
+    "updated_at": "2020-06-22T18:04:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redash:redash:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

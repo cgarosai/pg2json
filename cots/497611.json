@@ -1,0 +1,10 @@
+{
+    "id": 497611,
+    "name": "openfiler",
+    "version": "2.3",
+    "created_at": "2020-02-18T18:56:39",
+    "updated_at": "2020-02-18T18:56:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openfiler:openfiler:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

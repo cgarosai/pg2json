@@ -1,0 +1,10 @@
+{
+    "id": 325289,
+    "name": "credential-helpers",
+    "version": "0.3.0",
+    "created_at": "2019-07-31T10:52:08",
+    "updated_at": "2019-08-01T10:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:credential-helpers:0.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

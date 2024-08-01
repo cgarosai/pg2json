@@ -1,0 +1,10 @@
+{
+    "id": 122498,
+    "name": "mx011anm_firmware",
+    "version": "mx011an_2.9p6s1_prod_sey",
+    "created_at": "2017-08-01T16:01:52",
+    "updated_at": "2021-08-10T12:07:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:mx011anm_firmware:mx011an_2.9p6s1_prod_sey:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

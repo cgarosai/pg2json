@@ -1,0 +1,10 @@
+{
+    "id": 742604,
+    "name": "graphhopper",
+    "version": "4.0",
+    "created_at": "2021-07-27T11:11:10",
+    "updated_at": "2021-07-27T11:59:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:graphhopper:graphhopper:4.0:pre2:*:*:*:*:*:*",
+    "to_analyse": false
+}

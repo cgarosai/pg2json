@@ -1,0 +1,10 @@
+{
+    "id": 1032977,
+    "name": "openmct",
+    "version": "2.1.6",
+    "created_at": "2023-03-02T20:40:35",
+    "updated_at": "2023-03-03T14:30:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nasa:openmct:2.1.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

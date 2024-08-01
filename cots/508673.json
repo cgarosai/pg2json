@@ -1,0 +1,10 @@
+{
+    "id": 508673,
+    "name": "gpgme",
+    "version": "0.4.3",
+    "created_at": "2020-03-04T21:01:41",
+    "updated_at": "2020-03-04T21:01:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnupg:gpgme:0.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 590438,
+    "name": "brotli",
+    "version": "1.0.5",
+    "created_at": "2020-09-15T18:26:23",
+    "updated_at": "2020-09-15T18:26:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:brotli:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

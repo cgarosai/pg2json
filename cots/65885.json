@@ -1,0 +1,10 @@
+{
+    "id": 65885,
+    "name": "vcenter_guided_consolidation",
+    "version": "4.0.0.7797",
+    "created_at": "2012-08-01T19:33:39",
+    "updated_at": "2012-08-01T19:33:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vcenter_guided_consolidation:4.0.0.7797:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1047119,
+    "name": "fs2",
+    "version": "0.10.0",
+    "created_at": "2023-03-06T23:35:11",
+    "updated_at": "2023-03-07T15:43:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typelevel:fs2:0.10.0:milestone6:*:*:*:*:*:*",
+    "to_analyse": false
+}

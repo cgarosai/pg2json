@@ -1,0 +1,10 @@
+{
+    "id": 1073879,
+    "name": "ryzen_6600h",
+    "version": "-",
+    "created_at": "2023-05-17T21:39:59",
+    "updated_at": "2023-06-20T11:49:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen_6600h:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

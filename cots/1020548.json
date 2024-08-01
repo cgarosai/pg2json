@@ -1,0 +1,10 @@
+{
+    "id": 1020548,
+    "name": "vostro_3070_firmware",
+    "version": "2.26.0",
+    "created_at": "2023-02-09T00:47:02",
+    "updated_at": "2023-02-09T16:49:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:vostro_3070_firmware:2.26.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

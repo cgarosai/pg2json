@@ -1,0 +1,10 @@
+{
+    "id": 633451,
+    "name": "multi-ini",
+    "version": "1.0.0",
+    "created_at": "2021-01-04T14:40:10",
+    "updated_at": "2021-01-04T14:40:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:multi-ini_project:multi-ini:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

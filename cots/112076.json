@@ -1,0 +1,10 @@
+{
+    "id": 112076,
+    "name": "wpsolr-search-engine",
+    "version": "7.6",
+    "created_at": "2016-11-03T11:53:41",
+    "updated_at": "2016-11-03T11:53:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpsolr:wpsolr-search-engine:7.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

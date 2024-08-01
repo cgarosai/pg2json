@@ -1,0 +1,10 @@
+{
+    "id": 699204,
+    "name": "icewall_sso_domain_gateway_option",
+    "version": "10.0",
+    "created_at": "2021-04-21T14:09:34",
+    "updated_at": "2021-06-11T11:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:icewall_sso_domain_gateway_option:10.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

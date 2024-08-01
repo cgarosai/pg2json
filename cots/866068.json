@@ -1,0 +1,10 @@
+{
+    "id": 866068,
+    "name": "minimist",
+    "version": "0.2.1",
+    "created_at": "2022-03-23T10:07:50",
+    "updated_at": "2022-05-17T12:42:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:substack:minimist:0.2.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

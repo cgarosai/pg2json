@@ -1,0 +1,10 @@
+{
+    "id": 115330,
+    "name": "customer_intelligence",
+    "version": "12.2.4",
+    "created_at": "2016-02-17T16:55:38",
+    "updated_at": "2016-02-17T16:55:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:customer_intelligence:12.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

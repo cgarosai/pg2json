@@ -1,0 +1,10 @@
+{
+    "id": 62097,
+    "name": "xfire",
+    "version": "1.2.4",
+    "created_at": "2012-11-05T18:35:18",
+    "updated_at": "2012-11-13T17:56:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codehaus:xfire:1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

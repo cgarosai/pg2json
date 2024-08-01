@@ -1,0 +1,10 @@
+{
+    "id": 639325,
+    "name": "jsonpickle",
+    "version": "0.9.6",
+    "created_at": "2020-12-18T17:35:18",
+    "updated_at": "2020-12-18T17:35:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jsonpickle_project:jsonpickle:0.9.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

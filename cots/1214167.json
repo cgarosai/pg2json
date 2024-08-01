@@ -1,0 +1,10 @@
+{
+    "id": 1214167,
+    "name": "hono",
+    "version": "0.5.8",
+    "created_at": "2023-12-19T17:59:20",
+    "updated_at": "2023-12-19T17:59:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hono:hono:0.5.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

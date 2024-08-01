@@ -1,0 +1,10 @@
+{
+    "id": 130342,
+    "name": "max_presence",
+    "version": "-",
+    "created_at": "2017-12-06T00:46:56",
+    "updated_at": "2021-05-20T16:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:max_presence:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1229509,
+    "name": "db2_mirror_for_i",
+    "version": "7.5",
+    "created_at": "2023-12-29T09:45:38",
+    "updated_at": "2023-12-29T09:45:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2_mirror_for_i:7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

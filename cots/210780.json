@@ -1,0 +1,10 @@
+{
+    "id": 210780,
+    "name": "m3007-pv_firmware",
+    "version": "6.50.2.3",
+    "created_at": "2019-03-20T16:44:27",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:m3007-pv_firmware:6.50.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

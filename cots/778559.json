@@ -1,0 +1,10 @@
+{
+    "id": 778559,
+    "name": "uvd_firmware",
+    "version": "-",
+    "created_at": "2021-09-14T15:19:30",
+    "updated_at": "2023-02-08T14:48:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:uvd-robots:uvd_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

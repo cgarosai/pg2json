@@ -1,0 +1,10 @@
+{
+    "id": 98831,
+    "name": "connections",
+    "version": "2.0.1.0",
+    "created_at": "2014-06-09T15:32:13",
+    "updated_at": "2014-06-19T22:58:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:connections:2.0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

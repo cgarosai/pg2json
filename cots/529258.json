@@ -1,0 +1,10 @@
+{
+    "id": 529258,
+    "name": "compactlogix_firmware",
+    "version": "-",
+    "created_at": "2020-04-03T12:20:35",
+    "updated_at": "2020-04-03T12:20:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:compactlogix_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

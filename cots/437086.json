@@ -1,0 +1,10 @@
+{
+    "id": 437086,
+    "name": "vm_server",
+    "version": "3.4",
+    "created_at": "2019-11-13T13:34:54",
+    "updated_at": "2019-11-13T13:34:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:vm_server:3.4:*:*:*:*:*:sparc:*",
+    "to_analyse": false
+}

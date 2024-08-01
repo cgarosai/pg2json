@@ -1,0 +1,10 @@
+{
+    "id": 106693,
+    "name": "sas_raid_module",
+    "version": "-",
+    "created_at": "2015-01-20T16:03:16",
+    "updated_at": "2015-05-18T15:31:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:sas_raid_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

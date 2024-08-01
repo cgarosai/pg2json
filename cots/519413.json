@@ -1,0 +1,10 @@
+{
+    "id": 519413,
+    "name": "xeon_lv_5128",
+    "version": "-",
+    "created_at": "2020-03-23T13:42:09",
+    "updated_at": "2020-03-23T13:42:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_lv_5128:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

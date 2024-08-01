@@ -1,0 +1,10 @@
+{
+    "id": 19405,
+    "name": "windows_2003_server",
+    "version": "-",
+    "created_at": "2007-08-28T16:18:47",
+    "updated_at": "2020-12-14T12:52:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_2003_server:-:r2:*:*:*:*:*:*",
+    "to_analyse": false
+}

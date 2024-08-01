@@ -1,0 +1,10 @@
+{
+    "id": 537433,
+    "name": "application_express",
+    "version": "18.2",
+    "created_at": "2020-04-16T16:55:04",
+    "updated_at": "2020-04-16T16:55:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:application_express:18.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

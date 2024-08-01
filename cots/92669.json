@@ -1,0 +1,10 @@
+{
+    "id": 92669,
+    "name": "cisco_class_locator_fast_lane",
+    "version": "-",
+    "created_at": "2014-09-11T15:58:20",
+    "updated_at": "2014-12-10T15:55:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flane:cisco_class_locator_fast_lane:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

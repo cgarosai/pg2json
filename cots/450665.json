@@ -1,0 +1,10 @@
+{
+    "id": 450665,
+    "name": "native-opencv",
+    "version": "3.0.0b",
+    "created_at": "2019-12-09T18:14:52",
+    "updated_at": "2019-12-09T18:14:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:native-opencv_project:native-opencv:3.0.0b:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

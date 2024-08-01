@@ -1,0 +1,10 @@
+{
+    "id": 879775,
+    "name": "wire-webapp",
+    "version": "2022-02-03",
+    "created_at": "2022-05-02T11:08:38",
+    "updated_at": "2022-06-03T18:10:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wire:wire-webapp:2022-02-03:staging0:*:*:*:*:*:*",
+    "to_analyse": false
+}

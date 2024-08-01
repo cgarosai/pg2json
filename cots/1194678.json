@@ -1,0 +1,10 @@
+{
+    "id": 1194678,
+    "name": "fortify_scancentral_dast",
+    "version": "22.2",
+    "created_at": "2023-11-24T22:46:02",
+    "updated_at": "2023-11-24T22:46:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:fortify_scancentral_dast:22.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

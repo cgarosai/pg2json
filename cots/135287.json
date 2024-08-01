@@ -1,0 +1,10 @@
+{
+    "id": 135287,
+    "name": "s7712_firmware",
+    "version": "v200r002",
+    "created_at": "2017-09-20T17:51:54",
+    "updated_at": "2017-09-20T17:51:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:s7712_firmware:v200r002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

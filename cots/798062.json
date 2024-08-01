@@ -1,0 +1,10 @@
+{
+    "id": 798062,
+    "name": "ops-cli",
+    "version": "0.26",
+    "created_at": "2021-10-19T13:32:17",
+    "updated_at": "2021-10-19T14:03:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:ops-cli:0.26:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

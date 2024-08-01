@@ -1,0 +1,10 @@
+{
+    "id": 70486,
+    "name": "cx200",
+    "version": "v100r005",
+    "created_at": "2013-06-21T11:45:58",
+    "updated_at": "2013-07-12T15:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:cx200:v100r005:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 902206,
+    "name": "git",
+    "version": "2.37.1",
+    "created_at": "2022-07-19T10:46:20",
+    "updated_at": "2022-11-06T14:03:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitforwindows:git:2.37.1:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

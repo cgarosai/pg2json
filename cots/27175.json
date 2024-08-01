@@ -1,0 +1,10 @@
+{
+    "id": 27175,
+    "name": "mod_mp3",
+    "version": "0.40",
+    "created_at": "2009-06-03T18:01:05",
+    "updated_at": "2009-06-03T18:01:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:brian_akers:mod_mp3:0.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1210490,
+    "name": "inplant_scada",
+    "version": "20230901",
+    "created_at": "2023-12-16T03:05:58",
+    "updated_at": "2023-12-16T03:05:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:supcon:inplant_scada:20230901:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

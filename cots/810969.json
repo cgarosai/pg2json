@@ -1,0 +1,10 @@
+{
+    "id": 810969,
+    "name": "wsr30_firmware",
+    "version": "-",
+    "created_at": "2021-12-01T14:07:12",
+    "updated_at": "2021-12-01T20:37:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:wsr30_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

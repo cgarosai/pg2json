@@ -1,0 +1,10 @@
+{
+    "id": 466425,
+    "name": "sectool",
+    "version": "-",
+    "created_at": "2019-12-16T17:41:57",
+    "updated_at": "2019-12-16T17:41:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:sectool:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

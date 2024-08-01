@@ -1,0 +1,10 @@
+{
+    "id": 72483,
+    "name": "backup_exec",
+    "version": "2010_r3",
+    "created_at": "2013-08-06T01:12:20",
+    "updated_at": "2014-04-22T17:33:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:backup_exec:2010_r3:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

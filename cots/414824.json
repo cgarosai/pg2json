@@ -1,0 +1,10 @@
+{
+    "id": 414824,
+    "name": "ox",
+    "version": "2.0.8",
+    "created_at": "2019-10-31T14:53:15",
+    "updated_at": "2019-10-31T14:53:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ox_project:ox:2.0.8:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

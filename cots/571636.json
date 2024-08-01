@@ -1,0 +1,10 @@
+{
+    "id": 571636,
+    "name": "aura_system_manager",
+    "version": "5.2",
+    "created_at": "2020-08-07T10:54:09",
+    "updated_at": "2021-03-24T16:02:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:aura_system_manager:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

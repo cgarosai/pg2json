@@ -1,0 +1,10 @@
+{
+    "id": 603497,
+    "name": "virtual_storage_console_for_vmware_vsphere",
+    "version": "7.2",
+    "created_at": "2020-10-15T11:53:51",
+    "updated_at": "2021-07-02T17:05:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:virtual_storage_console_for_vmware_vsphere:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

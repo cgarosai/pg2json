@@ -1,0 +1,10 @@
+{
+    "id": 65901,
+    "name": "vcenter_update_manager",
+    "version": "4.1.0.6589",
+    "created_at": "2012-08-01T19:33:42",
+    "updated_at": "2012-08-01T19:33:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vcenter_update_manager:4.1.0.6589:update_1:*:*:*:*:*:*",
+    "to_analyse": false
+}

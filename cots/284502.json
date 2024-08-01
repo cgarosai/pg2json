@@ -1,0 +1,10 @@
+{
+    "id": 284502,
+    "name": "freepbx",
+    "version": "2.11.0.29",
+    "created_at": "2019-07-11T14:15:56",
+    "updated_at": "2019-12-10T15:23:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freepbx:freepbx:2.11.0.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 580270,
+    "name": "pghero",
+    "version": "1.4.0",
+    "created_at": "2020-08-22T14:49:00",
+    "updated_at": "2020-08-22T14:49:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pghero_project:pghero:1.4.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

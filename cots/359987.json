@@ -1,0 +1,10 @@
+{
+    "id": 359987,
+    "name": "eclipse-cdt",
+    "version": "9.4.4",
+    "created_at": "2019-09-06T10:42:10",
+    "updated_at": "2021-05-18T16:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:diffplug:eclipse-cdt:9.4.4:*:*:*:*:spotless:*:*",
+    "to_analyse": false
+}

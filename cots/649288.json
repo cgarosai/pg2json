@@ -1,0 +1,10 @@
+{
+    "id": 649288,
+    "name": "sinamics_dcm_firmware",
+    "version": "1.4",
+    "created_at": "2021-01-14T18:46:17",
+    "updated_at": "2021-01-14T18:46:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_dcm_firmware:1.4:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

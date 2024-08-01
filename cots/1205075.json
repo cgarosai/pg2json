@@ -1,0 +1,10 @@
+{
+    "id": 1205075,
+    "name": "langchain",
+    "version": "0.0.317",
+    "created_at": "2023-11-25T03:35:20",
+    "updated_at": "2023-11-25T03:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:langchain:langchain:0.0.317:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

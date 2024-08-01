@@ -1,0 +1,10 @@
+{
+    "id": 1125030,
+    "name": "plane",
+    "version": "0.2",
+    "created_at": "2023-07-21T14:42:55",
+    "updated_at": "2023-07-21T15:43:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plane:plane:0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

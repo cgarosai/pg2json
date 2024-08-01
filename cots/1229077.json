@@ -1,0 +1,10 @@
+{
+    "id": 1229077,
+    "name": "plainview_protect_passwords",
+    "version": "-",
+    "created_at": "2023-12-28T18:46:49",
+    "updated_at": "2023-12-28T18:46:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plainviewplugins:plainview_protect_passwords:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

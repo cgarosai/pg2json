@@ -1,0 +1,10 @@
+{
+    "id": 79133,
+    "name": "smartpass",
+    "version": "7.7",
+    "created_at": "2013-05-09T10:42:23",
+    "updated_at": "2013-05-14T21:24:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:smartpass:7.7:mr3:*:*:*:*:*:*",
+    "to_analyse": false
+}

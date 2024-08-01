@@ -1,0 +1,10 @@
+{
+    "id": 93108,
+    "name": "e3236_firmware",
+    "version": "webui-13.100.10.00.03",
+    "created_at": "2014-10-23T10:28:31",
+    "updated_at": "2015-01-15T14:45:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:e3236_firmware:webui-13.100.10.00.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 728729,
+    "name": "gear_s2_firmware",
+    "version": "5.5",
+    "created_at": "2021-06-15T14:18:04",
+    "updated_at": "2021-06-28T15:15:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:gear_s2_firmware:5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

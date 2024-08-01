@@ -1,0 +1,10 @@
+{
+    "id": 219554,
+    "name": "forefront_endpoint_protection",
+    "version": "2010",
+    "created_at": "2019-03-19T13:58:26",
+    "updated_at": "2021-08-13T14:23:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:forefront_endpoint_protection:2010:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

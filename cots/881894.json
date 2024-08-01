@@ -1,0 +1,10 @@
+{
+    "id": 881894,
+    "name": "mx220_firmware",
+    "version": "1.06.14",
+    "created_at": "2022-06-06T12:09:52",
+    "updated_at": "2022-06-06T15:04:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bachmann:mx220_firmware:1.06.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 803507,
+    "name": "epyc_7003",
+    "version": "-",
+    "created_at": "2021-11-18T12:27:05",
+    "updated_at": "2021-12-03T18:34:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:epyc_7003:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

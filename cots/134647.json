@@ -1,0 +1,10 @@
+{
+    "id": 134647,
+    "name": "xg_firewall",
+    "version": "-",
+    "created_at": "2018-01-30T18:20:49",
+    "updated_at": "2021-08-11T14:23:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sophos:xg_firewall:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

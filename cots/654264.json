@@ -1,0 +1,10 @@
+{
+    "id": 654264,
+    "name": "myfaces",
+    "version": "3.0.0",
+    "created_at": "2021-02-22T16:31:20",
+    "updated_at": "2021-02-22T16:31:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:myfaces:3.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

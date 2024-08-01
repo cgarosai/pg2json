@@ -1,0 +1,10 @@
+{
+    "id": 1269080,
+    "name": "binisoft_windows_firewall_control",
+    "version": "6.9.4.0",
+    "created_at": "2024-04-09T15:48:57",
+    "updated_at": "2024-04-09T15:48:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:malwarebytes:binisoft_windows_firewall_control:6.9.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

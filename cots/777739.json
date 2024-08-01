@@ -1,0 +1,10 @@
+{
+    "id": 777739,
+    "name": "c38s_firmware",
+    "version": "kr203.18.1.20",
+    "created_at": "2021-09-13T09:39:11",
+    "updated_at": "2022-05-23T13:21:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vstracm:c38s_firmware:kr203.18.1.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

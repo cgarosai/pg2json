@@ -1,0 +1,10 @@
+{
+    "id": 51751,
+    "name": "appmanager_diagnostic_console",
+    "version": "2.1.0.0",
+    "created_at": "2012-06-21T17:09:30",
+    "updated_at": "2021-04-09T15:18:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netiq:appmanager_diagnostic_console:2.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

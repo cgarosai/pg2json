@@ -1,0 +1,10 @@
+{
+    "id": 568467,
+    "name": "slack_upload",
+    "version": "1.5",
+    "created_at": "2020-07-06T10:47:29",
+    "updated_at": "2020-07-06T10:47:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:slack_upload:1.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

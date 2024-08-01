@@ -1,0 +1,10 @@
+{
+    "id": 977340,
+    "name": "vmware_vrealize_automation",
+    "version": "1.2.2",
+    "created_at": "2022-11-23T17:26:50",
+    "updated_at": "2022-11-23T17:27:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:vmware_vrealize_automation:1.2.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

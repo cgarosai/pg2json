@@ -1,0 +1,10 @@
+{
+    "id": 601659,
+    "name": "ejbca",
+    "version": "7.4.1",
+    "created_at": "2020-10-09T13:05:35",
+    "updated_at": "2020-10-09T13:05:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:primekey:ejbca:7.4.1:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

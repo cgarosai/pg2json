@@ -1,0 +1,10 @@
+{
+    "id": 1192337,
+    "name": "icr",
+    "version": "2.1.0",
+    "created_at": "2023-11-17T21:10:15",
+    "updated_at": "2023-11-17T21:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openeuler:icr:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

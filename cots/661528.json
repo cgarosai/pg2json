@@ -1,0 +1,10 @@
+{
+    "id": 661528,
+    "name": "workspace",
+    "version": "21.1.5",
+    "created_at": "2021-03-03T18:40:54",
+    "updated_at": "2021-03-08T15:16:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:workspace:21.1.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

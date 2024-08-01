@@ -1,0 +1,10 @@
+{
+    "id": 915107,
+    "name": "magic_r200",
+    "version": "-",
+    "created_at": "2022-07-25T16:16:01",
+    "updated_at": "2022-08-15T09:03:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:h3c:magic_r200:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 26501,
+    "name": "axigen_mail_server",
+    "version": "6.2.2",
+    "created_at": "2009-04-29T20:28:38",
+    "updated_at": "2010-10-13T00:44:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gecad:axigen_mail_server:6.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

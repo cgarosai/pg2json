@@ -1,0 +1,10 @@
+{
+    "id": 1197845,
+    "name": "gs1900-8hp_firmware",
+    "version": "2.70\\(aahi.5\\)",
+    "created_at": "2023-11-09T19:11:14",
+    "updated_at": "2023-11-09T19:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:gs1900-8hp_firmware:2.70\\(aahi.5\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

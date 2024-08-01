@@ -1,0 +1,10 @@
+{
+    "id": 811125,
+    "name": "a250_firmware",
+    "version": "-",
+    "created_at": "2021-12-01T17:10:09",
+    "updated_at": "2023-11-09T13:44:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:a250_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

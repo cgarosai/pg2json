@@ -1,0 +1,10 @@
+{
+    "id": 566641,
+    "name": "3550m_firmware",
+    "version": "-",
+    "created_at": "2020-06-29T11:00:50",
+    "updated_at": "2020-06-29T11:00:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:3550m_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 836811,
+    "name": "r-30ia_mate_firmware",
+    "version": "7.30",
+    "created_at": "2022-01-13T18:54:15",
+    "updated_at": "2022-01-14T19:32:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fanuc:r-30ia_mate_firmware:7.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

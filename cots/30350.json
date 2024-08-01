@@ -1,0 +1,10 @@
+{
+    "id": 30350,
+    "name": "proxysg_sg510-20",
+    "version": "-",
+    "created_at": "2010-12-28T16:27:40",
+    "updated_at": "2010-12-28T16:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:bluecoat:proxysg_sg510-20:-:-:full_proxy:*:*:*:*:*",
+    "to_analyse": false
+}

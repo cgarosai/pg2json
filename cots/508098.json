@@ -1,0 +1,10 @@
+{
+    "id": 508098,
+    "name": "serverview_resource_orchestrator",
+    "version": "3.1.0",
+    "created_at": "2020-03-04T14:36:56",
+    "updated_at": "2020-03-04T14:36:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fujitsu:serverview_resource_orchestrator:3.1.0:*:*:*:cloud:*:*:*",
+    "to_analyse": false
+}

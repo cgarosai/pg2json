@@ -1,0 +1,10 @@
+{
+    "id": 532059,
+    "name": "cisco_ios",
+    "version": "1.0.0",
+    "created_at": "2020-04-29T14:27:20",
+    "updated_at": "2020-04-29T14:27:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:cisco_ios:1.0.0:*:*:*:*:puppet:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 515700,
+    "name": "tftp-hpa",
+    "version": "0.23",
+    "created_at": "2020-03-12T15:38:34",
+    "updated_at": "2020-03-12T15:38:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tftp-hpa_project:tftp-hpa:0.23:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

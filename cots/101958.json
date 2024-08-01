@@ -1,0 +1,10 @@
+{
+    "id": 101958,
+    "name": "imap",
+    "version": "2.3.0",
+    "created_at": "2015-12-04T13:24:39",
+    "updated_at": "2015-12-04T13:24:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cyrus:imap:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

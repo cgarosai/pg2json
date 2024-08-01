@@ -1,0 +1,10 @@
+{
+    "id": 324362,
+    "name": "mistserver",
+    "version": "2.5",
+    "created_at": "2019-08-05T13:14:51",
+    "updated_at": "2019-08-05T13:14:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mistserver:mistserver:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

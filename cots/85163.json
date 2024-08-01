@@ -1,0 +1,10 @@
+{
+    "id": 85163,
+    "name": "100ap_device_firmware",
+    "version": "3.1.0.8",
+    "created_at": "2013-10-02T14:32:04",
+    "updated_at": "2013-10-02T16:30:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:brickom:100ap_device_firmware:3.1.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

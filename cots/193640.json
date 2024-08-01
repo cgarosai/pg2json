@@ -1,0 +1,10 @@
+{
+    "id": 193640,
+    "name": "sgx_platform_software",
+    "version": "2.1.100.46245",
+    "created_at": "2019-01-23T18:10:51",
+    "updated_at": "2021-04-29T14:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:sgx_platform_software:2.1.100.46245:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 912412,
+    "name": "avro",
+    "version": "-",
+    "created_at": "2022-08-10T11:32:04",
+    "updated_at": "2022-08-17T11:13:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:avro:-:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 5482,
+    "name": "asa_aip_security_services_module",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:40:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:asa_aip_security_services_module:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

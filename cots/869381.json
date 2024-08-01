@@ -1,0 +1,10 @@
+{
+    "id": 869381,
+    "name": "simatic_field_pg_m5_firmware",
+    "version": "22.01.08",
+    "created_at": "2022-04-01T15:00:23",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_field_pg_m5_firmware:22.01.08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 952914,
+    "name": "runner",
+    "version": "2.284.0",
+    "created_at": "2022-10-27T11:58:41",
+    "updated_at": "2022-10-27T13:16:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:github:runner:2.284.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

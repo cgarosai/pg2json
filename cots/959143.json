@@ -1,0 +1,10 @@
+{
+    "id": 959143,
+    "name": "codecov-python",
+    "version": "1.0.0",
+    "created_at": "2022-10-20T15:21:20",
+    "updated_at": "2022-10-20T15:27:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codecov:codecov-python:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

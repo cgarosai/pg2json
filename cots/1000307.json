@@ -1,0 +1,10 @@
+{
+    "id": 1000307,
+    "name": "panel_builder",
+    "version": "3.1.0",
+    "created_at": "2023-01-04T16:26:55",
+    "updated_at": "2023-01-23T14:40:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tri:panel_builder:3.1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

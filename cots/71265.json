@@ -1,0 +1,10 @@
+{
+    "id": 71265,
+    "name": "h3c_router",
+    "version": "rt-msr2020-ac-ovs-h3c",
+    "created_at": "2013-07-08T15:47:02",
+    "updated_at": "2013-07-12T15:50:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:h3c_router:rt-msr2020-ac-ovs-h3c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

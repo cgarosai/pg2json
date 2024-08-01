@@ -1,0 +1,10 @@
+{
+    "id": 70223,
+    "name": "libfs",
+    "version": "1.0.4",
+    "created_at": "2013-06-17T14:59:20",
+    "updated_at": "2013-06-24T12:12:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x:libfs:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10084,
+    "name": "access",
+    "version": "2002",
+    "created_at": "2007-09-12T20:53:43",
+    "updated_at": "2011-01-12T13:35:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:access:2002:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

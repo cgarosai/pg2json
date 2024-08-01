@@ -1,0 +1,10 @@
+{
+    "id": 1055950,
+    "name": "kamailio",
+    "version": "-",
+    "created_at": "2023-03-17T12:13:29",
+    "updated_at": "2023-03-21T13:31:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kamailio:kamailio:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

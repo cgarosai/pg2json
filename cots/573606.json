@@ -1,0 +1,10 @@
+{
+    "id": 573606,
+    "name": "junos_space",
+    "version": "13.3",
+    "created_at": "2020-08-11T14:23:01",
+    "updated_at": "2020-08-11T14:23:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:junos_space:13.3:r3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 803505,
+    "name": "lddr4_firmware",
+    "version": "-",
+    "created_at": "2021-11-18T11:37:40",
+    "updated_at": "2022-06-03T11:02:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:skhynix:lddr4_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

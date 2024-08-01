@@ -1,0 +1,10 @@
+{
+    "id": 1061322,
+    "name": "sm8250-ac_firmware",
+    "version": "-",
+    "created_at": "2023-04-18T16:21:19",
+    "updated_at": "2023-04-19T11:14:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sm8250-ac_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

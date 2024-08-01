@@ -1,0 +1,10 @@
+{
+    "id": 1074107,
+    "name": "ryzen_3800xt_firmware",
+    "version": "renoirpi-fp6_1.0.0.7",
+    "created_at": "2023-05-17T21:51:31",
+    "updated_at": "2023-08-15T11:33:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:ryzen_3800xt_firmware:renoirpi-fp6_1.0.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

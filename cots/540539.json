@@ -1,0 +1,10 @@
+{
+    "id": 540539,
+    "name": "ant",
+    "version": "1.9.12",
+    "created_at": "2020-05-15T13:39:03",
+    "updated_at": "2020-05-15T13:39:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:ant:1.9.12:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

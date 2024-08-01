@@ -1,0 +1,10 @@
+{
+    "id": 103356,
+    "name": "exchange_server",
+    "version": "2013",
+    "created_at": "2016-01-13T20:00:41",
+    "updated_at": "2016-01-13T20:00:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_11:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100658,
+    "name": "enterprise_manager_plugin_for_database_control",
+    "version": "12.1.0.6",
+    "created_at": "2015-07-17T11:45:54",
+    "updated_at": "2015-08-05T13:43:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_manager_plugin_for_database_control:12.1.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1183119,
+    "name": "connect_mobility_router",
+    "version": "-",
+    "created_at": "2023-11-01T15:06:12",
+    "updated_at": "2023-11-01T15:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitel:connect_mobility_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 598763,
+    "name": "pi_connector",
+    "version": "1.2.1.71",
+    "created_at": "2020-09-11T12:40:07",
+    "updated_at": "2020-09-11T12:40:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:osisoft:pi_connector:1.2.1.71:*:*:*:*:siemens_simatic_pcs_7:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 545813,
+    "name": "node-rules",
+    "version": "3.0.0",
+    "created_at": "2020-05-05T14:48:35",
+    "updated_at": "2020-05-05T14:48:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-rules_project:node-rules:3.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

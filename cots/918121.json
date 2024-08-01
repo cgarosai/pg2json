@@ -1,0 +1,10 @@
+{
+    "id": 918121,
+    "name": "google_authenticator",
+    "version": "0.51",
+    "created_at": "2022-08-01T11:38:02",
+    "updated_at": "2022-08-01T11:47:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniorange:google_authenticator:0.51:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

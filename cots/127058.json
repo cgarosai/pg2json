@@ -1,0 +1,10 @@
+{
+    "id": 127058,
+    "name": "usg2200_firmware",
+    "version": "v300r001c00spc900",
+    "created_at": "2017-04-05T15:25:54",
+    "updated_at": "2021-05-17T13:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:usg2200_firmware:v300r001c00spc900:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

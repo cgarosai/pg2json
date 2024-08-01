@@ -1,0 +1,10 @@
+{
+    "id": 102207,
+    "name": "big-ip_application_security_manager",
+    "version": "11.3.0",
+    "created_at": "2015-12-08T20:03:00",
+    "updated_at": "2015-12-08T20:03:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_application_security_manager:11.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

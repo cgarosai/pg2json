@@ -1,0 +1,10 @@
+{
+    "id": 1197797,
+    "name": "insights-client",
+    "version": "3.1.7",
+    "created_at": "2023-11-09T19:11:14",
+    "updated_at": "2023-11-09T19:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:insights-client:3.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

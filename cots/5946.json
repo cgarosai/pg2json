@@ -1,0 +1,10 @@
+{
+    "id": 5946,
+    "name": "secure_linux",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T18:15:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:engardelinux:secure_linux:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

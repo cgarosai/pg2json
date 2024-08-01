@@ -1,0 +1,10 @@
+{
+    "id": 1261450,
+    "name": "vtun",
+    "version": "2.5",
+    "created_at": "2024-04-29T15:02:06",
+    "updated_at": "2024-04-29T15:02:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vtun_project:vtun:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

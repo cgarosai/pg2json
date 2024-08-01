@@ -1,0 +1,10 @@
+{
+    "id": 337791,
+    "name": "aironet_1500-series",
+    "version": "-",
+    "created_at": "2019-08-12T10:28:15",
+    "updated_at": "2021-04-27T15:40:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:aironet_1500-series:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

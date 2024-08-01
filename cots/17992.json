@@ -1,0 +1,10 @@
+{
+    "id": 17992,
+    "name": "playstation_portable",
+    "version": "2.40",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2011-01-12T13:36:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:sony:playstation_portable:2.40:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

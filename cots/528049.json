@@ -1,0 +1,10 @@
+{
+    "id": 528049,
+    "name": "sql_server",
+    "version": "2014",
+    "created_at": "2020-04-02T09:56:40",
+    "updated_at": "2020-04-02T09:56:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server:2014:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

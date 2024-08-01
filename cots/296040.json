@@ -1,0 +1,10 @@
+{
+    "id": 296040,
+    "name": "labjs",
+    "version": "7.x-1.x",
+    "created_at": "2019-07-12T14:32:21",
+    "updated_at": "2019-07-12T14:32:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:labjs_project:labjs:7.x-1.x:dev:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

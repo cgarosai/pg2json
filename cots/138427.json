@@ -1,0 +1,10 @@
+{
+    "id": 138427,
+    "name": "encryption_desktop",
+    "version": "10.4.0",
+    "created_at": "2017-11-14T14:26:37",
+    "updated_at": "2021-07-02T16:43:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:encryption_desktop:10.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

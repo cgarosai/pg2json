@@ -1,0 +1,10 @@
+{
+    "id": 119880,
+    "name": "oar",
+    "version": "2.5.6",
+    "created_at": "2016-08-03T11:48:53",
+    "updated_at": "2016-08-03T11:48:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oar_project:oar:2.5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

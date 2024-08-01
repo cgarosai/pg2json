@@ -1,0 +1,10 @@
+{
+    "id": 1200048,
+    "name": "windows_defender",
+    "version": "4.18.23100.2009",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_defender:4.18.23100.2009:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

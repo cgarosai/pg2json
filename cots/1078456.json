@@ -1,0 +1,10 @@
+{
+    "id": 1078456,
+    "name": "group_office",
+    "version": "6.6.103",
+    "created_at": "2023-05-03T15:04:21",
+    "updated_at": "2023-05-03T20:32:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:group-office:group_office:6.6.103:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

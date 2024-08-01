@@ -1,0 +1,10 @@
+{
+    "id": 528063,
+    "name": "docker-compose-remote-api",
+    "version": "0.1.4",
+    "created_at": "2020-04-02T09:59:30",
+    "updated_at": "2020-04-02T09:59:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker-compose-remote-api_project:docker-compose-remote-api:0.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

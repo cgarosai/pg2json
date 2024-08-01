@@ -1,0 +1,10 @@
+{
+    "id": 1154637,
+    "name": "mini_firmware",
+    "version": "2.6.2",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:birddog:mini_firmware:2.6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

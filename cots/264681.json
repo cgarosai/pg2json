@@ -1,0 +1,10 @@
+{
+    "id": 264681,
+    "name": "oozie",
+    "version": "3.3.2",
+    "created_at": "2019-06-19T17:56:06",
+    "updated_at": "2021-03-09T17:57:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:oozie:3.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

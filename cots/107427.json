@@ -1,0 +1,10 @@
+{
+    "id": 107427,
+    "name": "image_metadata_cruncher",
+    "version": "-",
+    "created_at": "2015-02-20T17:45:19",
+    "updated_at": "2015-05-11T13:32:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:image_metadata_cruncher_project:image_metadata_cruncher:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

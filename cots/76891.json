@@ -1,0 +1,10 @@
+{
+    "id": 76891,
+    "name": "rave",
+    "version": "0.20",
+    "created_at": "2013-03-19T14:23:19",
+    "updated_at": "2013-03-20T12:12:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:rave:0.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

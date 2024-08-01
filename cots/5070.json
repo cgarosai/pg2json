@@ -1,0 +1,10 @@
+{
+    "id": 5070,
+    "name": "tippingpoint_sms_server",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2011-01-12T13:36:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:3com:tippingpoint_sms_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

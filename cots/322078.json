@@ -1,0 +1,10 @@
+{
+    "id": 322078,
+    "name": "richfaces",
+    "version": "4.5.13",
+    "created_at": "2019-08-01T15:41:15",
+    "updated_at": "2019-08-01T15:41:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:richfaces:4.5.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

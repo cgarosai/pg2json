@@ -1,0 +1,10 @@
+{
+    "id": 1183476,
+    "name": "browserify-sign",
+    "version": "2.7.1",
+    "created_at": "2023-11-02T14:06:20",
+    "updated_at": "2023-11-02T14:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:browserify:browserify-sign:2.7.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

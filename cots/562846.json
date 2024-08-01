@@ -1,0 +1,10 @@
+{
+    "id": 562846,
+    "name": "pulse_secure_desktop_client",
+    "version": "9.0",
+    "created_at": "2020-07-17T09:52:10",
+    "updated_at": "2020-07-17T09:52:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pulsesecure:pulse_secure_desktop_client:9.0:r6.0:*:*:*:windows:*:*",
+    "to_analyse": false
+}

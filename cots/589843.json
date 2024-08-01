@@ -1,0 +1,10 @@
+{
+    "id": 589843,
+    "name": "nexusdb",
+    "version": "3.09",
+    "created_at": "2020-08-21T14:00:45",
+    "updated_at": "2020-08-21T14:00:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nexusdb:nexusdb:3.09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

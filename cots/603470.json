@@ -1,0 +1,10 @@
+{
+    "id": 603470,
+    "name": "active_directory_server",
+    "version": "-",
+    "created_at": "2020-10-15T11:22:22",
+    "updated_at": "2021-08-17T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:active_directory_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

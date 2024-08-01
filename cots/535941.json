@@ -1,0 +1,10 @@
+{
+    "id": 535941,
+    "name": "process_federation_server",
+    "version": "19.0.0.2",
+    "created_at": "2020-04-14T13:03:04",
+    "updated_at": "2020-04-14T13:03:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:process_federation_server:19.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

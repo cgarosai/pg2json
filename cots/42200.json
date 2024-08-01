@@ -1,0 +1,10 @@
+{
+    "id": 42200,
+    "name": "silverlight",
+    "version": "4.0.51204.0",
+    "created_at": "2012-02-15T14:57:47",
+    "updated_at": "2012-02-16T19:15:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:silverlight:4.0.51204.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

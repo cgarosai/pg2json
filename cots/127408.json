@@ -1,0 +1,10 @@
+{
+    "id": 127408,
+    "name": "hardware_accelerated_execution_manager",
+    "version": "6.0.4",
+    "created_at": "2017-04-11T12:19:17",
+    "updated_at": "2021-04-29T12:16:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:hardware_accelerated_execution_manager:6.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 304463,
+    "name": "yadm",
+    "version": "1.11.0",
+    "created_at": "2019-07-25T12:40:55",
+    "updated_at": "2019-07-25T12:40:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yadm_project:yadm:1.11.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

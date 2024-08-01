@@ -1,0 +1,10 @@
+{
+    "id": 443861,
+    "name": "horde_service_urlshortener",
+    "version": "1.0.0",
+    "created_at": "2019-12-04T15:13:01",
+    "updated_at": "2019-12-04T15:13:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_service_urlshortener:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

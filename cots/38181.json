@@ -1,0 +1,10 @@
+{
+    "id": 38181,
+    "name": "vpn_client",
+    "version": "2.2.0",
+    "created_at": "2010-10-22T10:43:27",
+    "updated_at": "2010-10-28T15:40:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shrew:vpn_client:2.2.0:alpha7:*:*:*:*:*:*",
+    "to_analyse": false
+}

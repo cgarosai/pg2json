@@ -1,0 +1,10 @@
+{
+    "id": 327733,
+    "name": "skytap_cloud_ci",
+    "version": "1.0",
+    "created_at": "2019-07-31T16:21:39",
+    "updated_at": "2019-07-31T16:21:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:skytap_cloud_ci:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

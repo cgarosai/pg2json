@@ -1,0 +1,10 @@
+{
+    "id": 1078041,
+    "name": "spotfire_statistics_services",
+    "version": "11.8.1",
+    "created_at": "2023-05-03T11:21:01",
+    "updated_at": "2023-06-06T11:26:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:spotfire_statistics_services:11.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

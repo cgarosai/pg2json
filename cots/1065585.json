@@ -1,0 +1,10 @@
+{
+    "id": 1065585,
+    "name": "convert_to_pipeline",
+    "version": "1.0",
+    "created_at": "2023-04-06T12:11:52",
+    "updated_at": "2023-06-28T01:56:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:convert_to_pipeline:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

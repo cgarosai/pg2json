@@ -1,0 +1,10 @@
+{
+    "id": 314979,
+    "name": "oceanstor_uds_firmware",
+    "version": "v100r002c01spc102",
+    "created_at": "2019-07-30T16:58:22",
+    "updated_at": "2019-07-30T16:58:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:oceanstor_uds_firmware:v100r002c01spc102:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

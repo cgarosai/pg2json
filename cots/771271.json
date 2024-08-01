@@ -1,0 +1,10 @@
+{
+    "id": 771271,
+    "name": "gs750e_firmware",
+    "version": "1.0.1.10",
+    "created_at": "2021-09-16T15:00:58",
+    "updated_at": "2021-09-22T15:55:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:gs750e_firmware:1.0.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

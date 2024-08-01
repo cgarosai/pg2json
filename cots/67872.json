@@ -1,0 +1,10 @@
+{
+    "id": 67872,
+    "name": "mysqldumper",
+    "version": "1.21",
+    "created_at": "2012-08-24T17:58:23",
+    "updated_at": "2012-08-24T17:58:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysqldumper:mysqldumper:1.21:b6:*:*:*:*:*:*",
+    "to_analyse": false
+}

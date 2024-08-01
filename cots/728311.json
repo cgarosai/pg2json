@@ -1,0 +1,10 @@
+{
+    "id": 728311,
+    "name": "emc_networker",
+    "version": "19.4.0.2",
+    "created_at": "2021-06-14T11:02:52",
+    "updated_at": "2021-06-14T11:26:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:emc_networker:19.4.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 821514,
+    "name": "aaptjs",
+    "version": "1.0.0",
+    "created_at": "2021-12-29T17:10:11",
+    "updated_at": "2021-12-29T17:11:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aaptjs_project:aaptjs:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

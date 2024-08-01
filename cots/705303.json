@@ -1,0 +1,10 @@
+{
+    "id": 705303,
+    "name": "babel",
+    "version": "0.8",
+    "created_at": "2021-05-05T13:42:09",
+    "updated_at": "2021-05-05T13:43:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pocoo:babel:0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

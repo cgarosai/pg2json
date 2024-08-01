@@ -1,0 +1,10 @@
+{
+    "id": 1044455,
+    "name": "ezplatform-http-cache-fastly",
+    "version": "2.0.0",
+    "created_at": "2023-03-15T15:28:51",
+    "updated_at": "2023-07-14T10:11:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibexa:ezplatform-http-cache-fastly:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

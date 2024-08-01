@@ -1,0 +1,10 @@
+{
+    "id": 267412,
+    "name": "kodi",
+    "version": "14.0",
+    "created_at": "2019-06-14T15:10:34",
+    "updated_at": "2019-06-14T15:10:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kodi:kodi:14.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

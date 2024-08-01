@@ -1,0 +1,10 @@
+{
+    "id": 411025,
+    "name": "extra_columns",
+    "version": "1.19",
+    "created_at": "2019-10-28T15:32:26",
+    "updated_at": "2019-10-28T15:32:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:extra_columns:1.19:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

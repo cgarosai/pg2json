@@ -1,0 +1,10 @@
+{
+    "id": 66615,
+    "name": "pnp4nagios",
+    "version": "0.6.10",
+    "created_at": "2012-08-13T11:40:18",
+    "updated_at": "2012-08-20T15:27:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pnp4nagios:pnp4nagios:0.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

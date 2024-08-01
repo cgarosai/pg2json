@@ -1,0 +1,10 @@
+{
+    "id": 1156597,
+    "name": "proficy_machine_edition",
+    "version": "6.5",
+    "created_at": "2023-09-12T16:43:24",
+    "updated_at": "2023-09-12T16:43:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emerson:proficy_machine_edition:6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

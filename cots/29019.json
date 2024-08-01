@@ -1,0 +1,10 @@
+{
+    "id": 29019,
+    "name": "secure_ftp",
+    "version": "2.5.18",
+    "created_at": "2009-11-25T17:28:01",
+    "updated_at": "2009-11-25T17:28:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:glub:secure_ftp:2.5.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 862525,
+    "name": "operand",
+    "version": "11.0.0.15",
+    "created_at": "2022-04-08T12:40:02",
+    "updated_at": "2022-04-08T16:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:operand:11.0.0.15:r2:*:*:eus:*:*:*",
+    "to_analyse": false
+}

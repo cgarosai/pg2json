@@ -1,0 +1,10 @@
+{
+    "id": 698446,
+    "name": "mobile",
+    "version": "4.12.0",
+    "created_at": "2021-04-19T17:10:40",
+    "updated_at": "2021-04-20T14:50:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:okta:mobile:4.12.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

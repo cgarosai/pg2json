@@ -1,0 +1,10 @@
+{
+    "id": 1091575,
+    "name": "xml_library",
+    "version": "0.8.9",
+    "created_at": "2023-06-12T15:38:55",
+    "updated_at": "2023-06-13T15:18:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xml_library_project:xml_library:0.8.9:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

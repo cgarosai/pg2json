@@ -1,0 +1,10 @@
+{
+    "id": 140113,
+    "name": "libfastjson",
+    "version": "0.99.5",
+    "created_at": "2018-04-18T13:02:12",
+    "updated_at": "2018-04-18T13:02:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsyslog:libfastjson:0.99.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 908100,
+    "name": "fusionpbx",
+    "version": "5.0.1",
+    "created_at": "2022-07-08T14:08:56",
+    "updated_at": "2023-02-16T16:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fusionpbx:fusionpbx:5.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

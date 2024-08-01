@@ -1,0 +1,10 @@
+{
+    "id": 337462,
+    "name": "latitude_3460_firmware",
+    "version": "a15",
+    "created_at": "2019-08-12T10:20:24",
+    "updated_at": "2021-05-19T15:20:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:latitude_3460_firmware:a15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

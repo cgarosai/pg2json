@@ -1,0 +1,10 @@
+{
+    "id": 10559,
+    "name": "antivirus_scan_engine",
+    "version": "4.3",
+    "created_at": "2007-10-08T16:28:30",
+    "updated_at": "2007-10-08T16:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:antivirus_scan_engine:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

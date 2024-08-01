@@ -1,0 +1,10 @@
+{
+    "id": 237481,
+    "name": "ucs_c480_ml",
+    "version": "-",
+    "created_at": "2019-05-03T16:25:20",
+    "updated_at": "2021-07-08T16:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ucs_c480_ml:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

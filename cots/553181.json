@@ -1,0 +1,10 @@
+{
+    "id": 553181,
+    "name": "simatic_s7-1500_firmware",
+    "version": "2.5",
+    "created_at": "2020-06-22T18:06:38",
+    "updated_at": "2020-06-22T18:06:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-1500_firmware:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 61213,
+    "name": "monkey_http_daemon",
+    "version": "0.8.2",
+    "created_at": "2012-10-24T13:01:54",
+    "updated_at": "2020-03-26T13:23:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:monkey-project:monkey_http_daemon:0.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

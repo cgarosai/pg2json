@@ -1,0 +1,10 @@
+{
+    "id": 604590,
+    "name": "ruckus_vriot",
+    "version": "-",
+    "created_at": "2020-10-27T10:09:31",
+    "updated_at": "2021-05-27T12:50:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commscope:ruckus_vriot:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

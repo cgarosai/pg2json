@@ -1,0 +1,10 @@
+{
+    "id": 883534,
+    "name": "guzzle",
+    "version": "6.2.2",
+    "created_at": "2022-06-07T13:14:49",
+    "updated_at": "2022-06-07T15:40:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:guzzlephp:guzzle:6.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

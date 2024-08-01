@@ -1,0 +1,10 @@
+{
+    "id": 400881,
+    "name": "active_protection_system",
+    "version": "1.77.0.5",
+    "created_at": "2019-10-16T10:35:43",
+    "updated_at": "2019-10-16T10:35:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:active_protection_system:1.77.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 84522,
+    "name": "sd_card_manager",
+    "version": "20140224",
+    "created_at": "2014-04-14T14:24:31",
+    "updated_at": "2014-04-18T11:23:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apps4u\\@android:sd_card_manager:20140224:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

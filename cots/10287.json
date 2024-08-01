@@ -1,0 +1,10 @@
+{
+    "id": 10287,
+    "name": "fedora_core",
+    "version": "-",
+    "created_at": "2007-09-12T20:56:29",
+    "updated_at": "2022-02-03T16:19:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:fedora_core:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

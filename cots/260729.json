@@ -1,0 +1,10 @@
+{
+    "id": 260729,
+    "name": "simatic_mv420_firmware",
+    "version": "-",
+    "created_at": "2019-06-17T15:13:42",
+    "updated_at": "2021-05-26T12:51:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_mv420_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

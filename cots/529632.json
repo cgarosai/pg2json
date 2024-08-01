@@ -1,0 +1,10 @@
+{
+    "id": 529632,
+    "name": "op-browser",
+    "version": "1.0.0",
+    "created_at": "2020-04-03T17:35:18",
+    "updated_at": "2020-04-03T17:35:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:op-browser_project:op-browser:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

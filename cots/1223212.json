@@ -1,0 +1,10 @@
+{
+    "id": 1223212,
+    "name": "workflow_manager",
+    "version": "2.4.4",
+    "created_at": "2024-01-03T18:06:28",
+    "updated_at": "2024-01-03T18:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deis:workflow_manager:2.4.4:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

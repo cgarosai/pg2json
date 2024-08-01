@@ -1,0 +1,10 @@
+{
+    "id": 976142,
+    "name": "pipeline\\",
+    "version": "_groovy",
+    "created_at": "2022-11-23T12:26:02",
+    "updated_at": "2022-11-23T12:27:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline\\:_groovy:2660.2664.v4c114e93f4c1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

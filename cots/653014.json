@@ -1,0 +1,10 @@
+{
+    "id": 653014,
+    "name": "sgx_platform",
+    "version": "2.10.100.2",
+    "created_at": "2021-02-18T18:59:52",
+    "updated_at": "2021-02-18T18:59:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:sgx_platform:2.10.100.2:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

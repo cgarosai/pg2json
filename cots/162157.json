@@ -1,0 +1,10 @@
+{
+    "id": 162157,
+    "name": "5100_enterprise_network_compute_system",
+    "version": "-",
+    "created_at": "2018-08-13T12:31:15",
+    "updated_at": "2021-05-25T13:46:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:5100_enterprise_network_compute_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

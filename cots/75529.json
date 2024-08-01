@@ -1,0 +1,10 @@
+{
+    "id": 75529,
+    "name": "qt",
+    "version": "3.3.3",
+    "created_at": "2013-02-06T19:19:42",
+    "updated_at": "2021-06-16T10:40:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digia:qt:3.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

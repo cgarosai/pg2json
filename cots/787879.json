@@ -1,0 +1,10 @@
+{
+    "id": 787879,
+    "name": "windows_7",
+    "version": "-",
+    "created_at": "2021-10-02T01:23:20",
+    "updated_at": "2022-11-14T16:02:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows_7:-:sp1:*:*:*:*:x64:*",
+    "to_analyse": false
+}

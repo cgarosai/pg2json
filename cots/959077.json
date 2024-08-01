@@ -1,0 +1,10 @@
+{
+    "id": 959077,
+    "name": "generic_webhook_trigger",
+    "version": "-",
+    "created_at": "2022-10-20T15:03:50",
+    "updated_at": "2022-10-20T16:13:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:generic_webhook_trigger:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

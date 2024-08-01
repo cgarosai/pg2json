@@ -1,0 +1,10 @@
+{
+    "id": 182285,
+    "name": "tacacs\\+_authentication_manager",
+    "version": "5.1",
+    "created_at": "2018-11-19T16:10:17",
+    "updated_at": "2018-11-19T16:10:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:tacacs\\+_authentication_manager:5.1:*:*:*:*:intelligent_management_center:*:*",
+    "to_analyse": false
+}

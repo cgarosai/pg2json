@@ -1,0 +1,10 @@
+{
+    "id": 930657,
+    "name": "flux2",
+    "version": "0.32.0",
+    "created_at": "2022-09-09T16:44:04",
+    "updated_at": "2022-10-24T14:42:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fluxcd:flux2:0.32.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

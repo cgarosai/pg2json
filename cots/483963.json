@@ -1,0 +1,10 @@
+{
+    "id": 483963,
+    "name": "git-annex",
+    "version": "0.06",
+    "created_at": "2020-02-10T13:42:53",
+    "updated_at": "2020-02-10T13:42:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:git-annex_project:git-annex:0.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

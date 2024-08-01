@@ -1,0 +1,10 @@
+{
+    "id": 1165890,
+    "name": "edge_virtualization_engine",
+    "version": "3.9.1",
+    "created_at": "2023-09-25T14:05:08",
+    "updated_at": "2023-09-25T14:05:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linuxfoundation:edge_virtualization_engine:3.9.1:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

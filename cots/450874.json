@@ -1,0 +1,10 @@
+{
+    "id": 450874,
+    "name": "smart_firewall_firmware",
+    "version": "7003",
+    "created_at": "2019-12-09T19:08:44",
+    "updated_at": "2019-12-09T19:08:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cujo:smart_firewall_firmware:7003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 736002,
+    "name": "cas",
+    "version": "1.6.0",
+    "created_at": "2021-07-01T11:03:02",
+    "updated_at": "2021-07-01T11:59:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:cas:1.6.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

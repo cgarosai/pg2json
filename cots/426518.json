@@ -1,0 +1,10 @@
+{
+    "id": 426518,
+    "name": "mumble",
+    "version": "1.2.7",
+    "created_at": "2019-11-01T15:21:50",
+    "updated_at": "2019-11-01T15:21:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mumble:mumble:1.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

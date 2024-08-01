@@ -1,0 +1,10 @@
+{
+    "id": 912953,
+    "name": "mc-kill-port",
+    "version": "1.0.0",
+    "created_at": "2022-08-11T14:27:39",
+    "updated_at": "2022-08-11T15:26:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mc-kill-port_project:mc-kill-port:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

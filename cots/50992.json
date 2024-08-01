@@ -1,0 +1,10 @@
+{
+    "id": 50992,
+    "name": "ds_storage_manager_host_software",
+    "version": "10.60.x5.14",
+    "created_at": "2012-06-21T17:06:31",
+    "updated_at": "2012-06-21T17:06:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:ds_storage_manager_host_software:10.60.x5.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

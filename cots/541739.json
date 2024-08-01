@@ -1,0 +1,10 @@
+{
+    "id": 541739,
+    "name": "duplicity",
+    "version": "0.4.4rc3",
+    "created_at": "2020-05-19T13:31:34",
+    "updated_at": "2020-05-19T13:36:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duplicity_project:duplicity:0.4.4rc3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

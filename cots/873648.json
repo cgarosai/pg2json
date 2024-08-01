@@ -1,0 +1,10 @@
+{
+    "id": 873648,
+    "name": "rtu500_firmware",
+    "version": "13.2.5.0",
+    "created_at": "2022-05-10T09:21:45",
+    "updated_at": "2023-04-19T13:32:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:abb:rtu500_firmware:13.2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

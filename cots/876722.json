@@ -1,0 +1,10 @@
+{
+    "id": 876722,
+    "name": "sync",
+    "version": "-",
+    "created_at": "2022-04-19T13:32:12",
+    "updated_at": "2022-04-19T13:35:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:logitech:sync:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 986758,
+    "name": "gitpython",
+    "version": "0.3.0",
+    "created_at": "2022-12-07T15:04:46",
+    "updated_at": "2022-12-07T15:13:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitpython_project:gitpython:0.3.0:beta1:*:*:*:python:*:*",
+    "to_analyse": false
+}

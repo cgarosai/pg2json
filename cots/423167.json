@@ -1,0 +1,10 @@
+{
+    "id": 423167,
+    "name": "ovirt-node",
+    "version": "2.2.2",
+    "created_at": "2019-11-06T21:04:04",
+    "updated_at": "2019-11-06T21:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ovirt-node:2.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

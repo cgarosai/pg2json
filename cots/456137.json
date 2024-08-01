@@ -1,0 +1,10 @@
+{
+    "id": 456137,
+    "name": "zanata",
+    "version": "1.6.0",
+    "created_at": "2019-12-06T14:21:43",
+    "updated_at": "2019-12-06T14:21:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:zanata:1.6.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

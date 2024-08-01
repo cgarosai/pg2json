@@ -1,0 +1,10 @@
+{
+    "id": 83235,
+    "name": "cloud_identity_manager",
+    "version": "3.1",
+    "created_at": "2014-03-19T14:16:36",
+    "updated_at": "2014-03-19T20:16:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:cloud_identity_manager:3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

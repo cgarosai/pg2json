@@ -1,0 +1,10 @@
+{
+    "id": 203765,
+    "name": "ncs_1002",
+    "version": "-",
+    "created_at": "2019-03-04T13:15:55",
+    "updated_at": "2019-03-04T13:15:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ncs_1002:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

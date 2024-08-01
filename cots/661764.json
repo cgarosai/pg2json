@@ -1,0 +1,10 @@
+{
+    "id": 661764,
+    "name": "barcode_generator",
+    "version": "2.9.1",
+    "created_at": "2021-03-04T12:06:30",
+    "updated_at": "2021-08-17T15:41:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zint:barcode_generator:2.9.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

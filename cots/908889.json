@@ -1,0 +1,10 @@
+{
+    "id": 908889,
+    "name": "jetspeed",
+    "version": "2.2.2",
+    "created_at": "2022-07-11T17:15:26",
+    "updated_at": "2022-07-13T12:46:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:jetspeed:2.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

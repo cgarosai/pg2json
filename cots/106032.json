@@ -1,0 +1,10 @@
+{
+    "id": 106032,
+    "name": "bottle",
+    "version": "0.10.6",
+    "created_at": "2014-12-18T13:37:37",
+    "updated_at": "2015-01-28T18:51:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bottlepy:bottle:0.10.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

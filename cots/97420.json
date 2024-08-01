@@ -1,0 +1,10 @@
+{
+    "id": 97420,
+    "name": "asyncos",
+    "version": "-",
+    "created_at": "2014-05-20T12:07:35",
+    "updated_at": "2014-05-20T12:17:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asyncos:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

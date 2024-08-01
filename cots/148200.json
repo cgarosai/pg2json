@@ -1,0 +1,10 @@
+{
+    "id": 148200,
+    "name": "ace4710_application_control_engine_firmware",
+    "version": "3.0\\(0\\)a5\\(3.5\\)",
+    "created_at": "2018-03-27T17:08:28",
+    "updated_at": "2021-04-16T16:32:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ace4710_application_control_engine_firmware:3.0\\(0\\)a5\\(3.5\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

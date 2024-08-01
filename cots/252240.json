@@ -1,0 +1,10 @@
+{
+    "id": 252240,
+    "name": "zabbix",
+    "version": "2.4.6",
+    "created_at": "2019-06-12T09:09:46",
+    "updated_at": "2019-06-12T09:09:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zabbix:zabbix:2.4.6:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

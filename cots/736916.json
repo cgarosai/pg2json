@@ -1,0 +1,10 @@
+{
+    "id": 736916,
+    "name": "advanced_secure_gateway",
+    "version": "7.2",
+    "created_at": "2021-07-02T09:25:38",
+    "updated_at": "2021-07-08T14:37:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:advanced_secure_gateway:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 841134,
+    "name": "simatic_s7-1200_cpu_1215fc_firmware",
+    "version": "4.5.0",
+    "created_at": "2022-02-11T14:01:17",
+    "updated_at": "2022-03-01T00:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1215fc_firmware:4.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

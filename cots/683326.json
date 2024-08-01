@@ -1,0 +1,10 @@
+{
+    "id": 683326,
+    "name": "projen",
+    "version": "0.17.33",
+    "created_at": "2021-04-12T10:34:29",
+    "updated_at": "2021-04-14T13:22:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:projen_project:projen:0.17.33:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 232121,
+    "name": "qbittorrent",
+    "version": "3.3.2",
+    "created_at": "2019-05-10T13:08:43",
+    "updated_at": "2019-05-10T13:08:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:qbittorrent:qbittorrent:3.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

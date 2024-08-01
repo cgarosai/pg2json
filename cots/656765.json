@@ -1,0 +1,10 @@
+{
+    "id": 656765,
+    "name": "security_guardium_data_encrpytion",
+    "version": "3.0.0.2",
+    "created_at": "2021-02-04T14:44:51",
+    "updated_at": "2021-02-04T14:44:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_guardium_data_encrpytion:3.0.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

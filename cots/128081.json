@@ -1,0 +1,10 @@
+{
+    "id": 128081,
+    "name": "log4j",
+    "version": "2.3",
+    "created_at": "2017-04-24T22:51:56",
+    "updated_at": "2017-04-24T22:51:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:log4j:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 608229,
+    "name": "application",
+    "version": "0.7",
+    "created_at": "2020-10-05T17:10:27",
+    "updated_at": "2020-10-05T17:10:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nette:application:0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

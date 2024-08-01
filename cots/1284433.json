@@ -1,0 +1,10 @@
+{
+    "id": 1284433,
+    "name": "wp_meteor",
+    "version": "-",
+    "created_at": "2024-07-30T15:16:38",
+    "updated_at": "2024-07-30T15:16:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-meteor:wp_meteor:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

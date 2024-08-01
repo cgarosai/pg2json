@@ -1,0 +1,10 @@
+{
+    "id": 204190,
+    "name": "percona_server",
+    "version": "5.5.46-37.6",
+    "created_at": "2019-03-04T14:36:53",
+    "updated_at": "2019-03-04T14:36:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:percona:percona_server:5.5.46-37.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

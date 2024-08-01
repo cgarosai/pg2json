@@ -1,0 +1,10 @@
+{
+    "id": 1098492,
+    "name": "twitter",
+    "version": "2.34",
+    "created_at": "2023-06-06T15:14:20",
+    "updated_at": "2023-06-07T11:00:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bestwebsoft:twitter:2.34:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

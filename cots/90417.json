@@ -1,0 +1,10 @@
+{
+    "id": 90417,
+    "name": "xendesktop",
+    "version": "4.0",
+    "created_at": "2014-07-11T15:46:17",
+    "updated_at": "2014-07-15T19:37:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:xendesktop:4.0:fp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

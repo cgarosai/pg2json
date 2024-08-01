@@ -1,0 +1,10 @@
+{
+    "id": 1037794,
+    "name": "defender_security_intelligence_updates",
+    "version": "-",
+    "created_at": "2023-02-22T17:08:05",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:defender_security_intelligence_updates:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

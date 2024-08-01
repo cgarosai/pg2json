@@ -1,0 +1,10 @@
+{
+    "id": 702624,
+    "name": "intercept_x",
+    "version": "-",
+    "created_at": "2021-05-24T13:07:58",
+    "updated_at": "2021-08-19T14:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:intercept_x:-:*:*:*:opm:macos:*:*",
+    "to_analyse": false
+}

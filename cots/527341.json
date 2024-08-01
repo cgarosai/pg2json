@@ -1,0 +1,10 @@
+{
+    "id": 527341,
+    "name": "cloud_foundry_autoscaling_release",
+    "version": "1.2.2",
+    "created_at": "2020-04-01T17:25:19",
+    "updated_at": "2020-04-01T17:25:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_autoscaling_release:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

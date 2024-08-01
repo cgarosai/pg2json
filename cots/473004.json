@@ -1,0 +1,10 @@
+{
+    "id": 473004,
+    "name": "ldm",
+    "version": "2.18.06",
+    "created_at": "2020-01-24T14:50:45",
+    "updated_at": "2020-01-24T14:50:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ltsp:ldm:2.18.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

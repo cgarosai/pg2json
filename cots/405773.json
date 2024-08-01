@@ -1,0 +1,10 @@
+{
+    "id": 405773,
+    "name": "404_to_301",
+    "version": "3.0.0.1",
+    "created_at": "2019-10-08T13:11:43",
+    "updated_at": "2019-10-08T13:11:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duckdev:404_to_301:3.0.0.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

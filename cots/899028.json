@@ -1,0 +1,10 @@
+{
+    "id": 899028,
+    "name": "advanced_installer",
+    "version": "6.4.1",
+    "created_at": "2022-06-15T12:16:38",
+    "updated_at": "2022-06-16T12:36:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:caphyon:advanced_installer:6.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

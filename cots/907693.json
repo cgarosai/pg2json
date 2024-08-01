@@ -1,0 +1,10 @@
+{
+    "id": 907693,
+    "name": "framework",
+    "version": "3.0.12",
+    "created_at": "2022-07-08T10:07:51",
+    "updated_at": "2022-07-11T12:54:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:silverstripe:framework:3.0.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

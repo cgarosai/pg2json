@@ -1,0 +1,10 @@
+{
+    "id": 1108759,
+    "name": "investigate",
+    "version": "13.2.1",
+    "created_at": "2023-06-26T15:43:10",
+    "updated_at": "2023-07-01T01:49:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siren:investigate:13.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

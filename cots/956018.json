@@ -1,0 +1,10 @@
+{
+    "id": 956018,
+    "name": "nalgebra",
+    "version": "0.24.0",
+    "created_at": "2022-10-17T17:41:39",
+    "updated_at": "2022-10-17T17:44:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dimforge:nalgebra:0.24.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

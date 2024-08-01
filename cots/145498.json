@@ -1,0 +1,10 @@
+{
+    "id": 145498,
+    "name": "xeon",
+    "version": "w3690",
+    "created_at": "2018-02-07T11:28:06",
+    "updated_at": "2020-04-27T18:29:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon:w3690:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

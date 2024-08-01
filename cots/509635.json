@@ -1,0 +1,10 @@
+{
+    "id": 509635,
+    "name": "timeshift",
+    "version": "20.03",
+    "created_at": "2020-03-06T14:13:08",
+    "updated_at": "2020-03-06T14:13:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:timeshift_project:timeshift:20.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

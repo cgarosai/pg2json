@@ -1,0 +1,10 @@
+{
+    "id": 483389,
+    "name": "klona",
+    "version": "1.1.1",
+    "created_at": "2020-02-07T13:43:05",
+    "updated_at": "2020-02-07T13:43:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:klona_project:klona:1.1.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

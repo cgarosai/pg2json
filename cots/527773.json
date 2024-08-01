@@ -1,0 +1,10 @@
+{
+    "id": 527773,
+    "name": "dotnet_extension_buildpack",
+    "version": "0.2.14",
+    "created_at": "2020-04-01T18:19:10",
+    "updated_at": "2020-04-01T18:19:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:newrelic:dotnet_extension_buildpack:0.2.14:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71429,
+    "name": "lync_basic",
+    "version": "2013",
+    "created_at": "2013-07-10T11:44:39",
+    "updated_at": "2013-07-12T16:27:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:lync_basic:2013:-:x64:*:*:*:*:*",
+    "to_analyse": false
+}

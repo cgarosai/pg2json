@@ -1,0 +1,10 @@
+{
+    "id": 424339,
+    "name": "html-janitor",
+    "version": "0.3.0",
+    "created_at": "2019-11-08T17:07:08",
+    "updated_at": "2019-11-08T17:07:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:html-janitor_project:html-janitor:0.3.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

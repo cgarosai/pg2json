@@ -1,0 +1,10 @@
+{
+    "id": 573541,
+    "name": "hp_application_lifecycle_management_quality_center",
+    "version": "1.2",
+    "created_at": "2020-08-11T14:15:22",
+    "updated_at": "2020-08-11T14:15:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp_application_lifecycle_management_quality_center_project:hp_application_lifecycle_management_quality_center:1.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

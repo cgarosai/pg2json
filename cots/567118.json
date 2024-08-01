@@ -1,0 +1,10 @@
+{
+    "id": 567118,
+    "name": "bitrix24",
+    "version": "20.0.0",
+    "created_at": "2020-06-29T16:45:40",
+    "updated_at": "2020-06-29T16:45:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitrix24:bitrix24:20.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

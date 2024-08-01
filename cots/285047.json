@@ -1,0 +1,10 @@
+{
+    "id": 285047,
+    "name": "rsyslog",
+    "version": "1.2.3",
+    "created_at": "2019-07-02T10:49:39",
+    "updated_at": "2019-07-02T10:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rsyslog:rsyslog:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

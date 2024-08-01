@@ -1,0 +1,10 @@
+{
+    "id": 216778,
+    "name": "azure_vm_agents",
+    "version": "0.4.1",
+    "created_at": "2019-03-12T17:11:10",
+    "updated_at": "2019-03-12T17:11:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:azure_vm_agents:0.4.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

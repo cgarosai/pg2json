@@ -1,0 +1,10 @@
+{
+    "id": 471176,
+    "name": "django-rest-registration",
+    "version": "0.5.2",
+    "created_at": "2020-01-17T18:38:33",
+    "updated_at": "2020-01-17T18:38:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:django-rest-registration_project:django-rest-registration:0.5.2:*:*:*:*:django:*:*",
+    "to_analyse": false
+}

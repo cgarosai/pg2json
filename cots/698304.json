@@ -1,0 +1,10 @@
+{
+    "id": 698304,
+    "name": "federate",
+    "version": "5.6.6-10.0.2",
+    "created_at": "2021-04-19T15:08:09",
+    "updated_at": "2021-05-04T14:06:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siren:federate:5.6.6-10.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

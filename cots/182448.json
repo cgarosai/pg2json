@@ -1,0 +1,10 @@
+{
+    "id": 182448,
+    "name": "wordpress_mu",
+    "version": "2.7.1",
+    "created_at": "2018-11-19T20:44:02",
+    "updated_at": "2018-11-19T20:44:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress:wordpress_mu:2.7.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

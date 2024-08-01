@@ -1,0 +1,10 @@
+{
+    "id": 19973,
+    "name": "reprepro",
+    "version": "2.2.3",
+    "created_at": "2007-09-07T10:58:58",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:reprepro:2.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

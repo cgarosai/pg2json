@@ -1,0 +1,10 @@
+{
+    "id": 1025265,
+    "name": "create-choo-electron",
+    "version": "2.0.0",
+    "created_at": "2023-01-31T17:37:26",
+    "updated_at": "2023-02-03T15:32:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:create-choo-electron_project:create-choo-electron:2.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

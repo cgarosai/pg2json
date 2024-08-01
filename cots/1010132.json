@@ -1,0 +1,10 @@
+{
+    "id": 1010132,
+    "name": "simple_directmedia_layer",
+    "version": "2.24.2",
+    "created_at": "2023-01-19T02:53:17",
+    "updated_at": "2023-01-21T00:02:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.24.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

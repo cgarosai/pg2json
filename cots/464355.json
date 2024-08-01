@@ -1,0 +1,10 @@
+{
+    "id": 464355,
+    "name": "dhcp",
+    "version": "4.3.3",
+    "created_at": "2020-01-07T18:23:17",
+    "updated_at": "2020-01-07T18:23:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:isc:dhcp:4.3.3:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

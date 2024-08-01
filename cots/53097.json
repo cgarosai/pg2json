@@ -1,0 +1,10 @@
+{
+    "id": 53097,
+    "name": "connectivity_secure_shell",
+    "version": "2008",
+    "created_at": "2012-07-10T01:16:56",
+    "updated_at": "2012-07-10T01:16:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opentext:connectivity_secure_shell:2008:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

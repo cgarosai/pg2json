@@ -1,0 +1,10 @@
+{
+    "id": 430560,
+    "name": "ethernet_controller_xxv710-am1_firmware",
+    "version": "2.8.43",
+    "created_at": "2019-11-18T17:47:08",
+    "updated_at": "2021-04-30T14:56:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_controller_xxv710-am1_firmware:2.8.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

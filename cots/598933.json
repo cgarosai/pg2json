@@ -1,0 +1,10 @@
+{
+    "id": 598933,
+    "name": "catalyst_4500_supervisor_engine_v-10ge",
+    "version": "-",
+    "created_at": "2020-09-11T13:24:05",
+    "updated_at": "2020-09-11T13:24:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:catalyst_4500_supervisor_engine_v-10ge:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

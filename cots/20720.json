@@ -1,0 +1,10 @@
+{
+    "id": 20720,
+    "name": "anti-virus",
+    "version": "8.5",
+    "created_at": "2010-01-07T15:09:30",
+    "updated_at": "2010-01-07T15:09:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avg:anti-virus:8.5:-:server_for_linux\\/freebsd:*:*:*:*:*",
+    "to_analyse": false
+}

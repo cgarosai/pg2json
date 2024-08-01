@@ -1,0 +1,10 @@
+{
+    "id": 84389,
+    "name": "enhancement_package",
+    "version": "6.0",
+    "created_at": "2014-04-11T16:23:45",
+    "updated_at": "2014-04-16T18:30:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:enhancement_package:6.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

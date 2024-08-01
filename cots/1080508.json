@@ -1,0 +1,10 @@
+{
+    "id": 1080508,
+    "name": "azure_arc_jumpstart",
+    "version": "1.0",
+    "created_at": "2023-05-25T14:02:20",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_arc_jumpstart:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

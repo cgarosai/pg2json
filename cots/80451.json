@@ -1,0 +1,10 @@
+{
+    "id": 80451,
+    "name": "dcraw",
+    "version": "0.8.9",
+    "created_at": "2014-01-21T22:45:46",
+    "updated_at": "2014-01-21T22:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dave_coffin:dcraw:0.8.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 528444,
+    "name": "debian-lan-config",
+    "version": "-",
+    "created_at": "2020-04-02T14:04:38",
+    "updated_at": "2020-04-02T14:04:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:debian-lan-config:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

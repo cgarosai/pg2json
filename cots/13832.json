@@ -1,0 +1,10 @@
+{
+    "id": 13832,
+    "name": "tectia_connector",
+    "version": "4.4.6",
+    "created_at": "2008-11-19T18:03:32",
+    "updated_at": "2008-11-19T18:03:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ssh:tectia_connector:4.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

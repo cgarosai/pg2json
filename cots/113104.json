@@ -1,0 +1,10 @@
+{
+    "id": 113104,
+    "name": "libxfixes",
+    "version": "5.0.2",
+    "created_at": "2016-12-14T16:17:03",
+    "updated_at": "2021-10-01T17:17:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x.org:libxfixes:5.0.2:*:*:*:*:*:x86:*",
+    "to_analyse": false
+}

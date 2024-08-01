@@ -1,0 +1,10 @@
+{
+    "id": 938533,
+    "name": "fribidi",
+    "version": "-",
+    "created_at": "2022-09-08T08:55:25",
+    "updated_at": "2022-09-13T10:14:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:fribidi:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

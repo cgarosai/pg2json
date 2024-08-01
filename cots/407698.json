@@ -1,0 +1,10 @@
+{
+    "id": 407698,
+    "name": "electrum",
+    "version": "2.7.15",
+    "created_at": "2019-10-09T16:11:09",
+    "updated_at": "2019-10-09T16:11:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:electrum:electrum:2.7.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

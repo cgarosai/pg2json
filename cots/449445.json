@@ -1,0 +1,10 @@
+{
+    "id": 449445,
+    "name": "sshpk",
+    "version": "1.2.1",
+    "created_at": "2019-12-02T16:15:49",
+    "updated_at": "2019-12-02T16:15:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:joyent:sshpk:1.2.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

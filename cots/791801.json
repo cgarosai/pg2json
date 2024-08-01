@@ -1,0 +1,10 @@
+{
+    "id": 791801,
+    "name": "deck",
+    "version": "1.4.5",
+    "created_at": "2021-10-28T09:01:29",
+    "updated_at": "2021-10-28T16:57:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:deck:1.4.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

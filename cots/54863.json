@@ -1,0 +1,10 @@
+{
+    "id": 54863,
+    "name": "busybox",
+    "version": "0.52",
+    "created_at": "2012-07-25T13:25:54",
+    "updated_at": "2012-07-25T13:25:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:busybox:busybox:0.52:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

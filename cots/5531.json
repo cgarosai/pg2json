@@ -1,0 +1,10 @@
+{
+    "id": 5531,
+    "name": "cable_router",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:40:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:cable_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

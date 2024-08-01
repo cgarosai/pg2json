@@ -1,0 +1,10 @@
+{
+    "id": 660752,
+    "name": "pug",
+    "version": "0.5.2",
+    "created_at": "2021-03-03T15:15:12",
+    "updated_at": "2021-03-05T18:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pugjs:pug:0.5.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

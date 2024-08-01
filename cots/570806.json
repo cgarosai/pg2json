@@ -1,0 +1,10 @@
+{
+    "id": 570806,
+    "name": "safe_lock",
+    "version": "2.0",
+    "created_at": "2020-08-06T08:44:50",
+    "updated_at": "2021-06-01T18:02:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:safe_lock:2.0:sp1:*:*:-:*:*:*",
+    "to_analyse": false
+}

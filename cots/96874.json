@@ -1,0 +1,10 @@
+{
+    "id": 96874,
+    "name": "feed_element_mapper",
+    "version": "-",
+    "created_at": "2014-05-14T14:48:52",
+    "updated_at": "2014-07-01T00:43:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:feed_element_mapper_project:feed_element_mapper:-:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

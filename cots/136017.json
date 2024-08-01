@@ -1,0 +1,10 @@
+{
+    "id": 136017,
+    "name": "ca_identity_manager",
+    "version": "12.6",
+    "created_at": "2017-10-04T17:14:55",
+    "updated_at": "2021-03-22T19:04:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:ca_identity_manager:12.6:sp7:*:*:*:*:*:*",
+    "to_analyse": false
+}

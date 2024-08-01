@@ -1,0 +1,10 @@
+{
+    "id": 1269869,
+    "name": "endpoint_security_suite_enterprise",
+    "version": "11.9.0",
+    "created_at": "2024-04-17T10:18:57",
+    "updated_at": "2024-04-17T10:18:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:endpoint_security_suite_enterprise:11.9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

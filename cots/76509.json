@@ -1,0 +1,10 @@
+{
+    "id": 76509,
+    "name": "cognos_business_intelligence",
+    "version": "10.1",
+    "created_at": "2013-03-05T14:25:34",
+    "updated_at": "2013-03-07T17:37:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_business_intelligence:10.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

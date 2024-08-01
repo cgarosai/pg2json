@@ -1,0 +1,10 @@
+{
+    "id": 94145,
+    "name": "acorn_comms",
+    "version": "3",
+    "created_at": "2014-11-10T15:22:30",
+    "updated_at": "2014-11-10T15:45:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:priorswood:acorn_comms:3:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

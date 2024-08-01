@@ -1,0 +1,10 @@
+{
+    "id": 61471,
+    "name": "at-spi2-atk",
+    "version": "0.1.7",
+    "created_at": "2012-10-26T18:52:28",
+    "updated_at": "2012-10-26T18:52:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:at-spi2-atk:0.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

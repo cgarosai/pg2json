@@ -1,0 +1,10 @@
+{
+    "id": 563961,
+    "name": "node.bcrypt.js",
+    "version": "0.7.0",
+    "created_at": "2020-07-22T14:20:46",
+    "updated_at": "2020-07-22T14:20:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node.bcrypt.js_project:node.bcrypt.js:0.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

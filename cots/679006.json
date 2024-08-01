@@ -1,0 +1,10 @@
+{
+    "id": 679006,
+    "name": "aurora",
+    "version": "8.2.8",
+    "created_at": "2021-03-18T12:58:29",
+    "updated_at": "2021-03-18T14:39:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:afterlogic:aurora:8.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

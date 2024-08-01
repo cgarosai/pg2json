@@ -1,0 +1,10 @@
+{
+    "id": 404717,
+    "name": "aironet_4800_firmware",
+    "version": "8.8",
+    "created_at": "2019-10-21T15:14:53",
+    "updated_at": "2021-04-19T13:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_4800_firmware:8.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

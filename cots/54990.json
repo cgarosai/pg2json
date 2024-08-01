@@ -1,0 +1,10 @@
+{
+    "id": 54990,
+    "name": "addressbook",
+    "version": "5.x-3.3",
+    "created_at": "2012-07-26T16:21:27",
+    "updated_at": "2012-07-30T13:10:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:plaatsoft:addressbook:5.x-3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

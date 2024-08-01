@@ -1,0 +1,10 @@
+{
+    "id": 220753,
+    "name": "sinamics_g150_firmware",
+    "version": "5.2",
+    "created_at": "2019-04-19T12:13:35",
+    "updated_at": "2021-06-22T14:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinamics_g150_firmware:5.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

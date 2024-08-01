@@ -1,0 +1,10 @@
+{
+    "id": 303039,
+    "name": "emag_marketplace_connector",
+    "version": "1.0.2",
+    "created_at": "2019-07-24T11:10:37",
+    "updated_at": "2019-07-24T11:10:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zitec:emag_marketplace_connector:1.0.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

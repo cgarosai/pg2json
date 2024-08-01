@@ -1,0 +1,10 @@
+{
+    "id": 740769,
+    "name": "alpm-rs",
+    "version": "0.1.0",
+    "created_at": "2021-07-23T14:49:19",
+    "updated_at": "2021-07-23T16:55:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alpm-rs_project:alpm-rs:0.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

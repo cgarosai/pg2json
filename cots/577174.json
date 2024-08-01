@@ -1,0 +1,10 @@
+{
+    "id": 577174,
+    "name": "eap_controller",
+    "version": "2.5.3",
+    "created_at": "2020-07-28T12:38:35",
+    "updated_at": "2020-07-28T12:38:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tp-link:eap_controller:2.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

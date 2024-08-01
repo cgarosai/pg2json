@@ -1,0 +1,10 @@
+{
+    "id": 57707,
+    "name": "exchange_mailbox_archiver_agent",
+    "version": "9.0.0",
+    "created_at": "2012-05-08T11:52:07",
+    "updated_at": "2012-05-08T11:52:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commvault:exchange_mailbox_archiver_agent:9.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

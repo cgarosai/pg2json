@@ -1,0 +1,10 @@
+{
+    "id": 13658,
+    "name": "windows",
+    "version": "server_2008",
+    "created_at": "2008-11-13T15:19:07",
+    "updated_at": "2009-04-03T16:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:windows:server_2008:unknown:itanium:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 918883,
+    "name": "android_signing",
+    "version": "-",
+    "created_at": "2022-08-02T16:13:31",
+    "updated_at": "2022-08-09T10:01:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:android_signing:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

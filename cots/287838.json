@@ -1,0 +1,10 @@
+{
+    "id": 287838,
+    "name": "home_spot_cube_2_firmware",
+    "version": "v100",
+    "created_at": "2019-07-03T15:03:47",
+    "updated_at": "2019-07-03T15:03:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:kddi:home_spot_cube_2_firmware:v100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

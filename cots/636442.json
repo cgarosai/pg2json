@@ -1,0 +1,10 @@
+{
+    "id": 636442,
+    "name": "frappe",
+    "version": "9.2.9",
+    "created_at": "2020-12-14T15:08:15",
+    "updated_at": "2020-12-14T15:08:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:frappe:frappe:9.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

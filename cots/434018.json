@@ -1,0 +1,10 @@
+{
+    "id": 434018,
+    "name": "tiki",
+    "version": "3.6",
+    "created_at": "2019-11-21T14:46:52",
+    "updated_at": "2019-11-21T14:46:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tiki:tiki:3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 857892,
+    "name": "z4_g4_workstation_\\(xeon_w\\)_firmware",
+    "version": "-",
+    "created_at": "2022-03-07T13:28:31",
+    "updated_at": "2022-05-23T11:41:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:z4_g4_workstation_\\(xeon_w\\)_firmware:-:*:*:*:*:linux_kernel:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 54612,
+    "name": "eventtracker",
+    "version": "7.2",
+    "created_at": "2012-07-19T12:42:51",
+    "updated_at": "2012-07-19T12:42:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prismmicrosys:eventtracker:7.2:-:opscenter:*:*:*:*:*",
+    "to_analyse": false
+}

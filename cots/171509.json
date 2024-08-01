@@ -1,0 +1,10 @@
+{
+    "id": 171509,
+    "name": "fips_java_api",
+    "version": "1.0.2",
+    "created_at": "2018-10-15T14:19:15",
+    "updated_at": "2018-10-15T14:19:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bouncycastle:fips_java_api:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

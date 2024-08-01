@@ -1,0 +1,10 @@
+{
+    "id": 71918,
+    "name": "jboss_enterprise_brms_platform",
+    "version": "5.0.0",
+    "created_at": "2013-07-23T11:56:24",
+    "updated_at": "2013-07-24T12:15:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_enterprise_brms_platform:5.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 655655,
+    "name": "insider_threat_management",
+    "version": "7.5.4",
+    "created_at": "2021-02-03T12:21:54",
+    "updated_at": "2021-02-03T12:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proofpoint:insider_threat_management:7.5.4:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

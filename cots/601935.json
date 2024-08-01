@@ -1,0 +1,10 @@
+{
+    "id": 601935,
+    "name": "carrier_routing_system",
+    "version": "-",
+    "created_at": "2020-10-13T09:47:43",
+    "updated_at": "2020-10-13T09:47:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:carrier_routing_system:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 394284,
+    "name": "crystal_reports_server",
+    "version": "4.10",
+    "created_at": "2019-10-07T09:45:15",
+    "updated_at": "2019-10-07T09:45:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:crystal_reports_server:4.10:*:*:*:oem:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 103634,
+    "name": "aironet_access_point_software",
+    "version": "8.1\\(15.14\\)",
+    "created_at": "2016-01-19T19:22:00",
+    "updated_at": "2016-01-19T19:22:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_access_point_software:8.1\\(15.14\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 629406,
+    "name": "jboss_web_services",
+    "version": "-",
+    "created_at": "2020-12-04T17:49:37",
+    "updated_at": "2020-12-04T17:49:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_web_services:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

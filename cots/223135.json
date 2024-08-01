@@ -1,0 +1,10 @@
+{
+    "id": 223135,
+    "name": "s3_publisher",
+    "version": "0.10.12",
+    "created_at": "2019-04-24T14:06:08",
+    "updated_at": "2019-04-24T14:06:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:s3_publisher:0.10.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

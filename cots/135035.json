@@ -1,0 +1,10 @@
+{
+    "id": 135035,
+    "name": "office_2007",
+    "version": "-",
+    "created_at": "2017-09-18T14:39:46",
+    "updated_at": "2021-05-18T16:04:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_2007:-:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

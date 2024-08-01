@@ -1,0 +1,10 @@
+{
+    "id": 458901,
+    "name": "buildmaster",
+    "version": "6.0.2",
+    "created_at": "2019-12-09T14:11:52",
+    "updated_at": "2019-12-09T14:11:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inedo:buildmaster:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

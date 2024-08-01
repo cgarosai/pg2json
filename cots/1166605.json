@@ -1,0 +1,10 @@
+{
+    "id": 1166605,
+    "name": "cortex_xdr_agent",
+    "version": "7.5.102",
+    "created_at": "2023-09-25T17:18:38",
+    "updated_at": "2023-09-25T17:18:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5.102:*:*:*:content_update:*:*:*",
+    "to_analyse": false
+}

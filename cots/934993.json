@@ -1,0 +1,10 @@
+{
+    "id": 934993,
+    "name": "d8s_mpeg",
+    "version": "0.1.0",
+    "created_at": "2022-09-21T05:24:55",
+    "updated_at": "2023-07-08T01:28:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:d8s-mpeg_project:d8s_mpeg:0.1.0:*:*:*:*:python:*:*",
+    "to_analyse": false
+}

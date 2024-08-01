@@ -1,0 +1,10 @@
+{
+    "id": 699426,
+    "name": "rpm_spec",
+    "version": "0.2.3",
+    "created_at": "2021-04-21T16:58:15",
+    "updated_at": "2021-05-11T13:01:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rpm_spec_project:rpm_spec:0.2.3:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

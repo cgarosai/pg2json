@@ -1,0 +1,10 @@
+{
+    "id": 1229706,
+    "name": "marketplace",
+    "version": "2.4.7",
+    "created_at": "2023-12-29T14:31:15",
+    "updated_at": "2023-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wcvendors:marketplace:2.4.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

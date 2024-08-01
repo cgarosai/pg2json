@@ -1,0 +1,10 @@
+{
+    "id": 948268,
+    "name": "linux_and_chrome_os",
+    "version": "-",
+    "created_at": "2022-09-27T12:56:24",
+    "updated_at": "2022-10-07T23:04:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:google:linux_and_chrome_os:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

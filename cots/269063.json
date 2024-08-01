@@ -1,0 +1,10 @@
+{
+    "id": 269063,
+    "name": "single_sign-on",
+    "version": "-",
+    "created_at": "2019-06-17T09:42:35",
+    "updated_at": "2019-06-17T09:42:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:single_sign-on:-:*:*:*:text-only:*:*:*",
+    "to_analyse": false
+}

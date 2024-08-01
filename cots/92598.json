@@ -1,0 +1,10 @@
+{
+    "id": 92598,
+    "name": "ca_lottery_results",
+    "version": "2.1",
+    "created_at": "2014-09-10T14:34:33",
+    "updated_at": "2014-09-10T16:59:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca_lottery_results_project:ca_lottery_results:2.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

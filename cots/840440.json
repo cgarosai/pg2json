@@ -1,0 +1,10 @@
+{
+    "id": 840440,
+    "name": "office_long_term_servicing_channel",
+    "version": "2021",
+    "created_at": "2022-02-10T14:03:33",
+    "updated_at": "2022-06-22T14:42:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_long_term_servicing_channel:2021:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

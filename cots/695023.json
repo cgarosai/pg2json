@@ -1,0 +1,10 @@
+{
+    "id": 695023,
+    "name": "organic_groups",
+    "version": "5.x-7.0",
+    "created_at": "2021-04-15T11:25:34",
+    "updated_at": "2021-04-19T17:46:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:organic_groups_project:organic_groups:5.x-7.0:-:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

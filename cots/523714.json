@@ -1,0 +1,10 @@
+{
+    "id": 523714,
+    "name": "fortiswitch",
+    "version": "6.0.2",
+    "created_at": "2020-04-10T16:48:13",
+    "updated_at": "2020-04-10T16:48:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fortiswitch:6.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

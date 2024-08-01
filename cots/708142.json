@@ -1,0 +1,10 @@
+{
+    "id": 708142,
+    "name": "teamcity",
+    "version": "2020.2.3",
+    "created_at": "2021-05-13T00:26:24",
+    "updated_at": "2021-07-27T11:59:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jetbrains:teamcity:2020.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

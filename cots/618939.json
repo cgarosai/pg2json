@@ -1,0 +1,10 @@
+{
+    "id": 618939,
+    "name": "proliant_dl380_gen10_firmware",
+    "version": "-",
+    "created_at": "2020-11-10T16:11:45",
+    "updated_at": "2022-05-23T11:41:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:proliant_dl380_gen10_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

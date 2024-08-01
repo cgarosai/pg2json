@@ -1,0 +1,10 @@
+{
+    "id": 1168228,
+    "name": "pfc100_firmware",
+    "version": "20",
+    "created_at": "2023-09-28T06:35:09",
+    "updated_at": "2023-09-28T06:35:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:wago:pfc100_firmware:20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

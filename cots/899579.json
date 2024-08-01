@@ -1,0 +1,10 @@
+{
+    "id": 899579,
+    "name": "one_click_plugin_updater",
+    "version": "2.4.4",
+    "created_at": "2022-06-16T11:55:11",
+    "updated_at": "2022-06-21T23:38:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:one_click_plugin_updater_project:one_click_plugin_updater:2.4.4:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

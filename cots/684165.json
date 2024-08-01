@@ -1,0 +1,10 @@
+{
+    "id": 684165,
+    "name": "rv345p_firmware",
+    "version": "-",
+    "created_at": "2021-04-13T12:01:10",
+    "updated_at": "2021-04-23T12:46:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:rv345p_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

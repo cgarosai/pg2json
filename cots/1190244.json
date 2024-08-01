@@ -1,0 +1,10 @@
+{
+    "id": 1190244,
+    "name": "ryzen_z1_extreme",
+    "version": "-",
+    "created_at": "2023-11-15T22:08:05",
+    "updated_at": "2023-11-15T22:08:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:ryzen_z1_extreme:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

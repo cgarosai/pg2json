@@ -1,0 +1,10 @@
+{
+    "id": 109787,
+    "name": "cloud_station",
+    "version": "2.1-2561",
+    "created_at": "2015-06-01T19:48:02",
+    "updated_at": "2015-06-12T15:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:cloud_station:2.1-2561:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

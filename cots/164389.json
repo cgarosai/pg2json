@@ -1,0 +1,10 @@
+{
+    "id": 164389,
+    "name": "cache",
+    "version": "5.0",
+    "created_at": "2018-08-31T10:10:22",
+    "updated_at": "2018-08-31T10:10:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intersystems:cache:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

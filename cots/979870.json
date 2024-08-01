@@ -1,0 +1,10 @@
+{
+    "id": 979870,
+    "name": "fineract",
+    "version": "1.7.2",
+    "created_at": "2022-11-29T19:18:56",
+    "updated_at": "2022-11-29T19:19:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:fineract:1.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1062006,
+    "name": "firepower_extensible_operating_system",
+    "version": "2.4.1.216",
+    "created_at": "2023-04-20T13:26:10",
+    "updated_at": "2023-04-20T13:27:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.4.1.216:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

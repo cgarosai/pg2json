@@ -1,0 +1,10 @@
+{
+    "id": 707587,
+    "name": "unified_communications_manager",
+    "version": "12.6",
+    "created_at": "2021-05-12T12:04:16",
+    "updated_at": "2021-05-25T11:18:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:unified_communications_manager:12.6:*:*:*:session_management:*:*:*",
+    "to_analyse": false
+}

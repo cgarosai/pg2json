@@ -1,0 +1,10 @@
+{
+    "id": 728129,
+    "name": "netweaver_as_internet_graphics_server",
+    "version": "7.20ext",
+    "created_at": "2021-06-11T17:20:45",
+    "updated_at": "2022-04-08T16:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_as_internet_graphics_server:7.20ext:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

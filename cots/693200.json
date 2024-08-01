@@ -1,0 +1,10 @@
+{
+    "id": 693200,
+    "name": "ansible_automation_platform",
+    "version": "1.2",
+    "created_at": "2021-05-01T00:22:46",
+    "updated_at": "2021-08-05T13:14:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:ansible_automation_platform:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

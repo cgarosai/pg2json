@@ -1,0 +1,10 @@
+{
+    "id": 1236888,
+    "name": "medusa",
+    "version": "1.0.17",
+    "created_at": "2024-01-08T18:20:24",
+    "updated_at": "2024-01-08T18:20:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pymedusa:medusa:1.0.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

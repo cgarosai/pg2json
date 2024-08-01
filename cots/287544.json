@@ -1,0 +1,10 @@
+{
+    "id": 287544,
+    "name": "pip",
+    "version": "1.5.5",
+    "created_at": "2019-07-03T14:34:33",
+    "updated_at": "2021-03-18T12:36:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pypa:pip:1.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

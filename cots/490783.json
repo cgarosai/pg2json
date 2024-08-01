@@ -1,0 +1,10 @@
+{
+    "id": 490783,
+    "name": "ar160_firmware",
+    "version": "v200r006c10",
+    "created_at": "2020-02-21T21:18:50",
+    "updated_at": "2020-02-21T21:18:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar160_firmware:v200r006c10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 604345,
+    "name": "hello.js",
+    "version": "0.2.11",
+    "created_at": "2020-10-21T12:02:54",
+    "updated_at": "2020-10-21T12:02:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hello.js_project:hello.js:0.2.11:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

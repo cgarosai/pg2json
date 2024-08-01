@@ -1,0 +1,10 @@
+{
+    "id": 587322,
+    "name": "nim",
+    "version": "1.2.6",
+    "created_at": "2020-08-19T10:08:17",
+    "updated_at": "2020-08-19T10:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nim-lang:nim:1.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

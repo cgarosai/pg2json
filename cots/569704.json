@@ -1,0 +1,10 @@
+{
+    "id": 569704,
+    "name": "backbox_linux",
+    "version": "4.4",
+    "created_at": "2020-07-07T16:32:48",
+    "updated_at": "2020-07-07T16:32:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:backbox:backbox_linux:4.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

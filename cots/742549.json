@@ -1,0 +1,10 @@
+{
+    "id": 742549,
+    "name": "aci_multi-site_orchestrator",
+    "version": "1.2\\(2b\\)",
+    "created_at": "2021-07-27T10:57:38",
+    "updated_at": "2021-07-27T12:30:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:aci_multi-site_orchestrator:1.2\\(2b\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

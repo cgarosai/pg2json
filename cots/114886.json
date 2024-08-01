@@ -1,0 +1,10 @@
+{
+    "id": 114886,
+    "name": "webex",
+    "version": "1.0.6",
+    "created_at": "2017-02-24T18:26:22",
+    "updated_at": "2021-04-01T15:08:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:webex:1.0.6:*:*:*:*:chrome:*:*",
+    "to_analyse": false
+}

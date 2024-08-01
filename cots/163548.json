@@ -1,0 +1,10 @@
+{
+    "id": 163548,
+    "name": "nexus_1000v",
+    "version": "-",
+    "created_at": "2018-08-21T11:39:46",
+    "updated_at": "2021-07-12T13:28:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_1000v:-:*:*:*:*:vmware_vsphere:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 963682,
+    "name": "meraki_mx_security_appliance_firmware",
+    "version": "-",
+    "created_at": "2022-11-21T15:08:39",
+    "updated_at": "2022-11-21T18:16:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:meraki_mx_security_appliance_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

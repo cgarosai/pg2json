@@ -1,0 +1,10 @@
+{
+    "id": 967091,
+    "name": "sim1000_fx_firmware",
+    "version": "-",
+    "created_at": "2022-11-03T11:33:44",
+    "updated_at": "2022-11-03T17:57:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sick:sim1000_fx_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

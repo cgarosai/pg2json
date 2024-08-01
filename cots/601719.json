@@ -1,0 +1,10 @@
+{
+    "id": 601719,
+    "name": "role-based_authorization_strategy",
+    "version": "2.13",
+    "created_at": "2020-10-09T14:04:12",
+    "updated_at": "2020-10-09T14:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:role-based_authorization_strategy:2.13:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 585417,
+    "name": "compute_module_hns2600bpq",
+    "version": "-",
+    "created_at": "2020-08-14T00:38:46",
+    "updated_at": "2021-04-30T09:51:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:compute_module_hns2600bpq:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 110571,
+    "name": "air",
+    "version": "19.0.0.241",
+    "created_at": "2016-09-01T09:06:00",
+    "updated_at": "2016-09-01T09:06:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:air:19.0.0.241:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

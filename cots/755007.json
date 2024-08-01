@@ -1,0 +1,10 @@
+{
+    "id": 755007,
+    "name": "simatic_net_cp1626_firmware",
+    "version": "-",
+    "created_at": "2021-07-29T15:18:55",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_net_cp1626_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

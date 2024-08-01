@@ -1,0 +1,10 @@
+{
+    "id": 81787,
+    "name": "lxc",
+    "version": "0.2.1",
+    "created_at": "2014-02-18T14:40:50",
+    "updated_at": "2014-02-18T14:47:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxcontainers:lxc:0.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 590096,
+    "name": "vtenext",
+    "version": "20",
+    "created_at": "2020-09-15T10:32:04",
+    "updated_at": "2020-09-15T10:32:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vtenext:vtenext:20:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

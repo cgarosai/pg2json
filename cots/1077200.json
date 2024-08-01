@@ -1,0 +1,10 @@
+{
+    "id": 1077200,
+    "name": "clusternet",
+    "version": "0.10.0",
+    "created_at": "2023-05-01T11:20:08",
+    "updated_at": "2023-05-03T20:18:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clusternet:clusternet:0.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

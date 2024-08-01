@@ -1,0 +1,10 @@
+{
+    "id": 25276,
+    "name": "apple_airport_base_station_firmware",
+    "version": "-",
+    "created_at": "2009-03-04T12:01:59",
+    "updated_at": "2009-03-04T12:01:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:apple:apple_airport_base_station_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

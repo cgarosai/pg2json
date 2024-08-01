@@ -1,0 +1,10 @@
+{
+    "id": 855456,
+    "name": "mgate_5109-t_firmware",
+    "version": "2.3",
+    "created_at": "2022-02-25T18:46:44",
+    "updated_at": "2022-02-25T18:58:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:mgate_5109-t_firmware:2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

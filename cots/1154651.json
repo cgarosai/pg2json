@@ -1,0 +1,10 @@
+{
+    "id": 1154651,
+    "name": "wftpd",
+    "version": "3.25",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wftpd_project:wftpd:3.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 312989,
+    "name": "agent",
+    "version": "5.6.0",
+    "created_at": "2019-07-30T11:21:31",
+    "updated_at": "2019-07-30T11:21:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:agent:5.6.0:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

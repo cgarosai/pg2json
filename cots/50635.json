@@ -1,0 +1,10 @@
+{
+    "id": 50635,
+    "name": "gnash",
+    "version": "0.8.9",
+    "created_at": "2012-06-18T12:47:00",
+    "updated_at": "2012-06-29T12:44:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:gnash:0.8.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 573080,
+    "name": "wifi_led_strip",
+    "version": "-",
+    "created_at": "2020-08-11T12:22:52",
+    "updated_at": "2020-08-11T12:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mystrom:wifi_led_strip:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

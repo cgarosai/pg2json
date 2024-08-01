@@ -1,0 +1,10 @@
+{
+    "id": 624778,
+    "name": "ubuntu_linux",
+    "version": "20.10",
+    "created_at": "2020-12-10T14:08:41",
+    "updated_at": "2020-12-10T14:08:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:canonical:ubuntu_linux:20.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 870792,
+    "name": "gibbon",
+    "version": "1.0.4",
+    "created_at": "2022-05-03T12:58:59",
+    "updated_at": "2022-05-03T15:53:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gibbon_project:gibbon:1.0.4:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

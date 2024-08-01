@@ -1,0 +1,10 @@
+{
+    "id": 279152,
+    "name": "church_admin",
+    "version": "0.726",
+    "created_at": "2019-06-25T14:51:45",
+    "updated_at": "2019-06-25T14:51:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:church_admin_project:church_admin:0.726:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

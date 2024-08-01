@@ -1,0 +1,10 @@
+{
+    "id": 633475,
+    "name": "bolt",
+    "version": "3.7.2",
+    "created_at": "2021-01-04T14:57:07",
+    "updated_at": "2021-01-04T17:02:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bolt:bolt:3.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

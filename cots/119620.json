@@ -1,0 +1,10 @@
+{
+    "id": 119620,
+    "name": "device_server_web_console_5232-n_firmware",
+    "version": "-",
+    "created_at": "2016-07-12T13:11:48",
+    "updated_at": "2021-07-08T12:53:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:device_server_web_console_5232-n_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

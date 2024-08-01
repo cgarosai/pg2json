@@ -1,0 +1,10 @@
+{
+    "id": 440296,
+    "name": "siebel_crm",
+    "version": "19.4",
+    "created_at": "2019-12-02T18:42:13",
+    "updated_at": "2019-12-02T18:42:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:siebel_crm:19.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

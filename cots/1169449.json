@@ -1,0 +1,10 @@
+{
+    "id": 1169449,
+    "name": "ctp_relay_server",
+    "version": "1.2.9",
+    "created_at": "2023-09-28T14:38:45",
+    "updated_at": "2023-09-28T14:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:catontechnology:ctp_relay_server:1.2.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

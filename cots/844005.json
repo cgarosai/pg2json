@@ -1,0 +1,10 @@
+{
+    "id": 844005,
+    "name": "litespeed.js",
+    "version": "0.2.3",
+    "created_at": "2022-02-22T11:59:47",
+    "updated_at": "2022-02-22T17:03:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:litespeed.js_project:litespeed.js:0.2.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

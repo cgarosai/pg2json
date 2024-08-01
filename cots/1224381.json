@@ -1,0 +1,10 @@
+{
+    "id": 1224381,
+    "name": "rtmedia",
+    "version": "2.12",
+    "created_at": "2024-01-04T15:58:18",
+    "updated_at": "2024-01-04T15:58:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rtcamp:rtmedia:2.12:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

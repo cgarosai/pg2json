@@ -1,0 +1,10 @@
+{
+    "id": 262728,
+    "name": "groupware",
+    "version": "4.0.4",
+    "created_at": "2019-06-18T15:02:28",
+    "updated_at": "2019-06-18T15:02:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:groupware:4.0.4:*:*:*:-:*:*:*",
+    "to_analyse": false
+}

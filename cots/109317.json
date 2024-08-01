@@ -1,0 +1,10 @@
+{
+    "id": 109317,
+    "name": "lifecare_pcainfusion_pump_firmware",
+    "version": "412",
+    "created_at": "2015-04-30T16:06:05",
+    "updated_at": "2015-05-18T12:51:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hospira:lifecare_pcainfusion_pump_firmware:412:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

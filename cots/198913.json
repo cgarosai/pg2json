@@ -1,0 +1,10 @@
+{
+    "id": 198913,
+    "name": "namespace_server",
+    "version": "2.54",
+    "created_at": "2018-12-31T19:59:15",
+    "updated_at": "2021-04-13T14:05:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:namespace_server:2.54:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

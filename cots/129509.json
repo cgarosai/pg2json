@@ -1,0 +1,10 @@
+{
+    "id": 129509,
+    "name": "simatic_hmi_mobile_panels",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-05-14T15:07:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_hmi_mobile_panels:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

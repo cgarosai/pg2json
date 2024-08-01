@@ -1,0 +1,10 @@
+{
+    "id": 1007545,
+    "name": "centos_web_panel",
+    "version": "0.9.8.1063",
+    "created_at": "2023-01-03T15:10:20",
+    "updated_at": "2023-01-24T17:57:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.1063:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

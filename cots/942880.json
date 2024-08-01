@@ -1,0 +1,10 @@
+{
+    "id": 942880,
+    "name": "proliant_bl460c",
+    "version": "gen10",
+    "created_at": "2022-10-07T13:03:49",
+    "updated_at": "2023-07-27T16:23:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:proliant_bl460c:gen10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 961119,
+    "name": "browserify-shim",
+    "version": "0.2.0",
+    "created_at": "2022-11-15T17:50:21",
+    "updated_at": "2022-11-15T17:52:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:browserify-shim_project:browserify-shim:0.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 194809,
+    "name": "kappa_firmware",
+    "version": "-",
+    "created_at": "2019-01-29T18:55:19",
+    "updated_at": "2021-06-17T16:01:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:draeger:kappa_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

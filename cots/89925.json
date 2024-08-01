@@ -1,0 +1,10 @@
+{
+    "id": 89925,
+    "name": "identikey_authentication_server",
+    "version": "3.4",
+    "created_at": "2014-01-14T13:59:05",
+    "updated_at": "2014-01-14T14:02:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vasco:identikey_authentication_server:3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

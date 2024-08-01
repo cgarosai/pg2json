@@ -1,0 +1,10 @@
+{
+    "id": 608400,
+    "name": "pritunl",
+    "version": "1.11.811.59",
+    "created_at": "2020-10-06T10:04:07",
+    "updated_at": "2020-10-06T10:04:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pritunl:pritunl:1.11.811.59:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

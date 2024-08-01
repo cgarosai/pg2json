@@ -1,0 +1,10 @@
+{
+    "id": 1071453,
+    "name": "mq_appliance",
+    "version": "9.3.2.1",
+    "created_at": "2023-05-10T12:41:54",
+    "updated_at": "2023-08-30T09:14:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:mq_appliance:9.3.2.1:*:*:*:continuous_delivery:*:*:*",
+    "to_analyse": false
+}

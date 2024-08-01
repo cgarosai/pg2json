@@ -1,0 +1,10 @@
+{
+    "id": 127763,
+    "name": "fortimail",
+    "version": "5.3.7",
+    "created_at": "2017-04-19T17:57:31",
+    "updated_at": "2017-04-19T17:57:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortimail:5.3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 27759,
+    "name": "lotus_notes",
+    "version": "8.5",
+    "created_at": "2009-09-02T13:36:13",
+    "updated_at": "2011-06-30T13:01:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:lotus_notes:8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

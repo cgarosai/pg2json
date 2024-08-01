@@ -1,0 +1,10 @@
+{
+    "id": 70675,
+    "name": "thunderbird_esr",
+    "version": "17.0.7",
+    "created_at": "2013-06-26T15:52:11",
+    "updated_at": "2013-07-12T15:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:thunderbird_esr:17.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

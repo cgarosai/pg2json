@@ -1,0 +1,10 @@
+{
+    "id": 88050,
+    "name": "prime_network_registrar",
+    "version": "7.2",
+    "created_at": "2013-11-27T14:19:16",
+    "updated_at": "2013-11-27T14:57:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:prime_network_registrar:7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

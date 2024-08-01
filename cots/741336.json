@@ -1,0 +1,10 @@
+{
+    "id": 741336,
+    "name": "open62541",
+    "version": "1.0",
+    "created_at": "2021-07-26T11:19:50",
+    "updated_at": "2021-07-26T16:02:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open62541:open62541:1.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

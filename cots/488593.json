@@ -1,0 +1,10 @@
+{
+    "id": 488593,
+    "name": "geocoder",
+    "version": "0.9.7",
+    "created_at": "2020-02-03T14:26:41",
+    "updated_at": "2020-02-03T14:26:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rubygeocoder:geocoder:0.9.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

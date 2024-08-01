@@ -1,0 +1,10 @@
+{
+    "id": 697019,
+    "name": "fluidsynth",
+    "version": "2.1.0",
+    "created_at": "2021-04-16T12:25:16",
+    "updated_at": "2021-04-16T17:14:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fluidsynth:fluidsynth:2.1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

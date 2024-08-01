@@ -1,0 +1,10 @@
+{
+    "id": 348142,
+    "name": "email-newsletter",
+    "version": "20.15",
+    "created_at": "2019-08-23T14:14:04",
+    "updated_at": "2019-08-23T14:14:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:email-newsletter_project:email-newsletter:20.15:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

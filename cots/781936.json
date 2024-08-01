@@ -1,0 +1,10 @@
+{
+    "id": 781936,
+    "name": "collabnet",
+    "version": "1.1.9",
+    "created_at": "2021-10-08T14:19:40",
+    "updated_at": "2021-10-08T14:21:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:collabnet:1.1.9:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

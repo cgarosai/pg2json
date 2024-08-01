@@ -1,0 +1,10 @@
+{
+    "id": 161871,
+    "name": "infrastructure",
+    "version": "1.0",
+    "created_at": "2018-08-08T18:33:21",
+    "updated_at": "2021-07-27T23:09:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:infrastructure:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

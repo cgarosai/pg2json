@@ -1,0 +1,10 @@
+{
+    "id": 766335,
+    "name": "mobile_security",
+    "version": "-",
+    "created_at": "2021-08-19T10:25:48",
+    "updated_at": "2021-08-19T14:18:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:mobile_security:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

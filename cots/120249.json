@@ -1,0 +1,10 @@
+{
+    "id": 120249,
+    "name": "bcm43xx_wi-fi_chipset_firmware",
+    "version": "-",
+    "created_at": "2017-06-09T17:02:54",
+    "updated_at": "2021-04-09T16:06:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:broadcom:bcm43xx_wi-fi_chipset_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

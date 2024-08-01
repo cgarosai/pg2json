@@ -1,0 +1,10 @@
+{
+    "id": 1240343,
+    "name": "netbox",
+    "version": "3.4.7",
+    "created_at": "2024-02-02T12:54:53",
+    "updated_at": "2024-02-02T12:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netbox:netbox:3.4.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

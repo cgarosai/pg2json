@@ -1,0 +1,10 @@
+{
+    "id": 254656,
+    "name": "expressway",
+    "version": "x8.8.0",
+    "created_at": "2019-06-12T16:18:37",
+    "updated_at": "2019-06-12T16:18:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:expressway:x8.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

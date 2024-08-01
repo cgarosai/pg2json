@@ -1,0 +1,10 @@
+{
+    "id": 546086,
+    "name": "service-api",
+    "version": "4.3.12",
+    "created_at": "2020-05-05T15:56:00",
+    "updated_at": "2020-05-05T15:56:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:reportportal:service-api:4.3.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

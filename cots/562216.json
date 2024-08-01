@@ -1,0 +1,10 @@
+{
+    "id": 562216,
+    "name": "firepower_system_software",
+    "version": "6.2.3.4",
+    "created_at": "2020-07-15T10:00:02",
+    "updated_at": "2020-07-15T10:00:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:firepower_system_software:6.2.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

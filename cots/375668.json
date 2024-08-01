@@ -1,0 +1,10 @@
+{
+    "id": 375668,
+    "name": "credhub_service_broker",
+    "version": "1.0.2",
+    "created_at": "2019-09-18T13:42:18",
+    "updated_at": "2019-09-18T13:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:credhub_service_broker:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

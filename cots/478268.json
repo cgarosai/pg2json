@@ -1,0 +1,10 @@
+{
+    "id": 478268,
+    "name": "centreon_vm",
+    "version": "19.04.2",
+    "created_at": "2020-01-14T14:41:12",
+    "updated_at": "2020-01-14T14:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:centreon:centreon_vm:19.04.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 813880,
+    "name": "sma_500v_firmware",
+    "version": "10.2.0.8-37sv",
+    "created_at": "2021-12-09T19:51:35",
+    "updated_at": "2021-12-14T17:48:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sma_500v_firmware:10.2.0.8-37sv:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

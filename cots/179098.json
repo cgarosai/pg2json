@@ -1,0 +1,10 @@
+{
+    "id": 179098,
+    "name": "ignite",
+    "version": "1.6.4",
+    "created_at": "2018-10-04T15:01:39",
+    "updated_at": "2018-10-04T15:01:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:ignite:1.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

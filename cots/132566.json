@@ -1,0 +1,10 @@
+{
+    "id": 132566,
+    "name": "enterprise_mrg",
+    "version": "1.0.2",
+    "created_at": "2018-01-04T14:56:25",
+    "updated_at": "2021-07-15T17:15:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_mrg:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

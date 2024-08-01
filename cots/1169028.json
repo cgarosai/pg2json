@@ -1,0 +1,10 @@
+{
+    "id": 1169028,
+    "name": "xl850_firmware",
+    "version": "5.9.8",
+    "created_at": "2023-09-28T10:52:09",
+    "updated_at": "2023-09-28T10:52:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:trane:xl850_firmware:5.9.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

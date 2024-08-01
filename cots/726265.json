@@ -1,0 +1,10 @@
+{
+    "id": 726265,
+    "name": "openjdk",
+    "version": "15.0.2",
+    "created_at": "2021-06-10T11:31:07",
+    "updated_at": "2021-06-10T15:26:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:openjdk:15.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 470604,
+    "name": "norton_app_lock",
+    "version": "1.1.0.234",
+    "created_at": "2020-01-16T16:31:42",
+    "updated_at": "2020-01-16T16:31:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:norton_app_lock:1.1.0.234:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

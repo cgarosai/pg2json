@@ -1,0 +1,10 @@
+{
+    "id": 98987,
+    "name": "voip_phone",
+    "version": "28.2.0.128.0.0.0",
+    "created_at": "2014-06-17T11:07:54",
+    "updated_at": "2014-06-20T00:09:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:yealink:voip_phone:28.2.0.128.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 556774,
+    "name": "broker",
+    "version": "3.3.2",
+    "created_at": "2020-06-01T15:31:10",
+    "updated_at": "2020-06-01T15:31:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synk:broker:3.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 529089,
+    "name": "security",
+    "version": "2019",
+    "created_at": "2020-04-03T09:28:59",
+    "updated_at": "2020-04-03T09:28:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:security:2019:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

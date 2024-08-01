@@ -1,0 +1,10 @@
+{
+    "id": 55981,
+    "name": "endpoint_security_solution",
+    "version": "6.0.479",
+    "created_at": "2012-04-24T21:21:51",
+    "updated_at": "2012-04-24T21:21:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:altiris:endpoint_security_solution:6.0.479:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

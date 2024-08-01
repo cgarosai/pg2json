@@ -1,0 +1,10 @@
+{
+    "id": 89754,
+    "name": "diskstation_manager",
+    "version": "4.2-3243",
+    "created_at": "2014-01-10T12:50:52",
+    "updated_at": "2014-01-10T12:54:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synology:diskstation_manager:4.2-3243:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

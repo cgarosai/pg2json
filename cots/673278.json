@@ -1,0 +1,10 @@
+{
+    "id": 673278,
+    "name": "libvirt_agents",
+    "version": "1.8.5",
+    "created_at": "2021-03-24T14:50:11",
+    "updated_at": "2021-03-24T18:46:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:libvirt_agents:1.8.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

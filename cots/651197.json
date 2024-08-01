@@ -1,0 +1,10 @@
+{
+    "id": 651197,
+    "name": "cache",
+    "version": "0.1.4",
+    "created_at": "2021-02-16T14:00:07",
+    "updated_at": "2021-02-16T14:00:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cache_project:cache:0.1.4:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

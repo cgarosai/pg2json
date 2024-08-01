@@ -1,0 +1,10 @@
+{
+    "id": 77544,
+    "name": "infosphere_replication_server",
+    "version": "10.1.0.4",
+    "created_at": "2013-04-02T11:24:09",
+    "updated_at": "2013-04-09T19:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_replication_server:10.1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

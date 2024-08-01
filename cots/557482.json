@@ -1,0 +1,10 @@
+{
+    "id": 557482,
+    "name": "device_manager",
+    "version": "8.6.5-00",
+    "created_at": "2020-06-02T15:04:40",
+    "updated_at": "2021-05-28T11:18:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:device_manager:8.6.5-00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

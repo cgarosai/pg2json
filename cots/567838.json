@@ -1,0 +1,10 @@
+{
+    "id": 567838,
+    "name": "sql_plus",
+    "version": "11.2.0.4",
+    "created_at": "2020-07-01T12:14:45",
+    "updated_at": "2020-07-01T12:14:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:sql_plus:11.2.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 381298,
+    "name": "prince",
+    "version": "0.9.3",
+    "created_at": "2019-09-25T16:12:32",
+    "updated_at": "2019-09-25T16:12:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:prince_project:prince:0.9.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

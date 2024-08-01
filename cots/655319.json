@@ -1,0 +1,10 @@
+{
+    "id": 655319,
+    "name": "iniparserjs",
+    "version": "-",
+    "created_at": "2021-02-02T14:38:06",
+    "updated_at": "2021-02-02T14:38:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iniparserjs_project:iniparserjs:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 422598,
+    "name": "emercoin",
+    "version": "0.6.0",
+    "created_at": "2019-11-06T15:19:04",
+    "updated_at": "2019-11-06T15:19:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emercoin:emercoin:0.6.0:rc6:*:*:*:*:*:*",
+    "to_analyse": false
+}

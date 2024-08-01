@@ -1,0 +1,10 @@
+{
+    "id": 375604,
+    "name": "filecloud",
+    "version": "1.12",
+    "created_at": "2019-09-18T13:28:26",
+    "updated_at": "2022-02-23T00:05:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getfilecloud:filecloud:1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

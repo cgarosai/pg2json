@@ -1,0 +1,10 @@
+{
+    "id": 815352,
+    "name": "thunderbolt_non-dch_driver",
+    "version": "-",
+    "created_at": "2021-11-19T15:52:13",
+    "updated_at": "2021-11-19T20:00:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:thunderbolt_non-dch_driver:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 919729,
+    "name": "picoc",
+    "version": "3.2",
+    "created_at": "2022-08-04T14:22:26",
+    "updated_at": "2022-08-04T14:55:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:picoc_project:picoc:3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

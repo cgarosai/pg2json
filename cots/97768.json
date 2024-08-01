@@ -1,0 +1,10 @@
+{
+    "id": 97768,
+    "name": "cg-os",
+    "version": "cg4\\(2\\)",
+    "created_at": "2014-05-27T14:52:43",
+    "updated_at": "2014-05-30T15:32:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:cg-os:cg4\\(2\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 826596,
+    "name": "manageengine_desktop_central",
+    "version": "10.1.2128.0",
+    "created_at": "2021-12-14T17:36:45",
+    "updated_at": "2021-12-16T20:18:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_desktop_central:10.1.2128.0:*:*:*:managed_service_providers:*:*:*",
+    "to_analyse": false
+}

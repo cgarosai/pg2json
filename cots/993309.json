@@ -1,0 +1,10 @@
+{
+    "id": 993309,
+    "name": "collective.dms.basecontent",
+    "version": "0.5",
+    "created_at": "2022-12-28T14:05:41",
+    "updated_at": "2022-12-28T14:56:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:collective.dms.basecontent_project:collective.dms.basecontent:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

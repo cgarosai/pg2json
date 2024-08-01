@@ -1,0 +1,10 @@
+{
+    "id": 912336,
+    "name": "wsm_downloader",
+    "version": "1.4.0",
+    "created_at": "2022-08-10T09:59:20",
+    "updated_at": "2022-09-12T12:02:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wsm_downloader_project:wsm_downloader:1.4.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

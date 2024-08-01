@@ -1,0 +1,10 @@
+{
+    "id": 375688,
+    "name": "setup",
+    "version": "2.10.10",
+    "created_at": "2019-09-18T13:49:29",
+    "updated_at": "2019-09-18T13:49:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:setup:2.10.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

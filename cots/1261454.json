@@ -1,0 +1,10 @@
+{
+    "id": 1261454,
+    "name": "x_server",
+    "version": "21.1.10",
+    "created_at": "2024-04-29T15:09:16",
+    "updated_at": "2024-04-29T15:09:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:x.org:x_server:21.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

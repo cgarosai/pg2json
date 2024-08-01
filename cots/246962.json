@@ -1,0 +1,10 @@
+{
+    "id": 246962,
+    "name": "pacdrive_eco_firmware",
+    "version": "-",
+    "created_at": "2019-05-23T16:44:42",
+    "updated_at": "2021-05-12T11:52:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:pacdrive_eco_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

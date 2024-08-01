@@ -1,0 +1,10 @@
+{
+    "id": 192566,
+    "name": "cwa0101_firmware",
+    "version": "cwa0101e-a23e-c7000r5712-170315-skc",
+    "created_at": "2019-01-11T12:19:08",
+    "updated_at": "2021-05-27T16:37:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:technicolor:cwa0101_firmware:cwa0101e-a23e-c7000r5712-170315-skc:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

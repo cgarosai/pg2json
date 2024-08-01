@@ -1,0 +1,10 @@
+{
+    "id": 528170,
+    "name": "torpedo_query",
+    "version": "2.6.0",
+    "created_at": "2020-04-02T10:31:50",
+    "updated_at": "2020-04-02T10:31:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:torpedoquery:torpedo_query:2.6.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

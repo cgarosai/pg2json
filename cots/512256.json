@@ -1,0 +1,10 @@
+{
+    "id": 512256,
+    "name": "fortibalancer_400_firmware",
+    "version": "-",
+    "created_at": "2020-03-26T16:21:38",
+    "updated_at": "2020-03-26T16:21:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fortinet:fortibalancer_400_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

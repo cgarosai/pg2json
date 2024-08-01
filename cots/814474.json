@@ -1,0 +1,10 @@
+{
+    "id": 814474,
+    "name": "warp_firmware",
+    "version": "9.1.2",
+    "created_at": "2021-12-10T16:13:07",
+    "updated_at": "2021-12-20T15:21:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fatpipeinc:warp_firmware:9.1.2:r161p3:*:*:*:*:*:*",
+    "to_analyse": false
+}

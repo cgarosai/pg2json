@@ -1,0 +1,10 @@
+{
+    "id": 163531,
+    "name": "cse-m32_firmware",
+    "version": "-",
+    "created_at": "2018-08-20T17:02:49",
+    "updated_at": "2021-07-01T13:22:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:eztcp:cse-m32_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 762087,
+    "name": "conqueue",
+    "version": "0.3.0",
+    "created_at": "2021-08-27T11:17:56",
+    "updated_at": "2021-08-30T09:10:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:conqueue_project:conqueue:0.3.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 197160,
+    "name": "meraki_mx_15_firmware",
+    "version": "15.7",
+    "created_at": "2018-12-11T14:44:29",
+    "updated_at": "2021-04-21T16:30:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:meraki_mx_15_firmware:15.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

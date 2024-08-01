@@ -1,0 +1,10 @@
+{
+    "id": 820962,
+    "name": "gnuplot",
+    "version": "5.4",
+    "created_at": "2021-12-27T15:58:09",
+    "updated_at": "2022-09-03T01:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnuplot:gnuplot:5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

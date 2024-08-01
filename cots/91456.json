@@ -1,0 +1,10 @@
+{
+    "id": 91456,
+    "name": "telemetry_\\(ceilometer\\)",
+    "version": "2013.2.4",
+    "created_at": "2014-08-20T14:24:02",
+    "updated_at": "2014-08-27T22:44:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:telemetry_\\(ceilometer\\):2013.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

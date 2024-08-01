@@ -1,0 +1,10 @@
+{
+    "id": 1245989,
+    "name": "smart_s150_firmware",
+    "version": "31r02b15",
+    "created_at": "2024-01-25T23:20:41",
+    "updated_at": "2024-01-25T23:20:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:byzoro:smart_s150_firmware:31r02b15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 53488,
+    "name": "toad_for_oracle",
+    "version": "9.5",
+    "created_at": "2012-07-10T01:18:12",
+    "updated_at": "2012-07-10T01:18:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quest:toad_for_oracle:9.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

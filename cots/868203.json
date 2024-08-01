@@ -1,0 +1,10 @@
+{
+    "id": 868203,
+    "name": "wallbox_glb_firmware",
+    "version": "-",
+    "created_at": "2022-03-28T13:27:21",
+    "updated_at": "2022-03-30T11:54:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:garo:wallbox_glb_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

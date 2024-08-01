@@ -1,0 +1,10 @@
+{
+    "id": 833320,
+    "name": "banking_system",
+    "version": "1.0",
+    "created_at": "2022-01-31T15:42:13",
+    "updated_at": "2022-02-07T18:04:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:banking_system_project:banking_system:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

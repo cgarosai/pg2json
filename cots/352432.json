@@ -1,0 +1,10 @@
+{
+    "id": 352432,
+    "name": "etcd",
+    "version": "3.3.0",
+    "created_at": "2019-09-09T15:26:34",
+    "updated_at": "2019-09-09T15:26:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:etcd:3.3.0:rc4:*:*:*:*:*:*",
+    "to_analyse": false
+}

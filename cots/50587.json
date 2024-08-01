@@ -1,0 +1,10 @@
+{
+    "id": 50587,
+    "name": "spa3102_voice_gateway_with_router_firmware",
+    "version": "5.1.10",
+    "created_at": "2012-06-14T15:52:25",
+    "updated_at": "2012-06-15T13:11:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:spa3102_voice_gateway_with_router_firmware:5.1.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

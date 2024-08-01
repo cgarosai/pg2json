@@ -1,0 +1,10 @@
+{
+    "id": 223167,
+    "name": "coverity",
+    "version": "1.7.0",
+    "created_at": "2019-04-24T14:27:23",
+    "updated_at": "2019-04-24T14:27:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:coverity:1.7.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

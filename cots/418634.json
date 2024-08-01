@@ -1,0 +1,10 @@
+{
+    "id": 418634,
+    "name": "endpoint_protection_manager",
+    "version": "14.2",
+    "created_at": "2019-10-24T14:28:12",
+    "updated_at": "2020-02-19T21:43:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

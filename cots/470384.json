@@ -1,0 +1,10 @@
+{
+    "id": 470384,
+    "name": "zimbra_collaboration_server",
+    "version": "6.0.10",
+    "created_at": "2020-01-16T12:45:21",
+    "updated_at": "2020-01-16T12:45:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synacor:zimbra_collaboration_server:6.0.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

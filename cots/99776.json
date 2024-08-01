@@ -1,0 +1,10 @@
+{
+    "id": 99776,
+    "name": "suricata_package",
+    "version": "1.0.5",
+    "created_at": "2014-07-02T17:28:56",
+    "updated_at": "2014-07-15T18:16:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pfsense:suricata_package:1.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

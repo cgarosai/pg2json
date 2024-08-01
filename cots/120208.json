@@ -1,0 +1,10 @@
+{
+    "id": 120208,
+    "name": "oncell_g3150-hsdpa",
+    "version": "-",
+    "created_at": "2017-06-08T15:24:41",
+    "updated_at": "2021-04-16T11:46:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:moxa:oncell_g3150-hsdpa:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

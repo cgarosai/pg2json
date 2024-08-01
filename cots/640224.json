@@ -1,0 +1,10 @@
+{
+    "id": 640224,
+    "name": "gpu_driver",
+    "version": "392.63",
+    "created_at": "2021-01-21T12:43:30",
+    "updated_at": "2021-01-21T12:43:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:392.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

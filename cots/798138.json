@@ -1,0 +1,10 @@
+{
+    "id": 798138,
+    "name": "security_risk_manager_on_cp4s",
+    "version": "1.7.0.0",
+    "created_at": "2021-10-19T15:49:57",
+    "updated_at": "2021-10-19T15:59:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_risk_manager_on_cp4s:1.7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

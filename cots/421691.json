@@ -1,0 +1,10 @@
+{
+    "id": 421691,
+    "name": "phantomjs",
+    "version": "1.4.0",
+    "created_at": "2019-11-06T12:28:43",
+    "updated_at": "2019-11-06T12:28:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:phantomjs:phantomjs:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

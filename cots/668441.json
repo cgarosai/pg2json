@@ -1,0 +1,10 @@
+{
+    "id": 668441,
+    "name": "aws_sdk_for_javascipt",
+    "version": "0.9.8",
+    "created_at": "2021-02-25T14:40:22",
+    "updated_at": "2021-02-25T14:58:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_sdk_for_javascipt:0.9.8:prerelease9:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

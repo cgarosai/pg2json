@@ -1,0 +1,10 @@
+{
+    "id": 184859,
+    "name": "spectrum_protect_for_virtual_environments",
+    "version": "8.1.4",
+    "created_at": "2018-11-26T16:49:54",
+    "updated_at": "2018-11-26T16:49:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:spectrum_protect_for_virtual_environments:8.1.4:*:*:*:*:vmware:*:*",
+    "to_analyse": false
+}

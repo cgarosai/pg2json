@@ -1,0 +1,10 @@
+{
+    "id": 1158800,
+    "name": "iq_engine",
+    "version": "10.6r5",
+    "created_at": "2023-09-15T13:10:26",
+    "updated_at": "2023-09-15T13:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:extremenetworks:iq_engine:10.6r5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

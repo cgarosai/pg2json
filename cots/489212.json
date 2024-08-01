@@ -1,0 +1,10 @@
+{
+    "id": 489212,
+    "name": "jboss_brms",
+    "version": "5",
+    "created_at": "2020-02-03T17:26:56",
+    "updated_at": "2021-06-03T14:05:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_brms:5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

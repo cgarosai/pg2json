@@ -1,0 +1,10 @@
+{
+    "id": 1071067,
+    "name": "snapdragon_8cx_compute_platform_firmware",
+    "version": "-",
+    "created_at": "2023-05-09T15:27:54",
+    "updated_at": "2023-09-02T00:30:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:snapdragon_8cx_compute_platform_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 233514,
+    "name": "activematrix_business_process_management",
+    "version": "4.2.0",
+    "created_at": "2019-05-13T14:56:17",
+    "updated_at": "2021-05-17T10:01:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:activematrix_business_process_management:4.2.0:*:*:*:*:silver_fabric:*:*",
+    "to_analyse": false
+}

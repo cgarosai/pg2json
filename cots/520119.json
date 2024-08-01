@@ -1,0 +1,10 @@
+{
+    "id": 520119,
+    "name": "heroku-addonpool",
+    "version": "-",
+    "created_at": "2020-04-06T15:51:43",
+    "updated_at": "2020-04-06T15:51:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heroku-addonpool_project:heroku-addonpool:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

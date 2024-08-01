@@ -1,0 +1,10 @@
+{
+    "id": 200243,
+    "name": "cloud_foundry_diego",
+    "version": "0.1403.0",
+    "created_at": "2019-02-25T17:35:02",
+    "updated_at": "2019-02-25T17:35:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_diego:0.1403.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

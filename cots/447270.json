@@ -1,0 +1,10 @@
+{
+    "id": 447270,
+    "name": "git_changelog",
+    "version": "1.41",
+    "created_at": "2019-11-26T13:49:11",
+    "updated_at": "2019-11-26T13:49:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:git_changelog:1.41:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

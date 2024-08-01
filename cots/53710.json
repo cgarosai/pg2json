@@ -1,0 +1,10 @@
+{
+    "id": 53710,
+    "name": "c-major_audio",
+    "version": "42xx",
+    "created_at": "2012-07-10T01:19:17",
+    "updated_at": "2012-07-10T01:19:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sigmatel:c-major_audio:42xx:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

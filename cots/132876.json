@@ -1,0 +1,10 @@
+{
+    "id": 132876,
+    "name": "international_components_for_unicode",
+    "version": "4.8",
+    "created_at": "2018-01-09T14:48:29",
+    "updated_at": "2018-01-09T14:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:icu-project:international_components_for_unicode:4.8:*:*:*:*:java:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 14984,
+    "name": "open_enterprise_server",
+    "version": "1.x",
+    "created_at": "2009-02-18T16:24:50",
+    "updated_at": "2020-02-24T13:15:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:novell:open_enterprise_server:1.x:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

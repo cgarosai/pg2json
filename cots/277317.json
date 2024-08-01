@@ -1,0 +1,10 @@
+{
+    "id": 277317,
+    "name": "geddy",
+    "version": "0.7.21",
+    "created_at": "2019-06-24T15:48:10",
+    "updated_at": "2019-06-24T15:48:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:geddyjs:geddy:0.7.21:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

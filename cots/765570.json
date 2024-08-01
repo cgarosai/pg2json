@@ -1,0 +1,10 @@
+{
+    "id": 765570,
+    "name": "dap-2310_firmware",
+    "version": "2.0.7.rc031",
+    "created_at": "2021-08-17T12:13:31",
+    "updated_at": "2021-08-19T15:07:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dlink:dap-2310_firmware:2.0.7.rc031:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

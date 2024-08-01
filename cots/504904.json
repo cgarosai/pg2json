@@ -1,0 +1,10 @@
+{
+    "id": 504904,
+    "name": "audit-userspace",
+    "version": "2.7.8",
+    "created_at": "2020-03-11T15:51:48",
+    "updated_at": "2020-03-11T15:51:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:audit-userspace_project:audit-userspace:2.7.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

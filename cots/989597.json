@@ -1,0 +1,10 @@
+{
+    "id": 989597,
+    "name": "openharmony",
+    "version": "1.1.0",
+    "created_at": "2022-12-12T13:43:19",
+    "updated_at": "2023-03-14T12:18:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openharmony:openharmony:1.1.0:*:*:*:lts:*:*:*",
+    "to_analyse": false
+}

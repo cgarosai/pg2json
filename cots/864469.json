@@ -1,0 +1,10 @@
+{
+    "id": 864469,
+    "name": "febs-security",
+    "version": "1.0",
+    "created_at": "2022-04-14T10:55:01",
+    "updated_at": "2022-04-15T15:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:febs-security_project:febs-security:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

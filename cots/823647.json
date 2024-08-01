@@ -1,0 +1,10 @@
+{
+    "id": 823647,
+    "name": "ms60_firmware",
+    "version": "1.1.6.122",
+    "created_at": "2022-01-05T13:27:46",
+    "updated_at": "2022-01-06T16:55:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:ms60_firmware:1.1.6.122:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

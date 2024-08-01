@@ -1,0 +1,10 @@
+{
+    "id": 1234128,
+    "name": "scada-lts",
+    "version": "2.4.0",
+    "created_at": "2024-01-22T15:04:53",
+    "updated_at": "2024-01-22T15:04:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scada-lts:scada-lts:2.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

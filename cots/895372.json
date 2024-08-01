@@ -1,0 +1,10 @@
+{
+    "id": 895372,
+    "name": "flightradar24_flight_tracker",
+    "version": "8.10.2",
+    "created_at": "2022-06-08T15:40:20",
+    "updated_at": "2022-06-08T17:23:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flightradar24:flightradar24_flight_tracker:8.10.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

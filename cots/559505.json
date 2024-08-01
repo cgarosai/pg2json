@@ -1,0 +1,10 @@
+{
+    "id": 559505,
+    "name": "managed_file_transfer_platform_server",
+    "version": "7.1.0",
+    "created_at": "2020-06-10T15:48:17",
+    "updated_at": "2020-06-10T15:48:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:managed_file_transfer_platform_server:7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

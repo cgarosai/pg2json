@@ -1,0 +1,10 @@
+{
+    "id": 358241,
+    "name": "user_domain_whitelist",
+    "version": "1.5",
+    "created_at": "2019-09-04T15:28:10",
+    "updated_at": "2019-09-04T15:28:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:user_domain_whitelist_project:user_domain_whitelist:1.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

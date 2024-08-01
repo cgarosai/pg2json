@@ -1,0 +1,10 @@
+{
+    "id": 509465,
+    "name": "nas542_firmware",
+    "version": "-",
+    "created_at": "2020-03-05T19:09:32",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:nas542_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

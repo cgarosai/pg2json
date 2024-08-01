@@ -1,0 +1,10 @@
+{
+    "id": 579865,
+    "name": "virtualization_manager",
+    "version": "4.3",
+    "created_at": "2020-08-04T10:42:19",
+    "updated_at": "2020-08-04T10:42:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:virtualization_manager:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 105971,
+    "name": "network_camera_recorder",
+    "version": "-",
+    "created_at": "2014-12-16T17:46:47",
+    "updated_at": "2015-03-09T17:08:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:panasonic:network_camera_recorder:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

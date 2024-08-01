@@ -1,0 +1,10 @@
+{
+    "id": 507208,
+    "name": "versana_essential_firmware",
+    "version": "-",
+    "created_at": "2020-03-03T17:19:00",
+    "updated_at": "2021-06-08T11:55:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ge:versana_essential_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 101263,
+    "name": "migrate",
+    "version": "7.x-2.2",
+    "created_at": "2015-08-20T11:28:30",
+    "updated_at": "2015-08-21T23:22:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:migrate_project:migrate:7.x-2.2:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

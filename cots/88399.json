@@ -1,0 +1,10 @@
+{
+    "id": 88399,
+    "name": "rsa_netwitness_nextgen",
+    "version": "9.8",
+    "created_at": "2013-12-11T18:27:50",
+    "updated_at": "2013-12-11T18:33:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_netwitness_nextgen:9.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

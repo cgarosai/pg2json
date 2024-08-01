@@ -1,0 +1,10 @@
+{
+    "id": 207738,
+    "name": "wicket",
+    "version": "1.5.13",
+    "created_at": "2019-02-12T17:34:32",
+    "updated_at": "2019-02-12T17:34:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:wicket:1.5.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

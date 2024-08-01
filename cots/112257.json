@@ -1,0 +1,10 @@
+{
+    "id": 112257,
+    "name": "gpu_driver",
+    "version": "340.52",
+    "created_at": "2016-11-10T18:18:10",
+    "updated_at": "2016-11-10T18:18:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

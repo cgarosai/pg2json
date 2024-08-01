@@ -1,0 +1,10 @@
+{
+    "id": 182009,
+    "name": "tivoli_storage_manager_for_space_management",
+    "version": "7.1.8.2",
+    "created_at": "2018-11-15T14:40:57",
+    "updated_at": "2018-11-15T14:40:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_storage_manager_for_space_management:7.1.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

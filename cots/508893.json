@@ -1,0 +1,10 @@
+{
+    "id": 508893,
+    "name": "remote_phy_120_firmware",
+    "version": "7.7",
+    "created_at": "2020-03-05T16:03:01",
+    "updated_at": "2020-03-05T16:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:remote_phy_120_firmware:7.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

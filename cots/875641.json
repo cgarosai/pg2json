@@ -1,0 +1,10 @@
+{
+    "id": 875641,
+    "name": "digital_experience_platform",
+    "version": "7.0",
+    "created_at": "2022-04-15T14:59:18",
+    "updated_at": "2022-04-15T15:25:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liferay:digital_experience_platform:7.0:fix_pack_16:*:*:*:*:*:*",
+    "to_analyse": false
+}

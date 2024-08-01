@@ -1,0 +1,10 @@
+{
+    "id": 472109,
+    "name": "1password",
+    "version": "1.0.0.120",
+    "created_at": "2020-01-22T13:55:08",
+    "updated_at": "2020-01-22T13:55:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:1password:1password:1.0.0.120:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 702622,
+    "name": "home",
+    "version": "-",
+    "created_at": "2021-05-24T13:07:49",
+    "updated_at": "2021-08-19T14:31:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:home:-:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

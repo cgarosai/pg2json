@@ -1,0 +1,10 @@
+{
+    "id": 662457,
+    "name": "wayland",
+    "version": "1.16.93",
+    "created_at": "2021-03-04T17:38:09",
+    "updated_at": "2021-03-18T15:36:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wayland:wayland:1.16.93:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

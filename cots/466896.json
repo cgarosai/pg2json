@@ -1,0 +1,10 @@
+{
+    "id": 466896,
+    "name": "pam_module",
+    "version": "2.25",
+    "created_at": "2019-12-17T11:31:20",
+    "updated_at": "2019-12-17T11:31:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yubico:pam_module:2.25:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

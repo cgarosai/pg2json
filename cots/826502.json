@@ -1,0 +1,10 @@
+{
+    "id": 826502,
+    "name": "epyc_embedded_3201_firmware",
+    "version": "-",
+    "created_at": "2021-12-14T16:17:51",
+    "updated_at": "2021-12-14T17:15:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_embedded_3201_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 491090,
+    "name": "shotx_firmware",
+    "version": "ath-al00c92b200",
+    "created_at": "2020-02-23T00:30:30",
+    "updated_at": "2020-02-23T00:30:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:shotx_firmware:ath-al00c92b200:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

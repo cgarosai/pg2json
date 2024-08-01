@@ -1,0 +1,10 @@
+{
+    "id": 431532,
+    "name": "sonicos",
+    "version": "5.8.0.2",
+    "created_at": "2019-11-19T12:42:03",
+    "updated_at": "2019-11-19T12:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sonicwall:sonicos:5.8.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

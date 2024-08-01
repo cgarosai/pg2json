@@ -1,0 +1,10 @@
+{
+    "id": 1220013,
+    "name": "integrated_lights-out_5_firmware",
+    "version": "2.63",
+    "created_at": "2023-12-29T17:13:53",
+    "updated_at": "2023-12-29T17:13:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:integrated_lights-out_5_firmware:2.63:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

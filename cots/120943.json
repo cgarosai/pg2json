@@ -1,0 +1,10 @@
+{
+    "id": 120943,
+    "name": "nx-os",
+    "version": "8.3\\(0\\)cv\\(0.833\\)",
+    "created_at": "2017-06-26T10:34:36",
+    "updated_at": "2021-12-03T16:07:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:nx-os:8.3\\(0\\)cv\\(0.833\\):*:*:*:*:nexus_7000_series:*:*",
+    "to_analyse": false
+}

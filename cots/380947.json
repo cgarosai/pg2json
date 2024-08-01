@@ -1,0 +1,10 @@
+{
+    "id": 380947,
+    "name": "scalajs-standalone-bin",
+    "version": "0.4.3",
+    "created_at": "2019-09-25T15:30:11",
+    "updated_at": "2019-09-25T15:30:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:scalajs-standalone-bin_project:scalajs-standalone-bin:0.4.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1127228,
+    "name": "automatewoo",
+    "version": "3.8.0",
+    "created_at": "2023-07-26T12:07:57",
+    "updated_at": "2023-07-26T15:31:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:woocommerce:automatewoo:3.8.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

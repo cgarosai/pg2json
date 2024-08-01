@@ -1,0 +1,10 @@
+{
+    "id": 923006,
+    "name": "openshift_serverless",
+    "version": "1.16.0",
+    "created_at": "2022-08-30T11:43:28",
+    "updated_at": "2022-09-20T16:42:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:openshift_serverless:1.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

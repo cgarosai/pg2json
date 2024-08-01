@@ -1,0 +1,10 @@
+{
+    "id": 456211,
+    "name": "mate_rs_firmware",
+    "version": "-",
+    "created_at": "2019-12-06T14:22:13",
+    "updated_at": "2019-12-06T14:22:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mate_rs_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

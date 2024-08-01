@@ -1,0 +1,10 @@
+{
+    "id": 766340,
+    "name": "ethernet_controller_e810_firmware",
+    "version": "1.4.11",
+    "created_at": "2021-08-19T11:11:09",
+    "updated_at": "2021-09-07T17:02:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_controller_e810_firmware:1.4.11:*:*:*:*:linux:*:*",
+    "to_analyse": false
+}

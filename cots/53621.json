@@ -1,0 +1,10 @@
+{
+    "id": 53621,
+    "name": "sentinel_protection_installer",
+    "version": "7.4.0",
+    "created_at": "2012-07-10T01:18:49",
+    "updated_at": "2012-07-10T01:18:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:safenet-inc:sentinel_protection_installer:7.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

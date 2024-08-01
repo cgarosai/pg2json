@@ -1,0 +1,10 @@
+{
+    "id": 774148,
+    "name": "parc",
+    "version": "1.0.0",
+    "created_at": "2021-09-24T11:45:35",
+    "updated_at": "2021-09-24T11:46:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parc_project:parc:1.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

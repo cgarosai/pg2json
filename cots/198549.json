@@ -1,0 +1,10 @@
+{
+    "id": 198549,
+    "name": "ethtool",
+    "version": "4.2",
+    "created_at": "2018-12-31T16:36:57",
+    "updated_at": "2018-12-31T16:36:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:ethtool:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

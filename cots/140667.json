@@ -1,0 +1,10 @@
+{
+    "id": 140667,
+    "name": "sdx20_firmware",
+    "version": "-",
+    "created_at": "2018-04-23T16:58:37",
+    "updated_at": "2021-04-14T12:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sdx20_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 193916,
+    "name": "kmod",
+    "version": "6",
+    "created_at": "2019-01-28T14:06:51",
+    "updated_at": "2019-01-28T14:06:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:kmod:6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

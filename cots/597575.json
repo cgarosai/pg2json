@@ -1,0 +1,10 @@
+{
+    "id": 597575,
+    "name": "power_egg",
+    "version": "2.4",
+    "created_at": "2020-09-09T13:42:24",
+    "updated_at": "2020-09-09T13:42:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:d-circle:power_egg:2.4:patch13:*:*:*:*:*:*",
+    "to_analyse": false
+}

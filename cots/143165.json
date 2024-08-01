@@ -1,0 +1,10 @@
+{
+    "id": 143165,
+    "name": "kaazing_websocket_gateway",
+    "version": "4.0.6",
+    "created_at": "2018-05-22T16:11:01",
+    "updated_at": "2021-04-19T15:35:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tenefit:kaazing_websocket_gateway:4.0.6:hotfix2:*:*:jms:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 224058,
+    "name": "urllib3",
+    "version": "1.8.3",
+    "created_at": "2019-04-25T13:59:48",
+    "updated_at": "2019-04-25T13:59:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:python:urllib3:1.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

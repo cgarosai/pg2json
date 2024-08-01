@@ -1,0 +1,10 @@
+{
+    "id": 573209,
+    "name": "httplib2",
+    "version": "0.17.4",
+    "created_at": "2020-08-11T13:02:43",
+    "updated_at": "2020-08-11T13:02:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:httplib2_project:httplib2:0.17.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

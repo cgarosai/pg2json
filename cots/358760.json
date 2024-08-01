@@ -1,0 +1,10 @@
+{
+    "id": 358760,
+    "name": "protobuf",
+    "version": "2.2.4",
+    "created_at": "2019-09-05T12:18:44",
+    "updated_at": "2019-09-06T14:20:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protobuf_project:protobuf:2.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1190220,
+    "name": "airflow_celery_provider",
+    "version": "3.3.0",
+    "created_at": "2023-11-15T21:57:28",
+    "updated_at": "2023-11-15T21:57:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:airflow_celery_provider:3.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

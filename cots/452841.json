@@ -1,0 +1,10 @@
+{
+    "id": 452841,
+    "name": "flickr_picture_backup",
+    "version": "0.7",
+    "created_at": "2019-12-10T15:45:46",
+    "updated_at": "2019-12-10T15:45:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flickr_picture_backup_project:flickr_picture_backup:0.7:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

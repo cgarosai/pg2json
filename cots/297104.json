@@ -1,0 +1,10 @@
+{
+    "id": 297104,
+    "name": "spider_catalog",
+    "version": "6.x-1.0",
+    "created_at": "2019-07-15T09:45:01",
+    "updated_at": "2019-07-15T09:45:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:web-dorado:spider_catalog:6.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

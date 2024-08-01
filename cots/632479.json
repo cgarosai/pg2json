@@ -1,0 +1,10 @@
+{
+    "id": 632479,
+    "name": "getobject",
+    "version": "0.1.0",
+    "created_at": "2020-12-30T15:27:11",
+    "updated_at": "2020-12-30T15:27:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getobject_project:getobject:0.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

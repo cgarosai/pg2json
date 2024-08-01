@@ -1,0 +1,10 @@
+{
+    "id": 637118,
+    "name": "jira_comment",
+    "version": "2.0.2",
+    "created_at": "2020-12-15T13:26:53",
+    "updated_at": "2020-12-15T13:26:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_comment:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

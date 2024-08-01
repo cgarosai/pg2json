@@ -1,0 +1,10 @@
+{
+    "id": 114143,
+    "name": "jsch",
+    "version": "0.1.53",
+    "created_at": "2017-01-20T16:09:20",
+    "updated_at": "2021-04-15T14:36:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jcraft:jsch:0.1.53:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

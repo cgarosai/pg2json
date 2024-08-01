@@ -1,0 +1,10 @@
+{
+    "id": 109203,
+    "name": "node_access_product",
+    "version": "7.x-1.0",
+    "created_at": "2015-04-23T14:08:56",
+    "updated_at": "2015-05-11T14:06:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node_access_product_project:node_access_product:7.x-1.0:rc4:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

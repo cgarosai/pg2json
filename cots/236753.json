@@ -1,0 +1,10 @@
+{
+    "id": 236753,
+    "name": "am-101_firmware",
+    "version": "2.7.0.2",
+    "created_at": "2019-05-01T15:04:43",
+    "updated_at": "2021-05-14T11:28:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:crestron:am-101_firmware:2.7.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

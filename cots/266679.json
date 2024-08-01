@@ -1,0 +1,10 @@
+{
+    "id": 266679,
+    "name": "snapd",
+    "version": "2.32.6",
+    "created_at": "2019-06-14T12:19:02",
+    "updated_at": "2019-06-14T12:19:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:snapd:2.32.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

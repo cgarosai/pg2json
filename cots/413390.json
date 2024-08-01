@@ -1,0 +1,10 @@
+{
+    "id": 413390,
+    "name": "magnum",
+    "version": "7.0.0",
+    "created_at": "2019-10-30T18:25:52",
+    "updated_at": "2019-10-30T18:25:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:magnum:7.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

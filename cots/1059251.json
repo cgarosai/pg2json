@@ -1,0 +1,10 @@
+{
+    "id": 1059251,
+    "name": "malwarebytes",
+    "version": "3.0.5",
+    "created_at": "2023-03-24T13:54:52",
+    "updated_at": "2023-03-24T13:59:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:malwarebytes:malwarebytes:3.0.5:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

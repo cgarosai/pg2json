@@ -1,0 +1,10 @@
+{
+    "id": 582394,
+    "name": "usg_20w_firmware",
+    "version": "-",
+    "created_at": "2020-08-31T10:25:20",
+    "updated_at": "2020-08-31T10:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:usg_20w_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

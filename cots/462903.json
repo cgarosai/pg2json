@@ -1,0 +1,10 @@
+{
+    "id": 462903,
+    "name": "labkey_server",
+    "version": "13.3",
+    "created_at": "2020-01-06T16:07:31",
+    "updated_at": "2020-01-06T16:07:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:labkey:labkey_server:13.3:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 721486,
+    "name": "envoy_firmware",
+    "version": "d4.0",
+    "created_at": "2021-06-23T09:16:46",
+    "updated_at": "2021-07-08T17:28:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:enphase:envoy_firmware:d4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

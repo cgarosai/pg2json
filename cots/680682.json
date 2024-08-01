@@ -1,0 +1,10 @@
+{
+    "id": 680682,
+    "name": "enterprise_common_services",
+    "version": "8.3.5",
+    "created_at": "2021-04-07T14:26:18",
+    "updated_at": "2021-04-09T11:51:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:enterprise_common_services:8.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 952182,
+    "name": "update_infrastructure",
+    "version": "3.0",
+    "created_at": "2022-10-26T14:09:56",
+    "updated_at": "2022-10-26T15:54:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:update_infrastructure:3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

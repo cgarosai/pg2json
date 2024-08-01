@@ -1,0 +1,10 @@
+{
+    "id": 701600,
+    "name": "epyc_embedded_3251",
+    "version": "-",
+    "created_at": "2021-05-21T09:21:48",
+    "updated_at": "2021-05-27T11:32:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:amd:epyc_embedded_3251:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 590333,
+    "name": "ha_bridge",
+    "version": "3.0.0",
+    "created_at": "2020-09-15T14:00:38",
+    "updated_at": "2020-09-15T14:00:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bwssystems:ha_bridge:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

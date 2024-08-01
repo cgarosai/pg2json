@@ -1,0 +1,10 @@
+{
+    "id": 1169688,
+    "name": "unifi_os",
+    "version": "3.1",
+    "created_at": "2023-09-28T19:37:07",
+    "updated_at": "2023-09-28T19:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:unifi_os:3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

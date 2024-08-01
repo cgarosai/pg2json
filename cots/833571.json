@@ -1,0 +1,10 @@
+{
+    "id": 833571,
+    "name": "tricon_tcm_4351_firmware",
+    "version": "10.3.x",
+    "created_at": "2022-01-31T17:58:08",
+    "updated_at": "2022-01-31T19:07:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:tricon_tcm_4351_firmware:10.3.x:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

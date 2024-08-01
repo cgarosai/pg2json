@@ -1,0 +1,10 @@
+{
+    "id": 121087,
+    "name": "apc_ups_daemon",
+    "version": "3.14.14",
+    "created_at": "2017-06-29T15:24:27",
+    "updated_at": "2021-03-29T14:13:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apcupsd:apc_ups_daemon:3.14.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

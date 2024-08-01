@@ -1,0 +1,10 @@
+{
+    "id": 120217,
+    "name": "odoo",
+    "version": "8.0",
+    "created_at": "2017-06-08T15:29:29",
+    "updated_at": "2021-07-08T10:44:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:odoo:odoo:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

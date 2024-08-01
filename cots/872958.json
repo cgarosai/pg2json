@@ -1,0 +1,10 @@
+{
+    "id": 872958,
+    "name": "hubspot",
+    "version": "7.47.5",
+    "created_at": "2022-05-06T18:14:02",
+    "updated_at": "2022-05-06T18:26:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hubspot:hubspot:7.47.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

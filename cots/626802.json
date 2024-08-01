@@ -1,0 +1,10 @@
+{
+    "id": 626802,
+    "name": "rclone",
+    "version": "1.53.0",
+    "created_at": "2020-12-01T14:51:33",
+    "updated_at": "2020-12-01T14:51:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rclone:rclone:1.53.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

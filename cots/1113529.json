@@ -1,0 +1,10 @@
+{
+    "id": 1113529,
+    "name": "gd_mail_queue",
+    "version": "3.9.3",
+    "created_at": "2023-07-18T17:01:58",
+    "updated_at": "2023-07-18T17:13:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dev4press:gd_mail_queue:3.9.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

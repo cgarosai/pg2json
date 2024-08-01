@@ -1,0 +1,10 @@
+{
+    "id": 474532,
+    "name": "vtune_profiler",
+    "version": "2019",
+    "created_at": "2020-01-28T13:08:42",
+    "updated_at": "2020-01-28T13:08:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:vtune_profiler:2019:update_2:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 869269,
+    "name": "passwordstate",
+    "version": "9.4",
+    "created_at": "2022-04-01T11:20:29",
+    "updated_at": "2022-04-01T11:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clickstudios:passwordstate:9.4:build_9455:*:*:*:*:*:*",
+    "to_analyse": false
+}

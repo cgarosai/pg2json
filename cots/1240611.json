@@ -1,0 +1,10 @@
+{
+    "id": 1240611,
+    "name": "ipcs",
+    "version": "1.8.5",
+    "created_at": "2024-02-02T21:20:37",
+    "updated_at": "2024-02-02T21:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:splicecom:ipcs:1.8.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

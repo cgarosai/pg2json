@@ -1,0 +1,10 @@
+{
+    "id": 707520,
+    "name": "ucs-e160d_firmware",
+    "version": "3.2\\(11.5\\)",
+    "created_at": "2021-05-12T10:28:50",
+    "updated_at": "2021-05-26T12:35:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ucs-e160d_firmware:3.2\\(11.5\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

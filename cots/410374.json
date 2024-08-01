@@ -1,0 +1,10 @@
+{
+    "id": 410374,
+    "name": "dns_library",
+    "version": "1.1.5",
+    "created_at": "2019-10-28T12:48:55",
+    "updated_at": "2019-10-28T12:48:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dns_library_project:dns_library:1.1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100372,
+    "name": "avigilon_control_center",
+    "version": "4.12.0.53",
+    "created_at": "2015-06-24T15:37:47",
+    "updated_at": "2015-09-03T17:37:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avigilon:avigilon_control_center:4.12.0.53:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 295369,
+    "name": "taxonomy_find",
+    "version": "7.x-1.0",
+    "created_at": "2019-07-11T16:42:18",
+    "updated_at": "2019-07-11T16:42:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:taxonomy_find_project:taxonomy_find:7.x-1.0:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

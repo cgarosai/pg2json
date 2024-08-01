@@ -1,0 +1,10 @@
+{
+    "id": 102479,
+    "name": "homecontrol_for_room_automation",
+    "version": "2.0.0",
+    "created_at": "2015-12-18T17:12:45",
+    "updated_at": "2015-12-18T17:12:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:homecontrol_for_room_automation:2.0.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

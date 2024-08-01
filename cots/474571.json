@@ -1,0 +1,10 @@
+{
+    "id": 474571,
+    "name": "portage",
+    "version": "2.3.85",
+    "created_at": "2020-01-28T13:18:48",
+    "updated_at": "2020-01-28T13:18:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gentoo:portage:2.3.85:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

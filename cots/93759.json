@@ -1,0 +1,10 @@
+{
+    "id": 93759,
+    "name": "mass_gaming_tv",
+    "version": "1",
+    "created_at": "2014-11-10T15:19:00",
+    "updated_at": "2014-11-10T15:55:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mass_gaming_tv_project:mass_gaming_tv:1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

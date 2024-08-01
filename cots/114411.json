@@ -1,0 +1,10 @@
+{
+    "id": 114411,
+    "name": "email_security_appliance",
+    "version": "9.7.1-hp2-207",
+    "created_at": "2017-01-26T15:21:08",
+    "updated_at": "2017-01-26T15:21:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:email_security_appliance:9.7.1-hp2-207:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

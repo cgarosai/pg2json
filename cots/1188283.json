@@ -1,0 +1,10 @@
+{
+    "id": 1188283,
+    "name": "spectrum_spatial_analyst",
+    "version": "20.01",
+    "created_at": "2023-10-26T13:04:16",
+    "updated_at": "2023-10-26T13:04:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:precisely:spectrum_spatial_analyst:20.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

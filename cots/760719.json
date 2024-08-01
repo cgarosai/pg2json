@@ -1,0 +1,10 @@
+{
+    "id": 760719,
+    "name": "counterparty_settlement_and_billing",
+    "version": "5.7.3",
+    "created_at": "2021-08-26T11:45:39",
+    "updated_at": "2023-05-16T18:08:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachiabb-powergrids:counterparty_settlement_and_billing:5.7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

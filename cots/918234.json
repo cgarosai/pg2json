@@ -1,0 +1,10 @@
+{
+    "id": 918234,
+    "name": "warp",
+    "version": "1.2.1522",
+    "created_at": "2022-08-01T13:11:08",
+    "updated_at": "2022-08-01T14:36:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:warp:1.2.1522:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

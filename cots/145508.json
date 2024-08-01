@@ -1,0 +1,10 @@
+{
+    "id": 145508,
+    "name": "xeon",
+    "version": "x5560",
+    "created_at": "2018-02-07T11:28:11",
+    "updated_at": "2020-04-27T18:29:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon:x5560:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

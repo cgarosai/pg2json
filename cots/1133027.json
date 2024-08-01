@@ -1,0 +1,10 @@
+{
+    "id": 1133027,
+    "name": "openzeppelin_contracts",
+    "version": "-",
+    "created_at": "2023-08-18T12:03:17",
+    "updated_at": "2023-08-18T14:58:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openzeppelin:openzeppelin_contracts:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

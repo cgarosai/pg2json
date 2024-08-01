@@ -1,0 +1,10 @@
+{
+    "id": 89352,
+    "name": "znc-msvc",
+    "version": "0.079",
+    "created_at": "2013-12-24T20:54:09",
+    "updated_at": "2013-12-24T21:01:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:znc:znc-msvc:0.079:-:-:*:-:windows:*:*",
+    "to_analyse": false
+}

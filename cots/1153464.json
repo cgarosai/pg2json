@@ -1,0 +1,10 @@
+{
+    "id": 1153464,
+    "name": "cosminexus_application_server",
+    "version": "05_00_05_05_f",
+    "created_at": "2023-09-22T16:12:15",
+    "updated_at": "2023-09-22T16:12:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:cosminexus_application_server:05_00_05_05_f:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

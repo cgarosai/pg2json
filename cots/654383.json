@@ -1,0 +1,10 @@
+{
+    "id": 654383,
+    "name": "neogate_tg400_firmware",
+    "version": "91.3.0.3",
+    "created_at": "2021-02-23T11:24:37",
+    "updated_at": "2021-07-01T16:42:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yeastar:neogate_tg400_firmware:91.3.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

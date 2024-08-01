@@ -1,0 +1,10 @@
+{
+    "id": 181237,
+    "name": "mf65_firmware",
+    "version": "1.0.0b05",
+    "created_at": "2018-11-13T17:20:40",
+    "updated_at": "2021-07-01T17:14:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:mf65_firmware:1.0.0b05:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

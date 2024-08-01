@@ -1,0 +1,10 @@
+{
+    "id": 241261,
+    "name": "netscaler_sd-wan_center",
+    "version": "9.3.4",
+    "created_at": "2019-06-04T12:38:33",
+    "updated_at": "2021-05-13T13:08:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:netscaler_sd-wan_center:9.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

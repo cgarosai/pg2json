@@ -1,0 +1,10 @@
+{
+    "id": 854286,
+    "name": "simo_firmware",
+    "version": "-",
+    "created_at": "2022-03-18T11:40:23",
+    "updated_at": "2022-09-28T18:55:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:luna:simo_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

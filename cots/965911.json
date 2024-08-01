@@ -1,0 +1,10 @@
+{
+    "id": 965911,
+    "name": "lever",
+    "version": "0.1.3",
+    "created_at": "2022-11-01T10:32:19",
+    "updated_at": "2022-11-01T10:41:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lever_project:lever:0.1.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

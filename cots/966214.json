@@ -1,0 +1,10 @@
+{
+    "id": 966214,
+    "name": "sushy-tools",
+    "version": "-",
+    "created_at": "2022-11-01T13:22:33",
+    "updated_at": "2022-11-01T13:42:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opendev:sushy-tools:-:*:*:*:*:openstack:*:*",
+    "to_analyse": false
+}

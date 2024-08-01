@@ -1,0 +1,10 @@
+{
+    "id": 499358,
+    "name": "zenoss_core",
+    "version": "4.2.5",
+    "created_at": "2020-02-20T19:24:16",
+    "updated_at": "2020-02-20T19:24:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zenoss:zenoss_core:4.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

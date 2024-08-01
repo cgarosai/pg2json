@@ -1,0 +1,10 @@
+{
+    "id": 53761,
+    "name": "vzaccess_manager",
+    "version": "6.9.0",
+    "created_at": "2012-07-10T01:19:35",
+    "updated_at": "2012-07-10T01:19:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smithmicro:vzaccess_manager:6.9.0:*:*:*:rim:*:*:*",
+    "to_analyse": false
+}

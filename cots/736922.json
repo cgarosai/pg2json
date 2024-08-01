@@ -1,0 +1,10 @@
+{
+    "id": 736922,
+    "name": "symantec_proxysg",
+    "version": "6.7.3.15",
+    "created_at": "2021-07-02T09:28:40",
+    "updated_at": "2021-07-02T10:30:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_proxysg:6.7.3.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

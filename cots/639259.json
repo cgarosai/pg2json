@@ -1,0 +1,10 @@
+{
+    "id": 639259,
+    "name": "node-notifier",
+    "version": "3.1.0",
+    "created_at": "2020-12-18T17:06:37",
+    "updated_at": "2020-12-18T17:06:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:node-notifier_project:node-notifier:3.1.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 160039,
+    "name": "shadowsock",
+    "version": "-",
+    "created_at": "2018-07-26T14:23:15",
+    "updated_at": "2018-07-26T14:23:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shadowsock_project:shadowsock:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

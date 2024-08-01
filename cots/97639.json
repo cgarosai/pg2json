@@ -1,0 +1,10 @@
+{
+    "id": 97639,
+    "name": "nullmailer",
+    "version": "1.11",
+    "created_at": "2014-05-27T11:53:30",
+    "updated_at": "2014-05-30T15:19:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gentoo:nullmailer:1.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

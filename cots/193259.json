@@ -1,0 +1,10 @@
+{
+    "id": 193259,
+    "name": "mobile_messaging_client",
+    "version": "6.0.1",
+    "created_at": "2019-01-17T16:17:39",
+    "updated_at": "2019-01-17T16:17:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gooddomino:mobile_messaging_client:6.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

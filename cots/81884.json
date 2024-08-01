@@ -1,0 +1,10 @@
+{
+    "id": 81884,
+    "name": "access_risk_management_suite",
+    "version": "8.0",
+    "created_at": "2014-02-21T18:47:10",
+    "updated_at": "2014-02-21T18:48:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:courion:access_risk_management_suite:8.0:9:*:*:*:*:*:*",
+    "to_analyse": false
+}

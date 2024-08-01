@@ -1,0 +1,10 @@
+{
+    "id": 60546,
+    "name": "vcenter_operations",
+    "version": "1.0.2",
+    "created_at": "2012-10-08T12:23:27",
+    "updated_at": "2012-10-08T23:09:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vcenter_operations:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

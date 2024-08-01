@@ -1,0 +1,10 @@
+{
+    "id": 1031844,
+    "name": "sling_i18n",
+    "version": "-",
+    "created_at": "2023-03-02T11:12:02",
+    "updated_at": "2023-03-02T15:09:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:sling_i18n:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

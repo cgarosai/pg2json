@@ -1,0 +1,10 @@
+{
+    "id": 398989,
+    "name": "vrealize_automation",
+    "version": "7.3.1",
+    "created_at": "2019-10-01T09:38:36",
+    "updated_at": "2019-10-01T09:38:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vrealize_automation:7.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 953103,
+    "name": "bazel",
+    "version": "5.0.0",
+    "created_at": "2022-10-27T13:07:40",
+    "updated_at": "2023-07-29T01:09:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:bazel:5.0.0:*:*:*:*:visual_studio:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 664812,
+    "name": "storage_replication_adapter_for_clustered_data_ontap",
+    "version": "-",
+    "created_at": "2021-03-09T14:18:36",
+    "updated_at": "2021-07-02T16:27:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap:-:*:*:*:*:vmware_vsphere:*:*",
+    "to_analyse": false
+}

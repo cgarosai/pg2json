@@ -1,0 +1,10 @@
+{
+    "id": 1197817,
+    "name": "slurm",
+    "version": "23.02.5",
+    "created_at": "2023-11-09T19:11:14",
+    "updated_at": "2023-11-09T19:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schedmd:slurm:23.02.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

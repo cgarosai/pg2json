@@ -1,0 +1,10 @@
+{
+    "id": 1000621,
+    "name": "mellivora",
+    "version": "-",
+    "created_at": "2023-01-05T12:09:56",
+    "updated_at": "2023-01-09T20:09:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mellivora_project:mellivora:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

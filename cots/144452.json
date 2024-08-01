@@ -1,0 +1,10 @@
+{
+    "id": 144452,
+    "name": "simatic_wincc_oa_operator",
+    "version": "-",
+    "created_at": "2018-05-24T13:48:19",
+    "updated_at": "2021-06-15T19:24:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:simatic_wincc_oa_operator:-:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

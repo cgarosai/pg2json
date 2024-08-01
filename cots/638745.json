@@ -1,0 +1,10 @@
+{
+    "id": 638745,
+    "name": "sftp\\/scp_server",
+    "version": "-",
+    "created_at": "2020-12-17T17:17:15",
+    "updated_at": "2020-12-17T17:17:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:solarwinds:sftp\\/scp_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

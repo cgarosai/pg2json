@@ -1,0 +1,10 @@
+{
+    "id": 639107,
+    "name": "mivoice_6940_firmware",
+    "version": "-",
+    "created_at": "2020-12-18T15:03:42",
+    "updated_at": "2021-04-15T12:36:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitel:mivoice_6940_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

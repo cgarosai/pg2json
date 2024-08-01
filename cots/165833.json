@@ -1,0 +1,10 @@
+{
+    "id": 165833,
+    "name": "cloud_foundry_cf-deployment",
+    "version": "0.34.0",
+    "created_at": "2018-06-26T16:21:35",
+    "updated_at": "2021-08-17T12:29:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:cloud_foundry_cf-deployment:0.34.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

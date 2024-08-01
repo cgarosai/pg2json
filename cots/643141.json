@@ -1,0 +1,10 @@
+{
+    "id": 643141,
+    "name": "smb1394",
+    "version": "-",
+    "created_at": "2021-01-28T17:27:13",
+    "updated_at": "2021-01-28T17:27:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:qualcomm:smb1394:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

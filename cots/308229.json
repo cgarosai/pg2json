@@ -1,0 +1,10 @@
+{
+    "id": 308229,
+    "name": "gdpr_cookie_consent_banner",
+    "version": "2.3.5",
+    "created_at": "2019-07-22T09:56:55",
+    "updated_at": "2019-07-22T09:56:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:termly:gdpr_cookie_consent_banner:2.3.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

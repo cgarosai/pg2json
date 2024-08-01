@@ -1,0 +1,10 @@
+{
+    "id": 209733,
+    "name": "tftpd-hpa",
+    "version": "5.1",
+    "created_at": "2019-02-25T12:21:54",
+    "updated_at": "2019-02-25T12:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tftpd-hpa_project:tftpd-hpa:5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 933841,
+    "name": "sd780_firmware",
+    "version": "-",
+    "created_at": "2022-09-16T14:47:06",
+    "updated_at": "2022-09-20T18:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:sd780_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

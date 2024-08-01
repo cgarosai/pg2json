@@ -1,0 +1,10 @@
+{
+    "id": 1111993,
+    "name": "spring_hateoas",
+    "version": "1.0.0",
+    "created_at": "2023-07-17T12:27:45",
+    "updated_at": "2023-07-17T15:21:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_hateoas:1.0.0:milestone2:*:*:*:*:*:*",
+    "to_analyse": false
+}

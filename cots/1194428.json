@@ -1,0 +1,10 @@
+{
+    "id": 1194428,
+    "name": "typo3",
+    "version": "8.7.55",
+    "created_at": "2023-11-24T16:19:19",
+    "updated_at": "2023-11-24T16:19:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:typo3:typo3:8.7.55:*:*:*:elts:*:*:*",
+    "to_analyse": false
+}

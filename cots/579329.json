@@ -1,0 +1,10 @@
+{
+    "id": 579329,
+    "name": "gitlab_authentication",
+    "version": "0.17",
+    "created_at": "2020-08-03T12:41:21",
+    "updated_at": "2020-08-03T12:41:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:gitlab_authentication:0.17:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

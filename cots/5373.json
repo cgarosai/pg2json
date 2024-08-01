@@ -1,0 +1,10 @@
+{
+    "id": 5373,
+    "name": "performance_manager",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T17:13:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bmc:performance_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

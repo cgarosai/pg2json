@@ -1,0 +1,10 @@
+{
+    "id": 193558,
+    "name": "d5500_firmware",
+    "version": "1.3",
+    "created_at": "2019-01-22T18:18:58",
+    "updated_at": "2021-03-29T12:46:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ricoh:d5500_firmware:1.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

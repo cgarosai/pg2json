@@ -1,0 +1,10 @@
+{
+    "id": 870239,
+    "name": "dhcms",
+    "version": "2017-09-19",
+    "created_at": "2022-05-02T17:04:49",
+    "updated_at": "2022-10-06T15:29:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dhcms_project:dhcms:2017-09-19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

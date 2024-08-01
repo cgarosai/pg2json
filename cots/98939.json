@@ -1,0 +1,10 @@
+{
+    "id": 98939,
+    "name": "infranet_controller_6500",
+    "version": "-",
+    "created_at": "2014-06-16T11:16:44",
+    "updated_at": "2014-06-20T00:02:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:juniper:infranet_controller_6500:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

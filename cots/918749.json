@@ -1,0 +1,10 @@
+{
+    "id": 918749,
+    "name": "maven_metadata",
+    "version": "-",
+    "created_at": "2022-08-02T14:07:41",
+    "updated_at": "2022-08-09T10:01:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:maven_metadata:-:*:*:*:*:jenkins_ci:*:*",
+    "to_analyse": false
+}

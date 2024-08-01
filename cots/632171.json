@@ -1,0 +1,10 @@
+{
+    "id": 632171,
+    "name": "arcgis_server",
+    "version": "10.8",
+    "created_at": "2020-12-29T15:10:07",
+    "updated_at": "2020-12-29T15:10:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:esri:arcgis_server:10.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

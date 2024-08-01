@@ -1,0 +1,10 @@
+{
+    "id": 162482,
+    "name": "firepower_appliance_7120_firmware",
+    "version": "6.2.3",
+    "created_at": "2018-08-14T12:15:48",
+    "updated_at": "2021-04-20T11:30:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:firepower_appliance_7120_firmware:6.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

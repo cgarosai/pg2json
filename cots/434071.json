@@ -1,0 +1,10 @@
+{
+    "id": 434071,
+    "name": "commandcenter_secure_gateway",
+    "version": "3.2.1",
+    "created_at": "2019-11-21T14:59:53",
+    "updated_at": "2019-11-21T14:59:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:raritan:commandcenter_secure_gateway:3.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

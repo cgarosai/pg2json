@@ -1,0 +1,10 @@
+{
+    "id": 234840,
+    "name": "thor",
+    "version": "2.5.170",
+    "created_at": "2019-05-20T11:17:14",
+    "updated_at": "2019-05-20T11:17:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:heimdalsecurity:thor:2.5.170:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

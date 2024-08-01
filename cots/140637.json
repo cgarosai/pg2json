@@ -1,0 +1,10 @@
+{
+    "id": 140637,
+    "name": "allen-bradley_stratix_5900_services_router",
+    "version": "-",
+    "created_at": "2018-04-23T15:05:16",
+    "updated_at": "2021-06-10T16:05:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:rockwellautomation:allen-bradley_stratix_5900_services_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

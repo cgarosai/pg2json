@@ -1,0 +1,10 @@
+{
+    "id": 745989,
+    "name": "cgm-remote-monitor",
+    "version": "14.2.2",
+    "created_at": "2021-07-17T00:59:48",
+    "updated_at": "2021-10-14T09:54:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cgm-remote-monitor_project:cgm-remote-monitor:14.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

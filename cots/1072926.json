@@ -1,0 +1,10 @@
+{
+    "id": 1072926,
+    "name": "gl-x1200_firmware",
+    "version": "3.215",
+    "created_at": "2023-05-16T08:36:04",
+    "updated_at": "2023-07-14T16:36:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:gl-inet:gl-x1200_firmware:3.215:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

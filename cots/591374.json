@@ -1,0 +1,10 @@
+{
+    "id": 591374,
+    "name": "smart_home",
+    "version": "9.16.0",
+    "created_at": "2020-09-18T13:06:13",
+    "updated_at": "2020-09-18T13:06:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bosch:smart_home:9.16.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

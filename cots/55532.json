@@ -1,0 +1,10 @@
+{
+    "id": 55532,
+    "name": "snapdeploy_management_agent",
+    "version": "3.0.3470",
+    "created_at": "2012-04-24T21:20:27",
+    "updated_at": "2012-04-24T21:20:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acronis:snapdeploy_management_agent:3.0.3470:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

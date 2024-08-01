@@ -1,0 +1,10 @@
+{
+    "id": 106773,
+    "name": "security_network_protection_xgs_3100",
+    "version": "-",
+    "created_at": "2015-01-21T15:52:57",
+    "updated_at": "2015-02-19T18:39:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:security_network_protection_xgs_3100:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

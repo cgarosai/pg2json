@@ -1,0 +1,10 @@
+{
+    "id": 381280,
+    "name": "roslibjs",
+    "version": "0.11.0",
+    "created_at": "2019-09-25T16:09:37",
+    "updated_at": "2019-09-25T16:09:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:robotwebtools:roslibjs:0.11.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

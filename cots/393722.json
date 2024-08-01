@@ -1,0 +1,10 @@
+{
+    "id": 393722,
+    "name": "activematrix_service_bus",
+    "version": "2.2.0",
+    "created_at": "2019-10-04T13:45:57",
+    "updated_at": "2019-10-04T13:45:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:activematrix_service_bus:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

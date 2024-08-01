@@ -1,0 +1,10 @@
+{
+    "id": 118234,
+    "name": "systems_insight_manager",
+    "version": "7.5",
+    "created_at": "2016-06-08T15:54:17",
+    "updated_at": "2016-06-08T15:54:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:systems_insight_manager:7.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 167158,
+    "name": "legacy_ivr",
+    "version": "-",
+    "created_at": "2018-07-10T11:49:03",
+    "updated_at": "2021-08-12T11:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hcltech:legacy_ivr:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

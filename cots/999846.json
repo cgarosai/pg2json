@@ -1,0 +1,10 @@
+{
+    "id": 999846,
+    "name": "smoothie_charts",
+    "version": "1.28.0",
+    "created_at": "2022-12-22T17:22:07",
+    "updated_at": "2022-12-23T15:48:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:smoothiecharts:smoothie_charts:1.28.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

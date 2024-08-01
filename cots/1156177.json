@@ -1,0 +1,10 @@
+{
+    "id": 1156177,
+    "name": "fiber",
+    "version": "1.14.3",
+    "created_at": "2023-09-12T13:54:52",
+    "updated_at": "2023-09-12T13:54:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gofiber:fiber:1.14.3:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

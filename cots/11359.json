@@ -1,0 +1,10 @@
+{
+    "id": 11359,
+    "name": "firefox",
+    "version": "2.0.0.11",
+    "created_at": "2008-01-22T15:22:00",
+    "updated_at": "2008-01-22T15:22:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:firefox:2.0.0.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

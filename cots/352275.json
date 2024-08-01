@@ -1,0 +1,10 @@
+{
+    "id": 352275,
+    "name": "gitolite",
+    "version": "3.6.10",
+    "created_at": "2019-09-09T15:08:37",
+    "updated_at": "2019-09-09T15:08:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitolite:gitolite:3.6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

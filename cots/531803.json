@@ -1,0 +1,10 @@
+{
+    "id": 531803,
+    "name": "r6300_firmware",
+    "version": "1.0.4.24",
+    "created_at": "2020-04-29T11:09:47",
+    "updated_at": "2020-04-29T11:09:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6300_firmware:1.0.4.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

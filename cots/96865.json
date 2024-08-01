@@ -1,0 +1,10 @@
+{
+    "id": 96865,
+    "name": "sharepoint_services",
+    "version": "3.0",
+    "created_at": "2014-05-14T14:46:08",
+    "updated_at": "2014-05-14T22:11:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sharepoint_services:3.0:sp3:*:*:*:*:*:*",
+    "to_analyse": false
+}

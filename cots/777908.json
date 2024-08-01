@@ -1,0 +1,10 @@
+{
+    "id": 777908,
+    "name": "creative_cloud",
+    "version": "-",
+    "created_at": "2021-09-13T14:47:34",
+    "updated_at": "2021-09-14T11:35:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:creative_cloud:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

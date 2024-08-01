@@ -1,0 +1,10 @@
+{
+    "id": 934668,
+    "name": "tinyproxy",
+    "version": "2022-09-08",
+    "created_at": "2022-09-20T10:19:46",
+    "updated_at": "2023-01-09T19:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tinyproxy_project:tinyproxy:2022-09-08:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

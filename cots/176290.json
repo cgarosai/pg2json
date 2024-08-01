@@ -1,0 +1,10 @@
+{
+    "id": 176290,
+    "name": "core_2_extreme",
+    "version": "x7900",
+    "created_at": "2018-09-11T16:55:47",
+    "updated_at": "2021-04-30T12:01:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_2_extreme:x7900:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 888544,
+    "name": "sipcrack",
+    "version": "0.2",
+    "created_at": "2022-05-23T16:33:06",
+    "updated_at": "2022-05-23T16:37:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sipcrack_project:sipcrack:0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

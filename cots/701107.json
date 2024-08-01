@@ -1,0 +1,10 @@
+{
+    "id": 701107,
+    "name": "ckeditor5-engine",
+    "version": "1.0.0",
+    "created_at": "2021-05-20T15:09:01",
+    "updated_at": "2021-05-20T15:29:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ckeditor:ckeditor5-engine:1.0.0:alpha2:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

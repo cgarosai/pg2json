@@ -1,0 +1,10 @@
+{
+    "id": 629698,
+    "name": "hardware_scan",
+    "version": "-",
+    "created_at": "2020-12-04T22:01:39",
+    "updated_at": "2020-12-04T22:01:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:hardware_scan:-:*:*:*:*:lenovo_vantage:*:*",
+    "to_analyse": false
+}

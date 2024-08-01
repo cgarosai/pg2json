@@ -1,0 +1,10 @@
+{
+    "id": 1084071,
+    "name": "copysafe_web_protection",
+    "version": "3.10",
+    "created_at": "2023-05-31T16:17:30",
+    "updated_at": "2023-06-05T13:46:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:artistscope:copysafe_web_protection:3.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

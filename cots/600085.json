@@ -1,0 +1,10 @@
+{
+    "id": 600085,
+    "name": "citectscada",
+    "version": "7.30",
+    "created_at": "2020-10-07T14:27:15",
+    "updated_at": "2020-10-07T14:27:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:citectscada:7.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

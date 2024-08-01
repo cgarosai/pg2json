@@ -1,0 +1,10 @@
+{
+    "id": 177061,
+    "name": "dvms_workstation",
+    "version": "-",
+    "created_at": "2018-09-17T17:12:14",
+    "updated_at": "2018-09-17T17:12:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mirasys:dvms_workstation:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

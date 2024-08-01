@@ -1,0 +1,10 @@
+{
+    "id": 1114308,
+    "name": "benchmark_evaluator",
+    "version": "1.0.1",
+    "created_at": "2023-07-19T16:34:38",
+    "updated_at": "2023-07-20T15:50:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:benchmark_evaluator:1.0.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

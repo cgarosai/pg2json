@@ -1,0 +1,10 @@
+{
+    "id": 219874,
+    "name": "managed_file_transfer",
+    "version": "19.1.0.0.0",
+    "created_at": "2019-03-19T15:54:12",
+    "updated_at": "2019-03-19T15:54:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:managed_file_transfer:19.1.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1076536,
+    "name": "kitchen-terraform",
+    "version": "2.0.0",
+    "created_at": "2023-04-28T13:27:45",
+    "updated_at": "2023-05-01T11:23:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kitchen-terraform_project:kitchen-terraform:2.0.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

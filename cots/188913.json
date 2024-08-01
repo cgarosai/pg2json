@@ -1,0 +1,10 @@
+{
+    "id": 188913,
+    "name": "netweaver",
+    "version": "7.30",
+    "created_at": "2018-10-31T11:11:38",
+    "updated_at": "2021-07-27T23:18:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver:7.30:*:*:*:*:webdynpro_java:*:*",
+    "to_analyse": false
+}

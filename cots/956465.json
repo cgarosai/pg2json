@@ -1,0 +1,10 @@
+{
+    "id": 956465,
+    "name": "caldera",
+    "version": "4.1.0",
+    "created_at": "2022-10-18T12:26:34",
+    "updated_at": "2022-10-19T12:59:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitre:caldera:4.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

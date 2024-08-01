@@ -1,0 +1,10 @@
+{
+    "id": 498735,
+    "name": "campaign_enterprise",
+    "version": "11.0.551",
+    "created_at": "2020-02-19T22:28:29",
+    "updated_at": "2020-02-19T22:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arialsoftware:campaign_enterprise:11.0.551:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1004147,
+    "name": "kubepi",
+    "version": "1.1.2",
+    "created_at": "2023-01-10T17:01:20",
+    "updated_at": "2023-01-10T17:37:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fit2cloud:kubepi:1.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

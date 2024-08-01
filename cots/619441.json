@@ -1,0 +1,10 @@
+{
+    "id": 619441,
+    "name": "packagekit",
+    "version": "1.2.2",
+    "created_at": "2020-11-16T11:43:12",
+    "updated_at": "2021-04-12T11:37:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:packagekit_project:packagekit:1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

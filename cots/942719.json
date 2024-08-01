@@ -1,0 +1,10 @@
+{
+    "id": 942719,
+    "name": "storage_plug-in",
+    "version": "04.8.0",
+    "created_at": "2022-10-07T09:01:15",
+    "updated_at": "2022-11-05T00:24:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:storage_plug-in:04.8.0:*:*:*:*:vmware_vcenter:*:*",
+    "to_analyse": false
+}

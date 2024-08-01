@@ -1,0 +1,10 @@
+{
+    "id": 766016,
+    "name": "actix-http",
+    "version": "2.1.0",
+    "created_at": "2021-08-18T12:35:05",
+    "updated_at": "2021-08-18T12:38:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:actix:actix-http:2.1.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

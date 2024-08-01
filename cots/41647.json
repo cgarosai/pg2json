@@ -1,0 +1,10 @@
+{
+    "id": 41647,
+    "name": "bip",
+    "version": "0.8.0",
+    "created_at": "2012-01-27T16:38:14",
+    "updated_at": "2012-02-16T19:18:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:duckcorp:bip:0.8.0:rc0:*:*:*:*:*:*",
+    "to_analyse": false
+}

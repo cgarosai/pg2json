@@ -1,0 +1,10 @@
+{
+    "id": 160609,
+    "name": "spring_data_commons",
+    "version": "1.11.5",
+    "created_at": "2018-08-01T11:53:13",
+    "updated_at": "2018-08-01T11:53:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_data_commons:1.11.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

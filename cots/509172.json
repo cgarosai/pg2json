@@ -1,0 +1,10 @@
+{
+    "id": 509172,
+    "name": "connman",
+    "version": "0.24",
+    "created_at": "2020-03-05T18:13:28",
+    "updated_at": "2020-03-05T18:13:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:connman:0.24:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

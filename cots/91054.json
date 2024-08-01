@@ -1,0 +1,10 @@
+{
+    "id": 91054,
+    "name": "6600_firewall_processing_rtr_module",
+    "version": "jd250a",
+    "created_at": "2014-07-29T13:34:12",
+    "updated_at": "2014-07-29T15:34:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:6600_firewall_processing_rtr_module:jd250a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

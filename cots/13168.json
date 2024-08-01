@@ -1,0 +1,10 @@
+{
+    "id": 13168,
+    "name": "enterprise_linux_desktop",
+    "version": "5",
+    "created_at": "2008-10-03T15:45:56",
+    "updated_at": "2008-10-03T15:45:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_desktop:5:unknown:client:*:*:*:*:*",
+    "to_analyse": false
+}

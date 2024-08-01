@@ -1,0 +1,10 @@
+{
+    "id": 1229911,
+    "name": "suse_open_enterprise_server",
+    "version": "0",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:suse_open_enterprise_server:0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

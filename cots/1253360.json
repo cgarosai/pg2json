@@ -1,0 +1,10 @@
+{
+    "id": 1253360,
+    "name": "wp_job_openings",
+    "version": "-",
+    "created_at": "2024-02-16T14:03:16",
+    "updated_at": "2024-02-16T14:03:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:awsm:wp_job_openings:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

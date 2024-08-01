@@ -1,0 +1,10 @@
+{
+    "id": 956238,
+    "name": "regex",
+    "version": "0.2.8",
+    "created_at": "2022-10-17T18:12:16",
+    "updated_at": "2022-10-17T18:15:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rust-lang:regex:0.2.8:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

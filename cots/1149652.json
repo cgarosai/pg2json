@@ -1,0 +1,10 @@
+{
+    "id": 1149652,
+    "name": "mail_integration_for_office_365_\\/_outlook",
+    "version": "1.8.3",
+    "created_at": "2023-08-28T12:20:32",
+    "updated_at": "2023-08-29T09:07:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpo365:mail_integration_for_office_365_\\/_outlook:1.8.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

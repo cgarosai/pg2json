@@ -1,0 +1,10 @@
+{
+    "id": 62422,
+    "name": "rsa_data_protection_manager_software_server",
+    "version": "2.7.0",
+    "created_at": "2012-11-16T12:34:42",
+    "updated_at": "2012-11-21T16:15:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_data_protection_manager_software_server:2.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 536714,
+    "name": "qradar_vulnerability_manager",
+    "version": "7.3.3",
+    "created_at": "2020-04-14T14:54:10",
+    "updated_at": "2021-06-07T17:11:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:qradar_vulnerability_manager:7.3.3:p1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1052334,
+    "name": "powerstation_firmware",
+    "version": "x64.6.2.165",
+    "created_at": "2023-03-30T12:35:01",
+    "updated_at": "2023-04-03T13:41:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hgiga:powerstation_firmware:x64.6.2.165:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

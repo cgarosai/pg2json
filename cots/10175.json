@@ -1,0 +1,10 @@
+{
+    "id": 10175,
+    "name": "office",
+    "version": "2001",
+    "created_at": "2007-09-12T20:54:55",
+    "updated_at": "2008-04-11T19:13:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office:2001:sr1:mac_os:*:*:*:*:*",
+    "to_analyse": false
+}

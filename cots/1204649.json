@@ -1,0 +1,10 @@
+{
+    "id": 1204649,
+    "name": "manageengine_secure_gateway_server",
+    "version": "9.0",
+    "created_at": "2023-12-07T19:06:39",
+    "updated_at": "2023-12-07T19:06:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_secure_gateway_server:9.0:90021:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 593192,
+    "name": "nuc_board_nuc5i5mybe_firmware",
+    "version": "mybdwi5v.86a.0056",
+    "created_at": "2020-09-23T10:46:20",
+    "updated_at": "2020-09-23T10:46:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:nuc_board_nuc5i5mybe_firmware:mybdwi5v.86a.0056:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

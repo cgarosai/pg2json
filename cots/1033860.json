@@ -1,0 +1,10 @@
+{
+    "id": 1033860,
+    "name": "crypt_gpg",
+    "version": "1.6.0",
+    "created_at": "2023-03-03T17:43:41",
+    "updated_at": "2023-03-03T17:49:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pear:crypt_gpg:1.6.0:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

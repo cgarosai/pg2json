@@ -1,0 +1,10 @@
+{
+    "id": 54744,
+    "name": "modsecurity",
+    "version": "2.6.2",
+    "created_at": "2012-07-23T14:59:01",
+    "updated_at": "2021-02-10T14:55:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:modsecurity:modsecurity:2.6.2:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

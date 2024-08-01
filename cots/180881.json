@@ -1,0 +1,10 @@
+{
+    "id": 180881,
+    "name": "cryo",
+    "version": "0.0.6",
+    "created_at": "2018-11-08T16:15:10",
+    "updated_at": "2018-11-08T16:15:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cryo_project:cryo:0.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

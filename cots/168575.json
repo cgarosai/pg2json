@@ -1,0 +1,10 @@
+{
+    "id": 168575,
+    "name": "applications_manager",
+    "version": "12.0",
+    "created_at": "2018-07-18T00:00:23",
+    "updated_at": "2021-08-09T13:58:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:applications_manager:12.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

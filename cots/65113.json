@@ -1,0 +1,10 @@
+{
+    "id": 65113,
+    "name": "sonicwall_scrutinizer_with_flow_analytics_module",
+    "version": "9.5.0",
+    "created_at": "2012-07-31T11:59:50",
+    "updated_at": "2018-03-12T14:28:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:sonicwall_scrutinizer_with_flow_analytics_module:9.5.0:-:pay:*:*:*:*:*",
+    "to_analyse": false
+}

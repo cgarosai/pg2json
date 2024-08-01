@@ -1,0 +1,10 @@
+{
+    "id": 141208,
+    "name": "p9_firmware",
+    "version": "vie-l29c636b370",
+    "created_at": "2018-05-01T13:08:27",
+    "updated_at": "2018-05-01T13:08:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:p9_firmware:vie-l29c636b370:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

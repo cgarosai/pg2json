@@ -1,0 +1,10 @@
+{
+    "id": 909540,
+    "name": "archiver",
+    "version": "2015",
+    "created_at": "2022-07-12T15:25:53",
+    "updated_at": "2023-02-16T16:52:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gfi:archiver:2015:sr1:*:*:*:*:*:*",
+    "to_analyse": false
+}

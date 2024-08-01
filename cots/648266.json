@@ -1,0 +1,10 @@
+{
+    "id": 648266,
+    "name": "cloudpoint",
+    "version": "2.1.2",
+    "created_at": "2021-01-12T17:05:15",
+    "updated_at": "2021-01-12T17:05:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:cloudpoint:2.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

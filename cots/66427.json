@@ -1,0 +1,10 @@
+{
+    "id": 66427,
+    "name": "arcsight_connector_appliance",
+    "version": "c1400",
+    "created_at": "2012-08-08T16:58:42",
+    "updated_at": "2012-08-10T15:18:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:arcsight_connector_appliance:c1400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 20522,
+    "name": "p7zip",
+    "version": "4.43",
+    "created_at": "2010-01-07T15:08:35",
+    "updated_at": "2010-01-07T15:08:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:7-zip:p7zip:4.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

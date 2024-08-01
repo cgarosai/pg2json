@@ -1,0 +1,10 @@
+{
+    "id": 488566,
+    "name": "n150rt_firmware",
+    "version": "-",
+    "created_at": "2020-02-03T14:25:07",
+    "updated_at": "2021-05-27T16:57:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:totolink:n150rt_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

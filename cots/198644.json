@@ -1,0 +1,10 @@
+{
+    "id": 198644,
+    "name": "gmp",
+    "version": "4.2.4",
+    "created_at": "2018-12-31T17:21:18",
+    "updated_at": "2018-12-31T17:21:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gmplib:gmp:4.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

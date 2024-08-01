@@ -1,0 +1,10 @@
+{
+    "id": 107246,
+    "name": "infosphere_biginsights",
+    "version": "3.0.0.0",
+    "created_at": "2015-02-13T14:43:44",
+    "updated_at": "2015-02-14T10:39:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:infosphere_biginsights:3.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 516346,
+    "name": "cloud_platform_integration",
+    "version": "1.0",
+    "created_at": "2020-03-12T19:53:51",
+    "updated_at": "2020-03-12T19:53:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:cloud_platform_integration:1.0:*:*:*:*:data_services:*:*",
+    "to_analyse": false
+}

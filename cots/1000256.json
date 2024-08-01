@@ -1,0 +1,10 @@
+{
+    "id": 1000256,
+    "name": "gobase",
+    "version": "0.1.0",
+    "created_at": "2023-01-04T15:53:58",
+    "updated_at": "2023-01-04T16:06:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gobase_project:gobase:0.1.0:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

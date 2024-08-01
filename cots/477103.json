@@ -1,0 +1,10 @@
+{
+    "id": 477103,
+    "name": "open_tftp_server",
+    "version": "-",
+    "created_at": "2020-01-13T14:03:02",
+    "updated_at": "2020-01-13T14:03:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open_tftp_server_project:open_tftp_server:-:*:*:*:mt:*:*:*",
+    "to_analyse": false
+}

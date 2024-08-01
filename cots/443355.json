@@ -1,0 +1,10 @@
+{
+    "id": 443355,
+    "name": "horde_mongo",
+    "version": "1.0.3",
+    "created_at": "2019-12-04T13:45:15",
+    "updated_at": "2019-12-04T13:45:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:horde:horde_mongo:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

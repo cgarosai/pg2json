@@ -1,0 +1,10 @@
+{
+    "id": 17444,
+    "name": "sendmail",
+    "version": "8.12.8-4",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:50:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:sendmail:8.12.8-4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

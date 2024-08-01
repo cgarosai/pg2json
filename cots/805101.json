@@ -1,0 +1,10 @@
+{
+    "id": 805101,
+    "name": "hp_smart",
+    "version": "128.1.217",
+    "created_at": "2021-11-03T13:08:32",
+    "updated_at": "2021-11-19T11:29:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:hp_smart:128.1.217:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

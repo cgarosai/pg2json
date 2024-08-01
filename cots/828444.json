@@ -1,0 +1,10 @@
+{
+    "id": 828444,
+    "name": "sentron_powermanager",
+    "version": "4.2",
+    "created_at": "2021-12-16T18:46:12",
+    "updated_at": "2021-12-16T19:27:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:sentron_powermanager:4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

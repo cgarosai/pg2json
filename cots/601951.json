@@ -1,0 +1,10 @@
+{
+    "id": 601951,
+    "name": "email_security_appliance",
+    "version": "11.0.1-hp5-602",
+    "created_at": "2020-10-13T09:57:18",
+    "updated_at": "2020-10-13T09:57:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:email_security_appliance:11.0.1-hp5-602:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

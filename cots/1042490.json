@@ -1,0 +1,10 @@
+{
+    "id": 1042490,
+    "name": "inspiron_5410_firmware",
+    "version": "2.16.0",
+    "created_at": "2023-03-14T14:07:11",
+    "updated_at": "2023-03-15T12:08:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:inspiron_5410_firmware:2.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

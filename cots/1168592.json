@@ -1,0 +1,10 @@
+{
+    "id": 1168592,
+    "name": "threat_response_auto_pull",
+    "version": "-",
+    "created_at": "2023-09-28T09:09:50",
+    "updated_at": "2023-09-28T09:09:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:proofpoint:threat_response_auto_pull:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 25208,
+    "name": "safari",
+    "version": "2.0.4",
+    "created_at": "2009-03-04T12:01:45",
+    "updated_at": "2009-03-04T12:01:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:safari:2.0.4:-:mac:*:*:*:*:*",
+    "to_analyse": false
+}

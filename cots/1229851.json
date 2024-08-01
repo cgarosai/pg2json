@@ -1,0 +1,10 @@
+{
+    "id": 1229851,
+    "name": "smart_lamp_firmware",
+    "version": "1.12.69",
+    "created_at": "2023-12-29T17:02:38",
+    "updated_at": "2023-12-29T17:02:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yeelight:smart_lamp_firmware:1.12.69:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 628829,
+    "name": "ad\\/ldap_connector",
+    "version": "2.5.0",
+    "created_at": "2020-12-03T15:54:13",
+    "updated_at": "2020-12-03T15:54:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:ad\\/ldap_connector:2.5.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

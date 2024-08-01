@@ -1,0 +1,10 @@
+{
+    "id": 124363,
+    "name": "en6131_firmware",
+    "version": "-",
+    "created_at": "2017-08-29T23:53:51",
+    "updated_at": "2021-06-09T13:12:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:en6131_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

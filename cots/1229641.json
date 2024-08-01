@@ -1,0 +1,10 @@
+{
+    "id": 1229641,
+    "name": "reachfar_gps_firmware",
+    "version": "28",
+    "created_at": "2023-12-29T14:31:15",
+    "updated_at": "2023-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:reachfargps:reachfar_gps_firmware:28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

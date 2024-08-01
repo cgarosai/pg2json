@@ -1,0 +1,10 @@
+{
+    "id": 1090994,
+    "name": "avo",
+    "version": "2.28.0",
+    "created_at": "2023-06-12T13:34:20",
+    "updated_at": "2023-06-12T13:47:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avohq:avo:2.28.0:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

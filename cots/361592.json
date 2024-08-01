@@ -1,0 +1,10 @@
+{
+    "id": 361592,
+    "name": "control_for_pfc200",
+    "version": "3.5.11.20",
+    "created_at": "2019-09-16T16:19:55",
+    "updated_at": "2021-02-26T19:27:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:codesys:control_for_pfc200:3.5.11.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

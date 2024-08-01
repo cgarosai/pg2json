@@ -1,0 +1,10 @@
+{
+    "id": 801032,
+    "name": "manageengine_network_configuration_manager",
+    "version": "12.4",
+    "created_at": "2021-11-15T16:03:29",
+    "updated_at": "2021-11-15T16:26:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:12.4:build124024:*:*:*:*:*:*",
+    "to_analyse": false
+}

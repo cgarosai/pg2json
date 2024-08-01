@@ -1,0 +1,10 @@
+{
+    "id": 12994,
+    "name": "db2",
+    "version": "8.2",
+    "created_at": "2008-09-11T17:46:02",
+    "updated_at": "2008-09-11T17:46:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:db2:8.2:fp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10498,
+    "name": "mail_security",
+    "version": "4.6_build_97",
+    "created_at": "2007-10-08T13:24:10",
+    "updated_at": "2008-04-14T18:22:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:mail_security:4.6_build_97:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

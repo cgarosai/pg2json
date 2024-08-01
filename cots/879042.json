@@ -1,0 +1,10 @@
+{
+    "id": 879042,
+    "name": "acunetix",
+    "version": "14",
+    "created_at": "2022-04-26T15:30:36",
+    "updated_at": "2022-10-06T12:30:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invicti:acunetix:14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

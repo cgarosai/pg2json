@@ -1,0 +1,10 @@
+{
+    "id": 718426,
+    "name": "fas8300_firmware",
+    "version": "-",
+    "created_at": "2021-06-02T10:42:45",
+    "updated_at": "2021-06-24T11:22:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netapp:fas8300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

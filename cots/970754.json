@@ -1,0 +1,10 @@
+{
+    "id": 970754,
+    "name": "snyk_security",
+    "version": "2.4.6",
+    "created_at": "2022-12-01T15:39:38",
+    "updated_at": "2022-12-01T17:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:snyk:snyk_security:2.4.6:*:*:*:*:intellij:*:*",
+    "to_analyse": false
+}

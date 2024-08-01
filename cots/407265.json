@@ -1,0 +1,10 @@
+{
+    "id": 407265,
+    "name": "plasma-workspace",
+    "version": "5.4.2",
+    "created_at": "2019-10-09T15:03:18",
+    "updated_at": "2019-10-09T15:03:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kde:plasma-workspace:5.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

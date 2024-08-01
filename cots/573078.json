@@ -1,0 +1,10 @@
+{
+    "id": 573078,
+    "name": "wifi_button",
+    "version": "-",
+    "created_at": "2020-08-11T12:22:51",
+    "updated_at": "2020-08-11T12:22:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mystrom:wifi_button:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

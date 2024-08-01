@@ -1,0 +1,10 @@
+{
+    "id": 599469,
+    "name": "system_support_utility",
+    "version": "2.5.0.15",
+    "created_at": "2020-09-11T19:31:30",
+    "updated_at": "2020-09-11T19:31:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:system_support_utility:2.5.0.15:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

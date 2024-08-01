@@ -1,0 +1,10 @@
+{
+    "id": 1061403,
+    "name": "spring_session",
+    "version": "3.0.0",
+    "created_at": "2023-04-19T10:42:03",
+    "updated_at": "2023-07-07T17:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_session:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

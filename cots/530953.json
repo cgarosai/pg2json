@@ -1,0 +1,10 @@
+{
+    "id": 530953,
+    "name": "mod_auth_mellon",
+    "version": "0.4.0",
+    "created_at": "2020-04-28T12:56:43",
+    "updated_at": "2020-04-28T12:56:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.4.0:*:*:*:*:apache:*:*",
+    "to_analyse": false
+}

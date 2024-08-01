@@ -1,0 +1,10 @@
+{
+    "id": 646365,
+    "name": "trust-dns-server",
+    "version": "0.19.4",
+    "created_at": "2021-01-07T16:42:07",
+    "updated_at": "2021-01-07T16:42:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trust-dns-server_project:trust-dns-server:0.19.4:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

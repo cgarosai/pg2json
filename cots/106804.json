@@ -1,0 +1,10 @@
+{
+    "id": 106804,
+    "name": "fusion_middleware",
+    "version": "11.1.2.2",
+    "created_at": "2015-01-22T15:57:18",
+    "updated_at": "2015-01-26T13:44:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:fusion_middleware:11.1.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 594980,
+    "name": "mcafee_threat_intelligence_exchange",
+    "version": "2.1.0",
+    "created_at": "2020-09-28T14:49:03",
+    "updated_at": "2020-09-28T14:49:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:mcafee_threat_intelligence_exchange:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

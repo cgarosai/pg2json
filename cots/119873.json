@@ -1,0 +1,10 @@
+{
+    "id": 119873,
+    "name": "jq",
+    "version": "1.5",
+    "created_at": "2016-08-03T11:46:15",
+    "updated_at": "2016-08-03T11:46:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jq_project:jq:1.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

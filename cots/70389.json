@@ -1,0 +1,10 @@
+{
+    "id": 70389,
+    "name": "android_smartphone",
+    "version": "201hw",
+    "created_at": "2013-06-17T16:39:27",
+    "updated_at": "2013-06-24T12:17:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:softbank:android_smartphone:201hw:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

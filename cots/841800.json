@@ -1,0 +1,10 @@
+{
+    "id": 841800,
+    "name": "eth-optimism\\/l2geth",
+    "version": "0.0.0-202197182350",
+    "created_at": "2022-02-15T13:56:17",
+    "updated_at": "2022-02-25T14:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:optimism:eth-optimism\\/l2geth:0.0.0-202197182350:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

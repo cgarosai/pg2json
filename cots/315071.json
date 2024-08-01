@@ -1,0 +1,10 @@
+{
+    "id": 315071,
+    "name": "awstats",
+    "version": "5.5",
+    "created_at": "2019-07-25T13:32:06",
+    "updated_at": "2019-07-25T13:32:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:awstats:awstats:5.5:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

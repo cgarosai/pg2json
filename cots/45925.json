@@ -1,0 +1,10 @@
+{
+    "id": 45925,
+    "name": "whr-hp-ampg_firmware",
+    "version": "1.43",
+    "created_at": "2011-05-03T11:48:29",
+    "updated_at": "2011-05-03T11:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buffalotech:whr-hp-ampg_firmware:1.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 295914,
+    "name": "multicloud_manager",
+    "version": "3.1.2",
+    "created_at": "2019-07-12T13:56:58",
+    "updated_at": "2019-07-12T13:56:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:multicloud_manager:3.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 163481,
+    "name": "chromecast",
+    "version": "-",
+    "created_at": "2018-08-16T15:17:22",
+    "updated_at": "2021-08-12T12:09:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:google:chromecast:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

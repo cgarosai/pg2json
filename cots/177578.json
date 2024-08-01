@@ -1,0 +1,10 @@
+{
+    "id": 177578,
+    "name": "smartserver_1_firmware",
+    "version": "-",
+    "created_at": "2018-09-20T15:25:36",
+    "updated_at": "2021-05-19T15:42:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:echelon:smartserver_1_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 887146,
+    "name": "core_i7-1280p_firmware",
+    "version": "-",
+    "created_at": "2022-05-19T17:20:44",
+    "updated_at": "2022-05-19T22:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i7-1280p_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

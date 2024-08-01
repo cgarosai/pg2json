@@ -1,0 +1,10 @@
+{
+    "id": 59912,
+    "name": "puppet_enterprise_users",
+    "version": "1.2.4",
+    "created_at": "2012-05-30T14:51:02",
+    "updated_at": "2019-07-11T13:08:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppetlabs:puppet_enterprise_users:1.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

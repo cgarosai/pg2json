@@ -1,0 +1,10 @@
+{
+    "id": 145189,
+    "name": "core_i5",
+    "version": "4300u",
+    "created_at": "2018-02-07T11:25:40",
+    "updated_at": "2018-02-07T11:25:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:4300u:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1167717,
+    "name": "bsd",
+    "version": "-",
+    "created_at": "2023-09-27T07:58:47",
+    "updated_at": "2023-09-27T07:58:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bsd:bsd:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 938095,
+    "name": "sos",
+    "version": "4.2-20.el8_6",
+    "created_at": "2022-09-07T15:04:59",
+    "updated_at": "2022-11-07T19:28:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sos_project:sos:4.2-20.el8_6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

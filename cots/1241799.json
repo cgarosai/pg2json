@@ -1,0 +1,10 @@
+{
+    "id": 1241799,
+    "name": "git_server",
+    "version": "99.va_0826a_b_cdfa_d",
+    "created_at": "2024-02-03T02:17:39",
+    "updated_at": "2024-02-03T02:17:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:git_server:99.va_0826a_b_cdfa_d:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 654273,
+    "name": "livy",
+    "version": "0.7.0-incubating",
+    "created_at": "2021-02-22T16:39:25",
+    "updated_at": "2023-05-22T09:21:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:livy:0.7.0-incubating:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

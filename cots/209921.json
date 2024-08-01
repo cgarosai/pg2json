@@ -1,0 +1,10 @@
+{
+    "id": 209921,
+    "name": "ifupdown",
+    "version": "0.8.33",
+    "created_at": "2019-02-25T13:23:58",
+    "updated_at": "2019-02-25T13:23:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:ifupdown:0.8.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

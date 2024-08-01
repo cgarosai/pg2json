@@ -1,0 +1,10 @@
+{
+    "id": 113371,
+    "name": "bundler",
+    "version": "1.11.1",
+    "created_at": "2016-12-28T11:31:41",
+    "updated_at": "2019-07-02T12:55:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bundler:bundler:1.11.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71131,
+    "name": "procurve_router",
+    "version": "jf808a",
+    "created_at": "2013-07-08T14:18:50",
+    "updated_at": "2013-07-12T15:51:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:procurve_router:jf808a:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

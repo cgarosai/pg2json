@@ -1,0 +1,10 @@
+{
+    "id": 583123,
+    "name": "modbus_driver_suite",
+    "version": "-",
+    "created_at": "2020-09-01T10:39:17",
+    "updated_at": "2021-06-04T12:15:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider_electric:modbus_driver_suite:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

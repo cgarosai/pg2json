@@ -1,0 +1,10 @@
+{
+    "id": 58234,
+    "name": "edcl_central_reporting_server",
+    "version": "1.0.0.0",
+    "created_at": "2012-05-14T21:29:14",
+    "updated_at": "2012-05-14T21:29:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:globeranger:edcl_central_reporting_server:1.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

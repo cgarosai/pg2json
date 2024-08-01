@@ -1,0 +1,10 @@
+{
+    "id": 198761,
+    "name": "i2c-tools",
+    "version": "3.1.0",
+    "created_at": "2018-12-31T17:52:16",
+    "updated_at": "2018-12-31T17:52:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:i2c-tools_project:i2c-tools:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

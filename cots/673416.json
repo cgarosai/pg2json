@@ -1,0 +1,10 @@
+{
+    "id": 673416,
+    "name": "hmp400w_firmware",
+    "version": "-",
+    "created_at": "2021-03-24T17:54:00",
+    "updated_at": "2021-05-27T11:47:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:spinetix:hmp400w_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

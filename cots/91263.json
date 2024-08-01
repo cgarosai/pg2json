@@ -1,0 +1,10 @@
+{
+    "id": 91263,
+    "name": "stripshow",
+    "version": "2.5.2",
+    "created_at": "2014-08-07T10:59:17",
+    "updated_at": "2014-08-07T12:02:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stripshow_plugin_project:stripshow:2.5.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

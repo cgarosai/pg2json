@@ -1,0 +1,10 @@
+{
+    "id": 455272,
+    "name": "services_monitor_firmware",
+    "version": "2.27.4.0.39",
+    "created_at": "2019-12-05T15:20:26",
+    "updated_at": "2019-12-05T15:20:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:lexmark:services_monitor_firmware:2.27.4.0.39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

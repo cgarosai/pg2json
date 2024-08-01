@@ -1,0 +1,10 @@
+{
+    "id": 629693,
+    "name": "nvr-915_firmware",
+    "version": "-",
+    "created_at": "2020-12-04T21:47:09",
+    "updated_at": "2020-12-04T21:47:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:planet:nvr-915_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

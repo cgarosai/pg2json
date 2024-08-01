@@ -1,0 +1,10 @@
+{
+    "id": 1229622,
+    "name": "symantec_siteminder_webagent",
+    "version": "12.52",
+    "created_at": "2023-12-29T14:31:15",
+    "updated_at": "2023-12-29T14:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:symantec_siteminder_webagent:12.52:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

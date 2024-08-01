@@ -1,0 +1,10 @@
+{
+    "id": 1008870,
+    "name": "voicemail",
+    "version": "16.0.16",
+    "created_at": "2023-01-04T14:02:16",
+    "updated_at": "2023-01-04T14:33:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sangoma:voicemail:16.0.16:*:*:*:*:freepbx:*:*",
+    "to_analyse": false
+}

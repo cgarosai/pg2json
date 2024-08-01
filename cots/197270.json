@@ -1,0 +1,10 @@
+{
+    "id": 197270,
+    "name": "watch_2_firmware",
+    "version": "owdd.180707.001.e1",
+    "created_at": "2018-12-12T18:30:44",
+    "updated_at": "2021-05-17T13:50:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:watch_2_firmware:owdd.180707.001.e1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

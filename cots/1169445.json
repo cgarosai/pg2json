@@ -1,0 +1,10 @@
+{
+    "id": 1169445,
+    "name": "cention-chatserver",
+    "version": "3.8.0",
+    "created_at": "2023-09-28T14:38:45",
+    "updated_at": "2023-09-28T14:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cention-chatserver_project:cention-chatserver:3.8.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

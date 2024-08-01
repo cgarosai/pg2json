@@ -1,0 +1,10 @@
+{
+    "id": 563811,
+    "name": "openenclave",
+    "version": "0.6.0",
+    "created_at": "2020-07-21T14:11:09",
+    "updated_at": "2020-07-21T14:11:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openenclave:openenclave:0.6.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 450729,
+    "name": "ibm_db",
+    "version": "0.0.6",
+    "created_at": "2019-12-09T18:30:16",
+    "updated_at": "2019-12-09T18:30:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:ibm_db:0.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

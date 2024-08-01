@@ -1,0 +1,10 @@
+{
+    "id": 869476,
+    "name": "bedrock_server",
+    "version": "1.18.2",
+    "created_at": "2022-04-01T23:45:33",
+    "updated_at": "2022-11-08T18:29:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:minecraft:bedrock_server:1.18.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

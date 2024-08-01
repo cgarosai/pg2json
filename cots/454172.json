@@ -1,0 +1,10 @@
+{
+    "id": 454172,
+    "name": "customer_relationship_management_s4crm",
+    "version": "2.0",
+    "created_at": "2019-12-11T16:51:00",
+    "updated_at": "2019-12-11T16:51:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:customer_relationship_management_s4crm:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

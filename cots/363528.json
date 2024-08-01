@@ -1,0 +1,10 @@
+{
+    "id": 363528,
+    "name": "libgig",
+    "version": "2.0.2",
+    "created_at": "2019-09-17T14:18:48",
+    "updated_at": "2019-09-17T14:18:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxsampler:libgig:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

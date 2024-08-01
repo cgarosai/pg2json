@@ -1,0 +1,10 @@
+{
+    "id": 1154739,
+    "name": "ipad_os",
+    "version": "16.6",
+    "created_at": "2023-09-22T19:13:32",
+    "updated_at": "2023-09-22T19:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:ipad_os:16.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

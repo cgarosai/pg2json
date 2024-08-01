@@ -1,0 +1,10 @@
+{
+    "id": 649706,
+    "name": "smc2.0_firmware",
+    "version": "v600r006c10spc601",
+    "created_at": "2021-01-19T12:10:26",
+    "updated_at": "2021-01-19T12:10:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:smc2.0_firmware:v600r006c10spc601:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

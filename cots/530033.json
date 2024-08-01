@@ -1,0 +1,10 @@
+{
+    "id": 530033,
+    "name": "proliant_ml350_gen9_server_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:06:40",
+    "updated_at": "2020-04-27T18:06:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_ml350_gen9_server_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

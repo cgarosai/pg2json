@@ -1,0 +1,10 @@
+{
+    "id": 131512,
+    "name": "ipc-hdw4300s_firmware",
+    "version": "2.400.0000.0.r.20131231",
+    "created_at": "2017-12-15T16:27:40",
+    "updated_at": "2021-05-19T12:36:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dahuasecurity:ipc-hdw4300s_firmware:2.400.0000.0.r.20131231:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1038017,
+    "name": "git_for_windows",
+    "version": "2.39.2",
+    "created_at": "2023-02-23T14:01:27",
+    "updated_at": "2023-05-02T17:49:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:git_for_windows_project:git_for_windows:2.39.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

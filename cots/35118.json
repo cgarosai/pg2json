@@ -1,0 +1,10 @@
+{
+    "id": 35118,
+    "name": "mysql",
+    "version": "5.1.28",
+    "created_at": "2010-07-14T11:37:20",
+    "updated_at": "2019-12-17T19:07:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mysql:mysql:5.1.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

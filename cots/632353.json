@@ -1,0 +1,10 @@
+{
+    "id": 632353,
+    "name": "arm_compiler",
+    "version": "5.01",
+    "created_at": "2020-12-30T13:28:42",
+    "updated_at": "2020-12-30T13:28:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:arm_compiler:5.01:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

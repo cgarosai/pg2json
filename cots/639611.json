@@ -1,0 +1,10 @@
+{
+    "id": 639611,
+    "name": "storm_docker_image",
+    "version": "1.2.3",
+    "created_at": "2020-12-18T18:16:37",
+    "updated_at": "2020-12-18T18:16:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:docker:storm_docker_image:1.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

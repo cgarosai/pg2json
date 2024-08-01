@@ -1,0 +1,10 @@
+{
+    "id": 656480,
+    "name": "thinkjs",
+    "version": "3.2.10",
+    "created_at": "2021-02-03T20:27:59",
+    "updated_at": "2021-02-03T20:27:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thinkjs:thinkjs:3.2.10:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

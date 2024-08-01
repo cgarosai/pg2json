@@ -1,0 +1,10 @@
+{
+    "id": 70591,
+    "name": "access_router",
+    "version": "v200r002spc003",
+    "created_at": "2013-06-21T14:23:28",
+    "updated_at": "2013-07-12T15:41:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:huawei:access_router:v200r002spc003:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

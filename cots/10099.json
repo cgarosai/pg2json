@@ -1,0 +1,10 @@
+{
+    "id": 10099,
+    "name": "biztalk_srv",
+    "version": "2002",
+    "created_at": "2007-09-12T20:53:47",
+    "updated_at": "2008-04-15T21:57:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:biztalk_srv:2002:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

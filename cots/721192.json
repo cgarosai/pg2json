@@ -1,0 +1,10 @@
+{
+    "id": 721192,
+    "name": "apport",
+    "version": "2.20.11-0ubuntu27.18",
+    "created_at": "2021-06-22T14:00:56",
+    "updated_at": "2021-06-22T15:13:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:apport:2.20.11-0ubuntu27.18:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

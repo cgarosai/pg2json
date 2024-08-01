@@ -1,0 +1,10 @@
+{
+    "id": 240720,
+    "name": "libressl",
+    "version": "2.3.6",
+    "created_at": "2019-06-03T16:04:12",
+    "updated_at": "2019-06-03T16:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openbsd:libressl:2.3.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

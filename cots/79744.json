@@ -1,0 +1,10 @@
+{
+    "id": 79744,
+    "name": "telepresence_system_software",
+    "version": "-",
+    "created_at": "2013-06-03T11:01:01",
+    "updated_at": "2013-06-04T12:09:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_system_software:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

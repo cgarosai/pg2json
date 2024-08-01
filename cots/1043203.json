@@ -1,0 +1,10 @@
+{
+    "id": 1043203,
+    "name": "nistec",
+    "version": "-",
+    "created_at": "2023-03-14T15:38:28",
+    "updated_at": "2023-08-11T21:44:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nistec_project:nistec:-:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

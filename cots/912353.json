@@ -1,0 +1,10 @@
+{
+    "id": 912353,
+    "name": "et12_firmware",
+    "version": "-",
+    "created_at": "2022-08-10T10:23:02",
+    "updated_at": "2022-08-12T18:46:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:asus:et12_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

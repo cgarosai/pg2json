@@ -1,0 +1,10 @@
+{
+    "id": 643579,
+    "name": "report",
+    "version": "-",
+    "created_at": "2021-01-29T09:27:58",
+    "updated_at": "2021-08-18T11:52:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:report_project:report:-:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

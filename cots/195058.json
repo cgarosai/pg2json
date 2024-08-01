@@ -1,0 +1,10 @@
+{
+    "id": 195058,
+    "name": "rox_ii_firmware",
+    "version": "2.12.1",
+    "created_at": "2018-11-27T14:18:58",
+    "updated_at": "2021-05-25T13:01:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:rox_ii_firmware:2.12.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1183417,
+    "name": "lambdatest-automation",
+    "version": "1.10",
+    "created_at": "2023-11-02T10:52:26",
+    "updated_at": "2023-11-02T10:52:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:lambdatest-automation:1.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

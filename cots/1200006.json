@@ -1,0 +1,10 @@
+{
+    "id": 1200006,
+    "name": "nxlog_manager",
+    "version": "5.6.5633",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nxlog:nxlog_manager:5.6.5633:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 541470,
+    "name": "autoswitch_python_virtualenv",
+    "version": "0.3.4",
+    "created_at": "2020-05-18T13:58:08",
+    "updated_at": "2020-05-18T13:58:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autoswitch_python_virtualenv_project:autoswitch_python_virtualenv:0.3.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

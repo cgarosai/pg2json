@@ -1,0 +1,10 @@
+{
+    "id": 864071,
+    "name": "document_server",
+    "version": "6.3.2",
+    "created_at": "2022-04-13T12:40:06",
+    "updated_at": "2022-04-20T12:25:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:onlyoffice:document_server:6.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

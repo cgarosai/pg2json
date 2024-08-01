@@ -1,0 +1,10 @@
+{
+    "id": 580203,
+    "name": "aura_voice_portal",
+    "version": "5.0",
+    "created_at": "2020-08-21T18:45:24",
+    "updated_at": "2020-08-21T18:45:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:aura_voice_portal:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

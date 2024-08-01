@@ -1,0 +1,10 @@
+{
+    "id": 772048,
+    "name": "libmobi",
+    "version": "0.5",
+    "created_at": "2021-09-21T12:09:06",
+    "updated_at": "2021-09-21T13:23:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libmobi_project:libmobi:0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

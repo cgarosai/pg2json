@@ -1,0 +1,10 @@
+{
+    "id": 583220,
+    "name": "apm32f103",
+    "version": "-",
+    "created_at": "2020-09-01T11:54:46",
+    "updated_at": "2021-07-08T15:16:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:apexmic:apm32f103:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

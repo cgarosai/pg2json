@@ -1,0 +1,10 @@
+{
+    "id": 361719,
+    "name": "routeros",
+    "version": "5.12",
+    "created_at": "2019-09-17T10:25:13",
+    "updated_at": "2019-09-17T10:25:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mikrotik:routeros:5.12:*:*:*:ltr:*:*:*",
+    "to_analyse": false
+}

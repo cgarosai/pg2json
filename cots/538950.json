@@ -1,0 +1,10 @@
+{
+    "id": 538950,
+    "name": "pimcore",
+    "version": "6.3.5",
+    "created_at": "2020-04-27T14:13:46",
+    "updated_at": "2020-04-27T14:13:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pimcore:pimcore:6.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

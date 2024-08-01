@@ -1,0 +1,10 @@
+{
+    "id": 11254,
+    "name": "unp",
+    "version": "-",
+    "created_at": "2008-01-04T12:17:39",
+    "updated_at": "2008-04-01T12:41:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:debian:unp:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

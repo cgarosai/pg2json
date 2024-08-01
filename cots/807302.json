@@ -1,0 +1,10 @@
+{
+    "id": 807302,
+    "name": "spring_cloud_gateway",
+    "version": "3.0.0",
+    "created_at": "2021-11-09T13:01:12",
+    "updated_at": "2021-11-09T15:16:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:spring_cloud_gateway:3.0.0:rc:*:*:*:*:*:*",
+    "to_analyse": false
+}

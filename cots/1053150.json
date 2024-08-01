@@ -1,0 +1,10 @@
+{
+    "id": 1053150,
+    "name": "wp_membership",
+    "version": "-",
+    "created_at": "2023-04-03T10:17:03",
+    "updated_at": "2023-04-03T15:06:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:e-plugins:wp_membership:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 597408,
+    "name": "sf550x-24mp_firmware",
+    "version": "2.5.0.90",
+    "created_at": "2020-09-09T12:47:11",
+    "updated_at": "2020-09-09T12:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:sf550x-24mp_firmware:2.5.0.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

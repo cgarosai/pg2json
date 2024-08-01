@@ -1,0 +1,10 @@
+{
+    "id": 126639,
+    "name": "fibeair_ip-10_firmware",
+    "version": "7.1.0",
+    "created_at": "2017-04-04T13:24:25",
+    "updated_at": "2021-06-16T13:31:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ceragon:fibeair_ip-10_firmware:7.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

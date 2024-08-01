@@ -1,0 +1,10 @@
+{
+    "id": 113217,
+    "name": "office_for_mac",
+    "version": "2011",
+    "created_at": "2016-12-20T18:02:02",
+    "updated_at": "2021-05-18T16:04:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_for_mac:2011:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

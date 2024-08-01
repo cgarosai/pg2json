@@ -1,0 +1,10 @@
+{
+    "id": 339363,
+    "name": "jclouds",
+    "version": "2.10",
+    "created_at": "2019-08-13T14:14:06",
+    "updated_at": "2019-08-13T14:14:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:jclouds:2.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

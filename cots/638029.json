@@ -1,0 +1,10 @@
+{
+    "id": 638029,
+    "name": "ini",
+    "version": "2.0.0",
+    "created_at": "2020-12-16T15:54:50",
+    "updated_at": "2020-12-16T15:54:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ini_project:ini:2.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 585434,
+    "name": "compute_module_s2600tp_firmware",
+    "version": "1.59",
+    "created_at": "2020-08-14T00:39:56",
+    "updated_at": "2021-05-03T18:09:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:compute_module_s2600tp_firmware:1.59:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

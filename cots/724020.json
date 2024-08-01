@@ -1,0 +1,10 @@
+{
+    "id": 724020,
+    "name": "stackvector",
+    "version": "1.0.3",
+    "created_at": "2021-06-28T15:52:30",
+    "updated_at": "2021-06-28T15:53:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stackvector_project:stackvector:1.0.3:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

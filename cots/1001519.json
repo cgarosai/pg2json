@@ -1,0 +1,10 @@
+{
+    "id": 1001519,
+    "name": "dashboard",
+    "version": "1.2.2",
+    "created_at": "2023-01-06T13:27:17",
+    "updated_at": "2023-01-06T13:58:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zenoss:dashboard:1.2.2:*:*:*:*:zenoss:*:*",
+    "to_analyse": false
+}

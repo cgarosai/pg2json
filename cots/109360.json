@@ -1,0 +1,10 @@
+{
+    "id": 109360,
+    "name": "enterprise_virtualization_manager",
+    "version": "3.5.0",
+    "created_at": "2015-05-04T12:56:45",
+    "updated_at": "2015-05-11T14:07:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:enterprise_virtualization_manager:3.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

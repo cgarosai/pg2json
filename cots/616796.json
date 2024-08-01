@@ -1,0 +1,10 @@
+{
+    "id": 616796,
+    "name": "fujitsu_m10-4s_firmware",
+    "version": "xcp3070",
+    "created_at": "2020-10-30T17:03:14",
+    "updated_at": "2020-10-30T17:03:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:fujitsu_m10-4s_firmware:xcp3070:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

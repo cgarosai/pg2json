@@ -1,0 +1,10 @@
+{
+    "id": 379792,
+    "name": "dashboard_view",
+    "version": "1.7",
+    "created_at": "2019-09-19T14:21:22",
+    "updated_at": "2019-09-19T14:21:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:dashboard_view:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

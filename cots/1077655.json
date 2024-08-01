@@ -1,0 +1,10 @@
+{
+    "id": 1077655,
+    "name": "jellyfin",
+    "version": "10.8.4",
+    "created_at": "2023-05-02T12:48:45",
+    "updated_at": "2023-05-24T12:23:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jellyfin:jellyfin:10.8.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

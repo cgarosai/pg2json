@@ -1,0 +1,10 @@
+{
+    "id": 112408,
+    "name": "meeting_app",
+    "version": "1.8.0",
+    "created_at": "2016-11-17T13:00:26",
+    "updated_at": "2016-11-17T13:00:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:meeting_app:1.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

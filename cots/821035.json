@@ -1,0 +1,10 @@
+{
+    "id": 821035,
+    "name": "revit",
+    "version": "2022",
+    "created_at": "2021-12-27T17:50:30",
+    "updated_at": "2022-01-10T15:14:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:autodesk:revit:2022:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

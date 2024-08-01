@@ -1,0 +1,10 @@
+{
+    "id": 703944,
+    "name": "x-dock_firmware",
+    "version": "-",
+    "created_at": "2021-05-25T12:32:47",
+    "updated_at": "2021-07-08T17:25:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:draeger:x-dock_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 651717,
+    "name": "mautic",
+    "version": "3.1.0",
+    "created_at": "2021-02-17T13:11:39",
+    "updated_at": "2021-02-17T13:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acquia:mautic:3.1.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

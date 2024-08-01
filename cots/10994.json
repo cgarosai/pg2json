@@ -1,0 +1,10 @@
+{
+    "id": 10994,
+    "name": "netkit_ftp",
+    "version": "0.17",
+    "created_at": "2007-12-06T18:14:13",
+    "updated_at": "2008-04-07T12:36:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netkit-ftp:netkit_ftp:0.17:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

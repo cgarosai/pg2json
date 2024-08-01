@@ -1,0 +1,10 @@
+{
+    "id": 889311,
+    "name": "gitblit",
+    "version": "1.9.2",
+    "created_at": "2022-05-27T03:06:44",
+    "updated_at": "2023-06-05T15:34:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gitblit:gitblit:1.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

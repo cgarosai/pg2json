@@ -1,0 +1,10 @@
+{
+    "id": 78007,
+    "name": "libxslt",
+    "version": "1.0.29",
+    "created_at": "2013-04-15T11:56:51",
+    "updated_at": "2013-04-15T17:03:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xmlsoft:libxslt:1.0.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

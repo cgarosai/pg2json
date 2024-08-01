@@ -1,0 +1,10 @@
+{
+    "id": 476768,
+    "name": "core_i9-9900kf_firmware",
+    "version": "-",
+    "created_at": "2020-01-13T13:15:06",
+    "updated_at": "2020-01-13T13:15:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:core_i9-9900kf_firmware:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

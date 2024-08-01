@@ -1,0 +1,10 @@
+{
+    "id": 227609,
+    "name": "fios_quantum_gateway_g1100_firmware",
+    "version": "0.2.00.010.07",
+    "created_at": "2019-04-11T13:37:38",
+    "updated_at": "2021-07-01T14:12:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:verizon:fios_quantum_gateway_g1100_firmware:0.2.00.010.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

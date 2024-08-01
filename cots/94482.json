@@ -1,0 +1,10 @@
+{
+    "id": 94482,
+    "name": "moodle",
+    "version": "2.6.5",
+    "created_at": "2014-11-24T13:34:35",
+    "updated_at": "2015-01-07T18:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:moodle:moodle:2.6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

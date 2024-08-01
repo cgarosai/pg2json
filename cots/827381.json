@@ -1,0 +1,10 @@
+{
+    "id": 827381,
+    "name": "industrial_edge_management",
+    "version": "-",
+    "created_at": "2021-12-15T14:40:25",
+    "updated_at": "2022-05-27T01:44:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:industrial_edge_management:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

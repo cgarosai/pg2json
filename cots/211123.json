@@ -1,0 +1,10 @@
+{
+    "id": 211123,
+    "name": "communications_converged_application_server",
+    "version": "5.1",
+    "created_at": "2019-03-20T17:06:55",
+    "updated_at": "2021-04-21T12:19:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:communications_converged_application_server:5.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

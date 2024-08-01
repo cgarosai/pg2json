@@ -1,0 +1,10 @@
+{
+    "id": 271529,
+    "name": "terminal_emulation",
+    "version": "7.3",
+    "created_at": "2019-06-27T16:20:30",
+    "updated_at": "2019-06-27T16:20:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wavelink:terminal_emulation:7.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

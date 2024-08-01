@@ -1,0 +1,10 @@
+{
+    "id": 1186056,
+    "name": "media_library_assistant",
+    "version": "3.12",
+    "created_at": "2023-10-25T03:34:46",
+    "updated_at": "2023-10-25T03:34:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:davidlingren:media_library_assistant:3.12:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

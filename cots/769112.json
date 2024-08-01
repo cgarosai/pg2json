@@ -1,0 +1,10 @@
+{
+    "id": 769112,
+    "name": "vcenter_server",
+    "version": "6.5",
+    "created_at": "2021-08-24T08:37:40",
+    "updated_at": "2021-08-24T08:43:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vcenter_server:6.5:update3d:*:*:*:*:*:*",
+    "to_analyse": false
+}

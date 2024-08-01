@@ -1,0 +1,10 @@
+{
+    "id": 710715,
+    "name": "css-what",
+    "version": "2.0.0",
+    "created_at": "2021-06-03T10:46:53",
+    "updated_at": "2021-06-03T10:55:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:css-what_project:css-what:2.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

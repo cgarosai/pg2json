@@ -1,0 +1,10 @@
+{
+    "id": 509520,
+    "name": "self-service_application",
+    "version": "3.0.0",
+    "created_at": "2020-03-06T12:46:33",
+    "updated_at": "2020-03-06T12:46:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hcltech:self-service_application:3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

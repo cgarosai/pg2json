@@ -1,0 +1,10 @@
+{
+    "id": 490735,
+    "name": "tex0_firmware",
+    "version": "v600r006c00spc400",
+    "created_at": "2020-02-21T21:01:21",
+    "updated_at": "2020-02-21T21:01:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:tex0_firmware:v600r006c00spc400:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

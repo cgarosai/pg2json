@@ -1,0 +1,10 @@
+{
+    "id": 507170,
+    "name": "rdf-graph-array",
+    "version": "0.3.0",
+    "created_at": "2020-03-03T16:45:31",
+    "updated_at": "2020-03-03T16:45:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rdf-graph-array_project:rdf-graph-array:0.3.0:rc6:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

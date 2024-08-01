@@ -1,0 +1,10 @@
+{
+    "id": 212104,
+    "name": "morgan",
+    "version": "1.9.1",
+    "created_at": "2019-03-26T11:29:56",
+    "updated_at": "2019-03-26T11:29:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:morgan_project:morgan:1.9.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

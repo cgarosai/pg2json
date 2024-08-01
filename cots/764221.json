@@ -1,0 +1,10 @@
+{
+    "id": 764221,
+    "name": "simatic_net_cp_1545-1_firmware",
+    "version": "1.0",
+    "created_at": "2021-09-03T10:07:33",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:simatic_net_cp_1545-1_firmware:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

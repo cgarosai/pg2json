@@ -1,0 +1,10 @@
+{
+    "id": 902978,
+    "name": "zulu",
+    "version": "6.47",
+    "created_at": "2022-07-19T14:46:19",
+    "updated_at": "2022-08-02T12:48:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:azul:zulu:6.47:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

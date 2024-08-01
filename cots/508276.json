@@ -1,0 +1,10 @@
+{
+    "id": 508276,
+    "name": "fleet_maintenance_management",
+    "version": "1.2",
+    "created_at": "2020-03-04T14:48:47",
+    "updated_at": "2020-03-04T14:48:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fleetco:fleet_maintenance_management:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

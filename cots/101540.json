@@ -1,0 +1,10 @@
+{
+    "id": 101540,
+    "name": "timedmediahandler",
+    "version": "-",
+    "created_at": "2015-09-02T09:58:11",
+    "updated_at": "2015-09-03T13:34:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:timedmediahandler_project:timedmediahandler:-:*:*:*:*:mediawiki:*:*",
+    "to_analyse": false
+}

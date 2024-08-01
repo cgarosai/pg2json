@@ -1,0 +1,10 @@
+{
+    "id": 324852,
+    "name": "elding",
+    "version": "1.0.0",
+    "created_at": "2019-08-06T10:53:22",
+    "updated_at": "2019-08-06T10:53:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elding_project:elding:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

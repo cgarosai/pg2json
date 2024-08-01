@@ -1,0 +1,10 @@
+{
+    "id": 678295,
+    "name": "aimeos",
+    "version": "-",
+    "created_at": "2021-03-17T13:44:20",
+    "updated_at": "2021-04-15T18:23:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aimeos_project:aimeos:-:*:*:*:*:typo3:*:*",
+    "to_analyse": false
+}

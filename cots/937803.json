@@ -1,0 +1,10 @@
+{
+    "id": 937803,
+    "name": "gitops",
+    "version": "0.0.4",
+    "created_at": "2022-09-07T12:35:45",
+    "updated_at": "2022-09-07T14:18:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:weave.works:gitops:0.0.4:rc0:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

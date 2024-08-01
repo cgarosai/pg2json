@@ -1,0 +1,10 @@
+{
+    "id": 388036,
+    "name": "httpie",
+    "version": "0.9.8",
+    "created_at": "2019-09-24T14:47:12",
+    "updated_at": "2019-09-24T14:47:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:httpie:httpie:0.9.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

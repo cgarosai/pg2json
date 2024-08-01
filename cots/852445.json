@@ -1,0 +1,10 @@
+{
+    "id": 852445,
+    "name": "liquibase",
+    "version": "4.2.0",
+    "created_at": "2022-03-15T14:04:50",
+    "updated_at": "2022-03-16T13:10:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:liquibase:liquibase:4.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

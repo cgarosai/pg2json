@@ -1,0 +1,10 @@
+{
+    "id": 960454,
+    "name": "hyperic_agent",
+    "version": "5.8.4.2",
+    "created_at": "2022-11-15T12:17:19",
+    "updated_at": "2022-11-15T12:21:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:hyperic_agent:5.8.4.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

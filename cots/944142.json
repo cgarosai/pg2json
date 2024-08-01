@@ -1,0 +1,10 @@
+{
+    "id": 944142,
+    "name": "customer_data_cloud",
+    "version": "7.4",
+    "created_at": "2022-10-12T15:15:36",
+    "updated_at": "2022-11-09T19:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:customer_data_cloud:7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

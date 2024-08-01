@@ -1,0 +1,10 @@
+{
+    "id": 226749,
+    "name": "soasta_cloudtest",
+    "version": "-",
+    "created_at": "2019-04-10T14:48:10",
+    "updated_at": "2019-04-10T14:48:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:soasta_cloudtest:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

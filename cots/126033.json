@@ -1,0 +1,10 @@
+{
+    "id": 126033,
+    "name": "nexus_93128tx_switch",
+    "version": "-",
+    "created_at": "2017-03-21T16:20:03",
+    "updated_at": "2021-04-28T16:14:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:nexus_93128tx_switch:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

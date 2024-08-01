@@ -1,0 +1,10 @@
+{
+    "id": 239391,
+    "name": "security_key_lifecycle_manager",
+    "version": "2.5.0.8",
+    "created_at": "2019-05-07T16:39:35",
+    "updated_at": "2019-05-07T16:39:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:security_key_lifecycle_manager:2.5.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

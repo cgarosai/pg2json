@@ -1,0 +1,10 @@
+{
+    "id": 872690,
+    "name": "jailed",
+    "version": "-",
+    "created_at": "2022-05-06T15:10:49",
+    "updated_at": "2022-05-13T14:41:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jailed_project:jailed:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

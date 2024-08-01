@@ -1,0 +1,10 @@
+{
+    "id": 761970,
+    "name": "transpile",
+    "version": "0.7.0",
+    "created_at": "2021-08-26T16:51:55",
+    "updated_at": "2021-08-26T17:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:transpile_project:transpile:0.7.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

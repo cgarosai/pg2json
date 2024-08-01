@@ -1,0 +1,10 @@
+{
+    "id": 1085084,
+    "name": "archer_c7_firmware",
+    "version": "180114",
+    "created_at": "2023-05-19T12:10:37",
+    "updated_at": "2023-05-22T11:20:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:archer_c7_firmware:180114:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

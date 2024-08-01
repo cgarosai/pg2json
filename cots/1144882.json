@@ -1,0 +1,10 @@
+{
+    "id": 1144882,
+    "name": "nifi_minifi_c\\+\\+",
+    "version": "0.13.0",
+    "created_at": "2023-09-08T13:12:15",
+    "updated_at": "2023-09-09T00:14:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:nifi_minifi_c\\+\\+:0.13.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

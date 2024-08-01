@@ -1,0 +1,10 @@
+{
+    "id": 605812,
+    "name": "celeron_n4100_firmware",
+    "version": "-",
+    "created_at": "2020-09-30T17:36:25",
+    "updated_at": "2020-09-30T17:36:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:celeron_n4100_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 129439,
+    "name": "scalance_xr500_firmware",
+    "version": "-",
+    "created_at": "2017-05-22T23:51:46",
+    "updated_at": "2021-05-25T15:26:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_xr500_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

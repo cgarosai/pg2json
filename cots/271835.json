@@ -1,0 +1,10 @@
+{
+    "id": 271835,
+    "name": "privoxy",
+    "version": "3.0.9",
+    "created_at": "2019-06-28T13:49:39",
+    "updated_at": "2019-06-28T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:privoxy:privoxy:3.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

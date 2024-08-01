@@ -1,0 +1,10 @@
+{
+    "id": 411535,
+    "name": "open_sdn_controller",
+    "version": "0.90",
+    "created_at": "2019-10-28T18:03:01",
+    "updated_at": "2019-10-28T18:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:projectfloodlight:open_sdn_controller:0.90:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

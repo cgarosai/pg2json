@@ -1,0 +1,10 @@
+{
+    "id": 709714,
+    "name": "evm",
+    "version": "0.24.0",
+    "created_at": "2021-05-19T12:46:11",
+    "updated_at": "2021-05-24T17:53:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:evm_project:evm:0.24.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

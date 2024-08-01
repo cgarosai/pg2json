@@ -1,0 +1,10 @@
+{
+    "id": 575020,
+    "name": "r6850_firmware",
+    "version": "v1.0.11.100_10.2.100",
+    "created_at": "2020-07-24T15:06:42",
+    "updated_at": "2020-07-24T15:06:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6850_firmware:v1.0.11.100_10.2.100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

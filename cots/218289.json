@@ -1,0 +1,10 @@
+{
+    "id": 218289,
+    "name": "freebsd",
+    "version": "9.2",
+    "created_at": "2019-03-18T16:34:22",
+    "updated_at": "2019-03-19T12:42:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freebsd:freebsd:9.2:p7:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57876,
+    "name": "openmanage_baseboard_management_controller_utilities",
+    "version": "4.2.0",
+    "created_at": "2012-05-08T11:53:03",
+    "updated_at": "2012-05-08T11:53:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dell:openmanage_baseboard_management_controller_utilities:4.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

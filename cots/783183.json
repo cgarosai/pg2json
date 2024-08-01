@@ -1,0 +1,10 @@
+{
+    "id": 783183,
+    "name": "woocommerce_blocks",
+    "version": "5.7.2",
+    "created_at": "2021-10-12T16:08:00",
+    "updated_at": "2021-10-12T16:10:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:woocommerce_blocks:5.7.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

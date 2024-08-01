@@ -1,0 +1,10 @@
+{
+    "id": 634036,
+    "name": "office_online_server",
+    "version": "-",
+    "created_at": "2021-01-05T14:07:25",
+    "updated_at": "2021-01-05T14:07:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:office_online_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

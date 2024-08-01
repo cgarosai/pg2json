@@ -1,0 +1,10 @@
+{
+    "id": 962996,
+    "name": "seo_redirection",
+    "version": "8.9",
+    "created_at": "2022-11-20T14:31:14",
+    "updated_at": "2022-11-21T11:51:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:clogica:seo_redirection:8.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

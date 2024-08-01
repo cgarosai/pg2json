@@ -1,0 +1,10 @@
+{
+    "id": 77631,
+    "name": "gpu_driver",
+    "version": "310.00",
+    "created_at": "2013-04-09T12:39:44",
+    "updated_at": "2013-04-09T19:32:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*",
+    "to_analyse": false
+}

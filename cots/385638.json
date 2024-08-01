@@ -1,0 +1,10 @@
+{
+    "id": 385638,
+    "name": "ipip-coffee",
+    "version": "1.0.9",
+    "created_at": "2019-09-23T16:24:21",
+    "updated_at": "2019-09-23T16:24:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipip:ipip-coffee:1.0.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

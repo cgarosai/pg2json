@@ -1,0 +1,10 @@
+{
+    "id": 811902,
+    "name": "m12-1_firmware",
+    "version": "xcp3100",
+    "created_at": "2021-12-02T18:16:12",
+    "updated_at": "2021-12-03T14:01:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:m12-1_firmware:xcp3100:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

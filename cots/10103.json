@@ -1,0 +1,10 @@
+{
+    "id": 10103,
+    "name": "content_management_server",
+    "version": "2001",
+    "created_at": "2007-09-12T20:53:49",
+    "updated_at": "2008-04-15T21:56:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:content_management_server:2001:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

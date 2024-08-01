@@ -1,0 +1,10 @@
+{
+    "id": 210190,
+    "name": "antimalware",
+    "version": "2.16.2.558",
+    "created_at": "2019-03-20T13:00:07",
+    "updated_at": "2019-03-20T13:00:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zemana:antimalware:2.16.2.558:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

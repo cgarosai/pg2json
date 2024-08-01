@@ -1,0 +1,10 @@
+{
+    "id": 588396,
+    "name": "yassl",
+    "version": "2.2.2d",
+    "created_at": "2020-08-20T11:13:04",
+    "updated_at": "2020-08-20T11:13:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wolfssl:yassl:2.2.2d:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

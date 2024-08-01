@@ -1,0 +1,10 @@
+{
+    "id": 640111,
+    "name": "bravia_firmware",
+    "version": "-",
+    "created_at": "2021-01-20T13:06:47",
+    "updated_at": "2021-01-20T13:06:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sony:bravia_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

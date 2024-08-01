@@ -1,0 +1,10 @@
+{
+    "id": 71844,
+    "name": "wireless_network_extender",
+    "version": "scs-2u01",
+    "created_at": "2013-07-19T14:43:57",
+    "updated_at": "2013-07-24T13:21:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:verizon:wireless_network_extender:scs-2u01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

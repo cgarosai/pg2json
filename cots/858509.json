@@ -1,0 +1,10 @@
+{
+    "id": 858509,
+    "name": "libvirt",
+    "version": "7.5.0",
+    "created_at": "2022-03-08T14:34:05",
+    "updated_at": "2022-04-07T19:38:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:libvirt:7.5.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1197861,
+    "name": "gs1900-24hpv2_firmware",
+    "version": "2.80\\(abtp.0\\)",
+    "created_at": "2023-11-09T19:11:14",
+    "updated_at": "2023-11-09T19:11:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:gs1900-24hpv2_firmware:2.80\\(abtp.0\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

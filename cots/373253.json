@@ -1,0 +1,10 @@
+{
+    "id": 373253,
+    "name": "static-resource-server",
+    "version": "1.4.1",
+    "created_at": "2019-09-23T11:34:57",
+    "updated_at": "2019-09-23T11:34:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:static-resource-server_project:static-resource-server:1.4.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

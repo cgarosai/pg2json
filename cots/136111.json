@@ -1,0 +1,10 @@
+{
+    "id": 136111,
+    "name": "nr8120_firmware",
+    "version": "-",
+    "created_at": "2017-10-11T13:00:34",
+    "updated_at": "2021-05-28T15:53:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zte:nr8120_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

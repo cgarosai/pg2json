@@ -1,0 +1,10 @@
+{
+    "id": 1183079,
+    "name": "jira_service_management",
+    "version": "5.9.0",
+    "created_at": "2023-11-01T14:55:50",
+    "updated_at": "2023-11-01T14:55:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_service_management:5.9.0:*:*:*:server:*:*:*",
+    "to_analyse": false
+}

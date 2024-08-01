@@ -1,0 +1,10 @@
+{
+    "id": 544073,
+    "name": "munin",
+    "version": "2.999.9",
+    "created_at": "2020-05-27T12:51:54",
+    "updated_at": "2020-05-27T12:51:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:munin-monitoring:munin:2.999.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

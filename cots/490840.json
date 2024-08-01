@@ -1,0 +1,10 @@
+{
+    "id": 490840,
+    "name": "srg2300_firmware",
+    "version": "v200r007c00",
+    "created_at": "2020-02-21T21:19:07",
+    "updated_at": "2020-02-21T21:19:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:srg2300_firmware:v200r007c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

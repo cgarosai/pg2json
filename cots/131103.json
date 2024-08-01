@@ -1,0 +1,10 @@
+{
+    "id": 131103,
+    "name": "nport_5150_firmware",
+    "version": "3.5",
+    "created_at": "2017-12-12T20:02:32",
+    "updated_at": "2021-04-16T12:11:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:moxa:nport_5150_firmware:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

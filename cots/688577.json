@@ -1,0 +1,10 @@
+{
+    "id": 688577,
+    "name": "exposure_notification_verification_server",
+    "version": "0.18.2",
+    "created_at": "2021-04-02T12:59:08",
+    "updated_at": "2021-04-09T11:30:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:exposure_notification_verification_server:0.18.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

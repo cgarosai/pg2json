@@ -1,0 +1,10 @@
+{
+    "id": 1236877,
+    "name": "couchauth",
+    "version": "0.18.2",
+    "created_at": "2024-01-08T18:10:43",
+    "updated_at": "2024-01-08T18:10:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:perfood:couchauth:0.18.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

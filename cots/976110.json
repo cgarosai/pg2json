@@ -1,0 +1,10 @@
+{
+    "id": 976110,
+    "name": "amazon_web_services_serverless_application_model",
+    "version": "-",
+    "created_at": "2022-11-23T12:10:28",
+    "updated_at": "2022-11-23T12:27:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:amazon_web_services_serverless_application_model:-:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

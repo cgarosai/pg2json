@@ -1,0 +1,10 @@
+{
+    "id": 514515,
+    "name": "pxc100-e.d_firmware",
+    "version": "6.00.320",
+    "created_at": "2020-03-31T15:35:39",
+    "updated_at": "2020-03-31T15:35:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:pxc100-e.d_firmware:6.00.320:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 545016,
+    "name": "xeon_e5_2628l_v4",
+    "version": "-",
+    "created_at": "2020-05-05T09:25:30",
+    "updated_at": "2020-05-05T09:25:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:xeon_e5_2628l_v4:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

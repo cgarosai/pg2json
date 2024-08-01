@@ -1,0 +1,10 @@
+{
+    "id": 541088,
+    "name": "subiquity",
+    "version": "0.0.28",
+    "created_at": "2020-05-18T12:42:24",
+    "updated_at": "2020-05-18T12:42:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:subiquity:0.0.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

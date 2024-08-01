@@ -1,0 +1,10 @@
+{
+    "id": 800431,
+    "name": "emulex_hba_manager",
+    "version": "11.4.425.0",
+    "created_at": "2021-11-12T12:34:17",
+    "updated_at": "2021-11-23T17:48:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:broadcom:emulex_hba_manager:11.4.425.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 23240,
+    "name": "openttd",
+    "version": "1.0.0",
+    "created_at": "2010-05-05T20:55:47",
+    "updated_at": "2010-11-19T17:32:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openttd:openttd:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

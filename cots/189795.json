@@ -1,0 +1,10 @@
+{
+    "id": 189795,
+    "name": "swift",
+    "version": "3.0.1",
+    "created_at": "2018-11-06T14:47:49",
+    "updated_at": "2018-11-06T14:47:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:swift:3.0.1:*:*:*:*:ubuntu:*:*",
+    "to_analyse": false
+}

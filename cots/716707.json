@@ -1,0 +1,10 @@
+{
+    "id": 716707,
+    "name": "ceph",
+    "version": "14.2.21",
+    "created_at": "2021-05-27T23:46:50",
+    "updated_at": "2021-06-03T13:02:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:ceph:14.2.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 527816,
+    "name": "credhub_service_broker_for_pcf",
+    "version": "1.2.0",
+    "created_at": "2020-04-01T18:19:30",
+    "updated_at": "2020-04-01T18:19:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:credhub_service_broker_for_pcf:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

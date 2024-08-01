@@ -1,0 +1,10 @@
+{
+    "id": 672255,
+    "name": "adguard",
+    "version": "4.1.0",
+    "created_at": "2021-03-23T13:38:26",
+    "updated_at": "2021-03-23T14:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adguard:adguard:4.1.0:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

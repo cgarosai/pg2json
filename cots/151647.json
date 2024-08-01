@@ -1,0 +1,10 @@
+{
+    "id": 151647,
+    "name": "multijob",
+    "version": "1.5",
+    "created_at": "2018-05-30T12:13:32",
+    "updated_at": "2018-05-30T12:13:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:multijob:1.5:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

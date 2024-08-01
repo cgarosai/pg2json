@@ -1,0 +1,10 @@
+{
+    "id": 876756,
+    "name": "pipeline\\",
+    "version": "_shared_groovy_libraries",
+    "created_at": "2022-04-19T14:06:42",
+    "updated_at": "2022-04-27T14:20:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:pipeline\\:_shared_groovy_libraries:1.7:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

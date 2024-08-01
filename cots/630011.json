@@ -1,0 +1,10 @@
+{
+    "id": 630011,
+    "name": "cognos_metrics_manager",
+    "version": "10.2.2",
+    "created_at": "2020-12-21T14:45:48",
+    "updated_at": "2020-12-21T14:45:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:cognos_metrics_manager:10.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

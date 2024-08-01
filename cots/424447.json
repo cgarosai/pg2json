@@ -1,0 +1,10 @@
+{
+    "id": 424447,
+    "name": "tiny-http",
+    "version": "1.1.4",
+    "created_at": "2019-11-08T17:32:28",
+    "updated_at": "2019-11-08T17:32:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tiny-http_project:tiny-http:1.1.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

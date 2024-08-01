@@ -1,0 +1,10 @@
+{
+    "id": 36211,
+    "name": "avast_antivirus_free",
+    "version": "5.0.594",
+    "created_at": "2010-08-26T18:44:33",
+    "updated_at": "2010-09-23T23:26:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:avast_antivirus_free:5.0.594:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

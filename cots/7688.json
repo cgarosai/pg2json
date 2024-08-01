@@ -1,0 +1,10 @@
+{
+    "id": 7688,
+    "name": "opencms",
+    "version": "6.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2013-08-13T13:44:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alkacon:opencms:6.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

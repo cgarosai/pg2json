@@ -1,0 +1,10 @@
+{
+    "id": 41839,
+    "name": "mac_os_x_server",
+    "version": "10.7.2",
+    "created_at": "2012-02-03T14:27:55",
+    "updated_at": "2012-02-16T19:13:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:apple:mac_os_x_server:10.7.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

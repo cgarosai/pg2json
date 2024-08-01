@@ -1,0 +1,10 @@
+{
+    "id": 855336,
+    "name": "linux_kernel",
+    "version": "5.15.3",
+    "created_at": "2022-02-25T15:27:21",
+    "updated_at": "2022-04-15T14:34:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:linux:linux_kernel:5.15.3:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 908728,
+    "name": "dgx_a100_firmware",
+    "version": "22.5.5",
+    "created_at": "2022-07-11T15:37:53",
+    "updated_at": "2022-10-03T16:13:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:nvidia:dgx_a100_firmware:22.5.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

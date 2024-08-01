@@ -1,0 +1,10 @@
+{
+    "id": 732914,
+    "name": "buildship",
+    "version": "1.0.3",
+    "created_at": "2021-07-13T16:44:20",
+    "updated_at": "2021-07-13T16:50:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:buildship:1.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

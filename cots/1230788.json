@@ -1,0 +1,10 @@
+{
+    "id": 1230788,
+    "name": "azure_uamqp",
+    "version": "2024-01-01",
+    "created_at": "2024-01-12T17:55:24",
+    "updated_at": "2024-01-12T17:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_uamqp:2024-01-01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

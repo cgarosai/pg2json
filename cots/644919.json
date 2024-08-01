@@ -1,0 +1,10 @@
+{
+    "id": 644919,
+    "name": "late-static",
+    "version": "0.2.0",
+    "created_at": "2021-02-01T17:57:34",
+    "updated_at": "2021-02-01T17:57:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:late-static_project:late-static:0.2.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

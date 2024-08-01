@@ -1,0 +1,10 @@
+{
+    "id": 5527,
+    "name": "3660_router",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:40:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:3660_router:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

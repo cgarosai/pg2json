@@ -1,0 +1,10 @@
+{
+    "id": 731113,
+    "name": "i18n",
+    "version": "0.10.0",
+    "created_at": "2021-07-12T13:38:08",
+    "updated_at": "2021-07-12T18:04:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:i18n_project:i18n:0.10.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

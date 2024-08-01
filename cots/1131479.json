@@ -1,0 +1,10 @@
+{
+    "id": 1131479,
+    "name": "notes",
+    "version": "3.1.2",
+    "created_at": "2023-08-16T16:39:14",
+    "updated_at": "2023-08-16T17:06:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nextcloud:notes:3.1.2:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

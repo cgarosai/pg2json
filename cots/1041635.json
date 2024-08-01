@@ -1,0 +1,10 @@
+{
+    "id": 1041635,
+    "name": "neutron",
+    "version": "18.5.0",
+    "created_at": "2023-03-13T14:13:13",
+    "updated_at": "2023-04-17T16:09:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:neutron:18.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

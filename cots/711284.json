@@ -1,0 +1,10 @@
+{
+    "id": 711284,
+    "name": "nss",
+    "version": "3.44.4",
+    "created_at": "2021-06-04T11:22:12",
+    "updated_at": "2021-06-04T11:23:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:nss:3.44.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 18772,
+    "name": "veritas_volume_replicator",
+    "version": "4.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:53:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symantec:veritas_volume_replicator:4.2:rp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

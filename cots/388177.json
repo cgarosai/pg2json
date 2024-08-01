@@ -1,0 +1,10 @@
+{
+    "id": 388177,
+    "name": "spray-json",
+    "version": "1.2.6",
+    "created_at": "2019-09-24T15:19:32",
+    "updated_at": "2019-09-24T15:19:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightbend:spray-json:1.2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

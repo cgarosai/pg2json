@@ -1,0 +1,10 @@
+{
+    "id": 637602,
+    "name": "git_credential_manager_core",
+    "version": "2.0.87",
+    "created_at": "2020-12-16T11:37:08",
+    "updated_at": "2020-12-16T11:37:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:git_credential_manager_core:2.0.87:beta:*:*:*:windows:*:*",
+    "to_analyse": false
+}

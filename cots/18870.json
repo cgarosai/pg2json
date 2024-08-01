@@ -1,0 +1,10 @@
+{
+    "id": 18870,
+    "name": "backup_exec_remote_agent",
+    "version": "9.1.4691",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:53:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:backup_exec_remote_agent:9.1.4691:sp3:windows_servers:*:*:*:*:*",
+    "to_analyse": false
+}

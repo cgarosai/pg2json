@@ -1,0 +1,10 @@
+{
+    "id": 590661,
+    "name": "satellite_capsule",
+    "version": "6.6",
+    "created_at": "2020-09-16T09:51:15",
+    "updated_at": "2020-09-16T09:51:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:satellite_capsule:6.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

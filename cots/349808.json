@@ -1,0 +1,10 @@
+{
+    "id": 349808,
+    "name": "alfresco",
+    "version": "1.0.1",
+    "created_at": "2019-08-27T17:12:48",
+    "updated_at": "2019-08-27T17:12:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alfresco:alfresco:1.0.1:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

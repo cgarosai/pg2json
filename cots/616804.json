@@ -1,0 +1,10 @@
+{
+    "id": 616804,
+    "name": "fujitsu_m12-2s_firmware",
+    "version": "xcp2361",
+    "created_at": "2020-10-30T17:03:16",
+    "updated_at": "2020-10-30T17:03:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:oracle:fujitsu_m12-2s_firmware:xcp2361:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

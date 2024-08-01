@@ -1,0 +1,10 @@
+{
+    "id": 1114348,
+    "name": "keeper",
+    "version": "16.10.0",
+    "created_at": "2023-07-20T10:03:16",
+    "updated_at": "2023-07-20T10:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:keepersecurity:keeper:16.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

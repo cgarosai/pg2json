@@ -1,0 +1,10 @@
+{
+    "id": 66168,
+    "name": "synco_ozw_web_server",
+    "version": "ozw772.01",
+    "created_at": "2012-08-07T14:45:31",
+    "updated_at": "2012-08-10T15:18:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:synco_ozw_web_server:ozw772.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

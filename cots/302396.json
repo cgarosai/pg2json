@@ -1,0 +1,10 @@
+{
+    "id": 302396,
+    "name": "arduino",
+    "version": "-",
+    "created_at": "2019-07-23T14:44:33",
+    "updated_at": "2021-04-12T15:46:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:arduino:arduino:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

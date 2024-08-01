@@ -1,0 +1,10 @@
+{
+    "id": 98854,
+    "name": "python-gnupg",
+    "version": "0.3.1",
+    "created_at": "2014-06-10T16:11:40",
+    "updated_at": "2014-06-19T23:26:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vinay_sajip:python-gnupg:0.3.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

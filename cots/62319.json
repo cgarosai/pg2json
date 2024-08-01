@@ -1,0 +1,10 @@
+{
+    "id": 62319,
+    "name": "custom_pub",
+    "version": "7.x-1.0",
+    "created_at": "2012-11-13T22:53:08",
+    "updated_at": "2012-11-13T22:53:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inclind:custom_pub:7.x-1.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

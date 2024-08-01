@@ -1,0 +1,10 @@
+{
+    "id": 94473,
+    "name": "spotfire_web_player",
+    "version": "6.0.0",
+    "created_at": "2014-11-21T14:42:37",
+    "updated_at": "2015-02-18T16:49:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tibco:spotfire_web_player:6.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

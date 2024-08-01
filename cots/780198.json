@@ -1,0 +1,10 @@
+{
+    "id": 780198,
+    "name": "flatcar_linux",
+    "version": "1786.0.1",
+    "created_at": "2021-10-06T13:31:32",
+    "updated_at": "2021-10-12T11:29:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:flatcar_linux:1786.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

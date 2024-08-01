@@ -1,0 +1,10 @@
+{
+    "id": 557105,
+    "name": "customer_files_upload",
+    "version": "2018-08-01",
+    "created_at": "2020-06-01T16:38:29",
+    "updated_at": "2020-06-01T16:38:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mypresta:customer_files_upload:2018-08-01:*:*:*:*:prestashop:*:*",
+    "to_analyse": false
+}

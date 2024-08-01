@@ -1,0 +1,10 @@
+{
+    "id": 133628,
+    "name": "amazon_web_services_cloudformation_bootstrap",
+    "version": "-",
+    "created_at": "2018-01-17T18:52:06",
+    "updated_at": "2021-05-10T14:20:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:amazon_web_services_cloudformation_bootstrap:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

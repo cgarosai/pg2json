@@ -1,0 +1,10 @@
+{
+    "id": 616649,
+    "name": "com465ip_firmware",
+    "version": "-",
+    "created_at": "2020-10-30T12:49:45",
+    "updated_at": "2020-10-30T12:49:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bender:com465ip_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

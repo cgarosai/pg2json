@@ -1,0 +1,10 @@
+{
+    "id": 1087730,
+    "name": "opc_factory_server",
+    "version": "3.50",
+    "created_at": "2023-05-23T13:35:23",
+    "updated_at": "2023-05-23T14:48:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:opc_factory_server:3.50:service_pack_8:*:*:*:*:*:*",
+    "to_analyse": false
+}

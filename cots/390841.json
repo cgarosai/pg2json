@@ -1,0 +1,10 @@
+{
+    "id": 390841,
+    "name": "mfrs",
+    "version": "1.0.0",
+    "created_at": "2019-10-01T17:08:17",
+    "updated_at": "2019-10-01T17:08:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mfrs_project:mfrs:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

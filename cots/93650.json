@@ -1,0 +1,10 @@
+{
+    "id": 93650,
+    "name": "american_express_serve",
+    "version": "\\@7f0901e4",
+    "created_at": "2014-11-10T15:18:03",
+    "updated_at": "2014-11-10T15:57:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:serve:american_express_serve:\\@7f0901e4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

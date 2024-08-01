@@ -1,0 +1,10 @@
+{
+    "id": 909577,
+    "name": "known",
+    "version": "0.8.2",
+    "created_at": "2022-07-12T17:23:30",
+    "updated_at": "2022-07-14T16:33:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:withknown:known:0.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

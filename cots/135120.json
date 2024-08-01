@@ -1,0 +1,10 @@
+{
+    "id": 135120,
+    "name": "r7900_firmware",
+    "version": "1.0.1.8",
+    "created_at": "2017-09-19T15:55:37",
+    "updated_at": "2017-09-19T15:55:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7900_firmware:1.0.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

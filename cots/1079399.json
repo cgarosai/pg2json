@@ -1,0 +1,10 @@
+{
+    "id": 1079399,
+    "name": "ms-n1008-unpc_firmware",
+    "version": "73.9.0.18-r2",
+    "created_at": "2023-05-05T13:29:16",
+    "updated_at": "2023-05-06T12:08:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:milesight:ms-n1008-unpc_firmware:73.9.0.18-r2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

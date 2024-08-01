@@ -1,0 +1,10 @@
+{
+    "id": 785551,
+    "name": "wp_domain_redirect",
+    "version": "1.0",
+    "created_at": "2021-09-28T14:25:18",
+    "updated_at": "2021-09-28T15:32:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_domain_redirect_project:wp_domain_redirect:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

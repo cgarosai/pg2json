@@ -1,0 +1,10 @@
+{
+    "id": 1013564,
+    "name": "mangboard_wp",
+    "version": "2.0.4",
+    "created_at": "2023-01-27T11:28:36",
+    "updated_at": "2023-02-02T11:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mangboard:mangboard_wp:2.0.4:*:*:*:basic:wordpress:*:*",
+    "to_analyse": false
+}

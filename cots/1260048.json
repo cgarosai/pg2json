@@ -1,0 +1,10 @@
+{
+    "id": 1260048,
+    "name": "availability_orchestrator",
+    "version": "4.0",
+    "created_at": "2024-04-19T10:31:15",
+    "updated_at": "2024-04-19T10:31:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veeam:availability_orchestrator:4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

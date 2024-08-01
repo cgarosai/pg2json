@@ -1,0 +1,10 @@
+{
+    "id": 1096183,
+    "name": "pomerium",
+    "version": "0.21.2",
+    "created_at": "2023-06-05T12:25:33",
+    "updated_at": "2023-06-05T16:46:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pomerium:pomerium:0.21.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

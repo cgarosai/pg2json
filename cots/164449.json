@@ -1,0 +1,10 @@
+{
+    "id": 164449,
+    "name": "safeguard_easy_device_encryption_client",
+    "version": "6.10",
+    "created_at": "2018-08-31T15:35:20",
+    "updated_at": "2021-08-12T14:09:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:safeguard_easy_device_encryption_client:6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

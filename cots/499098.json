@@ -1,0 +1,10 @@
+{
+    "id": 499098,
+    "name": "bond-tl10b_firmware",
+    "version": "bond-tl10bc01b201",
+    "created_at": "2020-02-20T17:09:16",
+    "updated_at": "2020-02-20T17:09:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:bond-tl10b_firmware:bond-tl10bc01b201:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

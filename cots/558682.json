@@ -1,0 +1,10 @@
+{
+    "id": 558682,
+    "name": "connector\\/c",
+    "version": "2.2.3",
+    "created_at": "2020-06-08T10:48:14",
+    "updated_at": "2020-06-08T10:48:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mariadb:connector\\/c:2.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 164587,
+    "name": "core_i3",
+    "version": "7020u",
+    "created_at": "2018-09-05T10:53:15",
+    "updated_at": "2023-09-25T18:35:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i3:7020u:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

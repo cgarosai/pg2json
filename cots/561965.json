@@ -1,0 +1,10 @@
+{
+    "id": 561965,
+    "name": "enterprise_va_max",
+    "version": "8.3.3",
+    "created_at": "2020-07-14T14:38:56",
+    "updated_at": "2020-07-14T14:38:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

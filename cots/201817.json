@@ -1,0 +1,10 @@
+{
+    "id": 201817,
+    "name": "setools",
+    "version": "4.0.0",
+    "created_at": "2019-02-27T16:39:50",
+    "updated_at": "2019-02-27T16:39:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:selinuxproject:setools:4.0.0:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

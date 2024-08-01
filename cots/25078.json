@@ -1,0 +1,10 @@
+{
+    "id": 25078,
+    "name": "darwin_streaming_server",
+    "version": "5.5",
+    "created_at": "2009-03-04T12:01:22",
+    "updated_at": "2009-03-04T12:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:darwin_streaming_server:5.5:-:windows:*:*:*:*:*",
+    "to_analyse": false
+}

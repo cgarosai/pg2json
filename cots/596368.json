@@ -1,0 +1,10 @@
+{
+    "id": 596368,
+    "name": "rootkit_hunter",
+    "version": "1.0.2",
+    "created_at": "2020-09-08T10:56:46",
+    "updated_at": "2020-09-08T10:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rootkit_hunter_project:rootkit_hunter:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

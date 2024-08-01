@@ -1,0 +1,10 @@
+{
+    "id": 940967,
+    "name": "psql",
+    "version": "11",
+    "created_at": "2022-10-03T15:18:44",
+    "updated_at": "2022-10-05T10:42:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:actian:psql:11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

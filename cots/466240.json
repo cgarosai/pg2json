@@ -1,0 +1,10 @@
+{
+    "id": 466240,
+    "name": "zipabox_firmware",
+    "version": "118",
+    "created_at": "2019-12-16T12:52:07",
+    "updated_at": "2019-12-16T12:52:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zipato:zipabox_firmware:118:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

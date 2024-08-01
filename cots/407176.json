@@ -1,0 +1,10 @@
+{
+    "id": 407176,
+    "name": "stb_vorbis",
+    "version": "0.93",
+    "created_at": "2019-10-09T14:16:28",
+    "updated_at": "2019-10-09T14:16:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:stb_vorbis_project:stb_vorbis:0.93:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 550418,
+    "name": "windows_migration_assistant",
+    "version": "2.2.0.0",
+    "created_at": "2020-06-12T12:28:29",
+    "updated_at": "2020-06-12T12:28:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:windows_migration_assistant:2.2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 62332,
+    "name": "player",
+    "version": "4.0.5",
+    "created_at": "2012-11-14T17:55:02",
+    "updated_at": "2012-11-21T16:13:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:player:4.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

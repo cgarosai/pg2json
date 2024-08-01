@@ -1,0 +1,10 @@
+{
+    "id": 404090,
+    "name": "icescrum",
+    "version": "1.0.5.4",
+    "created_at": "2019-10-21T10:20:09",
+    "updated_at": "2019-10-21T10:20:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:icescrum:1.0.5.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

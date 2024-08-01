@@ -1,0 +1,10 @@
+{
+    "id": 221810,
+    "name": "bm_nextscale_fan_power_controller",
+    "version": "24p-2.15",
+    "created_at": "2019-04-23T12:21:10",
+    "updated_at": "2021-05-04T15:16:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:bm_nextscale_fan_power_controller:24p-2.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

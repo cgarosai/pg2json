@@ -1,0 +1,10 @@
+{
+    "id": 644653,
+    "name": "containers",
+    "version": "0.9.4",
+    "created_at": "2021-02-01T15:31:48",
+    "updated_at": "2021-02-01T15:31:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:containers_project:containers:0.9.4:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

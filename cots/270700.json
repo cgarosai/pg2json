@@ -1,0 +1,10 @@
+{
+    "id": 270700,
+    "name": "hierarchical_select",
+    "version": "5.x-2.0",
+    "created_at": "2019-06-26T15:47:47",
+    "updated_at": "2019-06-26T15:47:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hierarchical_select_project:hierarchical_select:5.x-2.0:rc4:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

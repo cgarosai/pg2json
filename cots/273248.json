@@ -1,0 +1,10 @@
+{
+    "id": 273248,
+    "name": "mitmproxy",
+    "version": "2.0.0",
+    "created_at": "2019-07-01T12:56:24",
+    "updated_at": "2019-07-01T12:56:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitmproxy:mitmproxy:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 866711,
+    "name": "sinec_infrastructure_network_services",
+    "version": "-",
+    "created_at": "2022-03-24T15:10:47",
+    "updated_at": "2022-05-27T01:44:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:sinec_infrastructure_network_services:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

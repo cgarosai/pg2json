@@ -1,0 +1,10 @@
+{
+    "id": 587374,
+    "name": "ftp-srv",
+    "version": "3.0.3",
+    "created_at": "2020-08-19T10:11:52",
+    "updated_at": "2020-08-19T10:11:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ftp-srv_project:ftp-srv:3.0.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 57111,
+    "name": "jrockit_mission_control",
+    "version": "3.1.0",
+    "created_at": "2012-05-08T11:50:00",
+    "updated_at": "2012-05-08T11:50:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bea:jrockit_mission_control:3.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

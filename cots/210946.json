@@ -1,0 +1,10 @@
+{
+    "id": 210946,
+    "name": "p3905-r_firmware",
+    "version": "6.50.2.3",
+    "created_at": "2019-03-20T16:46:49",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:p3905-r_firmware:6.50.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

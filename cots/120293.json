@@ -1,0 +1,10 @@
+{
+    "id": 120293,
+    "name": "open_source",
+    "version": "13.2.0",
+    "created_at": "2017-06-12T14:31:19",
+    "updated_at": "2021-05-18T12:21:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:digium:open_source:13.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

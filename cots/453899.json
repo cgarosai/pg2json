@@ -1,0 +1,10 @@
+{
+    "id": 453899,
+    "name": "activity",
+    "version": "6.x-1.x",
+    "created_at": "2019-12-11T13:31:57",
+    "updated_at": "2019-12-11T13:31:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:drupal:activity:6.x-1.x:*:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1197058,
+    "name": "mstore_api",
+    "version": "4.0.5",
+    "created_at": "2023-11-08T15:38:45",
+    "updated_at": "2023-11-08T15:38:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:inspireui:mstore_api:4.0.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

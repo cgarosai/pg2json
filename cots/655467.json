@@ -1,0 +1,10 @@
+{
+    "id": 655467,
+    "name": "aovec",
+    "version": "2020-12-10",
+    "created_at": "2021-02-02T17:33:35",
+    "updated_at": "2021-02-02T17:33:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:aovec_project:aovec:2020-12-10:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

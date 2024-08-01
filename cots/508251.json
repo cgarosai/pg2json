@@ -1,0 +1,10 @@
+{
+    "id": 508251,
+    "name": "sparc_enterprise_m9000_firmware",
+    "version": "-",
+    "created_at": "2020-03-04T14:39:01",
+    "updated_at": "2020-03-04T14:39:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:fujitsu:sparc_enterprise_m9000_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

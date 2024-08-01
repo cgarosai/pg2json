@@ -1,0 +1,10 @@
+{
+    "id": 321935,
+    "name": "heron",
+    "version": "0.17.8",
+    "created_at": "2019-08-01T15:10:07",
+    "updated_at": "2019-08-01T15:10:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:heron:0.17.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

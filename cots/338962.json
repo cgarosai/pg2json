@@ -1,0 +1,10 @@
+{
+    "id": 338962,
+    "name": "network_automation",
+    "version": "10.20",
+    "created_at": "2019-08-13T12:08:54",
+    "updated_at": "2019-08-13T12:08:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:network_automation:10.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

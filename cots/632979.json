@@ -1,0 +1,10 @@
+{
+    "id": 632979,
+    "name": "r7400_firmware",
+    "version": "1.2.0.72",
+    "created_at": "2021-01-04T11:53:16",
+    "updated_at": "2021-04-19T14:33:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r7400_firmware:1.2.0.72:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

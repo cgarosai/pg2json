@@ -1,0 +1,10 @@
+{
+    "id": 470184,
+    "name": "bftpd",
+    "version": "3.7",
+    "created_at": "2020-01-16T11:52:24",
+    "updated_at": "2020-01-16T11:52:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bftpd_project:bftpd:3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 385655,
+    "name": "hekto",
+    "version": "0.1.7",
+    "created_at": "2019-09-23T16:36:33",
+    "updated_at": "2019-09-23T16:36:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hekto_project:hekto:0.1.7:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

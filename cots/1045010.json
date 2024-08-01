@@ -1,0 +1,10 @@
+{
+    "id": 1045010,
+    "name": "ethernet_converged_network_adapter_xl710-da2_firmware",
+    "version": "9.101",
+    "created_at": "2023-03-06T18:54:56",
+    "updated_at": "2023-03-07T13:26:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ethernet_converged_network_adapter_xl710-da2_firmware:9.101:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

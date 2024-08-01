@@ -1,0 +1,10 @@
+{
+    "id": 648370,
+    "name": "protobuf",
+    "version": "0.3",
+    "created_at": "2021-01-12T18:29:58",
+    "updated_at": "2021-01-12T18:29:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:protobuf:0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

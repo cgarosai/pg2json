@@ -1,0 +1,10 @@
+{
+    "id": 351338,
+    "name": "commerce_cloud",
+    "version": "1905",
+    "created_at": "2019-09-09T10:34:59",
+    "updated_at": "2019-09-09T10:34:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:commerce_cloud:1905:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

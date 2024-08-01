@@ -1,0 +1,10 @@
+{
+    "id": 641054,
+    "name": "istore",
+    "version": "12.2.10",
+    "created_at": "2021-01-25T12:38:06",
+    "updated_at": "2021-01-25T12:38:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:istore:12.2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

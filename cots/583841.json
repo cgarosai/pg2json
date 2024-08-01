@@ -1,0 +1,10 @@
+{
+    "id": 583841,
+    "name": "virtualcenter",
+    "version": "2.5",
+    "created_at": "2020-09-02T10:33:56",
+    "updated_at": "2020-09-02T10:33:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:virtualcenter:2.5:update4:*:*:*:*:*:*",
+    "to_analyse": false
+}

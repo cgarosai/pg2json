@@ -1,0 +1,10 @@
+{
+    "id": 616484,
+    "name": "big-ip_ddos_hybrid_defender",
+    "version": "13.0.0",
+    "created_at": "2020-10-30T12:05:12",
+    "updated_at": "2020-10-30T12:05:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:13.0.0:hotfix1:*:*:*:*:*:*",
+    "to_analyse": false
+}

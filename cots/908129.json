@@ -1,0 +1,10 @@
+{
+    "id": 908129,
+    "name": "pcoip_management_console",
+    "version": "1.10.0",
+    "created_at": "2022-07-08T14:36:00",
+    "updated_at": "2022-07-08T14:57:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teradici:pcoip_management_console:1.10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

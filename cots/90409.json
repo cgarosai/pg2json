@@ -1,0 +1,10 @@
+{
+    "id": 90409,
+    "name": "neutron",
+    "version": "juno-2",
+    "created_at": "2014-07-11T15:25:45",
+    "updated_at": "2014-07-15T20:02:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openstack:neutron:juno-2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

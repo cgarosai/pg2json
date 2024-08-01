@@ -1,0 +1,10 @@
+{
+    "id": 95208,
+    "name": "sinema_server",
+    "version": "12.0",
+    "created_at": "2014-04-21T17:26:54",
+    "updated_at": "2014-05-14T23:30:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:sinema_server:12.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 100596,
+    "name": "telepresence_advanced_media_gateway",
+    "version": "1.1\\(1.40\\)",
+    "created_at": "2015-07-13T10:38:22",
+    "updated_at": "2015-07-23T16:41:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_advanced_media_gateway:1.1\\(1.40\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

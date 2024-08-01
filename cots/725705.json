@@ -1,0 +1,10 @@
+{
+    "id": 725705,
+    "name": "mintty",
+    "version": "2.0.2",
+    "created_at": "2021-06-09T13:48:42",
+    "updated_at": "2021-06-14T16:50:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mintty_project:mintty:2.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

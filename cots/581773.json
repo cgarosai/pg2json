@@ -1,0 +1,10 @@
+{
+    "id": 581773,
+    "name": "enterprise_linux_server_workstation",
+    "version": "5.0",
+    "created_at": "2020-08-26T11:12:13",
+    "updated_at": "2021-05-07T16:01:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_workstation:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 169952,
+    "name": "nodesqlite",
+    "version": "-",
+    "created_at": "2018-07-26T12:13:06",
+    "updated_at": "2018-07-26T12:13:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodesqlite_project:nodesqlite:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 341624,
+    "name": "open_power",
+    "version": "op910",
+    "created_at": "2019-08-30T15:51:33",
+    "updated_at": "2021-06-09T14:18:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:open_power:op910:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

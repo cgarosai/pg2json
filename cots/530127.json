@@ -1,0 +1,10 @@
+{
+    "id": 530127,
+    "name": "xeon_gold_6140m_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:07:52",
+    "updated_at": "2020-04-27T18:07:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_gold_6140m_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

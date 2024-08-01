@@ -1,0 +1,10 @@
+{
+    "id": 29080,
+    "name": "skype",
+    "version": "3.1.0.112",
+    "created_at": "2009-11-25T17:28:26",
+    "updated_at": "2009-11-25T17:28:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:skype:skype:3.1.0.112:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 200673,
+    "name": "jsoncpp",
+    "version": "0.8.1",
+    "created_at": "2019-02-27T12:51:05",
+    "updated_at": "2019-02-27T12:51:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jsoncpp_project:jsoncpp:0.8.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 969116,
+    "name": "fil-ocl",
+    "version": "0.6.0",
+    "created_at": "2022-11-09T14:52:11",
+    "updated_at": "2022-11-09T14:53:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fil-ocl_project:fil-ocl:0.6.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

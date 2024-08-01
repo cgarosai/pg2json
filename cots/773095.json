@@ -1,0 +1,10 @@
+{
+    "id": 773095,
+    "name": "scriptler",
+    "version": "3.2",
+    "created_at": "2021-09-23T13:56:47",
+    "updated_at": "2021-09-23T15:22:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:scriptler:3.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

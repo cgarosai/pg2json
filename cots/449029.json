@@ -1,0 +1,10 @@
+{
+    "id": 449029,
+    "name": "echor",
+    "version": "0.1.6",
+    "created_at": "2019-12-02T14:18:24",
+    "updated_at": "2019-12-02T14:18:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:echor_project:echor:0.1.6:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

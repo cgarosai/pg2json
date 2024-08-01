@@ -1,0 +1,10 @@
+{
+    "id": 633527,
+    "name": "kitty",
+    "version": "0.16.0",
+    "created_at": "2021-01-04T15:21:45",
+    "updated_at": "2023-03-01T06:08:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kitty_project:kitty:0.16.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

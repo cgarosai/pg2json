@@ -1,0 +1,10 @@
+{
+    "id": 243465,
+    "name": "spring_framework",
+    "version": "4.3.0",
+    "created_at": "2019-06-05T13:41:12",
+    "updated_at": "2022-04-11T15:17:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

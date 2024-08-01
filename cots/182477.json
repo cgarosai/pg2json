@@ -1,0 +1,10 @@
+{
+    "id": 182477,
+    "name": "umbrella_enterprise_roaming_client",
+    "version": "2.1.118",
+    "created_at": "2018-11-20T14:17:22",
+    "updated_at": "2021-04-01T13:07:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:umbrella_enterprise_roaming_client:2.1.118:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

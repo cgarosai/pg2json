@@ -1,0 +1,10 @@
+{
+    "id": 816374,
+    "name": "suse_linux_enterprise_server",
+    "version": "12",
+    "created_at": "2021-11-23T14:52:19",
+    "updated_at": "2022-09-19T12:12:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:suse_linux_enterprise_server:12:sp2:*:*:*:*:raspberry_pi:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1056170,
+    "name": "365",
+    "version": "-",
+    "created_at": "2023-03-17T14:46:55",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:365:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 15650,
+    "name": "mozilla",
+    "version": "1.0.2",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:39:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:mozilla:1.0.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 707366,
+    "name": "open_distro",
+    "version": "1.13.0",
+    "created_at": "2021-05-11T14:57:34",
+    "updated_at": "2021-05-11T16:47:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:open_distro:1.13.0:*:*:*:*:elasticsearch:*:*",
+    "to_analyse": false
+}

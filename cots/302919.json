@@ -1,0 +1,10 @@
+{
+    "id": 302919,
+    "name": "wp_mailster",
+    "version": "1.4.10",
+    "created_at": "2019-07-24T10:25:50",
+    "updated_at": "2019-07-24T10:25:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpmailster:wp_mailster:1.4.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

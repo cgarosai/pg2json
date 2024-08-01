@@ -1,0 +1,10 @@
+{
+    "id": 192560,
+    "name": "bcw700j_firmware",
+    "version": "5.20.7",
+    "created_at": "2019-01-11T12:11:50",
+    "updated_at": "2021-04-28T17:19:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bnmux:bcw700j_firmware:5.20.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 114447,
+    "name": "netbackup_appliance_firmware",
+    "version": "2.6.0.1",
+    "created_at": "2017-01-27T18:08:22",
+    "updated_at": "2021-07-01T13:59:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:veritas:netbackup_appliance_firmware:2.6.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

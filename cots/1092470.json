@@ -1,0 +1,10 @@
+{
+    "id": 1092470,
+    "name": "event_registration_calendar_by_vcita",
+    "version": "1.2.3",
+    "created_at": "2023-06-13T17:23:42",
+    "updated_at": "2023-06-15T13:16:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vcita:event_registration_calendar_by_vcita:1.2.3:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

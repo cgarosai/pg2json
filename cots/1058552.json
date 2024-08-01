@@ -1,0 +1,10 @@
+{
+    "id": 1058552,
+    "name": "miniflux",
+    "version": "1.0.3",
+    "created_at": "2023-03-23T12:55:42",
+    "updated_at": "2023-03-24T16:41:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:miniflux_project:miniflux:1.0.3:*:*:*:*:go:*:*",
+    "to_analyse": false
+}

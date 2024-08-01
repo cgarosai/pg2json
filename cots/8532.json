@@ -1,0 +1,10 @@
+{
+    "id": 8532,
+    "name": "bzip2",
+    "version": "1.0.4",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2014-05-06T09:28:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bzip:bzip2:1.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 405327,
+    "name": "pouchdb",
+    "version": "6.4.0",
+    "created_at": "2019-10-08T11:19:38",
+    "updated_at": "2019-10-08T11:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pouchdb:pouchdb:6.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

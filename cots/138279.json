@@ -1,0 +1,10 @@
+{
+    "id": 138279,
+    "name": "cf-release",
+    "version": "221",
+    "created_at": "2017-11-08T11:28:08",
+    "updated_at": "2017-11-08T11:28:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:cf-release:221:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

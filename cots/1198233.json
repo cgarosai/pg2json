@@ -1,0 +1,10 @@
+{
+    "id": 1198233,
+    "name": "apiserver",
+    "version": "1.24.4",
+    "created_at": "2023-11-13T13:24:08",
+    "updated_at": "2023-11-13T13:24:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:apiserver:1.24.4:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

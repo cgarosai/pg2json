@@ -1,0 +1,10 @@
+{
+    "id": 892557,
+    "name": "rtl8153b_firmware",
+    "version": "10.50",
+    "created_at": "2022-06-27T11:42:16",
+    "updated_at": "2022-06-29T13:16:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:realtek:rtl8153b_firmware:10.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

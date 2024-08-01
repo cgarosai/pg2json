@@ -1,0 +1,10 @@
+{
+    "id": 411757,
+    "name": "antivirus",
+    "version": "19.4.2374",
+    "created_at": "2019-10-29T11:29:20",
+    "updated_at": "2019-10-29T11:29:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:antivirus:19.4.2374:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

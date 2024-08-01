@@ -1,0 +1,10 @@
+{
+    "id": 260022,
+    "name": "virtualenv",
+    "version": "1.11",
+    "created_at": "2019-06-17T13:49:16",
+    "updated_at": "2019-06-17T13:49:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:virtualenv:virtualenv:1.11:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

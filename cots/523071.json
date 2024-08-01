@@ -1,0 +1,10 @@
+{
+    "id": 523071,
+    "name": "transport-http",
+    "version": "6.0.171",
+    "created_at": "2020-04-09T19:13:59",
+    "updated_at": "2020-04-09T19:13:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wso2:transport-http:6.0.171:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

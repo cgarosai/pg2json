@@ -1,0 +1,10 @@
+{
+    "id": 125581,
+    "name": "ontap_select_deploy_administration_utility",
+    "version": "2.0",
+    "created_at": "2017-03-09T02:24:16",
+    "updated_at": "2021-07-08T13:39:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:ontap_select_deploy_administration_utility:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 541236,
+    "name": "pingid_ssh_integration",
+    "version": "4.0.14",
+    "created_at": "2020-05-18T13:19:11",
+    "updated_at": "2020-05-18T13:19:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pingidentity:pingid_ssh_integration:4.0.14:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

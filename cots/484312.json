@@ -1,0 +1,10 @@
+{
+    "id": 484312,
+    "name": "sbr_carrier",
+    "version": "8.5.0",
+    "created_at": "2020-02-10T14:51:28",
+    "updated_at": "2020-02-10T14:51:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:sbr_carrier:8.5.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

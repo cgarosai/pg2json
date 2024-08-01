@@ -1,0 +1,10 @@
+{
+    "id": 793770,
+    "name": "ac9_firmware",
+    "version": "15.03.06.42_multi",
+    "created_at": "2021-11-01T17:44:11",
+    "updated_at": "2021-11-19T12:21:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tendacn:ac9_firmware:15.03.06.42_multi:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

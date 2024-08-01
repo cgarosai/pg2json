@@ -1,0 +1,10 @@
+{
+    "id": 930987,
+    "name": "batch_task",
+    "version": "1.8",
+    "created_at": "2022-09-12T12:14:18",
+    "updated_at": "2022-09-12T15:27:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:batch_task:1.8:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

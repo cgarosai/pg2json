@@ -1,0 +1,10 @@
+{
+    "id": 54292,
+    "name": "connexitor_directory_services",
+    "version": "3.11.3",
+    "created_at": "2012-07-10T01:23:32",
+    "updated_at": "2012-07-10T01:23:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:symas:connexitor_directory_services:3.11.3:*:*:*:silver_edition:*:*:*",
+    "to_analyse": false
+}

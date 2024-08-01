@@ -1,0 +1,10 @@
+{
+    "id": 548787,
+    "name": "vpn_universal_secure_entry_client",
+    "version": "2.02",
+    "created_at": "2020-05-11T16:37:54",
+    "updated_at": "2020-05-11T16:37:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ncp-e:vpn_universal_secure_entry_client:2.02:-:*:*:*:macos:*:*",
+    "to_analyse": false
+}

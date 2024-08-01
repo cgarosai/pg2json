@@ -1,0 +1,10 @@
+{
+    "id": 1070621,
+    "name": "flask",
+    "version": "2.0.0",
+    "created_at": "2023-05-08T14:59:04",
+    "updated_at": "2023-05-09T15:05:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:palletsprojects:flask:2.0.0:rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 495147,
+    "name": "mate_9_firmware",
+    "version": "mha-al00c00b225",
+    "created_at": "2020-02-10T17:48:20",
+    "updated_at": "2020-02-10T17:48:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:mate_9_firmware:mha-al00c00b225:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

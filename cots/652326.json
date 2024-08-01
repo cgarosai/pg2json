@@ -1,0 +1,10 @@
+{
+    "id": 652326,
+    "name": "xcb",
+    "version": "2021-02-04",
+    "created_at": "2021-02-17T19:17:46",
+    "updated_at": "2021-02-17T19:17:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xcb_project:xcb:2021-02-04:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

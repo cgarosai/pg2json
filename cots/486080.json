@@ -1,0 +1,10 @@
+{
+    "id": 486080,
+    "name": "web_server",
+    "version": "2.520.ac00.18.r",
+    "created_at": "2020-01-30T14:10:29",
+    "updated_at": "2020-01-30T14:10:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amcrest:web_server:2.520.ac00.18.r:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

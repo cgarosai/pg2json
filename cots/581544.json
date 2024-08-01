@@ -1,0 +1,10 @@
+{
+    "id": 581544,
+    "name": "messagesight",
+    "version": "1.0",
+    "created_at": "2020-08-25T14:30:56",
+    "updated_at": "2020-08-25T14:30:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:messagesight:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

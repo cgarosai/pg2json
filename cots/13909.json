@@ -1,0 +1,10 @@
+{
+    "id": 13909,
+    "name": "java_system_messaging_server",
+    "version": "6.2",
+    "created_at": "2008-11-20T23:10:20",
+    "updated_at": "2013-02-11T19:14:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sun:java_system_messaging_server:6.2:_nil_:x86:*:*:*:*:*",
+    "to_analyse": false
+}

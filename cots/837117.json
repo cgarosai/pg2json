@@ -1,0 +1,10 @@
+{
+    "id": 837117,
+    "name": "nemo",
+    "version": "0.8.2",
+    "created_at": "2022-01-14T16:25:47",
+    "updated_at": "2022-01-15T00:51:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:nemo:0.8.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 58555,
+    "name": "hpssupply",
+    "version": "140.0.211.0",
+    "created_at": "2012-05-14T21:30:22",
+    "updated_at": "2012-05-14T21:30:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:hpssupply:140.0.211.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

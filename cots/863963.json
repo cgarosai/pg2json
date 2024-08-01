@@ -1,0 +1,10 @@
+{
+    "id": 863963,
+    "name": "crun",
+    "version": "-",
+    "created_at": "2022-04-12T22:12:03",
+    "updated_at": "2022-04-13T12:42:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:crun_project:crun:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

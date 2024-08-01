@@ -1,0 +1,10 @@
+{
+    "id": 132642,
+    "name": "big-ip_dns",
+    "version": "11.5.0",
+    "created_at": "2018-01-05T00:35:41",
+    "updated_at": "2021-05-14T12:43:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_dns:11.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

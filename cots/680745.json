@@ -1,0 +1,10 @@
+{
+    "id": 680745,
+    "name": "wiz",
+    "version": "1.14.0",
+    "created_at": "2021-04-07T17:39:44",
+    "updated_at": "2022-10-05T09:44:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wizconnected:wiz:1.14.0:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

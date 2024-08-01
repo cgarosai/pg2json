@@ -1,0 +1,10 @@
+{
+    "id": 554963,
+    "name": "log-user-session",
+    "version": "0.4",
+    "created_at": "2020-06-24T14:48:28",
+    "updated_at": "2020-06-24T14:48:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:open-systems:log-user-session:0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

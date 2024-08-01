@@ -1,0 +1,10 @@
+{
+    "id": 209440,
+    "name": "chartmuseum",
+    "version": "0.2.2",
+    "created_at": "2019-02-22T14:39:17",
+    "updated_at": "2019-02-22T14:39:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:helm:chartmuseum:0.2.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

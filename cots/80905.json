@@ -1,0 +1,10 @@
+{
+    "id": 80905,
+    "name": "dogtag_certificate_system",
+    "version": "10.0",
+    "created_at": "2014-01-24T21:26:46",
+    "updated_at": "2014-08-21T12:46:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:dogtag_certificate_system:10.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

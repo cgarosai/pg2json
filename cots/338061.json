@@ -1,0 +1,10 @@
+{
+    "id": 338061,
+    "name": "haxe",
+    "version": "5.0.9",
+    "created_at": "2019-08-12T12:00:10",
+    "updated_at": "2019-08-12T12:00:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:haxe:haxe:5.0.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

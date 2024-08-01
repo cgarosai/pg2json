@@ -1,0 +1,10 @@
+{
+    "id": 1099583,
+    "name": "janino",
+    "version": "3.0.9",
+    "created_at": "2023-06-08T00:21:29",
+    "updated_at": "2023-06-08T14:05:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:janino_project:janino:3.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 419946,
+    "name": "web_connection",
+    "version": "6.10",
+    "created_at": "2019-10-25T16:21:18",
+    "updated_at": "2019-10-25T16:21:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:west-wind:web_connection:6.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 98842,
+    "name": "system_storage_virtualization_engine_ts7700",
+    "version": "-",
+    "created_at": "2014-06-09T15:54:30",
+    "updated_at": "2014-06-09T15:55:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:ibm:system_storage_virtualization_engine_ts7700:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

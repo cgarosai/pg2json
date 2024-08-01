@@ -1,0 +1,10 @@
+{
+    "id": 181240,
+    "name": "python-fedora",
+    "version": "0.8.0",
+    "created_at": "2018-11-13T17:37:38",
+    "updated_at": "2018-11-13T17:37:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fedoraproject:python-fedora:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

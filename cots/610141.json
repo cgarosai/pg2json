@@ -1,0 +1,10 @@
+{
+    "id": 610141,
+    "name": "staros",
+    "version": "21.19.n4",
+    "created_at": "2020-11-16T19:54:53",
+    "updated_at": "2020-11-16T19:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:staros:21.19.n4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

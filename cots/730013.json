@@ -1,0 +1,10 @@
+{
+    "id": 730013,
+    "name": "ruckus_iot_controller",
+    "version": "-",
+    "created_at": "2021-07-09T14:45:15",
+    "updated_at": "2021-07-19T17:36:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commscope:ruckus_iot_controller:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

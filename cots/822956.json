@@ -1,0 +1,10 @@
+{
+    "id": 822956,
+    "name": "bite",
+    "version": "0.0.2",
+    "created_at": "2022-01-04T15:30:17",
+    "updated_at": "2022-01-10T14:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bite_project:bite:0.0.2:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

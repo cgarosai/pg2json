@@ -1,0 +1,10 @@
+{
+    "id": 192817,
+    "name": "zte_zmax_champ_firmware",
+    "version": "5.0.3",
+    "created_at": "2019-01-15T13:16:41",
+    "updated_at": "2021-07-01T17:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zteusa:zte_zmax_champ_firmware:5.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

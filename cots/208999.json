@@ -1,0 +1,10 @@
+{
+    "id": 208999,
+    "name": "cloud_foundry",
+    "version": "1.1",
+    "created_at": "2019-02-21T15:52:14",
+    "updated_at": "2019-02-21T15:52:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:cloud_foundry:1.1:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

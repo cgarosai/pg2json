@@ -1,0 +1,10 @@
+{
+    "id": 246892,
+    "name": "net5516_firmware",
+    "version": "2.1.9.7",
+    "created_at": "2019-05-23T14:31:31",
+    "updated_at": "2021-05-12T11:47:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:pelco:net5516_firmware:2.1.9.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

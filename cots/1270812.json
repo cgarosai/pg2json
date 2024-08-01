@@ -1,0 +1,10 @@
+{
+    "id": 1270812,
+    "name": "imgspider",
+    "version": "2.3.9",
+    "created_at": "2024-07-08T11:42:32",
+    "updated_at": "2024-07-08T11:42:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wbolt:imgspider:2.3.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

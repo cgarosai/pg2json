@@ -1,0 +1,10 @@
+{
+    "id": 459745,
+    "name": "nss",
+    "version": "3.29",
+    "created_at": "2019-12-09T16:10:07",
+    "updated_at": "2019-12-09T16:10:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mozilla:nss:3.29:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 101008,
+    "name": "yodobashi",
+    "version": "1.4.4",
+    "created_at": "2015-08-10T12:06:52",
+    "updated_at": "2015-08-10T12:11:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:yodobashi:yodobashi:1.4.4:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

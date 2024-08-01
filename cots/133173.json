@@ -1,0 +1,10 @@
+{
+    "id": 133173,
+    "name": "audible",
+    "version": "november2017",
+    "created_at": "2018-01-10T17:43:10",
+    "updated_at": "2021-03-22T17:23:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:audible:november2017:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

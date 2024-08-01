@@ -1,0 +1,10 @@
+{
+    "id": 524768,
+    "name": "network_security_310_firmware",
+    "version": "3.7.10",
+    "created_at": "2020-04-13T15:02:54",
+    "updated_at": "2021-06-30T12:48:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:stormshield:network_security_310_firmware:3.7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

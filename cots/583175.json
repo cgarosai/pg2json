@@ -1,0 +1,10 @@
+{
+    "id": 583175,
+    "name": "munki_facts",
+    "version": "1.4",
+    "created_at": "2020-09-01T11:10:50",
+    "updated_at": "2020-09-01T11:10:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:munki_facts_project:munki_facts:1.4:*:*:*:*:munkireport:*:*",
+    "to_analyse": false
+}

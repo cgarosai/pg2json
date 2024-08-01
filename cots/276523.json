@@ -1,0 +1,10 @@
+{
+    "id": 276523,
+    "name": "fortify_software_security_center",
+    "version": "17.10",
+    "created_at": "2019-06-24T10:41:55",
+    "updated_at": "2019-06-24T10:41:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:fortify_software_security_center:17.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

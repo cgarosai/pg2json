@@ -1,0 +1,10 @@
+{
+    "id": 550524,
+    "name": "couchbase_server_java_sdk",
+    "version": "2.6",
+    "created_at": "2020-06-12T19:09:44",
+    "updated_at": "2020-06-12T19:09:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:couchbase:couchbase_server_java_sdk:2.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 376771,
+    "name": "cerber_security_antispam_\\&_malware_scan",
+    "version": "-",
+    "created_at": "2019-09-18T15:58:24",
+    "updated_at": "2019-09-18T15:58:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpcerber:cerber_security_antispam_\\&_malware_scan:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

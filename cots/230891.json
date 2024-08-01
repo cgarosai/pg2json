@@ -1,0 +1,10 @@
+{
+    "id": 230891,
+    "name": "g5_plus_firmware",
+    "version": "-",
+    "created_at": "2019-05-09T12:20:31",
+    "updated_at": "2021-06-16T14:00:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:chuango:g5_plus_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

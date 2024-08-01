@@ -1,0 +1,10 @@
+{
+    "id": 482802,
+    "name": "softco_firmware",
+    "version": "v200r003c50spc300",
+    "created_at": "2020-02-05T18:35:56",
+    "updated_at": "2020-02-05T18:35:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:softco_firmware:v200r003c50spc300:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

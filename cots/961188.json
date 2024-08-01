@@ -1,0 +1,10 @@
+{
+    "id": 961188,
+    "name": "soap",
+    "version": "1.2",
+    "created_at": "2022-11-15T18:04:56",
+    "updated_at": "2022-11-16T13:23:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:soap:1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

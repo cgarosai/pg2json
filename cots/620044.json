@@ -1,0 +1,10 @@
+{
+    "id": 620044,
+    "name": "big-ip_ssl_orchestrator",
+    "version": "14.1.2.5",
+    "created_at": "2020-12-07T14:54:59",
+    "updated_at": "2020-12-07T14:54:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:14.1.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

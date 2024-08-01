@@ -1,0 +1,10 @@
+{
+    "id": 22267,
+    "name": "opensso_enterprise",
+    "version": "8.0",
+    "created_at": "2010-04-14T18:30:31",
+    "updated_at": "2013-02-11T13:31:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:opensso_enterprise:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

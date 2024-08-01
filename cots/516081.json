@@ -1,0 +1,10 @@
+{
+    "id": 516081,
+    "name": "easyservice_billing",
+    "version": "1.0",
+    "created_at": "2020-03-12T16:54:12",
+    "updated_at": "2020-03-12T16:54:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:easyservice_billing_project:easyservice_billing:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

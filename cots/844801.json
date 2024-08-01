@@ -1,0 +1,10 @@
+{
+    "id": 844801,
+    "name": "c-gate_server",
+    "version": "2.11.7",
+    "created_at": "2022-02-23T17:47:27",
+    "updated_at": "2022-02-23T17:51:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:c-gate_server:2.11.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

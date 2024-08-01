@@ -1,0 +1,10 @@
+{
+    "id": 688424,
+    "name": "parse_duration",
+    "version": "1.0.0",
+    "created_at": "2021-04-01T15:37:01",
+    "updated_at": "2021-04-12T15:11:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:parse_duration_project:parse_duration:1.0.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

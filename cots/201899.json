@@ -1,0 +1,10 @@
+{
+    "id": 201899,
+    "name": "meeting_exchange",
+    "version": "5.0",
+    "created_at": "2019-02-27T16:57:39",
+    "updated_at": "2021-03-24T16:47:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avaya:meeting_exchange:5.0:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

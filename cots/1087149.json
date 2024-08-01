@@ -1,0 +1,10 @@
+{
+    "id": 1087149,
+    "name": "iot_yocto",
+    "version": "23.0",
+    "created_at": "2023-05-23T11:34:05",
+    "updated_at": "2023-07-11T13:06:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mediatek:iot_yocto:23.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

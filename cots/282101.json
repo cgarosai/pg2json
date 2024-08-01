@@ -1,0 +1,10 @@
+{
+    "id": 282101,
+    "name": "facter",
+    "version": "1.5.4",
+    "created_at": "2019-07-11T10:19:48",
+    "updated_at": "2019-07-11T10:19:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:facter:1.5.4:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

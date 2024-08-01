@@ -1,0 +1,10 @@
+{
+    "id": 547955,
+    "name": "malware_information_sharing_platform",
+    "version": "2.3.156",
+    "created_at": "2020-05-11T11:49:31",
+    "updated_at": "2020-05-11T11:49:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:misp-project:malware_information_sharing_platform:2.3.156:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

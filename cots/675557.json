@@ -1,0 +1,10 @@
+{
+    "id": 675557,
+    "name": "libjpeg-turbo",
+    "version": "2.1",
+    "created_at": "2021-03-10T17:17:55",
+    "updated_at": "2021-04-01T11:21:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libjpeg-turbo:libjpeg-turbo:2.1:beta1:*:*:*:*:*:*",
+    "to_analyse": false
+}

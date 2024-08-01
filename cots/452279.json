@@ -1,0 +1,10 @@
+{
+    "id": 452279,
+    "name": "galenframework-cli",
+    "version": "1.6.4",
+    "created_at": "2019-12-10T15:10:46",
+    "updated_at": "2019-12-10T15:10:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:galenframework:galenframework-cli:1.6.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

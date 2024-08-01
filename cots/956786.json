@@ -1,0 +1,10 @@
+{
+    "id": 956786,
+    "name": "fortiproxy",
+    "version": "1.2.13",
+    "created_at": "2022-10-18T15:15:08",
+    "updated_at": "2022-10-19T01:22:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiproxy:1.2.13:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

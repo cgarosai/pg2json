@@ -1,0 +1,10 @@
+{
+    "id": 25006,
+    "name": "libpng",
+    "version": "1.2.34",
+    "created_at": "2009-02-24T13:31:30",
+    "updated_at": "2012-06-15T13:21:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libpng:libpng:1.2.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 468200,
+    "name": "cronic",
+    "version": "3",
+    "created_at": "2019-12-19T11:35:38",
+    "updated_at": "2019-12-19T11:35:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cronic_project:cronic:3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1269709,
+    "name": "sensei_lms",
+    "version": "4.17.0",
+    "created_at": "2024-04-15T10:03:03",
+    "updated_at": "2024-04-15T10:03:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:sensei_lms:4.17.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

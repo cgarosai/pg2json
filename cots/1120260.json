@@ -1,0 +1,10 @@
+{
+    "id": 1120260,
+    "name": "open_babel",
+    "version": "3.0.0",
+    "created_at": "2023-07-27T14:28:13",
+    "updated_at": "2023-07-27T16:18:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openbabel:open_babel:3.0.0:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

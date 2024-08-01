@@ -1,0 +1,10 @@
+{
+    "id": 576137,
+    "name": "graphics_performance_analyzer",
+    "version": "2017",
+    "created_at": "2020-07-27T18:44:47",
+    "updated_at": "2020-07-27T18:44:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_performance_analyzer:2017:r1:*:*:*:linux:*:*",
+    "to_analyse": false
+}

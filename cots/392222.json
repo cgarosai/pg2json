@@ -1,0 +1,10 @@
+{
+    "id": 392222,
+    "name": "gofer",
+    "version": "0.68",
+    "created_at": "2019-10-03T13:31:48",
+    "updated_at": "2019-10-03T13:31:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gofer_project:gofer:0.68:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

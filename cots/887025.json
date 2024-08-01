@@ -1,0 +1,10 @@
+{
+    "id": 887025,
+    "name": "publisher",
+    "version": "2016",
+    "created_at": "2022-05-19T13:32:14",
+    "updated_at": "2022-11-27T12:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:publisher:2016:*:*:*:*:*:x86:*",
+    "to_analyse": false
+}

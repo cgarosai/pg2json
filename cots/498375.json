@@ -1,0 +1,10 @@
+{
+    "id": 498375,
+    "name": "ip_phone_8845_firmware",
+    "version": "10.3\\(2\\)",
+    "created_at": "2020-02-19T19:46:49",
+    "updated_at": "2020-02-19T19:46:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ip_phone_8845_firmware:10.3\\(2\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

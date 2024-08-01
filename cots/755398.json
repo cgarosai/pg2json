@@ -1,0 +1,10 @@
+{
+    "id": 755398,
+    "name": "cx2_firmware",
+    "version": "1.0.2",
+    "created_at": "2021-07-29T18:06:26",
+    "updated_at": "2023-02-07T18:01:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:motorola:cx2_firmware:1.0.2:build_20190508:*:*:*:*:*:*",
+    "to_analyse": false
+}

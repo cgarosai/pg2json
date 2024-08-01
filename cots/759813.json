@@ -1,0 +1,10 @@
+{
+    "id": 759813,
+    "name": "tarantool",
+    "version": "1.10.9",
+    "created_at": "2021-08-06T11:34:58",
+    "updated_at": "2021-08-12T19:36:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tarantool:tarantool:1.10.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

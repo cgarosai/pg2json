@@ -1,0 +1,10 @@
+{
+    "id": 1183367,
+    "name": "ruckus_cloudpath_enrollment_system",
+    "version": "5.2.3761",
+    "created_at": "2023-11-01T15:58:01",
+    "updated_at": "2023-11-01T15:58:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:commscope:ruckus_cloudpath_enrollment_system:5.2.3761:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

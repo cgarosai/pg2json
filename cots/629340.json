@@ -1,0 +1,10 @@
+{
+    "id": 629340,
+    "name": "ssd_pro_5400s_firmware",
+    "version": "lsf043p",
+    "created_at": "2020-12-04T17:39:52",
+    "updated_at": "2020-12-04T17:39:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:ssd_pro_5400s_firmware:lsf043p:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

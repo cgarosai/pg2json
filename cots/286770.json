@@ -1,0 +1,10 @@
+{
+    "id": 286770,
+    "name": "freeipa",
+    "version": "4.6.4",
+    "created_at": "2019-07-03T12:45:52",
+    "updated_at": "2019-07-03T12:45:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:freeipa:freeipa:4.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

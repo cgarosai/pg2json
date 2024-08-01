@@ -1,0 +1,10 @@
+{
+    "id": 886687,
+    "name": "5400r_firmware",
+    "version": "16.11.0004",
+    "created_at": "2022-05-18T10:54:04",
+    "updated_at": "2022-05-18T14:25:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:arubanetworks:5400r_firmware:16.11.0004:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

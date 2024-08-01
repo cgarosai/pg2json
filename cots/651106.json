@@ -1,0 +1,10 @@
+{
+    "id": 651106,
+    "name": "big-ip_domain_name_system",
+    "version": "15.1.2.1",
+    "created_at": "2021-02-16T13:18:16",
+    "updated_at": "2021-05-14T12:46:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.2.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 878714,
+    "name": "ad_injection",
+    "version": "1.2.0.19",
+    "created_at": "2022-04-26T11:26:27",
+    "updated_at": "2022-04-28T12:04:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ad_injection_project:ad_injection:1.2.0.19:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

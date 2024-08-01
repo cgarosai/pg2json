@@ -1,0 +1,10 @@
+{
+    "id": 135556,
+    "name": "astaro_security_gateway_firmware",
+    "version": "7.506",
+    "created_at": "2017-09-27T00:26:59",
+    "updated_at": "2021-05-27T12:53:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:sophos:astaro_security_gateway_firmware:7.506:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

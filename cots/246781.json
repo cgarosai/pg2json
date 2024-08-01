@@ -1,0 +1,10 @@
+{
+    "id": 246781,
+    "name": "modicon_quantum",
+    "version": "-",
+    "created_at": "2019-05-23T12:03:26",
+    "updated_at": "2021-05-11T12:45:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:schneider-electric:modicon_quantum:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

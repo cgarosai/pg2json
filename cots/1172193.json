@@ -1,0 +1,10 @@
+{
+    "id": 1172193,
+    "name": "caddy",
+    "version": "2.7.4",
+    "created_at": "2023-10-18T13:53:11",
+    "updated_at": "2023-10-18T13:53:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:caddyserver:caddy:2.7.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

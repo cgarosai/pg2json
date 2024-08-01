@@ -1,0 +1,10 @@
+{
+    "id": 55250,
+    "name": "scalance_s_firmware",
+    "version": "2.2.0",
+    "created_at": "2012-04-18T15:43:04",
+    "updated_at": "2012-04-18T19:52:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:siemens:scalance_s_firmware:2.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

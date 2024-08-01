@@ -1,0 +1,10 @@
+{
+    "id": 1144601,
+    "name": "vm-memory",
+    "version": "0.8.0",
+    "created_at": "2023-09-07T12:56:00",
+    "updated_at": "2023-09-09T00:40:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vm-memory_project:vm-memory:0.8.0:*:*:*:*:rust:*:*",
+    "to_analyse": false
+}

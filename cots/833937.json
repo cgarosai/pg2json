@@ -1,0 +1,10 @@
+{
+    "id": 833937,
+    "name": "rack_power_distribution_unit_with_network_management_card_3_firmware",
+    "version": "1.0.0.28",
+    "created_at": "2022-02-01T17:24:12",
+    "updated_at": "2022-09-14T15:05:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:rack_power_distribution_unit_with_network_management_card_3_firmware:1.0.0.28:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

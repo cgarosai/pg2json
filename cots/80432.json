@@ -1,0 +1,10 @@
+{
+    "id": 80432,
+    "name": "nexus",
+    "version": "2.5.0",
+    "created_at": "2014-01-21T12:59:17",
+    "updated_at": "2014-06-30T15:42:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sonatype:nexus:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

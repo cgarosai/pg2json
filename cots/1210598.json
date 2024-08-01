@@ -1,0 +1,10 @@
+{
+    "id": 1210598,
+    "name": "gpac",
+    "version": "2.1-dev-rev368-gfd054169b-master",
+    "created_at": "2023-12-16T03:28:17",
+    "updated_at": "2023-12-16T03:28:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

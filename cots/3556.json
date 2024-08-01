@@ -1,0 +1,10 @@
+{
+    "id": 3556,
+    "name": "d845pt_motherboard",
+    "version": "p01-0012",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-07T12:14:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:d845pt_motherboard:p01-0012:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

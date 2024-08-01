@@ -1,0 +1,10 @@
+{
+    "id": 1108619,
+    "name": "libcoap",
+    "version": "4.3.0",
+    "created_at": "2023-06-26T13:37:54",
+    "updated_at": "2023-06-26T14:17:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:libcoap:libcoap:4.3.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

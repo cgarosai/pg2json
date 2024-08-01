@@ -1,0 +1,10 @@
+{
+    "id": 51740,
+    "name": "analysis_center",
+    "version": "2.5.0",
+    "created_at": "2012-06-21T17:09:26",
+    "updated_at": "2021-04-09T14:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netiq:analysis_center:2.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

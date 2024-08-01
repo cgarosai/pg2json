@@ -1,0 +1,10 @@
+{
+    "id": 761964,
+    "name": "pac-resolver",
+    "version": "1.2.6",
+    "created_at": "2021-08-26T16:33:58",
+    "updated_at": "2021-08-26T18:45:45",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pac-resolver_project:pac-resolver:1.2.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

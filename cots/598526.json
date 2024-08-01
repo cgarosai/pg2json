@@ -1,0 +1,10 @@
+{
+    "id": 598526,
+    "name": "proliant_dl20_gen9_server",
+    "version": "-",
+    "created_at": "2020-09-11T11:17:25",
+    "updated_at": "2020-09-11T11:17:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hpe:proliant_dl20_gen9_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

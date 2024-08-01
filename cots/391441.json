@@ -1,0 +1,10 @@
+{
+    "id": 391441,
+    "name": "marklogic",
+    "version": "8.0-8",
+    "created_at": "2019-10-02T14:40:34",
+    "updated_at": "2019-10-02T14:40:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:marklogic:marklogic:8.0-8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

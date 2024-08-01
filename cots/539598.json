@@ -1,0 +1,10 @@
+{
+    "id": 539598,
+    "name": "d6100_firmware",
+    "version": "1.0.0.50_0.0.50",
+    "created_at": "2020-04-27T16:28:35",
+    "updated_at": "2020-04-27T16:28:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:d6100_firmware:1.0.0.50_0.0.50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

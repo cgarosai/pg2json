@@ -1,0 +1,10 @@
+{
+    "id": 740235,
+    "name": "allmediaserver",
+    "version": "0.94",
+    "created_at": "2021-07-23T14:00:12",
+    "updated_at": "2021-07-26T10:54:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:allmediaserver:allmediaserver:0.94:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

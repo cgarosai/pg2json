@@ -1,0 +1,10 @@
+{
+    "id": 548557,
+    "name": "sourcetree",
+    "version": "2.3.2",
+    "created_at": "2020-05-11T15:00:03",
+    "updated_at": "2020-05-11T15:00:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:sourcetree:2.3.2:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

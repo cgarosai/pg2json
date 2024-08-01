@@ -1,0 +1,10 @@
+{
+    "id": 1014102,
+    "name": "zonedirector_1100_firmware",
+    "version": "9.10.2.0.130",
+    "created_at": "2023-01-27T16:17:55",
+    "updated_at": "2023-01-31T14:03:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ruckuswireless:zonedirector_1100_firmware:9.10.2.0.130:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 418670,
+    "name": "vpn300_firmware",
+    "version": "-",
+    "created_at": "2019-10-24T15:01:21",
+    "updated_at": "2019-10-24T15:01:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:vpn300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 60570,
+    "name": "usbmuxd",
+    "version": "1.0.0",
+    "created_at": "2012-10-08T13:21:36",
+    "updated_at": "2012-10-08T23:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nikias_bassen:usbmuxd:1.0.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

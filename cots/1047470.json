@@ -1,0 +1,10 @@
+{
+    "id": 1047470,
+    "name": "utilities",
+    "version": "0.0.9",
+    "created_at": "2023-03-07T14:07:31",
+    "updated_at": "2023-03-07T14:41:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:utilities_project:utilities:0.0.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

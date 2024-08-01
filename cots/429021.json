@@ -1,0 +1,10 @@
+{
+    "id": 429021,
+    "name": "redis-store",
+    "version": "0.3.5",
+    "created_at": "2019-11-04T17:42:01",
+    "updated_at": "2019-11-04T17:42:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redis-store:redis-store:0.3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 505053,
+    "name": "ruamel.yaml",
+    "version": "0.14.4",
+    "created_at": "2020-02-27T20:37:41",
+    "updated_at": "2020-02-27T20:37:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ruamel.yaml_project:ruamel.yaml:0.14.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

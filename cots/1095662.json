@@ -1,0 +1,10 @@
+{
+    "id": 1095662,
+    "name": "globalprotect",
+    "version": "5.2.4",
+    "created_at": "2023-06-05T11:08:36",
+    "updated_at": "2023-06-05T11:28:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paloaltonetworks:globalprotect:5.2.4:*:*:*:*:universal_windows_platform:*:*",
+    "to_analyse": false
+}

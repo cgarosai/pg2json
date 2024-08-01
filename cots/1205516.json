@@ -1,0 +1,10 @@
+{
+    "id": 1205516,
+    "name": "arc_rgb_controller",
+    "version": "1.03",
+    "created_at": "2023-11-27T00:18:59",
+    "updated_at": "2023-11-27T00:18:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:arc_rgb_controller:1.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

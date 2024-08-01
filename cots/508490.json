@@ -1,0 +1,10 @@
+{
+    "id": 508490,
+    "name": "sap_kernel_krnl64nuc",
+    "version": "7.22",
+    "created_at": "2020-03-04T17:24:40",
+    "updated_at": "2020-03-04T17:24:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:sap_kernel_krnl64nuc:7.22:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 207495,
+    "name": "web_security_appliance",
+    "version": "11.5.1-fcs-115",
+    "created_at": "2019-02-08T20:43:09",
+    "updated_at": "2021-04-01T13:46:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:web_security_appliance:11.5.1-fcs-115:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

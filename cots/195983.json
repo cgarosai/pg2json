@@ -1,0 +1,10 @@
+{
+    "id": 195983,
+    "name": "opmanager",
+    "version": "12.3",
+    "created_at": "2018-12-02T18:46:57",
+    "updated_at": "2018-12-03T14:36:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:manageengine:opmanager:12.3:123161:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 669527,
+    "name": "fastify-http-proxy",
+    "version": "2.2.0",
+    "created_at": "2021-03-02T13:55:58",
+    "updated_at": "2021-03-04T14:54:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fastify-http-proxy_project:fastify-http-proxy:2.2.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

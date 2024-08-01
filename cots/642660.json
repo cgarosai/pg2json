@@ -1,0 +1,10 @@
+{
+    "id": 642660,
+    "name": "policy_automation_connector_for_siebel",
+    "version": "10.4.6",
+    "created_at": "2021-01-27T14:27:40",
+    "updated_at": "2021-01-27T14:27:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:policy_automation_connector_for_siebel:10.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

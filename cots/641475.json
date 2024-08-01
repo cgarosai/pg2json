@@ -1,0 +1,10 @@
+{
+    "id": 641475,
+    "name": "advanced_networking_option",
+    "version": "18c",
+    "created_at": "2021-01-25T16:38:40",
+    "updated_at": "2021-01-25T16:38:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:advanced_networking_option:18c:*:*:*:*:*:*:.",
+    "to_analyse": false
+}

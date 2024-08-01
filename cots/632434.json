@@ -1,0 +1,10 @@
+{
+    "id": 632434,
+    "name": "td-agent-builder",
+    "version": "2020-12-18",
+    "created_at": "2020-12-30T14:19:28",
+    "updated_at": "2020-12-30T14:19:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:td-agent-builder_project:td-agent-builder:2020-12-18:*:*:*:*:fluentd:*:*",
+    "to_analyse": false
+}

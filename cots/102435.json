@@ -1,0 +1,10 @@
+{
+    "id": 102435,
+    "name": "foomatic-filters",
+    "version": "4.0.7",
+    "created_at": "2015-12-18T15:48:09",
+    "updated_at": "2015-12-18T15:48:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:linuxfoundation:foomatic-filters:4.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

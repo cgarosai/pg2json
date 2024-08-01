@@ -1,0 +1,10 @@
+{
+    "id": 557057,
+    "name": "egroupware",
+    "version": "17.1.20180720",
+    "created_at": "2020-06-01T15:34:26",
+    "updated_at": "2020-06-01T15:34:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:egroupware:egroupware:17.1.20180720:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

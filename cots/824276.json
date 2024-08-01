@@ -1,0 +1,10 @@
+{
+    "id": 824276,
+    "name": "mt7610_firmware",
+    "version": "7.4.0.0",
+    "created_at": "2022-01-06T14:20:05",
+    "updated_at": "2022-04-20T13:56:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mediatek:mt7610_firmware:7.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

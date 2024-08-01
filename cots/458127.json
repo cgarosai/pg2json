@@ -1,0 +1,10 @@
+{
+    "id": 458127,
+    "name": "docker-alpine",
+    "version": "3.7",
+    "created_at": "2019-12-09T12:39:25",
+    "updated_at": "2019-12-09T12:39:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gliderlabs:docker-alpine:3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

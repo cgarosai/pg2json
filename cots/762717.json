@@ -1,0 +1,10 @@
+{
+    "id": 762717,
+    "name": "object-path",
+    "version": "0.11.6",
+    "created_at": "2021-08-31T11:24:09",
+    "updated_at": "2021-09-09T10:42:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:object-path_project:object-path:0.11.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

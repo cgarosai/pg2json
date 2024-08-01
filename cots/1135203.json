@@ -1,0 +1,10 @@
+{
+    "id": 1135203,
+    "name": "arm_compiler_for_embedded",
+    "version": "6.19",
+    "created_at": "2023-08-07T09:41:40",
+    "updated_at": "2023-08-11T21:50:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:arm_compiler_for_embedded:6.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

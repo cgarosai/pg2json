@@ -1,0 +1,10 @@
+{
+    "id": 328391,
+    "name": "mini-httpd",
+    "version": "1.01",
+    "created_at": "2019-08-01T11:35:30",
+    "updated_at": "2019-08-01T11:35:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:acme:mini-httpd:1.01:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

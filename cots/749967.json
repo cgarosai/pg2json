@@ -1,0 +1,10 @@
+{
+    "id": 749967,
+    "name": "ntpsec",
+    "version": "1.1.8",
+    "created_at": "2021-07-23T11:30:50",
+    "updated_at": "2021-07-26T14:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ntpsec:ntpsec:1.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

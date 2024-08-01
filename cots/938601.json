@@ -1,0 +1,10 @@
+{
+    "id": 938601,
+    "name": "fortiap-s",
+    "version": "6.4.6",
+    "created_at": "2022-09-08T11:22:24",
+    "updated_at": "2022-09-10T00:28:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fortinet:fortiap-s:6.4.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

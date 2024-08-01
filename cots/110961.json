@@ -1,0 +1,10 @@
+{
+    "id": 110961,
+    "name": "ch226_v3_server_firmware",
+    "version": "v100r001c00",
+    "created_at": "2016-09-09T00:07:50",
+    "updated_at": "2021-06-21T15:14:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ch226_v3_server_firmware:v100r001c00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

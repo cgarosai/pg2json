@@ -1,0 +1,10 @@
+{
+    "id": 462345,
+    "name": "ar150-s_firmware",
+    "version": "v200r008c50",
+    "created_at": "2020-01-05T14:21:54",
+    "updated_at": "2020-01-05T14:21:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ar150-s_firmware:v200r008c50:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

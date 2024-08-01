@@ -1,0 +1,10 @@
+{
+    "id": 960413,
+    "name": "server_debug_and_provisioning_tool",
+    "version": "4.1.2",
+    "created_at": "2022-11-14T18:13:12",
+    "updated_at": "2022-11-14T18:44:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:server_debug_and_provisioning_tool:4.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

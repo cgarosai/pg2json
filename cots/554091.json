@@ -1,0 +1,10 @@
+{
+    "id": 554091,
+    "name": "installshield",
+    "version": "2015",
+    "created_at": "2020-06-23T15:15:59",
+    "updated_at": "2020-06-23T15:15:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:flexera:installshield:2015:sp1:*:*:*:*:*:*",
+    "to_analyse": false
+}

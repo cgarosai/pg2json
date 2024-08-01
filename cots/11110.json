@@ -1,0 +1,10 @@
+{
+    "id": 11110,
+    "name": "internet_security_systems_blackice_defender",
+    "version": "2.9cap",
+    "created_at": "2007-12-18T16:41:46",
+    "updated_at": "2007-12-18T16:41:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:internet_security_systems_blackice_defender:2.9cap:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

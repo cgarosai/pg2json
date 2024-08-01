@@ -1,0 +1,10 @@
+{
+    "id": 895382,
+    "name": "4g_lte_network_extender",
+    "version": "-",
+    "created_at": "2022-06-08T16:26:51",
+    "updated_at": "2022-06-08T17:23:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:verizon:4g_lte_network_extender:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 424351,
+    "name": "susu-sum",
+    "version": "1.0.0",
+    "created_at": "2019-11-08T17:10:59",
+    "updated_at": "2019-11-08T17:10:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:susu-sum_project:susu-sum:1.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

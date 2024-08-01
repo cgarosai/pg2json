@@ -1,0 +1,10 @@
+{
+    "id": 1244743,
+    "name": "bluez-utils",
+    "version": "3.34",
+    "created_at": "2024-02-06T19:38:19",
+    "updated_at": "2024-02-06T19:38:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluez:bluez-utils:3.34:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 590815,
+    "name": "gateway_trb245_firmware",
+    "version": "trb2_r_00.02.02",
+    "created_at": "2020-09-16T11:25:21",
+    "updated_at": "2020-09-16T11:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:teltonika-networks:gateway_trb245_firmware:trb2_r_00.02.02:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

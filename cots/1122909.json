@@ -1,0 +1,10 @@
+{
+    "id": 1122909,
+    "name": "vyper",
+    "version": "0.1.0",
+    "created_at": "2023-08-02T13:40:14",
+    "updated_at": "2023-08-02T14:22:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vyperlang:vyper:0.1.0:beta6:*:*:*:python:*:*",
+    "to_analyse": false
+}

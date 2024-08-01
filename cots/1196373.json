@@ -1,0 +1,10 @@
+{
+    "id": 1196373,
+    "name": "nessus_agent",
+    "version": "10.4.1",
+    "created_at": "2023-11-07T16:16:58",
+    "updated_at": "2023-11-07T16:16:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tenable:nessus_agent:10.4.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

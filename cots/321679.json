@@ -1,0 +1,10 @@
+{
+    "id": 321679,
+    "name": "iedriver",
+    "version": "3.4.0",
+    "created_at": "2019-08-01T14:56:17",
+    "updated_at": "2019-08-01T14:56:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:iedriver_project:iedriver:3.4.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

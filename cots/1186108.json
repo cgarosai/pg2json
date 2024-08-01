@@ -1,0 +1,10 @@
+{
+    "id": 1186108,
+    "name": "certification_for_red_hat_enterprise_linux",
+    "version": "9.0",
+    "created_at": "2023-10-25T03:38:59",
+    "updated_at": "2023-10-25T03:38:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:certification_for_red_hat_enterprise_linux:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

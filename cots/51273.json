@@ -1,0 +1,10 @@
+{
+    "id": 51273,
+    "name": "ws_ftp_server_with_ssh",
+    "version": "6.1.0",
+    "created_at": "2012-06-21T17:07:16",
+    "updated_at": "2019-08-13T12:40:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ipswitch:ws_ftp_server_with_ssh:6.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

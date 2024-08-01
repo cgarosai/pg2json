@@ -1,0 +1,10 @@
+{
+    "id": 195400,
+    "name": "enterprise_developer",
+    "version": "4.0",
+    "created_at": "2018-11-28T16:50:47",
+    "updated_at": "2021-04-13T12:08:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microfocus:enterprise_developer:4.0:update1:*:*:*:*:*:*",
+    "to_analyse": false
+}

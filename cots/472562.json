@@ -1,0 +1,10 @@
+{
+    "id": 472562,
+    "name": "tor_browser_launcher",
+    "version": "0.0.3",
+    "created_at": "2020-01-23T12:23:52",
+    "updated_at": "2020-01-23T12:23:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tor_browser_launcher_project:tor_browser_launcher:0.0.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

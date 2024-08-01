@@ -1,0 +1,10 @@
+{
+    "id": 928694,
+    "name": "gomatrixserverlib",
+    "version": "-",
+    "created_at": "2022-08-23T16:11:12",
+    "updated_at": "2022-08-24T10:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:gomatrixserverlib:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

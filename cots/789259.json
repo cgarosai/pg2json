@@ -1,0 +1,10 @@
+{
+    "id": 789259,
+    "name": "galera_webtemplate",
+    "version": "1.0",
+    "created_at": "2021-10-05T13:40:32",
+    "updated_at": "2021-10-19T09:44:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:galera:galera_webtemplate:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 727498,
+    "name": "wp-cli",
+    "version": "1.4.0",
+    "created_at": "2021-06-11T12:59:41",
+    "updated_at": "2021-06-11T17:01:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-cli:wp-cli:1.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

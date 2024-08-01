@@ -1,0 +1,10 @@
+{
+    "id": 578466,
+    "name": "twincat",
+    "version": "2.11.0.2120",
+    "created_at": "2020-08-03T09:16:57",
+    "updated_at": "2020-08-03T09:16:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:beckhoff:twincat:2.11.0.2120:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

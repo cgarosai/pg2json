@@ -1,0 +1,10 @@
+{
+    "id": 708240,
+    "name": "gparted",
+    "version": "0.8.0",
+    "created_at": "2021-05-13T09:17:28",
+    "updated_at": "2021-05-13T09:19:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gparted:gparted:0.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

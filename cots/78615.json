@@ -1,0 +1,10 @@
+{
+    "id": 78615,
+    "name": "application_support_facility",
+    "version": "3.4.0",
+    "created_at": "2013-04-29T11:24:11",
+    "updated_at": "2013-04-30T23:38:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:application_support_facility:3.4.0:-:*:*:*:windows:*:*",
+    "to_analyse": false
+}

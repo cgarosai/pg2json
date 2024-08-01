@@ -1,0 +1,10 @@
+{
+    "id": 1210300,
+    "name": "kylin-system-updater",
+    "version": "1.4.20kord",
+    "created_at": "2023-12-16T03:01:59",
+    "updated_at": "2023-12-16T03:01:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ubuntukylin:kylin-system-updater:1.4.20kord:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

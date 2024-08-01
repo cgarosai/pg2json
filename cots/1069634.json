@@ -1,0 +1,10 @@
+{
+    "id": 1069634,
+    "name": "odbc",
+    "version": "17.0",
+    "created_at": "2023-04-13T11:23:53",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:odbc:17.0:*:*:*:*:sql_server:*:*",
+    "to_analyse": false
+}

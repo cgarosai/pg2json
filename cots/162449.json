@@ -1,0 +1,10 @@
+{
+    "id": 162449,
+    "name": "firepower_appliance_8390_firmware",
+    "version": "6.2.0",
+    "created_at": "2018-08-14T12:15:48",
+    "updated_at": "2021-04-20T13:55:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:firepower_appliance_8390_firmware:6.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 782919,
+    "name": "wr21_firmware",
+    "version": "-",
+    "created_at": "2021-10-12T13:46:08",
+    "updated_at": "2021-10-12T14:50:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:digi:wr21_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

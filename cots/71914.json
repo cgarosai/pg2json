@@ -1,0 +1,10 @@
+{
+    "id": 71914,
+    "name": "jboss_web_framework_kit",
+    "version": "1.0.0",
+    "created_at": "2013-07-23T11:51:06",
+    "updated_at": "2013-07-24T12:15:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:jboss_web_framework_kit:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

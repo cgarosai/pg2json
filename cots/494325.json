@@ -1,0 +1,10 @@
+{
+    "id": 494325,
+    "name": "riot",
+    "version": "2017.01",
+    "created_at": "2020-02-27T12:56:35",
+    "updated_at": "2020-02-27T12:56:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:riot_project:riot:2017.01:devel:*:*:*:*:*:*",
+    "to_analyse": false
+}

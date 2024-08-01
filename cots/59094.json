@@ -1,0 +1,10 @@
+{
+    "id": 59094,
+    "name": "version_control_agent",
+    "version": "2.2.0.820",
+    "created_at": "2012-05-14T21:33:11",
+    "updated_at": "2012-05-14T21:33:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:version_control_agent:2.2.0.820:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

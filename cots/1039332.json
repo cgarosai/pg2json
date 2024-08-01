@@ -1,0 +1,10 @@
+{
+    "id": 1039332,
+    "name": "mind-elixir",
+    "version": "0.19.3",
+    "created_at": "2023-02-27T16:35:44",
+    "updated_at": "2023-02-27T17:37:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mind-elixir_project:mind-elixir:0.19.3:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

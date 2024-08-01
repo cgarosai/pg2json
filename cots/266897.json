@@ -1,0 +1,10 @@
+{
+    "id": 266897,
+    "name": "synapse",
+    "version": "0.30.0",
+    "created_at": "2019-06-14T13:00:59",
+    "updated_at": "2019-06-14T13:00:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:matrix:synapse:0.30.0:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

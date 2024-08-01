@@ -1,0 +1,10 @@
+{
+    "id": 136282,
+    "name": "pcd_controllers_firmware",
+    "version": "1.28.11",
+    "created_at": "2017-10-16T10:00:24",
+    "updated_at": "2021-06-28T14:10:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:saia_burgess_controls:pcd_controllers_firmware:1.28.11:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

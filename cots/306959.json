@@ -1,0 +1,10 @@
+{
+    "id": 306959,
+    "name": "antivirus",
+    "version": "2014.9.0.2016",
+    "created_at": "2019-07-19T12:05:56",
+    "updated_at": "2019-07-19T12:05:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:avast:antivirus:2014.9.0.2016:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

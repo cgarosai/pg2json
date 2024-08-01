@@ -1,0 +1,10 @@
+{
+    "id": 95347,
+    "name": "show_in_browser",
+    "version": "0.0.2",
+    "created_at": "2014-04-23T09:53:20",
+    "updated_at": "2014-04-30T23:09:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jonathan_leung:show_in_browser:0.0.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

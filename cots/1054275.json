@@ -1,0 +1,10 @@
+{
+    "id": 1054275,
+    "name": "gtmetrix",
+    "version": "0.4.5",
+    "created_at": "2023-04-04T15:46:26",
+    "updated_at": "2023-04-07T17:45:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gtmetrix:gtmetrix:0.4.5:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

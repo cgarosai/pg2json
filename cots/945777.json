@@ -1,0 +1,10 @@
+{
+    "id": 945777,
+    "name": "wildfly_deployer",
+    "version": "1.0.2",
+    "created_at": "2022-09-22T11:40:56",
+    "updated_at": "2022-10-11T13:07:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:wildfly_deployer:1.0.2:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

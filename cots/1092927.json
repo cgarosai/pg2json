@@ -1,0 +1,10 @@
+{
+    "id": 1092927,
+    "name": "wp_activity_log",
+    "version": "2.4.2",
+    "created_at": "2023-06-14T17:10:19",
+    "updated_at": "2023-06-14T17:21:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpwhitesecurity:wp_activity_log:2.4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

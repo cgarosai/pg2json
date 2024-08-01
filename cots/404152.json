@@ -1,0 +1,10 @@
+{
+    "id": 404152,
+    "name": "google_oauth_credentials",
+    "version": "0.10",
+    "created_at": "2019-10-21T10:29:39",
+    "updated_at": "2019-10-21T10:29:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:google_oauth_credentials:0.10:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 385354,
+    "name": "method-override",
+    "version": "2.3.9",
+    "created_at": "2019-09-23T15:49:35",
+    "updated_at": "2019-09-23T15:49:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:expressjs:method-override:2.3.9:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

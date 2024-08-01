@@ -1,0 +1,10 @@
+{
+    "id": 862367,
+    "name": "nginx_proxy_manager",
+    "version": "2.9.15",
+    "created_at": "2022-04-08T11:31:38",
+    "updated_at": "2022-04-08T16:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jc21:nginx_proxy_manager:2.9.15:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 920597,
+    "name": "h200_firmware",
+    "version": "h200v100r004",
+    "created_at": "2022-08-25T19:13:04",
+    "updated_at": "2022-08-25T19:15:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:h3c:h200_firmware:h200v100r004:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

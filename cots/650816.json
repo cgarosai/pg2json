@@ -1,0 +1,10 @@
+{
+    "id": 650816,
+    "name": "wire",
+    "version": "3.52",
+    "created_at": "2021-02-12T17:53:06",
+    "updated_at": "2021-04-16T14:52:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wire:wire:3.52:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

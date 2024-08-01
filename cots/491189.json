@@ -1,0 +1,10 @@
+{
+    "id": 491189,
+    "name": "syncserver_s200_firmware",
+    "version": "1.30",
+    "created_at": "2020-02-24T13:44:22",
+    "updated_at": "2020-02-24T13:44:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microchip:syncserver_s200_firmware:1.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

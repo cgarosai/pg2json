@@ -1,0 +1,10 @@
+{
+    "id": 886799,
+    "name": "epyc_7413_firmware",
+    "version": "milanpi-sp3_1.0.0.7",
+    "created_at": "2022-05-18T14:57:30",
+    "updated_at": "2022-05-18T15:43:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amd:epyc_7413_firmware:milanpi-sp3_1.0.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 29736,
+    "name": "sql_packager",
+    "version": "5.4",
+    "created_at": "2009-11-25T17:35:15",
+    "updated_at": "2009-11-25T17:35:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:red-gate:sql_packager:5.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

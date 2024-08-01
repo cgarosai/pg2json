@@ -1,0 +1,10 @@
+{
+    "id": 757948,
+    "name": "sinumerik_manage_mymachines_firmware",
+    "version": "-",
+    "created_at": "2021-08-04T11:16:49",
+    "updated_at": "2022-04-04T15:37:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:sinumerik_manage_mymachines_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

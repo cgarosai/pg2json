@@ -1,0 +1,10 @@
+{
+    "id": 1152682,
+    "name": "wireless_display_adapter_firmware",
+    "version": "-",
+    "created_at": "2023-09-22T11:06:58",
+    "updated_at": "2023-09-22T11:06:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:microsoft:wireless_display_adapter_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

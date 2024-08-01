@@ -1,0 +1,10 @@
+{
+    "id": 642594,
+    "name": "enterprise_manager_for_mysql_database",
+    "version": "13.2.4.0.0",
+    "created_at": "2021-01-27T14:27:24",
+    "updated_at": "2021-01-27T14:27:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_manager_for_mysql_database:13.2.4.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 765665,
+    "name": "newsmag",
+    "version": "4.2",
+    "created_at": "2021-08-17T13:18:48",
+    "updated_at": "2021-08-17T21:34:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tagdiv:newsmag:4.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

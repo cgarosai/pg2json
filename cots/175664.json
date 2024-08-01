@@ -1,0 +1,10 @@
+{
+    "id": 175664,
+    "name": "atom_c",
+    "version": "c3336",
+    "created_at": "2018-09-10T12:51:39",
+    "updated_at": "2023-09-25T18:17:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:atom_c:c3336:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

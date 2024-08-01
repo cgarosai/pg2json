@@ -1,0 +1,10 @@
+{
+    "id": 1200110,
+    "name": "bouncy_castle_for_java",
+    "version": "1.73",
+    "created_at": "2023-12-01T12:06:12",
+    "updated_at": "2023-12-01T12:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bouncycastle:bouncy_castle_for_java:1.73:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

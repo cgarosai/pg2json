@@ -1,0 +1,10 @@
+{
+    "id": 1104468,
+    "name": "semver",
+    "version": "7.3.4",
+    "created_at": "2023-07-05T11:10:46",
+    "updated_at": "2023-07-05T12:34:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:npmjs:semver:7.3.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

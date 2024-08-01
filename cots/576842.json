@@ -1,0 +1,10 @@
+{
+    "id": 576842,
+    "name": "mt44_firmware",
+    "version": "-",
+    "created_at": "2020-07-28T10:43:02",
+    "updated_at": "2021-06-25T13:15:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:mt44_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

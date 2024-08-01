@@ -1,0 +1,10 @@
+{
+    "id": 323199,
+    "name": "routerboard",
+    "version": "6.39.2",
+    "created_at": "2019-08-02T12:41:57",
+    "updated_at": "2019-08-02T12:41:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mikrotik:routerboard:6.39.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

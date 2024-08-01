@@ -1,0 +1,10 @@
+{
+    "id": 135843,
+    "name": "uro_node",
+    "version": "1.0.5",
+    "created_at": "2017-09-29T16:54:00",
+    "updated_at": "2021-08-10T14:22:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:uronode:uro_node:1.0.5:r3:*:*:*:*:*:*",
+    "to_analyse": false
+}

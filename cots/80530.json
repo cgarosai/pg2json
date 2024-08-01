@@ -1,0 +1,10 @@
+{
+    "id": 80530,
+    "name": "tivoli_federated_identity_manager",
+    "version": "6.2.2.4",
+    "created_at": "2014-01-22T15:08:34",
+    "updated_at": "2014-01-22T15:15:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:tivoli_federated_identity_manager:6.2.2.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

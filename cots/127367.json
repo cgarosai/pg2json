@@ -1,0 +1,10 @@
+{
+    "id": 127367,
+    "name": "utps_firmware",
+    "version": "v200r003b015d15sp00c983",
+    "created_at": "2017-04-10T16:52:19",
+    "updated_at": "2021-08-20T12:32:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:utps_firmware:v200r003b015d15sp00c983:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

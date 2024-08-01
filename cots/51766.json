@@ -1,0 +1,10 @@
+{
+    "id": 51766,
+    "name": "security_manager_log_archive_resource_kit",
+    "version": "1.0.0",
+    "created_at": "2012-06-21T17:09:35",
+    "updated_at": "2021-04-13T15:12:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netiq:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

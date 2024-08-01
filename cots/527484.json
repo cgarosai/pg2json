@@ -1,0 +1,10 @@
+{
+    "id": 527484,
+    "name": "cloud_foundry_deployment",
+    "version": "6.4.0",
+    "created_at": "2020-04-01T17:45:51",
+    "updated_at": "2020-04-01T17:45:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal:cloud_foundry_deployment:6.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

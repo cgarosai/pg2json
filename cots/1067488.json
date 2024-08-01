@@ -1,0 +1,10 @@
+{
+    "id": 1067488,
+    "name": "packet_data_network_gateway",
+    "version": "21.27.0",
+    "created_at": "2023-04-11T14:23:19",
+    "updated_at": "2023-06-21T14:34:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:packet_data_network_gateway:21.27.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

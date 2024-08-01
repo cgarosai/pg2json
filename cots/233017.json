@@ -1,0 +1,10 @@
+{
+    "id": 233017,
+    "name": "spring_advanced_message_queuing_protocol",
+    "version": "2.1.0",
+    "created_at": "2019-05-13T09:53:08",
+    "updated_at": "2019-05-13T09:53:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pivotal_software:spring_advanced_message_queuing_protocol:2.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 637296,
+    "name": "kubevirt",
+    "version": "0.13.7",
+    "created_at": "2020-12-15T14:58:14",
+    "updated_at": "2020-12-15T14:58:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubevirt:kubevirt:0.13.7:*:*:*:*:kubernetes:*:*",
+    "to_analyse": false
+}

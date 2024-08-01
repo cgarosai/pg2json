@@ -1,0 +1,10 @@
+{
+    "id": 573081,
+    "name": "wifi_switch_eu",
+    "version": "-",
+    "created_at": "2020-08-11T12:22:52",
+    "updated_at": "2020-08-11T12:22:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mystrom:wifi_switch_eu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

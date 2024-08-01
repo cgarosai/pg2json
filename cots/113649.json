@@ -1,0 +1,10 @@
+{
+    "id": 113649,
+    "name": "vsphere_data_protection",
+    "version": "6.1.2",
+    "created_at": "2016-12-29T17:46:43",
+    "updated_at": "2016-12-29T17:46:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:vmware:vsphere_data_protection:6.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

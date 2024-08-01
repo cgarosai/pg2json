@@ -1,0 +1,10 @@
+{
+    "id": 557908,
+    "name": "price_oracle",
+    "version": "2.0",
+    "created_at": "2020-06-03T16:53:37",
+    "updated_at": "2020-06-03T16:53:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:compound:price_oracle:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

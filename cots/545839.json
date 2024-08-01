@@ -1,0 +1,10 @@
+{
+    "id": 545839,
+    "name": "telegram",
+    "version": "5.14",
+    "created_at": "2020-05-05T15:42:24",
+    "updated_at": "2020-05-05T15:42:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:telegram:telegram:5.14:*:*:*:*:iphone_os:*:*",
+    "to_analyse": false
+}

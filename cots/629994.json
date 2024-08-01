@@ -1,0 +1,10 @@
+{
+    "id": 629994,
+    "name": "coreos",
+    "version": "05.65.00.bd",
+    "created_at": "2020-12-07T14:11:29",
+    "updated_at": "2020-12-07T14:11:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:mitsubishielectric:coreos:05.65.00.bd:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

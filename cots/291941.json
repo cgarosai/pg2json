@@ -1,0 +1,10 @@
+{
+    "id": 291941,
+    "name": "apt-xapian-index",
+    "version": "0.20",
+    "created_at": "2019-07-17T11:37:06",
+    "updated_at": "2019-07-17T11:37:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:canonical:apt-xapian-index:0.20:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

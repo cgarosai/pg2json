@@ -1,0 +1,10 @@
+{
+    "id": 432618,
+    "name": "exhibitor",
+    "version": "1.0.0",
+    "created_at": "2019-11-20T15:24:24",
+    "updated_at": "2019-11-20T15:24:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:exhibitor_project:exhibitor:1.0.0:beta7:*:*:*:*:*:*",
+    "to_analyse": false
+}

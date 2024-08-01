@@ -1,0 +1,10 @@
+{
+    "id": 405003,
+    "name": "airmail_3",
+    "version": "3.5.9",
+    "created_at": "2019-10-08T09:26:05",
+    "updated_at": "2020-05-04T11:43:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os:*:*",
+    "to_analyse": false
+}

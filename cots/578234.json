@@ -1,0 +1,10 @@
+{
+    "id": 578234,
+    "name": "evolution-data-server",
+    "version": "3.95.91",
+    "created_at": "2020-07-30T14:45:28",
+    "updated_at": "2020-07-30T14:45:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnome:evolution-data-server:3.95.91:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

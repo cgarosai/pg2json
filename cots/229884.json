@@ -1,0 +1,10 @@
+{
+    "id": 229884,
+    "name": "synopsys_detect",
+    "version": "1.2.0",
+    "created_at": "2019-04-16T14:02:59",
+    "updated_at": "2019-04-16T14:02:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:synopsys_detect:1.2.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

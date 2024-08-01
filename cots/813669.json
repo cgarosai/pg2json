@@ -1,0 +1,10 @@
+{
+    "id": 813669,
+    "name": "compact_5500r_firmware",
+    "version": "8.0b",
+    "created_at": "2021-12-09T17:06:59",
+    "updated_at": "2022-09-19T14:43:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:auerswald:compact_5500r_firmware:8.0b:build000:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 633340,
+    "name": "twitter-server",
+    "version": "20.5.0",
+    "created_at": "2021-01-04T13:42:12",
+    "updated_at": "2021-01-04T13:42:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:twitter:twitter-server:20.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

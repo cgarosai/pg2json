@@ -1,0 +1,10 @@
+{
+    "id": 54409,
+    "name": "telepresence_system_software",
+    "version": "tc3.1.4",
+    "created_at": "2012-07-12T12:47:08",
+    "updated_at": "2012-07-25T16:29:56",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:telepresence_system_software:tc3.1.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

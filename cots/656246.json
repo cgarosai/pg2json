@@ -1,0 +1,10 @@
+{
+    "id": 656246,
+    "name": "monal",
+    "version": "4.8",
+    "created_at": "2021-02-03T16:25:39",
+    "updated_at": "2021-02-03T16:25:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:monal:monal:4.8:*:*:*:*:macos:*:*",
+    "to_analyse": false
+}

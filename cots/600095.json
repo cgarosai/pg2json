@@ -1,0 +1,10 @@
+{
+    "id": 600095,
+    "name": "webrick",
+    "version": "1.4.3",
+    "created_at": "2020-10-07T15:43:57",
+    "updated_at": "2021-06-03T17:07:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ruby-lang:webrick:1.4.3:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

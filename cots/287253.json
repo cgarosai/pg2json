@@ -1,0 +1,10 @@
+{
+    "id": 287253,
+    "name": "ibackup",
+    "version": "3.0.0.19",
+    "created_at": "2019-07-03T13:20:42",
+    "updated_at": "2020-05-11T16:39:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pro_softnet:ibackup:3.0.0.19:*:*:*:*:mac_os_x:*:*",
+    "to_analyse": false
+}

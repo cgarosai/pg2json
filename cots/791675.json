@@ -1,0 +1,10 @@
+{
+    "id": 791675,
+    "name": "peloton",
+    "version": "-",
+    "created_at": "2021-10-27T15:54:04",
+    "updated_at": "2022-09-07T23:36:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:onepeloton:peloton:-:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

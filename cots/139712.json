@@ -1,0 +1,10 @@
+{
+    "id": 139712,
+    "name": "orion_application_server",
+    "version": "2.0.5",
+    "created_at": "2017-11-30T11:03:12",
+    "updated_at": "2021-05-20T11:08:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:orionserver:orion_application_server:2.0.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

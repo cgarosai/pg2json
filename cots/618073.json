@@ -1,0 +1,10 @@
+{
+    "id": 618073,
+    "name": "exposure_notifications",
+    "version": "1.5",
+    "created_at": "2020-11-06T11:10:20",
+    "updated_at": "2020-11-06T11:10:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:exposure_notifications:1.5:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

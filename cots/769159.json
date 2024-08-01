@@ -1,0 +1,10 @@
+{
+    "id": 769159,
+    "name": "wapt",
+    "version": "-",
+    "created_at": "2021-08-24T11:41:33",
+    "updated_at": "2021-09-10T11:05:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tranquil:wapt:-:*:*:*:community:*:*:*",
+    "to_analyse": false
+}

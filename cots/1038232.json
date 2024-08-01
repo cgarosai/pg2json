@@ -1,0 +1,10 @@
+{
+    "id": 1038232,
+    "name": "butterfly-button",
+    "version": "-",
+    "created_at": "2023-02-23T16:43:55",
+    "updated_at": "2023-09-09T01:45:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:butterfly-button_project:butterfly-button:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

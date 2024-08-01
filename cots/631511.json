@@ -1,0 +1,10 @@
+{
+    "id": 631511,
+    "name": "xpdf",
+    "version": "3.00",
+    "created_at": "2020-12-23T18:25:37",
+    "updated_at": "2020-12-23T18:25:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xpdfreader:xpdf:3.00:pl2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 476783,
+    "name": "pentium_silver_n5000_firmware",
+    "version": "26.20.100.6859",
+    "created_at": "2020-01-13T13:15:12",
+    "updated_at": "2020-01-13T13:15:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:pentium_silver_n5000_firmware:26.20.100.6859:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

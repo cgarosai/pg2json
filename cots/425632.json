@@ -1,0 +1,10 @@
+{
+    "id": 425632,
+    "name": "video_converter",
+    "version": "0.0.7",
+    "created_at": "2019-11-01T10:54:39",
+    "updated_at": "2019-11-01T10:54:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:video_converter_project:video_converter:0.0.7:*:*:*:*:nextcloud:*:*",
+    "to_analyse": false
+}

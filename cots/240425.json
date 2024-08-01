@@ -1,0 +1,10 @@
+{
+    "id": 240425,
+    "name": "pidgin",
+    "version": "2.6.3",
+    "created_at": "2019-06-03T15:16:13",
+    "updated_at": "2019-06-03T15:16:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pidgin:pidgin:2.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

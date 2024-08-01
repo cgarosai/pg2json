@@ -1,0 +1,10 @@
+{
+    "id": 17752,
+    "name": "message_store_sams",
+    "version": "3.1.8",
+    "created_at": "2007-08-23T19:16:59",
+    "updated_at": "2008-04-01T14:42:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sendmail:message_store_sams:3.1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

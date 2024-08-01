@@ -1,0 +1,10 @@
+{
+    "id": 965293,
+    "name": "octorpki",
+    "version": "1.4.3",
+    "created_at": "2022-10-31T15:26:55",
+    "updated_at": "2022-11-04T16:09:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudflare:octorpki:1.4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

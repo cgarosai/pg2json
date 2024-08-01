@@ -1,0 +1,10 @@
+{
+    "id": 340745,
+    "name": "integrated_management_controller_supervisor",
+    "version": "1.5\\(9g\\)",
+    "created_at": "2019-08-28T16:24:00",
+    "updated_at": "2021-04-12T17:14:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:integrated_management_controller_supervisor:1.5\\(9g\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

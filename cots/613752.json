@@ -1,0 +1,10 @@
+{
+    "id": 613752,
+    "name": "hono",
+    "version": "0.9",
+    "created_at": "2020-11-19T14:32:35",
+    "updated_at": "2020-11-19T14:32:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:hono:0.9:milestone2:*:*:*:*:*:*",
+    "to_analyse": false
+}

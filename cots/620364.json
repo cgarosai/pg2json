@@ -1,0 +1,10 @@
+{
+    "id": 620364,
+    "name": "java_virtual_machine",
+    "version": "18c",
+    "created_at": "2020-12-07T22:14:04",
+    "updated_at": "2020-12-07T22:14:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:java_virtual_machine:18c:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

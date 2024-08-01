@@ -1,0 +1,10 @@
+{
+    "id": 561636,
+    "name": "sql_monitor",
+    "version": "10.0.4",
+    "created_at": "2020-07-13T14:58:52",
+    "updated_at": "2020-07-13T14:58:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:red-gate:sql_monitor:10.0.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}
