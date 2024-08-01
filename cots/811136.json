@@ -1,0 +1,10 @@
+{
+    "id": 811136,
+    "name": "enterprise_telephony_fraud_monitor",
+    "version": "4.3",
+    "created_at": "2021-12-01T17:15:20",
+    "updated_at": "2021-12-02T21:36:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:enterprise_telephony_fraud_monitor:4.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

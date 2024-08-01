@@ -1,0 +1,10 @@
+{
+    "id": 1007431,
+    "name": "paytium",
+    "version": "4.3.6",
+    "created_at": "2023-01-03T13:59:16",
+    "updated_at": "2023-03-16T17:51:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:paytium:paytium:4.3.6:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

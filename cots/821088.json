@@ -1,0 +1,10 @@
+{
+    "id": 821088,
+    "name": "gocd",
+    "version": "16.3.0",
+    "created_at": "2021-12-27T19:06:36",
+    "updated_at": "2021-12-27T19:07:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thoughtworks:gocd:16.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

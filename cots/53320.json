@@ -1,0 +1,10 @@
+{
+    "id": 53320,
+    "name": "tts",
+    "version": "1.0.0.0",
+    "created_at": "2012-07-10T01:17:34",
+    "updated_at": "2012-07-10T01:17:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:polycom:tts:1.0.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

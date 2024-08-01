@@ -1,0 +1,10 @@
+{
+    "id": 583396,
+    "name": "wordpress_poll",
+    "version": "36.0",
+    "created_at": "2020-09-01T14:12:08",
+    "updated_at": "2020-09-01T14:12:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_poll_project:wordpress_poll:36.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

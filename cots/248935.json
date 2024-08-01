@@ -1,0 +1,10 @@
+{
+    "id": 248935,
+    "name": "access_easy_controller_firmware",
+    "version": "2.1.8.5",
+    "created_at": "2019-05-30T15:43:19",
+    "updated_at": "2021-06-16T12:00:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:bosch:access_easy_controller_firmware:2.1.8.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

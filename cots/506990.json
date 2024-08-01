@@ -1,0 +1,10 @@
+{
+    "id": 506990,
+    "name": "xml-libxml",
+    "version": "1.84",
+    "created_at": "2020-03-03T15:00:21",
+    "updated_at": "2020-03-03T15:00:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xml-libxml_project:xml-libxml:1.84:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

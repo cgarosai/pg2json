@@ -1,0 +1,10 @@
+{
+    "id": 1053732,
+    "name": "endpoint_configuration_manager",
+    "version": "-",
+    "created_at": "2023-04-03T17:07:21",
+    "updated_at": "2023-07-27T16:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:endpoint_configuration_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

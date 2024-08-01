@@ -1,0 +1,10 @@
+{
+    "id": 538005,
+    "name": "shadowsocks-libev",
+    "version": "2.0.8",
+    "created_at": "2020-04-21T17:18:57",
+    "updated_at": "2020-04-21T17:18:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:shadowsocks:shadowsocks-libev:2.0.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

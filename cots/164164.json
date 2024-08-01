@@ -1,0 +1,10 @@
+{
+    "id": 164164,
+    "name": "bitcoin-qt",
+    "version": "0.13.0",
+    "created_at": "2018-08-25T10:14:39",
+    "updated_at": "2021-05-26T13:31:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bitcoin:bitcoin-qt:0.13.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

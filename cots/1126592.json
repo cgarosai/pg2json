@@ -1,0 +1,10 @@
+{
+    "id": 1126592,
+    "name": "medikaid",
+    "version": "1.0.10",
+    "created_at": "2023-07-25T11:36:51",
+    "updated_at": "2023-07-25T12:15:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deothemes:medikaid:1.0.10:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

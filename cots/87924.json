@@ -1,0 +1,10 @@
+{
+    "id": 87924,
+    "name": "lightdm",
+    "version": "1.8.3",
+    "created_at": "2013-11-25T17:58:16",
+    "updated_at": "2013-11-25T18:47:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:robert_ancell:lightdm:1.8.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

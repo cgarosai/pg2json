@@ -1,0 +1,10 @@
+{
+    "id": 820793,
+    "name": "sentinel_protection_installer",
+    "version": "7.7.0",
+    "created_at": "2021-12-23T16:15:53",
+    "updated_at": "2022-01-04T14:20:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:thalesgroup:sentinel_protection_installer:7.7.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

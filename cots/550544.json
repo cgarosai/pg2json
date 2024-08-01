@@ -1,0 +1,10 @@
+{
+    "id": 550544,
+    "name": "agoo",
+    "version": "1.2.2",
+    "created_at": "2020-06-15T13:46:14",
+    "updated_at": "2020-06-15T13:46:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ohler:agoo:1.2.2:*:*:*:*:ruby:*:*",
+    "to_analyse": false
+}

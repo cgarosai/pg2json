@@ -1,0 +1,10 @@
+{
+    "id": 393333,
+    "name": "cfme-gemset",
+    "version": "5.7.3.2",
+    "created_at": "2019-10-04T11:35:23",
+    "updated_at": "2019-10-04T11:35:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:cfme-gemset:5.7.3.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

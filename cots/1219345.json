@@ -1,0 +1,10 @@
+{
+    "id": 1219345,
+    "name": "elastic_apm_server",
+    "version": "8.0.0",
+    "created_at": "2023-12-15T17:23:18",
+    "updated_at": "2024-02-15T18:39:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elastic:elastic_apm_server:8.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

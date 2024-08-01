@@ -1,0 +1,10 @@
+{
+    "id": 188961,
+    "name": "enterprise_linux_server_aus",
+    "version": "5.6",
+    "created_at": "2018-10-31T14:42:13",
+    "updated_at": "2018-10-31T14:42:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_server_aus:5.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

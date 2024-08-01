@@ -1,0 +1,10 @@
+{
+    "id": 797141,
+    "name": "alletra_9080_firmware",
+    "version": "9.4.0",
+    "created_at": "2021-10-18T09:24:09",
+    "updated_at": "2021-10-20T15:25:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:alletra_9080_firmware:9.4.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

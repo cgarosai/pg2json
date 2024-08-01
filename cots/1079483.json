@@ -1,0 +1,10 @@
+{
+    "id": 1079483,
+    "name": "wp_baidu_submit",
+    "version": "1.2.1",
+    "created_at": "2023-05-05T14:39:39",
+    "updated_at": "2023-06-30T01:38:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp_baidu_submit_project:wp_baidu_submit:1.2.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

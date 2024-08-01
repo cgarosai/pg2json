@@ -1,0 +1,10 @@
+{
+    "id": 1007620,
+    "name": "ve4106_opc-ua_client_for_ethernet_connected_i\\/o_\\(eioc\\)_firmware",
+    "version": "14.3",
+    "created_at": "2023-01-03T15:32:19",
+    "updated_at": "2023-01-05T13:49:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:emerson:ve4106_opc-ua_client_for_ethernet_connected_i\\/o_\\(eioc\\)_firmware:14.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

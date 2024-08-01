@@ -1,0 +1,10 @@
+{
+    "id": 860143,
+    "name": "job_and_node_ownership",
+    "version": "0.13.0",
+    "created_at": "2022-04-04T14:38:34",
+    "updated_at": "2022-04-08T16:23:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:job_and_node_ownership:0.13.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

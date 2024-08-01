@@ -1,0 +1,10 @@
+{
+    "id": 79119,
+    "name": "junos_space",
+    "version": "12.2",
+    "created_at": "2013-05-09T10:36:26",
+    "updated_at": "2013-05-14T21:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:junos_space:12.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

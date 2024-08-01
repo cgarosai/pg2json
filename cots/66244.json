@@ -1,0 +1,10 @@
+{
+    "id": 66244,
+    "name": "network_node_manager_i",
+    "version": "8.0",
+    "created_at": "2012-08-08T12:09:13",
+    "updated_at": "2013-02-11T19:12:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:network_node_manager_i:8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

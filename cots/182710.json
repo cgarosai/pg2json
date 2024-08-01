@@ -1,0 +1,10 @@
+{
+    "id": 182710,
+    "name": "spark",
+    "version": "2.0.0",
+    "created_at": "2018-11-20T17:28:26",
+    "updated_at": "2018-11-20T17:28:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:spark:2.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 657399,
+    "name": "graalvm",
+    "version": "20.3.0",
+    "created_at": "2021-02-08T13:26:45",
+    "updated_at": "2021-05-03T11:10:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oracle:graalvm:20.3.0:*:*:*:enterprise:*:*:*",
+    "to_analyse": false
+}

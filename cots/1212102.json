@@ -1,0 +1,10 @@
+{
+    "id": 1212102,
+    "name": "email_address_encoder",
+    "version": "1.0.12",
+    "created_at": "2023-12-19T14:46:55",
+    "updated_at": "2023-12-19T14:46:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tillkruss:email_address_encoder:1.0.12:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

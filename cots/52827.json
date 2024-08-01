@@ -1,0 +1,10 @@
+{
+    "id": 52827,
+    "name": "daserver_runtime_components",
+    "version": "3.0",
+    "created_at": "2012-07-05T13:13:23",
+    "updated_at": "2012-07-09T13:40:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invensys:daserver_runtime_components:3.0:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

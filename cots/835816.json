@@ -1,0 +1,10 @@
+{
+    "id": 835816,
+    "name": "bizhub_c284e_firmware",
+    "version": "gdr-m1",
+    "created_at": "2022-01-11T16:06:38",
+    "updated_at": "2022-01-11T18:21:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:konicaminolta:bizhub_c284e_firmware:gdr-m1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

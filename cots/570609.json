@@ -1,0 +1,10 @@
+{
+    "id": 570609,
+    "name": "directory_server",
+    "version": "b.08.00.02",
+    "created_at": "2020-08-05T14:33:46",
+    "updated_at": "2021-08-17T14:57:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:directory_server:b.08.00.02:*:*:*:*:hp-ux:*:*",
+    "to_analyse": false
+}

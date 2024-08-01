@@ -1,0 +1,10 @@
+{
+    "id": 49280,
+    "name": "webobjects",
+    "version": "3.5",
+    "created_at": "2011-11-10T14:13:44",
+    "updated_at": "2011-11-17T20:09:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:webobjects:3.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

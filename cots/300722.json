@@ -1,0 +1,10 @@
+{
+    "id": 300722,
+    "name": "zope_management_interface",
+    "version": "4.3.7",
+    "created_at": "2019-07-23T10:50:24",
+    "updated_at": "2019-07-23T10:50:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zope:zope_management_interface:4.3.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

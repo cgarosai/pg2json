@@ -1,0 +1,10 @@
+{
+    "id": 22298,
+    "name": "debian_linux",
+    "version": "5.0",
+    "created_at": "2010-04-19T15:33:47",
+    "updated_at": "2010-04-19T15:33:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:debian:debian_linux:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 450372,
+    "name": "jira_service_desk",
+    "version": "3.16.10",
+    "created_at": "2019-12-09T17:43:12",
+    "updated_at": "2019-12-09T17:43:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:atlassian:jira_service_desk:3.16.10:*:*:*:server:*:*:*",
+    "to_analyse": false
+}

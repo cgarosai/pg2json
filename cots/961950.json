@@ -1,0 +1,10 @@
+{
+    "id": 961950,
+    "name": "glorp",
+    "version": "1.0.0",
+    "created_at": "2022-11-16T17:59:11",
+    "updated_at": "2022-11-18T16:31:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:glorp:1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

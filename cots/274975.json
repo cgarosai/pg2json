@@ -1,0 +1,10 @@
+{
+    "id": 274975,
+    "name": "asyncos",
+    "version": "11.1.2",
+    "created_at": "2019-07-02T10:09:47",
+    "updated_at": "2019-07-02T10:09:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:asyncos:11.1.2:hot_patch4:*:*:*:*:*:*",
+    "to_analyse": false
+}

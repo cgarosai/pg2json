@@ -1,0 +1,10 @@
+{
+    "id": 164752,
+    "name": "expression_blend",
+    "version": "2",
+    "created_at": "2018-09-06T10:47:34",
+    "updated_at": "2021-08-12T12:38:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:expression_blend:2:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 86134,
+    "name": "video_surveillance_4000_ip_cameras",
+    "version": "-",
+    "created_at": "2013-10-16T11:55:53",
+    "updated_at": "2013-11-13T13:40:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:video_surveillance_4000_ip_cameras:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

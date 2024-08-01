@@ -1,0 +1,10 @@
+{
+    "id": 723272,
+    "name": "application_server_v10_manual",
+    "version": "10-11-01",
+    "created_at": "2021-06-25T10:38:51",
+    "updated_at": "2021-07-06T11:57:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachi:application_server_v10_manual:10-11-01:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

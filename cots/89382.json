@@ -1,0 +1,10 @@
+{
+    "id": 89382,
+    "name": "collaboration_server",
+    "version": "8.0.1",
+    "created_at": "2013-12-26T18:32:09",
+    "updated_at": "2013-12-26T18:46:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zimbra:collaboration_server:8.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

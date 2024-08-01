@@ -1,0 +1,10 @@
+{
+    "id": 1230258,
+    "name": "endpoint_antivirus",
+    "version": "-",
+    "created_at": "2024-01-12T11:35:05",
+    "updated_at": "2024-01-12T11:35:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eset:endpoint_antivirus:-:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

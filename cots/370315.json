@@ -1,0 +1,10 @@
+{
+    "id": 370315,
+    "name": "ansi2html",
+    "version": "-",
+    "created_at": "2019-09-19T16:12:18",
+    "updated_at": "2019-09-19T16:12:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ansi2html_project:ansi2html:-:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

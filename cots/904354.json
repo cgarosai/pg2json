@@ -1,0 +1,10 @@
+{
+    "id": 904354,
+    "name": "spectrum_server_firmware",
+    "version": "4.2.0.32842",
+    "created_at": "2022-07-22T11:31:47",
+    "updated_at": "2023-02-21T16:43:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dw:spectrum_server_firmware:4.2.0.32842:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

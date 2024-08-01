@@ -1,0 +1,10 @@
+{
+    "id": 1169613,
+    "name": "zibal",
+    "version": "1.0.0",
+    "created_at": "2023-09-28T19:23:03",
+    "updated_at": "2023-09-28T19:23:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:zibal_project:zibal:1.0.0:*:*:*:*:pypi:*:*",
+    "to_analyse": false
+}

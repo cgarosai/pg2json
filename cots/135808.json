@@ -1,0 +1,10 @@
+{
+    "id": 135808,
+    "name": "machine_learner",
+    "version": "1.2.0",
+    "created_at": "2017-09-27T23:51:07",
+    "updated_at": "2021-08-10T14:19:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wso2:machine_learner:1.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

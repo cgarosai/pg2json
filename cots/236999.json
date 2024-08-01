@@ -1,0 +1,10 @@
+{
+    "id": 236999,
+    "name": "hci_storage_nodes",
+    "version": "-",
+    "created_at": "2019-05-02T13:14:02",
+    "updated_at": "2021-07-02T15:35:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:hci_storage_nodes:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

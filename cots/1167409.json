@@ -1,0 +1,10 @@
+{
+    "id": 1167409,
+    "name": "ansible_semaphore",
+    "version": "2.8.90",
+    "created_at": "2023-09-26T14:04:04",
+    "updated_at": "2023-09-26T14:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ansible-semaphore:ansible_semaphore:2.8.90:*:*:*:*:ansible:*:*",
+    "to_analyse": false
+}

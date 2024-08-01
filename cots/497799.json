@@ -1,0 +1,10 @@
+{
+    "id": 497799,
+    "name": "hubot_scripts",
+    "version": "2.0.6",
+    "created_at": "2020-02-19T13:31:00",
+    "updated_at": "2020-02-19T13:31:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hubot_scripts_project:hubot_scripts:2.0.6:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

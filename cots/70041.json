@@ -1,0 +1,10 @@
+{
+    "id": 70041,
+    "name": "storage_data_protector",
+    "version": "7.00",
+    "created_at": "2013-06-06T13:09:57",
+    "updated_at": "2013-06-07T11:55:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hp:storage_data_protector:7.00:-:*:*:*:windows_server_2008:*:*",
+    "to_analyse": false
+}

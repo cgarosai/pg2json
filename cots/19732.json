@@ -1,0 +1,10 @@
+{
+    "id": 19732,
+    "name": "windows_mail",
+    "version": "-",
+    "created_at": "2007-08-28T19:32:24",
+    "updated_at": "2010-05-12T18:46:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:windows_mail:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

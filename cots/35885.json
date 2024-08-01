@@ -1,0 +1,10 @@
+{
+    "id": 35885,
+    "name": "wonderware_application_server",
+    "version": "2.0.001",
+    "created_at": "2010-08-09T20:08:16",
+    "updated_at": "2010-08-09T20:08:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invensys:wonderware_application_server:2.0.001:patch01:*:*:*:*:*:*",
+    "to_analyse": false
+}

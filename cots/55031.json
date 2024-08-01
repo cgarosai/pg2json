@@ -1,0 +1,10 @@
+{
+    "id": 55031,
+    "name": "sketchup",
+    "version": "6.0",
+    "created_at": "2012-04-18T12:08:24",
+    "updated_at": "2012-04-18T19:41:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:google:sketchup:6.0:maintenance_6:*:*:*:*:*:*",
+    "to_analyse": false
+}

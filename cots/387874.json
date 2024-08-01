@@ -1,0 +1,10 @@
+{
+    "id": 387874,
+    "name": "resolve-path",
+    "version": "1.2.1",
+    "created_at": "2019-09-24T14:06:49",
+    "updated_at": "2019-09-24T14:06:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:resolve-path_project:resolve-path:1.2.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

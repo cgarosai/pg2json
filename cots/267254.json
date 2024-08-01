@@ -1,0 +1,10 @@
+{
+    "id": 267254,
+    "name": "util-linux",
+    "version": "2.10s",
+    "created_at": "2019-06-14T14:43:59",
+    "updated_at": "2019-06-14T14:43:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kernel:util-linux:2.10s:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

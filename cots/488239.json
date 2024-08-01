@@ -1,0 +1,10 @@
+{
+    "id": 488239,
+    "name": "dash_core",
+    "version": "0.6.0",
+    "created_at": "2020-02-03T13:59:50",
+    "updated_at": "2020-02-03T13:59:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dash:dash_core:0.6.0:rc3:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 178659,
+    "name": "big-ip_analytics",
+    "version": "10.1.0",
+    "created_at": "2018-10-02T11:29:37",
+    "updated_at": "2018-10-02T11:29:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_analytics:10.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

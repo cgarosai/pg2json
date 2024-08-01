@@ -1,0 +1,10 @@
+{
+    "id": 573104,
+    "name": "enterprise_connector",
+    "version": "-",
+    "created_at": "2020-08-11T12:26:18",
+    "updated_at": "2020-08-11T12:26:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobileiron:enterprise_connector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 618719,
+    "name": "alerta",
+    "version": "7.5.3",
+    "created_at": "2020-11-09T18:00:08",
+    "updated_at": "2020-11-09T18:00:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alerta_project:alerta:7.5.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

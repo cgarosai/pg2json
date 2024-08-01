@@ -1,0 +1,10 @@
+{
+    "id": 235978,
+    "name": "micrologix_1100_firmware",
+    "version": "14.00",
+    "created_at": "2019-04-30T14:57:12",
+    "updated_at": "2021-05-24T16:19:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:rockwellautomation:micrologix_1100_firmware:14.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

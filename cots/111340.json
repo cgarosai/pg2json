@@ -1,0 +1,10 @@
+{
+    "id": 111340,
+    "name": "percona_server",
+    "version": "5.6.31-77.0",
+    "created_at": "2016-09-22T16:53:12",
+    "updated_at": "2016-09-22T16:53:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:percona:percona_server:5.6.31-77.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

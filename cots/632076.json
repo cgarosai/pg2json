@@ -1,0 +1,10 @@
+{
+    "id": 632076,
+    "name": "bmc_firmware",
+    "version": "1.06.06",
+    "created_at": "2020-12-29T13:51:24",
+    "updated_at": "2020-12-29T13:51:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:bmc_firmware:1.06.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

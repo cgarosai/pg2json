@@ -1,0 +1,10 @@
+{
+    "id": 795493,
+    "name": "teddy",
+    "version": "0.1.1",
+    "created_at": "2021-10-14T09:31:14",
+    "updated_at": "2021-10-14T09:32:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:teddy_project:teddy:0.1.1:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

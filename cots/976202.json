@@ -1,0 +1,10 @@
+{
+    "id": 976202,
+    "name": "cvs",
+    "version": "2.12",
+    "created_at": "2022-11-23T12:46:18",
+    "updated_at": "2022-11-23T12:47:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:cvs:2.12:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

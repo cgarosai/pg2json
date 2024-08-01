@@ -1,0 +1,10 @@
+{
+    "id": 1210375,
+    "name": "searx_stats",
+    "version": "-",
+    "created_at": "2023-12-16T03:05:58",
+    "updated_at": "2023-12-16T03:05:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:searx_stats_project:searx_stats:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

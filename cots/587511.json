@@ -1,0 +1,10 @@
+{
+    "id": 587511,
+    "name": "virtualized_packet_core-single_instance",
+    "version": "-",
+    "created_at": "2020-08-19T12:23:37",
+    "updated_at": "2020-08-19T12:23:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:virtualized_packet_core-single_instance:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

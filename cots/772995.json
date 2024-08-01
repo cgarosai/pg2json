@@ -1,0 +1,10 @@
+{
+    "id": 772995,
+    "name": "landscape_transformation_replication_server",
+    "version": "2.0",
+    "created_at": "2021-09-22T17:49:47",
+    "updated_at": "2021-09-23T17:11:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:landscape_transformation_replication_server:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

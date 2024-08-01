@@ -1,0 +1,10 @@
+{
+    "id": 654878,
+    "name": "wcn3910_firmware",
+    "version": "-",
+    "created_at": "2021-02-23T13:23:28",
+    "updated_at": "2021-04-14T12:11:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:qualcomm:wcn3910_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

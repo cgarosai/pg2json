@@ -1,0 +1,10 @@
+{
+    "id": 1160832,
+    "name": "multipart",
+    "version": "0.5.8-1",
+    "created_at": "2023-09-29T16:25:25",
+    "updated_at": "2023-09-29T16:25:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:konghq:multipart:0.5.8-1:*:*:*:*:lua:*:*",
+    "to_analyse": false
+}

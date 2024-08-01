@@ -1,0 +1,10 @@
+{
+    "id": 659024,
+    "name": "tb511-arcnet",
+    "version": "2.0",
+    "created_at": "2021-02-10T13:21:58",
+    "updated_at": "2021-04-06T11:47:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:abb:tb511-arcnet:2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

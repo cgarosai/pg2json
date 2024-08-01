@@ -1,0 +1,10 @@
+{
+    "id": 858461,
+    "name": "firewall",
+    "version": "2.3.0",
+    "created_at": "2022-03-08T12:45:38",
+    "updated_at": "2022-03-08T15:48:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:puppet:firewall:2.3.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

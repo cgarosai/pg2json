@@ -1,0 +1,10 @@
+{
+    "id": 188960,
+    "name": "enterprise_linux_workstation",
+    "version": "7.0",
+    "created_at": "2018-10-31T14:04:28",
+    "updated_at": "2018-10-31T14:04:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redhat:enterprise_linux_workstation:7.0:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

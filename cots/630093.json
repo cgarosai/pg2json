@@ -1,0 +1,10 @@
+{
+    "id": 630093,
+    "name": "fabric8-maven",
+    "version": "4.2.0",
+    "created_at": "2020-12-21T15:36:00",
+    "updated_at": "2020-12-21T15:36:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:fabric8-maven:4.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

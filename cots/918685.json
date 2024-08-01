@@ -1,0 +1,10 @@
+{
+    "id": 918685,
+    "name": "netbackup",
+    "version": "8.3.0.0",
+    "created_at": "2022-08-02T12:40:57",
+    "updated_at": "2022-09-12T11:56:48",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:veritas:netbackup:8.3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

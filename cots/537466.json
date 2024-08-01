@@ -1,0 +1,10 @@
+{
+    "id": 537466,
+    "name": "virt-bootstrap",
+    "version": "1.1.0",
+    "created_at": "2020-04-17T15:47:11",
+    "updated_at": "2020-04-17T15:47:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:virt-bootstrap:1.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

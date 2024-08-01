@@ -1,0 +1,10 @@
+{
+    "id": 726650,
+    "name": "insight-api",
+    "version": "0.2.5",
+    "created_at": "2021-06-10T16:38:12",
+    "updated_at": "2021-06-10T16:56:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:insight.bitpay:insight-api:0.2.5:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

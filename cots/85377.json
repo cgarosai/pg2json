@@ -1,0 +1,10 @@
+{
+    "id": 85377,
+    "name": "spice-gtk",
+    "version": "0.15.3",
+    "created_at": "2013-10-04T13:06:32",
+    "updated_at": "2019-06-17T11:55:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:spice-gtk:0.15.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

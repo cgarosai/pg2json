@@ -1,0 +1,10 @@
+{
+    "id": 84381,
+    "name": "mobile_infrastructure",
+    "version": "-",
+    "created_at": "2014-04-11T14:35:55",
+    "updated_at": "2014-04-16T18:25:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:mobile_infrastructure:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

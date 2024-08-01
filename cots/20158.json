@@ -1,0 +1,10 @@
+{
+    "id": 20158,
+    "name": "coreutils",
+    "version": "5.97",
+    "created_at": "2009-12-14T17:16:45",
+    "updated_at": "2017-01-04T19:02:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gnu:coreutils:5.97:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

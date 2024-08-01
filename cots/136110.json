@@ -1,0 +1,10 @@
+{
+    "id": 136110,
+    "name": "ovirt-node",
+    "version": "3.0.0-474-gb852fd7",
+    "created_at": "2017-10-11T11:20:13",
+    "updated_at": "2021-04-20T15:05:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ovirt:ovirt-node:3.0.0-474-gb852fd7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

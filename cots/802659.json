@@ -1,0 +1,10 @@
+{
+    "id": 802659,
+    "name": "cn50_firmware",
+    "version": "-",
+    "created_at": "2021-11-16T17:24:05",
+    "updated_at": "2022-03-28T13:09:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:binatoneglobal:cn50_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

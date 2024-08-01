@@ -1,0 +1,10 @@
+{
+    "id": 1041294,
+    "name": "wordpress_shortcodes",
+    "version": "-",
+    "created_at": "2023-03-10T15:50:34",
+    "updated_at": "2023-03-14T14:41:29",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:synved:wordpress_shortcodes:-:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

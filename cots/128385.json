@@ -1,0 +1,10 @@
+{
+    "id": 128385,
+    "name": "lenovo_system_update",
+    "version": "5.07.0013",
+    "created_at": "2017-04-28T12:46:50",
+    "updated_at": "2021-05-04T15:45:31",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:lenovo_system_update:5.07.0013:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

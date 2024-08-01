@@ -1,0 +1,10 @@
+{
+    "id": 172383,
+    "name": "rsa_netwitness",
+    "version": "11.2",
+    "created_at": "2018-10-17T13:48:13",
+    "updated_at": "2021-05-24T15:37:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:rsa_netwitness:11.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

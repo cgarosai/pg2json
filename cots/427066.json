@@ -1,0 +1,10 @@
+{
+    "id": 427066,
+    "name": "vipr_controller",
+    "version": "3.0.0.39",
+    "created_at": "2019-11-04T12:43:14",
+    "updated_at": "2019-11-04T12:43:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:vipr_controller:3.0.0.39:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

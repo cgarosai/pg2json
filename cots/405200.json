@@ -1,0 +1,10 @@
+{
+    "id": 405200,
+    "name": "text-to-speech",
+    "version": "3.0.00.84",
+    "created_at": "2019-10-08T10:23:50",
+    "updated_at": "2019-10-08T10:23:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:text-to-speech:3.0.00.84:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

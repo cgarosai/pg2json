@@ -1,0 +1,10 @@
+{
+    "id": 639022,
+    "name": "ncs1004_firmware",
+    "version": "14.60",
+    "created_at": "2020-12-18T13:17:10",
+    "updated_at": "2020-12-18T13:17:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:ncs1004_firmware:14.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

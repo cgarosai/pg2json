@@ -1,0 +1,10 @@
+{
+    "id": 25937,
+    "name": "strongswan",
+    "version": "4.2.10",
+    "created_at": "2009-04-01T12:42:23",
+    "updated_at": "2012-07-30T13:10:33",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:strongswan:strongswan:4.2.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

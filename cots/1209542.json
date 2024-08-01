@@ -1,0 +1,10 @@
+{
+    "id": 1209542,
+    "name": "midgard_gpu_kernel_driver",
+    "version": "r8p0",
+    "created_at": "2023-12-01T09:42:50",
+    "updated_at": "2023-12-01T09:42:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r8p0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

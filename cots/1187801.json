@@ -1,0 +1,10 @@
+{
+    "id": 1187801,
+    "name": "session_border_controller",
+    "version": "10_r3.01.03",
+    "created_at": "2023-10-26T11:03:16",
+    "updated_at": "2023-10-26T11:03:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:unify:session_border_controller:10_r3.01.03:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

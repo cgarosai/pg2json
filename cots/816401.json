@@ -1,0 +1,10 @@
+{
+    "id": 816401,
+    "name": "sas\\/intrnet",
+    "version": "9.4",
+    "created_at": "2021-11-23T15:46:46",
+    "updated_at": "2022-01-21T19:58:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sas:sas\\/intrnet:9.4:build1520:*:*:*:*:*:*",
+    "to_analyse": false
+}

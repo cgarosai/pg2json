@@ -1,0 +1,10 @@
+{
+    "id": 855120,
+    "name": "groovy",
+    "version": "2.4.21",
+    "created_at": "2022-02-24T17:27:17",
+    "updated_at": "2022-03-03T13:34:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apache:groovy:2.4.21:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

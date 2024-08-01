@@ -1,0 +1,10 @@
+{
+    "id": 132068,
+    "name": "en-1dbc_firmware",
+    "version": "03.60",
+    "created_at": "2017-12-28T14:56:58",
+    "updated_at": "2021-06-15T14:00:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:amag:en-1dbc_firmware:03.60:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1168799,
+    "name": "moveit_transfer",
+    "version": "2023.0.6",
+    "created_at": "2023-09-28T09:17:04",
+    "updated_at": "2023-09-28T09:17:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:progress:moveit_transfer:2023.0.6:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 229761,
+    "name": "ssh_credentials",
+    "version": "1.14",
+    "created_at": "2019-04-16T13:17:49",
+    "updated_at": "2019-04-16T13:17:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:ssh_credentials:1.14:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

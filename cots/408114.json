@@ -1,0 +1,10 @@
+{
+    "id": 408114,
+    "name": "broken_link_manager",
+    "version": "0.2.3",
+    "created_at": "2019-10-10T14:14:14",
+    "updated_at": "2019-10-10T14:14:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:k-78:broken_link_manager:0.2.3:beta:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

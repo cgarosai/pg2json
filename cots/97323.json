@@ -1,0 +1,10 @@
+{
+    "id": 97323,
+    "name": "quicktabs",
+    "version": "6.x-2.0",
+    "created_at": "2014-05-19T15:08:49",
+    "updated_at": "2014-06-25T11:25:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:quick_tabs_module_project:quicktabs:6.x-2.0:rc5:*:*:*:drupal:*:*",
+    "to_analyse": false
+}

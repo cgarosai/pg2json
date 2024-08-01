@@ -1,0 +1,10 @@
+{
+    "id": 211041,
+    "name": "q6000-e_firmware",
+    "version": "6.50.2.3",
+    "created_at": "2019-03-20T16:55:38",
+    "updated_at": "2021-04-28T12:46:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:axis:q6000-e_firmware:6.50.2.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

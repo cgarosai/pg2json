@@ -1,0 +1,10 @@
+{
+    "id": 193811,
+    "name": "synaptics_thinkpad_ultranav_driver",
+    "version": "19.5.19.33",
+    "created_at": "2019-01-25T19:00:44",
+    "updated_at": "2021-05-04T16:04:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lenovo:synaptics_thinkpad_ultranav_driver:19.5.19.33:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

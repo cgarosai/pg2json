@@ -1,0 +1,10 @@
+{
+    "id": 615817,
+    "name": "lightning_network_daemon",
+    "version": "0.10.0",
+    "created_at": "2020-10-28T18:27:10",
+    "updated_at": "2020-10-28T18:27:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.10.0:beta_rc2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 594749,
+    "name": "umbrella_roaming_client",
+    "version": "2.2.238",
+    "created_at": "2020-09-24T21:18:25",
+    "updated_at": "2020-09-24T21:18:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:umbrella_roaming_client:2.2.238:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

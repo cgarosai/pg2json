@@ -1,0 +1,10 @@
+{
+    "id": 614500,
+    "name": "sd-wan",
+    "version": "10.2.8",
+    "created_at": "2020-11-23T14:05:23",
+    "updated_at": "2020-11-23T14:05:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:sd-wan:10.2.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

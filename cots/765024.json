@@ -1,0 +1,10 @@
+{
+    "id": 765024,
+    "name": "antivirus",
+    "version": "4.8.35",
+    "created_at": "2021-08-16T13:01:38",
+    "updated_at": "2021-08-16T13:02:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:pcprotect:antivirus:4.8.35:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

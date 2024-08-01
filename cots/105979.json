@@ -1,0 +1,10 @@
+{
+    "id": 105979,
+    "name": "malwarebytes_anti-exploit",
+    "version": "1.04.1.1012",
+    "created_at": "2014-12-17T14:33:50",
+    "updated_at": "2015-03-25T17:22:41",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:malwarebytes:malwarebytes_anti-exploit:1.04.1.1012:*:*:*:consumer:*:*:*",
+    "to_analyse": false
+}

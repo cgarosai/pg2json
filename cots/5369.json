@@ -1,0 +1,10 @@
+{
+    "id": 5369,
+    "name": "winproxy",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-03-25T17:13:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bluecoat:winproxy:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

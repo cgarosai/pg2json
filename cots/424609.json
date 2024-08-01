@@ -1,0 +1,10 @@
+{
+    "id": 424609,
+    "name": "nodeschnaps",
+    "version": "0.5.0",
+    "created_at": "2019-11-08T18:10:37",
+    "updated_at": "2019-11-08T18:10:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nodeschnaps_project:nodeschnaps:0.5.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

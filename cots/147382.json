@@ -1,0 +1,10 @@
+{
+    "id": 147382,
+    "name": "igss_mobile",
+    "version": "3.01",
+    "created_at": "2018-03-07T23:32:04",
+    "updated_at": "2021-08-11T16:25:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:schneider-electric:igss_mobile:3.01:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

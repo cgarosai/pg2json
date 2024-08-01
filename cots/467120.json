@@ -1,0 +1,10 @@
+{
+    "id": 467120,
+    "name": "accountsservice",
+    "version": "0.6.37",
+    "created_at": "2019-12-17T12:56:46",
+    "updated_at": "2019-12-17T12:56:46",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:accountsservice_project:accountsservice:0.6.37:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

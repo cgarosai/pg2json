@@ -1,0 +1,10 @@
+{
+    "id": 145135,
+    "name": "core_i5",
+    "version": "2500t",
+    "created_at": "2018-02-07T11:25:20",
+    "updated_at": "2018-02-07T11:25:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:intel:core_i5:2500t:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

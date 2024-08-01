@@ -1,0 +1,10 @@
+{
+    "id": 764238,
+    "name": "scalance_w700_firmware",
+    "version": "6.5",
+    "created_at": "2021-09-03T10:10:08",
+    "updated_at": "2021-09-03T18:17:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_w700_firmware:6.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 504285,
+    "name": "quality_gates",
+    "version": "2.0",
+    "created_at": "2020-03-10T19:40:50",
+    "updated_at": "2020-03-10T19:40:50",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:quality_gates:2.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

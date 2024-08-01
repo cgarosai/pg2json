@@ -1,0 +1,10 @@
+{
+    "id": 664809,
+    "name": "storage_services_connector",
+    "version": "-",
+    "created_at": "2021-03-09T14:17:21",
+    "updated_at": "2021-07-02T17:05:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:netapp:storage_services_connector:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

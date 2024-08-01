@@ -1,0 +1,10 @@
+{
+    "id": 404642,
+    "name": "aironet_1850_firmware",
+    "version": "8.9\\(1.255\\)",
+    "created_at": "2019-10-21T14:38:37",
+    "updated_at": "2021-04-19T12:00:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:aironet_1850_firmware:8.9\\(1.255\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 515069,
+    "name": "audit_trail",
+    "version": "1.0",
+    "created_at": "2020-03-11T18:38:14",
+    "updated_at": "2020-03-11T18:38:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:audit_trail:1.0:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

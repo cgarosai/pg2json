@@ -1,0 +1,10 @@
+{
+    "id": 688898,
+    "name": "ping_monitor",
+    "version": "5.0.1",
+    "created_at": "2021-04-02T15:08:56",
+    "updated_at": "2021-04-05T11:32:57",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emcosoftware:ping_monitor:5.0.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

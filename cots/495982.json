@@ -1,0 +1,10 @@
+{
+    "id": 495982,
+    "name": "dd-wrt",
+    "version": "24",
+    "created_at": "2020-02-11T19:06:12",
+    "updated_at": "2020-02-11T19:06:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dd-wrt:dd-wrt:24:sp2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 653540,
+    "name": "capi-release",
+    "version": "1.76.4",
+    "created_at": "2021-02-19T19:29:51",
+    "updated_at": "2021-03-19T17:26:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cloudfoundry:capi-release:1.76.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

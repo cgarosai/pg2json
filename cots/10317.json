@@ -1,0 +1,10 @@
+{
+    "id": 10317,
+    "name": "connect_enterprise_server",
+    "version": "-",
+    "created_at": "2007-09-12T23:32:51",
+    "updated_at": "2009-03-05T16:16:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:adobe:connect_enterprise_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

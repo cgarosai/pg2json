@@ -1,0 +1,10 @@
+{
+    "id": 1107837,
+    "name": "wp_easypay",
+    "version": "3.1.1",
+    "created_at": "2023-06-21T13:18:00",
+    "updated_at": "2023-06-21T15:01:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wpeasypay:wp_easypay:3.1.1:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

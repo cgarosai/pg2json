@@ -1,0 +1,10 @@
+{
+    "id": 755100,
+    "name": "image_optimizer",
+    "version": "6.1.9",
+    "created_at": "2021-07-29T16:06:35",
+    "updated_at": "2021-07-29T16:30:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ewww:image_optimizer:6.1.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

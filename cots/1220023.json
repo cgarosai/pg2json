@@ -1,0 +1,10 @@
+{
+    "id": 1220023,
+    "name": "st-ipm-8460_firmware",
+    "version": "6.0.202",
+    "created_at": "2023-12-29T17:31:22",
+    "updated_at": "2023-12-29T17:31:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:redlioncontrols:st-ipm-8460_firmware:6.0.202:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

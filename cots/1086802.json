@@ -1,0 +1,10 @@
+{
+    "id": 1086802,
+    "name": "vert.x_stomp",
+    "version": "4.0.0",
+    "created_at": "2023-05-22T15:57:03",
+    "updated_at": "2023-05-24T14:30:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:eclipse:vert.x_stomp:4.0.0:milestone3:*:*:*:*:*:*",
+    "to_analyse": false
+}

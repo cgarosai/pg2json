@@ -1,0 +1,10 @@
+{
+    "id": 871249,
+    "name": "linux_enterprise_micro",
+    "version": "5.2",
+    "created_at": "2022-05-04T14:45:39",
+    "updated_at": "2022-06-03T11:18:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:suse:linux_enterprise_micro:5.2:*:*:*:*:rancher:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1169502,
+    "name": "secure_endpoint_private_cloud",
+    "version": "3.8.0",
+    "created_at": "2023-09-28T14:39:08",
+    "updated_at": "2023-09-28T14:39:08",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_endpoint_private_cloud:3.8.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

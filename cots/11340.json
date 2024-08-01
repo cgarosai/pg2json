@@ -1,0 +1,10 @@
+{
+    "id": 11340,
+    "name": "unified_call_manager",
+    "version": "-",
+    "created_at": "2008-01-17T15:02:58",
+    "updated_at": "2008-01-17T15:02:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:unified_call_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

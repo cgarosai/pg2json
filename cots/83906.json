@@ -1,0 +1,10 @@
+{
+    "id": 83906,
+    "name": "ruggedcom_rugged_operating_system",
+    "version": "4.0",
+    "created_at": "2014-04-01T12:24:03",
+    "updated_at": "2014-04-02T11:47:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:ruggedcom_rugged_operating_system:4.0:*:*:*:*:*:rsg2488:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 71650,
+    "name": "apachesolr_autocomplete",
+    "version": "6.x-1.x-dev",
+    "created_at": "2013-07-12T14:43:37",
+    "updated_at": "2013-07-12T15:25:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:alejandro_garza:apachesolr_autocomplete:6.x-1.x-dev:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

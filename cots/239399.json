@@ -1,0 +1,10 @@
+{
+    "id": 239399,
+    "name": "kunai",
+    "version": "3.0.6",
+    "created_at": "2019-05-07T17:26:14",
+    "updated_at": "2019-05-07T17:26:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cybozu:kunai:3.0.6:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

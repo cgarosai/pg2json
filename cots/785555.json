@@ -1,0 +1,10 @@
+{
+    "id": 785555,
+    "name": "wordpress_page_contact",
+    "version": "1.0",
+    "created_at": "2021-09-28T14:42:12",
+    "updated_at": "2021-09-28T15:28:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wordpress_page_contact_project:wordpress_page_contact:1.0:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

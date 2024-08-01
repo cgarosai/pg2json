@@ -1,0 +1,10 @@
+{
+    "id": 362419,
+    "name": "fuse",
+    "version": "2.6.4",
+    "created_at": "2019-09-17T12:36:02",
+    "updated_at": "2019-09-17T12:36:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:fuse_project:fuse:2.6.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 779752,
+    "name": "check-spelling",
+    "version": "0.0.17",
+    "created_at": "2021-09-15T15:24:09",
+    "updated_at": "2021-09-16T14:29:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:check-spelling:check-spelling:0.0.17:alpha:*:*:*:*:*:*",
+    "to_analyse": false
+}

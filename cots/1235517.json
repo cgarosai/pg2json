@@ -1,0 +1,10 @@
+{
+    "id": 1235517,
+    "name": "frontend_admin",
+    "version": "2.11.8",
+    "created_at": "2024-01-04T19:27:44",
+    "updated_at": "2024-01-04T19:27:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:dynamiapps:frontend_admin:2.11.8:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

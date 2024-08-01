@@ -1,0 +1,10 @@
+{
+    "id": 197282,
+    "name": "zywall_usg_100_firmware",
+    "version": "2.12\\(aqq.2\\)",
+    "created_at": "2018-12-13T12:37:17",
+    "updated_at": "2021-05-03T18:19:38",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:zyxel:zywall_usg_100_firmware:2.12\\(aqq.2\\):*:*:*:*:*:*:*",
+    "to_analyse": false
+}

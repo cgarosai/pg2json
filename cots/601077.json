@@ -1,0 +1,10 @@
+{
+    "id": 601077,
+    "name": "big-ip_policy_enforcement_manager",
+    "version": "14.1.2.7",
+    "created_at": "2020-10-08T13:06:28",
+    "updated_at": "2020-10-08T13:06:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:14.1.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

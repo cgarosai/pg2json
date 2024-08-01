@@ -1,0 +1,10 @@
+{
+    "id": 440088,
+    "name": "diffoscope",
+    "version": "105",
+    "created_at": "2019-12-02T17:25:16",
+    "updated_at": "2019-12-02T17:25:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:reproducible_builds:diffoscope:105:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

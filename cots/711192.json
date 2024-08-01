@@ -1,0 +1,10 @@
+{
+    "id": 711192,
+    "name": "edgemax_edgerouter_firmware",
+    "version": "2.0.9",
+    "created_at": "2021-06-03T15:12:39",
+    "updated_at": "2021-07-01T12:22:34",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

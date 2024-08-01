@@ -1,0 +1,10 @@
+{
+    "id": 5415,
+    "name": "secure_content_manager",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2021-04-09T16:52:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ca:secure_content_manager:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

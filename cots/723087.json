@@ -1,0 +1,10 @@
+{
+    "id": 723087,
+    "name": "esxi",
+    "version": "6.0",
+    "created_at": "2021-06-24T15:35:38",
+    "updated_at": "2021-06-29T17:04:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vmware:esxi:6.0:600-201507101:*:*:*:*:*:*",
+    "to_analyse": false
+}

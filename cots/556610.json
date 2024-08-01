@@ -1,0 +1,10 @@
+{
+    "id": 556610,
+    "name": "kc200_firmware",
+    "version": "2020-02-09",
+    "created_at": "2020-06-01T12:19:22",
+    "updated_at": "2021-05-28T10:33:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tp-link:kc200_firmware:2020-02-09:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

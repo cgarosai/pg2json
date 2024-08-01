@@ -1,0 +1,10 @@
+{
+    "id": 500621,
+    "name": "ucs_6454_fabric_interconnect",
+    "version": "-",
+    "created_at": "2020-03-06T17:36:21",
+    "updated_at": "2020-03-06T17:36:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:cisco:ucs_6454_fabric_interconnect:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

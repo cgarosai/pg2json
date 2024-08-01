@@ -1,0 +1,10 @@
+{
+    "id": 205399,
+    "name": "nginx_ingress_controller",
+    "version": "0.21.0",
+    "created_at": "2019-01-31T18:36:22",
+    "updated_at": "2019-01-31T18:36:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:kubernetes:nginx_ingress_controller:0.21.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

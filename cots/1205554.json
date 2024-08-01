@@ -1,0 +1,10 @@
+{
+    "id": 1205554,
+    "name": "opennds",
+    "version": "9.5.0",
+    "created_at": "2023-11-27T10:56:42",
+    "updated_at": "2023-11-27T10:56:42",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opennds:opennds:9.5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

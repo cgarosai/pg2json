@@ -1,0 +1,10 @@
+{
+    "id": 568758,
+    "name": "acos_web_application_firewall",
+    "version": "2.7.2",
+    "created_at": "2020-07-06T14:43:54",
+    "updated_at": "2020-07-06T14:43:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:a10networks:acos_web_application_firewall:2.7.2:p11:*:*:*:*:*:*",
+    "to_analyse": false
+}

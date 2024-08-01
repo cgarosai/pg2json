@@ -1,0 +1,10 @@
+{
+    "id": 179169,
+    "name": "aruba_airwave",
+    "version": "8.0.6.3",
+    "created_at": "2018-10-05T16:57:52",
+    "updated_at": "2021-03-08T14:04:12",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hpe:aruba_airwave:8.0.6.3:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

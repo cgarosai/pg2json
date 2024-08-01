@@ -1,0 +1,10 @@
+{
+    "id": 1111814,
+    "name": "infrasuite_device_master",
+    "version": "1.0.7",
+    "created_at": "2023-07-17T10:41:38",
+    "updated_at": "2023-07-17T10:46:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:deltaww:infrasuite_device_master:1.0.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

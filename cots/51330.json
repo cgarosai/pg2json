@@ -1,0 +1,10 @@
+{
+    "id": 51330,
+    "name": "installer_service",
+    "version": "7.1.0.18193",
+    "created_at": "2012-06-21T17:07:28",
+    "updated_at": "2012-06-21T17:07:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:juniper:installer_service:7.1.0.18193:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

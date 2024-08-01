@@ -1,0 +1,10 @@
+{
+    "id": 682012,
+    "name": "website_builder",
+    "version": "3.1.0",
+    "created_at": "2021-04-08T15:29:30",
+    "updated_at": "2021-04-09T12:30:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:elementor:website_builder:3.1.0:beta4:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

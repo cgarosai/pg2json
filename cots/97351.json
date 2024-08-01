@@ -1,0 +1,10 @@
+{
+    "id": 97351,
+    "name": "mahara",
+    "version": "1.5.12",
+    "created_at": "2014-05-19T16:20:09",
+    "updated_at": "2014-05-19T16:25:11",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mahara:mahara:1.5.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

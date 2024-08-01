@@ -1,0 +1,10 @@
+{
+    "id": 593760,
+    "name": "bcoin",
+    "version": "0.12.0",
+    "created_at": "2020-09-23T14:00:39",
+    "updated_at": "2020-09-23T14:00:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:bcoin:bcoin:0.12.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 499884,
+    "name": "ngfw_module_firmware",
+    "version": "v500r001c20spc200pwe",
+    "created_at": "2020-02-21T19:02:26",
+    "updated_at": "2020-02-21T19:02:26",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:huawei:ngfw_module_firmware:v500r001c20spc200pwe:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

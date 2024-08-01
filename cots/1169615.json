@@ -1,0 +1,10 @@
+{
+    "id": 1169615,
+    "name": "webkitgtk",
+    "version": "2.30.3",
+    "created_at": "2023-09-28T19:23:03",
+    "updated_at": "2023-09-28T19:23:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:webkitgtk:webkitgtk:2.30.3:*:*:*:*:*:x64:*",
+    "to_analyse": false
+}

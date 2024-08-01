@@ -1,0 +1,10 @@
+{
+    "id": 501328,
+    "name": "optiplex_7050_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T19:00:06",
+    "updated_at": "2020-03-06T19:00:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:dell:optiplex_7050_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 852314,
+    "name": "client_security",
+    "version": "-",
+    "created_at": "2022-03-15T09:54:30",
+    "updated_at": "2022-08-15T17:48:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f-secure:client_security:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

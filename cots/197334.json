@@ -1,0 +1,10 @@
+{
+    "id": 197334,
+    "name": "microsoft.powershell.archive",
+    "version": "1.1.0.0",
+    "created_at": "2018-12-13T14:59:57",
+    "updated_at": "2021-08-12T15:17:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:microsoft.powershell.archive:1.1.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 5212,
+    "name": "apache_mod_digest_apple",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2008-04-01T12:36:30",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:apple:apache_mod_digest_apple:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

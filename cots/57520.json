@@ -1,0 +1,10 @@
+{
+    "id": 57520,
+    "name": "access_management_console_web_interface",
+    "version": "5.0.1.0",
+    "created_at": "2012-05-08T11:51:18",
+    "updated_at": "2012-05-08T11:51:18",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:access_management_console_web_interface:5.0.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

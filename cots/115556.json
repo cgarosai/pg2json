@@ -1,0 +1,10 @@
+{
+    "id": 115556,
+    "name": "file_lock",
+    "version": "5.0",
+    "created_at": "2016-02-24T14:18:37",
+    "updated_at": "2016-02-24T14:18:37",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mcafee:file_lock:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

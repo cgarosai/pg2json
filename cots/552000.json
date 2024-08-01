@@ -1,0 +1,10 @@
+{
+    "id": 552000,
+    "name": "wpdiscuz",
+    "version": "4.1.2",
+    "created_at": "2020-06-19T17:14:09",
+    "updated_at": "2020-06-19T17:14:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:gvectors:wpdiscuz:4.1.2:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

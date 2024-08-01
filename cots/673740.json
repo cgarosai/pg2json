@@ -1,0 +1,10 @@
+{
+    "id": 673740,
+    "name": "automatic_device_management",
+    "version": "5.0",
+    "created_at": "2021-03-25T20:38:12",
+    "updated_at": "2021-06-11T13:01:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:invigo:automatic_device_management:5.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

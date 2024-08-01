@@ -1,0 +1,10 @@
+{
+    "id": 968374,
+    "name": "secure_email_and_web_manager_firmware",
+    "version": "14.2",
+    "created_at": "2022-11-07T17:05:08",
+    "updated_at": "2022-11-14T13:22:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:cisco:secure_email_and_web_manager_firmware:14.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

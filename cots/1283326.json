@@ -1,0 +1,10 @@
+{
+    "id": 1283326,
+    "name": "vertica",
+    "version": "23.3.0-9",
+    "created_at": "2024-07-26T13:10:49",
+    "updated_at": "2024-07-26T13:10:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:opentext:vertica:23.3.0-9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

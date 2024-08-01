@@ -1,0 +1,10 @@
+{
+    "id": 659105,
+    "name": "modsecurity",
+    "version": "2.2.0",
+    "created_at": "2021-02-10T14:34:35",
+    "updated_at": "2021-02-10T14:34:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trustwave:modsecurity:2.2.0:dev1:*:*:*:*:*:*",
+    "to_analyse": false
+}

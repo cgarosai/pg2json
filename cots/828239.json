@@ -1,0 +1,10 @@
+{
+    "id": 828239,
+    "name": "temporary_login_without_password",
+    "version": "1.5.9",
+    "created_at": "2021-12-16T14:22:16",
+    "updated_at": "2021-12-16T14:24:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:storeapps:temporary_login_without_password:1.5.9:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

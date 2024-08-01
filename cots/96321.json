@@ -1,0 +1,10 @@
+{
+    "id": 96321,
+    "name": "policycoreutils",
+    "version": "2.2.5",
+    "created_at": "2014-05-08T11:59:51",
+    "updated_at": "2019-01-03T16:08:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:redhat:policycoreutils:2.2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

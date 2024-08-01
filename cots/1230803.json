@@ -1,0 +1,10 @@
+{
+    "id": 1230803,
+    "name": "endpoint_manager",
+    "version": "2022",
+    "created_at": "2024-01-12T17:55:24",
+    "updated_at": "2024-01-12T17:55:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ivanti:endpoint_manager:2022:su4:*:*:*:*:*:*",
+    "to_analyse": false
+}

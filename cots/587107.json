@@ -1,0 +1,10 @@
+{
+    "id": 587107,
+    "name": "sql_server_management_studio",
+    "version": "18.4",
+    "created_at": "2020-08-18T14:59:24",
+    "updated_at": "2020-08-18T14:59:24",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server_management_studio:18.4:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

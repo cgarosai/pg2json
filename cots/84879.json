@@ -1,0 +1,10 @@
+{
+    "id": 84879,
+    "name": "cloud_tiering_appliance_software",
+    "version": "9.0",
+    "created_at": "2014-04-17T12:57:47",
+    "updated_at": "2014-04-24T17:30:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:emc:cloud_tiering_appliance_software:9.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 512116,
+    "name": "rslogix_500",
+    "version": "12.001",
+    "created_at": "2020-03-26T15:51:15",
+    "updated_at": "2020-03-26T15:51:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:rockwellautomation:rslogix_500:12.001:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

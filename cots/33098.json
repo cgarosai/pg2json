@@ -1,0 +1,10 @@
+{
+    "id": 33098,
+    "name": "advantage_database_server",
+    "version": "-",
+    "created_at": "2011-03-04T16:47:05",
+    "updated_at": "2011-03-04T16:47:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sybase:advantage_database_server:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

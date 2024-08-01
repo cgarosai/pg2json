@@ -1,0 +1,10 @@
+{
+    "id": 1188267,
+    "name": "proself",
+    "version": "1.65",
+    "created_at": "2023-10-26T12:24:04",
+    "updated_at": "2023-10-26T12:24:04",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:northgrid:proself:1.65:*:*:*:gateway:*:*:*",
+    "to_analyse": false
+}

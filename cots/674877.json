@@ -1,0 +1,10 @@
+{
+    "id": 674877,
+    "name": "underscore",
+    "version": "1.4.4",
+    "created_at": "2021-03-30T11:06:22",
+    "updated_at": "2021-03-31T11:18:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:underscorejs:underscore:1.4.4:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

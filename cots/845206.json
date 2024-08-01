@@ -1,0 +1,10 @@
+{
+    "id": 845206,
+    "name": "fortiextender",
+    "version": "-",
+    "created_at": "2022-02-03T14:05:21",
+    "updated_at": "2022-03-10T14:09:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:fortinet:fortiextender:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 928773,
+    "name": "xeon_gold_5300_firmware",
+    "version": "-",
+    "created_at": "2022-08-23T18:09:38",
+    "updated_at": "2022-08-24T10:55:25",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:intel:xeon_gold_5300_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

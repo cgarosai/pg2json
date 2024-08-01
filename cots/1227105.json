@@ -1,0 +1,10 @@
+{
+    "id": 1227105,
+    "name": "woocommerce_gocardless",
+    "version": "2.4.13",
+    "created_at": "2023-12-26T12:40:10",
+    "updated_at": "2023-12-26T12:40:10",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:automattic:woocommerce_gocardless:2.4.13:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

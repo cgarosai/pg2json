@@ -1,0 +1,10 @@
+{
+    "id": 944949,
+    "name": "simatic_s7-1500_cpu_151511f-1",
+    "version": "-",
+    "created_at": "2022-10-14T09:11:09",
+    "updated_at": "2022-10-14T20:00:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:siemens:simatic_s7-1500_cpu_151511f-1:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

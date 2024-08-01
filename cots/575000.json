@@ -1,0 +1,10 @@
+{
+    "id": 575000,
+    "name": "netweaver_system_landscape_directory",
+    "version": "7.10",
+    "created_at": "2020-08-12T14:19:27",
+    "updated_at": "2020-08-12T14:19:27",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sap:netweaver_system_landscape_directory:7.10:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

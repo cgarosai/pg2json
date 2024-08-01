@@ -1,0 +1,10 @@
+{
+    "id": 123548,
+    "name": "openvas_scanner",
+    "version": "5.1.0",
+    "created_at": "2017-08-21T20:24:21",
+    "updated_at": "2017-08-21T20:24:21",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:openvas:openvas_scanner:5.1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

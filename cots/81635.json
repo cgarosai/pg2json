@@ -1,0 +1,10 @@
+{
+    "id": 81635,
+    "name": "standards-based_linux_common_information_model_client",
+    "version": "2.1.12",
+    "created_at": "2014-02-10T19:24:42",
+    "updated_at": "2014-03-04T18:47:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:standards_based_linux_instrumentation_project:standards-based_linux_common_information_model_client:2.1.12:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

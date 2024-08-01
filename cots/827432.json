@@ -1,0 +1,10 @@
+{
+    "id": 827432,
+    "name": "\\",
+    "version": "cpanminus_project",
+    "created_at": "2021-12-15T14:58:52",
+    "updated_at": "2021-12-15T16:49:32",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7044:*:*:*:*:perl:*:*",
+    "to_analyse": false
+}

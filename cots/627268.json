@@ -1,0 +1,10 @@
+{
+    "id": 627268,
+    "name": "r16mtcpu",
+    "version": "-",
+    "created_at": "2020-12-02T11:30:51",
+    "updated_at": "2021-05-11T13:37:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:mitsubishielectric:r16mtcpu:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

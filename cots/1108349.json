@@ -1,0 +1,10 @@
+{
+    "id": 1108349,
+    "name": "systemd",
+    "version": "253",
+    "created_at": "2023-06-22T15:27:52",
+    "updated_at": "2023-07-01T01:34:35",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:systemd_project:systemd:253:-:*:*:*:*:*:*",
+    "to_analyse": false
+}

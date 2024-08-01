@@ -1,0 +1,10 @@
+{
+    "id": 108029,
+    "name": "websphere_application_server",
+    "version": "7.1",
+    "created_at": "2015-03-24T12:13:47",
+    "updated_at": "2015-03-25T14:26:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:ibm:websphere_application_server:7.1:*:*:*:lombardi:*:*:*",
+    "to_analyse": false
+}

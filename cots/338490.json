@@ -1,0 +1,10 @@
+{
+    "id": 338490,
+    "name": "restafary",
+    "version": "1.5.2",
+    "created_at": "2019-08-12T15:38:16",
+    "updated_at": "2019-08-12T15:38:16",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:restafary_project:restafary:1.5.2:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

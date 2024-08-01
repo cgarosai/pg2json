@@ -1,0 +1,10 @@
+{
+    "id": 530057,
+    "name": "proliant_xl730f_gen9_server_firmware",
+    "version": "-",
+    "created_at": "2020-04-27T18:06:55",
+    "updated_at": "2020-04-27T18:06:55",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hpe:proliant_xl730f_gen9_server_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 428173,
+    "name": "passport-wsfed-saml2",
+    "version": "3.0.9",
+    "created_at": "2019-11-04T15:08:03",
+    "updated_at": "2019-11-04T15:08:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:auth0:passport-wsfed-saml2:3.0.9:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

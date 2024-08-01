@@ -1,0 +1,10 @@
+{
+    "id": 575771,
+    "name": "expiring_download_links",
+    "version": "1.0",
+    "created_at": "2020-07-27T13:16:06",
+    "updated_at": "2020-07-27T13:16:06",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:protectedlinks:expiring_download_links:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

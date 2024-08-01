@@ -1,0 +1,10 @@
+{
+    "id": 766185,
+    "name": "azure_sphere",
+    "version": "21.06",
+    "created_at": "2021-08-18T14:38:09",
+    "updated_at": "2021-08-19T13:41:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:azure_sphere:21.06:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 936116,
+    "name": "hc-ip9100hd_firmware",
+    "version": "1.07",
+    "created_at": "2022-09-01T11:27:00",
+    "updated_at": "2022-09-01T13:49:22",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hitachi:hc-ip9100hd_firmware:1.07:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

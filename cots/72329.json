@@ -1,0 +1,10 @@
+{
+    "id": 72329,
+    "name": "radius",
+    "version": "1.2.7",
+    "created_at": "2013-07-31T19:23:17",
+    "updated_at": "2013-07-31T23:35:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:radius_extension_project:radius:1.2.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

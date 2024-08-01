@@ -1,0 +1,10 @@
+{
+    "id": 193481,
+    "name": "v7_firmware",
+    "version": "7.1.2",
+    "created_at": "2019-01-18T19:14:31",
+    "updated_at": "2021-07-01T14:29:36",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:vivo:v7_firmware:7.1.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

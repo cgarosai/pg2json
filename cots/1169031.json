@@ -1,0 +1,10 @@
+{
+    "id": 1169031,
+    "name": "pivot_firmware",
+    "version": "1.8",
+    "created_at": "2023-09-28T10:53:44",
+    "updated_at": "2023-09-28T10:53:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:trane:pivot_firmware:1.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

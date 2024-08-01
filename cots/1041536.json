@@ -1,0 +1,10 @@
+{
+    "id": 1041536,
+    "name": "buildkit",
+    "version": "0.11.2",
+    "created_at": "2023-03-13T10:19:30",
+    "updated_at": "2023-03-27T08:31:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mobyproject:buildkit:0.11.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

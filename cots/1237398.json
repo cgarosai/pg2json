@@ -1,0 +1,10 @@
+{
+    "id": 1237398,
+    "name": "python_extension",
+    "version": "2022.8.0",
+    "created_at": "2024-01-08T19:54:53",
+    "updated_at": "2024-01-08T19:54:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:python_extension:2022.8.0:*:*:*:*:visual_studio_code:*:*",
+    "to_analyse": false
+}

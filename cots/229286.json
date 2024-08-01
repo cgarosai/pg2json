@@ -1,0 +1,10 @@
+{
+    "id": 229286,
+    "name": "big-ip_access_policy_manager",
+    "version": "12.1.1",
+    "created_at": "2019-04-15T17:22:03",
+    "updated_at": "2021-07-09T10:34:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:hotfix2:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 94041,
+    "name": "kontan_kiosk",
+    "version": "\\@7f07025e",
+    "created_at": "2014-11-10T15:21:35",
+    "updated_at": "2014-11-10T15:46:15",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:getscoop:kontan_kiosk:\\@7f07025e:*:*:*:*:android:*:*",
+    "to_analyse": false
+}

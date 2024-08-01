@@ -1,0 +1,10 @@
+{
+    "id": 1060651,
+    "name": "pentaho_business_analytics",
+    "version": "8.3.0.0",
+    "created_at": "2023-04-17T16:39:03",
+    "updated_at": "2023-06-30T01:51:44",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:hitachivantara:pentaho_business_analytics:8.3.0.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

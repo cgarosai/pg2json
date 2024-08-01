@@ -1,0 +1,10 @@
+{
+    "id": 107303,
+    "name": "samsung_security_manager",
+    "version": "1.30",
+    "created_at": "2015-02-17T15:02:45",
+    "updated_at": "2015-02-19T18:34:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:samsung:samsung_security_manager:1.30:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

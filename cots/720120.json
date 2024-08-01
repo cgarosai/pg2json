@@ -1,0 +1,10 @@
+{
+    "id": 720120,
+    "name": "powerlogic_pm5563_firmware",
+    "version": "-",
+    "created_at": "2021-06-21T09:28:10",
+    "updated_at": "2021-06-21T11:29:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:powerlogic_pm5563_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

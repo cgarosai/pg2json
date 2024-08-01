@@ -1,0 +1,10 @@
+{
+    "id": 418231,
+    "name": "dynatrace_application_monitoring",
+    "version": "2.1.4",
+    "created_at": "2019-10-24T10:27:43",
+    "updated_at": "2019-10-24T10:27:43",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jenkins:dynatrace_application_monitoring:2.1.4:*:*:*:*:jenkins:*:*",
+    "to_analyse": false
+}

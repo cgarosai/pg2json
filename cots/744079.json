@@ -1,0 +1,10 @@
+{
+    "id": 744079,
+    "name": "datasette",
+    "version": "0.51",
+    "created_at": "2021-07-28T14:40:24",
+    "updated_at": "2021-07-28T15:42:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:datasette:datasette:0.51:alpha2:*:*:*:*:*:*",
+    "to_analyse": false
+}

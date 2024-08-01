@@ -1,0 +1,10 @@
+{
+    "id": 105850,
+    "name": "gpu_driver",
+    "version": "r21.2",
+    "created_at": "2014-12-11T15:14:56",
+    "updated_at": "2015-03-25T15:45:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:nvidia:gpu_driver:r21.2:*:*:*:*:linux_kernel:tegra:*",
+    "to_analyse": false
+}

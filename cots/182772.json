@@ -1,0 +1,10 @@
+{
+    "id": 182772,
+    "name": "hp_15-r000_firmware",
+    "version": "f.43",
+    "created_at": "2018-11-20T18:47:21",
+    "updated_at": "2021-06-25T13:15:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:hp:hp_15-r000_firmware:f.43:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

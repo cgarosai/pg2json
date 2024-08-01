@@ -1,0 +1,10 @@
+{
+    "id": 500511,
+    "name": "gear_live_firmware",
+    "version": "-",
+    "created_at": "2020-03-06T17:05:05",
+    "updated_at": "2020-03-06T17:05:05",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:samsung:gear_live_firmware:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

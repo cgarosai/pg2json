@@ -1,0 +1,10 @@
+{
+    "id": 679907,
+    "name": "serverprotect_for_network_appliance_filer",
+    "version": "5.8",
+    "created_at": "2021-03-18T17:21:12",
+    "updated_at": "2021-08-18T13:09:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:trendmicro:serverprotect_for_network_appliance_filer:5.8:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

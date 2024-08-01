@@ -1,0 +1,10 @@
+{
+    "id": 10150,
+    "name": "sql_server",
+    "version": "2000",
+    "created_at": "2007-09-12T20:54:35",
+    "updated_at": "2008-04-15T21:33:39",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:microsoft:sql_server:2000:gold:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 480267,
+    "name": "cms_auditor_website",
+    "version": "1.0",
+    "created_at": "2020-02-04T15:20:51",
+    "updated_at": "2020-02-04T15:20:51",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cms_auditor_website_project:cms_auditor_website:1.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

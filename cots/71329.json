@@ -1,0 +1,10 @@
+{
+    "id": 71329,
+    "name": "3com_switch_taa_compliant",
+    "version": "5500g-ei",
+    "created_at": "2013-07-08T16:44:50",
+    "updated_at": "2013-07-12T15:50:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:h:hp:3com_switch_taa_compliant:5500g-ei:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

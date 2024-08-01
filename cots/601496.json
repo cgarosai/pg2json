@@ -1,0 +1,10 @@
+{
+    "id": 601496,
+    "name": "oauth2-server",
+    "version": "3.0.0",
+    "created_at": "2020-10-08T19:03:17",
+    "updated_at": "2020-10-08T19:03:17",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:oauth2-server_project:oauth2-server:3.0.0:b3:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1207787,
+    "name": "secure_client",
+    "version": "5.0.00529",
+    "created_at": "2023-11-29T15:16:53",
+    "updated_at": "2023-11-29T15:16:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:cisco:secure_client:5.0.00529:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

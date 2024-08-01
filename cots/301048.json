@@ -1,0 +1,10 @@
+{
+    "id": 301048,
+    "name": "wp-dbmanager",
+    "version": "2.72",
+    "created_at": "2019-07-23T11:51:52",
+    "updated_at": "2019-07-23T11:51:52",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:wp-dbmanager_project:wp-dbmanager:2.72:*:*:*:*:wordpress:*:*",
+    "to_analyse": false
+}

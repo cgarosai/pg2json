@@ -1,0 +1,10 @@
+{
+    "id": 90590,
+    "name": "php_report_designer",
+    "version": "2.5",
+    "created_at": "2014-07-16T15:13:14",
+    "updated_at": "2014-07-16T18:14:20",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:reportico:php_report_designer:2.5:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

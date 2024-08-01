@@ -1,0 +1,10 @@
+{
+    "id": 556940,
+    "name": "sophos_tester",
+    "version": "3.2.0.7",
+    "created_at": "2020-06-01T15:32:58",
+    "updated_at": "2020-06-01T15:32:58",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:sophos:sophos_tester:3.2.0.7:beta:*:*:*:*:*:*",
+    "to_analyse": false
+}

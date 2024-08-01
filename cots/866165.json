@@ -1,0 +1,10 @@
+{
+    "id": 866165,
+    "name": "accesslog",
+    "version": "0.0.0",
+    "created_at": "2022-03-23T15:15:14",
+    "updated_at": "2022-03-23T17:06:03",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:accesslog_project:accesslog:0.0.0:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

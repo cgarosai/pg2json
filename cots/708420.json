@@ -1,0 +1,10 @@
+{
+    "id": 708420,
+    "name": "secure_hub",
+    "version": "19.11.5",
+    "created_at": "2021-05-13T15:01:28",
+    "updated_at": "2021-05-13T15:08:59",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:citrix:secure_hub:19.11.5:*:*:*:*:-:*:*",
+    "to_analyse": false
+}

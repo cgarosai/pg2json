@@ -1,0 +1,10 @@
+{
+    "id": 590702,
+    "name": "mivoice",
+    "version": "1.4.0.102",
+    "created_at": "2020-09-16T10:48:07",
+    "updated_at": "2020-09-16T10:48:07",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:mitel:mivoice:1.4.0.102:*:*:*:*:skype_for_business:*:*",
+    "to_analyse": false
+}

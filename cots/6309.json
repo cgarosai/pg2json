@@ -1,0 +1,10 @@
+{
+    "id": 6309,
+    "name": "linux_on_power",
+    "version": "-",
+    "created_at": "2007-08-23T19:05:57",
+    "updated_at": "2007-09-14T15:36:49",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:ibm:linux_on_power:-:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

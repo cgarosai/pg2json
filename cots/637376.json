@@ -1,0 +1,10 @@
+{
+    "id": 637376,
+    "name": "centum_vp_firmware",
+    "version": "r4.03.00",
+    "created_at": "2020-12-15T15:28:01",
+    "updated_at": "2020-12-15T15:28:01",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:yokogawa:centum_vp_firmware:r4.03.00:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

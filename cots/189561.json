@@ -1,0 +1,10 @@
+{
+    "id": 189561,
+    "name": "scalance_x408_firmware",
+    "version": "3.9.2",
+    "created_at": "2018-11-01T19:35:39",
+    "updated_at": "2021-05-25T13:38:54",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:siemens:scalance_x408_firmware:3.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

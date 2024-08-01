@@ -1,0 +1,10 @@
+{
+    "id": 952986,
+    "name": "xmldom",
+    "version": "0.8.0",
+    "created_at": "2022-10-27T12:50:29",
+    "updated_at": "2022-10-27T13:16:09",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:xmldom_project:xmldom:0.8.0:-:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 301097,
+    "name": "keepalived",
+    "version": "1.1.7",
+    "created_at": "2019-07-23T11:52:19",
+    "updated_at": "2019-07-23T11:52:19",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:keepalived:keepalived:1.1.7:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 575011,
+    "name": "r6350_firmware",
+    "version": "v1.0.9.6_1.2.19",
+    "created_at": "2020-07-24T15:06:40",
+    "updated_at": "2020-07-24T15:06:40",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:netgear:r6350_firmware:v1.0.9.6_1.2.19:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

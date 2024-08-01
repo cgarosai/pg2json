@@ -1,0 +1,10 @@
+{
+    "id": 506294,
+    "name": "jasypt",
+    "version": "1.9.2",
+    "created_at": "2020-03-02T14:36:14",
+    "updated_at": "2020-03-02T14:36:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:jasypt_project:jasypt:1.9.2:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

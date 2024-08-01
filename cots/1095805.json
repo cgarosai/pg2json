@@ -1,0 +1,10 @@
+{
+    "id": 1095805,
+    "name": "tgstation-server",
+    "version": "5.2.0",
+    "created_at": "2023-06-05T11:43:59",
+    "updated_at": "2023-06-05T16:47:53",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:tgstation13:tgstation-server:5.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

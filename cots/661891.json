@@ -1,0 +1,10 @@
+{
+    "id": 661891,
+    "name": "aws_shared_configuration_file_loader",
+    "version": "1.0.0",
+    "created_at": "2021-03-04T14:22:19",
+    "updated_at": "2021-03-04T14:31:00",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:amazon:aws_shared_configuration_file_loader:1.0.0:alpha11:*:*:*:node.js:*:*",
+    "to_analyse": false
+}

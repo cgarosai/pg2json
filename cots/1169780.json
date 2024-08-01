@@ -1,0 +1,10 @@
+{
+    "id": 1169780,
+    "name": "n301_firmware",
+    "version": "12.03.01.06_pt",
+    "created_at": "2023-09-29T01:57:47",
+    "updated_at": "2023-09-29T01:57:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:tenda:n301_firmware:12.03.01.06_pt:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 757096,
+    "name": "ganeti",
+    "version": "2.14.0",
+    "created_at": "2021-08-02T16:30:47",
+    "updated_at": "2021-09-08T15:06:14",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:spi-inc:ganeti:2.14.0:rc1:*:*:*:*:*:*",
+    "to_analyse": false
+}

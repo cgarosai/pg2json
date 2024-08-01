@@ -1,0 +1,10 @@
+{
+    "id": 980462,
+    "name": "http2",
+    "version": "0.2.0",
+    "created_at": "2022-12-12T15:42:13",
+    "updated_at": "2022-12-19T16:42:47",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:golang:http2:0.2.0:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 1192932,
+    "name": "openvino_model_server",
+    "version": "2019.1",
+    "created_at": "2023-11-21T14:52:28",
+    "updated_at": "2023-11-21T14:52:28",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:openvino_model_server:2019.1:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

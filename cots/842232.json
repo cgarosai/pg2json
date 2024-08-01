@@ -1,0 +1,10 @@
+{
+    "id": 842232,
+    "name": "interactive_graphical_scada_system_data_collector_firmware",
+    "version": "15.0.0.21320",
+    "created_at": "2022-02-15T18:01:12",
+    "updated_at": "2022-02-15T18:03:02",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:o:schneider-electric:interactive_graphical_scada_system_data_collector_firmware:15.0.0.21320:*:*:*:*:*:*:*",
+    "to_analyse": false
+}

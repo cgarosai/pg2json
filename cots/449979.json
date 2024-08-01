@@ -1,0 +1,10 @@
+{
+    "id": 449979,
+    "name": "graphics_driver",
+    "version": "15.45.27.5068",
+    "created_at": "2019-12-02T17:02:13",
+    "updated_at": "2019-12-02T17:02:13",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:intel:graphics_driver:15.45.27.5068:*:*:*:*:windows:*:*",
+    "to_analyse": false
+}

@@ -1,0 +1,10 @@
+{
+    "id": 373009,
+    "name": "buttle",
+    "version": "0.0.8",
+    "created_at": "2019-09-23T10:56:23",
+    "updated_at": "2019-09-23T10:56:23",
+    "obsolete_at": null,
+    "cpe": "cpe:2.3:a:buttle_project:buttle:0.0.8:*:*:*:*:node.js:*:*",
+    "to_analyse": false
+}
